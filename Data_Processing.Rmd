@@ -9,22 +9,148 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
-
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
+Load or install packages
+```{r warning=FALSE}
+library(readtext)
+library(sylcount)
+library(stringr)
+library(tm)
+library(NLP)
 ```
 
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
+Set working directory
+```{r}
+setwd("~/Thesis")
 ```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+## Data Processing
+This R Markdown contains the steps to load in the data and applying pre-processing steps, which are required for text analysis
+
+# Loading in Data
+For every ESG regulation, the text is loaded in from a .txt file. Subsequently, every regulation is stored as a string value in one cell. Every uploaded document will get an ID, which is used to link the raw text with meta data. First, text is converted to a character string.  
+```{r}
+setwd("~/Thesis/Raw_Data_Text")
+ID01 <- readtext::readtext("ID01.txt", encoding = "UTF-8")
+vectorD1 <- ID01[ , "text"]
+```
+
+A separate document with ESG key topics is loaded in
+```{r}
+
+```
+
+The meta data is also loaded in. 
+```{r}
+
+```
+
+# Merging Data
+Mandatory E regulations are merged if they come from the same sources and apply to the same region. 
+```{r}
+
+```
+
+# Descriptive analysis
+
+## Preliminary cleaning
+Preliminary cleaning: Remove double white spaces, double quotes and line break (/n) expressions. This is recommended for the quantity and readability analysis in order to work properly. 
+```{r}
+## ----- General cleaning that is used for all analysis -----
+
+# Remove line break expressions: 
+vectorD1 <- gsub("\r?\n|\r"," ", vectorD1)
+# Remove double quotation marks, comma's, parentheses, special characters and bullet points
+vectorD1 <- gsub('[“”"(),•%$€@/#]', '', vectorD1)
+vectorD1 <- gsub("\\[|\\]","",vectorD1)
+# Replace : or ; with period(.)
+vectorD1 <- gsub('[:;]', '.', vectorD1)
+# Remove period(.) if it's in between 2 numbers
+vectorD1 <- gsub("[0-9].[0-9]","",vectorD1)
+# Remove numbers
+vectorD1 <- gsub('[0-9]+', '', vectorD1)
+
+# Remove web addresses
+vectorD1 <- gsub('http|www\\S+\\s*',"", vectorD1)
+vectorD1 <- gsub(".//","",vectorD1)
+
+# Remove double white spaces
+vectorD1 <- gsub("\\s+", " ", vectorD1)
+vectorD1 <- str_squish(vectorD1)
+vectorD1 <- gsub("\\s\\.", "\\.", vectorD1)
+
+# Replace consecutive dots by 1 single dot
+vectorD1 <- gsub("\\.+",".",vectorD1)
+
+## ----- Special cleaning that is only used for the readability formulas -----
+
+# Remove single quotation marks because it reduces quality of readability analysis. But it should be kept for lemmatization, so not included in general analysis
+vectorD1_Q <- gsub('[\'’]', '', vectorD1)
+
+```
+
+## Exploratory analysis - Quantity
+Before further processing steps, the data is analyzed on quantity. This includes calculating the number of words, sentences, characters and syllables for every document. 
+```{r}
+D1_Q <- doc_counts(vectorD1_Q) 
+D1_Q
+```
+
+## Exploratory analysis - Readability formulas
+Another exploratory analysis, before further processing, is measuring the readability of the texts
+```{r}
+D1_Q <- readability(vectorD1_Q) 
+D1_Q
+``` 
+# Remove remaining punctuation marks, separators, and symbols; and make text lowercase. 
+Remove remaining punctuation marks and make text lowercase. But preserve intra word contractions and intra word dashes (is used for lemmatization)
+```{r}
+vectorD1 <- removePunctuation(vectorD1,
+                              preserve_intra_word_contractions = TRUE,
+                              preserve_intra_word_dashes = TRUE,
+                              ucp = FALSE)
+vectorD1 <- tolower(vectorD1)
+```
+
+# Tokenizing and lemmatization
+Use udpipe library
+```{r}
+
+```
+
+# Remove stopwords (and maybe some other POS)
+```{r}
+
+```
+
+# Merge tokens if they are a multi-word expression, based on statistical collocations or if they appear in ESG key word list.
+```{r}
+
+```
+
+# Transforming text strings into vectors
+```{r}
+
+```
+
+# Adding weights (TF-IDF)
+```{r}
+
+```
+
+# Calculate the adjacency matrix with cosine similarity
+```{r}
+
+```
+
+# Store the processed data
+```{r}
+# Count data and readability data
+
+# Adjacency matrix
+
+# Word-frequency table
+
+# Meta data
+```
+
+

@@ -1,0 +1,786 @@
+Corporate Governance Principles and Recommendations
+3rd Edition
+ASX Corporate Governance Council
+ASX Corporate Governance Council
+Disclaimer
+Although Council members and their related bodies corporate (“Council”) have made every effort to ensure the accuracy of the information as at the date of publication, the Council does not give any warranty or representation as to the accuracy, reliability or completeness of the information. To the extent permitted by law, the Council and their respective employees, officers and contractors shall not be liable for any loss or damage arising in any way, including by way of negligence, from or in connection with any information provided or omitted or from any one acting or refraining to act in reliance on this information.
+© Copyright 2014 ASX Corporate Governance Council.
+Actuaries Institute ACN 000 423 656, Association of Superannuation Funds of Australia, ACN 002 786 290, Australian Council of Superannuation Investors, Australian Financial Markets Association ACN 119 827 904, Australian Institute of Company Directors ACN 008 484 197, Australian Institute of Superannuation Trustees ACN 123 284 275, Australasian Investor Relations Association ACN 095 554 153, Australian Shareholders’ Association ACN 000 625 669, ASX ABN 98 008 624 691, Business Council of Australia ACN 008 483 216, CPA Australia ACN 008 392 452, Financial Services Council ACN 080 744 163, Financial Services Institute of Australasia ACN 066 027 389, Governance Institute of Australia ACN 008 615 950, Group of 100, Institute of Public Accountants ACN 004 130 643, The Institute of Chartered Accountants in Australia ARBN 084 642 571, The Institute of Internal Auditors - Australia ACN 001 797 557, Law Council of Australia ACN 005 260 622, Property Council of Australia ACN 008 474 422, Stockbrokers Association of Australia ACN 089 767 706. All rights reserved 2014.
+1
+Contents
+Foreword 2
+About the Council 2
+What is “corporate governance”? 3
+The purpose of the Principles and Recommendations 3
+The basis of the Principles and Recommendations –
+the ‘if not, why not’ approach 3
+The application of the Principles and Recommendations 4
+The structure of the Principles and Recommendations 4
+The linkage with ASX’s Listing Rules 5
+Where to make corporate governance disclosures 6
+Disclosing the fact that a recommendation is followed 6
+Disclosing the reasons for not following a recommendation 7
+Effective date 7
+Acknowledgments 7
+Principle 1: Lay solid foundations for management and oversight 8
+Principle 2: Structure the board to add value 14
+Principle 3: Act ethically and responsibly 19
+Principle 4: Safeguard integrity in corporate reporting 21
+Principle 5: Make timely and balanced disclosure 24
+Principle 6: Respect the rights of security holders 25
+Principle 7: Recognise and manage risk 28
+Principle 8: Remunerate fairly and responsibly 31
+The application of the recommendations to externally
+managed listed entities 35
+Glossary 37
+2
+Foreword
+About the Council
+The ASX Corporate Governance Council Principles and Recommendations (“Principles and Recommendations”) were introduced in 2003. A substantially re-written second edition was released in 2007 and new recommendations on diversity and the composition of the remuneration committee were added in 2010.
+Since the release of the second edition in 2007, there has been considerable focus across the world on corporate governance practices in light of the events leading up to, and during, the Global Financial Crisis. In response, a number of jurisdictions have adopted new legislation regulating corporate behaviour and/or upgraded their corporate governance codes.
+Following a comprehensive review in 2012-13, the 21 members of the ASX Corporate Governance Council (“Council”) agreed that it was an appropriate time to issue a third edition of the Principles and Recommendations. The changes in the third edition reflect global developments in corporate governance since the second edition was published. The opportunity has also been taken to simplify the structure of the Principles and Recommendations and to afford greater flexibility to listed entities in terms of where they make their governance disclosures.
+Alan Cameron AO
+Chair, ASX Corporate Governance Council
+27 March 2014
+The Council was convened in August 2002. It brings together various business, shareholder and industry groups, each offering valuable insights and expertise on governance issues from the perspective of their particular stakeholders. Its primary work has been the development of the Principles and Recommendations.
+The members of the Council are:
+Actuaries Institute
+Association of Superannuation Funds
+of Australia
+ASX
+Australasian Investor Relations Association
+Australian Council of Superannuation Investors
+Australian Financial Markets Association
+Australian Institute of Company Directors
+Australian Institute of Superannuation Trustees
+Australian Shareholders’ Association
+Business Council of Australia
+CPA Australia
+Financial Services Council
+Financial Services Institute of Australasia
+Governance Institute of Australia
+Group of 100
+Institute of Chartered Accountants Australia
+Institute of Internal Auditors - Australia
+Institute of Public Accountants
+Law Council of Australia
+Property Council of Australia
+Stockbrokers Association of Australia
+Further information about the Council, including a copy of its charter, is available at:
+http://www.asx.com.au/regulation/corporate-governance-council.htm
+The purpose of the Principles and Recommendations
+The basis of the Principles and Recommendations –
+the “if not, why not” approach
+These Principles and Recommendations set out recommended corporate governance practices for entities listed on the ASX that, in the Council’s view, are likely to achieve good governance outcomes and meet the reasonable expectations of most investors in most situations.
+The Council recognises, however, that different entities may legitimately adopt different governance practices, based on a range of factors, including their size, complexity, history and corporate culture. For that reason, the Principles and Recommendations are not mandatory and do not seek to prescribe the corporate governance practices that a listed entity must adopt.
+Which governance practices a listed entity chooses to adopt is fundamentally a matter for its board of directors, the body charged with the legal responsibility for managing its business with due care and diligence2 and therefore for ensuring that it has appropriate governance arrangements in place.
+Under the Principles and Recommendations, if the board of a listed entity considers that a Council recommendation is not appropriate to its particular circumstances, it is entitled not to adopt it. If it does so, however, it must explain why it has not adopted the recommendation – the “if not, why not” approach.
+Requiring this explanation ensures that the market receives an appropriate level of information about the entity’s governance arrangements so that:
+• security holders and other stakeholders in the investment community can have a meaningful dialogue with the board and management on governance matters;
+• security holders can factor that information into their decision on how to vote on particular resolutions; and
+• investors can factor that information into their decision on whether or not to invest in the entity’s securities.
+The “if not, why not” approach is fundamental to the operation of the Principles and Recommendations.
+3
+What is “corporate governance”?
+The phrase “corporate governance” describes “the framework of rules, relationships, systems and processes within and by which authority is exercised and controlled within corporations. It encompasses the mechanisms by which companies, and those in control, are held to account.”1
+Good corporate governance promotes investor confidence, which is crucial to the ability of entities listed on the ASX to compete for capital.
+1 Justice Owen in the HIH Royal Commission, The Failure of HIH Insurance Volume 1: A Corporate Collapse and Its Lessons, Commonwealth of Australia, April 2003 at page xxxiv.
+2 Sections 180 (in the case of a listed company) and 601FD(1)(b) (in the case of a listed trust) of the Corporations Act.
+4
+The application of the Principles and Recommendations
+The structure of the Principles and Recommendations
+The Principles and Recommendations apply to all ASX listed entities, regardless of the legal form they take,3 whether they are established in Australia or elsewhere, and whether they are internally or externally managed.
+Some recommendations require modification when applied to externally managed listed entities. There is a separate section immediately after the recommendations below explaining how externally managed listed entities should apply and make disclosures against the recommendations.
+The Principles and Recommendations are specifically directed at, and only intended to apply to, ASX listed entities. However, as they reflect a contemporary view of appropriate corporate governance standards, other bodies may find them helpful in formulating their governance rules or practices.
+The Principles and Recommendations are structured around, and seek to promote, 8 central principles:
+1. Lay solid foundations for management and oversight: A listed entity should establish and disclose the respective roles and responsibilities of its board and management and how their performance is monitored and evaluated.
+2. Structure the board to add value: A listed entity should have a board of an appropriate size, composition, skills and commitment to enable it to discharge its duties effectively.
+3. Act ethically and responsibly: A listed entity should act ethically and responsibly.
+4. Safeguard integrity in corporate reporting: A listed entity should have formal and rigorous processes that independently verify and safeguard the integrity of its corporate reporting.
+5. Make timely and balanced disclosure: A listed entity should make timely and balanced disclosure of all matters concerning it that a reasonable person would expect to have a material effect on the price or value of its securities.
+6. Respect the rights of security holders: A listed entity should respect the rights of its security holders by providing them with appropriate information and facilities to allow them to exercise those rights effectively.
+7. Recognise and manage risk: A listed entity should establish a sound risk management framework and periodically review the effectiveness of that framework.
+8. Remunerate fairly and responsibly: A listed entity should pay director remuneration sufficient to attract and retain high quality directors and design its executive remuneration to attract, retain and motivate high quality senior executives and to align their interests with the creation of value for security holders.
+There are 29 specific recommendations intended to give effect to these general principles, as well as explanatory commentary in relation to both the principles and the recommendations. There is also a glossary at the end which explains the meaning of a number of the key terms used throughout this document, including “executive director”, “non-executive director”, “senior executive” and “substantial security holder”.
+3 That is, whether they are a listed company, listed managed investment scheme (trust) or listed stapled entity.
+5
+The linkage with ASX’s Listing Rules
+Each ASX listed entity is required under Listing Rule 4.10.3 to include in its annual report either a corporate governance statement4 that meets the requirements of that rule, or the URL of the page on its website where such a statement is located.5
+The corporate governance statement must disclose the extent to which the entity has followed the recommendations set by the Council during the reporting period. If the entity has not followed a recommendation for any part of the reporting period, its corporate governance statement must separately identify that recommendation and the period during which it was not followed and state its reasons for not following the recommendation and what (if any) alternative governance practices it adopted in lieu of the recommendation during that period.
+By requiring listed entities to compare their corporate governance practices with the Council’s recommendations and, where they do not conform, to disclose that fact and the reasons why, Listing Rule 4.10.3 acts to encourage listed entities to adopt the governance practices suggested in the Council’s recommendations but does not force them to do so. It leaves a listed entity with the flexibility to adopt alternative governance practices, if its board considers those to be more suitable to its particular circumstances, subject to the requirement for the board to explain its reasons for adopting those alternative practices instead of the Council’s recommendations.
+It is this rule which encapsulates the “if not, why not” requirement underpinning the operation of the Principles and Recommendations and which serves to ensure that the market receives an appropriate level of disclosure about the governance practices an entity has adopted.
+An entity’s corporate governance statement must specify the date at which it is current, which must be the entity’s balance date or a later date specified by the entity and state that it has been approved by the board of the entity. 6
+Each ASX listed entity must provide to ASX with its annual report a completed Appendix 4G, which has a key to where the various disclosures suggested in the recommendations or required under Listing Rule 4.10.3 can be found.7
+If an entity’s corporate governance statement is not included in its annual report, the entity must also give ASX a copy of its corporate governance statement at the same time as it gives its annual report to ASX. The corporate governance statement must be current as at the effective date specified in that statement for the purposes of Listing Rule 4.10.3.8
+Again, these requirements apply to all ASX listed entities regardless of the legal form they take, whether they are established in Australia or elsewhere, and whether they are internally or externally managed.
+The disclosures required under Listing Rule 4.10.3 and referenced in Appendix 4G relate specifically to the 29 recommendations in the Principles and Recommendations. The principles themselves, and the commentary about the principles and recommendations, do not form part of the recommendations and therefore do not trigger any disclosure obligations under the Listing Rules.
+4 “Corporate governance statement” is defined in Listing Rule 19.12 to mean the statement referred to in Listing Rule 4.10.3 which discloses the extent to which an entity has followed the recommendations set by the ASX Corporate Governance Council during a particular reporting period.
+5 Listing Rule 4.7.4 provides that if an entity’s corporate governance statement is not included in its annual report, the entity must also give ASX a copy of its corporate governance statement at the same time as it gives its annual report to ASX. The corporate governance statement must be current as at the effective date specified in that statement for the purposes of Listing Rule 4.10.3.
+6 Or, in the case of a trust, the board of the responsible entity of the trust.
+7 Listing Rule 4.7.3.
+8 Listing Rule 4.7.4.
+6
+Where to make corporate governance disclosures
+Disclosing the fact that a recommendation is followed
+Where these Principles and Recommendations refer to a listed entity disclosing information, it should be disclosed either in the entity’s annual report or on its website.
+The Council expects that many listed entities will take advantage of the opportunity to streamline their annual report afforded by this third edition by choosing to publish their governance disclosures, including their corporate governance statement under Listing Rule 4.10.3, on their website rather than in their annual report.9 If they do so, those disclosures should be clearly presented and centrally located on, or accessible from, a “corporate governance” landing page on its website. There should be an intuitive and easily located link to this landing page in the navigation menu for the entity’s website (for example, under an “About Us”, “Investor Centre” or “Information for Shareholders/Unitholders” menu item).
+Where a listed entity chooses to include its corporate governance statement in its annual report rather than on its website, the Council recommends that the corporate governance statement and any related corporate governance disclosures appear in a clearly delineated “corporate governance” section of the annual report.
+It is acceptable for an entity’s corporate governance statement to incorporate material by reference (for example, on another part of the entity’s website or in another part of its annual report) provided that material is freely available and the statement clearly indicates where interested parties can read or obtain a copy of that material (for example, the URL of the relevant web page or the relevant page or section of the annual report).
+The Council encourages listed entities not to take a pedantic or legalistic approach to their corporate governance disclosures, be it in their corporate governance statement under Listing Rule 4.10.3 or in their various disclosures under these Principles and Recommendations, but rather to give a holistic and informative explanation of their corporate governance framework.
+Where a listed entity follows a recommendation, rather than simply state that fact, it should explain what policies and practices it has in place in that regard and, where applicable, point readers to where they can find further information about those policies and practices. For example, readers are likely to find a statement that:
+The board has established an audit committee. It has 3 members, all of whom are non-executive directors. A majority of the committee members are independent directors. The committee is also chaired by an independent chair, who is not chair of the board. A copy of the charter of the audit committee is available on the corporate governance page on the company’s website at [insert URL]. Information about the members of the audit committee, their relevant qualifications and experience, the number of times the committee met throughout the most recent reporting period and the individual attendances of members at those meetings is also set out on the corporate governance page on the company’s website.
+to be more engaging and illuminating than:
+The entity complies with recommendation 4.1 of the ASX Corporate Governance Council Principles and Recommendations.
+Listed entities should view their corporate governance statement not as a compliance document but rather as an opportunity to demonstrate that their board and management are alive to the importance of having proper and effective corporate governance arrangements and to communicate to security holders and the broader investment community the robustness of their particular approach to corporate governance.
+9 As noted previously, if a listed entity includes its corporate governance statement on its website, the Listing Rules require its annual report to mention the URL where the statement can be found.
+7
+Disclosing the reasons for not following a recommendation
+Effective date
+Acknowledgments
+An “if not, why not” statement an entity includes in its corporate governance statement explaining its reasons for not following a recommendation should:
+• be reasonably detailed and informative so that the market understands why it is that the entity has chosen not to follow that recommendation; and
+• disclose what, if any, alternative corporate governance practices the entity may have adopted in lieu of those in the recommendation, and explain why those practices are considered more appropriate for the entity than the ones in the recommendation.
+Security holders are unlikely to find brief statements – such as “the recommendation is not considered appropriate, given the entity’s size and circumstances” or, in the case of those recommendations suggesting that an entity has an audit, risk, nomination or remuneration committee, that “the board as a whole performs the role that such a committee would ordinarily undertake” – to be particularly helpful in understanding why an entity has chosen not to follow a particular recommendation or what alternative corporate governance arrangements the entity may have instituted to address the underlying principle to which that recommendation is directed.
+This edition of the Principles and Recommendations takes effect for an entity’s first full financial year commencing on or after 1 July 2014. Accordingly, entities with a 30 June balance date will be expected to measure their governance practices against the recommendations in the third edition commencing with the financial year ended 30 June 2015. Entities with a 31 December balance date will be expected to measure their governance practices against the recommendations in the third edition commencing with the financial year ended 31 December 2015.
+The Council would encourage listed entities to adopt the third edition earlier, if they wish.
+The Principles and Recommendations have benefited from the invaluable contributions made by a number of industry associations, corporate governance experts, listed entities and other stakeholders. The Council is most grateful for their input.
+8
+Principle 1:
+Lay solid foundations for management and oversight
+A listed entity should establish and disclose the respective roles and responsibilities of its board and management and how their performance is monitored and evaluated.
+Recommendation 1.1
+A listed entity should disclose:
+(a) the respective roles and responsibilities of its board and management; and
+(b) those matters expressly reserved to the board and those delegated to management.
+Commentary
+Clearly articulating the division of responsibilities between the board and management will help manage expectations and avoid misunderstandings about their respective roles and accountabilities.
+Usually the board of a listed entity will be responsible for:
+• providing leadership and setting the strategic objectives of the entity;
+• appointing the chair and, if the entity has one, the deputy chair and/or the “senior independent director”;
+• appointing, and when necessary replacing, the CEO;
+• approving the appointment, and when necessary replacement, of other senior executives;
+• overseeing management’s implementation of the entity’s strategic objectives and its performance generally;
+• approving operating budgets and major capital expenditure;
+• overseeing the integrity of the entity’s accounting and corporate reporting systems, including the external audit;
+• overseeing the entity’s process for making timely and balanced disclosure of all material information concerning the entity that a reasonable person would expect to have a material effect on the price or value of the entity’s securities;
+• ensuring that the entity has in place an appropriate risk management framework and setting the risk appetite within which the board expects management to operate;
+• approving the entity’s remuneration framework; and
+• monitoring the effectiveness of the entity’s governance practices.10
+Management will usually be responsible for implementing the strategic objectives and operating within the risk appetite set by the board and for all other aspects of the day-to-day running of the entity. It is also responsible for providing the board with accurate, timely and clear information to enable the board to perform its responsibilities.
+The role and responsibility of the board could be set out in a board charter or in some other document published on the entity’s website or in its annual report. That document could usefully set out the role and responsibility of the chair of the board and, if the listed entity has one, the role and responsibility of the deputy chair and/or the “senior independent director”. It could also usefully set out the entity’s policy on when and how directors may seek independent professional advice at the expense of the entity (which generally should be whenever directors, especially non-executive directors, judge such advice necessary for them to discharge their responsibilities as directors).
+10 Some of these matters may be delegated to a committee of the board, with the board retaining the ultimate oversight and decision-making power in respect of the matters so delegated.
+9
+The nature of matters reserved to the board and those delegated to management will depend on the size, complexity and ownership structure of the entity, and will be influenced by its history and corporate culture, and by the respective skills of directors and management. These may vary over time as the entity evolves. The board should regularly review the division of functions between the board and management to ensure that it continues to be appropriate to the needs of the entity.
+Recommendation 1.2
+A listed entity should:
+(a) undertake appropriate checks before appointing a person, or putting forward to security holders a candidate for election, as a director; and
+(b) provide security holders with all material information in its possession relevant to a decision on whether or not to elect or re-elect a director.
+Commentary
+A listed entity should ensure that appropriate checks are undertaken before it appoints a person, or puts forward to security holders a new candidate for election, as a director. These should include checks as to the person’s character, experience, education, criminal record and bankruptcy history.11
+The following information about a candidate standing for election or re-election as a director should be provided to security holders to enable them to make an informed decision on whether or not to elect or re-elect the candidate:
+• biographical details, including their relevant qualifications and experience and the skills they bring to the board;
+• details of any other material directorships currently held by the candidate;
+• in the case of a candidate standing for election as a director for the first time:
+• any material adverse information revealed by the checks the entity has performed about the director;
+• details of any interest, position, association or relationship that might influence, or reasonably be perceived to influence, in a material respect his or her capacity to bring an independent judgement to bear on issues before the board and to act in the best interests of the entity and its security holders generally; and
+• if the board considers that the candidate will, if elected, qualify as an independent director, a statement to that effect;
+• in the case of a candidate standing for re-election as a director:
+• the term of office currently served by the director; and
+• if the board considers the director to be an independent director, a statement to that effect; and
+• a statement by the board as to whether it supports the election or re-election of the candidate.
+A candidate for appointment or election as a non-executive director12 should provide the board or nomination committee with the information above and a consent for the listed entity to conduct any background or other checks the entity would ordinarily conduct. The candidate should also provide details of his or her other commitments and an indication of time involved, and should specifically acknowledge to the listed entity that he or she will have sufficient time to fulfil his or her responsibilities as a director.
+11 Listed entities may find the guidance in Australian Standard AS 4811-2006 Employment screening helpful in understanding the types of checks that may be undertaken and how best to undertake them.
+12 This applies regardless of who nominates the candidate for appointment or election as a director, including where the candidate nominates himself or herself or is put forward by a security holder or holders (for example, under section 249D, 249F, 252B or 252D of the Corporations Act).
+10
+Recommendation 1.3
+A listed entity should have a written agreement with each director and senior executive setting out the terms of their appointment.
+Commentary
+The directors and senior executives of a listed entity should have a clear understanding of their roles and responsibilities and of the entity’s expectations of them and this should be reduced to a written agreement. Usually this agreement will take the form of a letter of appointment in the case of a non-executive director and a service contract in the case of an executive director or other senior executive.
+In the case of a non-executive director, the agreement should generally set out:
+• the term of appointment;
+• the time commitment envisaged, including any expectations regarding involvement with committee work and any other special duties attaching to the position;
+• remuneration, including superannuation entitlements;
+• the requirement to disclose directors’ interests and any matters which may affect the director’s independence;
+• the requirement to comply with key corporate policies, including the entity’s code of conduct and its trading policy;13
+• the entity’s policy on when directors may seek independent professional advice at the expense of the entity (which generally should be whenever directors, especially non-executive directors, judge such advice necessary for them to discharge their responsibilities as directors);
+• the circumstances in which the director’s office becomes vacant;
+• indemnity and insurance arrangements;
+• ongoing rights of access to corporate information; and
+• ongoing confidentiality obligations.
+In the case of an executive director or other senior executive, the agreement should generally set out the information above (to the extent applicable), as well as:
+• a description of their position, duties and responsibilities;
+• the person or body to whom they report;
+• the circumstances in which their service may be terminated (with or without notice); and
+• any entitlements on termination.
+It should be noted that a listed entity is required under the Listing Rules to disclose the material terms of any employment, service or consultancy agreement it or a child entity enters into with its CEO (or equivalent), any of its directors, and any other person or entity who is a related party of its CEO or any of its directors. It is also required to disclose any material variation to such an agreement.14
+Recommendation 1.4
+The company secretary of a listed entity should be accountable directly to the board, through the chair, on all matters to do with the proper functioning of the board.
+Commentary
+The company secretary of a listed entity plays an important role in supporting the effectiveness of the board and its committees. The role of the company secretary should include:
+• advising the board and its committees on governance matters;
+• monitoring that board and committee policy and procedures are followed;
+• coordinating the timely completion and despatch of board and committee papers;
+• ensuring that the business at board and committee meetings is accurately captured in the minutes; and
+13 Listing Rule 12.9 requires a listed entity to have a trading policy covering its directors and other key management personnel and regulating trading in its securities during certain “prohibited periods”.
+14 Listing Rule 3.16.4. Note that there are a number of exceptions to the matters required to be disclosed under that rule.
+11
+• helping to organise and facilitate the induction and professional development of directors.
+Each director should be able to communicate directly with the company secretary and vice versa.
+The decision to appoint or remove a company secretary should be made or approved by the board.15
+Recommendation 1.5
+A listed entity should:
+(a) have a diversity policy which includes requirements for the board or a relevant committee of the board to set measurable objectives for achieving gender diversity and to assess annually both the objectives and the entity’s progress in achieving them;
+(b) disclose that policy or a summary of it; and
+(c) disclose as at the end of each reporting period the measurable objectives for achieving gender diversity set by the board or a relevant committee of the board in accordance with the entity’s diversity policy and its progress towards achieving them, and either:
+(1) the respective proportions of men and women on the board, in senior executive positions and across the whole organisation (including how the entity has defined “senior executive” for these purposes); or
+(2) if the entity is a “relevant employer” under the Workplace Gender Equality Act, the entity’s most recent “Gender Equality Indicators”, as defined in and published under that Act.16
+Commentary
+Research has shown that increased gender diversity on boards is associated with better financial performance.17 The promotion of gender diversity can broaden the pool for recruitment of high quality employees, enhance employee retention, foster a closer connection with and better understanding of customers, and improve corporate image and reputation.
+The measurable objectives the board sets in furtherance of its diversity policy should include appropriate and meaningful benchmarks that are able to be, and are, measured and monitored for effectiveness in addressing any gender imbalance issues in an organisation. These could involve, for example:
+• achieving specific numerical targets (eg, a target percentage) for the proportion of women employed by the organisation generally, in senior executive roles and on the board within a specified timeframe; or
+• achieving specific targets for the “Gender Equality Indicators” in the Workplace Gender Equality Act.
+Objectives such as introducing a diversity policy or establishing a diversity council by themselves are unlikely to be effective unless they are backed up with appropriate numerical targets.
+15 Listed companies established in Australia should note section 204D of the Corporations Act, which requires the appointment of a company secretary to be formally resolved, rather than simply approved, by the board.
+16 The Workplace Gender Equality Act applies to non-public sector employers with 100 or more employees in Australia. The Act requires such employers to make annual filings with the Workplace Gender Equality Agency (WGEA) disclosing their “Gender Equality Indicators”. These reports are filed annually in respect of the 12 month period ending 31 March.
+For an entity which chooses to follow recommendation 1.5(c)(2), publishing the URL of the webpage on the WGEA website where its latest “Gender Equality Indicators” are available will be taken to meet this recommendation.
+The Council notes that “Gender Equality Indicators” apply to individual employing entities and are not published on a consolidated basis across groups of entities. They also do not apply to employing entities with less than 100 employees in Australia, nor to employees overseas. As a practical matter, therefore, it may well be that many entities are not able to report meaningfully under recommendation 1.5(c)(2) and should therefore report under recommendation 1.5(c)(1).
+For fur
+ther information about the Workplace Gender Equality Act, see the WGEA website: http://www.wgea.gov.au/
+17 See Reibey Institute, ASX 500 – Women Leaders Research Note (June 2011), available online at http://www.reibeyinstitute.org.au/wp-content/uploads/2011/10/ASX500_Women-Leaders-2011.pdf, and Catalyst, The Bottom Line: Corporate Performance and Women’s Representation on Boards (October 2011), available online at www.catalyst.org.
+12
+Reporting annually on an entity’s gender diversity profile and on its progress in achieving its gender diversity objectives is important. It encourages greater transparency and accountability and, because of that, is likely to improve the effectiveness of the entity’s diversity policy in achieving the outcomes the board has set.
+A listed entity should tailor its gender diversity reporting to reflect its own circumstances and to achieve an accurate and not misleading impression of the relative participation of women and men in the workplace and the roles in which they are employed. In particular, when reporting the proportion of women in senior executive positions under recommendation 1.5(c)(1), listed entities should clearly define how they are using the term “senior executive”. This could be done, for example, by reference to their relativity in terms of reporting hierarchy to the CEO (eg, CEO, CEO - 1, CEO - 2 etc)18 or by describing the roles that term covers (eg, leadership, management or professional speciality). Another alternative might be to show the relative participation of men and women at different remuneration bands.
+The Council would urge larger listed entities with significant numbers of employees to show leadership on gender diversity issues and to provide more granular disclosures of the relative participation of women and men in senior executive roles than the base levels set out in this recommendation. This includes:
+• where they define “senior executive” for the purposes of recommendation 1.5(c)(1) to include more than one level within the organisation (eg, CEO, CEO - 1, CEO - 2 etc), reporting the numbers of women at each level rather than, or as well as, cumulatively across all levels; and
+• reporting the relative participation of women and men in management roles immediately below senior executive (eg, down to CEO - 3 and CEO - 4).19
+Each of these measures will allow readers to gain a better understanding of the progress of women in the organisation through the different levels of management and of the “pipeline” of candidates potentially available for higher management roles.
+The Council would also encourage listed entities to benchmark their position on diversity and to undertake gender pay equity audits to gain an insight into the effectiveness of their diversity policies.
+The board may charge an appropriate board committee (such as the nomination or remuneration committee) with the task of setting the entity’s measurable objectives for achieving gender diversity and annually reviewing those objectives and the entity’s progress towards achieving them. If it does, this should be reflected in the charter of the committee in question.
+If the board of a listed entity decides to alter its measurable gender diversity objectives, it should explain that fact in its gender diversity report and clearly indicate which set of objectives it is reporting against.
+It should be noted that while the focus of this recommendation is on gender diversity, diversity has a much broader dimension and includes matters of age, disability, ethnicity, marital or family status, religious or cultural background, sexual orientation and gender identity. To garner the full benefits of diversity, an entity should ensure that its recruitment and selection practices at all levels (from the board downwards) are appropriately structured so that a diverse range of candidates are considered and that there are no conscious or unconscious biases that might discriminate against certain candidates.
+A listed entity may find the suggestions in Box 1.5 helpful when formulating its diversity policy.
+18 CEO – 1 refers to the layer of senior executives reporting directly to the CEO, CEO – 2 the next layer of management reporting to those senior executives, and so on.
+19 Listed entities interested in understanding leading practice in diversity reporting should refer to the release entitled Male Champions of Change Raise the Bar on Gender Reporting available online at https://www.humanrights.gov.au/male-champions-change-raise-bar-gender-reporting.
+13
+Recommendation 1.6:
+A listed entity should:
+(a) have and disclose a process for periodically evaluating the performance of the board, its committees and individual directors; and
+(b) disclose, in relation to each reporting period, whether a performance evaluation was undertaken in the reporting period in accordance with that process.
+Commentary
+The board performs a pivotal role in the governance framework of a listed entity. It is essential that the board has in place a formal and rigorous process for regularly reviewing the performance of the board, its committees and individual directors and addressing any issues that may emerge from that review.
+The board should consider periodically using external facilitators to conduct its performance reviews.
+A suitable non-executive director (such as the deputy chair or the senior independent director, if the entity has one), should be responsible for the performance evaluation of the chair, after having canvassed the views of the other directors.
+When disclosing whether a performance evaluation has been undertaken the entity should, where appropriate, also disclose any insights it has gained from the evaluation and any governance changes it has made as a result.20
+20 See the joint publication by Chartered Secretaries Australia (now Governance Institute of Australia) and Boardroom Partners entitled Anything to declare? A report examining disclosures about board reviews available online at:
+http://www.governanceinstitute.com.au/advocacy-research/survey-reports/board-reviews/.
+Box 1.5: Suggestions for the content of a diversity policy
+In addition to addressing the matters referred to in recommendation 1.5, a listed entity’s diversity policy could:
+1. Articulate the corporate benefits of diversity in a competitive labour market and the importance of being able to attract, retain and motivate employees from the widest possible pool of available talent.
+2. Express the organisation’s commitment to diversity at all levels.
+3. Recognise that diversity not only includes gender diversity but also includes matters of age, disability, ethnicity, marital or family status, religious or cultural background, sexual orientation and gender identity.
+4. Emphasise that in order to have a properly functioning diverse workplace, discrimination, harassment, vilification and victimisation cannot and will not be tolerated.
+5. Ensure that recruitment and selection practices at all levels (from the board downwards) are appropriately structured so that a diverse range of candidates are considered and that there are no conscious or unconscious biases that might discriminate against certain candidates.
+6. Identify and implement programs that will assist in the development of a broader and more diverse pool of skilled and experienced employees and that, over time, will prepare them for senior management and board positions.
+7. Recognise that employees (female and male) at all levels may have domestic responsibilities and adopt flexible work practices that will assist them to meet those responsibilities.
+8. Introduce key performance indicators for senior executives to measure the achievement of diversity objectives and link part of their remuneration (either directly or as part of a “balanced scorecard” approach) to the achievement of those objectives.
+14
+Recommendation 1.7
+A listed entity should:
+(a) have and disclose a process for periodically evaluating the performance of its senior executives; and
+(b) disclose, in relation to each reporting period, whether a performance evaluation was undertaken in the reporting period in accordance with that process.
+Commentary
+The performance of a listed entity’s senior management team will usually drive the performance of the entity. It is essential that a listed entity has in place a formal and rigorous process for regularly reviewing the performance of its senior executives and addressing any issues that may emerge from that review.
+Principle 2: Structure the board to add value
+A listed entity should have a board of an appropriate size, composition, skills and commitment to enable it to discharge its duties effectively.
+Commentary
+A high performing, effective board is essential for the proper governance of a listed entity. The board needs to have an appropriate number of independent non-executive directors who can challenge management and hold them to account, and also represent the best interests of the listed entity and its security holders as a whole rather than those of individual security holders or interest groups.
+The board should be of sufficient size so that the requirements of the business can be met and changes to the composition of the board and its committees can be managed without undue disruption. However, it should not be so large as to be unwieldy.
+Recommendation 2.1
+The board of a listed entity should:
+(a) have a nomination committee which:
+(1) has at least three members, a majority of whom are independent directors; and
+(2) is chaired by an independent director,
+and disclose:
+(3) the charter of the committee;
+(4) the members of the committee; and
+(5) as at the end of each reporting period, the number of times the committee met throughout the period and the individual attendances of the members at those meetings; or
+(b) if it does not have a nomination committee, disclose that fact and the processes it employs to address board succession issues and to ensure that the board has the appropriate balance of skills, knowledge, experience, independence and diversity to enable it to discharge its duties and responsibilities effectively.
+Commentary
+Board renewal is critical to performance. To promote investor confidence, there should be a formal, rigorous and transparent process for the appointment and reappointment of directors to the board.
+Having a separate nomination committee can be an efficient and effective mechanism to bring the transparency, focus and independent judgement needed on decisions regarding the composition of the board.
+15
+The role of the nomination committee is usually to review and make recommendations to the board in relation to:
+• board succession planning generally;
+• induction and continuing professional development programs for directors;
+• the development and implementation of a process for evaluating the performance of the board, its committees and directors;
+• the process for recruiting a new director, including evaluating the balance of skills, knowledge, experience, independence and diversity on the board and, in the light of this evaluation, preparing a description of the role and capabilities required for a particular appointment;
+• the appointment and re-election of directors; and
+• ensuring there are plans in place to manage the succession of the CEO and other senior executives.
+The nomination committee should have a charter that clearly sets out its role and confers on it all necessary powers to perform that role. This will usually include the right to seek advice from external consultants or specialists where the committee considers that necessary or appropriate.
+The nomination committee should be of sufficient size and independence to discharge its mandate effectively. Consideration should also be given to ensuring that it has an appropriate diversity of membership to avoid entrenching unconscious bias.
+The chair of the board may chair the nomination committee, however, a separate chair should be appointed if and when the nomination committee is dealing with the appointment of a successor to the chair.
+The boards of some listed entities may decide that they are able to deal efficiently and effectively with board composition and succession issues without establishing a separate nomination committee. If they do, the entity should disclose in its annual report or on its website the fact that it does not have a nomination committee and explain the processes it employs to address board succession issues and to ensure that the board has the appropriate balance of skills, knowledge, experience, independence and diversity to enable it to discharge its duties and responsibilities effectively.
+The board or the nomination committee should regularly review the time required from a non-executive director and whether directors are meeting that requirement.
+A non-executive director should inform the chair of the board and the chair of the nomination committee before accepting any new appointment as a director of another listed entity, any other material directorship or any other position with a significant time commitment attached.
+Recommendation 2.2
+A listed entity should have and disclose a board skills matrix setting out the mix of skills and diversity that the board currently has or is looking to achieve in its membership.
+Commentary
+Having a board “skills matrix” is a useful tool that can help identify any gaps in the collective skills of the board that should be addressed as part of a listed entity’s professional development initiatives for directors (see recommendation 2.6) and in its board succession planning.
+Disclosing the mix of skills and diversity that a board currently has or is looking to achieve in its membership is useful information for investors and increases the accountability of the board on such matters. The disclosure need only be made collectively across the board as a whole, without identifying the presence or absence of particular skills by a particular director. Commercially sensitive information can be excluded.
+16
+Recommendation 2.3
+A listed entity should disclose:
+(a) the names of the directors considered by the board to be independent directors;
+(b) if a director has an interest, position, association or relationship of the type described in Box 2.3 but the board is of the opinion that it does not compromise the independence of the director, the nature of the interest, position, association or relationship in question and an explanation of why the board is of that opinion; and
+(c) the length of service of each director.
+Commentary
+To describe a director as “independent” carries with it a particular connotation that the director is not allied with the interests of management, a substantial security holder or other relevant stakeholder and can and will bring an independent judgement to bear on issues before the board.
+It is an appellation that gives great comfort to security holders and not one that should be applied lightly.
+A director of a listed entity should only be characterised and described as an independent director if he or she is free of any interest, position, association or relationship that might influence, or reasonably be perceived to influence, in a material respect his or her capacity to bring an independent judgement to bear on issues before the board and to act in the best interests of the entity and its security holders generally.
+Box 2.3: Factors relevant to assessing the independence of a director
+Examples of interests, positions, associations and relationships that might cause doubts about the independence of a director include if the director:
+• is, or has been, employed in an executive capacity by the entity or any of its child entities and there has not been a period of at least three years between ceasing such employment and serving on the board;
+• is, or has within the last three years been, a partner, director or senior employee of a provider of material professional services to the entity or any of its child entities;
+• is, or has been within the last three years, in a material business relationship (eg as a supplier or customer) with the entity or any of its child entities, or an officer of, or otherwise associated with, someone with such a relationship;
+• is a substantial security holder of the entity or an officer of, or otherwise associated with, a substantial security holder of the entity;
+• has a material contractual relationship with the entity or its child entities other than as a director;
+• has close family ties with any person who falls within any of the categories described above; or
+• has been a director of the entity for such a period that his or her independence may have been compromised.
+In each case, the materiality of the interest, position, association or relationship needs to be assessed to determine whether it might interfere, or might reasonably be seen to interfere, with the director’s capacity to bring an independent judgement to bear on issues before the board and to act in the best interests of the entity and its security holders generally.
+17
+A candidate for election as a director of a listed entity should disclose to the entity all interests, positions, associations and relationships that may bear on his or her independence. Those matters in turn should be disclosed to security holders in the materials given to them in support of his or her election.
+If there is a change in a non-executive director’s interests, positions, associations or relationships that could bear upon his or her independence, the non-executive director should inform the board or the nomination committee at the earliest opportunity.
+The board or the nomination committee should regularly assess the independence of each non-executive director. That assessment should be made at least annually at or around the time that the board or the nomination committee considers candidates for election to the board. In the case of a change in a non-executive director’s interests, positions, associations or relationships, the assessment should be made as soon as practicable after the board or the nomination committee becomes aware of the change.
+If the board determines that a director’s status as an independent director has changed, that determination should be disclosed and explained in a timely manner to the market.
+In relation to the fourth example in Box 2.3 (being or being an associate of a substantial security holder), the holding of securities in the entity may help to align the interests of a director with those of other security holders, and such holdings are therefore not discouraged. The example simply reflects that a director holding or representing a substantial stake in the entity is likely to be seen as having a different interest to security holders with smaller stakes.
+In relation to the last example in Box 2.3 (length of service as a director), the Council recognises that the interests of a listed entity and its security holders are likely to be well served by having a mix of directors, some with a longer tenure with a deep understanding of the entity and its business and some with a shorter tenure with fresh ideas and perspective. It also recognises that the chair of the board will frequently fall into the former category rather than the latter.
+The mere fact that a director has served on a board for a substantial period does not mean that he or she has become too close to management to be considered independent. However, the board should regularly assess whether that might be the case for any director who has served in that position for more than 10 years.
+Recommendation 2.4
+A majority of the board of a listed entity should be independent directors.
+Commentary
+Investors expect, and the law requires,21 the board of a listed entity to act in the best interests of the entity and its security holders generally.
+Having a majority of independent directors makes it harder for any individual or small group of individuals to dominate the board’s decision-making and maximises the likelihood that the decisions of the board will reflect the best interests of the entity and its security holders generally and not be biased towards the interests of management or any other person or group with whom a non-independent director may be associated.
+Non-executive directors should consider the benefits of conferring periodically without executive directors or other senior executives present.
+21 See the Corporations Act sections cited in note 2.
+18
+Recommendation 2.5
+The chair of the board of a listed entity should be an independent director and, in particular, should not be the same person as the CEO of the entity.
+Commentary
+The chair of the board is responsible for leading the board, facilitating the effective contribution of all directors and promoting constructive and respectful relations between directors and between the board and management. The chair is also responsible for setting the board’s agenda and ensuring that adequate time is available for discussion of all agenda items, in particular strategic issues.
+Having an independent chair can contribute to a culture of openness and constructive challenge that allows for a diversity of views to be considered by the board.
+Good governance demands an appropriate separation between those charged with managing a listed entity and those responsible for overseeing its managers. Having the role of chair and CEO exercised by the same individual is unlikely to be conducive to the board effectively performing its role of challenging management and holding them to account.
+If the chair is not an independent director, a listed entity should consider the appointment of an independent director as the deputy chair or as the “senior independent director”, who can fulfil the role whenever the chair is conflicted. Even where the chair is an independent director, having a deputy chair or senior independent director can also assist the board in reviewing the performance of the chair and in providing a separate channel of communication for security holders (especially where those communications concern the chair).
+The role of chair is demanding, requiring a significant time commitment. The chair’s other positions should not be such that they are likely to hinder effective performance in the role.
+Recommendation 2.6
+A listed entity should have a program for inducting new directors and provide appropriate professional development opportunities for directors to develop and maintain the skills and knowledge needed to perform their role as directors effectively.
+Commentary
+The board or the nomination committee of a listed entity should regularly review whether the directors as a group have the skills, knowledge and familiarity with the entity and its operating environment required to fulfil their role on the board and on board committees effectively and, where any gaps are identified, consider what training or development could be undertaken to fill those gaps.
+Where necessary, the entity should provide resources to help develop and maintain its directors’ skills and knowledge. This includes, in the case of a director who does not have specialist accounting skills or knowledge, ensuring that he or she has a sufficient understanding of accounting matters to fulfil his or her responsibilities in relation to the entity’s financial statements.22 It also includes, for all directors, ensuring that they receive ongoing briefings on developments in accounting standards.
+22 In ASIC v Healey & Ors [2011] FCA 717 (available online at: http://www.austlii.edu.au/au/cases/cth/FCA/2011/717.html), the Federal Court held that it is the duty of every director of an entity subject to section 344 of the Corporations Act (which includes public companies, registered managed investment schemes and disclosing entities) to read the financial statements of the entity carefully and to consider whether what they disclose is consistent with the director’s own knowledge of the entity’s affairs. It is important that a listed entity’s board have a diverse range of skills and experience and this necessarily means that not all directors will have the same level of accounting skills and experience. Nevertheless, it is in the interests of a listed entity and its security holders (and also in the personal interests of the director concerned) that each director of the entity has an appropriate base level of understanding of accounting matters.
+19
+23 An entity can also enhance its brand and reputation through measures such as employing people with disability or from other disadvantaged groups in society and supporting charitable and philanthropic causes and local community initiatives.
+Principle 3: Act ethically and responsibly
+A listed entity should act ethically and responsibly.
+Commentary
+A listed entity’s reputation is one of its most valuable assets and, if damaged, can be one of the most difficult to restore. Investors and other stakeholders expect listed entities to act ethically and responsibly. Anything less is likely to destroy value over the longer term.
+Acting ethically and responsibly goes well beyond mere compliance with legal obligations and involves acting with honesty, integrity and in a manner that is consistent with the reasonable expectations of investors and the broader community. It includes being, and being seen to be, a “good corporate citizen”, for example, by:
+• respecting the human rights of its employees (for instance, by not employing forced or compulsory labour or young children even where that may be legally permitted);
+• creating a safe and non-discriminatory workplace;
+• dealing honestly and fairly with suppliers and customers;
+• acting responsibly towards the environment; and
+• only dealing with business partners who demonstrate similar ethical and responsible business practices.
+Acting ethically and responsibly will enhance a listed entity’s brand and reputation23 and assist in building long-term value for its investors.
+The board of a listed entity should lead by example when it comes to acting ethically and responsibly and should specifically charge management with the responsibility for creating a culture within the entity that promotes ethical and responsible behaviour.
+Recommendation 3.1
+A listed entity should:
+(a) have a code of conduct for its directors, senior executives and employees; and
+(b) disclose that code or a summary of it.
+Commentary
+Good corporate governance depends on the personal integrity of those on boards and in management. Personal integrity cannot be legislated. However, investor confidence can be enhanced if a listed entity clearly articulates in a code of conduct what it regards as acceptable business practices for its directors, senior executives and employees.
+A listed entity’s code of conduct must be, and be seen to be, a meaningful statement of its core values. It needs to be promoted as such across the organisation and reinforced by proper training and proportionate disciplinary action if it is breached.
+A listed entity may find the suggestions in Box 3.1 helpful when formulating its code of conduct.
+20
+Box 3.1: Suggestions for the content of a code of conduct
+1. Express the organisation’s commitment not only to complying with its legal obligations but also to acting ethically and responsibly.
+2. Clearly state the organisation’s expectation that all directors, senior executives and employees will:
+• act in the best interests of the entity;
+• act honestly and with high standards of personal integrity;
+• comply with the laws and regulations that apply to the entity and its operations;
+• not knowingly participate in any illegal or unethical activity;
+• not enter into any arrangement or participate in any activity that would conflict with the entity’s best interests or that would be likely to negatively affect the entity’s reputation;
+• not take advantage of the property or information of the entity or its customers for personal gain or to cause detriment to the entity or its customers; and
+• not take advantage of their position or the opportunities arising therefrom for personal gain.
+3. Describe the organisation’s processes for preventing the offering or acceptance of bribes and other unlawful or unethical payments or inducements. This might include how the listed entity regulates the giving and accepting of business courtesies and facilitation payments.
+4. Describe the organisation’s processes for handling actual or potential conflicts of interest.
+5. Identify the measures the organisation follows to encourage the reporting of unlawful or unethical behaviour. This might include a reference to how the organisation protects “whistleblowers” who report violations in good faith.24
+24 For guidance on whistleblowing programs, see Australian Standard AS 8004-2003 Corporate governance - Whistleblower protection programs for entities.
+21
+Principle 4: Safeguard integrity in corporate reporting
+A listed entity should have formal and rigorous processes that independently verify and safeguard the integrity of its corporate reporting.
+Recommendation 4.1
+The board of a listed entity should:
+(a) have an audit committee which:
+(1) has at least three members, all of whom are non-executive directors and a majority of whom are independent directors; and
+(2) is chaired by an independent director, who is not the chair of the board,
+and disclose:
+(3) the charter of the committee;
+(4) the relevant qualifications and experience of the members of the committee; and
+(5) in relation to each reporting period, the number of times the committee met throughout the period and the individual attendances of the members at those meetings; or
+(b) if it does not have an audit committee, disclose that fact and the processes it employs that independently verify and safeguard the integrity of its corporate reporting, including the processes for the appointment and removal of the external auditor and the rotation of the audit engagement partner.
+Commentary
+While ultimate responsibility for a listed entity’s financial statements rests with the full board, having a separate audit committee can be an efficient and effective mechanism to bring the transparency, focus and independent judgement needed to oversee the corporate reporting process.
+The role of the audit committee is usually to review and make recommendations to the board in relation to:
+• the adequacy of the entity’s corporate reporting processes;
+• whether the entity’s financial statements reflect the understanding of the committee members of, and otherwise provide a true and fair view of, the financial position and performance of the entity;
+• the appropriateness of the accounting judgements or choices exercised by management in preparing the entity’s financial statements;
+• the appointment or removal of the external auditor;
+• the rotation of the audit engagement partner;
+• the scope and adequacy of the external audit;
+• the independence and performance of the external auditor;
+• any proposal for the external auditor to provide non-audit services and whether it might compromise the independence of the external auditor;
+• if the entity has an internal audit function:
+• the appointment or removal of the head of internal audit;
+• the scope and adequacy of the internal audit work plan; and
+• the objectivity and performance of the internal audit function.
+22
+The audit committee should have a charter that clearly sets out its role and confers on it all necessary powers to perform that role. This will usually include the right to obtain information, interview management and internal and external auditors (with or without management present), and seek advice from external consultants or specialists where the committee considers that necessary or appropriate.
+The audit committee should be of sufficient size and independence, and its members between them should have the accounting and financial expertise and a sufficient understanding of the industry in which the entity operates, to be able to discharge the committee’s mandate effectively.
+The boards of some listed entities may decide that they are able to oversee the corporate reporting process efficiently and effectively without establishing a separate audit committee. If they do, the entity should disclose in its annual report or on its website the fact that it does not have an audit committee and explain the processes it employs that independently verify and safeguard the integrity of its corporate reporting (including, but not limited to, the appointment or removal of the external auditor and the rotation of the audit engagement partner).
+It should be noted that a listed entity which is included in the S&P All Ordinaries Index at the beginning of its financial year is required under the Listing Rules to have an audit committee for the entire duration of that financial year. If it is included in the S&P/ASX 300 Index at the beginning of its financial year, it must also comply with the structure and disclosure requirements in paragraph (a) of recommendation 4.1 for the whole of that financial year, unless it had been included in that index for the first time less than 3 months before the beginning of that financial year. An entity that is included in the S&P/ASX 300 Index for the first time less than 3 months before the first day of its financial year but did not comply with the structure and disclosure requirements in paragraph (a) of recommendation 4.1 at that date must take steps so that it complies with those requirements within 3 months of the beginning of the financial year.25
+Recommendation 4.2
+The board of a listed entity should, before it approves the entity’s financial statements for a financial period, receive from its CEO and CFO a declaration that, in their opinion, the financial records of the entity have been properly maintained and that the financial statements comply with the appropriate accounting standards and give a true and fair view of the financial position and performance of the entity and that the opinion has been formed on the basis of a sound system of risk management and internal control which is operating effectively.
+Commentary
+Section 295A of the Corporations Act requires each person who performs the CEO or CFO function in a listed entity established in Australia to provide a declaration that, in their opinion, the financial records of the entity for a financial year have been properly maintained in accordance with the Act and that the financial statements and the notes for the financial year comply with the accounting standards and give a true and fair view of the financial position and performance of the entity. The declaration must be given before the directors approve the financial statements for the financial year.26
+Similar requirements may apply to listed entities established in other jurisdictions under their local law.
+This recommendation largely mirrors the declaration required under section 295A but extends it to include a declaration by the CEO and CFO that their opinion has been formed on the basis of a sound system of risk management and internal control which is operating effectively. It also extends it to apply to the financial statements for any financial period, not just for the financial year.
+25 Listing Rule 12.7.
+26 For these purposes, “approve” means make the declaration required of directors under section 295(4) of the Corporations Act that (amongst other things) the financial statements comply with accounting standards and give a true and fair view. Note that the fact that the directors receive such a declaration from the CEO and CFO does not derogate from their responsibility for ensuring that the financial statements comply with the Corporations Act (section 295A(8)).
+23
+The board of a listed entity subject to section 295A of the Corporations Act or an equivalent provision under the law of its home jurisdiction can receive the one declaration from the CEO and CFO that meets both the requirements of that Act or law and this recommendation.
+The board of a listed entity established outside Australia that is not subject to section 295A of the Corporations Act or an equivalent provision under the law of its home jurisdiction should nonetheless require an equivalent declaration from the CEO and CFO.
+Recommendation 4.3
+A listed entity that has an AGM should ensure that its external auditor attends its AGM and is available to answer questions from security holders relevant to the audit.
+Commentary
+The opportunity for security holders to question a listed entity’s external auditor at the AGM is an important safeguard for the integrity of the corporate reporting process. That opportunity is afforded to security holders in listed companies established in Australia by sections 250PA, 250RA and 250T of the Corporations Act.27
+Listed entities established outside Australia that are not subject to these provisions of the Corporations Act, or equivalent provisions under the law of their home jurisdiction, should make arrangements to enable security holders to ask questions of the auditor relevant to the audit at, or ahead of, its AGM.
+Listed trusts established in Australia as registered managed investment schemes are not required by the Corporations Act to have an AGM, although some do. Nor are they subject to sections 250PA, 250RA and 250T of the Corporations Act. If a listed trust established in Australia does have an AGM, again it should make arrangements to enable security holders to ask questions of the auditor relevant to the audit at, or ahead of, the AGM.
+27 Section 250PA empowers a member of a listed company who is entitled to cast a vote at the AGM to submit a written question to the auditor that is relevant to the content of the auditor’s report or the conduct of the audit.
+Section 250RA requires a listed company’
+s auditor to be represented at the company’s AGM by a suitably qualified member of the audit team who is in a position to answer questions about the audit.
+Section 250T of the Corporations Act requires the chair of the AGM to allow a reasonable oppor
+tunity for the members as a whole at the meeting to ask the auditor’s representative questions relevant to the conduct of the audit, the preparation and content of the auditor’s report, the accounting policies adopted by the company in relation to the preparation of the financial statements, and the independence of the auditor in relation to the conduct of the audit.
+24
+A listed entity should make timely and balanced disclosure of all matters concerning it that a reasonable person would expect to have a material effect on the price or value of its securities.
+Recommendation 5.1
+A listed entity should:
+(a) have a written policy for complying with its continuous disclosure obligations under the Listing Rules; and
+(b) disclose that policy or a summary of it.
+Commentary
+Listing Rule 3.1 requires a listed entity, subject to certain exceptions, to disclose to ASX immediately any information concerning it that a reasonable person would expect to have a material effect on the price or value of its securities.
+A listed entity should have a written policy directed to ensuring that it complies with this obligation so that all investors have equal and timely access to material information concerning the entity – including its financial position, performance, ownership and governance.
+In designing its disclosure policy, a listed entity should have regard to ASX Guidance Note 8 Continuous Disclosure: Listing Rules 3.1 – 3.1B and to the 10 principles set out in ASIC Regulatory Guide 62 Better disclosure for investors.
+The disclosure policy should include vetting and authorisation processes designed to ensure that announcements by the entity are factual, complete, balanced and expressed in a clear and objective manner that allows investors to assess the impact of the information when making investment decisions.
+In this context, “balanced” means disclosing both positive and negative information.
+The disclosure policy should address:
+• the roles and responsibilities of directors, officers and employees in complying with the entity’s disclosure obligations;
+• safeguarding confidentiality of corporate information to avoid premature disclosure;28
+• media contact and comment;
+• external communications such as analyst briefings and responses to security holder questions; and
+• measures for responding to or avoiding the emergence of a false market in the entity’s securities.
+28 See the joint publication by Chartered Secretaries Australia (now Governance Institute of Australia) and the Australian Investor Relations Association entitled Handling confidential information: Principles of good practice available online at:
+http://www.governanceinstitute.com.au/knowledge-resources/good-governance-guides/?categoryid=8031.
+Principle 5: Make timely and balanced disclosure
+25
+29 For example, under an “About Us”, “Investor Centre” or “Information for Shareholders/Unitholders” menu item.
+30 Or other document setting out the respective roles and responsibilities of its board and management and those matters expressly reserved to the board and those delegated to management pursuant to recommendation 1.1.
+Principle 6: Respect the rights of security holders
+A listed entity should respect the rights of its security holders by providing them with appropriate information and facilities to allow them to exercise those rights effectively.
+Commentary
+A fundamental underpinning of the corporate governance framework for listed entities is that security holders should be able to hold the board and, through the board, management to account for the entity’s performance. For this to occur, a listed entity needs to engage with its security holders and provide them with appropriate information and facilities to allow them to exercise their rights as security holders effectively. This includes:
+• giving them ready access to information about the entity and its governance;
+• communicating openly and honestly with them; and
+• encouraging and facilitating their participation in meetings of security holders.
+Recommendation 6.1
+A listed entity should provide information about itself and its governance to investors via its website.
+Commentary
+In the digital age, investors expect information about listed entities to be freely and readily available.
+A listed entity should have a website with a “corporate governance” landing page from where all relevant corporate governance information can be accessed. There should be an intuitive and easily located link to this page in the navigation menu for the entity’s website.29
+A listed entity should include in the corporate governance area of its website links to:
+• the names, photographs and brief biographical information for each of its directors and senior executives;
+• its constitution, its board charter30 and the charters of each of its board committees;
+• the corporate governance policies and other corporate governance materials referred to in these recommendations.
+A listed entity should also include in an appropriate area of its website links to:
+• copies of its annual reports and financial statements;
+• copies of its announcements to ASX;
+• copies of notices of meetings of security holders and any accompanying documents;
+• if it keeps them, webcasts and/or transcripts of meetings of security holders and copies of any documents tabled or otherwise made available at those meetings; and
+• if it keeps them, webcasts and/or transcripts of investor or analyst presentations and copies of any materials distributed at those presentations,
+and keep this material available on its website for a reasonable period.
+Investors will also find it helpful if a listed entity includes in an appropriate area of its website:
+• an overview of the entity’s current business;
+• a description of how the entity is structured;
+• a summary of the entity’s history;
+26
+• a key events calendar showing the expected dates in the forthcoming year for:
+• results presentations and other significant events for investors and analysts;
+• the AGM;
+• books closing dates for determining entitlements to dividends or distributions; and
+• ex-dividend and payment dates for dividends or distributions;
+• once they are known, the time, venue and other relevant details31 for results presentations and the AGM;
+• if the entity has different classes of securities on issue, a brief description of those different classes and the rights attaching to them;
+• historical information about the market prices of the entity’s securities;
+• a description of the entity’s dividend or distribution policy;
+• information about the entity’s dividend or distribution history;
+• copies of media releases the entity makes;
+• contact details for enquiries from security holders, analysts or the media;
+• contact details for its securities registry; and
+• links to download key security holder forms, such as transfer and transmission forms, dividend or distribution reinvestment plan forms etc.
+Recommendation 6.2
+A listed entity should design and implement an investor relations program to facilitate effective two-way communication with investors.32
+Commentary
+A listed entity’s investor relations program should be tailored to the individual circumstances of the entity. For smaller entities, it may involve little more than actively engaging with security holders at the AGM, meeting with them upon request and responding to any enquiries they may make from time to time. For larger entities, it is likely to involve a detailed program of scheduled and ad hoc interactions with institutional investors, private investors, sell-side and buy-side analysts and the financial media.
+A primary aim of an investor relations program should be to allow investors and other financial market participants to gain a greater understanding of the entity’s business, governance, financial performance and prospects. However, it should not just involve one way communication from the entity to the market but also provide an opportunity for investors and other financial market participants to express their views to the entity on matters of concern or interest to them. Where they do, those views should be distilled and communicated to the entity’s board.
+A listed entity’s investor relations program may also run in tandem with a wider stakeholder engagement program involving interactions with politicians, bureaucrats, regulators, unions, consumer groups, environmental groups, local community groups and other stakeholders.
+31 Such as the dial-in details for a conference call on a results presentation and a link to the URL for a web-cast of an AGM.
+32 References in this recommendation to communicating and interacting with security holders include, where securities are held by a custodian or nominee, communicating and interacting with the beneficial owner of the securities.
+27
+Recommendation 6.3
+A listed entity should disclose the policies and processes it has in place to facilitate and encourage participation at meetings of security holders.
+Commentary
+Meetings of security holders are an important forum for two-way communication between a listed entity and its security holders. They provide an opportunity for a listed entity to impart to security holders a greater understanding of its business, governance, financial performance and prospects, as well as to discuss areas of concern or interest to the board and management. They also provide an opportunity for security holders to express their views to the entity’s board and management about any areas of concern or interest for them.
+Listed entities with larger numbers of security holders on their register or which have meetings at remote locations should consider how technology can be used to facilitate the participation of security holders in meetings. This may include for example:
+• live webcasting of meetings so that security holders can view and/or hear proceedings online;
+• holding meetings across multiple venues linked by live telecommunications; and
+• providing a direct voting facility to allow security holders to vote ahead of the meeting without having to attend or appoint a proxy.
+All listed entities that have an AGM should afford security holders who are not able to attend the meeting and exercise their right to ask questions about, or make comments on, the management of the entity,33 the opportunity to provide questions or comments ahead of the meeting. Where appropriate, these questions should be answered at the meeting, either by being read out and then responded to at the meeting or by providing a transcript of the question and a written answer at the meeting.
+Recommendation 6.4
+A listed entity should give security holders the option to receive communications from, and send communications to, the entity and its security registry electronically.
+Commentary
+Most security holders appreciate the speed, convenience and environmental friendliness of electronic communications, compared with more traditional methods of communication. Listed entities should provide security holders with the option to receive communications from, and send communications to, the entity and its security registry electronically.
+Communications to security holders from the entity or its security registry should be formatted to be easily readable on a computer screen and other electronic devices commonly used for that purpose and include a printer-friendly option for those security holders who wish to retain a hard copy of the communication.
+33 Section 250S of the Corporations Act.
+28
+Principle 7: Recognise and manage risk
+A listed entity should establish a sound risk management framework and periodically review the effectiveness of that framework.
+Commentary
+Being given sufficient information to understand and assess investment risk is crucial to the ability of investors to make informed investment decisions. Recognising and managing risk is a crucial part of the role of the board and management.
+A failure by a listed entity to recognise or manage risk can adversely impact not only the entity and its security holders but also many other stakeholders, including employees, customers, suppliers, creditors, consumers, taxpayers and the broader community in which the entity operates.
+Good risk management practices can not only help to protect established value, they can assist in identifying and capitalising on opportunities to create value.
+The board of a listed entity is ultimately responsible for deciding the nature and extent of the risks it is prepared to take to meet its objectives.
+To enable the board to do this, the entity must have an appropriate framework34 to identify and manage risk on an ongoing basis.35 It is the role of management to design and implement that framework and to ensure that the entity operates within the risk appetite set by the board. It is the role of the board to set the risk appetite for the entity, to oversee its risk management framework and to satisfy itself that the framework is sound.
+Recommendation 7.1
+The board of a listed entity should:
+(a) have a committee or committees to oversee risk,36 each of which:
+(1) has at least three members, a majority of whom are independent directors; and
+(2) is chaired by an independent director,
+and disclose:
+(3) the charter of the committee;
+(4) the members of the committee; and
+(5) as at the end of each reporting period, the number of times the committee met throughout the period and the individual attendances of the members at those meetings; or
+(b) if it does not have a risk committee or committees that satisfy (a) above, disclose that fact and the processes it employs for overseeing the entity’s risk management framework.
+Commentary
+While ultimate responsibility for a listed entity’s risk management framework rests with the full board, having a risk committee (be it a stand-alone risk committee, a combined audit and risk committee or a combination of board committees addressing different elements
+34 Australian/New Zealand Standard AS/NZS ISO 31000:2009 Risk management – Principles and guidelines defines “risk management” as “coordinated activities to direct and control an organization with regard to risk” and “risk management framework” as a “set of components that provide the foundations and organizational arrangements for designing, implementing, monitoring, reviewing and continually improving risk management throughout the organization”.
+35 There is a range of guidance available on risk management frameworks, including the Australian/New Zealand Standard AS/NZS ISO 31000:2009 Risk management – Principles and guidelines, available at www.standards.org.au and COSO Enterprise Risk Management – Integrated Framework (2004) and related materials published by the Committee of Sponsoring Organisations of the Treadway Commission, available at www.coso.org.
+36 The risk committee(s) could be a stand-alone risk committee, a combined audit and risk committee or a combination of board committees addressing different elements of risk. Where it is a combination of committees, the listed entity should disclose how it has divided the responsibility for overseeing risk between those different committees.
+29
+of risk) can be an efficient and effective mechanism to bring the transparency, focus and independent judgement needed to oversee the entity’s risk management framework.
+The role of a risk committee is usually to review and make recommendations to the board in relation to:
+• the adequacy of the entity’s processes for managing risk;
+• any incident involving fraud or other break down of the entity’s internal controls; and
+• the entity’s insurance program, having regard to the entity’s business and the insurable risks associated with its business.
+A risk committee should have a charter that clearly sets out its role and confers on it all necessary powers to perform that role. This will usually include the right to obtain information, interview management and internal and external auditors (with or without management present), and seek advice from external consultants or specialists where the committee considers that necessary or appropriate.
+A risk committee should be of sufficient size and independence, and its members between them should have the necessary technical knowledge and a sufficient understanding of the industry in which the entity operates, to be able to discharge the committee’s mandate effectively.
+The boards of some listed entities may decide that they are able to oversee the entity’s risk management framework efficiently and effectively without establishing a risk committee. If they do, the entity should disclose in its annual report or on its website the fact that it does not have a risk committee and explain the processes it employs for overseeing the entity’s risk management framework.
+It should be noted that a listed entity established in Australia is required under the Corporations Act37 to include in the operating and financial review in its directors’ report, a discussion of the main internal and external risk sources that could adversely affect the entity’s prospects for future financial years. If a significant event occurs, the entity may also have to disclose the occurrence and its impact under the continuous disclosure requirements in the Listing Rules.
+Recommendation 7.2
+The board or a committee of the board should:
+(a) review the entity’s risk management framework at least annually to satisfy itself that it continues to be sound; and
+(b) disclose, in relation to each reporting period, whether such a review has taken place.
+Commentary
+It is important that the board of a listed entity periodically review the entity’s risk management framework to satisfy itself that it continues to be sound and that the entity is operating within the risk appetite set by the board.
+The board may charge an appropriate board committee (such as the risk committee or the audit committee) with this task. If it does, this should be reflected in the charter of the committee in question.
+When disclosing whether a review of the entity’s risk management framework has been undertaken, where appropriate, the entity should also disclose any insights it has gained from the review and any changes it has made to its risk management framework as a result.
+37 See section 299A of the Corporations Act (requiring the disclosure of a listed entity’s prospects for future financial years) and paragraph 61 of ASIC Regulatory Guide 247 Effective disclosure in an operating and financial review (noting that it would likely be misleading to discuss prospects for future financial years without referring to the material business risks that could adversely affect the achievement of the financial prospects described for those years).
+30
+Recommendation 7.3
+A listed entity should disclose:
+(a) if it has an internal audit function, how the function is structured and what role it performs; or
+(b) if it does not have an internal audit function, that fact and the processes it employs for evaluating and continually improving the effectiveness of its risk management and internal control processes.
+Commentary
+An internal audit function can assist a listed entity to accomplish its objectives by bringing a systematic, disciplined approach to evaluating and continually improving the effectiveness of its risk management and internal control processes.
+If a listed entity has an internal audit function, the head of that function ideally should have a direct reporting line to the board or to the board audit committee to bring the requisite degree of independence and objectivity to the role.
+Recommendation 7.4
+A listed entity should disclose whether it has any material exposure38 to economic, environmental and social sustainability risks39 and, if it does, how it manages or intends to manage those risks.
+Commentary
+How a listed entity conducts its business activities impacts directly on a range of stakeholders, including security holders, employees, customers, suppliers, creditors, consumers, governments and the local communities in which it operates. Whether it does so sustainably can impact in the longer term on society and the environment.
+Listed entities will be aware of the increasing calls globally for the business community to address matters of economic, environmental and social sustainability40 and the increasing demand from investors, especially institutional investors, for greater transparency on these matters so that they can properly assess investment risk.41
+To meet this recommendation does not require a listed entity to publish a sustainability report. However an entity that does publish a sustainability report may meet this recommendation simply by cross-referring to that report.
+38 “Material exposure” in this context means a real possibility that the risk in question could substantively impact the listed entity’s ability to create or preserve value for security holders over the short, medium or long term.
+39 The terms “economic sustainability”, “environmental sustainability” and “social sustainability” are defined in the glossary.
+40 See, for example, the joint publication by the Australian Council of Superannuation Investors and the Financial Services Council entitled ESG Reporting Guide for Australian Companies: Building the foundation for meaningful reporting (June 2011), available at http://acsi.org.au/images/stories/ACSIDocuments/esg_reporting_guide.pdf.
+See also the UN Global Compact’
+s ten principles on human rights, labour, the environment and anti-corruption; the OECD’s Guidelines for Multinational Enterprises; and the various publications of the Global Reporting Initiative, the Climate Disclosure Standards Board and the International Integrated Reporting Council respectively at:
+http://www.unglobalcompact.org/aboutthegc/thetenprinciples/index.html
+http://www.oecd.org/daf/internationalinvestment/guidelinesformultinationalenterprises
+http://www.globalreporting.org
+http://www.cdsb.net
+http://www.theiirc.org.
+41 Note that paragraph 63 of ASIC Regulatory Guide 247 Effective disclosure in an operating and financial review suggests that a listed entity’s operating and financial review “should include a discussion of environmental and other sustainability risks where those risks could affect the entity’s achievement of its financial performance or outcomes disclosed, taking into account the nature and business of the entity and its business strategy.”
+31
+Principle 8: Remunerate fairly and responsibly
+A listed entity should pay director remuneration sufficient to attract and retain high quality directors and design its executive remuneration to attract, retain and motivate high quality senior executives and to align their interests with the creation of value for security holders.
+Commentary
+Remuneration is a key focus for investors. When setting the level and composition of remuneration, a listed entity needs to balance:
+• its desire to attract and retain high quality directors and to attract, retain and motivate senior executives;
+• the need to ensure that the incentives for executive directors and other senior executives encourage them to pursue the growth and success of the entity (both in the short term and over the longer term) without taking undue risks;
+• the need to ensure that the incentives for non-executive directors do not conflict with their obligation to bring an independent judgement to matters before the board; and
+• its commercial interest in not paying excessive remuneration.
+A listed entity should have a formal and transparent process for developing its remuneration policy and for fixing the remuneration packages of directors and senior executives. No individual director or senior executive should be involved in deciding his or her own remuneration.42
+The relationship between remuneration and performance and how it is aligned to the creation of value for security holders should be clearly articulated to investors.
+Recommendation 8.1
+The board of a listed entity should:
+(a) have a remuneration committee which:
+(1) has at least three members, a majority of whom are independent directors; and
+(2) is chaired by an independent director,
+and disclose:
+(3) the charter of the committee;
+(4) the members of the committee; and
+(5) as at the end of each reporting period, the number of times the committee met throughout the period and the individual attendances of the members at those meetings;43 or
+(b) if it does not have a remuneration committee, disclose that fact and the processes it employs for setting the level and composition of remuneration for directors and senior executives and ensuring that such remuneration is appropriate and not excessive.
+42 This statement is not intended to apply to a determination by the board of a listed entity on how the pool of directors’ fees approved by security holders should be split between directors.
+43 An Australian listed company subject to section 300(10) of the Corporations Act must also include in its annual report information about each director’s attendance at remuneration committee meetings.
+32
+Commentary
+Having a separate remuneration committee can be an efficient and effective mechanism to bring the transparency, focus and independent judgement needed on remuneration decisions.
+The role of the remuneration committee is usually to review and make recommendations to the board in relation to:
+• the entity’s remuneration framework for directors, including the process by which any pool of directors’ fees approved by security holders is allocated to directors;
+• the remuneration packages to be awarded to senior executives;44
+• equity-based remuneration plans for senior executives and other employees;
+• superannuation arrangements for directors, senior executives and other employees; and
+• whether there is any gender or other inappropriate bias in remuneration for directors, senior executives or other employees.
+The remuneration committee should have a charter that clearly sets out its role and confers on it all necessary powers to perform that role. This will usually include the right to obtain information, interview management, and seek advice from external consultants or specialists where the committee considers that necessary or appropriate.45
+The remuneration committee should be of sufficient size and independence to discharge its mandate effectively.
+If the remuneration committee includes an executive director, they should not be involved in deciding their own remuneration and should also be alive to the potential conflict of interest in being involved in setting the remuneration for other executives that may indirectly affect their own (for example, through setting a benchmark or because of relativities).
+The boards of some listed entities may decide that they are able to deal efficiently and effectively with remuneration issues without establishing a separate remuneration committee. If they do, the entity should disclose in its annual report or on its website the fact that it does not have a remuneration committee and explain the processes it employs for setting the level and composition of remuneration for directors and senior executives and ensuring that such remuneration is appropriate and not excessive.
+It should be noted that a listed entity which is included in the S&P/ASX 300 Index at the beginning of its financial year is required under the Listing Rules46 to have a remuneration committee comprised solely of non-executive directors for the entire duration of that financial year.
+Recommendation 8.2
+A listed entity should separately disclose its policies and practices regarding the remuneration of non-executive directors and the remuneration of executive directors and other senior executives.
+Commentary
+As mentioned previously, remuneration is a key focus for investors. To facilitate an open dialogue with its security holders on this topic, listed entities should clearly articulate and separately disclose their respective remuneration policies and practices regarding the remuneration of non-executive directors on the one hand and the remuneration of executive directors and other senior executives on the other.
+44 The individual remuneration packages to be awarded to employees other than senior executives are generally matters left to management.
+45 Listed companies established in Australia should note the provisions of sections 206K-206M regarding the engagement of remuneration consultants to advise on the remuneration packages to be awarded to key management personnel.
+46 Listing Rule 12.8.
+33
+Those policies and practices should appropriately reflect the different roles and responsibilities of non-executive directors compared with executive directors and other senior executives. In this regard, listed entities may find the following guidelines useful in formulating their remuneration policies and practices:
+GUIDELINES FOR EXECUTIVE REMUNERATION
+GUIDELINES FOR NON-EXECUTIVE DIRECTOR REMUNERATION
+Composition: remuneration packages for executive directors and other senior executives should include an appropriate balance of fixed remuneration and performance-based remuneration.
+Composition: non-executive directors should be remunerated by way of cash fees, superannuation contributions and non-cash benefits in lieu of fees (such as salary sacrifice into superannuation or equity).
+Fixed remuneration: should be reasonable and fair, taking into account the entity’s obligations at law and labour market conditions, and should be relative to the scale of the entity’s business. It should reflect core performance requirements and expectations.
+Fixed remuneration: levels of fixed remuneration for non-executive directors should reflect the time commitment and responsibilities of the role.
+Performance-based remuneration: should be linked to clearly specified performance targets. These targets should be aligned to the entity’s short and long-term performance objectives and should be appropriate to its circumstances, goals and risk appetite.
+Performance-based remuneration: non-executive directors should not receive performance-based remuneration as it may lead to bias in their decision-making and compromise their objectivity.
+Equity-based remuneration: well-designed equity-based remuneration, including options or performance rights, can be an effective form of remuneration, especially when linked to hurdles that are aligned to the entity’s longer-term performance objectives. Care needs to be taken in the design of equity-based remuneration schemes, however, to ensure that they do not lead to “short-termism” on the part of senior executives or the taking of undue risks.
+Equity-based remuneration: it is generally acceptable for non-executive directors to receive securities as part of their remuneration to align their interests with the interests of other security holders.47 However, non-executive directors generally should not receive options with performance hurdles attached or performance rights as part of their remuneration as it may lead to bias in their decision-making and compromise their objectivity.
+Termination payments: termination payments, if any, for senior executives should be agreed in advance and the agreement should clearly address what will happen in the case of early termination.48 There should be no payment for removal for misconduct.
+Termination payments: non-executive directors should not be provided with retirement benefits other than superannuation.
+The disclosures regarding the remuneration of executive directors and other senior executives should include a summary of the entity’s policies and practices regarding the deferral of performance-based remuneration and the reduction, cancellation or clawback of performance-based remuneration in the event of serious misconduct or a material misstatement in the entity’s financial statements.
+Listed companies established in Australia are required under the Corporations Act49 to make detailed disclosure in their remuneration reports of their remuneration policies for key management personnel.50 Those reports are subject to an advisory vote by security holders51 and a “two-strikes rule”.52
+47 Note that an issue of securities to a director will require security holder approval under Listing Rule 10.11 unless it falls within the exceptions set out in Listing Rule 10.12.
+48 Note also the restrictions that apply under sections 200-200J of the Corporations Act to termination payments by companies incorporated in Australia (and their associates) to those who hold a managerial or executive office in the company or in a related body corporate.
+49 Section 300A of the Corporations Act.
+50 Accounting Standard AASB 124 defines “key management personnel” of an entity as “those persons having authority and responsibility for planning, directing and controlling the activities of the entity, directly or indirectly, including any director (whether executive or otherwise) of that entity”.
+51 Section 250R(2) of the Corporations Act.
+52 Sections 250U-250Y of the Corporations Act. Under that rule, if 25% of the votes cast at two consecutive AGMs oppose the adoption of the remuneration report, then at the second AGM, shareholders can require that the board stand for re-election at a further general meeting to be held within 90 days. Shareholders can exercise this power if 50% or more of votes cast at the second AGM are in favour of a “spill”. The requirement to stand for re-election does not apply to the managing director or any director appointed since the remuneration report was approved by the board.
+34
+A listed entity which is not subject to these Corporations Act requirements53 should separately disclose the information referred to in this recommendation in its annual report or on its website.
+Under the Listing Rules, a listed entity is required to obtain security holder approval for the issue of securities to directors or their associates under any equity-based incentive scheme.54
+A listed entity is not required under the Corporations Act55 or the Listing Rules56 to obtain security holder approval for an equity-based incentive scheme involving the issue of securities to senior executives or other employees who are not directors. Notwithstanding this, a listed entity may find it useful to submit to security holders any proposed equity-based incentive scheme which will involve the issue of securities to senior executives or other employees prior to implementing it. This will provide the board with a timely assurance that the scheme is reasonable and acceptable to security holders.57
+Recommendation 8.3
+A listed entity which has an equity-based remuneration scheme should:
+(a) have a policy on whether participants are permitted to enter into transactions (whether through the use of derivatives or otherwise) which limit the economic risk of participating in the scheme; and
+(b) disclose that policy or a summary of it.
+Commentary
+Allowing participants in an equity-based remuneration scheme to hedge or otherwise limit the economic risk of participating in the scheme may act counter to the aims of the scheme and blur the relationship between remuneration and performance. A listed entity which has an equity-based remuneration scheme should establish a policy on whether participants can enter into these sorts of transactions and disclose that policy to investors. This applies whether the participants in the scheme are directors, senior executives or other employees.
+It should be noted that the Corporations Act58 prohibits the key management personnel of an ASX listed company established in Australia, or a closely related party of such personnel, from entering into an arrangement that would have the effect of limiting their exposure to risk relating to an element of their remuneration that either has not vested or has vested but remains subject to a holding lock.
+53 For example, a listed trust established in Australia which is not externally managed or an entity established outside Australia.
+54 Listing Rule 10.14. Note that this requirement does not apply to securities purchased on-market under the terms of a scheme that provides for purchases of securities by or on behalf of employees or directors (Listing Rule 10.15B).
+55 Under section 211 of the Corporations Act, benefits that are “reasonable remuneration” are an exception to the requirement for member approval for financial benefits to related parties under section 208 of the Act.
+56 Assuming it has sufficient headroom to issue securities without security holder approval under Listing Rules 7.1 and 7.1A. If it does not, then the employee incentive scheme will require security holder approval under Listing Rule 7.2 Exception 9.
+57 If renewed every 3 years, it will also result in any issues of securities under the scheme not eating into the entity’s placement capacity under Listing Rules 7.1 and 7.1A (Listing Rule 7.2 Exception 9).
+58 Section 206J.
+35
+The application of the recommendations to externally managed listed entities
+As noted previously, some recommendations require modification when applied to externally managed listed entities. Investors in an externally managed listed entity generally invest in the listed entity on the basis of the management expertise of the responsible entity. In that context, an appropriate line needs to be drawn between corporate governance matters affecting the responsible entity, which will primarily be a concern for the board and security holders of the responsible entity, and corporate governance matters affecting the listed entity.
+Recommendations that apply to externally managed listed entities
+Recommendations 2.3, 3.1, 4.1, 4.2, 5.1, 6.1, 6.2, 6.4, 7.1, 7.2, 7.3 and 7.4 apply to an externally managed listed entity.
+The disclosures in relation to recommendations 2.3 (disclosure of independent directors) and 3.1 (code of conduct) should be made in relation to the responsible entity in its corporate capacity. In the case of recommendation 2.3, independence should be assessed and disclosed vis-à-vis the responsible entity rather than the listed entity.
+The disclosures in relation to recommendations 5.1 (disclosure policy), 6.4 (electronic communications) and 7.4 (sustainability risks) should be made in relation to the listed entity being managed by the responsible entity.
+The disclosures in relation to recommendations 4.1 (audit committee), 4.2 (CEO and CFO certification of financial statements), 6.1 (website disclosures), 6.2 (investor relations), 7.1 (risk committee), 7.2 (annual risk review) and 7.3 (internal audit) should be made in relation to the specific processes and facilities the responsible entity has put in place to perform its role as the manager of the listed entity.
+In relation to recommendations 4.1 (audit committee) and 7.1 (risk committee), if the entity is a listed trust with a compliance committee,59 the board of the responsible entity may instead of establishing a separate audit or risk committee, adapt the role of the compliance committee to cover the responsibilities that would ordinarily be undertaken by the audit or risk committee. If it does so, it should make the disclosures mentioned in recommendations 4.1(a) and 7.1(a) in relation to the compliance committee.
+Recommendations that may or may not apply to externally managed listed entities
+Recommendation 4.3 only applies to an externally managed listed entity if it holds an AGM. If the entity does not hold an AGM, then recommendation 4.3 does not apply and the entity may simply state that this recommendation is “not applicable” in its corporate governance statement.
+Recommendation 6.3 only applies to an externally managed listed entity if it has periodic meetings of security holders. If the entity does not have such meetings, then recommendation 6.3 does not apply and the entity may simply state that this recommendation is “not applicable” in its corporate governance statement.
+Recommendations that do not apply to externally managed listed entities
+Recommendations 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 2.1, 2.2, 2.4, 2.5, 2.6, 8.1, 8.2 and 8.3 do not apply to an externally managed listed entity. The entity may simply state that these recommendations are “not applicable” in its corporate governance statement.
+59 Under section 601JA(1) of the Corporations Act, the responsible entity of a registered managed investment scheme is required to establish a compliance committee if less than half of the directors of the responsible entity are “external directors” (as defined in section 601JA(2) of that Act).
+36
+Additional disclosures that an externally managed listed entity should make
+In lieu of recommendation 1.1, an externally managed listed entity should instead comply with the following alternative recommendation:
+Alternative to recommendation 1.1 for externally managed listed entities:
+The responsible entity of an externally managed listed entity should disclose:
+(a) the arrangements between the responsible entity and the listed entity for managing the affairs of the listed entity; and
+(b) the role and responsibility of the board of the responsible entity for overseeing those arrangements.
+Commentary
+In the case of an externally managed listed entity, the performance of the responsible entity will usually drive the performance of the listed entity. It is important that investors in the entity understand the arrangements between the responsible entity and the listed entity for managing the affairs of the listed entity and also the role and responsibility of the board of the responsible entity for overseeing those arrangements.
+In lieu of recommendations 8.1, 8.2 and 8.3, an externally managed listed entity should instead comply with the following alternative recommendation:
+Alternative to recommendations 8.1, 8.2 and 8.3 for externally managed listed entities:
+An externally managed listed entity should clearly disclose the terms governing the remuneration of the manager.
+Commentary
+The management fees (including performance-related fees) payable by an externally managed listed entity to its manager are a key focus for investors. Investors should be able to easily locate a summary of the amount and composition of those fees.
+Simply including a copy of the entity’s constitution (if that is the relevant document which governs the calculation and payment of management fees) or management agreement on the entity’s website is not sufficient for this purpose. There should be a clear and concise summary of the fees payable to the manager on the entity’s website, as well as a cross-reference to the specific clause or clauses in the relevant document setting out those fees where investors can go for further details.
+37
+Glossary
+AGM: the annual general meeting of security holders.
+ASX: ASX Limited.
+board: in the case of an internally managed listed entity, the directors of the entity acting as a board and, in the case of an externally managed listed entity, the directors of the responsible entity acting as a board.
+CEO: in the case of an internally managed listed entity, the chief executive officer of the entity (by whatever title called) and, in the case of an externally managed listed entity, the chief executive officer of the responsible entity (by whatever title called).
+CFO: in the case of an internally managed listed entity, the chief financial officer of the entity (by whatever title called) and, in the case of an externally managed listed entity, the chief financial officer of the responsible entity (by whatever title called).
+commentary: the discussion headed “Commentary” that follows a principle or recommendation. The commentary does not form part of a principle or recommendation and does not give rise to a reporting obligation.
+corporate governance statement: the statement made by a listed entity under Listing Rule 4.10.3 stating the extent to which it has followed the Council’s recommendations.
+Corporations Act: the Corporations Act 2001 (Cth).
+director: in the case of an internally managed listed entity, a director of the entity and, in the case of an externally managed listed entity, a director of the responsible entity.
+disclose: when used in a recommendation, means to include the information in the entity’s annual report or on its website.
+economic sustainability: the ability of a listed entity to continue operating at a particular level of economic production over the long term.
+environmental sustainability: the ability of a listed entity to continue operating in a manner that does not compromise the health of the ecosystems in which it operates over the long term.
+executive director: in the case of an internally managed listed entity, a director of the entity who is also an executive of the listed entity or a child entity and, in the case of an externally managed listed entity, a director of the responsible entity who is also an executive of the responsible entity or a related body corporate.
+externally managed listed entity: a listed entity (such as a trust or stapled structure) that is managed externally by a responsible entity in its corporate capacity rather than by a board of directors that is subject to election by security holders of the entity.
+independent director: a director who is free of any interest, position, association or relationship that might influence, or reasonably be perceived to influence, in a material respect his or her capacity to bring an independent judgement to bear on issues before the board and to act in the best interests of the entity and its security holders generally.
+internally managed listed entity: a listed company and any other listed entity (such as a trust or stapled structure) that is managed by a board of directors (by whatever title called) that is subject to election by security holders of the entity.
+listed entity: an entity admitted to the official list of ASX as an ASX Listing. The term does not extend to entities admitted to the official list of ASX as an ASX Debt Listing or as an ASX Foreign Exempt Listing (these entities are not subject to Listing Rule 4.10.3).
+38
+Listing Rule: an ASX Listing Rule.
+non-executive director: a director who is not an executive director.
+principle: one of the 8 enumerated principles in this document.
+recommendation: one of the 29 enumerated recommendations in this document.
+reporting period: the financial period covered by an entity’s annual report.
+responsible entity: the entity responsible for managing an externally managed listed entity.
+security holders: in the case of a listed company means shareholders and in the case of a listed trust means unitholders.
+senior executive:
+• in the case of an internally managed listed entity:
+• except in recommendation 1.5(c)(1), an executive who is a member of the key management personnel of the entity, including an executive director but not including a non-executive director; and
+• in recommendation 1.5(c)(1), the listed entity should define what it means by “senior executive”; or
+• in the case of an externally managed listed entity, an executive who is a member of the key management personnel of the responsible entity, including an executive director but not including a non-executive director.
+senior independent director: an independent director nominated to perform this role.
+social sustainability: the ability of a listed entity to continue operating in a manner that meets accepted social norms and needs over the long term.
+substantial security holder: a person who has a “substantial holding” in the listed entity, within the meaning of section 9 of the Corporations Act.
+summary, in relation to a policy, means a précis of the material terms of the policy.
+Workplace Gender Equality Act: the Workplace Gender Equality Act 2012 (Cth).
+39
+Notes
+40
+Notes
+
+Australian Securities Exchange, Exchange Centre, 20 Bridge Street, Sydney NSW 2000.
+Telephone: 02 9227 0000 www.asx.com.au/regulation/corporate-governance-council.htm
