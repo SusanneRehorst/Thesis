@@ -1,0 +1,66 @@
+---
+title: "Data_Analysis"
+author: "Susanne_Rehorst"
+date: "25-5-2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Data Analysis
+This document uses the processed data from Data_Processing.Rmd and performs analysis on it.
+
+Load in the data:
+```{r}
+
+```
+
+## Transform to document term matrix
+```{r}
+
+```
+
+## Quantity
+```{r}
+
+```
+
+## Readability
+```{r}
+
+```
+
+## Restrictiveness
+```{r}
+
+```
+
+## Transform to term frequency and idf frequence to get Cosine similarity matrix
+```{r}
+
+```
+
+## Term frequency (overall and ESG key topics) and topic detection
+```{r}
+
+```
+
+```{r}
+
+```
+
+## Regression analysis
+```{r}
+
+```
+
+## Robustness checks summary
+Multiple quantity measures and very clean data. Multiple readability measures. Multiple restrictive/advice words. Calculate cosine similarity with TF AND TFIDF as weighting factor. Calculate cosine similarity as distance measure, but also 1 or 2 other measure to see if it is still significant. Check for distribution of cosine similarity, to do the average but excluding outliers (Difference in median instead of difference in mean). Do regression with multiple explanatory variables and with robust standard errors (maybe clustering too). 
+
+## Optional: Visualization (network or wordcloud etc.)
+```{r}
+
+```
+

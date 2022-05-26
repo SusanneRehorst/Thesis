@@ -1,0 +1,440 @@
+Corporations Act 2001 - Australia
+299  Annual directors’ report—general information
+
+General information about operations and activities
+
+             (1)  The directors’ report for a financial year must:
+
+                     (a)  contain a review of operations during the year of the entity reported on and the results of those operations; and
+
+                     (b)  give details of any significant changes in the entity’s state of affairs during the year; and
+
+                     (c)  state the entity’s principal activities during the year and any significant changes in the nature of those activities during the year; and
+
+                     (d)  give details of any matter or circumstance that has arisen since the end of the year that has significantly affected, or may significantly affect:
+
+                              (i)  the entity’s operations in future financial years; or
+
+                             (ii)  the results of those operations in future financial years; or
+
+                            (iii)  the entity’s state of affairs in future financial years; and
+
+                     (e)  refer to likely developments in the entity’s operations in future financial years and the expected results of those operations; and
+
+                      (f)  if the entity’s operations are subject to any particular and significant environmental regulation under a law of the Commonwealth or of a State or Territory—give details of the entity’s performance in relation to environmental regulation.
+
+             (2)  The entity reported on is:
+
+                     (a)  the company, registered scheme or disclosing entity (if consolidated financial statements are not required); or
+
+                     (b)  the consolidated entity (if consolidated financial statements are required).
+
+Prejudicial information need not be disclosed
+
+             (3)  The report may omit material that would otherwise be included under paragraph (1)(e) if it is likely to result in unreasonable prejudice to:
+
+                     (a)  the company, registered scheme or disclosing entity; or
+
+                     (b)  if consolidated financial statements are required—the consolidated entity or any entity (including the company, registered scheme or disclosing entity) that is part of the consolidated entity.
+
+If material is omitted, the report must say so.
+
+299A  Annual directors’ report—additional general requirements for listed entities
+
+             (1)  The directors’ report for a financial year for a company, registered scheme or disclosing entity that is listed must also contain information that members of the listed entity would reasonably require to make an informed assessment of:
+
+                     (a)  the operations of the entity reported on; and
+
+                     (b)  the financial position of the entity reported on; and
+
+                     (c)  the business strategies, and prospects for future financial years, of the entity reported on.
+
+             (2)  The entity reported on is:
+
+                     (a)  the company, registered scheme or disclosing entity that is listed (if consolidated financial statements are not required); or
+
+                     (b)  the consolidated entity (if consolidated financial statements are required).
+
+             (3)  The report may omit material that would otherwise be included under paragraph (1)(c) if it is likely to result in unreasonable prejudice to:
+
+                     (a)  the company, registered scheme or disclosing entity; or
+
+                     (b)  if consolidated financial statements are required—the consolidated entity or any entity (including the company, registered scheme or disclosing entity) that is part of the consolidated entity.
+
+If material is omitted, the report must say so.
+
+300  Annual directors’ report—specific information
+
+             (1)  The directors’ report for a financial year must include details of:
+
+                     (a)  dividends or distributions paid to members during the year; and
+
+                     (b)  dividends or distributions recommended or declared for payment to members, but not paid, during the year; and
+
+                     (c)  the name of each person who has been a director of the company, registered scheme or disclosing entity at any time during or since the end of the year and the period for which they were a director; and
+
+                    (ca)  the name of each person who:
+
+                              (i)  is an officer of the company, registered scheme or disclosing entity at any time during the year; and
+
+                             (ii)  was a partner in an audit firm, or a director of an audit company, that is an auditor of the company, disclosing entity or registered scheme for the year; and
+
+                            (iii)  was such a partner or director at a time when the audit firm or the audit company undertook an audit of the company, disclosing entity or registered scheme; and
+
+                     (d)  options that are:
+
+                              (i)  granted over unissued shares or unissued interests during or since the end of the year; and
+
+                             (ii)  granted to any of the directors or any of the 5 most highly remunerated officers of the company (other than the directors); and
+
+                            (iii)  granted to them as part of their remuneration;
+
+                            (see subsections (3), (4) and (5)); and
+
+                     (e)  unissued shares or interests under option as at the day the report is made (see subsections (3) and (6)); and
+
+                      (f)  shares or interests issued during or since the end of the year as a result of the exercise of an option over unissued shares or interests (see subsections (3) and (7)); and
+
+                     (g)  indemnities given and insurance premiums paid during or since the end of the year for a person who is or has been an officer or auditor (see subsections (8) and (9)).
+
+Public companies, listed companies and registered schemes must include additional information under subsections (10), (11), (11AA), (11A), (11B), (12) and (13) of this section and section 300A.
+
+             (2)  Details do not have to be included in the directors’ report under this section if they are included in the company’s financial report for the financial year.
+
+          (2A)  If subsection (2) is relied on to not include in the directors’ report for a financial year details that would otherwise be required to be included in that report under paragraph (11B)(a) or (11C)(b), that report must specify, in the section headed “Non‑audit services”, where those details may be found in the company’s financial report for that financial year.
+
+             (3)  Paragraphs (1)(d), (e) and (f) cover:
+
+                     (a)  options over unissued shares and interests of the company, registered scheme or disclosing entity; and
+
+                     (b)  if consolidated financial statements are required—options over unissued shares and interests of any controlled entity that is a company, registered scheme or disclosing entity.
+
+Options details
+
+             (5)  The details of an option granted are:
+
+                     (a)  the company, registered scheme or disclosing entity granting the option; and
+
+                     (b)  the name of the person to whom the option is granted; and
+
+                     (c)  the number and class of shares or interests over which the option is granted.
+
+             (6)  The details of unissued shares or interests under option are:
+
+                     (a)  the company, registered scheme or disclosing entity that will issue shares or interests when the options are exercised; and
+
+                     (b)  the number and classes of those shares or interests; and
+
+                     (c)  the issue price, or the method of determining the issue price, of those shares or interests; and
+
+                     (d)  the expiry date of the options; and
+
+                     (e)  any rights that option holders have under the options to participate in any share issue or interest issue of the company, registered scheme or disclosing entity or of any other body corporate or registered scheme.
+
+Shares or interests issued as a result of exercise of option
+
+             (7)  The details of shares or interests issued as a result of the exercise of an option are:
+
+                     (a)  the company, registered scheme or disclosing entity issuing the shares or interests; and
+
+                     (b)  the number of shares or interests issued; and
+
+                     (c)  if the company, registered scheme or disclosing entity has different classes of shares or interests—the class to which each of those shares or interests belongs; and
+
+                     (d)  the amount unpaid on each of those shares or interests; and
+
+                     (e)  the amount paid, or agreed to be considered as paid, on each of those shares or interests.
+
+Indemnities and insurance premiums for officers or auditors
+
+             (8)  The report for a company must include details of:
+
+                     (a)  any indemnity that is given to a current or former officer or auditor against a liability and that is covered by subsection 199A(2) or (3), or any relevant agreement under which an officer or auditor may be given an indemnity of that kind; and
+
+                     (b)  any premium that is paid, or agreed to be paid, for insurance against a current or former officer’s or auditor’s liability for legal costs.
+
+Note:          Sections 199A and 199B contain general prohibitions against giving certain indemnities and paying certain insurance premiums. This subsection requires transactions that are exceptions to these prohibitions to be reported.
+
+             (9)  The details required under subsection (8) are:
+
+                     (a)  for an officer—their name or the class of officer to which they belong or belonged; and
+
+                     (b)  for an auditor—their name; and
+
+                     (c)  the nature of the liability; and
+
+                     (d)  for an indemnity given—the amount the company paid and any other action the company took to indemnify the officer or auditor; and
+
+                     (e)  for an agreement to indemnify—the amount that the relevant agreement requires the company to pay and any other action the relevant agreement requires the company to take to indemnify the officer or auditor; and
+
+                      (f)  for an insurance premium—the amount of the premium.
+
+The report need not give details of the nature of the liability covered by, or the amount of the premium payable under, a contract of insurance to the extent that disclosure of those details is prohibited by the insurance contract.
+
+Special rules for public companies
+
+           (10)  The report for a public company that is not a wholly‑owned subsidiary of another company must also include details of:
+
+                     (a)  each director’s qualifications, experience and special responsibilities; and
+
+                     (b)  the number of meetings of the board of directors held during the year and each director’s attendance at those meetings; and
+
+                     (c)  the number of meetings of each board committee held during the year and each director’s attendance at those meetings; and
+
+                     (d)  the qualifications and experience of each person who is a company secretary of the company as at the end of the year.
+
+Special rules for listed companies and schemes
+
+           (11)  The report for a listed company must also include the following details for each director:
+
+                     (a)  their relevant interests in shares of the company or a related body corporate;
+
+                     (b)  their relevant interests in debentures of, or interests in a registered scheme made available by, the company or a related body corporate;
+
+                     (c)  their rights or options over shares in, debentures of or interests in a registered scheme made available by, the company or a related body corporate;
+
+                     (d)  contracts:
+
+                              (i)  to which the director is a party or under which the director is entitled to a benefit; and
+
+                             (ii)  that confer a right to call for or deliver shares in, or debentures of or interests in a registered scheme made available by the company or a related body corporate;
+
+                     (e)  all directorships of other listed companies held by the director at any time in the 3 years immediately before the end of the financial year and the period for which each directorship has been held.
+
+Note:          Directors must also disclose interests of these kinds to a relevant market operator under section 205G as they are acquired.
+
+     (11AA)  If an individual plays a significant role in the audit of a listed company or listed registered scheme for the financial year in reliance on an approval granted under section 324DAA, the report for the company or scheme must also include details of, and reasons for, the approval.
+
+        (11A)  If a registered company auditor plays a significant role in the audit of a listed company for the financial year in reliance on a declaration made under section 342A, the report for the company must also include details of the declaration.
+
+Listed companies—non‑audit services and auditor independence
+
+        (11B)  The report for a listed company must also include the following in relation to each auditor:
+
+                     (a)  details of the amounts paid or payable to the auditor for non‑audit services provided, during the year, by the auditor (or by another person or firm on the auditor’s behalf);
+
+                     (b)  a statement whether the directors are satisfied that the provision of non‑audit services, during the year, by the auditor (or by another person or firm on the auditor’s behalf) is compatible with the general standard of independence for auditors imposed by this Act;
+
+                     (c)  a statement of the directors’ reasons for being satisfied that the provision of those non‑audit services, during the year, by the auditor (or by another person or firm on the auditor’s behalf) did not compromise the auditor independence requirements of this Act.
+
+These details and statements must be included in the directors’ report under the heading “Non‑audit services”. If consolidated financial statements are required, the details and statements must relate to amounts paid or payable to the auditor by, and non‑audit services provided to, any entity (including the company, registered scheme or disclosing entity) that is part of the consolidated entity.
+
+        (11C)  For the purposes of paragraph (11B)(a), the details of amounts paid or payable to an auditor for non‑audit services provided, during the year, by the auditor (or by another person or firm on the auditor’s behalf) are:
+
+                     (a)  the name of the auditor; and
+
+                     (b)  the dollar amount that:
+
+                              (i)  the listed company; or
+
+                             (ii)  if consolidated financial statements are required—any entity that is part of the consolidated entity;
+
+                            paid, or is liable to pay, for each of those non‑audit services.
+
+        (11D)  The statements under paragraphs (11B)(b) and (c) must be made in accordance with:
+
+                     (a)  advice provided by the listed company’s audit committee if the company has an audit committee; or
+
+                     (b)  a resolution of the directors of the listed company if paragraph (a) does not apply.
+
+        (11E)  For the purposes of subsection (11D), a statement is taken to be made in accordance with advice provided by the company’s audit committee only if:
+
+                     (a)  the statement is consistent with that advice and does not contain any material omission of material included in that advice; and
+
+                     (b)  the advice is endorsed by a resolution passed by the members of the audit committee; and
+
+                     (c)  the advice is written advice signed by a member of the audit committee on behalf of the audit committee and given to the directors.
+
+Special rules for listed registered schemes
+
+           (12)  The report for a registered scheme whose interests are quoted on a prescribed financial market must also include the following details for each director of the company that is the responsible entity for the scheme:
+
+                     (a)  their relevant interests in interests in the scheme;
+
+                     (b)  their rights or options over interests in the scheme;
+
+                     (c)  contracts to which the director is a party or under which the director is entitled to a benefit and that confer a right to call for or deliver interests in the scheme.
+
+Special rules for registered schemes
+
+           (13)  The report for a registered scheme must also include details of:
+
+                     (a)  the fees paid to the responsible entity and its associates out of scheme property during the financial year; and
+
+                     (b)  the number of interests in the scheme held by the responsible entity or its associates as at the end of the financial year; and
+
+                     (c)  interests in the scheme issued during the financial year; and
+
+                     (d)  withdrawals from the scheme during the financial year; and
+
+                     (e)  the value of the scheme’s assets as at the end of the financial year, and the basis for the valuation; and
+
+                      (f)  the number of interests in the scheme as at the end of the financial year.
+
+Proceedings on behalf of a company
+
+           (14)  The report for a company must also include the following details of any application for leave under section 237 made in respect of the company:
+
+                     (a)  the applicant’s name; and
+
+                     (b)  a statement whether leave was granted.
+
+           (15)  The report for a company must also include the following details of any proceedings that a person has brought or intervened in on behalf of the company with leave under section 237:
+
+                     (a)  the person’s name;
+
+                     (b)  the names of the parties to the proceedings;
+
+                     (c)  sufficient information to enable members to understand the nature and status of the proceedings (including the cause of action and any orders made by the court).
+
+300A  Annual directors’ report—specific information to be provided by listed companies
+
+             (1)  The directors’ report for a financial year for a company must also include (in a separate and clearly identified section of the report):
+
+                     (a)  discussion of board policy for determining, or in relation to, the nature and amount (or value, as appropriate) of remuneration of the key management personnel for:
+
+                              (i)  the company, if consolidated financial statements are not required; or
+
+                             (ii)  the consolidated entity, if consolidated financial statements are required; and
+
+                     (b)  discussion of the relationship between such policy and the company’s performance; and
+
+                   (ba)  if an element of the remuneration of a member of the key management personnel for the company, or if consolidated financial statements are required, for the consolidated entity is dependent on the satisfaction of a performance condition:
+
+                              (i)  a detailed summary of the performance condition; and
+
+                             (ii)  an explanation of why the performance condition was chosen; and
+
+                            (iii)  a summary of the methods used in assessing whether the performance condition is satisfied and an explanation of why those methods were chosen; and
+
+                            (iv)  if the performance condition involves a comparison with factors external to the company:
+
+                                        (A)  a summary of the factors to be used in making the comparison; and
+
+                                        (B)  if any of the factors relates to the performance of another company, of 2 or more other companies or of an index in which the securities of a company or companies are included—the identity of that company, of each of those companies or of the index; and
+
+                     (c)  the prescribed details in relation to the remuneration of:
+
+                              (i)  if consolidated financial statements are required—each member of the key management personnel for the consolidated entity; or
+
+                             (ii)  if consolidated financial statements are not required—each member of the key management personnel for the company; and
+
+                     (d)  if an element of the remuneration of a person referred to in paragraph (c) consists of securities of a body and that element is not dependent on the satisfaction of a performance condition—an explanation of why that element of the remuneration is not dependent on the satisfaction of a performance condition; and
+
+                     (e)  for each person referred to in paragraph (c):
+
+                              (i)  an explanation of the relative proportions of those elements of the person’s remuneration that are related to performance and those elements of the person’s remuneration that are not; and
+
+                             (ii)  the value (worked out as at the time they are granted and in accordance with any applicable accounting standards) of options that are granted to the person during the year as part of their remuneration; and
+
+                            (iii)  the value (worked out as at the time they are exercised) of options that were granted to the person as part of their remuneration and that are exercised by the person during the year; and
+
+                            (iv)  if options granted to the person as part of their remuneration lapse during the financial year—the number of those options, and the financial year in which those options were granted; and
+
+                           (vii)  if the person is employed by the company under a contract—the duration of the contract, the periods of notice required to terminate the contract and the termination payments provided for under the contract; and
+
+                      (f)  such other matters related to the policy or policies referred to in paragraph (a) as are prescribed by the regulations; and
+
+                     (g)  if:
+
+                              (i)  at the company’s most recent AGM, comments were made on the remuneration report that was considered at that AGM; and
+
+                             (ii)  when a resolution that the remuneration report for the last financial year be adopted was put to the vote at the company’s most recent AGM, at least 25% of the votes cast were against adoption of that report;
+
+                            an explanation of the board’s proposed action in response or, if the board does not propose any action, the board’s reasons for inaction; and
+
+                     (h)  if a remuneration consultant made a remuneration recommendation in relation to any of the key management personnel for the company or, if consolidated financial statements are required, for the consolidated entity, for the financial year:
+
+                              (i)  the name of the consultant; and
+
+                             (ii)  a statement that the consultant made such a recommendation; and
+
+                            (iii)  if the consultant provided any other kind of advice to the company or entity for the financial year—a statement that the consultant provided that other kind or those other kinds of advice; and
+
+                            (iv)  the amount and nature of the consideration payable for the remuneration recommendation; and
+
+                             (v)  the amount and nature of the consideration payable for any other kind of advice referred to in subparagraph (iii); and
+
+                            (vi)  information about the arrangements the company made to ensure that the making of the remuneration recommendation would be free from undue influence by the member or members of the key management personnel to whom the recommendation relates; and
+
+                           (vii)  a statement about whether the board is satisfied that the remuneration recommendation was made free from undue influence by the member or members of the key management personnel to whom the recommendation relates; and
+
+                          (viii)  if the board is satisfied that the remuneration recommendation was made free from undue influence by the member or members of the key management personnel to whom the recommendation relates—the board’s reasons for being satisfied of this.
+
+       (1AA)  Without limiting paragraph (1)(b), the discussion under that paragraph of the company’s performance must specifically deal with:
+
+                     (a)  the company’s earnings; and
+
+                     (b)  the consequences of the company’s performance on shareholder wealth;
+
+in the financial year to which the report relates and in the previous 4 financial years.
+
+       (1AB)  In determining, for the purposes of subsection (1AA), the consequences of the company’s performance on shareholder wealth in a financial year, have regard to:
+
+                     (a)  dividends paid by the company to its shareholders during that year; and
+
+                     (b)  changes in the price at which shares in the company are traded between the beginning and the end of that year; and
+
+                     (c)  any return of capital by the company to its shareholders during that year that involves:
+
+                              (i)  the cancellation of shares in the company; and
+
+                             (ii)  a payment to the holders of those shares that exceeds the price at which shares in that class are being traded at the time when the shares are cancelled; and
+
+                     (d)  any other relevant matter.
+
+          (1A)  The material referred to in subsection (1) must be included in the directors’ report under the heading “Remuneration report”.
+
+          (1C)  Without limiting paragraph (1)(c), the regulations may:
+
+                     (a)  provide that the value of an element of remuneration is to be determined, for the purposes of this section, in a particular way or by reference to a particular standard; and
+
+                     (b)  provide that details to be given of an element of remuneration must relate to the remuneration provided in:
+
+                              (i)  the financial year to which the directors’ report relates; and
+
+                             (ii)  the earlier financial years specified in the regulations.
+
+             (2)  This section applies to any listed disclosing entity that is a company.
+
+             (3)  This section applies despite anything in the company’s constitution.
+
+             (4)  For the purposes of this section, if:
+
+                     (a)  consolidated financial statements are required; and
+
+                     (b)  a person is a group executive who is a group executive of 2 or more entities within the consolidated entity;
+
+the person’s remuneration is taken to include all of the person’s remuneration from those entities (regardless of the capacity in which the person received the remuneration).
+
+300B  Annual directors’ report—companies limited by guarantee
+
+             (1)  The directors’ report for a financial year for a company limited by guarantee must:
+
+                     (a)  contain a description of the short and long term objectives of the entity reported on; and
+
+                     (b)  set out the entity’s strategy for achieving those objectives; and
+
+                     (c)  state the entity’s principal activities during the year; and
+
+                     (d)  state how those activities assisted in achieving the entity’s objectives; and
+
+                     (e)  state how the entity measures its performance, including any key performance indicators used by the entity.
+
+             (2)  The entity reported on is:
+
+                     (a)  the company (if consolidated financial statements are not required); or
+
+                     (b)  the consolidated entity (if consolidated financial statements are required).
+
+             (3)  The directors’ report for a financial year for a company limited by guarantee must also include details of:
+
+                     (a)  the name of each person who has been a director of the company at any time during or since the end of the year and the period for which the person was a director; and
+
+                     (b)  each director’s qualifications, experience and special responsibilities; and
+
+                     (c)  the number of meetings of the board of directors held during the year and each director’s attendance at those meetings; and
+
+                     (d)  for each class of membership in the company—the amount which a member of that class is liable to contribute if the company is wound up; and
+
+                     (e)  the total amount that members of the company are liable to contribute if the company is wound up.
