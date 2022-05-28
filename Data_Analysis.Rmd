@@ -47,6 +47,13 @@ Load in the data:
 
 ```
 
+## Merge multi-word expressions
+Merge back multi-word expressions. This is done based on the RAKE algorithm. First, a list needs to be made indicating if a term was a noun, adjective, verb/gerund or not. This list can then be used to filter out the other POS terms. After multi- key words are found, they are taken togehter with the ESG key word list and used to merge tokens. Words are connected through an underscore. For example "corporate governance" becomes "corporate_governance".
+```{r}
+
+```
+
+
 ```{r}
 
 ```

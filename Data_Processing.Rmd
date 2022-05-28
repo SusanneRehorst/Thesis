@@ -55,7 +55,7 @@ Mandatory E, S, or G regulations are merged if they come from the same sources a
 ```
 
 ## Data Cleaning
-Preliminary cleaning: Remove double white spaces, double quotes and line break (/n) expressions. This is recommended for the quantity and readability analysis in order to work properly. 
+Preliminary cleaning: Remove double white spaces, double quotes and line break (/n) expressions. This is recommended for the quantity and readability analysis in order to work properly. ... .Also remove alphanumeric characters. 
 ```{r}
 ## ----- General cleaning that is used for all analysis -----
 
@@ -90,21 +90,15 @@ Vector_Data_Q <- gsub('[\'’]', '', Vector_Data)
 
 ```
 
-## Create quantity measures
-Before further processing steps, the data is analyzed on quantity. This includes calculating the number of words, sentences, characters and syllables for every document. 
-```{r}
-Quantity_Data <- doc_counts(Vector_Data_Q) 
-Quantity_Data
-```
-
-## Create readability measures
-Another exploratory analysis, before further processing, is measuring the readability of the texts
+## Create quantity and readability measures
+Before further processing steps, the data is analyzed on quantity. This includes calculating the number of words, sentences, characters and syllables for every document. Also, several readability measures are calculated.  
 ```{r}
 Quantity_Data <- readability(Vector_Data_Q) 
 Quantity_Data
-``` 
+```
+
 ## Remove remaining punctuation marks, separators, and symbols; and make text lowercase. 
-Remove remaining punctuation marks and make text lowercase. But preserve intra word contractions and intra word dashes (is used for lemmatization)
+Remove remaining punctuation marks and make text lowercase. But preserve intra word contractions and intra word dashes (is used for lemmatization).
 ```{r}
 Vector_Data <- removePunctuation(Vector_Data,
                               preserve_intra_word_contractions = TRUE,
@@ -112,6 +106,114 @@ Vector_Data <- removePunctuation(Vector_Data,
                               ucp = FALSE)
 Vector_Data <- tolower(Vector_Data)
 ```
+
+# Measure restrictiveness of texts
+Measure in each document the occurence of a pre-selected list of words: 
+```{r}
+# ---------------- Create list of words that will be used to count restrictiveness  ------------------------ #
+
+# Restrictive words
+requirement <- c("requirement","require","required","requires","requiring")
+must <- c("must")
+need_to <- c("need to","needs to","needing")
+have_to <- c("have to","has to","having to")
+shall <- c("shall")
+prohibtion <- c("prohibit","prohibited","prohibition","prohibiting")
+can_not <- c("can not","cannot","do not")
+necessary <- c("necessary")
+will_not <- c("will not","will")
+
+# Advice words
+should <- c("should","should not")
+may <- c("may")
+ought <- c("ought")
+can <- c("can")
+advice <- c("advice","advised","advises","advices","advising")
+
+# Action words
+keep <- c("keep","keeps","kept","keeping")
+indicate <- c("indicate","indicates","indicated","indicating")
+do <- c("do","doing","done")
+show <- c("show","shows","showing","showed")
+use <- c("use","uses","using","used")
+report <- c("report","reports","reporting","reported")
+
+# Strongly negative or strongly positive words
+negative_strong <- c("never","none","not","nor","nothing","neither")
+positive_strong <- c("always","entire","entirely","everywhere","all","everything")
+
+# Exemptions
+exemption <- c("except","exemption","exempted","exempt","excluded","excluding")
+
+# Examples
+example <- c("example","for instance")
+
+# ----------- Count the occurrence of words and store the results in a data frame ------------------------- #
+
+# set word boundaries so that only a unique match is counted
+requirement<- paste0("\\b",requirement,"\\b")
+must<- paste0("\\b",must,"\\b")
+need_to<- paste0("\\b",need_to,"\\b")
+have_to<- paste0("\\b",have_to,"\\b")
+shall<- paste0("\\b",shall,"\\b")
+prohibtion<- paste0("\\b",prohibtion,"\\b")
+can_not<- paste0("\\b",can_not,"\\b")
+necessary<- paste0("\\b",necessary,"\\b")
+will_not<- paste0("\\b",will_not,"\\b")
+should<- paste0("\\b",should,"\\b")
+may<- paste0("\\b",may,"\\b")
+ought<- paste0("\\b",ought,"\\b")
+can<- paste0("\\b",can,"\\b")
+advice<- paste0("\\b",advice,"\\b")
+keep<- paste0("\\b",keep,"\\b")
+indicate<- paste0("\\b",indicate,"\\b")
+do<- paste0("\\b",do,"\\b")
+show<- paste0("\\b",show,"\\b")
+use<- paste0("\\b",use,"\\b")
+report<- paste0("\\b",report,"\\b")
+negative_strong<- paste0("\\b",negative_strong,"\\b")
+positive_strong<- paste0("\\b",positive_strong,"\\b")
+exemption<- paste0("\\b",exemption,"\\b")
+example<- paste0("\\b",example,"\\b")
+
+# Create a data frame to store the word counts
+Restriction_Data <- data.frame()
+
+# Count words
+Restriction_Data$requirement<-str_count(Vector_Data,paste(requirement, collapse="|"))
+Restriction_Data$must<-str_count(Vector_Data,paste(must, collapse="|"))
+Restriction_Data$need_to<-str_count(Vector_Data,paste(need_to, collapse="|"))
+Restriction_Data$have_to<-str_count(Vector_Data,paste(have_to, collapse="|"))
+Restriction_Data$shall<-str_count(Vector_Data,paste(shall, collapse="|"))
+Restriction_Data$prohibtion<-str_count(Vector_Data,paste(prohibtion, collapse="|"))
+Restriction_Data$can_not<-str_count(Vector_Data,paste(can_not, collapse="|"))
+Restriction_Data$necessary<-str_count(Vector_Data,paste(necessary, collapse="|"))
+Restriction_Data$will_not<-str_count(Vector_Data,paste(will_not, collapse="|"))
+Restriction_Data$should<-str_count(Vector_Data,paste(should, collapse="|"))
+Restriction_Data$may<-str_count(Vector_Data,paste(may, collapse="|"))
+Restriction_Data$ought<-str_count(Vector_Data,paste(ought, collapse="|"))
+Restriction_Data$can<-str_count(Vector_Data,paste(can, collapse="|"))
+Restriction_Data$advice<-str_count(Vector_Data,paste(advice, collapse="|"))
+Restriction_Data$keep<-str_count(Vector_Data,paste(keep, collapse="|"))
+Restriction_Data$indicate<-str_count(Vector_Data,paste(indicate, collapse="|"))
+Restriction_Data$do<-str_count(Vector_Data,paste(do, collapse="|"))
+Restriction_Data$show<-str_count(Vector_Data,paste(show, collapse="|"))
+Restriction_Data$use<-str_count(Vector_Data,paste(use, collapse="|"))
+Restriction_Data$report<-str_count(Vector_Data,paste(report, collapse="|"))
+Restriction_Data$negative_strong<-str_count(Vector_Data,paste(negative_strong, collapse="|"))
+Restriction_Data$positive_strong<-str_count(Vector_Data,paste(positive_strong, collapse="|"))
+Restriction_Data$exemption<-str_count(Vector_Data,paste(exemption, collapse="|"))
+Restriction_Data$example<-str_count(Vector_Data,paste(example, collapse="|"))
+
+# Sum up word counts within specific categories      
+Restriction_Data$restriction <- sum(requirement,must,need_to,have_to,shall,prohibtion,can_not,necessary,will_not)
+Restriction_Data$advice <- sum(should,may,ought,can,advice)
+Restriction_Data$action <- sum(keep,indicate,do,show,use,report)
+
+# Create a DOC_ID
+Restriction_Data$DOC_ID <- 1:nrow(Restriction_Data)
+```
+
 
 ## Tokenizing and lemmatization
 The udpipe package is used to tokenize and lemmatize the text. Also, POS tagging is performed. 
@@ -137,17 +239,19 @@ x <- x %>% select(doc_id, token_id, lemma, upos)
 ```
 
 ## Remove stopwords
-Remove stop words that do not add meaning to the text. First, a stopword list is retrieved. Subsequently, words that equal the stop word are removed from the corpus. NOTE: Remove stop words from the list that contain advisory and restrictive words. 
+Remove stop words that do not add meaning to the text. First, a stop word list is retrieved. Subsequently, words that equal the stop word are removed from the corpus. 
 ```{r}
-stopwords <- tm::stopwords(kind = "SMART")
-# Manually adjust stop words list
-x <- x[ ! x$lemma %in% stopwords, ]
+part1 <- c("a", "able", "about", "above", "according", "accordingly", "across", "actually", "after", "afterwards", "again", "against", "ain't", "allows", "almost", "alone", "along", "already", "also", "although", "am", "among", "amongst", "an", "and", "another", "any", "anybody", "anyhow", "anyone", "anything", "anyway", "anyways", "anywhere", "apart", "appear", "appreciate", "appropriate", "are", "aren't", "around", "as", "a's", "aside", "ask", "asking", "associated", "at", "available", "away", "awfully", "b", "be", "became", "because", "become", "becomes", "becoming", "been", "before", "beforehand", "behind", "being", "believe", "below", "beside", "besides", "best", "better", "between", "beyond", "both", "brief", "but", "by", "c", "came", "cause", "causes", "certain", "certainly", "changes", "clearly", "c'mon", "co", "com", "come", "comes", "concerning", "consequently", "consider", "considering", "contain", "containing", "contains", "corresponding", "could", "couldn't", "course", "c's", "currently", "d", "definitely", "described", "despite", "did", "didn't", "different", "does", "doesn't", "done", "don't", "down", "downwards", "during", "e", "each", "edu", "eg", "eight", "either", "else", "elsewhere", "enough", "especially", "et", "etc", "even", "ever", "every", "everybody", "everyone", "ex", "exactly", "f", "far", "few", "fifth", "first", "five", "followed", "following", "follows", "for", "former", "formerly", "forth", "four", "from", "further", "furthermore", "g", "get", "gets", "getting", "given", "gives", "go", "goes", "going", "gone", "got", "gotten", "greetings", "h", "had", "hadn't", "happens", "hardly", "has", "hasn't", "have", "haven't", "having", "he", "hello", "help", "hence", "her", "here", "hereafter", "hereby", "herein", "here's", "hereupon", "hers", "herself", "he's", "hi", "him", "himself", "his", "hither", "hopefully", "how", "howbeit", "however", "i", "i'd", "ie", "if", "ignored", "i'll", "i'm", "immediate", "in", "inasmuch", "inc", "indeed", "indicated", "indicates", "inner", "insofar", "instead", "into", "inward", "is", "isn't", "it", "it'd", "it'll", "its", "it's", "itself", "i've", "j", "just", "k", "keeps", "kept", "know", "known", "knows", "l", "last", "lately", "later", "latter", "latterly", "least", "less", "lest", "let", "let's", "like", "liked", "likely", "little", "look", "looking", "looks", "ltd", "m", "mainly", "many", "maybe", "me", "mean", "meanwhile", "merely", "might", "more", "moreover", "most", "mostly", "much", "my", "myself", "n", "name", "namely", "nd", "near", "nearly", "needs", "nevertheless", "new", "next", "nine", "nobody", "non", "noone", "normally", "novel", "now", "nowhere", "o", "obviously", "of", "off", "often", "oh", "ok", "okay", "old", "on", "once", "one", "ones", "only", "onto", "or", "other", "others", "otherwise", "our", "ours", "ourselves", "out", "outside", "over", "overall", "own", "p", "particular", "particularly", "per", "perhaps", "placed", "please", "plus", "possible", "presumably", "probably", "provides", "q", "que", "quite", "qv", "r", "rather", "rd", "re", "really", "reasonably", "regarding", "regardless", "regards", "relatively", "respectively", "right", "s", "said", "same", "saw", "say", "saying", "says", "second", "secondly", "see", "seeing", "seem", "seemed", "seeming", "seems", "seen", "self", "selves", "sensible", "sent", "serious", "seriously", "seven", "several", "she", "since", "six", "so", "some", "somebody", "somehow", "someone", "something", "sometime", "sometimes", "somewhat", "somewhere", "soon", "sorry", "specified", "specify", "specifying", "still", "sub", "such", "sup", "sure", "t", "take", "taken", "tell", "tends", "th", "than", "thank", "thanks", "thanx", "that", "thats", "that's", "the", "their", "theirs", "them", "themselves", "then", "thence", "there", "thereafter", "thereby", "therefore", "therein", "theres", "there's", "thereupon", "these", "they", "they'd", "they'll", "they're", "they've", "think", "third", "this", "thorough", "thoroughly", "those", "though", "three", "through", "throughout", "thru", "thus")
+
+part2 <- c("to", "together", "too", "took", "toward", "towards", "tried", "tries", "truly", "try", "trying", "t's", "twice", "two", "u", "un", "under", "unfortunately", "unless", "unlikely", "until", "unto", "up", "upon", "us", "used", "useful", "uses", "usually", "uucp", "v", "value", "various", "very", "via", "viz", "vs", "w", "want", "wants", "was", "wasn't", "way", "we", "we'd", "welcome", "well", "we'll", "went", "were", "we're", "weren't", "we've", "what", "whatever", "what's", "when", "whence", "whenever", "where", "whereafter", "whereas", "whereby", "wherein", "where's", "whereupon", "wherever", "whether", "which", "while", "whither", "who", "whoever", "whole", "whom", "who's", "whose", "why", "willing", "wish", "with", "within", "without", "wonder", "would", "would", "wouldn't", "x", "y", "yes", "yet", "you", "you'd", "you'll", "your", "you're", "yours", "yourself", "yourselves", "you've", "z", "zero")
+
+stopwords <- c(part1, part2)
+rm(part1)
+rm(part2)
 ```
 
-## Merge multi-word expressions
-Merge back multi-word expressions. This is done based on the RAKE algorithm. First, a list needs to be made indicating if a term was a noun, adjective, verb/gerund or not. This list can then be used to filter out the other POS terms. After multi- key words are found, they are taken togehter with the ESG key word list and used to merge tokens. Words are connected through an underscore. For example "corporate governance" becomes "corporate_governance".
 ```{r}
-
+x <- x[ ! x$lemma %in% stopwords, ]
 ```
 
 ## Filter out tokens based on POS
@@ -155,11 +259,14 @@ Merge back multi-word expressions. This is done based on the RAKE algorithm. Fir
 
 ```
 
-## Store the processed data
+## Save the processed data
+Data is now ready to be processed. This includes creating token vectors that are weighted, for each document in the sample, and calculating similarity. Also, it includes topic analysis (ESG topics) and key word extraction and a regression. 
 ```{r}
 # Quantity Data  
 
-# Tidy text table
+# Restriction Data
+
+# Tidy text format table
 
 
 ```
