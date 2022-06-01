@@ -1,0 +1,701 @@
+1
+Authorised Use Only – PUBLIC
+SUSTAINABILITY DISCLOSURE
+GUIDELINES1
+
+1 Rule Making History
+1. The draft Guidelines were presented to the Rules and Adjudication Committee of Council (RAC) at the RAC Meeting
+of 29 November 2016 and approved for exposure to stakeholders for comments;
+2. The draft Guidelines were exposed for stakeholders’ comments from 14 December 2016 to 16 January 2017;
+3. The RAC considered the draft Guidelines, and stakeholders’ comments thereon at its Meeting of 20 March 2017
+and approved the draft Rules for submission to the National Council of The Exchange (Council);
+4. The Council approved the draft Guidelines at its Meeting of 25 May 2017 for submission to the Securities and
+Exchange Commission (SEC);
+5. The Council approved Guidelines were submitted to the SEC for approval on 16 June 2017;
+6. The SEC approved the Guidelines on 9 November 2018.
+2
+Authorised Use Only – PUBLIC
+TABLE OF CONTENTS
+1. Introduction Page 3
+2. Section 1: Sustainability Value Proposition Page 4
+3. Section 2: Approach to Integrating Sustainability in Organisations Page 9
+4. Section 3: Principles and Core Elements Page 12
+5. Section 4: Reporting Requirements Page 17
+- Bibliography Page 21
+
+SECTION 1. RELEVANCE AND VALUE PROPOSITION
+1.1 Overview
+The leadership role of governments, market regulators, operators, inter-governmental organisations and
+international associations with regard to implementing sustainability policies and regulation, is increasingly
+evidenced by the growing trend towards responsible investment through initiatives such as United Nations
+Environment Programme Finance Initiative (UNEPFI), United Nations Principles for Responsible Initiative
+(UNPRI), Sustainable Stock Exchanges Initiative (SSE), World Federation of Exchanges (WFE), Investor
+Network on Climate Risk and the Corporate Sustainability Reporting Coalition led by AVIVA Investors.
+Global sustainable investment market has continued to grow, rising from $13.3 trillion at the outset of 2012
+to $21.4 trillion at the start of 2014, and from 21.5 percent to 30.2 percent of the professionally managed
+assets. In the past 10 years, ESG Funds and Asset under Management (AUM) has continued to grow both in
+absolute and relative terms. For instance, AUM for PRI signatories now stands at more than $59 trillion, up
+from $4 trillion at the PRI’s launch in 2006.
+0
+50
+100
+150
+200
+2006 2010 2013
+Regulatory And Voluntary Initiatives
+Requiring Sustainability Reporting
+Mandatory
+Voluntary
+5
+Authorised Use Only – PUBLIC
+Source: United Nations Principles for Responsible Investment (UNPRI)
+Therefore, transparency around how a company manages ESG risks and opportunities should be disclosed as
+part of its value proposition. As a result, the financial community increasingly recognizes that to thoroughly
+assess an investment, it should also analyze relevant ESG factors.
+1.2. Sustainability: Conceptual Clarification
+It is important to note that these Guidelines use the term “Sustainability” as it is commonly used among
+companies, while the term “ESG” is used interchangeably as it is common among investorsii. For the purpose
+of these Guidelines, both terms encompass the broad set of economic, environmental, social and governance
+considerations that can impact a company’s ability to execute its business strategy and create or destroy
+value.
+There is no universally agreed definition of what sustainability means. However, the idea of sustainability
+stems from the concept of sustainable development which became common language at the World's first
+Earth Summit in Rio in 1992. The original definition of sustainable development as stated in the Brundtland
+Report for the World Commission on Environment and Development (1992) is usually considered to as
+"Development that meets the needs of the present without compromising the ability of future generations
+to meet their own needs."
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+0
+10
+20
+30
+40
+50
+60
+70
+Apr06
+Apr07
+Apr08
+Apr09
+Apr10
+Apr11
+Apr12
+Apr13
+Apr14
+Apr15
+Number of investors and AUM signed up to UN PRI
+Assets under management (US$ trillion) Number of Signatories
+6
+Authorised Use Only – PUBLIC
+While ESG factors are at times called “non-financial” or “extra-financial”, how a company manages them has
+financial consequences. They can impact:
+- Access to capital
+- Resource efficiency, cost savings and productivity
+- Risk management
+- Revenue growth and market access
+- Brand value and reputation
+- License to operate
+- Human capital- Employee retention and recruitment
+- Company value as an acquisition target
+- Ability to acquire other high-quality companies
+For the purpose of these Guidelines, sustainability will encompass the following areas:
+ Economic: This relates to the organisation’s impact on the economic conditions of its stakeholders
+and the interaction or relationship with the economic systems at local, national, and global levels. It
+does not merely focus on the financial conditions of organisations.
+Financial performance is fundamental to understanding an organisation and its own sustainability.
+However, this information is normally already reported in financial accounts. What is often reported
+less, and is increasingly sought by users of sustainability reports such as investors, is the
+organisation’s contribution to the sustainability of a larger economic system.
+Environmental: The environmental dimension of sustainability concerns an organisation’s impact on
+living and non-living natural systems, including ecosystems, land, air, and water. Environmental
+indicators cover performance related to inputs (e.g., material, energy, water) and outputs (e.g.,
+emissions, effluents, waste). iii
+Social: The social dimension of sustainability concerns the impacts an organisation has on the social
+systems such as labour practices, human rights and relationship with communities within which it
+operates. iv
+Governance: This will include subject areas of the NSE Corporate Governance Rating System. A key
+indicator of sustainability integration is clear assignment of accountabilities and responsibilities for
+environmental, social and broader economic performance from the Board level through the
+corporate/group executive to the executive and operational management of each business division
+within a company.
+7
+Authorised Use Only – PUBLIC
+1.3 Relevance and value proposition for integrating sustainability in your organisation and reporting:
+Enhanced Brand and Increased Competitive
+Advantage:
+ Exhibit corporate adherence to industry
+ethical standards and national and
+international frameworks on corporate
+sustainability and sustainable development,
+particularly in light of the UN Sustainable
+Development Goals.
+ Enhance corporate reputation by
+improving stakeholders’ perception of a
+company through reporting-‐related
+stakeholder engagement.
+ Improve employee perception of the
+company, helping to attract, retain, motivate,
+and align new and existing employees.
+The Natural Marketing Institute (NMI) has found
+in their consumer research that knowing a
+company is mindful of its impact on the
+environment and society makes consumers 58%
+more likely to buy their products or services.
+Increased Productivity and Reduced Costs
+Through development of more sustainable
+business practices, efficiency in operations will
+increase. With better use and conservation of
+resources, operations will be streamlined and
+costs will decrease.
+An example of a company implementing longterm sustainability measures to increase overall
+efficiency and operational performance is
+Walmart. Wanting to take the lead in a sectorwide evolution towards sustainability, Walmart
+set goals of becoming totally supplied by
+renewable energy, having zero waste and selling
+products that sustain people and the environment
+back in 2005. Over the 2012 fiscal year, Walmart
+saved about US$231 million by means of efficient
+waste management and recycling; an estimated
+US$150 million were saved over 2013 through
+renewable energy projects and a zero waste
+programme.
+Improve Financial and Investment Opportunity
+Financial and investment analysts have recognized
+companies who have developed sustainability
+plans with regards to energy efficiency and
+reduction of environmental impact as an
+important evaluation criterion.
+A Goldman Sachs’ study revealed that companies
+in six industries considered leaders in
+environmental, social and governance policies
+have outperformed the general stock market by
+25%, with 72% of the companies outperforming
+their peers since August 2005. Another study
+based on CFO Research that surveyed 175 top
+finance executives, showed that more than half
+believe their companies will increase revenue
+through strong sustainability initiatives.
+8
+Authorised Use Only – PUBLIC
+Increase Employee Retention and Recruitment
+Employees want to work with companies who are
+‘doing the right thing’ and being proactive with
+corporate environmental and social programs.
+A 2007 survey by Adecco, an international HR
+company, found that 52% of employed adults feel
+their companies should do more about the
+environment. More importantly, companies want
+their employees to be loyal and ethical to the
+organisation. According to a Global Study of
+Business Ethics by the American Management
+Association, one of the top five internal practices
+for ensuring an ethical corporate culture is
+developing corporate social responsibility
+programmes.
+Compliance and Risk Management
+Better management of risks that arise from
+sustainability issues begins with detecting key
+risks of operational disruptions from climate
+change, resource scarcity, or community issues
+(such as boycotts or delays in getting permits for
+manufacturing).
+Faced with potential supply constraints, Nestlé,
+for example, launched a plan in 2009 that
+coordinates activities to promote sustainable
+cocoa: producing 12 million stronger and more
+productive plants over the next ten (10) years,
+teaching local farmers efficient and sustainable
+methods, purchasing beans from farms that use
+sustainable practices, and working with
+organisations to help tackle issues like child labour
+and poor access to health care and education.
+The mining giant BHP Billiton managed its
+exposure to emerging regulations by
+systematically reducing its emissions.
+Returns on capital
+Most companies creating value through
+sustainability look first to improving returns on
+capital, which often means reducing operating
+costs through improved natural-resource
+management (such as energy use and waste).
+Dow Chemical, for example, reported that it
+invested less than US$2 billion since 1994 to
+improve its resource efficiency. To date the
+company has saved more than US$9.8 billion from
+reduced energy consumption and water waste in
+its manufacturing processes, even as it continues
+to develop innovations.
+Source: The business of sustainability: McKinsey Global Survey results
+The choice for companies today is not if, but how, they should manage their sustainability activities.
+Companies can choose to see this agenda as a necessary evil—a matter of compliance or a risk to be managed
+while they get on with the business of business—or they can think of it as a novel way to open up new
+business opportunities while creating value for society.
+9
+Authorised Use Only – PUBLIC
+SECTION 2. APPROACH TO INTEGRATING SUSTAINABILITY IN ORGANISATIONS
+Embedding sustainable business practices into the DNA of an organisation requires total commitment from
+the Board of Directors (or those responsible for governance) and the senior executive team. It is a change
+program that should be carefully planned and implemented in measured stages.
+The Board of Directors has responsibility for integrating sustainable business practices in the administration,
+growth and development of organisations. The key is to set and clarify the corporate strategy, the objectives
+and required outcomes from an ESG perspective. The organisation should then engage, enhance and develop
+its key resources and relationships to implement its strategy to achieve the sustainable business outcomes.
+For companies to balance their financial, social, and environmental risks, obligations and opportunities,
+sustainability should move from being an add-on to ‘just the way we do things around here.’
+Step by Step Guide
+There are various approaches to integrating sustainability. However, what these approaches all have in
+common is that they seek to:
+ Integrate social, economic, governance and environmental aspects of the business.
+ It takes an inclusive approach to stakeholder involvement and empowerment.
+ It provides a long term view.
+This diagram summarizes the strategic approach to embedding sustainability in a very simple way:
+ Identify key issues & drivers – Why is embedding sustainability important to my organisation? What
+are the internal and external drivers? What are my organisation’s material relevant sustainability
+issues?
+ Develop strategy – What does good practice look like for each material issue? What broad strategies
+can be implemented to achieve this?
+ Establish governance & accountability – Who does what to deliver these broad strategies per
+material issue?
+ Set targets & action plan – Where do we want to be in ‘x’ number of years? What concrete
+actions/activities do we need to achieve the targets? Which of our existing initiatives can we include
+to the action plan to help deliver our targets?
+ Monitor, report & evaluate – How have we performed so far? Are our processes working?
+1. Identify key issues & drivers: It is important to be clear about how sustainable development fits in with
+the organisation’s core business, activities and objectives. Clearly understanding this will help companies to
+understand several key things, such as:
+ Why they should adopt a more proactive approach to integrating sustainability within core business;
+ The corresponding risks of not doing so;
+ It will give a better understanding of the benefits organisations might achieve.
+Identify key
+issues & drivers
+Develop
+strategy
+Establish
+governance &
+accountability
+Set targets &
+action plan Monitor Report &
+evaluate
+10
+Authorised Use Only – PUBLIC
+This process will also need to consider the implications for operations and core activities, whether that is
+providing products and services or setting public policy. The issues and drivers for embedding sustainability
+will vary according to the context in which a particular organisation operates. But they are likely to follow a
+consistent set of themes, which may initially be explored using a simple analysis, for example by using a
+method like PESTEL:
+ Political – e.g. what are the political expectations on the organisation to embrace sustainability?
+ Economic – e.g. what are the economic drivers for sustainability for example in reducing resource
+costs?
+ Social – e.g. what is the social context in which the organisation operates?
+ Technological – e.g. are there technological changes that embedding sustainability might help the
+organisation to adapt to?
+ Environmental – e.g. how might environmental changes affect the organisation in the future, or the
+environmental impacts the organisation has?
+ Legislative – what are the regulatory drivers affecting the organisation’s performance.
+2. Develop strategy: Developing a sustainability strategy helps to address the issues and build on the drivers
+to embed sustainable development in an organisation. Strategy development has a number of key areas. For
+example:
+ Establishing a central vision and a core set of values or principles.
+ Establishing a governance structure and some form of risk assessment and prioritisation process.
+ Identifying priorities, setting objectives and establishing the means to deliver them.
+ Internal and external stakeholder engagement.
+ Accurate documentation of decisions and regular review of strategy.
+ Progress on moving towards targets being regularly monitored, evaluated and reported.
+In functional terms the strategic process needs to incorporate the following:
+ Leadership – developing and encouraging organisational ownership of the vision.
+ Action planning – identifying the objectives and how to achieve them.
+ Implementation – setting clear objectives with corresponding milestones and deadlines.
+ Monitoring, learning and adapting.
+ Coordination with other strategy processes and multi-stakeholder participation.
+3. Establish governance & accountability: Strong governance and accountability are central to the effective
+implementation of a sustainable development strategy, and to embedding sustainability in any organisation.
+Good governance is about reaching sound decisions, putting measures in place to implement them and
+making clear the individuals and organisational structures accountable for delivery.
+An overarching governance system will provide oversight and support consistent delivery across all material
+issues. Good governance will have a number of different elements, which will include:
+ Defining responsibility and delivery clearly for management.
+ Embedding sustainability performance in the organisation’s reporting and appraisal structures e.g.
+in staff performance assessments.
+ Coordinating management structures across the organisation to ensure that the broad nature of
+sustainability issues does not lead to gaps in accountability emerging.
+ Operating and managing clear lines of reporting.
+11
+Authorised Use Only – PUBLIC
+4. Set targets & action plan: The production of quantified and time bound sustainability objectives is
+important to demonstrate organisational commitments and focus. An organisation should devise an effective
+action plan and set specific targets to work towards the sustainable development objectives set out in its
+strategy.
+5. Monitor, report & evaluate: It is not enough for an organisation to develop a sustainability strategy.
+Delivery of the strategy needs to be implemented and regularly monitored. Monitoring progress towards
+sustainability objectives, reporting that information openly and evaluating its implications provides a critical
+feedback process into decision-making about an organisation’s future activity. Monitoring will be vastly
+improved it if is based on clear indicators, and built into strategies to steer processes, track progress, distil
+and capture lessons, and signal when a change of direction is necessary. v
+12
+Authorised Use Only – PUBLIC
+SECTION 3. PRINCIPLES AND CORE ELEMENTS
+These Guidelines encourage and enable businesses to go beyond compliance and embrace sustainability as
+part of their business ethos. The following nine (9) principles and the corresponding core elements
+encompass the indicators of what constitutes responsible business conduct. It also delineates the
+fundamentals of implementing the Guidelines. The Board of Directors is responsible for incorporating these
+principles and Guidelines into the management of organisations.
+FOCUS AREA: GOVERNANCE
+3.1 Principle 1: Businesses should conduct and govern themselves with Ethics, Transparency and
+Accountability.
+Core Elements:
+1. Businesses should develop governance structures, procedures and practices that ensure ethical conduct
+at all levels; and promote the adoption of this principle across its value chain.
+2. Businesses should communicate transparently and assure access to information about their decisions
+that impact relevant stakeholders.
+3. Businesses should not engage in practices that are abusive, corrupt, or anti-competitive.
+4. Businesses should truthfully discharge their responsibility on financial and other mandatory disclosures.
+5. Businesses should report on the status of their adoption of these Guidelines as suggested in the
+reporting recommendations in this document.
+6. Businesses should avoid complicity with the actions of any third party that violates any of the principles
+contained in these Guidelines.
+3.2 Principle 2: Businesses, when engaged in influencing public and regulatory policy, should do so in a
+responsible manner.
+Core Elements:
+1. Businesses, while pursuing policy advocacy, should ensure that their advocacy positions are consistent
+with the Principles and Core Elements contained in these Guidelines.
+2. To the extent possible, businesses should utilize their trade, commerce and industry chambers
+and associations, and other such collective platforms to undertake such policy advocacy.
+13
+Authorised Use Only – PUBLIC
+FOCUS AREA: ECONOMIC
+3.3 Principle 3: Businesses should provide products and services that are safe and contribute to
+sustainability throughout their life cycle.
+Core Elements:
+1. Businesses should assure safety and optimal resource use over the life-cycle of their product – from
+design to disposal – and ensure that everyone connected with it- designers, producers, value chain
+members, customers, consumers and recyclers-are aware of their responsibilities.
+2. Businesses should ensure relevant and informative product labelling, appropriate and helpful marketing
+communication, full details of contents and composition, and promotion of safe usage and disposal of
+their products and services.
+3. In designing the product, businesses should ensure that the manufacturing processes and technologies
+required to produce it are resource efficient and sustainable.
+4. Businesses should regularly review and improve upon the process of new technology development,
+deployment and commercialization, incorporating social, ethical, and environmental considerations.
+5. Businesses should recognize and respect the rights of people who may be owners of traditional
+knowledge, and other forms of intellectual property.
+6. Businesses should recognize that over-consumption of resources results in unsustainable exploitation
+of our planet's resources, and they should therefore promote sustainable consumption, including
+recycling of resources.
+7. Responsible procurement practices which addresses transparency, confidentiality, fairness, child labour,
+corruption, conflict of interest, support for SME and women owned businesses, forced labour, social
+responsibility and Health & Safety should be maintained.
+3.4 Principle 4: Businesses should engage with and provide value to their customers and consumers in a
+responsible manner.
+Core Elements:
+1. Businesses, while serving the needs of their customers, should take into account the overall wellbeing of the customers, consumers, and that of society.
+2. Businesses should ensure that they do not restrict customers and consumers’ freedom of choice and
+free competition in any manner while designing, promoting and selling their products.
+14
+Authorised Use Only – PUBLIC
+3. Businesses should disclose all information truthfully and factually, through relevant and informative
+labelling and other means, including the risks to the individual, to society and to the planet from the use
+of the products, so that the customers can exercise their freedom to consume in a responsible manner.
+Where required, businesses should also educate their customers on the safe and responsible usage of
+their products and services.
+4. Businesses should promote and advertise their products in ways that do not mislead or confuse the
+consumers or violate any of the principles in these Guidelines.
+5. Businesses should exercise due care and caution while providing goods and services that result in over
+exploitation of natural resources or lead to excessive conspicuous consumption.
+6. Businesses should provide adequate grievance handling mechanisms to address customer and
+consumer concerns, and feedback.
+FOCUS AREA: SOCIAL
+3.5 Principle 5: Businesses should promote the wellbeing of all employees.
+Core Elements:
+1. Businesses should respect the right to freedom of association, participation, collective bargaining, and
+provide access to appropriate grievance redress mechanisms.
+2. Businesses should provide and maintain equal opportunities at the time of recruitment as well as during
+the course of employment irrespective of caste, creed, gender, race, religion, or disability.
+3. Businesses should not use child labour, forced labour or any form of involuntary labour, paid or unpaid.
+4. Businesses should take cognizance of the work-life balance of its employees, especially that of women.
+5. Businesses should provide facilities for the wellbeing of its employees including those with special needs.
+They should ensure timely payment of fair living wages to meet basic needs and economic security of
+the employees.
+6. Businesses should provide a workplace environment that is safe, hygienic humane, and which upholds
+the dignity of the employees. Business should communicate this provision to their employees and train
+them on a regular basis.
+7. Businesses should ensure continuous skill and competence upgrading of all employees by providing
+access to necessary learning opportunities, on an equal and non-discriminatory basis. They should
+promote employee morale and career development through enlightened human resource
+interventions.
+15
+Authorised Use Only – PUBLIC
+8. Businesses should create systems and practices to ensure a harassment free workplace where
+employees feel safe and secure in discharging their responsibilities.
+3.6 Principle 6: Businesses should respect the interests of, and be responsive towards all stakeholders,
+especially those who are disadvantaged, vulnerable and marginalized.
+Core Elements:
+1. Businesses should systematically identify their stakeholders, understand their concerns, define purpose
+and scope of engagement, and commit to engaging with them.
+2. Businesses should acknowledge, assume responsibility and be transparent about the impact of their
+policies, decisions, product and services, and associated operations on the stakeholders.
+3. Businesses should give special attention to stakeholders in areas that are underdeveloped.
+4. Businesses should resolve differences with stakeholders in a just, fair and equitable manner.
+3.7 Principle 7: Businesses should respect and promote human rights.
+Core Elements:
+1. Businesses should understand the human rights content of the Constitution of the Federal Republic of
+Nigeria, national laws and policies and the content of the International Bill of Human Rights. Businesses
+should appreciate that human rights are inherent, universal, indivisible and interdependent in nature.
+2. Businesses should integrate respect for human rights in management systems, in particular through
+assessing and managing human rights impacts of operations, and ensuring all individuals impacted
+by the business have access to grievance mechanisms.
+3. Businesses should recognize and respect the human rights of all relevant stakeholders and groups within
+and beyond the workplace, including that of communities, consumers and vulnerable and marginalized
+groups.
+4. Businesses should, within their sphere of influence, promote the awareness and realization of human
+rights across their value chain.
+5. Businesses should not be complicit with human rights abuses by a third party.
+3.8 Principle 8: Businesses should support inclusive growth and equitable development.
+Core Elements:
+1. Businesses should understand their impact on social and economic development, and respond
+through appropriate action to minimize the negative impacts.
+16
+Authorised Use Only – PUBLIC
+2. Businesses should innovate and invest in products, technologies and processes that promote the wellbeing
+of society.
+3. Businesses should make efforts to complement and support the development priorities at local and
+national levels, and assure appropriate resettlement and rehabilitation of communities who have been
+displaced owing to their business operations.
+4. Businesses operating in regions that are underdeveloped should be especially sensitive to local
+concerns.
+FOCUS AREA: ENVIRONMENT
+3.9 Principle 9: Business should respect, protect, and make efforts to restore the environment.
+Core Elements:
+1. Businesses should utilize natural and manmade resources in an optimal and responsible manner and
+ensure the sustainability of resources by reducing, reusing, recycling and managing waste.
+2. Businesses should take measures to check and prevent pollution. They should assess the environmental
+damage and bear the cost of pollution abatement with due regard to public interest.
+3. Businesses should ensure that benefits arising out of access and commercialization of biological
+and other natural resources and associated traditional knowledge are shared equitably.
+4. Businesses should continuously seek to improve their environmental performance by adopting
+cleaner production methods, promoting use of energy efficient and environment friendly technologies
+and use of renewable energy.
+5. Businesses should develop Environment Management Systems (EMS) and contingency plans and
+processes that help them in preventing, mitigating and controlling environmental damages and
+disasters, which may be caused due to their operations or that of a member of their value chain.
+6. Businesses should report their environmental performance, including the assessment of potential
+environmental risks associated with their operations, to their stakeholders in a fair and transparent
+manner.
+7. Businesses should proactively persuade and support their value chain to adopt this principle.
+17
+Authorised Use Only – PUBLIC
+SECTION 4. REPORTING REQUIREMENTS
+4.1. General Requirements:
+All listed companies should ensure that the sustainability report contain information that is relevant and
+meaningful to stakeholders. In identifying the material sustainability matters, the listed company should also
+consider the themes and guidance provided in internationally accepted standards such as the Global
+Reporting Initiative (GRI) Standard. Where multinational companies choose to adopt the reporting format of
+their parents, the reports must fully address such companies’ Nigerian operations, and the mattersstipulated
+in these Guidelines. The following key areas should be considered:
+(a) The overall context on the internal structure, strategy, profile and governance of how the economic,
+environmental, social risks and opportunities are managed. While also highlighting how the
+organization addresses a specific disclosure theme.
+(b) The scope and boundaries of the report. The report could be scoped on the basis of physical
+locations of the organisation (geographical boundary); entities within the organisation
+(organisational boundary); and operations within the entire value chain.
+(c) The material sustainability matters and how they are identified and managed. Materiality are topics
+that reflect the organization’s significant economic, environmental, and social impacts, or that
+would substantively influence the assessments and decisions of stakeholders.
+d) Stakeholder inclusiveness. The organization should identify its stakeholders, and explain how it has
+responded to their reasonable expectations and interests.vi
+Please note that this Guide is not comprehensive. The Exchange encourages an Issuer to identify and
+disclose additional ESG issues that are relevant and material to its business. It may also refer to existing
+internationally accepted sustainability reporting guidance such as the Global Reporting Initiative (GRI)
+Standards for its relevant industry or sector.
+4.2 Reporting Obligations :
+(a) All Issuers should comply with the foregoing sustainability reporting requirements.
+(b) The Exchange shall publish annually the names of Issuers who submit their sustainability reports in
+accordance with these Guidelines;
+(c) The Exchange may introduce sustainability ratings and indices, to assess and track the performance
+of listed companies who make sustainability disclosures.
+4.3. Format of Report
+An Issuer may disclose its sustainability information and data in its annual report or in a separate
+sustainability report. The reporting period should be in alignment with the same financial period. The
+report should be submitted to The Exchange within the period allowed for the submission of annual
+accounts.
+18
+Authorised Use Only – PUBLIC
+The report should contain a comprehensive description of the listed company’s management overview
+and of economic, environmental, social and governance risks and opportunities. The Issuer should
+consider the principles and themes set out in this Sustainability Reporting Guide.
+The NSE also encourages reporting companies to consider getting their reports assured or
+independently verified against international standards. Assurance of sustainability data increases the
+credibility of the report by establishing that the information is accurate.
+4.4. Performance Indicators:
+Theme Description Principles Indicators/Metrics
+Economic
+Suppliers
+Relations
+Management
+and Ethics
+Operating standards
+for purchasing and
+the selection of
+suppliers.
+3 Report on ethical procurement practices which
+addresses transparency, confidentiality, fairness,
+child labour, corruption, conflict of interest,
+support for SME and women owned businesses,
+forced labour, social responsibility and Health &
+Safety.
+Responsible
+Products and
+Services
+Impact of products
+and services on
+stakeholders.
+ 3,4 Considers customer satisfaction and relationship,
+Transparency in product information & labelling,
+Health risk exposure/incidence due to product
+usage and Consumer education programmes.
+Social
+Diversity in
+the
+Workplace
+This refers to
+diversity across the
+workplace including
+at management
+level. These can be
+categorized along
+the dimensions of
+gender, age and
+physical abilities.
+5,6 *Percentage of employee per employee category
+in each of the following diversity categories:
+- Gender
+- Age Group
+- Full Time against Contract
+*Percentage and ratio of Full Time Employee and
+Contract Staff positions held by women.
+*Percentage of Board Seats filled by Independents
+& women
+Labour
+practices
+Engaging and
+inclusive work
+environment that
+span across
+ensuring
+employability, skills
+development and
+fair remuneration.
+5 *Average hours of training per annum per
+employee by employee category.
+* Employee benefits.
+* Employee Turnover Rate i.e. the percentage of
+Change for FTEs and Contract staff.
+*Availability and adherence to a nondiscrimination policy.
+19
+Authorised Use Only – PUBLIC
+Occupational
+Health &
+Safety
+This focuses on
+safety, health and
+welfare of people
+engaged in work or
+employment.
+5 *Total number of injuries and fatalities relative to
+workforce.
+*Availability and adherence to policies on
+occupational and global health issues.
+Human Rights
+The rights of
+individual as
+expressed in the
+International Bill for
+Human Rights
+(comprising the
+1948 United Nations
+Universal
+Declaration of
+Human Rights –
+UNDHR and the two
+International
+Covenants on
+Human Rights of
+1966).
+7 *Human rights issues or statement in company’s
+Human Resources and Suppliers Policies.
+*Number of grievances about human rights
+impacts filed, addressed, or resolved.
+Society
+Company’s impact
+on society and local
+communities
+8 *Details and impact of Corporate Social
+Responsibility (CSR)/Community based
+programmes.
+Governance
+Anticorruption
+Activities to combat
+corruption and
+bribery
+1, 2 *Report on how the organisation’s adherence to
+Bribery/Anti-Corruption Code (BAC).
+*Training of employees on the anti-corruption.
+*Incidents, fine or exposure related to anticorruption.
+Environmental
+Product and
+Services
+Responsibility
+The environmental
+impact of products
+and services in the
+course of their
+lifecycle, (including
+product design,
+3,9 *Product innovation to reduce impacts (e.g. ecofriendly, less chemicals/toxic substances etc.).
+*Product stewardship (product’s impact on the
+environment).
+20
+Authorised Use Only – PUBLIC
+development,
+testing, etc.)
+Waste
+management
+Waste includes
+hazardous and nonhazardous waste.
+9 *Total weight or volume of hazardous waste /
+non-hazardous waste generated.
+*Ratio of waste to production.
+*Recycling initiatives.
+Water
+Consumption and
+efficient use of
+water resources.
+9 * Total volume of water used.
+* Percentage of water recycled.
+Energy
+Considers the
+efficient use and
+consumption of
+energy as well as
+energy generated
+from renewable
+sources.
+9 *Total energy consumption
+* Amount of reduction in energy consumption
+achieved as a result of conservation and efficiency
+initiatives
+* Alternative energy research (e.g. wind, biomass,
+solar, clean fuels) (investment amount and plans).
+* Use of renewable energy (MWh)
+Compliance Adherence of
+activities to relevant
+environmental laws.
+9 *Total monetary value of fines for non-compliance
+to environmental laws and regulations.

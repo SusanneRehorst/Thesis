@@ -1,0 +1,1641 @@
+ESG Reporting Guide
+
+ESG Reporting Guide
+Purpose of this Guide
+Exchanges can facilitate the information flow, enhance the level of ESG disclosure and
+performance and contribute to more sustainable capital markets that are oriented towards
+long-term value creation by leveraging their unique positioning as a central point of reference
+for companies, investors and regulators.
+Through mobilisations like the UN Sustainable Stock Exchanges (SSE) initiative, Exchanges
+across the world are joining forces to help companies effectively communicate ESG
+information to investors, navigate the regulatory landscape and encourage sustainable
+investment in their markets. Exchanges are self-regulating ESG in their markets by offering
+guidance and training to issuers, creating listing rules and developing investment products like
+indexes and bonds, that reward companies with good ESG performance.
+The Athens Stock Exchange joined the SSE initiative in 2018 by making a voluntary public
+commitment to promote improved ESG disclosure and performance among listed companies.
+Through this Guide, we aim to help pave the path for a more sustainable economy by
+empowering issuers to improve their ESG performance and effectively communicate it
+with investors.
+This Guide is intended to function as a tool
+with which companies can identify the ESG issues
+they should consider disclosing and managing, on the
+basis of their impact on long-term performance.
+It also offers practical guidelines on the metrics
+companies should use to disclose this information
+and communicate it to relevant stakeholders.
+10
+ESG Reporting Guide
+— Increase awareness on the importance of ESG
+ transparency and highlight sustainability-related
+ opportunities.
+— Reduce complexity and the burden of disclosure by
+ proposing clear, practical and concrete ESG
+ reporting guidelines for companies.
+— Support companies and ensure effective ESG
+ disclosure by improving the quality, comparability
+ and availability of material ESG data through
+ the implementation of cutting-edge reporting
+ frameworks.
+— Enhance trust and confidence in Greek companies.
+— Facilitate the information flow between companies,
+ investors and other stakeholders.
+— Help investors incorporate relevant ESG data in
+ their investment decision process.
+The ATHEX ESG Guide aims to:
+While the primary audience for this document are issuers listed on the Athens Stock Exchange,
+it can be a useful tool for companies of all sizes, across all sectors. Companies with a track
+record of reporting ESG information can further develop their activities using the best-practices
+outlined in this document, and those who are just starting out with non-financial disclosures
+can use it to guide their efforts towards ESG transparency and increased accountability on
+sustainability matters.
+This document is a voluntary reporting Guide. The ESG metrics it proposes are aligned with
+the requirements set by the EU’s Non-Financial Directive. Companies for whom non-financial
+disclosure is mandatory under the Directive, as well as those who wish to undertake ESG
+disclosure on a voluntary basis, can use the Guide as a framework to disclose non-financial
+information that in the long-term investors will favour and potentially include in their portfolios.
+Who is this Guide for?
+11
+ESG Reporting Guide
+ESG and Capital Markets
+The term ESG encompasses the wide set of environmental, social and
+corporate governance considerations that can impact a company’s
+ability to generate value. In a corporate context, it is used to refer to the
+incorporation of non-financial considerations into business strategy and
+decision-making. While ESG factors are oftentimes called non-financial,
+they are linked to business competitiveness and the way in which a company
+manages them has financial consequences.
+What is ESG?
+Issues related to society, the
+rights of individuals and the
+well-being of the communities
+within which a company
+operates
+Examples
+Labour standards
+Health and safety
+Workplace diversity
+Employee relations
+Issues related to a company’s decisionmaking processes, management practices
+and corporate governance structure
+Examples
+Bribery and corruption
+Executive pay
+Board structure, size and diversity
+Internal controls and risk management
+Environmental (E) Social (S)
+Governance (G)
+Issues related to the
+environment, living and
+non-living natural systems,
+including land, air, water
+and ecosystems
+Examples
+Greenhouse gas
+(GHG) emissions
+Resource use and depletion
+Climate change
+Waste and pollution
+12
+ESG Reporting Guide
+Investors use ESG information to measure how resilient and well-equipped
+a company is to manage changes in the environment in which it operates.
+Alongside traditional financial reporting, ESG data can paint a complete picture
+of a company, helping investors understand its competitive positioning and the
+efficiency with which it can benefit from new opportunities. Beyond satisfying
+investor information needs and reducing information asymmetries, ESG disclosure
+and effective management can yield significant benefits for companies.
+Indicatively it can result in:
+Why disclose
+ESG information?
+Research has shown that firms that
+are more transparent and perform
+well on material ESG issues have
+greater access to capital with a lower
+cost11. Transparency on a firm’s ESG
+performance and how it relates to
+long-term value creation can enhance
+a company’s ability to attract longterm investors, especially institutional
+investors whose policies mandate the
+incorporation of ESG information
+into their capital allocation decisions.
+Improved access
+to capital
+Complying with
+regulatory changes
+The need for enhanced disclosure on
+sustainability matters is also driven
+by governments, who are increasingly
+putting in place different mandatory
+requirements for corporate ESG
+disclosure, like the European Union’s
+Non-Financial Reporting Directive
+2014/95/EU. Disclosure requirements
+are expected to be supplemented and
+expanded in the future12. Companies that
+establish clear processes for identifying,
+measuring and managing ESG factors
+will quickly respond to regulatory
+developments, reduce compliance risks
+and secure their license to operate within
+a changing environment13.
+13
+ESG Reporting Guide
+Disclosing ESG information and
+improving performance on material
+factors demonstrates a company’s ethical
+alignment with international frameworks
+like the Sustainable Development Goals
+(SDGs), and a commitment to long-term
+value creation. Providing information
+on material non-financial topics enables
+effective communication with both internal
+and external stakeholders and offers
+opportunities for meaningful engagement
+during the reporting process16.
+Strengthening
+corporate performance
+Enhancing corporate
+reputation and stakeholder
+engagement
+Recent research has made a strong
+business case for embedding
+sustainability into a company’s strategy.
+Good performance on material ESG
+indicators can generate value for
+shareholders and improve long-term
+corporate performance. Companies that
+exhibit strong performance on material
+ESG issues display improved operational
+efficiency and perform better than firms
+with poor ESG performance in terms of
+stock returns and future profitability14 15.
+14
+ESG Reporting Guide
+Investor Relevance
+and Materiality
+A key consideration in successful ESG reporting is determining the factors that are linked to a
+company’s ability to generate value, and are thus material to the business and its stakeholders.
+Companies need to identify, prioritise and disclose the ESG issues that are most relevant to them,
+and form an understanding of how those issues impact their corporate performance and their ability
+to implement their strategy.
+According to the International Accounting Standards Board, the concept of materiality is used
+to refer to information whose omission or misstatement could influence the economic decisions
+of those relying on financial statements17. Different sustainability issues are material for different
+companies, depending on their business model, their stakeholders and the industry in which
+they operate. To effectively address investor information needs, companies should disclose
+their performance on material issues that are likely to impact their financial and operational
+performance.
+To ensure more comprehensive ESG reporting and help issuers enhance the quality of their
+disclosure by focusing on material ESG issues that are relevant to investors, the Athens Stock
+Exchange has developed a reporting Guide that includes sector-specific ESG metric structures.
+The reporting Guide is based on practices outlined in international sustainability guidelines
+like SASB’s industry specific standards and reporting frameworks like GRI, CDP and the Greek
+Sustainability Code, as well as existing ESG disclosure practices in the Greek market.
+The Athens Stock Exchange Guide classifies topics as likely to be material based on the companies’
+industry of operation, in accordance with SASB’s recent guidance. The Guide is intended to
+function as a tool to help issuers effectively apply the concept of materiality and gain a clearer
+understanding of the material issues in their industry, achieving greater transparency and realizing
+benefits from their improved ESG performance.
+15
+ESG Reporting Guide
+There is no single, prescribed method for undertaking
+a materiality assessment and choosing
+which factors to report on.
+The Non-Financial Reporting Directive employs a double perspective of materiality
+according to which companies can assess their development, performance, position
+and their activities’ external impacts.
+Both perspectives overlap, as market transformations and policy reforms can result in a
+company’s external impact - positive or negative - translating into a business opportunity
+that can be considered financially material.
+To understand the extent of
+companies’ development,
+performance and positioning,
+financial materiality is applied.
+Financial materiality is utilised
+primarily by investors, as it allows
+them to assess the scale of a material
+issue’s impact on the company.
+To understand the companies’
+external impacts, environmental and
+social materiality is applied.
+Environmental and social materiality
+is primarily directed towards citizens,
+consumers, employees, communities
+and civil society organisations, as it
+showcases the impact that companies’
+activities have on stakeholders,
+society and the environment.
+16
+ESG Reporting Guide
+Once a company has determined the ESG factors it should track
+and report on, relevant metrics and indicators should be selected to
+communicate this information effectively. Where possible, companies
+should provide quantitative, comparable and forward-looking
+performance metrics to facilitate ESG integration. It is recommended
+that companies use credible indicators included in internationally
+recognised reporting frameworks like GRI, SASB, CDP or UN Global
+Compact18. Companies should disclose their methodology and provide
+explanations to support quantitative indicators, establishing the link
+between ESG and financial performance.
+Companies should ensure that the data they provide is objective and
+includes not only indicators on which they perform well. In their
+disclosures, reporters should not obscure less favourable information.
+Instead, they are encouraged to provide explanation and demonstrate
+how they intend to improve and mitigate any negative impacts in the
+future.
+Companies are advised to report on data covering the whole spectrum
+of their operations. Where data is not available, companies must clearly
+state which segments of their operations are covered in their disclosures.
+Group companies are encouraged to provide data covering the whole
+organisation, i.e. both the parent company and its subsidiaries that are
+included in the group’s consolidated financial statements or equivalent
+documents. If data is not available for all entities, they are advised to
+start by reporting data regarding the parent company and proceeding
+with any other entity for which data is available. It should be clearly
+stated which subsidiaries are included in the reporting scope.
+Effective ESG integration must start at the top levels of a company.
+Determining material ESG issues that are strategically relevant, and
+setting KPIs requires the involvement of the company’s Board and upper
+management. Companies should track ESG performance and provide
+communication to the board to facilitate effective oversight.
+We recommend that annual non-financial disclosures are approved
+by the Board.
+Data Quality
+and Provision
+Balance
+Scope
+Responsibility
+and Oversight
+Reporting Considerations
+17
+ESG Reporting Guide
+Assurance
+Format
+and Accessibility
+Timing
+It is currently not mandatory for companies to obtain external assurance
+for their ESG disclosures, however it is recommended that issuers obtain
+assurance to ensure the credibility of their reports.
+To reach their intended audience, ESG information should be available
+through an array of channels, including corporate websites, annual
+reports, sustainability reports or other forms of reporting. Companies
+can choose to provide this information through:
+(a) a standalone sustainability report
+(b) disclosure of material ESG factors in its financial reports
+(c) an integrated report that focuses on how an organisation creates
+value through its strategy, governance and performance.
+Companies should disclose their ESG reports on an annual basis within six
+months from the end of their annual financial cycle.
+18
+ESG Reporting Guide
+ESG metrics structure
+and Guide layout
+To foster more responsible and sustainable investments, inclusive, transparent and comparative
+ESG information is required. Disclosure of ESG information requires intricate yet clear-cut reporting
+practices. Better ESG reporting practices can strengthen capital markets, stimulate growth and
+promote sustainability in emerging markets.
+We acknowledge that improved ESG performance, results in better stock performance and
+credible investor assessments. We also recognise that credible investor assessments can create a
+better portfolio for Greek and foreign investors and result in a better and more sustainable Greek
+economy. We have therefore created an ESG metric structure that can be used by Greek listed
+companies for more comprehensive ESG reporting.
+Definition of
+economy wide
+and sector-specific metrics
+The metric structure comprises of economy-wide and sector-specific metrics. Economy wide
+metrics are divided into Core and Advanced metrics. Each metric is supplemented with a respective
+reporting guide to help companies understand the type of information they need to disclose.
+Taking into consideration that companies with strong performance on material ESG topics
+outperform companies with poor performance on material topics19, we recognise the importance
+of sector-specific reporting metrics. Analysts and investors use sector-specific criteria to evaluate
+company portfolios, since different issues are material across different sectors. Therefore, we have
+developed sector-specific metrics to help Greek listed companies to understand which issues are
+considered strategically important for their sector and that reporting and improving performance
+on such issues are likely to result in better financial performance.
+The Guide is based on ESG reporting practices outlined in international sustainability guidelines
+and standards like SASB’s industry specific standards. We followed a thorough literature review of
+existing reporting frameworks (i.e. SASB, GRI, CDP, Greek Sustainability Code etc.) and corporate
+reports to tailor the content of the reporting metrics to the capabilities and sustainability
+familiarity of Greek companies.
+19
+ESG Reporting Guide
+Economy wide metrics
+Core metrics
+Metrics that all companies are advised to report on. These metrics were chosen
+based on the prevalence of the corresponding ESG issues and their universality of
+application.
+Advanced metrics
+Metrics that focus on advanced ESG performance. This set of metrics has been
+constructed to allow high-performing ESG companies to showcase their work
+and to establish the emerging topics that companies in Greece should understand,
+report and improve in the future.
+Sector-specific metrics
+Metrics that are specifically created for each of the industry sectors represented in
+the Athens Stock Exchange. Sector specific metrics can provide a clear view of the
+sustainability risks that companies are prone to, as most material issues differ across
+industries and sectors.
+20
+ESG Reporting Guide
+Guide layout
+The guides of all three sets of metrics follow a specific layout:
+Definition
+Formal definition/explanation of the metric.
+What to measure?
+Metrics are split in qualitative and quantitative. For each type of metric, an outline
+of the required information/data for the company to disclose is provided.
+Relevant frameworks and standards
+As part of the guides’ structure, the relevant frameworks and standards that pertain
+to each metric are provided. These act as external sources for companies to refer to,
+in case similar information is required for their disclosure practices. The frameworks
+and standards that are referenced include: GRI, IIRC, SASB, CDP, TCFD, UN Global
+Compact (UNGC), the Greek Sustainability Code (GSC) and the Non-Financial
+Reporting Legislation (NFRL).
+Sector coverage *
+List of sectors the metric applies to.
+*applies only for the sector-specific metrics
+Metric ID Layout
+C- core metrics
+A- advanced metrics
+SS- sector specific metrics -
+21
+ESG Reporting Guide
+Reporting Guides
+Core metrics
+The core set, as depicted below, contains metrics that all companies
+are advised to report on.
+The following pages outline the reporting guides of each core metric.
+ESG Classification ID Metric Title
+Environmental C-E1 Scope 1 emissions
+ C-E2 Scope 2 emissions
+ C-E3 Energy consumption within the organisation
+Social C-S1 Female employees
+ C-S2 Female employees in management positions
+ C-S3 Turnover rates
+ C-S4 Employee training
+ C-S5 Human rights policy
+ C-S6 Collective bargaining agreements
+ C-S7 Supplier assessment
+Governance C-G1 Sustainability oversight
+ C-G2 Business ethics policy
+ C-G3 Data security policy
+22
+ESG Reporting Guide
+Definition
+Indirect GHG emissions (Scope 2) are defined as the GHG emissions that stem from the generation
+of purchased electricity20 consumed by the organisation.
+What to measure?
+Indicator C-E2 requires the reporting organisation to disclose its gross indirect Scope 2
+GHG emissions, in tons of CO2
+ equivalent.
+All GHG emissions covered by the Kyoto Protocol shall be included in Scope 2 emissions. The
+organisation should report the emissions from the generation of purchased electricity that is
+consumed in its owned or controlled equipment or operations as Scope 2.
+The reporting organisation should calculate the gross indirect scope 2 GHG emission using
+appropriate standards (e.g. Greenhouse Gas Protocol Corporate and Accounting Standard).
+C-E2: Scope 2 emissions
+C-E1: Scope 1 emissions
+Definition
+Direct greenhouse gas (GHG) emissions (Scope 1) are defined as the GHG emissions that stem from
+sources that are owned or controlled by the organisation. Scope 1 emissions include on-site fossil
+fuel combustion and fleet fuel consumption.
+What to measure?
+Indicator C-E1 requires the reporting organisation to disclose its gross direct Scope 1 GHG
+emissions, in tons of CO2
+ equivalent.
+All GHG emissions covered by the Kyoto Protocol shall be included in Scope 1 emissions.
+The organisation should identify emissions deriving from, but not limited to the following sources:
+— Generation of electricity, heating, cooling and steam
+— Physical or chemical processing
+— Transportation of materials, products, waste, employees and passengers
+— Fugitive emissions
+Direct CO2
+ emissions from the combustion of biomass shall not be included.
+The reporting organisation should calculate the Gross Direct Scope 1 GHG emission using
+appropriate standards (e.g. Greenhouse Gas Protocol Corporate and Accounting Standard).
+Methodologies, assumptions and calculation tools used in the calculations are expected
+to be reported.
+Relevant frameworks and standards
+GRI 305-1, SASB, CDP C6.1, GSC-13, NFRL
+23
+ESG Reporting Guide
+Definition
+The total amount of energy consumed within the organisation is defined as the consumption of
+purchased, acquired or self-generated energy from renewable (e.g. wind, solar, hydro, geothermal,
+biomass etc.) and non-renewable (e.g. coal, oil, natural gas, electricity, heating, cooling, stream etc.)
+energy sources.
+What to measure?
+Indicator C-E3 requires the reporting organisation to disclose:
+— Total amount of energy consumed within the organisation, in MWh
+— Percentage of electricity consumed, in percentage (%)
+— Percentage of energy consumed from renewable sources, in percentage (%)
+The formula for the total energy consumption within an organisation is as follows:
+Total energy consumption within the organisation=
+ (Non–renewable fuel consumed)
++ (Renewable fuel consumed)
++ (electricity,heating,cooling and steam purchased for consumption)
++ (self–generated electricity,heating,cooling and steam,which are not consumed)
+- (electricity,heating,cooling and steam sold)
+Methodologies, assumptions and calculation tools used in the calculations are expected
+to be reported.
+The formula for the percentage of electricity consumed is as follows:
+Percentage of electricity consumed=
+Electricity purchased for consumption
+Total energy consumption within an organisation
+C-E3: Energy consumption within the organisation
+Methodologies, assumptions and calculation tools used in the calculations are expected
+to be reported.
+Relevant frameworks and standards
+GRI 305-2, SASB, CDP C6.2, GSC-13, NFRL
+= x100
+24
+ESG Reporting Guide
+C-S1: Female employees
+C-S2: Female employees in management positions
+Definition
+Number of female employees in the organisation is defined as the total number of female
+employees, by headcount.
+What to measure?
+Indicator C-S1 requires the reporting organisation to disclose the total number of women
+employees throughout the organisation, in percentage (%).
+This indicator is derived by dividing the total number of women throughout the organisation
+with the average total number of employees (male and female) throughout the organisation and
+multiplying it by 100 to give the number in a percentage.
+Relevant frameworks and standards
+GRI 405-1, SASB, GSC-15, NFRL
+Definition
+Number of female employees in management positions is defined as the number of female
+employees who are at the top 10% of employees by total compensation.
+What to measure?
+Indicator C-S2 requires the reporting organisation to disclose the percentage of women in
+managerial positions (i.e. female employees at the top 10% of employees by total compensation),
+in percentage (%).
+This indicator is derived by dividing the number of female employees at the top 10% of employees
+The formula for the percentage of energy consumed from renewable sources is as follows:
+Percentage of energy consumed from renewables=
+Energy consumed from renewable sources
+Total energy consumption within an organisation
+Relevant frameworks and standards
+GRI 302-1, SASB, CDP C8.2a, GSC-13, NFRL
+= x100
+25
+ESG Reporting Guide
+Definition
+Turnover rates refer to voluntary and involuntary turnover rates that occur when employees leave
+an organisation.
+— Voluntary turnover rate is the rate at which employees leave the organisation at their own
+ discretion within a time period.
+— Involuntary turnover rate is the rate at which an organisation lays-off or discharges employees
+ within a time period, due to reasons such as an employee’s poor job performance, inappropriate
+ behaviour and violation of workplace policies or an organisation’s decisions to downsize.
+What to measure?
+Indicator C-S3 requires the reporting organisation to disclose its annual voluntary and involuntary
+turnover rate, in percentage (%).
+The voluntary turnover rate is calculated by dividing the total amount of voluntary employee exists
+within a year with the average number of employees within a year and multiplying it by 100 to give
+the number in a percentage.
+The involuntary turnover rate is calculated by dividing the total amount of forced employee exists
+within a year with the average number of employees within a year and multiplying it by 100 to give
+the number in a percentage.
+Relevant frameworks and standards
+GRI 401-1, SASB, GSC-15, NFRL
+C-S3: Turnover rates
+by total compensation with the total number of employees at the top 10% of employees by total
+compensation and multiplying it by 100 to give the number in a percentage.
+Relevant frameworks and standards
+GRI 405-1, SASB, GSC-15, NFRL
+26
+ESG Reporting Guide
+C-S4: Employee training
+Definition
+Employee training is defined as a formal type of programme that aims to increase or enhance the
+technical skills, knowledge, efficiency and value creation of an organisation’s employees.
+What to measure?
+Indicator C-S4 requires the reporting organisation to disclose the average hours
+of training that the organisation’s employees have undertaken during the reporting period,
+by employee seniority.
+Employee seniority is defined by two employee categories, namely:
+— Employees in the top 10% of employees by total compensation
+— Employees in the bottom 90% of employees by total compensation
+The average training hours for the top 10% of employees by total compensation is calculated
+by dividing the total number of training hours provided to the top 10% of employees by
+total compensation by the total number of employees in the top 10% of employees by total
+compensation.
+Average training hours (top 10%) =
+Total number of training hours provided to each employee in the top 10%
+of employees by total compensation
+Total number of employees included in the top 10% of employees
+ by total compensation
+Similarly, the average training hours for the bottom 90% of employees by total compensation
+is calculated by dividing the total number of training hours provided to the bottom 90% of
+employees by total compensation by the total number of employees in the bottom 90% of
+employees by total compensation.
+Average training hours (bottom 90%) =
+Total number of training hours provided to each employee in the bottom 90%
+of employees by total compensation
+Total number of employees included in the bottom 90%
+of employees by total compensation
+27
+ESG Reporting Guide
+Employee training can refer to:
+— all types of vocational training and instructions
+— paid educational leave provided by an organisation for its employees
+— training or education pursued externally and paid for in whole or in part by an organisation
+— training on specific topics
+Relevant frameworks and standards
+GRI 404-1, SASB, NFRL
+C-S5: Human rights policy
+Definition
+A human rights policy is a piece of formal company documentation that outlines the practices and
+commitment that an organisation takes to meet its responsibility to respect the internationally
+recognized human rights standards.
+What to measure?
+Indicator C-S5 requires the reporting organisation to disclose whether it holds a Human rights
+policy or not.
+The reporting organisation should disclose the international or domestic human rights standards
+it recognises and/or commits to (e.g. International bill of rights and ILO’s declaration on the
+fundamental principles and rights at work), the organisation’s expectations from its personnel
+and business partners and the fundamental principles of the policy concerning its practices and
+operations.
+Relevant frameworks and standards
+GRI 412-1, SASB, UNGC Principles 1 and 2, NFRL
+28
+ESG Reporting Guide
+Definition
+Supplier assessment is defined as the process of evaluating supplier performance.
+Supplier assessments are carried out on a regular basis, since they can help companies
+to reduce costs, improve business performance, alleviate reputational costs and produce more
+cost-effective products.
+What to measure?
+Indicator C-S7 requires the reporting organisation to disclose whether it screens its suppliers using
+Environmental, Social and Governance (ESG) criteria.
+Issues that companies examine when assessing suppliers using ESG criteria include:
+Environment
+— Management of environmental issues (policy, procedures, management system etc.)
+— Greenhouse gases emitted
+— Energy and water consumed
+— Hazardous and non-hazardous waste generated
+— Environmental fines
+Social
+— Labour standards
+— Diversity and equal opportunity
+— Occupational health and safety
+— Child and forced or compulsory labour
+C-S7: Supplier assessment
+C-S6: Collective bargaining agreements
+Definition
+Collective bargaining is defined as the process of negotiation between an employer and a labour
+union regarding terms and conditions of employment such as wages, benefits, safe working
+conditions and freedom of association.
+What to measure?
+Indicator C-S6 requires the reporting organisation to disclose the total number of active employees
+covered by collective bargaining agreements, in percentage (%).
+To calculate the percentage, the total number of active employees covered by collective bargaining
+agreement must be divided by the total number of active employees, and multiplied by 100 to give
+the number in a percentage.
+Relevant frameworks and standards
+GRI 407-1, SASB, UNGC Principle 3, NFRL
+29
+ESG Reporting Guide
+C-G1: Sustainability oversight
+Governance
+— Board composition
+— Corporate governance practices
+— Code of conduct
+Relevant frameworks and standards
+GRI 308-2, GRI 414-1, SASB, GSC-17, NFRL
+Definition
+Sustainability oversight is defined as the procedure where the Board of Directors (BoD) oversees
+the organisation’s sustainability issues at the board committee level or where the organisation’s
+sustainability is discussed with Management during BoD meetings.
+What to measure?
+Indicator C-G1 requires the reporting organisation to disclose whether the organisation’s BoD
+provides sustainability oversight at the board committee level or whether sustainability is discussed
+with Management during BoD meetings or not.
+If applicable, the reporting organisation should disclose any sustainability-related targets
+established or discussed at BoD meetings.
+Relevant frameworks and standards
+GRI 102-20, GRI 102-32, SASB, GSC-5
+30
+ESG Reporting Guide
+C-G2: Business ethics policy
+Definition
+A business ethics policy is a piece of formal company documentation that outlines the practices
+and fundamental business ethics principles (e.g. for anti-corruption and anti-bribery) that an
+organisation takes and establishes to conduct business in an ethical and honest manner.
+What to measure?
+Indicator C-G2 requires the reporting organisation to disclose whether the organisation holds a
+business ethics policy or not.
+The reporting organisation should disclose which international or domestic business ethics laws it
+recognizes and/or commits to (e.g. International Anti-Bribery and Fair Competition Act of 1998)
+and the fundamental principles of its policy concerning the organisation’s practices and operations,
+as well as whether business ethics issues are communicated to employees.
+Organisations often integrate their business ethics principles in their corporate code of conduct.
+Relevant frameworks and standards
+GRI 102-16, GRI 205-1, GRI 205-2, GRI 205-3, SASB, GSC-20, NFRL
+C-G3: Data security policy
+Definition
+A data security policy is a piece of formal company documentation that outlines the practices
+and commitments with regards to ensuring the integrity and security of the organisation's and its
+customers' data.
+What to measure?
+Indicator C-G3 requires the reporting organisation to disclose whether it holds a data security
+policy or not.
+The reporting organisation should disclose which international or domestic data protection
+standards it recognises and/or commits to (e.g. GDPR) and the fundamental principles of its policy
+concerning its practices and operations, as well as whether the issues of data security are addressed
+at the Board level.
+Relevant frameworks and standards
+GRI 418-1, SASB
+31
+ESG Reporting Guide
+Advanced metrics
+ESG Classification ID Metric Title
+Environmental A-E1 Scope 3 emissions
+ A-E2 Climate change risks and opportunities
+Social A-S1 Stakeholder engagement
+ A-S2 Employee training expenditure
+ A-S3 Gender pay gap
+ A-S4 CEO pay ratio
+ A-S5 Sustainable product revenue
+Governance A-G1 Business model
+ A-G2 Materiality
+ A-G3 ESG targets
+ A-G4 Variable pay
+ A-G5 External assurance
+The advanced set, as depicted below, contains metrics that focus on
+advanced ESG performance.
+The following pages outline the reporting guides of each advanced metric.
+32
+ESG Reporting Guide
+ Upstream Downstream
+Definition
+Indirect GHG emissions (Scope 3) are defined as the GHG emissions that are emitted from nondirect sources, that are not owned or controlled by the organisation. Examples of non-direct
+sources, include purchase of goods and services, employee commuting and transportation of
+purchased fuels etc.
+What to measure?
+Indicator A-E1 requires the reporting organisation to disclose its gross indirect Scope 3
+GHG emissions, in tons of CO2
+ equivalent.
+All GHG emissions covered by the Kyoto Protocol shall be included in Scope 3 emissions.
+The reporting organisation should calculate the gross indirect Scope 3 GHG emission using
+appropriate standards (e.g. Corporate Value Chain (Scope 3) Accounting and Reporting Standard)
+and provide a breakdown of the emissions as Upstream and Downstream.
+The GHG protocol identifies the following Upstream and Downstream categories:
+Methodologies, assumptions and calculation tools used in the calculations are expected
+to be reported.
+Relevant frameworks and standards
+GRI 305-3, CDP C6.4a, SASB, GSC-13, NFRL
+A-E1: Scope 3 emissions
+— Purchased goods and services
+— Capital goods
+— Fuel- and energy-related activities
+ (not included in Scope 1 or Scope 2)
+— Upstream transportation
+ and distribution
+— Waste generated in operations
+— Business travel
+— Employee commuting
+— Upstream leased assets
+— Other upstream
+— Downstream transportation
+ and distribution
+— Processing of sold products
+— Use of sold products
+— End-of-life treatment
+ of sold products
+— Downstream leased assets
+— Franchises
+— Investments
+— Other downstream
+33
+ESG Reporting Guide
+A-E2: Climate change risks and opportunities
+Definition
+Climate change risks are uncertain-negative events or market conditions resulting from climate
+change that affect an organisation’s financial stability.
+Climate change opportunities are forward-looking events or possible efforts that allow companies
+to adapt and mitigate climate change.
+What to measure?
+Indicator A-E2 requires the reporting organisation to discuss any climate change risks
+and opportunities that it pertains to.
+The organisation should disclose the climate-related risks that TCFD recognizes. TCFD
+acknowledges two major climate risk categories, transition and physical risks.
+Transition risks relate to the transition of an organisation to a low carbon economy.
+ Further transition risks include:
+— Policy and legal risks - policy actions (e.g. carbon pricing) that attempt to constrain actions
+ that contribute to the adverse effects of climate change or policy actions that seek to promote
+ adaptation to climate change.
+— Technology risks - technological improvements or innovations that support the transition
+ to a lower-carbon, energy efficient economic system can have a significant impact on
+ organisations.
+— Market risk – shifts in supply and demand.
+— Reputational risk.
+Physical risks relate to the direct physical damage of an organisation’s assets or the disruption
+of its supply chain.
+ Further physical risks include:
+— Acute risk – increased severity of extreme weather events.
+— Chronic risk – longer term shifts in climate patterns, such as increase of temperature.
+TCFD recognises five areas of opportunity which an organisation can adopt in its effort to mitigate
+and adapt to climate change and at the same time incur potential positive financial impacts.
+These areas of opportunity include:
+— Resource efficiency
+— Energy source
+— Products and services
+— Markets
+— Resilience
+Relevant frameworks and standards
+GRI 102-15, SASB, CDP C2, TCFD, NFRL
+34
+ESG Reporting Guide
+A-S1: Stakeholder engagement
+A-S2: Employee training expenditure
+Definition
+Stakeholder engagement is defined as the process of communication, consultation and interaction
+with stakeholders.
+What to measure?
+Indicator A-S1 requires the reporting organisation to disclose the organisation’s main stakeholders
+and breakdown its key stakeholder engagement practices.
+The organisation should disclose:
+— the organisation’s identified main stakeholder groups
+— the key topics and concerns raised per stakeholder group
+— the organisation’s response and actions taken for the issues raised
+If applicable, the reporting organisation should include a description of the process undergone to
+manage risks and opportunities associated with community rights and interests.
+Relevant frameworks and standards
+GRI 102-40, GRI 102-41, GRI 102-42, GRI 102-43, GRI 102-44, SASB, GSC-9
+Definition
+Employee training is defined as a formal type of programme that aims to increase or enhance the
+technical skills, knowledge, efficiency and value creation of an organisation’s employees.
+What to measure?
+Indicator A-S2 requires the reporting organisation to disclose the total amount of expenditure on
+employee training purposes, in Euros.
+Relevant frameworks and standards
+SASB
+35
+ESG Reporting Guide
+A-S3: Gender pay gap
+Definition
+Gender pay gap is defined as the difference between the average female and male base salary.
+What to measure?
+Indicator A-S3 requires the reporting organisation to disclose the organisation’s gender pay gap, in
+percentage (%).
+Initially the reporting organisation should calculate the average yearly pay for both male and
+female full-time employees.
+The formulas of the average yearly pay for male and female full-time employees are as follows:
+Average yearly pay for male full-time employees=
+Sum of all yearly base salaries of all male full – time employees (including bonuses)
+Total number of male full-time employees
+Average yearly pay for female full-time employees=
+Sum of all yearly base salaries of all female full – time employees (including bonuses)
+Total number of female full-time employees
+Hence the formula for the gender pay gap is as follows:
+Gender pay gap (%)=
+(1) – ( 2)
+(1)
+This gives you the average gender pay gap in yearly salaries as a percentage of men’s pay.
+ A “negative” gender pay gap indicates that women earn more than men.
+Relevant frameworks and standards
+GRI 405-2, SASB
+( 1 )
+( 2 )
+=
+=
+= x100
+36
+ESG Reporting Guide
+A-S4: CEO pay ratio
+Definition
+CEO pay ratio is defined as the difference between a CEO’s annual total compensation to the
+organisation’s median employee annual total compensation.
+What to measure?
+Indicator A-S4 requires the reporting organisation to disclose the ratio of the CEO’s annual total
+compensation to the organisation’s median employee annual total compensation,
+as a ratio.
+The formula to derive the CEO pay ratio is as follows:
+CEO pay ratio=
+CEO's annual total compansation (1)
+Median employee annual total compansation (excluding CEO' s compensation ) (2)
+This number should be presented as a ratio as follows:
+[(1)/(2)]:1
+to demonstrate how many times greater is the CEO’s annual total compensation compared
+to the organisation’s median annual total compensation for all employees.
+Relevant frameworks and standards
+GRI 102-38, SASB
+=
+Definition
+Sustainable product revenue is defined as an organisation’s revenue from sustainable products
+and services.
+What to measure?
+Indicator Α-S5 requires the reporting organisation to disclose its revenue generated from products
+and services which have environmental and / or social benefits, in percentage (%).
+The organization should elaborate on the products and services it has identified as those with
+environmental and / or social benefits. These could include activities that substantially contribute
+A-S5: Sustainable product revenue
+37
+ESG Reporting Guide
+to circular economy, achievement of the SDGs, mitigation of or adaptation to climate change etc.
+In defining sustainable products and services, organisations may refer to green and sustainability
+taxonomies and definitions outlined by institutions, international initiatives and industries, such as
+the EU classification system for environmentally sustainable economic activities (EU Taxonomy)
+and the Climate Bonds Taxonomy developed by the Climate Bonds Initiative.
+The formula for the percentage of sustainable product revenue is as follows:
+% of sustainable product revenue=
+Revenue generated from sustainable products and services
+Total revenue
+Relevant frameworks and standards
+SASB, TCFD, NFRL
+= x100
+Definition
+Business model is defined as a process implemented by an organisation that describes how it
+integrates its vision, strategic objectives, governance and business activities to generate revenue
+and make profit.
+What to measure?
+Indicator A-G1 requires the reporting organisation to disclose its business model as well as its value
+creation process.
+The reporting organisation should aim to describe its value creation process.
+It should demonstrate how its main resources are transformed into the final products or services
+that it offers. It should state which are the main business activities that are responsible for the
+transformation and subsequent generation of products and services. The reporting organisation
+should also state the impact that its business activities have on the economy, society and the
+environment as well as how the organisation’s value creation process affects its key stakeholders.
+Additionally it is recommended to outline the key aspects that support its value creation process.
+Examples include the organisation’s:
+Vision: Organisation’s future target
+Strategic objectives: Long-term goals designed to achieve the organisation's vision
+Governance: Organisation’s main leadership structure
+Relevant frameworks and standards
+IIRC, NFRL
+A-G1: Business model
+38
+ESG Reporting Guide
+A-G2: Materiality
+Definition
+Materiality assessment is the process by which an organisation identifies the topics that reflect its
+significant economic, environmental and social impacts and influence the assessments and decisions
+of its stakeholders.
+What to measure?
+Indicator A-G2 requires the reporting organisation to disclose a description of its materiality
+assessment, the steps taken to identify the relevant material topics and how the relative priority of
+material topics has been determined.
+This process could include:
+— The identification process of assessed material topics.
+— Description of the methodology assessment carried out by the Management
+ of the reporting organisation.
+— The methodology assessment carried through the consultation of stakeholders.
+— The list of the most material topics of the organisation.
+Relevant frameworks and standards
+GRI 102-47, SASB, IIRC, GSC-2
+A-G3: ESG targets
+Definition
+ESG targets are defined as short, medium and long-term performance goals established
+by a company.
+What to measure?
+Indicator A-G3 requires the reporting organisation to disclose its short, medium and long-term
+performance targets associated with its strategic ESG objectives.
+Indicative timeframes for each performance target are:
+— Short-term: 1-3 years
+— Medium: 4-7 years
+— Long-term: 8-10 years
+Examples of ESG performance targets include:
+Environmental: Increase of energy efficiency by a certain percent
+Social: Decrease of voluntary turnover by a certain percent
+Governance: Increase of female board members by a certain percent
+Relevant frameworks and standards
+GRI 102-15, SASB, GSC-3
+39
+ESG Reporting Guide
+A-G5: External assurance
+Definition
+External assurance is defined as the process where the credibly, accuracy and relevance of the
+disclosed information provided by an organisation is examined by a third party.
+What to measure?
+Indicator A-G5 requires the reporting organisation to verify that the information of each disclosed
+core, advanced and sector specific metric, is assured by a third-party assurance body.
+Relevant frameworks and standards
+GRI 102-56, SASB
+A-G4: Variable pay
+Definition
+Variable pay is defined as the amount of compensation awarded to an employee following the
+accomplishment of a specific performance target.
+What to measure?
+Indicator A-G4 requires the reporting organisation to disclose the percentage of variable pay of the
+organisation’s executives’ total remuneration.
+The formula for the percentage of variable pay of an organisation’s executive is as follows:
+% of variable pay=
+Amount of variable pay, in Euros
+Total executive's remuneration, in Euros
+Example types of variable pay can include bonuses, stock options and restricted stock options.
+Relevant frameworks and standards
+GRI 102-35
+= x100
+40
+ESG Reporting Guide
+Sector-specific metrics
+The sector-specific set, as depicted below, includes metrics that are specifically created for
+each of the sectors represented in the Athens Stock Exchange.
+ESG Classification ID Metric Title
+Environmental SS-E1 Emission strategy
+ SS-E2 Air pollutant emissions
+ SS-E3 Water consumption
+ SS-E4 Water management
+ SS-E5 Waste management
+ SS-E6 Environmental impact of packaging
+ SS-E7 Backlog cancellations
+ SS-E8 Critical materials
+ SS-E9 Chemicals in products
+Social SS-S1 Product recalls
+ SS-S2 Customer privacy
+ SS-S3 Legal requests of user data
+ SS-S4 Labour law violations
+ SS-S5 Data security and privacy fines
+ SS-S6 Health and safety performance
+ SS-S7 Marketing practices
+ SS-S8 Customer satisfaction
+ SS-S9 Customer grievance mechanism
+ SS-S10 ESG integration in business activity
+Governance SS-G1 Business ethics violations
+ SS-G2 Whistleblower policy
+The following pages outline the reporting guides of each sector-specific metric.
+For an overview of the sectors that each sector-specific metric applies to, please refer to Appendix 3.
+41
+ESG Reporting Guide
+SS-E1: Emission strategy
+SS-E2: Air pollutant emissions
+Definition
+Emission strategy is defined as the formal target plan(s) established by the organisation in relation
+to the management, mitigation and performance of its emissions.
+What to measure?
+Indicator SS-E1 requires the reporting organisation to disclose any long and short-term strategies in
+relation to the management, mitigation and performance targets of its emissions.
+Relevant frameworks and standards
+SASB, CDP C2.1
+Sector coverage
+Extractives and Minerals Processing, Transportation
+Definition
+Air pollutants emissions are defined as the total amount of NOx, SOx, volatile organic compounds
+(VOCs) and particulate matter ( PM10 ) emitted.
+What to measure?
+Indicator SS-E2 requires the reporting organisation to disclose the total amount NOx,
+SOx, volatile organic compounds and particulate matter 10 micrometers or less in diameter
+emitted, in kilograms.
+The reporting organisation should calculate the emissions using appropriate standards
+(e.g. Greenhouse Gas Protocol Corporate and Accounting Standard).
+Methodologies, assumptions and calculation tools used in the calculations are expected
+to be reported.
+Relevant frameworks and standards
+GRI 305-7, SASB
+Sector coverage
+Extractives and Minerals Processing, Transportation
+42
+ESG Reporting Guide
+SS-E3: Water consumption
+= x100
+Definition
+Water consumption is defined as the total volume of water used by an organisation and that is not
+returned to the original water source after being withdrawn.
+What to measure?
+Indicator SS-E3 requires the reporting organisation to disclose:
+— The total volume of water withdrawn for consumption purposes within the organisation
+ by source, in m3
+.
+— The total volume of water consumed by the organisation, in m3
+.
+— The total amount of water recycled, in percentage (%).
+The water withdrawal sources could be:
+— Surface water, including water from wetlands, rivers, lakes, and oceans
+— Ground water
+— Rainwater collected directly and stored by the organization
+— Wastewater from another organization
+— Municipal water supplies or other public or private water utilities.
+The formula for the total volume of water consumed by the organisation is as follows:
+Water Consumption=
+Total volume of water withdrawn – Total volume of water discharged
+The formula for the percentage of total amount of water recycled is as follows:
+% of water recycled=
+Total volume of water recycled and reused
+Total volume of water withdrawn
+Methodologies, assumptions and calculation tools used in the calculations are expected
+to be reported.
+Relevant frameworks and standards
+GRI 303-1, GRI 303-3, SASB, CDP W1.2
+Sector coverage
+Extractives and Minerals Processing, Food and Beverage
+43
+ESG Reporting Guide
+SS-E4: Water management
+SS-E5: Waste management
+Definition
+Water management is defined as the approach and processes an organisation has adopted to
+optimise the use of water and maximise its beneficial use, while at the same time minimise its impact
+on biodiversity.
+What to measure?
+Indicator SS-E4 requires the reporting organisation to disclose its approach to manage water
+consumption related risks and the respective mitigation measures taken.
+Types of water management risks include:
+— Physical: risks associated with the organisation operating in a region of water scarcity,
+ of drought or of flooding; risks associated with climate change
+— Regulatory: risks associated from the imposition of water policies and regulatory frameworks
+— Reputational: risks occurring from organisations actions that result in the damage
+ of the organisation’s reputation
+Relevant frameworks and standards
+SASB, CDP W4.1
+Sector coverage
+Food and Beverage, Infrastructure
+Definition
+Waste management is defined as the collection, transportation, disposal or recycling and
+monitoring of waste.
+What to measure?
+Indicator SS-E5 requires the reporting organisation to disclose the total amount of hazardous
+and non-hazardous waste generated, in tons, and the percentage of waste by type of treatment,
+in percentage (%).
+Types of treatment include:
+— recycling
+— treatment
+— landfill
+To calculate the percentage, the total amount of waste treated by type must be divided by
+the total amount of waste generated.
+Relevant frameworks and standards
+GRI 306-2, SASB
+Sector coverage
+Extractives and Minerals Processing, Health Care, Resource Transformation
+44
+ESG Reporting Guide
+SS-E6: Environmental impact of packaging
+SS-E7: Backlog cancellations
+Definition
+Environmental impact of packaging is defined as the impact caused by the disposal of packaging
+materials on the environment.
+What to measure?
+Indicator SS-E6 requires the reporting organisation to disclose its approach in reducing packaging's
+environmental impact throughout its lifecycle.
+Relevant frameworks and standards
+SASB
+Sector coverage
+Consumer Goods, Food and Beverage
+Definition
+Backlog cancellations are defined as the amount of the order backlog cancelled, reduced,
+terminated, deferred such that it no longer meets the entity’s definition of order backlog and that
+have been caused due to reasons associated with community or ecological impacts, including, but
+not limited to risks to wildlife, safety of human health or noise emissions.
+What to measure?
+Indicator SS-E7 requires the reporting organisation to disclose the total number of backlog
+cancellations carried out.
+Relevant frameworks and standards
+SASB
+Sector coverage
+Renewable Resources and Alternative Energy
+45
+ESG Reporting Guide
+SS-E8: Critical materials
+SS-E9: Chemicals in products
+2017 Critical Raw Materials
+Antimony
+Baryte
+Beryllium
+Bismuth
+Borate
+Cobalt
+Coking coal
+Fluorspar
+Gallium
+Germanium
+Hafnium
+Helium
+HREEs
+Indium
+LREEs
+Magnesium
+Natural graphite
+Natural rubber
+Niobium
+PGMs
+Phosphate rock
+Phosphorus
+Scandium
+Silicon metal
+Tantalum
+Tungsten
+Vanadium
+Definition
+Critical materials are defined as substances used that are subject to supply risks, and for which
+there are no easy substitutes21.
+What to measure?
+Indicator SS-E8 requires the reporting organisation to disclose its management
+approach in relation to the use of the top 27 recognised critical materials listed by
+the European Commission22.
+The top 27 critical materials recognised by the European Commission are:
+Relevant frameworks and standards
+SASB
+Sector coverage
+Renewable Resources and Alternative Energy, Resource Transformation,
+Technology and Communication
+Definition
+Chemicals in products are defined as distinct artificially prepared compounds that are found in
+commercial products.
+What to measure?
+Indicator SS-E9 requires the reporting organisation to disclose its processes to assess and manage
+risks and/or hazards associated with chemicals in products.
+Relevant frameworks and standards
+SASB
+Sector coverage
+Consumer Goods
+46
+ESG Reporting Guide
+SS-S2: Customer privacy
+SS-S1: Product recalls
+Definition
+Product recall is the process of reclaiming a product from a customer due to issues of malfunction
+and deformity while providing some sort of compensation.
+What to measure?
+Indicator SS-S1 requires the reporting organisation to disclose the total number
+of product recalls issued.
+It is strongly suggested that the reporting organisation discloses information on the top three
+recall issues that took place in the reporting year.
+Relevant frameworks and standards
+SASB
+Sector coverage
+Food and Beverage, Health Care, Resource Transformation
+Definition
+Customer privacy is defined as the handling and protection of customers’ personal information that
+has been provided by them for the purposes of everyday transactions.
+What to measure?
+Indicator SS-S2 requires the reporting organisation to disclose the total number of users whose
+information has been used for secondary purposes23.
+According to the European Commission, data can be used for secondary purposes only if the data
+has been collected on the basis of legitimate interest, a contract or vital interest and has been
+checked that the new purpose is compatible with the original purpose.
+Examples of secondary use of data include, but are not limited to:
+— selling targeting ads
+— improving the entity’s products or service offerings
+— transferring data or information to a third-party through sale, rental, or sharing.
+Relevant frameworks and standards
+GRI 418-1, SASB
+Sector coverage
+Technology and Communication
+47
+ESG Reporting Guide
+SS-S3: Legal request of user data
+SS-S4: Labour law violations
+Definition
+Legal requests of user data are defined as the action whereby governments or legal enforcement
+agencies request user-information from an organisation.
+What to measure?
+Indicator SS-S3 requires the reporting organisation to disclose:
+— the total number of unique requests for user information, including user content and noncontent data, from government or law enforcement agencies.
+— total number of unique users whose information was requested by government or law
+enforcement agencies.
+— the percentage of government and law enforcement requests that resulted in disclosure to the
+requesting party, in percentage (%).
+To calculate the percentage, the total number of government and law enforcement requests that
+resulted in disclosure to the requesting party must be divided by the total number of submitted
+government and law enforcement requests.
+Relevant frameworks and standards
+SASB
+Sector coverage
+Technology and Communication
+Definition
+Labour law violations are defined as actions that have or intend to violate working provisions
+established by national or international labour standards on topics such as wages, working hours
+and overtime.
+What to measure?
+Indicator SS-S4 requires the reporting organisation to disclose the total amount of monetary losses
+as a result of legal proceedings associated with labour law violations, in Euros.
+Example of labour law violations include but are not limited to:
+— refraining from paying required overtime
+— paying sub-minimum wages
+— failing to ensure a safe work place according the occupational safety and health act
+— failing to cover workers’ injuries.
+More information on the labour law violations in relation with the business operations
+of the Transportation sector are addressed by the Regulation (EC) No 561/2006.
+Relevant frameworks and standards
+SASB
+Sector coverage
+Transportation
+48
+ESG Reporting Guide
+Definition
+Health and safety performance is defined as the outcome of an organisation’s approach, systems
+and procedures to prevent accidents and injuries in workplaces.
+What to measure?
+Indicator SS-S6 requires the reporting organisation to disclose the total recordable:
+— number of injuries
+— number of work-related fatalities
+— accident frequency rate
+— accident severity rate
+The formula for the accident frequency rate is as follows:
+Accident frequency rate =
+Number of recordable injuries x 200,000*
+Number of hours worked by all employees in calender year
+The formula for the accident severity rate is as follows:
+Accident severity rate=
+Number of work days lost due to work-related accidents x 200,000*
+Number of hours worked by all employees in calender year
+SS-S6: Health and safety performance
+SS-S5: Data security and privacy fines
+=
+=
+Definition
+Data security and privacy fines are defined as the monetary amounts imposed on organisations due
+to the violations of data security and privacy rules enacted by national and international standards.
+What to measure?
+Indicator SS-S5 requires the reporting organisation to disclose the total amount of monetary losses
+as a result of legal proceedings associated with data security and privacy, in Euros.
+Relevant frameworks and standards
+SASB
+Sector coverage
+Health Care, Technology and Communication
+49
+ESG Reporting Guide
+SS-S7: Marketing practices
+* The factor 200,000 denotes the number of hours worked by 100 full-time employees, 40 hours
+per week for 50 weeks per year.
+Methodologies, assumptions and calculation tools used in the calculations are expected
+to be reported.
+Relevant frameworks and standards
+GRI 403-2, SASB
+Sector coverage
+Extractives and Minerals Processing, Infrastructure, Renewable Resources and Alternative Energy,
+Resource Transformation
+Definition
+Marketing practices are defined as the actions carried out by an organisation for the communication
+and promotion of the attributes and features of its products and services.
+What to measure?
+Indicator SS-S7 requires the reporting organisation to disclose its approach in providing transparent
+product and service information including marketing and labelling practices.
+Financial Sector
+Any reporting organisation in the financial sector should clearly discuss its approach in
+communicating relevant information about its products and services to its customers as well as any
+policies or procedures related to the marketing and communication of its products and services.
+Food and Beverage
+Any reporting organisation in the food and beverage sector should clearly disclose the following
+types of information regarding its products:
+— Product component source
+— List of product content with a particular focus on substances or components that can
+ cause harm either to a customer or to the environment
+— Information on the safe use of product
+— Correct disposal of product, including clear recycling labelling if applicable.
+Relevant frameworks and standards
+GRI 417-1, SASB
+Sector coverage
+Financials, Food and Beverage
+50
+ESG Reporting Guide
+SS-S9: Customer grievance mechanism
+SS-S8: Customer satisfaction
+Definition
+Customer satisfaction is defined as the qualitative measure of satisfaction that customers
+attribute to an organisation as a whole or for the quality of their products and services
+(category or specific item).
+What to measure?
+Indicator SS-S8 requires the reporting organisation to disclose the results from its customer
+satisfaction surveys.
+Customer satisfaction is predominately measured via the use of surveys.
+The surveys include, but are not limited to, one-on-one interviews, phone interviews, email or
+online questionnaires. The reporting organisation should separately disclose customer satisfaction
+results from surveys regarding the organisation’s overall performance and surveys regarding
+customers’ satisfaction with the organisation’s particular product or service.
+Relevant frameworks and standards
+GRI 102-44
+Sector coverage
+Services
+Definition
+Customer grievance mechanism is defined as the process whereby customers can formally submit
+their complaints, issues or concerns with regards to the behaviour or performance
+of an organisation.
+What to measure?
+Indicator SS-S9 requires the reporting organisation to disclose whether it provides a customer
+grievance mechanism and, if yes, the organisation should also provide a description of the key
+operations and procedures of the mechanism.
+Relevant frameworks and standards
+GRI 103-2
+Sector coverage
+Services
+51
+ESG Reporting Guide
+SS-G1: Business ethics violations
+Definition
+Business ethics violations are defined as the violations that take place within an organisation
+in relation to business ethic issues such as price fixing, anti-competitive behaviour, corruption
+and bribery.
+What to measure?
+Indicator SS-G1 requires the reporting organisation to disclose the total amount of monetary losses
+as a result of business ethics violations, in Euros.
+Monetary losses from business ethics violations can stem from cartel activities, price fixing, antitrust activities, fraud, insider trading, anti-competitive behaviour, market manipulation, malpractice,
+corruption and bribery.
+Relevant frameworks and standards
+GRI 205-3, GRI 206-1, SASB
+Sector coverage
+Extractives and Minerals Processing, Financials, Health Care, Infrastructure, Resource
+Transformation, Services, Technology and Communication
+SS-S10: ESG integration in business activity
+Definition
+ESG integration is defined as the explicit and systematic inclusion of environmental, social and
+governance (ESG) factors in business activity.
+What to measure?
+Indicator SS-S10 requires the reporting organisation to disclose whether it incorporates ESG
+factors into business operations and, if yes, the organisation should also provide a description of
+the practices followed for every business activity (e.g. credit analysis, lending, investing, wealth
+management, underwriting etc.).
+Relevant frameworks and standards
+SASB
+Sector coverage
+Financials
+52
+ESG Reporting Guide
+SS-G2: Whistleblower policy
+Definition
+Whistleblower policy is defined as the process where a stakeholder of an organisation can report
+his/hers concern on a criminal or unethical conduct of the organisation.
+What to measure?
+Indicator SS-G2 requires the reporting organisation to disclose whether the organisation holds a
+whistleblower policy or not.
+The reporting organisation should disclose the fundamental principles of its policy concerning
+its practices and operations, that include but are not limited to the confidentiality of the
+whistleblower’s identity, the protection of the whistleblower against retaliation as well as the
+methods for submitting a violation (e.g. email, hotline).
+Relevant frameworks and standards
+SASB
+Sector coverage
+Financials
+53
+ESG Reporting Guide
+54
+ESG Reporting Guide
+Appendix 1:
+Economy-wide metrics
+Core
+The table below depicts the full list of core metrics, together with their metric descriptions, type and unit.
+ESG Classification ID Metric Title Metric DescEnvironmental C-E1 Scope 1 emissions Total amount C-E2 Scope 2 emissions Total amount C-E3 Energy consumption Total amount within the organisation Total energy c (2) percentageSocial C-S1 Female employees Percentage of C-S2 Female employees in Percentage of management positions (i.e. top 10% o that are wome C-S3 Turnover rates Full time emp and involunta C-S4 Employee training Average hours employees havby employee s C-S5 Human rights policy Description of and fundamen C-S6 Collective bargaining agreements Total number  by collective b C-S7 Supplier assessment Discussion of  ESG criteria
+Governance C-G1 Sustainability oversight Discussion on sustainability level or whethManagement  C-G2 Business ethics policy Description of and fundamen C-G3 Data security policy Description of and fundamen
+55
+ESG Reporting Guide
+ription Type Unit
+ of direct emissions (Scope 1) Quantitative Tons CO2
+ equivalent
+ of indirect emissions (Scope 2) Quantitative Tons CO2
+ equivalent
+ of energy consumption ((1) Quantitative MWh, percentage (%)
+consumed within the organisation,
+e of electricity, (3) percentage renewable)
+ female employees Quantitative Percentage (%)
+ management employees Quantitative Percentage (%)
+of employees by total compensation)
+en
+loyee voluntary Quantitative Percentage (%)
+ry turnover rate
+s of training that the organisation’s Quantitative Number of hours
+ve undertaken during the reporting period,
+seniority
+f human rights policy Qualitative Discussion and analysis
+ntal principles
+ of employees covered Quantitative Percentage (%)
+bargaining agreements
+ supplier screening using Qualitative Discussion and analysis
+ whether the BoD provides Qualitative Discussion and analysis
+oversight at the board committee
+her sustainability is discussed with
+during BoD meetings
+f business ethics policy Qualitative Discussion and analysis
+ntal principles
+f data security policy Qualitative Discussion and analysis
+ntal principles
+56
+ESG Reporting Guide
+Appendix 1 (continued):
+Economy-wide metrics
+Advanced
+The table below depicts the full list of advanced metrics, together with their metric descriptions,
+type and unit.
+ESG Classification ID Metric Title Metric DescripEnvironmental A-E1 Scope 3 emissions Total amount of  A-E2 Climate change risks and opportunities Discussion of clim and opportunitieSocial A-S1 Stakeholder engagement Discussion of org and analysis of ke A-S2 Employee training expenditure Total amount of  on employee trai A-S3 Gender pay gap Difference betwe A-S4 CEO pay ratio Ratio of CEO to  A-S5 Sustainable product revenue Percentage of tu products and serGovernance A-G1 Business model Discussion of bus and the creation  A-G2 Materiality Description of th A-G3 ESG targets Disclosure of sho A-G4 Variable pay Percentage of ex A-G5 External assurance Discussion of ext on reported ESG
+57
+ESG Reporting Guide
+tion Type Unit
+ other indirect emissions (Scope 3) Quantitative Tons CO2
+ equivalent
+mate change-related risks Qualitative Discussion and analysis
+s that can affect business operations
+ganisation's main stakeholders Qualitative Discussion and analysis
+ey stakeholder engagement practices
+ monetary expenditure Quantitative Euros
+ning
+een male and female earnings Quantitative Percentage (%)
+ median employee earnings Quantitative Ratio
+rnover from sustainable Quantitative Percentage (%)
+vices
+siness model Qualitative Discussion and analysis
+ of value
+e materiality assessment process Qualitative Discussion and analysis
+ort, medium and long-term performance Qualitative Discussion and analysis
+ecutive’s salary variable Quantitative Percentage (%)
+ternal assurance Qualitative Discussion and analysis
+ information
+58
+ESG Reporting Guide
+The table below depicts the full list of
+sector-specific metrics, together with their
+metric descriptions, type and unit.
+Appendix 2:
+Sector-specific metrics
+ESG Classification ID Metric Title Metric Description Environmental SS-E1 Emission strategy Discussion of long and s the management, mitiga SS-E2 Air pollutant emissions Total amount of: (1) NO (3) volatile organic comand (4) particulate matt SS-E3 Water consumption Total amount of: (1) wa (2) water consumed, (3) SS-E4 Water management Description of water ma and the respective mitig SS-E5 Waste management Total amount of hazard generated and percenta(i.e. (a) recycled, (b) trea SS-E6 Environmental impact Description of strategy  of packaging environmental impact t SS-E7 Backlog cancellations Total number of backlog with community or ecol SS-E8 Critical materials Description of managem to the use of critical ma SS-E9 Chemicals in products Discussion of processes  and/or hazards associateSocial SS-S1 Product recalls Total number of recalls  SS-S2 Customer privacy Number of users whose is used for secondary pu SS-S3 Legal requests Number of: (1) law enfo of user data for user information, (2) was requested and (3) p SS-S4 Labour law violations Total amount of monet proceedings associated  SS-S5 Data security and privacy fines Total amount of monet legal proceedings assoc SS-S6 Health and safety performance Total recordable: (1) num (3) accident frequency r SS-S7 Marketing practices Description of approach product and service infoand labelling practices
+ SS-S8 Customer satisfaction Disclosure of customer  SS-S9 Customer grievance mechanism Description of key opera of Customer Grievance  SS-S10 ESG integration in Description of approach business activity factors in business activGovernance SS-G1 Business ethics violations Total amount of monet of business ethics violat SS-G2 Whistleblower policy Description of whistlebl
+59
+Type Unit
+short term strategies in relation to Qualitative Discussion and analysis
+ation, performance targets of its emissions
+Ox (excluding N2
+O),(2) SOx, Quantitative kg
+mpounds (VOCs),
+ter ( PM10 )
+ter withdrawn (by source), Quantitative m3
+, percentage (%)
+ percentage recycled
+anagement risks Qualitative Discussion and analysis
+gation measures taken
+ous and non-hazardous waste Quantitative Tons, percentage (%)
+ge of waste by type of treatment
+ated, (c) landfilled)
+ for the reduction of packaging's Qualitative Discussion and analysis
+hroughout its lifecycle
+g cancellations associated Qualitative Number
+logical impacts
+ment approach in relation
+terials Qualitative Discussion and analysis
+ to assess and manage risks
+ed with chemicals in products Qualitative Discussion and analysis
+ issued Quantitative Number
+ information Quantitative Number
+urposes
+orcement requests Quantitative Number, percentage (%)
+) users whose information
+ercentage resulting in disclosure
+ary losses as a result of legal Quantitative Euros
+ with labour law violations
+ary losses as a result of Quantitative Euros
+iated with data security and privacy
+mber of injuries, (2) number of fatalities, Quantitative Number
+ate, (4) accident severity rate
+h in providing transparent Qualitative Discussion and analysis
+ormation including marketing
+satisfaction survey results Qualitative Discussion and analysis
+ations and procedures Qualitative Discussion and analysis
+Mechanism
+h to incorporation of ESG Qualitative Discussion and analysis
+vity
+ary losses as a result Quantitative Euros
+tions
+lower policies and procedures Qualitative Discussion and analysis
+60
+ESG Reporting Guide
+Appendix 3:
+Sector-specific metrics map
+The table below highlights the sectors that each sector-specific metric applies to.
+Environmental SS-E1 Emission strategy
+ SS-E2 Air pollutant emissions
+SS-E3 Water consumption
+SS-E4 Water management
+SS-E5 Waste management
+SS-E6 Environmental impact of packaging
+SS-E7 Backlog cancellations
+SS-E8 Critical materials
+SS-E9 Chemicals in products
+Social SS-S1 Product recalls
+ SS-S2 Customer privacy
+SS-S3 Legal requests of user data
+SS-S4 Labour law violations
+SS-S5 Data security and privacy fines
+SS-S6 Health and safety performance
+SS-S7 Marketing practices
+SS-S8 Customer satisfaction
+SS-S9 Customer grievance mechanism
+SS-S10 ESG integration in business activity
+Governance SS-G1 Business ethics violations
+ SS-G2 Whistleblower policy
+ESG Classification ID Metric Title
+Consumer Goods
+
+61
+ESG Reporting Guide
+Sectors
+Extractives
+and Minerals Processing
+Financials
+Food and Beverage
+Health Care
+Infrastructure
+Renewable Resources
+and Alternative Energy
+Resource Transformation
+Services
+Technology
+and Communication
+Transportation
+62
+ESG Reporting Guide
+Appendix 4:
+Metric development methodology
+Core and Advanced metrics
+The Core and Advanced metrics were defined based on the literature review conducted in existing
+corporate reports and reporting frameworks, their relative importance to investors, impact on the
+economy, society and the environment, as well as their presence in analyst request questionnaires.
+With regards to the Core set, the applicability of disclosure for the Greek listed companies was also
+considered. The aim was to establish a pool of metrics that all companies can report on, regardless
+of their business activity.
+On the other hand, the Advanced set is designed to allow leading Greek companies to demonstrate
+a broader range of ESG performance features and encourage them to become more transparent
+and competitive. This set also presents a future objective for disclosure metrics that all companies
+in Greece should understand, report and improve.
+Sector-specific metrics
+The Sector-specific metrics were developed through a systematic data collection methodology.
+Initially, all sector-specific metrics were collected from SASB’s industry-specific guides.
+Following the collection, a metric-frequency count was carried out for each of the sectors per
+SASB dimension (Environment, Social Capital, Human Capital, Business Model and Innovation,
+Leadership and Governance). The metrics that were found to be present more frequently were
+short-listed accordingly by sector.
+In the assessment it was found that the “Services” sector had no common metrics across its
+4 industries. Thus, two additional metrics were devised. These metrics were “SS-S8: Customer
+satisfaction” and “SS-S9: Customer grievance mechanism”.
+The short-listed metrics were further assessed according to market trends, investor preferences and
+existing corporate reporting metrics. The metrics that were found to be transparent, comparable
+and consistent across companies within a sector, were short listed for the final list of sector specific
+metrics.
+63
+ESG Reporting Guide
+Appendix 5:
+Relevant reporting guidelines
+This section outlines the international and domestic reporting frameworks and guidelines
+that were used to develop the metric content included in the reporting guides. A description
+of the frameworks’ and guidelines’ structure is provided, together with a relevant URL that
+can be accessed for additional information.
+GRI – The Global Reporting Initiative (GRI) is one of the most referenced reporting frameworks.
+The GRI produces sustainability reporting guidelines, aiming to make sustainability reporting
+standard practice, by providing guidance and support to organisations. Organisations use
+GRI to publicly disclose their broader economic, environmental and social impacts. The most
+revised standards are the “GRI Standards” which were released in October 2016. The standards
+are structured as a set of modular interrelated standards, which allows the standards to be
+independently updated, without revising the whole set. The GRI Standards are split into a set of
+universal and topic-specific standards. There are three universal standards that apply to every
+organisation and provide guidance to the reporting companies on how to use the Standards, to
+report the relevant contextual information and how to report their approach in managing their
+material topics. Similarly, there are three sets of topic specific standards which cover economic,
+environmental and social material topics and provide the relevant metric that companies are
+advised to disclose. GRI has also developed sector guidance reports that include sector-specific
+sustainability issues that are not
+covered by the GRI Standards.
+For more information: https://www.globalreporting.org/Pages/default.aspx
+IIRC – The International Integrated Reporting Council (IIRC) is a framework formed by a group of
+regulators, investors, companies, standard setters and NGOs, whose mission is to accelerate and
+support the evolution of integrated reporting – a novel and advanced type of corporate reporting
+whose overarching scope is centered around the concept of value creation and the understanding
+of the interdependencies between capitals (financial, manufactured, human, intellectual, natural
+and social capital). It has established the core principles and content elements that form the overall
+structure of an integrated report.
+For more information: http://integratedreporting.org/
+SASB – The Sustainability Accounting Standards Board (SASB) is a US – based non-profit
+organisation that develops sustainability accounting standards. In October 2018 SASB released
+a revised set of 77 industry-specific standards that are designed to assist companies in disclosing
+financially material, decision-useful sustainability information for/to investors. These industry
+specific standards outline the material topics and the pertinent metrics for a company found in the
+specified industries.
+For more information: https://www.sasb.org/
+64
+ESG Reporting Guide
+CDP – CDP (formerly the Carbon Disclosure Project) is a non-profit organisation representing more
+than 800 institutions that use CDP’s disclosures to inform their investment decisions with the goal
+of minimizing climate change risk in their portfolios. CDP has 4 reporting categories including
+climate change, supply chain, water usage and forestry management disclosures. These disclosures
+are a set of questions that companies fill out to describe their activities and contributions towards
+alleviating global warming as well as their strategies to mitigate the associated risks.
+For more information: https://www.cdp.net/en/info/about-us
+TCFD –The Task Force on Climate-related Financial Disclosures (TCFD) is a voluntary, marketdriven initiative which outlines a set of key recommendations that aim to enhance companies’
+climate-related disclosure information in their already existing financial and non-financial filings.
+These recommendations enable companies to assess key risks and opportunities arising from
+climate change. The overarching goal is to urge companies to provide more transparent, reliable
+and comparable information that will enable investors and other stakeholders to make betterinformed decisions when interacting with companies.
+For more information: https://www.fsb-tcfd.org/
+UN Global Compact – The United Nations Global Compact (UNGC) is a United Nations principlebased framework that asks companies to embrace, adopt and accept a set of 10 core principles
+pertaining to human rights, labour standards, anti-corruption and the environment. It is currently
+the world’s largest corporate social responsibility initiative with around 13,000 corporate
+participants and operates more as a channel for facilitating dialogue rather than a regulatory
+framework. Companies that ratify have the informal obligation to disseminate the word of the ten
+principles through their business activities and accelerate actions for the support of the Sustainable
+Development Goals.
+For more information: https://www.unglobalcompact.org/what-is-gc/mission/principles
+Greek Sustainability Code – The Greek Sustainability Code (GSC) is a national standard that
+comprises of 4 themes (strategy, process management, environment, society) and 20 subsequent
+criteria. Its scope is to provide guidance to Greek companies on how to incorporate the principles
+of sustainable development in their business operations.
+For more information: https://greekcode.sustainablegreece2020.com
+Non-Financial Report Legislation – The Greek Law no.4548/2018 on non-financial reporting
+(NFRL) and the circular No.62784/06-06-2017 of the Ministry of the Economy and Development,
+that have been developed according to the provisions of the Directive 2014/95/EU of the European
+Parliament, require large companies to disclose specific information regarding the way they operate
+and manage environmental and social challenges. More specifically, large undertakings which
+are public-interest entities exceeding on their balance sheet dates the criterion of the average
+number of 500 employees during the financial year shall include in the management report a
+non-financial statement containing information to the extent necessary for an understanding
+of the undertaking's development, performance, position and impact of its activity, relating
+to, as a minimum, environmental, social and employee matters, respect for human rights, anticorruption and bribery matters. Also, companies with more than 10 employees, a net turnover of
+over €700,000 or total assets of over €350,000 must also engage on reporting, particularly on
+environmental performance and employee matters.
+

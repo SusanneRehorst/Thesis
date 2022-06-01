@@ -1,4 +1,62 @@
 Corporations Act 2001 - Australia
+298  Annual directors’ report
+
+             (1)  The company, registered scheme or disclosing entity must prepare a directors’ report for each financial year.
+
+       (1AA)  Except in the case of a company limited by guarantee or a company covered under subsection (1AC), the report must include:
+
+                     (a)  the general information required by sections 299 (all entities) and 299A (additional requirements for listed entities); and
+
+                     (b)  the specific information required by sections 300 and 300A; and
+
+                     (c)  a copy of the auditor’s declaration under section 307C in relation to the audit for the financial year.
+
+       (1AB)  In the case of a company limited by guarantee, the report must include:
+
+                     (a)  the general information required by section 300B; and
+
+                     (b)  a copy of the auditor’s declaration under section 307C in relation to the audit or review for the financial year.
+
+       (1AC)  This subsection covers a company if the company has not had its financial report for the relevant financial year audited because subsection 301(2) or (5) exempts it from the requirement to do so under subsection 301(1).
+
+       (1AD)  In the case of a company covered under subsection (1AC), the report must include:
+
+                     (a)  the general information required by section 299; and
+
+                     (b)  the specific information required by section 300.
+
+          (1A)  If the financial report for a financial year includes additional information under paragraph 295(3)(c) (information included to give true and fair view of financial position and performance), the directors’ report for the financial year must also:
+
+                     (a)  set out the directors’ reasons for forming the opinion that the inclusion of that additional information was necessary to give the true and fair view required by section 297; and
+
+                     (b)  specify where that additional information can be found in the financial report.
+
+             (2)  The report must:
+
+                     (a)  be made in accordance with a resolution of the directors; and
+
+                     (b)  specify the date on which the report is made; and
+
+                     (c)  be signed by a director.
+
+Small proprietary companies
+
+             (3)  A small proprietary company does not have to comply with subsection (1) for a financial year if:
+
+                     (a)  it is preparing financial statements for that year in response to a shareholder direction under section 293; and
+
+                     (b)  the direction specified that a directors’ report need not be prepared; and
+
+                     (c)  paragraph 292(2)(c) (about having CSF shareholders) does not apply to the company for the financial year.
+
+Small companies limited by guarantee
+
+             (4)  A small company limited by guarantee does not have to comply with subsection (1) for a financial year if:
+
+                     (a)  it is preparing the financial statements for that year in response to a member direction under section 294A; and
+
+                     (b)  the direction specified that a directors’ report need not be prepared.
+
 299  Annual directors’ report—general information
 
 General information about operations and activities
@@ -407,34 +465,28 @@ in the financial year to which the report relates and in the previous 4 financia
 
 the person’s remuneration is taken to include all of the person’s remuneration from those entities (regardless of the capacity in which the person received the remuneration).
 
-300B  Annual directors’ report—companies limited by guarantee
+306  Half‑year directors’ report
 
-             (1)  The directors’ report for a financial year for a company limited by guarantee must:
+             (1)  The directors of the disclosing entity must prepare a directors’ report for each half‑year that consists of:
 
-                     (a)  contain a description of the short and long term objectives of the entity reported on; and
+                     (a)  a review of the entity’s operations during the half‑year and the results of those operations; and
 
-                     (b)  set out the entity’s strategy for achieving those objectives; and
+                     (b)  the name of each person who has been a director of the disclosing entity at any time during or since the end of the half‑year and the period for which they were a director.
 
-                     (c)  state the entity’s principal activities during the year; and
+If consolidated financial statements are required, the review under paragraph (a) must cover the consolidated entity.
 
-                     (d)  state how those activities assisted in achieving the entity’s objectives; and
+          (1A)  The directors’ report must include a copy of the auditor’s declaration under section 307C in relation to the audit or review for the half‑year.
 
-                     (e)  state how the entity measures its performance, including any key performance indicators used by the entity.
+             (2)  If the financial report for a half‑year includes additional information under paragraph 303(3)(c) (information included to give true and fair view of financial position and performance), the directors’ report for the half‑year must also:
 
-             (2)  The entity reported on is:
+                     (a)  set out the directors’ reasons for forming the opinion that the inclusion of that additional information was necessary to give the true and fair view required by section 305; and
 
-                     (a)  the company (if consolidated financial statements are not required); or
+                     (b)  specify where that information can be found in the financial report.
 
-                     (b)  the consolidated entity (if consolidated financial statements are required).
+             (3)  The report must:
 
-             (3)  The directors’ report for a financial year for a company limited by guarantee must also include details of:
+                     (a)  be made in accordance with a resolution of the directors; and
 
-                     (a)  the name of each person who has been a director of the company at any time during or since the end of the year and the period for which the person was a director; and
+                     (b)  specify the date on which the report is made; and
 
-                     (b)  each director’s qualifications, experience and special responsibilities; and
-
-                     (c)  the number of meetings of the board of directors held during the year and each director’s attendance at those meetings; and
-
-                     (d)  for each class of membership in the company—the amount which a member of that class is liable to contribute if the company is wound up; and
-
-                     (e)  the total amount that members of the company are liable to contribute if the company is wound up.
+                     (c)  be signed by a director.

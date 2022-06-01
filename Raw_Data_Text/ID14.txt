@@ -1,0 +1,1121 @@
+Euronext | Guidelines to Issuers for ESG Reporting 1
+ESG REPORTING
+GUIDELINES TO ISSUERS FOR
+ESG REPORTING
+Please print this guide only if necessary to prevent waste and to protect the environment.
+Available printed copies are made from recycled paper.
+4 Euronext | Guidelines to Issuers for ESG Reporting
+FOREWORD
+01 WHAT IS ESG AND WHO IS THIS GUIDANCE FOR?
+02 WHY REPORT ON ESG CONSIDERATIONS?
+2.1 | SUPPORTING CORPORATE REPUTATION AND STRATEGY
+2.2 | ADDRESSING ESG ISSUES AS KEY COMPONENT OF INVESTOR
+RELATIONS
+2.2.1 | IDENTIFYING AND UNDERSTANDING INVESTORS’ ESG
+INFORMATION NEEDS
+2.2.2 | ESG A COMPASS FOR RISK MITIGATION
+2.3 | ALIGN YOUR STRATEGY WITH REGULATORY REQUIREMENTS
+03 GUIDING PRINCIPLES OF REPORT PREPARATION
+3.1 | RESPONSIBILITY AND OVERSIGHT OF THE RECORD
+3.2 | RELEVANCE AND MATERIALITY
+04
+4.2 | IMPLEMENTATION AND OPERATIONAL MANAGEMENT
+4.3 | DRAFTING AND PRESENTATION
+4.3.1 | QUALITY OF THE INFORMATION
+4.3.2 | FORMAT OF THE PRESENTATION
+4.3.3 | MAKING YOUR ESG INFORMATION ACCESSIBLE
+4.4 | REPORTING AS A CONTINUOUS DIALOGUE
+4.5 | ASSESSING & ASSURING
+05 USING CAPITAL MARKETS TO IMPLEMENT ESG
+BUSINESS STRATEGY
+5.1 | THE REGULATORY LANDSCAPE OF GREEN BONDS
+5.2 | EQUITY FINANCING FOR YOUR TRANSITION
+06 EURONEXT AND ITS ROLE IN SUSTAINABILITY
+07 APPENDIX
+7.1 | KEY ESG REPORTING REGULATIONS
+7.2 | REFERENCES TO EXISTING STANDARDS
+7.3 | GUIDANCE FOR ISSUERS IN PREPARING THEIR REPORT
+7.4 | OBJECTIVES FOR REPORTING ON ESG
+Summary
+12
+13
+14
+14
+16
+17
+22
+24
+24
+27
+30
+32
+33
+33
+34
+35
+37
+37
+38
+39
+39
+40
+42
+43
+47
+49
+51
+6
+8
+18
+19
+20
+ESG REPORTING PROCESS
+4.1 | MATERIALITY ANALYSIS: IDENTIFICATION AND
+PRIORITISATION
+4.1.1 | IDENTIFYING STAKEHOLDERS AND MAPPING THEIR
+INTERESTS
+4.1.2 | IDENTIFYING THE RELEVANT THEMES FOR THE COMPANY
+(MATERIALITY)
+4.1.3 | PRIORITISATION
+6 Euronext | Guidelines to Issuers for ESG Reporting Euronext | Guidelines to Issuers for ESG Reporting 7
+The world is facing significant challenges in ensuring a sustainable
+future for our people and our planet and many international and
+international initiatives are addressing them. Acting on increasing
+concerns worldwide, 195 countries signed the Paris agreement
+in December 2015 to limit the rise in global temperatures to less
+than 2°C above pre-industrial levels. The European Green Deal is
+the first step on this journey, a roadmap that aims to transform the
+EU’s economy for a sustainable future, including the decoupling of
+economic growth from resource use.
+As governments and individuals scale up their efforts and support
+initiatives to remodel our economies and change our behaviours,
+every organisation will have its own role to play in the transition to
+a sustainable society. The financial industry will necessarily be an
+important contributor to the global sustainability agenda. To promote
+sustainable finance, the industry should incorporate environmental,
+social and governance (ESG) factors into investment decisionmaking,
+supporting the allocation and channelling of capital towards
+sustainable and transitioning assets.
+Leveraging practices and techniques that have been created and
+enriched over the past 30 years, the financial industry began to
+incorporate non-financial criteria in the analysis of companies’
+performances only a decade ago. This was a first move towards
+embracing sustainability, but progress requires steep learning curves.
+To satisfy investors’ expectations of transparency and their increasing
+awareness of ESG factors, public companies are being incentivised to
+disclose more information as the stakes become higher.
+This growth trajectory is demonstrated in recent figures: the Global
+Sustainable Investment Alliance estimates that in 2018 the total value
+of all investments managed following an ESG mandate was USD $31
+trillion globally. Europe accounts for the largest concentration of
+sustainable investment assets worldwide, totalling USD $14.1 trillion.
+As the demand for socially responsible assets grows, ESG reporting
+is both a fantastic opportunity and a real challenge. It can appear
+particularly complex for smaller issuers in the absence of a clear set
+of globally used standards. This ESG guidance has been created to
+help Euronext listed companies in their interactions with investors
+and the wider ESG community, to help them understand how to
+address ESG issues as a key component of investor relations, as well
+as the main principles to consider when preparing an ESG report.
+As sustainability evolves alongside the needs of our society and our
+environment, this guidance will be updated as necessary to continue
+to be a dynamic support, aligned with the needs of investors.
+This guidance underlines our commitment to support our customers
+and promote sustainable finance. We are an official supporter of
+the United Nations’ Sustainable Stock Exchanges (SSE) initiative, a
+member of Finance for Tomorrow (the sustainable initiative from Paris
+Europlace) and have committed to the Task Force on Climate-related
+Financial Disclosure (TCFD) recommendations. We strive to promote
+transparency on climate risks and opportunities in the financial
+markets and are building a growing offering specifically designed
+to assist issuers in enjoying more visibility as a benefit of their ESG
+commitment.
+They say the future of finance is green. It starts with each of us making
+our own strides forward in our pledge to create a sustainable future.
+We hope this guidance will inspire your journey toward a more
+sustainable economy.
+Anthony Attia and Daryl Byrne,
+Members of the Euronext Managing Board
+Foreword
+Anthony Attia
+Daryl Byrne
+8 Euronext | Guidelines to Issuers for ESG Reporting Euronext | Guidelines to Issuers for ESG Reporting 9
+Environmental, social and governance principles (ESG) are a set of standards
+by which a company and its investors can measure the wider impact of its
+operations and long-term strategy. Companies can integrate environmental1 ,
+social2 and governance3 concerns into their long-term strategy with a view to:
+Moreover, investors increasingly expect companies to recognise and address,
+in a responsible way, short- and long-term risks and opportunities in relation
+to environmental, social and governance factors that impact long-term value
+creation.
+For the purpose of this guidance the terms “ESG” and “Sustainability” are
+therefore used interchangeably, herein encompassing concepts comparable to
+“corporate responsibility” and “CSR”.
+making an overall positive
+contribution
+achieving sustainable
+growth
+avoiding and addressing
+adverse impacts related to
+its operations, products or
+services
+What is ESG and who is
+this guidance for?
+01 1 Environmental: related to topics that include pollution, carbon emissions and protection of biodiversity.
+2 Social: related to topics that include inequalities issues, diversity and human rights.
+3 Governance: related to topics that include management processes and transparency
+“Sustainability” has evolved to refer to
+strategic and operational considerations
+related to a broad set of environmental,
+social and governance concerns.
+10 Euronext | Guidelines to Issuers for ESG Reporting Euronext | Guidelines to Issuers for ESG Reporting 11
+This guidance is intended to help simplify the efforts of companies listed on
+Euronext to:
+■ Identify and prioritise the opportunities and risks of greatest
+significance to a company results and their most important stakeholders
+with regards to ESG
+■ Report efficiently on their management of and performance in areas of
+ESG risks defined in accordance with their own needs and those of their
+stakeholders
+■ Navigate, comply with or stay ahead of regulations that require
+disclosure of financially material ESG information
+■ Differentiate themselves on ESG matters and maintain high relevance,
+which is becoming a competitive imperative
+The use of the Euronext guidance on ESG reporting is voluntary for
+companies. Companies that apply the guidance may highlight this by including
+the following statement in their annual report and/or their separate ESG
+report: “We follow the Euronext guidance on ESG reporting of January 2020”.
+12 Euronext | Guidelines to Issuers for ESG Reporting Euronext | Guidelines to Issuers for ESG Reporting 13
+The evidence suggests that strong corporate performance on ESG factors
+correlates positively with improved cost of capital and financial performance.
+Several studies4 suggest that companies that perform well on material ESG
+factors significantly outperform peers with poor performance on these issues.
+In addition to investors, a range of other stakeholders increasingly require
+information regarding the most significant opportunities and risks to
+which companies are exposed, and how they manage such issues. Many
+of the issues covered by the concept of “corporate responsibility” can have
+significant consequences for a company’s financial performance and value
+creation over both the short and the long term, as they can affect a company’s
+access to and cost of capital, market access, brand value, licences and other
+authorisations required to operate.
+Reporting on how sustainability initiatives are linked to strategy, financial
+performance and valuation assists in communicating how a company is
+addressing some of the world’s most pressing challenges, including poverty,
+education, climate change and biodiversity. Addressing these challenges
+promotes more prosperous economic systems that benefit all participants and
+create more stable and resilient markets within which companies can operate.
+2.1 | Supporting corporate reputation and
+strategy
+In addition to the benefits of the report itself, a company also derives value
+from the process of creating a report.
+While high quality corporate reporting provides useful decision-making
+information for internal and external stakeholders, the process of compiling
+this information can also strengthen internal reporting systems. The
+ESG reporting process itself can help companies develop the internal
+infrastructure needed to link strategic goals with the business model,
+risks, opportunities, operational indicators and financial performance. ESG
+reporting thus equips a company with tools to identify and manage risk,
+evaluate and measure success, as well as identify future challenges and
+opportunities.
+An extensive number of
+empirical business studies make
+the case for companies to fully
+integrate sustainability into their
+business strategy.
+Why report on ESG
+considerations?
+02 4 Gunnar Friede, Timo Busch & Alexander Bassen (2015) ‘ESG and financial performance: aggregated evidence from more than 2000 empirical studies’, Journal of Sustainable Finance & Investment.
+Gordon L. Clark, Andreas Feiner, Michael Viehs (2015) ‘From the stockholder to the stakeholder: How sustainability can drive financial outperformance’, co-authored by the Smith School of Enterprise and the
+Environment at the University of Oxford and Arabesque Asset Management.
+14 Euronext | Guidelines to Issuers for ESG Reporting Euronext | Guidelines to Issuers for ESG Reporting 15
+2.2 | Addressing ESG issues as key
+component of investor relations
+A large and growing proportion of assets managed globally sits with asset
+managers and asset owners that have incorporated or are incorporating ESG
+considerations into their investment processes.
+In 2019, the United Nations-supported Principles for Responsible Investment
+(PRI)5 had nearly 2,500 signatories with USD 89 trillion in assets under
+management (AUM), up from 800 signatories with USD 22 trillion AUM in
+2010. For these investors, ESG information provides insight into the quality of
+corporate management and helps investors forecast company performance
+by providing a more comprehensive view of the company. Effective analysis of
+relevant ESG factors has become a fundamental part of assessing the value
+of an investment for many investors. For these reasons, investors are asking
+companies to communicate on how they are managing ESG-related risks and
+opportunities
+2.2.1 | Identifying and understanding investors’ ESG information
+needs
+While all investors can benefit from ESG information, different investors may
+have distinct information needs. Companies can therefore benefit from asking
+themselves the following questions:
+For instance, investors with a long-term investment horizon, such as pension
+funds, may be particularly interested in information regarding risks, such
+as how climate change may affect the company in the medium or long term.
+Other investors may only be interested in information that is disclosed within
+a financial or integrated report, while others may want supplemental, detailed
+sustainability information in a standalone report. These considerations are
+important early in the reporting process, as they will help define the content,
+scope and format of reporting, as well as engagement with investors.
+Investors are interested in how a company communicates with other
+key stakeholders (e.g., employees, consumers, suppliers, civil society or
+governments), which can have a material impact on company operations.
+Investors recognise that a company’s ability to create value in the long term
+depends on its interactions with its stakeholders and use of resources.
+While this guidance focuses on
+facilitating transparency between
+investors and issuers, investor
+information needs go beyond the
+investor-issuer relationship.
+Who are the company’s
+top investors?
+What kind of
+investors would
+the company like to
+have?
+How has the company
+engaged with
+relevant investors
+to understand their
+concerns?
+5 www.unpri.org/pri/about-the-pri
+16 Euronext | Guidelines to Issuers for ESG Reporting Euronext | Guidelines to Issuers for ESG Reporting 17
+2.2.2 | ESG a compass for risk mitigation
+The transition to a low carbon economy implies changes in climate policies
+and an increased focus on physical risks, which will prompt a reassessment of
+the values of almost every financial asset. Companies that seek to minimise
+their ESG risks must look at their ambitions and their desired longevity
+through the lens of environmental, social and governance factors.
+As ESG outcomes become embedded in a company’s strategy, the way
+risks are understood, measured, and subsequently mitigated will evolve in
+alignment with strategic objectives. Ongoing dialogue with stakeholders
+(including employees, communities, shareholders, relevant regulators, rating
+agencies, clients, etc.) is key in helping companies understand where they
+should focus their attention when it comes to ESG risk-related areas.
+Many components of a company’s strategy may be understood from an ESG
+perspective.
+We can take as an example the ambition to promote employee well-being
+and happiness. This is mirrored by the operational risk of high employee
+turnover, which can impact the continuity of client servicing and operational
+efficiency. However, the risk of high employee turnover may also have a
+strategic component with impacts on attracting talent, corporate culture
+and client perception. The increased awareness gained from taking both
+operational risks and strategic objectives into account can help companies
+allocate resources more efficiently, thereby integrating the ESG risk into their
+Enterprise Management Risk Framework. Strenghtened employer branding
+is an illustration of how ESG can help bring concrete answers to companies’
+needs today.
+The understanding and clear disclosure of ESG risks and the strategies
+employed to mitigate these risks assure investors of a company’s resilience
+and capacity to transition towards a more sustainable economy.
+Finally, a company may leave itself open to reputational risk if it overlooks this
+area, necessarily not because of poor ESG risk management per se, but even
+due to poor disclosure and communication.
+2.3 | Align your strategy with regulatory
+requirements
+A number of jurisdictions have introduced regulatory requirements governing
+corporate disclosure of ESG information.
+Shareholders and other stakeholders are demonstrating an increasing
+interest in non-financial information, which allows them to build a more
+comprehensive understanding of a company’s development, performance,
+position and impact. As demand for socially responsible investing grows, they
+factor ESG information thoroughly into their investment decision process. In
+this context, disclosing non-financial information is pivotal for both investors
+and consumers.
+The European Parliament has acknowledged the importance of this
+transparency, and the European Directive 2014/95/UE dated 22 October 2014
+obliges public-interest entities which are large undertakings with more than
+500 employees to publish non-financial information, including information
+on environmental, social and employee matters, diversity, respect for human
+rights and on anti-corruption and bribery matters. Additional regulatory
+frameworks at the EU level include the Guidelines on Non-Financial Reporting
+(2017/C215/01), updated in 2019 to factor in climate-related information
+(2019/C209/01).
+A description of the key ESG reporting regulations in Euronext Exchange
+jurisdictions at date of publication can be found in section 7.1. of the Appendix
+to this guide. These regulations are valid as of 19 September 2019.
+18 Euronext | Guidelines to Issuers for ESG Reporting Euronext | Guidelines to Issuers for ESG Reporting 19
+3.1 | Responsibility and oversight of the
+report
+The initial stages of report preparation provide an opportunity to determine
+who within the company is best placed to be involved in creating the report.
+Identifying responsibilities
+As a practical first measure, it is useful to determine within the company the
+roles, responsibilities and capabilities that are relevant for ESG reporting,
+including identifying appropriate personnel and coordinating among them.
+Different departments (such as finance, investor relations, communications,
+HR, legal, sustainability and each business unit) make valuable contributions
+to the outcome of a report. Any team working on ESG reporting should
+have access to input from across the functional divisions of the company,
+as different functions within the company may be engaging with different
+stakeholders and managing material issues.
+Role of the Board of Directors
+The Board of directors plays an essential role. Integrating ESG considerations
+into the company’s strategy is an important aspect of the Board’s role, since it
+is responsible for the strategic oversight. It is thus worthwhile for companies
+to define their ESG rationales and objectives with their Boards of directors,
+and provide governance mechanisms for addressing these factors at all levels
+of the organisation.
+By embedding sustainability into their core duties, directors can position
+themselves to ensure that ESG factors are integrated into mainstream
+business strategy, organisational culture, values and operational practices in
+a way that supports the long-term profitability and viability of the company.
+Boards may find it beneficial to issue a statement that clarifies how the board
+determined:
+Which ESG factors were selected
+and how
+Within what timeframe it made these
+judgments, as they change over time
+The Board statement should be published in the ESG Report.
+If the process of drafting and filing the ESG report is directed by the
+management, the ultimate responsibility for the timely issuance and the
+content of the report falls on the directors’ shoulders.
+Guiding principles of
+report preparation
+03
+The importance of different
+stakeholders
+20 Euronext | Guidelines to Issuers for ESG Reporting Euronext | Guidelines to Issuers for ESG Reporting 21
+3.2 | Relevance And Materiality
+While companies have several reporting objectives, the materiality of
+information and its relevance for investors is a key consideration in
+determining the scope and content of company’s reporting.
+Identifying relevant issues is a starting point for identifying material factors.
+Information is “relevant” when it influences the opinion or decision of users
+by helping them to evaluate past, present or future events, or by confirming
+or correcting their past evaluations. As such, understanding the reporting
+audience is critical to determining what information should be included in
+a report. When determining relevant matters, it can be useful to gauge how
+much an issue might potentially affect the company’s ability to create value
+over time.
+22 Euronext | Guidelines to Issuers for ESG Reporting Euronext | Guidelines to Issuers for ESG Reporting 23 ESG
+Reporting process
+04
+The reporting process set out below is based
+on the Global Reporting Initiative’s standards
+for ESG reporting (GRI Standards)6. Other
+guidelines also exist and can be relevant for
+issuers (see appendix).
+The process of carrying out a materiality analysis and the associated
+operational management, communication and annual updates, will to a large
+extent be the same across sectors and companies, comprising four key steps:
+6 https://www.globalreporting.org/Pages/default.aspx
+1 | MATERIALITY ANALYSIS 2| OPERATIONAL MANAGEMENT 3| COMMUNICATION
+24 Euronext | Guidelines to Issuers for ESG Reporting Euronext | Guidelines to Issuers for ESG Reporting 25
+4.1 | Materiality analysis: identification and
+prioritisation
+4.1.1 | Identifying stakeholders and mapping their interests
+The ESG reporting process should start with a materiality analysis, which
+involves mapping the opportunities and risks the company faces, as well
+as identifying its most important stakeholders and their primary areas of
+interest. This will give the company a good starting point for identifying its
+most business-critical areas, and will provide direction regarding the relevant
+indicators which should be monitored.
+The work undertaken to map a company’s
+most important stakeholders and their
+expectations can be based on existing
+analysis and knowledge from within the
+organisation.
+This information can be gathered through discussions with internal employees
+who are in contact with key stakeholders. Which employees to involve will
+depend on the key stakeholders identified:
+■ If customers are key stakeholders, the sales department is a key source
+of input, based on sales staff’s existing analysis and knowledge of
+customer requirements and expectations.
+■ For information on civil society, the head of the company’s local business
+unit or its communications department might have, for example, an
+overview of enquiries received from interest groups and civil society, as
+well as any associated media reporting.
+■ If internal discussions reveal that information about the expectations
+of some groups of stakeholders is lacking or that such information is
+incomplete, the stakeholders themselves should be contacted.
+26 Euronext | Guidelines to Issuers for ESG Reporting Euronext | Guidelines to Issuers for ESG Reporting 27
+The following is an example of what an overview of stakeholder expectations
+might look like:
+Stakeholder group Expected of the company Arena for dialogue Actions by the company
+Investors Climate reporting
+Compliance with the OECD’s Guidelines
+for Multinational Enterprises
+Meetings with investors and analysts
+Quarterly presentations
+Report greenhouse gas emissions and
+emission reduction targets
+Human rights due diligence
+Customers Corruption prevention
+Product safety
+Customer meetings, seminars,
+internet-based channels
+Formulate ethical guidelines
+Customer satisfaction surveys
+Participation in industry forums
+Neighbours Create jobs
+Minimise negative impact in the form of
+traffic, noise and/or emissions
+Meetings for local residents
+Neighbourhood consultation meetings
+Open days
+Employ local people
+Analyse traffic patterns and implement measures
+to reduce noise and dangerous situations
+Employees Secure jobs
+Good working environment
+Collaboration with unions
+Company-wide meetings
+Departmental meetings
+Provide information on business strategy and
+profitability
+Employee satisfaction surveys
+4.1.2 | Identifying the relevant themes for the company (Materiality)
+In financial reporting, “materiality” is usually defined by reference to a
+threshold value that may influence the financial decisions of users of the
+company’s accounts, for example, investors. In corporate responsibility
+reporting, a materiality assessment takes into account a broader range of
+stakeholders and the impact of the company. In this context, the principle of
+materiality includes considering both the effect a topic has on stakeholders’
+assessments and decisions, and the significance of a relevant topic for
+environmental, social and economic matters.
+■ Even if a topic is not regarded as material to the company’s financial
+results, it may nonetheless be important to include in the company’s
+reporting. An example is the use of suppliers in low-cost countries. This
+can have a positive impact on the society and economy of the country
+concerned (and can generate better financial results for the reporting
+company). However, it can at the same time pose a risk in terms of
+workers’ basic rights.
+■ Whether a company reports on a smaller number of only the most
+material themes or a more comprehensive range, an effective report
+covers ESG considerations that are relevant to business strategy and
+illustrates the link to both long-term and, when possible, short-term
+value creation.
+■ Thinking through each piece of a company’s value chain can help
+develop a comprehensive understanding of the ESG themes that could
+be relevant for disclosure. Additionally, it is often helpful to reflect on
+the risks discussed in the company’s annual management reports, as
+well as themes reported by peers.
+28 Euronext | Guidelines to Issuers for ESG Reporting Euronext | Guidelines to Issuers for ESG Reporting 29
+The process of mapping topics of relevance to the company should include the
+opinions of an internal interdisciplinary group and will also often involve the
+company’s executive management. Salient considerations may include:
+■ What is important in order to create shareholder value?
+■ What does the board of directors consider to be important?
+■ What are the difficult items on the executive management team’s
+agenda?
+■ Do the board and executive management have sufficient knowledge of
+corporate responsibility?
+Companies are invited to look to GRI 1017 for help in assessing materiality.
+The EU Commission emphasises that companies, when assessing the
+materiality of non-financial information, should consider the double
+materiality perspective: financial materiality, i.e. information relating to
+“non-financial” factors that may nevertheless affect company value, and
+environmental and social materiality, that is, the company’s impact on
+environmental and social factors. As shown on this illustration, the distinction
+between these two types of materiality can be difficult to identify in practice.
+Also, the degree to which report readers emphasise one type of materiality
+over the other is likely to vary among stakeholders.
+7 www.globalreporting.org/standards/gri-standards-download-center/gri-101-foundation-containing-standard-interpretation-1/
+Refer to GRI 102-46 for additional illustration.
+30 Euronext | Guidelines to Issuers for ESG Reporting Euronext | Guidelines to Issuers for ESG Reporting 31
+4.1.3. Prioritisation
+The results of the materiality analysis must be compiled in an appropriate
+manner that demonstrates what is significant both to the company and
+its stakeholders. In order to determine the company’s material risks and
+opportunities, the different topics identified should be assessed along two
+dimensions: “Significance to the company’s stakeholders” and “Significance
+for the company’s economic, social and environmental impacts”.
+Tips for assessing the two dimensions of risks and opportunities:
+Significance to the company’s stakeholders
+■ To what extent does the topic affect stakeholders economically, socially or
+environmentally?
+■ To what extent might the topic influence stakeholders’ decisions and their
+assessments of the company’s products, services or reputation?
+Significance for the company’s economic, social and environmental impacts:
+■ To what extent is the topic relevant for the company’s economic, social and
+environmental impacts? This can be important for the company’s ability to
+achieve its strategic and business goals.
+■ To what extent does the topic affect the company’s ability to operate over the
+short and the long term?
+■ Which international standards and agreements is the company expected to
+comply with?
+The risks and opportunities that are assessed to be significant to both
+the company’s stakeholders and the company’s economic, social and
+environmental impacts should be defined as material, and thus prioritised in
+the company’s work and reporting on corporate responsibility. The findings in
+terms of material risks and opportunities should form part of the company’s
+public reporting. The information can be presented in many ways, and
+companies should choose the most appropriate method for them.
+The following is an example of how to present a materiality analysis:
+The risks and opportunities contained in the circle as shown are the most
+important ones for the company to report on. There are alternative ways
+of presenting the results of a materiality analysis, such as a matrix (as
+demonstrated above), a table, or a list.
+32 Euronext | Guidelines to Issuers for ESG Reporting Euronext | Guidelines to Issuers for ESG Reporting 33
+4.2 | Implementation and operational
+management
+Material risks and opportunities are assumed to be significant to companies’
+profitability over the long term, and should therefore be managed accordingly.
+Furthermore, ESG reporting should reflect what the company actually does to
+address ESG concerns.
+This means that companies should:
+■ Include material risks and opportunities in operational management
+The topics that the company has defined as most significant to report
+on should be included in the company’s risk management, business
+development and strategy processes. This should be described at a high
+level in the ESG report or chapter. The ESG report or chapter should also
+include a description of implemented measures in order to reduce the
+risks associated with the most material topics, and how these measures
+are integrated into the operational management of the company,
+including its business development and strategy.
+■ Define targets and indicators for material topics
+Once a company has established which ESG themes to report on, it
+should define specific targets and performance indicators for material
+topics and disclose these in order to demonstrate progress. Companies
+should explain why the targets and indicators are relevant to the
+company and how they are monitored. The indicators may be generic,
+industry-specific (e.g. certain Health Safety Evironment indicators) or
+company-specific. Relevant indicators will depend on the company’s
+industry and geographic exposure. Companies are recommended to
+use widely accepted indicators developed via a credible national or
+international process. The indicators can be both quantitative and
+qualitative. Examples of widely used indicators can be gathered from
+SASB or GRI, among other frameworks (see appendix).
+■ Opt for robust internal ESG data collection and management processes
+Better data leads to better decision-making and performance. Rather
+than creating completely new channels, companies can make use of
+existing internal audit, risk and data control verification systems. If
+internal systems are not currently sufficient for the task, a company may
+decide it is in its long-term best interest to invest in building capacity in
+this area. If data collection gaps are identified, companies can identify
+and explain them in their report.
+4.3 | Drafting and presentation
+4.3.1 | Quality of the information
+Reporting should be transparent and should enable the reader to track
+performance from year to year.
+The report should describe how the information has been defined, gathered
+and compiled. To show the company’s performance, comparable quantitative
+information should be provided for the previous three financial years where
+appropriate.
+When reporting specific targets and performance indicators for material
+topics, investors appreciate information that appears in the appropriate
+context, including comparisons to:
+■ Historical company and industry trends
+■ Related corporate goals
+■ Relevant ratios
+■ Industry averages
+■ Financial results/performance
+Where a target has been set for an indicator, information should be provided
+on whether the target has been achieved. If the target has not been achieved,
+a brief explanation should be given. It may be appropriate to structure the
+content and format of the report in a manner that makes the information
+comparable from year to year. This also makes it easier for stakeholders
+to locate information and may help enhance the perceived quality of the
+company’s reporting.
+34 Euronext | Guidelines to Issuers for ESG Reporting Euronext | Guidelines to Issuers for ESG Reporting 35
+The reported information must be:
+ACCURATE
+The reported information should be accurate enough to enable the
+company’s stakeholders to evaluate the results of the company’s activities.
+BALANCED
+The report should describe both the positive and negative impacts of the
+company’s activities.
+COMPREHENSIBLE
+The information should be clear to the report’s users. It can be useful, for
+example, to describe the company’s value chain in order to show where the
+company has the greatest impact on the environment.
+COMPARABLE
+The information should be presented in a manner that enables
+stakeholders to evaluate the company’s performance over time and to
+compare it with that of other organisations where relevant.
+TIMELY
+Reporting should at a minimum follow the same timetable as for annual
+financial reporting.
+RELIABLE
+The reported information should be gathered, recorded and compiled in a
+way that can be verified.
+Companies are also invited to consult the GRI 101 Foundation and, in
+particular, the Reporting Principles, which define report quality choices.
+Information quality is important to enable stakeholders to make sound and
+reasonable assessments of an organisation, and to take appropriate actions.
+As investors seek to understand how ESG information is linked to the
+company’s business strategy and financial performance, relevant quantitative
+data is in high demand because it can be more easily compared across time
+within the same company or with similar data from other companies. Such
+data is also useful for enhancing investment valuation and credit rating
+models.
+5.3.2 | Format of the presentation
+The report should be included in the board of directors’ annual report,
+elsewhere in the company’s annual report8, in an integrated report , in a
+separate report or through other channels that stakeholders wish to use as
+a source of information. Regardless of the reporting channel chosen, the
+format of the report must satisfy all relevant legal requirements and be easily
+available via the company’s website.
+Regardless of the format, there are a few overarching points of best practice
+to keep in mind:
+■ Reporting period
+If sustainability disclosure is separate from financial disclosure, it is
+recommended that the two types of disclosure are published for the
+same reporting period. This will allow investors to consider financial
+information within the context of ESG information. Cross-references
+within these documents ensure connectivity and accessibility of
+information.
+■ Consistency across channels
+It is important to ensure consistency among the information reported
+in different communication channels. For example, if one channel
+emphasises the critical nature of an issue to a company’s business,
+the company should avoid omitting discussion of that issue on another
+communication channel.
+■ Accessibility of information
+Information must be easy to find. For example, companies can produce
+an online content index with hyperlinks to boost digital accessibility
+indicating where all existing ESG information can be found.
+■ XBRL reporting language
+As in financial reporting, it can be helpful to use XBRL, a digital
+reporting language for reporting corporate information that structures
+data consistently to improve its analysis. XBRL taxonomies are available
+from CDSB, CDP and GRI.
+■ Clear and relevant presentation
+Reporting is most effective when the language used and the way the
+information is presented is clear and relevant for investors and is
+clearly linked to a company’s ability to create value in the short, medium
+and long term.
+4.3.3 | Making your ESG information accessible
+The right disclosure channels ensure investors receive relevant, easily
+accessible, comparable and timely information.
+To accommodate variable information needs and interests, it may be relevant
+to use different communication channels, including:
+■ Websites
+■ Regulatory filings
+■ Annual reports
+■ Sustainability reports
+■ Other company reports
+8 This model has been promoted by the International Integrated Reporting Council (IRRC) – See: https://integratedreporting.org/.
+36 Euronext | Guidelines to Issuers for ESG Reporting Euronext | Guidelines to Issuers for ESG Reporting 37
+4.4 | Reporting as a continuous dialogue
+Engaging stakeholders on ESG factors is best conducted as a pre-emptive
+rather than reactive activity, as stakeholders can help a company identify,
+mitigate, and manage ESG risks and opportunities before problems
+emerge. Stakeholder engagement can also be a source of innovation, future
+opportunities and new partnerships that fuel strategic growth.
+Disclosing a company’s engagement process can help investors understand
+if and how well a company is integrating ESG risks and opportunities into
+planning and operations, as well as lending credibility to company claims
+about leadership in ESG performance. Systematic stakeholder engagement
+enhances receptivity and the usefulness of corporate ESG information.
+Executed properly, stakeholder engagement is:
+■ Result in improved understanding by the company of its strategic
+partners and resources
+■ Strengthen relationships with stakeholders
+■ Foster higher levels of trust among external parties regarding the
+company’s actions and reporting
+4.5 | Assessing and assuring
+ESG reports are made more credible by strong internal assessment processes
+and/or external assurance, if resources permit.
+An internal audit committee or group of individuals, independent of the
+division tasked with measuring and gathering the information, can review
+disclosure. An internal audit can also further ensure that internal data
+collection systems are robust and organised.
+A clear and visible statement should be made in the event of external
+verification of the report.
+Using more than one communication channel can be an effective way to
+ensure that the whole of a company’s target audience receives the necessary
+information.
+To make the information more accessible to international investors,
+companies may also wish to disseminate their ESG information in a language
+widely spoken globally in addition to a national language.
+The channels for ESG disclosure also depend on a company’s regulatory
+context and business and communication strategy. Securities regulations
+or listing rules may require a company to integrate financially material
+ESG information into its financial disclosures and other mandatory investor
+communications and regulatory filings. Similarly, based on its own analysis of
+information needs and expectations, a company may decide to include certain
+types of ESG information in its financial disclosure, even if not required.
+38 Euronext | Guidelines to Issuers for ESG Reporting Euronext | Guidelines to Issuers for ESG Reporting 39 Using capital markets
+to implement ESG
+business strategy
+05
+5.1 | The regulatory landscape of Green
+Bonds
+In March 2018, the European Commission (EC) published its Action Plan on
+Financing Sustainable Growth. One of the actions within this Plan details the
+EC’s commitment to the creation of standards and labels for green financial
+products.
+A Technical Expert Group (TEG) was established to assist in four key areas,
+one of which is the creation of an EU Green Bond Standard (EU GBS), a
+voluntary, non-legislative standard proposed to issuers who wish to align their
+issuances with best market practices.
+The intention is to provide a framework of core components for EU Green
+Bonds, enhancing transparency, integrity, consistency and comparability. In
+summary, the TEG purports that a voluntary EU Green Bond Standard, aimed
+at both European and international issuers of all forms of listed/unlisted
+fixed income products, will address barriers to market development and will
+support its role in channelling substantial financial flows to green bonds.
+Built on best market practices, the EU Green Bond
+Standard goes a step further than many other
+industry standards with its proposed ‘external verifier
+accreditation programme’ standing out as the most
+significant departure from current market practice.
+While it remains to be seen if an EU-supported Green Bond Standard can
+effectively tackle the current market barriers that it hopes to address and
+provide benefits to both issuers and investors of green products without
+imposing too onerous an additional cost, Euronext welcomes the proposal and
+supports the objective of creating a recognised EU Green Bond Standard in
+Europe.
+The new EURONEXT GREEN Bond Offering encourages issuers to finance
+their transition to a sustainable economy and provides them with the visibility
+required among responsible investors while the latter benefit from easier
+access to sustainable assets.
+5.2 | Equity financing for your transition
+Analysing the relationships between financing sources and carbon emissions,
+a September 2019 working paper supported by the European Central Bank
+(ECB) concludes that for given levels of economic and financial development
+and environmental regulation, CO² emissions per capita are lower in
+economies that are relatively more equity-funded. Stock markets can
+encourage the reallocation of investments towards less polluting sectors.
+They can also help push carbon-intensive sectors to develop and implement
+greener technologies.
+Current environmental objectives are strengthening the case for a Capital
+Market Union in Europe to deliver sustainable, equity-based growth. In this
+context, Euronext encourages issuers to leverage equity capital to finance
+their transition to a sustainable economy and is working to simplify issuers’
+access to sustainable equity capital.
+Sustainable indices also contribute to this goal, as they amplify issuers’
+visibility among the relevant communities of investors.
+40 | Guidelines to Issuers for ESG Reporting Euronext | Guidelines to Issuers for ESG Reporting 41 Euronext and its role in
+sustainability
+06
+Pan-European exchange group Euronext offers a diverse range of products
+and services and combines fair, orderly, transparent and efficient equity, fixed
+income securities and derivatives markets in different European locations.
+Euronext’s businesses comprise listing, cash trading, derivatives trading,
+advanced data services, post-trade and technologies and other corporate
+services.
+Euronext has a special position in the financial ecosystem. It serves the real
+economy by bringing together buyers and sellers in high integrity trading
+venues that are transparent, efficient and reliable. In this key role Euronext
+has a responsibility to the whole finance community to contribute to the
+financial stability and the sustainable agenda in the countries in which it
+operates.
+Euronext’s collaboration with and contributions to the UN’s Sustainable Stock
+Exchange Initiative confirms its commitment to building a new kind of finance,
+shifting paradigms to support a new world view. The Euronext ESG mission is
+to finance local and global real economy in its transition towards a sustainable
+society by:
+■ Driving investment in innovative, sustainable products and services
+through secure and transparent markets, in continuous collaboration
+with the financial community
+■ Inspiring and promoting tangible sustainable practices within the
+company and towards our communities, by respecting and developing
+our people and by supporting our ecosystem.
+42 Euronext | Guidelines to Issuers for ESG Reporting Euronext | Guidelines to Issuers for ESG Reporting 43 Appendix
+07
+7.1 | Key ESG reporting regulations of 19 September 2019
+Issuer of the text Date Title Comments
+EU EU institutions 2014 EU Non-Financial Reporting
+Directive 95/14
+Applies from January 2017 to all
+listed companies with more than 500 employees, and
+mandates disclosure of environmental, social (including
+diversity and human rights) and anti-corruption issues.
+Transposed in all the Euronext countries (except
+Norway)
+Belgium Government
+Corporate governance committee
+2017
+2019
+Law dated 3rd of September
+2017 transposing the EU Non-
+Financial Reporting Directive
+95/14 into Belgian law
+2020 Belgian corporate”
+governance code
+The 2020 Belgian Code on Corporate Governance (‘2020
+Code’) applies to companies incorporated in Belgium
+whose shares are admitted to trading on a regulated
+market (‘listed companies’) as defined by the Code on
+Companies and Associations
+France Government
+Company association
+2017
+2018
+Ordinance 2017-1180 of 19 July
+2017 on publication of nonfinancial
+information by certain
+large companies and company
+groups
+AFEP-MEDEF or Middlenext
+corporate governance codes
+44 Euronext | Guidelines to Issuers for ESG Reporting Euronext | Guidelines to Issuers for ESG Reporting 45
+Issuer of the text Date Title Comments
+Ireland Government
+Government
+Financial Reporting Council, UK
+&
+Euronext Dublin as Competent
+Authority for Listing
+2017
+2017
+2016
+S.I. No. 360 of 2017 (as
+amended by S.I. No. 410 of 2018)
+implementing the EU Non-
+Financial Reporting Directive
+2014/95/EU.
+Section 1373 Irish Companies Act
+(as amended)
+UK Corporate Governance
+Code 2016 & Irish Corporate
+Governance Annex
+Applicable for financial years commencing on or after
+1 August 2017. Large companies (as defined in Irish
+Companies Act), groups and undertakings are required
+to disclose and publish the required non-financial
+information, each financial year.
+Large traded companies are required to disclose in their
+Corporate Governance Statement information on diversity
+in their board.
+At present the UK Corporate Governance Code (2016)
+and the Irish Corporate Governance Annex applies to all
+companies with a primary listing on the regulated market
+of Euronext Dublin. The Code and the Irish Annex set out
+standards of good practice in relation to board leadership
+and effectiveness, remuneration, accountability and
+relations with shareholders, based on a comply or explain
+basis. A new 2018 UK Corporate Governance Code has
+been introduced in the UK and applies to financial years
+beginning on or after 1 January 2019. It is planned that
+this will also be adopted for Irish companies with a
+primary listing on Euronext Dublin.
+The Netherlands Monitoring Commissie Corporate
+Governance Code
+Government
+2016
+2016
+Dutch Corporate Governance Code
+2016
+Decree dated 22 December 2016
+transposing EU Non-Financial
+Reporting Directive 95/14 into
+Dutch law with respect to diversity
+policy
+The Dutch Corporate Governance Code 2016 applies
+to all companies whose registered offices are in the
+Netherlands and whose shares, or depositary receipts
+for shares, have been admitted to trading on a regulated
+market, and to large companies (balance sheet value
+> €500 million) whose shares, or depositary receipts
+for shares, have been admitted to trading on a MTF or a
+comparable system.
+Issuer of the text Date Title Comments
+Government 2017 Decree dated 14 March 2017
+transposing EU Non-Financial
+Reporting Directive 95/14 into
+Dutch law with respect to nonfinancial
+information
+Portugal Government 2017 Decree-Law n.º 89/2017 of 28 July
+transposing the EU Non-Financial
+Reporting Directive 95/14
+Large companies and parent companies of a big group
+of companies which have the legal status of entities of
+public interest and that have an average of more than 500
+employees, must present annually a non-public statement
+included in the management report or presented in a
+separate report prepared by its supervisory bodies,
+containing enough non-financial information for an
+understanding of the evolution, performance, position and
+impact of their activities, at least (i) on environmental,
+social and workers issues, (ii) on the equality between
+women and men (iii) on non-discrimination, respect for
+human rights, respect for combat corruption and bribery
+attempts.
+The law foresees which entities are qualified as entities of
+public interest, namely issuers of securities admitted to
+trading on a regulated market.
+Issuers of shares admitted to trading on a regulated
+market of a Member State of the European Union that are
+large companies, must, in addition, provide a description
+of the diversity policy that applies to members of their
+management and supervisory bodies and particularly
+in terms of age, sex, qualifications and professional
+background.
+46 Euronext | Guidelines to Issuers for ESG Reporting Euronext | Guidelines to Issuers for ESG Reporting 47
+Issuer of the text Date Title Comments
+Norway Government
+Oslo Børs
+Norwegian Corporate Governance
+Board
+Last
+updated
+2018
+Last
+updated
+2018
+Last
+updated
+2019
+Accounting Act, Section 3-3 a-d
+Continuing obligations of stock
+exchange listed companies,
+Section 7
+Norwegian Code of Practice for
+Corporate Governance
+Applies to listed companies, including non-Norwegian
+companies for which Norway is the home state. Some of
+the provisions also apply for companies with listed bonds
+only.
+Applies to companies that are listed or have applied for
+listing on Oslo Børs or Oslo Axess
+Applies to listed companies on regulated markets
+in Norway, and to savings banks with listed equity
+certificates to the extent that it is appropriate
+United Kingdom FRC
+UK Government
+UK Government
+Last
+updated
+2016
+2015
+Last
+updated
+2013
+UK Corporate Governance Code
+Modern Slavery Act Government
+Changes to the Companies Act
+2006 (Strategic Report and
+Director’s Report) 2013
+The code sets out standards of good practice in relation
+to board leadership and effectiveness, remuneration,
+accountability and relations with shareholders, on a
+comply-or-explain basis.
+Section 54 of the Modern Slavery Act 2015 requires certain
+organisations to develop a slavery and human trafficking
+statement each year.
+Carbon emissions, human rights and diversity reporting
+required by all listed companies in the Director’s Report
+7.2 | References to existing standards
+Below issuers may find a non-exhaustive list of existing ESG reporting
+standards that may be of relevance in furthering their transparency and
+disclosure with regards to non-financial information.
+■ IIRC/Integrated Reporting
+An international initiative with a framework and principles designed
+to promote more integrated reporting that describes how a company’s
+value creation is affected by its external operating framework, risk,
+strategy, operational management, etc.9
+■ Task Force on Climate-related Financial Disclosures (TCFD)
+Recommendations on climate reporting developed by the TCFD for the
+Financial Stability Board.10
+■ The OECD Guidelines for Multinational Enterprises.11
+■ The Sustainability Accounting Standards Board (SASB)
+An American reporting standard that may be useful for companies that
+report in accordance with Form 20-F.12
+■ Transparency International’s Business Principles for Countering Bribery
+A framework for developing and comparing anti-corruption
+programmes.13
+■ The UN Global Compact
+General reporting (progress reports) in accordance with the Global
+Compact’s ten principles on human rights, labour rights, the
+environment and anti-corruption. Can be integrated into a GRI report.13
+■ The UN Guiding Principles on Business and Human Rights
+Reporting on human rights. Can be integrated into a GRI report. 15
+■ The UN Sustainable Development Goals
+Although this is not a reporting standard, some companies may find it
+useful to show how sustainability goals are relevant to them.16
+9 integratedreporting.org/resource/international-ir-framework/
+10 www.fsb-tcfd.org
+11 http://mneguidelines.oecd.org/
+12 www.sasb.org
+13 www.transparency.org/whatwedo/publication/business_principles_for_countering_bribery
+14 www.unglobalcompact.org
+15 www.ohchr.org
+16 www.sustainabledevelopment.un.org - Among others, the Dutch Central Bank provides a framework to align with Sustainable Development Goals.
+More information on how companies can report on sustainability targets is available at: www.sdgcompass.org
+48 Euronext | Guidelines to Issuers for ESG Reporting Euronext | Guidelines to Issuers for ESG Reporting 49
+7.3 | Guidance for issuers in preparing their
+report
+1| How is the company moving towards a sustainable business strategy?
+2| How can ESG aspects support the achievement of business goals?
+3| What are the existing reporting requirements in the market(s) where the
+company operates?
+4| How can the company use ESG disclosure to engage and align board
+members, senior executives and employees?
+5| What are the key issues and future goals that relate to ESG from the point
+of view of the CEO and/or Chairman?
+6| How are board members, senior executives, and employees involved in
+ESG-related decision-making, planning, monitoring and activities?
+7| What is the company’s main reporting objective(s)?
+8| What are the key ESG factors that impact the company strategy in terms of
+the risks and opportunities they present?
+9| What are the company’s public commitments towards sustainable
+development and corporate responsibility?
+10| Who are the company’s priority stakeholders? What is the process for
+identifying them and how often is that determination refreshed or updated?
+How does the company know what ESG matters are relevant for these
+stakeholders?
+11| What is the company’s materiality determination process related to ESG
+matters?
+12| How do ESG factors fit within the company’s existing materiality
+determination process?
+13| Which ESG factors have the most impact on the company’s long-term
+value creation?
+14| Which ESG factors directly impact the company’s short term financial
+performance?
+15| How can the company use their feedback to improve performance?
+16| Which ESG factors are most relevant for the company’s current and
+potential investors?
+17| What does the company know about its existing investor base and its
+information needs?
+18| Has the company identified what information investors need?
+19| How has the company effectively engaged investors?
+20| How can the company leverage ESG disclosure to deepen relationships
+with investors?
+21| How does the company maintain and enhance its relationship with
+investors?
+22| How would the company like to evolve its investor roster in the next five
+years?
+23| What ESG factors are linked to current and potential regulations?
+24| How do financial disclosure controls and obligations apply to the
+company’s ESG disclosure?
+25| What level(s) of assurance is meaningful and feasible?
+26| How does the company determine which third party is the most effective
+and relevant to assure the company’s disclosure?
+50 Euronext | Guidelines to Issuers for ESG Reporting Euronext | Guidelines to Issuers for ESG Reporting 51
+7.4 | Objectives for reporting on ESG
+Access to capital
+■ Demonstrate transparency and effective management and enhance the
+company’s ability to attract long-term capital and favourable financing
+conditions.
+■ Enhance the company’s ability to attract longer-term investors, including
+major institutional investors such as pension funds.
+Profitability and growth
+■ Generate financial value for the company by identifying opportunities for
+cost savings, revenue generation and risk mitigation.
+■ Drive continuous improvement by creating accountability and fostering
+collaboration with stakeholders.
+■ Create a deeper understanding of stakeholder needs, which could drive
+innovation and enhance market differentiation and competitiveness.
+■ Enable management and board scrutiny of ESG opportunities and risks, and
+promote company-wide alignment on goals.
+Compliance and risk management
+■ Address mandatory reporting requirements on financially material factors
+and mitigate compliance risks related to financial disclosure obligations.
+■ Establish measurement and reporting processes for ESG information.
+■ Help the company stay ahead of emerging ESG and disclosure regulations.
+■ Protect the company’s licence to operate by demonstrating corporate
+transparency and responsiveness to stakeholder needs.
+Corporate reputation and branding
+■ Demonstrate corporate commitments to responsibly managing
+environmental, social, and economic impacts.
+■ Exhibit corporate adherence to industry ethical standards and national
+and international frameworks on corporate sustainability and sustainable
+development, particularly in light of the UN Sustainable Development Goals.
+■ Enhance corporate reputation by improving stakeholders’ perception of a
+company through reporting-related stakeholder engagement.
+■ Improve employee perception of the company, helping to attract, retain,
+motivate and align new and existing employees.
+Information flow
+■ Ensure that the key stakeholder(s) have the relevant information that is
+needed to make informed decisions about the company’s ability to create
+value in the short, medium and longer term.
+■ Enhanced investor relations and engagement
+■ Improve relationships with investors by engaging throughout the reporting
+process.
+Measurable achievements
+■ Measure the realisation of strategy and the extent of ESG impacts. Highquality
+reporting enables the measurement of success or progress in key
+corporate strategies as well as impacts of corporate practices.

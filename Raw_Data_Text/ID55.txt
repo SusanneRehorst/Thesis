@@ -1,0 +1,1839 @@
+Greening Finance:
+A Roadmap to Sustainable Investing
+October 2021
+
+Greening Finance:
+A Roadmap to Sustainable Investing
+October 2021
+© Crown copyright 2021
+This publication is licensed under the terms of the Open Government Licence v3.0 except where
+otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-governmentlicence/version/3 or write to the Information Policy Team, The National Archives, Kew, London
+TW9 4DU, or email: psi@nationalarchives.gsi.gov.uk.
+Where we have identified any third-party copyright information you will need to obtain permission
+from the copyright holders concerned.
+Any enquiries regarding this publication should be sent to us at:
+public.enquiries@hmtreasury.gov.uk
+Contents
+Foreword 2
+Introduction 6
+Chapter 1: Getting the right information to market participants 9
+Chapter 2: Defining what counts as green 20
+Chapter 3: Being a responsible steward of capital 29
+Chapter 4: Leading international efforts to green finance 33
+Chapter 5: Next steps 36
+Annex A: Sectoral implementation 38
+Annex B: Green Technical Advisory Group work plan 40
+Glossary 41
+
+Introduction
+In 2019, the UK became the first major
+economy to commit in law to net zero
+greenhouse gas emissions by 2050. In 2021,
+the government went further, setting in law
+the world’s most ambitious climate change
+target to cut emissions by 78% by 2035
+compared to 1990 levels. To achieve this,
+the whole economy will have to transform.
+The Intergovernmental Panel on Climate
+Change (IPCC) is clear that immediate, rapid,
+and large-scale reductions in greenhouse
+gas emissions are needed. This transition
+cannot be achieved without a significant shift
+of investment into sustainable projects and
+green technology. The financial system is
+therefore critical to achieving net zero and
+protecting the UK’s natural environment.
+This shift is well underway. The market for
+Environment, Social and Governance (ESG)
+investments in the UK has grown dramatically.
+Businesses and financial institutions are
+responding to the challenge and impetus
+to grow in responsible, sustainable ways.
+The demand for sustainable products is
+high: 70% of the UK public want their money
+to go towards making a positive difference
+to people or planet.1
+ And the market is
+responding: data from the Investment
+Association finds that 49% of the £9.4 trillion
+in UK assets were integrating ESG in their
+investment processes in 2020, up from 37% in
+2019 (see Figure D).2
+Box 1: What is sustainability?
+Responding to widespread investor and consumer demand, organisations are increasingly
+reporting sustainability information. Whilst there is no single definition of ‘sustainability’,
+voluntary reporting is often framed around three key factors – Environment, Social
+and Governance:
+Environment: This covers how organisations impact and are impacted by climate change
+and broader environmental issues, like biodiversity. Reporting on climate change is rapidly
+becoming mainstream. Global reporting standards are emerging that are underpinned by
+international agreements on underlying climate policy. Beyond climate, the data needed to
+drive wider environmental objectives is less developed – although this is changing through
+initiatives like the Task Force on Nature-related Financial Disclosures (TNFD).
+Social: This includes factors ranging from modern slavery to international development.
+Investors have long considered these matters in their investment decisions and many
+engage actively with investee companies on these topics. Globally agreed reporting
+standards may take longer to emerge, but there are existing frameworks which may provide
+a basis for future global standard setting.
+Governance: Covers the means by which a company is controlled and directed, most usually
+through a Board of Directors. It is the longest established area for investor engagement and
+extensive disclosure is already provided by companies through existing company law and
+other requirements.
+6
+1 See “Investing in a better world: understanding the UK public’s demand for opportunities to invest in the Sustainable Development Goals”
+page 7.
+2 The Investment Association Annual Survey, 2021 - https://www.theia.org/sites/default/files/2021-09/IMS%20report%202021.pdf
+In 2019, the government published the
+Green Finance Strategy. This was a landmark
+document setting out a suite of ambitious
+policy commitments to help align UK financial
+flows with a low-carbon world. It highlighted
+two key lines of effort. The first was
+‘greening finance’: supporting the financial
+services sector to align with the UK’s net
+zero commitment and wider environmental
+goals. The second was ‘financing green’:
+mobilising private finance at scale to support
+clean and resilient growth. It also committed
+to capturing the opportunities presented
+by the transition to net zero, cementing UK
+leadership in green finance and ensuring that
+businesses can benefit.
+Box 2: Delivering on the Green Finance Strategy
+✓ Committed to making TCFD-aligned disclosures mandatory across the economy
+✓ Included an obligation in their remit letters for the financial regulators to have
+regard to climate
+✓ Led G7 discussions on the development of global standards for sustainability disclosure
+✓ Committed to implementing a UK Green Taxonomy to provide a shared understanding of
+which economic activities count as green
+✓ Issued a Green Gilt, representing the largest debut transaction size for any sovereign at
+£10bn and kick-starting a green financing programme
+✓ Working to catalyse market-led action on nature-related financial disclosures
+Over the last two years, the government has
+delivered on the commitments set out in the
+Green Finance Strategy (see Box 2). Now the
+government is building on these successfully
+laid foundations and raising our earlier
+ambitions. Greening the financial system can
+be seen in three phases:
+ Phase 1: Informing investors and
+consumers – addressing the information
+gap for market participants, ensuring
+a flow of decision-useful information
+on environmental sustainability
+from corporates to financial
+market participants.
+ Phase 2: Acting on the information –
+creating expectations and requirements
+that this sustainability information
+is mainstreamed into business and
+financial decisions, for example in risk
+management and investor stewardship.
+ Phase 3: Shifting financial flows –
+ensuring that financial flows across
+the economy shift to align with the
+UK’s net zero commitment and wider
+environmental goals.
+This Roadmap represents the government’s
+strategy to deliver Phase 1. Central to this are
+new economy-wide Sustainability Disclosure
+Requirements. These will bring together
+new and existing sustainability reporting
+requirements for business, the financial
+sector and investment products. This will
+allow sustainability information to flow
+from companies in the real economy to the
+financial sector and its financial products. That
+information will help empower investors and
+consumers to make financial decisions which
+align with their values (see Figure A).
+7
+Box 3: What is ‘greenwashing’?
+‘Greenwashing’ is when misleading or unsubstantiated claims about environmental
+performance are made by businesses or investment funds about their products or activities.
+This can lead to the wrong products being bought – undermining trust in the market and
+leading to misallocation of capital intended for sustainable investments.
+Greenwashing was the most frequently cited concern amongst respondents to the 2021
+Schroders Institutional Investor Study3, with 60% of ESG investors raising it as a challenge.
+The FCA has received a growing number of low-quality authorisation applications from
+ESG-themed funds, many of whose sustainability claims did not stand up to scrutiny.
+The steps outlined in this Roadmap will help consumers better judge the sustainability
+characteristics of products and firms, supporting the continued growth of the market for
+sustainable finance.
+This Roadmap will:
+ Set out more details on the Sustainability
+Disclosure Requirements to help
+businesses prepare for what they will
+have to report and by when (Chapter 1)
+ Set out more detail on the UK Green
+Taxonomy (Chapter 2)
+ Highlight the importance of investor
+stewardship in green finance
+and set out the government’s
+expectations (Chapter 3)
+ Reiterate the UK's commitment to
+international leadership on green finance
+A comprehensive long-term view is also
+needed. The government will therefore
+update the Green Finance Strategy in
+2022. This will go beyond the timescales
+in this Roadmap and set out an indicative
+sectoral transition pathway out to 2050 to
+align the financial system with the UK’s net
+zero commitment. The updated strategy
+will assess industry progress on Phases
+1 and 2. It will also consider triggers for
+stronger policy to facilitate Phase 3 and help
+ensure that the UK meets its climate and
+environmental objectives.
+8
+3 Schroders Institutional Investor Study 2021 https://www.schroders.com/en/sysglobalassets/digital/institutional-investor-study-2021/assets/
+SIIS_2021_Sustainability.pdf
+Chapter 1: Getting the
+right information to market
+participants
+9
+Disclosure is the process by which
+organisations provide information
+to customers, investors, and other
+stakeholders, for example through their
+Annual Report. Sustainability information is
+increasingly fundamental to investor decisionmaking and informs many businesses’
+strategic direction.
+Voluntary sustainability disclosures
+are widespread but often inconsistent;
+information from different organisations is
+not always comparable. There is a clear
+need for an effective government-led
+sustainability disclosures regime which
+enables the flow of comparable and decisionuseful information on how companies and
+financial flows impact – and are impacted
+by – climate, the environment and broader
+sustainability factors.
+Box 4: The Task Force on Climate-related Financial Disclosures (TCFD)
+The Task Force on Climate-Related Financial Disclosures (TCFD) was created in 2015 by the
+Financial Stability Board. It developed recommendations for companies to disclose how they
+manage the financial risks and opportunities that climate change poses to their business.
+The TCFD recommendations have received widespread acceptance and are applied by
+companies around the world. In November 2020, the Chancellor announced that the UK
+intends to make TCFD-aligned disclosures fully mandatory across the UK economy by
+2025. Since then, the government and regulators have made significant progress towards
+this ambition:
+ In December 2020, the Financial Conduct Authority (FCA) finalised its TCFD-aligned
+disclosure rules for UK premium-listed companies.
+ In March 2021, the Department for Business, Energy, and Industrial Strategy (BEIS)
+consulted on mandatory climate-related financial disclosure requirements for certain
+publicly quoted companies, large private companies, and Limited Liability Partnerships.
+The consultation closed in May.
+ In June 2021, the FCA consulted on proposals to extend its TCFD requirements to
+standard-listed issuers and to require UK-authorised asset managers, life insurers and
+pension providers to publish client-focused TCFD-aligned disclosures.
+ In July 2021, the Department for Work and Pensions (DWP) laid legislation before
+Parliament requiring a variety of pension schemes to make certain TCFD disclosures and
+effectively manage climate-related risks and opportunities.
+Beyond TCFD, the UK has long been a world-leader on embedding sustainability into
+corporate reporting. Since 2013, the government has required companies to include a
+Strategic Report in their Annual Report to facilitate the reporting of non-financial information.
+In 2016, the government added further reporting requirements for large Public Interest
+Entities (PIEs) - over 500 employees - requiring them to disclose information on their
+environmental impact, social matters, employees, human rights, and anti-bribery and
+corruption. And since 2019, the government has required all large UK companies to disclose
+their greenhouse gas emissions.
+10
+Sustainability Disclosure
+Requirements
+The Chancellor announced new Sustainability
+Disclosure Requirements (SDR) at his
+Mansion House speech in July 2021. SDR
+will create an integrated framework for
+decision-useful disclosures on sustainability
+across the economy. It will, for the first time,
+bring together existing sustainability-related
+disclosure requirements under one integrated
+framework – building on leading global
+standards and best practice – and go further
+with new requirements.
+SDR builds on the UK’s TCFD implementation
+and will cover three types of disclosure (see
+Figure B and Annex A for further details):
+1. Corporate disclosure: New requirements
+for companies – including in the financial
+services sector – to make sustainability
+disclosures. This will, subject to
+consultation, comprise reporting under
+proposed international standards (see
+Box 5) and reporting of environmental
+impact using the UK Green Taxonomy
+(see Chapter 2).
+2. Asset manager and asset owner
+disclosure: New requirements for asset
+managers and asset owners that manage
+or administer assets on behalf of clients
+and consumers (including occupational
+pension schemes) to disclose how they
+take sustainability into account. These
+will help consumers determine whether
+their assets are managed according to
+their sustainability preferences.
+3. Investment product disclosure: New
+requirements for creators of investment
+products to report on the products’
+sustainability impact and relevant
+financial risks and opportunities. This
+information will form the basis of a new
+sustainable investment labelling regime
+that will make it easier for consumers
+to navigate the range of investment
+products available to them (see Box 6).
+SDR will use the same framework and metrics
+across the economy to ensure a clear and
+direct link from investors, through the financial
+system to the businesses they are invested in
+and their relationship with the environment.
+Metrics will be drawn from international
+standards, where they exist, to support
+international compatibility.
+Figure A: How information and capital flows through the economy
+Capital
+Information
+Environment Companies Financial
+Sector
+Financial
+Products
+Investors
+11
+Box 5: Towards a global baseline corporate reporting standard
+for sustainability
+For every investor globally to embed climate and sustainability into their decision making,
+markets need consistent and accurate information. This can only be achieved through a
+global standard which all companies report against.
+The International Financial Reporting Standards (IFRS) Foundation is the international body
+that governs the setting of global accounting standards, adopted by the UK and over 140
+other jurisdictions around the world. It is now establishing an International Sustainability
+Standards Board (ISSB) to develop global baseline reporting standards for sustainability,
+building on the work of the TCFD and other voluntary standard setters. The ISSB will provide
+comprehensive and granular corporate reporting standards for sustainability, focused
+on information which is material to investors. The government expects the Board to be
+established later this year, and, in early 2022, for the Board to consult on a draft climaterelated standard, before expanding its standard-setting to broader environmental and
+sustainability factors.
+The UK is a strong supporter of the IFRS Foundation and is proud that the Foundation has
+been based in London for the last twenty years. As an established international standardsetter with a transparent and robust governance structure, it is the right organisation to
+develop international standards in this area. The government expects that ISSB standards
+will form a core component of the SDR framework, and the backbone of its corporate
+reporting element.
+To deliver this, the government will create a mechanism to adopt and endorse ISSBissued standards for use in the UK. The proposed overarching framework will be subject to
+consultation. Regulatory changes will ensure that UK reporting under the ISSB standards is
+consistent with both existing and forthcoming disclosure requirements so that companies are
+not required to report the same information twice.
+12
+A consistent structure
+The TCFD recommendations set a framework
+for climate-related financial disclosure based
+on four pillars: Strategy, Governance, Risk
+Management, and Metrics and Targets.
+The government expects that the standards
+developed by the ISSB will build on the four
+pillars of the TCFD recommendations. SDR
+will integrate these global standards and will
+similarly adopt the four pillars of the TCFD
+recommendations (see Figure B).
+Beyond financial risks and
+opportunities
+The ISSB’s standards, building on the work
+of the TCFD, will focus on information which
+is material to investors. SDR will go further,
+requiring wider information on how firms
+impact the environment. This includes
+requiring disclosure against the UK’s Green
+Taxonomy (see Chapter 2).
+A robust ESG market
+The market for sustainable investments is
+complex and evolving. Some ESG factors will
+not be covered by the UK Green Taxonomy
+or ISSB standards but may nevertheless be
+the subject of firms’ claims to consumers.
+The FCA has already set out its expectations
+regarding design, delivery and disclosure of
+ESG and sustainable investment funds. SDR
+will go further in two areas:
+ Substantiate sustainability claims:
+Building on the FCA’s existing
+expectations, asset managers/owners
+and investment products will be required
+to substantiate ESG claims they make
+in a way that is comparable between
+products and is accessible to clients
+and consumers. They will also need to
+disclose whether and how they take
+ESG-related matters into account in their
+governance arrangements, and in their
+investment policies and strategies.
+ Minimum safeguards: The UK’s
+Green Taxonomy requires sustainable
+investments to satisfy minimum
+safeguards relating to basic good
+business practice. The SDR will require
+disclosure against these minimum
+safeguards and any related metrics
+(see Chapter 2).
+Over time, the ISSB standards will expand
+beyond climate to cover broader sustainability
+issues. In the meantime, the government
+and regulators encourage disclosure against
+established voluntary standards.
+Box 6: Sustainable investment
+labelling regime
+The FCA is working closely with HM
+Treasury on the development of a
+sustainable investment labelling regime.
+The labels will help consumers select
+investment products based on their
+sustainability characteristics and will
+be supported by the underlying SDR
+disclosures. It is envisaged that the
+labelling regime will cover the spectrum
+of investment products, classifying them
+objectively against specified sustainability
+criteria, and considering a) products’
+objectives, policies, and strategies, and
+b) how their investments are allocated.
+The FCA intends to publish further detail
+in an Autumn 2021 Discussion Paper
+and will set up an advisory forum to help
+inform the work.
+13
+Figure B: The framework of the UK Sustainability Disclosure
+Requirements (SDR)
+SDR is based on an economy-wide framework covering corporates, asset managers, asset
+owners, and investment products. Figure B outlines what firms will be required to disclose. The
+government intends to implement the framework through legislation, and relevant government
+departments and regulators will set out sector-specific requirements through their usual rulemaking processes.
+Corporates Asset Managers and
+Asset Owners Investment Products
+Governance
+Governance around
+sustainability-related risks,
+opportunities, and impacts
+Governance around
+sustainability-related risks,
+opportunities and impacts,
+and the implications
+for investment policies,
+strategies and outcomes
+Governance around
+sustainability-related risks,
+opportunities and impacts,
+and the implications for
+investment products
+Strategy
+Actual and potential
+implications of
+sustainability-related risks,
+opportunities and impacts
+for the organisation’s
+businesses, strategy, and
+financial planning
+Actual and potential
+implications of sustainabilityrelated risks, opportunities
+and impacts for the
+organisation’s investment
+policies, strategies,
+and outcomes
+Actual and potential
+implications of sustainabilityrelated risks, opportunities
+and impacts for
+investment outcomes
+Risk Management
+Processes used to identify,
+assess, and manage
+sustainability-related risks,
+opportunities, and impacts
+Processes used to identify,
+assess, and manage
+sustainability-related risks,
+opportunities and impacts,
+and the implications for the
+organisation’s investment
+policies, strategies,
+and outcomes
+Processes used to identify,
+assess, and manage
+sustainability-related risks,
+opportunities and impacts at
+product level
+Metrics and
+Targets
+Metrics and targets used to
+assess and manage relevant
+sustainability-related risks,
+opportunities, and impacts
+Performance against targets
+Taxonomy alignment
+and relevant
+supporting information
+Metrics and targets used to
+assess and manage relevant
+sustainability-related risks,
+opportunities and impacts,
+and implications for the
+organisation’s investment
+policies, strategies,
+and outcomes
+Performance against targets
+(where relevant)
+Taxonomy alignment
+and relevant supporting
+information based on
+underlying investments
+Product-level metrics and
+performance indicators on
+sustainability-related risks,
+opportunities, and impacts
+Performance against targets
+(where relevant)
+Product-level Taxonomy
+alignment and
+relevant supporting
+information based on
+underlying investments
+14
+15
+Transition plans
+An increasing number of organisations
+are making commitments to reach net
+zero emissions. Many organisations
+publish transition plans to support these
+commitments, setting out concrete actions
+and targets to achieve their ambition. Against
+the backdrop of its legislative commitment
+to achieve net zero emissions by 2050,
+the government would like to support and
+encourage organisations in this process.
+Detailed, credible transition plans that
+are integrated with other disclosures and
+incorporate interim milestones and targets,
+can support markets in monitoring progress
+towards a net-zero economy. They are also
+essential for the effective exercise of market
+discipline, and investors’ ability to hold
+investee company boards and management to
+account. The government therefore expects to
+see the publication of transition plans become
+the norm across the economy.
+While there is not yet a commonly agreed
+standard or ‘template’ for what a good quality
+transition plan looks like, this is rapidly
+changing. The TCFD has finalised guidance on
+transition plans4, and groups such as Climate
+Action 100+ and the Institutional Investors
+Group on Climate Change have undertaken
+relevant work. The Glasgow Financial Alliance
+for Net Zero (GFANZ) is also working to
+develop best practice guidance for financial
+sector transition strategies that is applicable
+across financial sub-sectors and jurisdictions.
+SDR will require disclosures on transition
+plans. Initially, certain firms will be required
+to publish transition plans that align with
+the government’s net zero commitment
+or provide an explanation if they have not
+done so. As standards for transition plans
+emerge, the government and regulators will
+look to incorporate these into UK regulation
+and strengthen disclosure requirements as
+appropriate. This will encourage consistency
+and comparability in published plans and
+support more widespread adoption.
+16
+4 Guidance on Metrics, Targets, and Transition Plans https://assets.bbhub.io/company/sites/60/2021/07/2021-Metrics_Targets_Guidance-1.pdf
+Box 7: ESG Data
+ESG data and ratings providers
+As the market for sustainable financial products and services grows, firms and consumers
+increasingly rely on providers of ESG-related services, including ratings, data, and
+verification. This market is expected to continue to grow strongly over the next few years
+and could reach the $1 billion mark by end of 2021 for ESG data alone, according to
+research by Optimas.
+ESG ratings are becoming increasingly important to the investment process. However,
+different ESG ratings agencies provide opinions on different aspects of sustainability
+performance and their assessments may not always be comparable. There are also typically
+more data gaps and assumptions made in producing ESG ratings than, for example,
+credit ratings.
+It is important that providers deliver ESG data and ratings transparently, and that they have
+strong governance and management of conflicts of interests. The government is therefore
+considering bringing these firms into the scope of FCA authorisation and regulation. The
+government will set out further detail next year.
+Digitisation of reported information
+As the importance of sustainability disclosures has increased, so has the demand for this
+information to be easily read and analysed electronically. The International Organization
+of Securities Commissions (IOSCO) recently published a report on issuers’ sustainability
+disclosures. In it, some asset managers called for enhanced digitisation and storage of
+sustainability information to support machine readability.
+The government and regulators are considering how to deliver an approach to digitisation
+of sustainability data that builds on the UK’s existing digital infrastructure for reporting. This
+includes assessing the value of a centralised register for ESG data.
+Delivering Sustainability Disclosure
+Requirements
+The government’s aim is for SDR to be a
+fully integrated regime that works smoothly
+across all sectors of the economy. Within
+that, relevant regulators and government
+departments will determine the precise scope
+and timing of requirements, and the reporting
+detail, subject to relevant consultation
+processes and other statutory requirements.
+Figure C sets out an indicative path towards
+integrated economy-wide disclosure
+requirements under the SDR framework.
+It illustrates how disclosures could be
+introduced coherently and systematically as
+new regulatory and legislative measures come
+into force, subject to consultation processes
+and other statutory requirements. Annex A
+outlines sectoral pathways and summarises
+the intended regulatory approach for each
+type of organisation and product.
+HM Treasury will co-ordinate the sectoral
+approaches centrally to ensure that the
+right information is made available across
+the investment chain – from corporates, to
+financial services firms, to end-investors.
+Initial steps, like introducing TCFDaligned disclosure requirements, have
+already been taken.
+Given the indicative pathways, organisations
+should consider taking the necessary steps
+now to build their capabilities and refine their
+data and the resulting disclosures.
+17
+Figure C: A Roadmap for sustainable finance regulation
+Scope Requirements in place
+by 2022
+1. Corporate
+Disclosure
+a) UK-registered companies, including
+relevant financial services firms (e.g.
+banks and insurance companies)
+TCFD for certain companies (subject
+to Parliamentary approval) See BEIS
+consultation on p.10
+Consultation on SDR Framework
+for companies
+b) UK-listed companies
+TCFD for premium-listed issuers
+TCFD for certain
+standard-listed issuers
+2. Asset
+Manager
+and Asset
+Owner
+Disclosure
+a) Asset managers, life insurers
+providing investment products and
+FCA-regulated pension schemes
+TCFD via FCA Rules
+Discussion paper on SDR disclosure
+requirements to be launched in
+November 2021
+b) Occupational pension schemes TCFD via DWP regulations
+3.
+Investment
+Product
+Disclosure
+and
+Labelling
+a) Investment products – Disclosure
+TCFD via FCA rules
+Discussion paper on
+consumer-facing product-level SDR
+disclosures in November 2021
+b) Investment products – Labelling
+Discussion paper seeking feedback on
+the sustainable investment labelling
+regime in November 2021
+4. Financial
+Advisors a) Financial advisors
+Requirements in place by 2022
+18
+Plan for implementing new requirements after Royal
+Assent of primary legislation
+19
++ 1 - 2 years + 2 - 3 years + 3 Years
+1.
+a)
+Mandatory disclosure
+requirements in Annual
+Reports incorporating UK
+Green Taxonomy and ISSBissued standards for most
+economically significant
+companies
+Voluntary disclosure for
+other companies
+Mandatory
+disclosure
+requirements in
+Annual Reports
+incorporating
+Taxonomy and
+ISSB-issued
+standards for other
+companies subject to
+b) consultation
+Consultation on mandatory
+disclosure requirements in
+Annual Reports incorporating
+UK Green Taxonomy and ISSBissued standards
+2.
+a)
+Consultation on potential
+mandatory SDR disclosure
+requirements
+Subject to 2022 consultation, potential
+mandatory SDR disclosure requirements
+Mandatory disclosure requirements
+incorporating taxonomy disclosures to be
+presented in a sustainability report referenced
+within the Annual Report. b)
+For: funds ≥ £5 billion For: funds ≥ £1 billion
+3.
+a)
+Consultation on potential
+mandatory consumerfacing and more detailed
+product-level SDR disclosure
+requirements
+Subject to consultation in 2022, potential
+mandatory consumer-facing and more
+detailed product-level SDR disclosure
+requirements
+b)
+Consultation on potential
+mandatory sustainabilityrelated labels for investment
+products
+Subject to
+consultation,
+potential mandatory
+sustainability-related
+labels for investment
+products
+4. Subject to consultation, potential requirements including on how sustainability
+matters are taken into account in investment advice.
+Chapter 2: Defining what
+counts as green
+20
+A large and growing number of financial
+products are marketed as supporting climate
+or environmental objectives. Similarly, an
+increasing number of companies are eager to
+highlight their sustainable business practices.
+However, there is not an accepted definition
+of which economic activities count as
+environmental sustainability.
+The lack of common definitions makes
+it difficult for companies and investors
+to clearly understand the environmental
+impact of their decisions and can lead to
+consumer harms like greenwashing. This risks
+limiting the flow of capital into sustainable
+investments and ultimately slowing the UK’s
+progress to tackle climate change and other
+environmental challenges.
+To address this, the government is
+implementing the UK Green Taxonomy ('the
+Taxonomy'). This will clearly set out the criteria
+which specific economic activities must meet
+to be considered environmentally sustainable
+and therefore 'Taxonomy-aligned'.
+Figure D: Growth of the sustainable finance market
+Responsible and Sustainable Assets
+Under Management in the UK
+Exclusions Sustainability Impact
+2019 2020
+ESG Integration
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+For definitions of the separate categories of ESG investing, see Glossary.
+Source: Investment Association
+21
+Aims
+Reporting against the Taxonomy will form
+part of SDR. Certain companies will be
+required to disclose which proportion of their
+activities are Taxonomy-aligned. Providers of
+investment funds and products will have to do
+the same for the assets that they invest in. The
+Taxonomy aims to:
+1. Create clarity and consistency for
+investors: Investors will be able to easily
+compare the environmental performance
+and impact of companies and investment
+funds to inform their financial decisions.
+2. Improve understanding of
+companies’ environmental impact:
+Taxonomy disclosures will facilitate
+an understanding of companies’
+contribution to environmental
+sustainability.
+3. Provide a reference point for
+companies: The Taxonomy will
+provide companies with an informative
+performance target. For example, they
+can also, on a voluntary basis, use the
+Taxonomy to develop and communicate
+their net zero transition and capital
+investment plans.
+Approach
+The structure of the Taxonomy draws on the
+EU approach which the UK helped design as
+a former Member State. The government’s
+implementation process will be guided by
+three core principles:
+1. Robust and evidence-based: The
+Taxonomy will take an objective and
+science-based approach to assessing
+sustainability. To support this, the
+government has created a Green
+Technical Advisory Group (see Box 8) to
+provide advice on implementation.
+2. Accessible: The government intends
+both for the Taxonomy to be useful
+to investors and for disclosure
+requirements not to place a
+disproportionate burden on business.
+The government will take a co-ordinated
+and consultative approach to developing
+the Taxonomy, incorporating learning
+from other taxonomies developed
+internationally.
+3. Built for the UK to support a global
+transition: The government will take
+an approach that is suitable for the
+UK market and consistent with UK
+government policy. There will also
+be a clear focus on the benefits of
+coherence and compatibility with other
+international frameworks.
+22
+How it works
+The Taxonomy has six environmental objectives:
+Figure E: First two Taxonomy environmental objectives. Criteria are subject to
+consultation in Q1 2022
+Climate
+change
+adaptation
+Transition
+to a circular
+economy
+Climate
+change
+mitigation
+Stabilisation of greenhouse gas
+emissions consistent with the Paris
+Agreement and net zero by 2050
+Reducing the risk of adverse
+impact of current or future climate
+change on an economic activity,
+people, nature, or assets
+Contribution to the good
+environmental status of bodies
+of water or marine resources
+or preventing their deterioration
+Maintaining the value of products,
+materials and resources for as long as
+possible, thereby reducing the environmental impacts of their use
+Pollution
+prevention
+and control
+Including preventing and
+reducing emissions or adverse
+impacts on health, improving
+levels of air water and soil quality
+Sustainable use and
+protection of water
+and marine resources
+Protecting, conserving, or restoring
+biodiversity or to achieving the good
+condition of ecosystems, or preventing
+their deterioration
+Protection
+and restoration
+of biodiversity
+and ecosystems
+Figure E: Taxomony set to be adopted in the future
+Figure D: Taxomony set to be adopted by Q4 2022
+Figure F: Remaining four Taxonomy environmental objectives
+Climate
+change
+adaptation
+Transition
+to a circular
+economy
+Climate
+change
+mitigation
+Stabilisation of greenhouse gas
+emissions consistent with the Paris
+Agreement and net zero by 2050
+Reducing the risk of adverse
+impact of current or future climate
+change on an economic activity,
+people, nature, or assets
+Contribution to the good
+environmental status of bodies
+of water or marine resources
+or preventing their deterioration
+Maintaining the value of products,
+materials and resources for as long as
+possible, thereby reducing the environmental impacts of their use
+Pollution
+prevention
+and control
+Including preventing and
+reducing emissions or adverse
+impacts on health, improving
+levels of air water and soil quality
+Sustainable use and
+protection of water
+and marine resources
+Protecting, conserving, or restoring
+biodiversity or to achieving the good
+condition of ecosystems, or preventing
+their deterioration
+Protection
+and restoration
+of biodiversity
+and ecosystems
+Figure E: Taxomony set to be adopted in the future
+Figure D: Taxomony set to be adopted by Q4 2022
+23
+Each of the environmental objectives will be
+underpinned by a set of detailed standards,
+known as Technical Screening Criteria
+(TSC). There will be an individual TSC for
+each economic activity included in the
+Taxonomy, which identifies how that activity
+can make a substantial contribution to the
+environmental objective.
+To be considered Taxonomy-aligned, an
+activity must meet three tests:
+1. Make a substantial contribution to
+one of six environmental objectives
+(listed above): The criteria for making a
+substantial contribution are set out in the
+TSC for the activity in question.
+2. Do no significant harm to the other
+objectives: This is also defined for
+each activity in the TSCs. This aims to
+ensure that activities which support
+one objective, such as climate change
+mitigation, do not have a significant
+adverse impact on another, such
+as biodiversity.
+3. Meet a set of minimum safeguards:
+These are minimum standards for doing
+business, constituting alignment with
+the OECD Guidelines for Multinational
+Enterprises, and the UN Guiding
+Principles on Business and Human Rights.
+24
+What
+economic
+activities
+does the
+company do?
+Generating
+energy from
+Wind Power
+Generating
+energy from
+Coal
+Manufacture
+of Cement
+Is there a
+TSC for this
+activity?
+Example
+portfolio
+of company’s 
+existing
+projects
+Wind farm Coal power
+plant
+Best-in-class
+cement plants
+Other cement
+plants
+Does the
+activity meet
+the TSC
+thresholds?
+Does the
+activity meet
+the Do No
+Significant
+Harm criteria?
+Does the
+company meet
+the minimum
+safeguards
+Revenue from
+these activities 40% 10% 20% 30%
+60% of company revenue Taxonomy-aligned
+Figure G: Taxonomy alignment of revenue for an example company
+25
+Taxonomy and transition
+Taxonomy-alignment focuses on reported
+data, rather than projections. This provides
+a clear snapshot of the areas in which a
+company is currently making a substantial
+contribution to environmental objectives. In
+the case of the climate change mitigation
+objective, that is whether or not an activity
+contributes to the reduction of greenhouse
+gas emissions, consistent with the UK's net
+zero commitment and commitments under the
+Paris Agreement.
+However, the Taxonomy also recognises
+companies which are working to
+meet environmental objectives in the
+future in two ways:
+1. Transitional activities: Due to
+technological constraints, some
+economic activities cannot currently be
+conducted in a way which is aligned
+with net zero-ambitions. For a number
+of these activities, the TSCs will set the
+threshold for Taxonomy alignment at the
+best-in-sector emissions level (subject to
+not locking in carbon-intensive activities).
+The manufacture of cement is one
+example of this.
+2. Investment: Companies will report the
+proportion of their capital expenditure
+which is Taxonomy-aligned. This will
+enable companies to demonstrate their
+investment in producing green activities
+in the future.
+The Taxonomy will also include Enabling
+Activities. This recognises activities which
+currently support the transition by enabling
+substantial contributions to environmental
+objectives in other sectors, but which are not
+yet sustainable themselves. This will include,
+for example, the manufacture of components
+for wind turbines.
+Disclosure against the Taxonomy is not
+a replacement for robust science-based
+targets. The UK has set out standards for
+UK Climate Transition Benchmarks, which
+support investors in reducing the emissions
+they fund over time.5 In future, providers of
+financial products may choose to supplement
+Taxonomy disclosures with Portfolio Alignment
+Tools to estimate funds’ emissions trajectories.
+Using the information
+Under SDR (see Chapter 1), certain companies
+will be required to disclose the percentage
+of their capital expenditure, operational
+expenditure and turnover that relates to
+Taxonomy-aligned activities. These corporate
+disclosures will provide investors and
+consumers with an indicator of a company’s
+current environmental performance, as well as
+its investment in sustainable activities.
+Informed by reliable data from corporate
+disclosures, providers of investment products
+will then disclose the extent to which those
+products are Taxonomy-aligned, based on
+their constituent assets.6 This will enable
+investors to identify the investment products
+which are making a substantial contribution to
+environmental objectives.
+26
+5 https://www.gov.uk/eu-withdrawal-act-2018-statutory-instruments/markets-in-financial-instruments-benchmarks-and-financial-promotionsamendment-eu-exit-regulations-2021 A UK Climate Transition Benchmark incorporates specific objectives related to emission reductions and
+the transition to a low-carbon economy (based on the scientific evidence of the Intergovernmental Panel on Climate Change). It does so through
+the selection and weighting of underlying constituent assets. At least a 30% reduction in carbon versus the investable universe is required,
+followed by a 7% year-on-year “decarbonisation trajectory” in order to qualify for the benchmark, which works as a sustainability label.
+6 Companies that do not fall under the scope of SDR mandatory reporting requirements, but which do conduct activities included in the
+taxonomy may voluntarily report their alignment.
+Box 8: Green Technical Advisory
+Group (GTAG)
+In June 2021, the government launched
+the Green Technical Advisory Group
+(GTAG) to provide independent advice
+on market, regulatory and scientific
+considerations around developing and
+implementing the Taxonomy. Chaired by
+the Green Finance Institute, the GTAG first
+met in June and has since established
+a workplan and structure in line with its
+Terms of Reference (see annex B). The
+Terms of Reference and Membership
+List are available on the government
+website, and more information is
+available on the Green Finance Institute’s
+Taxonomy webpage.7,8
+The development and
+implementation process
+The UK will implement TSCs for each of the
+Taxonomy’s objectives, ensuring that these
+are evidence-based, accessible and built for
+the UK market. This means that:
+ The government will ensure that TSC
+development is clearly signposted to
+business. Companies will have adequate
+notice before becoming subject to
+disclosure requirements.
+ TSCs will be subject to public
+consultation to ensure that they
+take a rigorous approach that works
+for the UK market.
+ TSCs will be made through statutory
+instruments.9 This ensures Parliamentary
+scrutiny and should further reassure
+stakeholders that the TSCs will not be
+amended without due notice.
+ The government will use regulatory
+guidance and develop presentational
+tools to increase ease of application.
+This will be complemented by ongoing
+policy work, including on adaptation.
+ Disclosure requirements for corporates
+will come into force prior to those
+for investment products, enabling
+the former to feed into the latter.
+This is in line with the sequenced
+approach of SDR.
+ The government plans to focus on
+delivering the Taxonomy and ensuring
+that it has been road-tested by the
+market before considering any changes
+or an extension to its scope. This
+includes identifying activities which
+cause significant harm, or adding further
+transitional activities.
+Taken together, the above will ensure that the
+Taxonomy is implemented and built to deliver
+for the needs of UK business and investors
+and is robust enough to support the UK’s netzero commitment.
+Climate change mitigation and
+climate change adaptation
+TSCs for the climate change mitigation, and
+climate change adaptation objectives will
+be based on those of the EU Taxonomy,
+which the UK supported the development of
+whilst still a Member State. The Government
+is currently reviewing these and expects to
+consult on UK draft TSCs in the first quarter
+of 2022, ahead of legislating by the end of
+2022. These TSCs will focus on economic
+activities which can make the most significant
+contributions to tackling climate change.
+27
+7 https://www.gov.uk/government/publications/independent-expert-group-appointed-to-advise-government-on-standards-for-greeninvestment
+8 https://www.greenfinanceinstitute.co.uk/uk-taxonomy/
+9 UK Statutory Instruments, 2020 No. 1385, PART 6, Regulation 78 https://www.legislation.gov.uk/uksi/2020/1385/regulation/78/made
+Box 9: Approach to energy sector – the Energy Working Group
+Reliable and affordable power and heat are an essential foundation of a modern economy
+and crucial to the potential future electrification of a range of sectors such as transport and
+industry as the UK transitions to net zero. It is therefore vital that the UK Green Taxonomy
+assist investors in identifying energy-related activities that will support the net-zero transition.
+When developing the Taxonomy’s energy criteria, the government’s approach will be
+science-based, accessible and aligned with its net-zero policy.
+The government has established an Energy Working Group (EWG), chaired by the Chief
+Scientific Advisor to BEIS, to advise on the development of TSCs in the energy sector.
+Members are independent of the government, with membership drawn from academia and
+expert organisations. The EWG will advise on key energy system issues such as hydrogen,
+carbon capture, utilisation and storage, and nuclear energy.
+The government has asked the EWG to prioritise considering nuclear power’s role in the
+UK Taxonomy. Nuclear power – as a low-carbon technology – represents a crucial element
+of the government’s plans to reach net zero. It has a clear basis for making a ‘substantial
+contribution’ to the Taxonomy’s objective of climate change mitigation. The EWG is
+therefore considering evidence to support its inclusion in the Taxonomy, including the
+requirement to ensure that its activities meet the wider eligibility criteria to ‘do no significant
+harm’ to the other Taxonomy objectives. The EWG’s advice will inform the government’s
+decisions regarding nuclear and the Taxonomy, and support TSC development ahead of a
+public consultation.
+Development of Further Technical
+Screening Criteria
+The government intends for the Taxonomy
+to be a tool for the long term. To limit the
+need for revision, the Taxonomy will focus on
+the outcomes of economic activities, rather
+than technologies used. The government
+will review the Taxonomy Regulation’s
+effectiveness every three years. This review
+will also consider whether enabling or
+transitional activities remain in line with the
+relevant Taxonomy objectives.
+Over time, the government may update
+the TSCs or expand them to new sectors,
+following the same process of consultation
+and legislation. The government expects
+to consult on the expansion of the climate
+TSCs and standards for the remaining
+four environmental objectives during the
+first quarter of 2023 in advance of laying
+legislation before Parliament.
+28
+Chapter 3: Being a responsible
+steward of capital
+29
+Stewardship is the responsible allocation, management and oversight
+“
+of capital to create long-term value for clients and beneficiaries leading to
+sustainable benefits for the economy, the environment and society.
+Financial Reporting Council (FRC) ‘The UK Stewardship Code 2020
+”
+What is investor stewardship and
+why is it important?
+By effectively engaging in stewardship
+activities, investors can improve investment
+returns by encouraging and supporting
+behaviours and practices that ensure longterm value for clients and savers.10 Effective
+stewardship by both asset owners and
+asset managers is crucial to the successful
+management of risks, opportunities
+and impacts presented by climate and
+environmental change. Stewardship can be a
+powerful vehicle to hold companies to account
+for the feasibility and credibility of their
+net-zero commitments, and their transition
+strategies to align their business models with
+a net-zero economy. Investors also decide
+how capital is allocated, for example to
+companies and technologies that contribute to
+these ambitions.
+The UK’s pensions and investment sectors –
+namely asset owners, asset managers, and
+the service providers that support them –
+have an important role to play in responsibly
+allocating capital and making use of their
+ownership rights and influence over investee
+companies, whilst fulfilling their fiduciary
+responsibilities. The government expects the
+pensions and investment sectors to use the
+information generated by SDR to deliver on
+their responsibilities as stewards of capital
+across all asset classes and markets. For
+example, engaging with investee companies
+in high-carbon sectors, and working with them
+to successfully transition to net zero, will help
+protect investments against the systemic risks
+of climate change.
+In practice, this means that – as the owners
+and primary allocators of capital – the
+pensions and investment sectors should seek
+to integrate ESG considerations into:
+ Investment decision-making: When
+deciding where to allocate capital and
+which companies to invest in.
+ Monitoring and engagement strategies:
+When challenging investee companies’
+boards and management on their
+strategies to generate long-term
+sustainable value; and when setting
+clear expectations and monitoring the
+investment managers, intermediaries
+and those that support stewardship and
+operate on their behalf.
+ Escalation and collaboration: By
+collaborating with other investors, firms
+can amplify their stewardship, especially
+for smaller investors and pension funds.
+ Voting practices: When exercising
+their shareholder rights; this includes
+being ready to vote against directors,
+corporate actions, or other resolutions.
+30
+10 Asset Management Taskforce, “Investing with Purpose: placing stewardship at the heart of sustainable growth” (November 2020), page 17
+Government and regulator action
+to support investment stewardship
+to date
+As well as being a centre of financial services
+excellence, the UK is also a world-leader
+in stewardship standards. The government
+strongly supports this agenda and is
+working hard to further improve and embed
+stewardship standards.
+The UK Stewardship Code 2020
+The UK Stewardship Code 202011 sets
+stewardship and reporting standards for asset
+owners, asset managers and the service
+providers that support them. The FRC is the
+first regulator to require investors to evidence
+their commitment to effective stewardship
+by reporting on an annual basis. The FRC
+published the first list of successful signatories
+to the new Code in September 2021, covering
+£20 trillion assets under management.
+The FRC will continue to encourage the
+development of a market for effective
+stewardship and high-quality disclosure.
+In November 2021, the FRC will publish a
+review of reporting to highlight effective
+examples and communicate its expectations
+for 2022. By the end of 2022 the FRC will
+communicate an approach to differentiating
+or tiering signatories based on the quality of
+their reporting.
+The Asset Management Taskforce’s
+Stewardship Report
+In November 2020, the Economic Secretary to
+the Treasury’s Asset Management Taskforce
+published Investing With Purpose12. This report
+was produced by a wide range of industry,
+regulator, and government representatives. It
+rigorously analyses the tools available to help
+asset managers act on behalf of savers and
+hold investee companies to account.
+The report also makes clear recommendations
+to government, regulators, and industry, which
+apply across the investment chain. These
+will further enhance the UK’s stewardship
+framework and practice. The government
+has already taken forward several of these
+recommendations, in particular by launching
+the Occupational Pension Stewardship
+Council13 in July 2021. The Council represents
+over £570 billion of assets, and provides a
+forum for schemes to collaborate, develop a
+stronger voice for trustees and drive higher
+standards of stewardship.
+Industry is progressing several other
+recommendations from Investing
+With Purpose, notably guidance
+on improving stewardship in fixed
+income and on overcoming barriers to
+requisitioning resolutions.
+The Taskforce on Pension Scheme Voting
+and Implementation’s report (TPSVI)
+Launched in December 2020, the TPSVI
+issued its independent report in September
+2021. This aims to strengthen the use of
+voting throughout the investment chain. It
+suggested measures to improve pension
+scheme trustees’ focus on stewardship and
+enhance asset manager reporting standards
+and accommodation of trustees’ voting
+preferences. DWP has welcomed the report
+and will respond soon.
+FCA priorities on investor stewardship
+The FCA considers stewardship to be
+integral to asset managers delivering good
+outcomes for clients and consumers. The
+FCA Handbook requires firms to disclose
+their commitment to the FRC’s Stewardship
+Code, or alternative strategy. The FCA also
+introduced rules in 2019 implementing the
+Shareholder Rights Directive II, requiring asset
+managers and life insurers to disclose their
+engagement policies. The FCA is scoping
+work to realise the regulatory outcomes
+prioritised in its Business Plan 2021/22. This
+includes active investor stewardship that
+positively influences companies’ sustainability
+strategies, supporting a market-led transition
+to a more sustainable future.
+31
+11 https://www.frc.org.uk/getattachment/5aae591d-d9d3-4cf4-814a-d14e156a1d87/Stewardship-Code_Dec-19-Final-Corrected.pdf
+12 Established in October 2017 and chaired by the Economic Secretary, the Asset Management Taskforce regularly convenes senior leaders
+in the asset management sector, stakeholder organisations and the Financial Conduct Authority to discuss the opportunities and challenges
+facing the sector.
+13 https://www.gov.uk/government/groups/occupational-pensions-stewardship-council
+Government expectations
+The UK’s pensions and investment sectors
+have made clear that, in order to effectively
+target and engage with firms on climate
+change and act as responsible stewards,
+investee companies must disclose decisionrelevant information. SDR will ensure that
+investee companies disclose that information,
+and government and industry’s stewardship
+initiatives will lower the barriers to investors
+acting as effective stewards.
+Therefore, it is the government’s expectation
+that, as this information becomes available
+and develops over time, the UK’s pensions
+and investment sectors – asset managers,
+asset owners and the service providers that
+support them – will have the data to act as
+effective and responsible stewards of capital.
+In particular, the government expects the UK’s
+pensions and investment sectors to:
+1. Progress work on stewardship within
+their organisation; apply to become a
+signatory of the UK Stewardship Code
+2020; and encourage or require their
+service providers to sign up to the Code.
+2. Take into account the information
+generated by SDR when
+allocating capital.
+3. Actively monitor, encourage, and
+challenge companies by using their
+rights and direct/indirect influence
+to promote long-term, sustainable
+value generation.
+In some cases, the exercise of
+stewardship discipline may eventually
+escalate to withholding capital or
+divestment. For example, where a
+company is not taking appropriate action
+to transition to net zero.
+4. Be transparent about their own and their
+service providers’ engagement and
+voting, including by publishing easily
+accessible, high-quality quantitative and
+narrative reporting.
+5. Provide leadership, for example by
+joining a Race to Zero-accredited net
+zero initiative for the financial sector,
+and thereby joining GFANZ. They should
+back up this commitment by publishing
+by the end of 2022 a high-quality
+transition plan. This should include nearterm science-based targets and set out
+their organisation’s pathway to net zero
+financed emissions.
+The government will assess progress in
+these sectors on the above five points at
+the end of 2023.
+32
+Chapter 4: Leading
+international efforts to
+green finance
+33
+Tackling climate change and other
+environmental challenges needs more
+than just domestic action. That is why the
+government has made green finance an
+international priority, using our influential
+position to drive progress in both bilateral
+and multilateral fora. This year is a particularly
+important one in the international calendar,
+with the UK holding both the G7 presidency
+and hosting COP26.
+As part of the G7, the government brought
+climate and environmental issues to the
+forefront of policy discussions between
+finance ministries. This was the first time
+these challenges featured prominently in
+the Finance Track. The government worked
+closely with the Bank of England to secure
+ambitious commitments from G7 members
+on sustainability reporting. This included
+agreement to move towards mandatory
+climate disclosures, to support the IFRS
+Foundation’s programme of work to develop a
+baseline global corporate reporting standard
+for sustainability, and to promote consistency
+in impact reporting standards.
+Many of these issues were subsequently taken
+up in the G20, particularly by the Sustainable
+Finance Working Group (SFWG), of which
+the UK is an active member. The SFWG
+has driven progress against sustainability
+reporting and discussed approaches to align
+investments with sustainability goals. The
+UK is also a member of the International
+Platform on Sustainable Finance (IPSF), which
+aims to foster consistency in environmental
+impact reporting.
+During the UK G7 presidency, the government
+also announced an Impact Investment
+Taskforce, to bring together the impact
+investing industry. The taskforce will
+make recommendations on harmonising
+and streamlining measurements of social
+or environmental impacts of financial
+investments simply, transparently and in a
+globally consistent way. This will make it
+easier for all investors to invest based on
+impact as well as financial return.
+The government is also working to support
+Emerging Market and Developing Economies
+(EMDEs) to benefit from the global green
+transition. There are huge economic
+development, adaptation and resilience
+opportunities, but if not well managed, it
+could have negative consequences such
+as divestment or capital flight. The UK will
+continue to support the EDMEs through
+technical assistance and targeted investments
+to mobilise greater flows of green capital. The
+government will also press for developing
+countries to be represented in international
+decision-making, including the shaping
+of international disclosures standards on
+sustainability.
+The Bank of England and the FCA are active
+in multilateral fora, such as the Network for
+Greening the Financial System (NGFS) – a
+group of Central Banks and Supervisors,
+of which the Bank is a founding member –
+and the Financial Stability Board (FSB). The
+FCA has also engaged closely with the IFRS
+Foundation in its work to establish the ISSB.
+COP26 is the next international milestone
+in sustainable finance. Under the Paris
+Agreement, Parties committed to making
+finance flows consistent with a pathway
+towards low greenhouse gas emissions and
+climate-resilient development. To do so, the
+entire financial system needs to transform, to
+lock financial flows irreversibly into a pathway
+to net zero.14 Ahead of COP, the UK is working
+closely with international partners to galvanise
+global action:
+ Ensuring that market participants have
+the information they need to factor
+climate-change into every investment
+decision – via disclosure of climate
+impact, risks and opportunities.
+ Ensuring that the financial system can
+measure and manage climate-related
+risks, including through climate scenario
+analysis and improved climate capture in
+surveillance work.
+34
+14 In 2020, the UK published our COP26 goals on Finance: Building a Private Finance System For Net Zero which set out our private finance
+priorities for COP26 and Priorities for Public Climate Finance in the Year Ahead which set out our public finance priorities for COP26
+ Measuring how investment is aligned to
+the transition to net-zero, by developing
+more sophisticated, transparent, and
+consumer-friendly metrics.
+ Driving firms’ longer-term net-zero
+commitments by setting out credible
+transition plans (which include nearterm decarbonisation targets), requiring
+regular progress reporting, and providing
+supervisory oversight and accountability.
+The government, financial regulators, and
+the UK financial sector are working in close
+partnership to make this ambition a reality. For
+example in April 2021 GFANZ launched as a
+global alliance that brings together existing
+and new net zero finance initiatives into one
+sector-wide strategic forum.
+The UK wants to ensure that its domestic
+regulation represents international best
+practice. This strong domestic action,
+coupled with international influencing, will
+ensure that the UK remains a global leader
+in green finance after COP26 and help to
+move the world towards delivering the global
+commitments in the Paris Agreement.
+35
+Chapter 5:
+Next steps
+This Roadmap outlines the actions the UK
+government and regulators are taking -
+working in partnership with the private sector
+- to close the information gap for market
+participants on sustainability by:
+ Implementing Sustainability Disclosure
+Requirements (SDR) across the
+economy – introducing disclosures
+incrementally as new regulatory or
+legislative measures come into force
+ Delivering a UK Green Taxonomy and
+ensuring it has been road-tested in the
+market as a useful investment tool.
+ Lowering the barriers to investors
+acting as effective and responsible
+stewards of capital
+ Leading international efforts to bring
+about global and systemic change in
+the financial system
+With clarity on the indicative path towards
+economy-wide disclosures, businesses and
+financial firms must now consider the steps
+they need to take to build their capabilities
+to produce disclosures, and to act on the
+information they provide. Working together,
+the government and industry can make the
+UK the best place in the world for green and
+sustainable investment.
+36
+istockphoto-491317220-1024x1024
+37
+Annex A: Sectoral
+implementation
+The sectoral pathways in this annex summarise the regulatory approach to each type of
+entity and product.
+1. CORPORATE DISCLOSURE
+Certain UK-registered companies and listed issuers, including financial services firms, will
+disclose information about how they identify, assess, and manage sustainability factors arising
+from their global operations in their Annual Reports.
+a. UK-registered companies 
+Certain companies – including relevant financial services firms – will disclose information using
+the proposed ISSB-issued standards and appropriate metrics to explain the level of alignment
+of their activities with the UK Green Taxonomy, including minimum safeguards, in their Annual
+Report. The scope and timing of requirements for companies, and the reporting detail, will be
+determined following consultation.
+b. UK-listed companies
+Certain UK-listed companies will disclose information using the proposed ISSB-issued standards,
+and appropriate metrics to explain the level of alignment of their activities with the UK Green
+Taxonomy, including minimum safeguards, in their Annual Report. The scope and timing of
+requirements for issuers, and the reporting detail, will be determined following consultation.
+Interim measures may be considered – e.g. referencing relevant voluntary frameworks – to
+ensure appropriate coverage of sustainability topics pending the introduction of relevant
+international standards.
+2. ASSET MANAGER AND ASSET OWNER DISCLOSURE
+Financial services firms that manage or administer money for investors will disclose the
+sustainability-related information that clients (e.g. pension scheme trustees, employers, corporate
+investors) and end-consumers (e.g. pension scheme members, retail investors) need to make
+informed decisions about their investments. This information will relate to how firms manage and
+administer money.
+a. Asset managers and asset owners (asset managers, life insurers providing investment
+products and FCA-regulated pension schemes)
+Asset managers and asset owners will disclose, at entity level, how they are managing their
+sustainability risks, opportunities and impacts and how they take sustainability into account in
+managing or administering investments on behalf of clients and consumers. This information will
+be directed towards their clients and consumers. The disclosure requirements will build on TCFD
+requirements and support disclosures against the UK Green Taxonomy. The exact location, scope
+and timing, and the detail of disclosure requirements, will be determined following consultation.
+38
+b. Occupational pension schemes
+Certain UK pension schemes will disclose their sustainability-related risks, opportunities
+and impacts in a way that enables clear communication with savers. Subject to consultation,
+information will be combined with TCFD reporting on climate-related risks and opportunities,
+and will stand separate from, but linked to, the annual report and accounts. The scope and
+timing of requirements for pension schemes, and the reporting detail, will be determined
+following consultation.
+3. INVESTMENT PRODUCT DISCLOSURE
+Firms will disclose, at product level, the sustainability-related information that consumers need
+to make informed decisions about their investments. Disclosures will be consumer-friendly, with
+more detailed disclosures required for sophisticated investors.
+a. Investment products
+Firms will disclose the sustainability attributes of the investment products and portfolios they
+offer. This will include their sustainability risks, opportunities and impacts, a core set of productlevel climate-related metrics, and their Taxonomy alignment, including minimum safeguards. Both
+products marketed as sustainable and those not making sustainability claims will be required to
+disclose information about their sustainability performance. Investment products that make claims
+about the sustainability of their product will be required to substantiate those claims, for example
+with information about their sustainable investment strategy and performance against their
+sustainability targets. The FCA intends to consult on the detail of the disclosure requirements,
+including content, scope, format, and location.
+Sustainable investment labelling regime
+The FCA is working with the government to develop and implement a sustainable investment
+labelling system for investment products. The labels will provide a classification system for
+investment products supported by the information provided in their sustainability disclosures.
+These labels will help consumers intuitively navigate the sustainability characteristics of
+different products, both those that are marketed as sustainable, and those that are not. The
+key design elements of the labels and classification will be determined following a discussion
+paper and subsequent consultation, as well as input from an advisory group that will be
+established in due course.
+4. FINANCIAL ADVISORS
+HM Treasury and the FCA are exploring how best to introduce sustainability-related requirements
+for financial advisors. A key aim will be to ensure that they take sustainability matters into
+account in their investment advice and understand investors’ sustainability preferences to ensure
+suitability of advice. Details of the proposals are subject to further consideration and will be set
+out on a different timescale to proposals for financial market participants. The proposals will be
+subject to consultation and cost benefit analysis.
+39
+Annex B: Green Technical
+Advisory Group work plan
+Chaired by the Green Finance Institute, the Green Technical Advisory Group (GTAG) has
+established a workplan and structure in line with its Terms of Reference
+Chair: Ingrid Holmes (GFI)
+18 Members plus HMG, FCA, PRA observers
+Appointed members from a range of sectors, including finance, business, academia and NGOs
+Workstream 1
+Addressing UK-specific needs
+To provide stragtegic advice to
+government on next steps with
+UK taxonomy development,
+including advice on approaching
+overlaying UK-specific transition
+and adaptation pathways when
+assessing EU TSCs and ensuring
+coverage is UK-appropriate
+Exploring how the taxonomy can
+be best used to support the UK’s
+transition to net zero as well as
+exploring how the taxonomy can
+be used to support the delivery
+of wider HMG policy.
+Workstream 3
+Policy links
+Workstream 2
+Usability and data
+To provide advice to HMG on
+how to optimise the usability of
+the taxonomy through design
+and application of related
+disclosures regimes; considering
+interpoperability with other
+international regimes – including
+methodological equivalence; and
+reviewing approaches to DNSH.
+Assessing the risk of data gaps
+and need to develop mitigants
+will have primacy.
+Workstream 4
+Fully realised taxonomy
+To set out how best
+to provide market certainty now
+and in the future. To determine
+the value case for, and potential
+scope and uses for, a fully
+realised taxonomy.
+Workstream 5
+International Interoperability
+To assess the conditions
+necessary for interoperability and
+explore avenues for influencing
+international taxonomy
+development in a
+ “race to the top”. To analyse
+implications of and remedies
+for risks of international
+fragmentation.
+Future
+Workstreams
+40
+Further workstreams will be
+developed as the GTAG evolves
+and via the monitoring of EU
+taxonomy updates.
+Glossary
+CFA Institute – a global, not-for-profit
+organization that provides investment
+professionals with finance education. 
+Climate change – The change of climate
+which is attributed directly or indirectly to
+human activity that alters the composition
+of the global atmosphere and which is in
+addition to natural climate variability observed
+over comparable time periods.
+Climate-related risks – divided into two major
+categories: (1) financial risks related to the
+transition to a lower-carbon economy and (2)
+financial risks related to the physical impacts
+of climate change.
+Financial Reporting Council – an
+independent regulator in the UK, responsible
+for regulating auditors, accountants, and
+actuaries, and setting the UK’s Corporate
+Governance and Stewardship Codes.
+Glasgow Financial Alliance for Net Zero –
+chaired by Mark Carney, UN Special Envoy
+on Climate Action and Finance, the Alliance
+brings together over 160 firms (together
+responsible for assets in excess of $70 trillion)
+from the leading net zero initiatives across the
+financial system to accelerate the transition to
+net zero emissions by 2050.
+Greenwashing – misleading or exaggerated
+sustainability claims made by firms.
+International Financial Reporting Standards
+(IFRS) Foundation – a not-for-profit, public
+interest organisation established to develop
+a single set of high-quality, understandable,
+enforceable, and globally accepted accounting
+standards—IFRS Standards—and to promote
+and facilitate adoption of the standards.
+International Organization of Securities
+Commissions (IOSCO) – the international
+body that brings together the world’s
+securities regulators and recognized as the
+global standard setter for the securities sector.
+IOSCO develops, implements, and promotes
+adherence to internationally recognized
+standards for securities regulation. It works
+with the G20 and the Financial Stability Board
+(FSB) on the global regulatory reform agenda.
+Intergovernmental Panel on Climate
+Change (IPCC) – the United Nations
+body for assessing the science related to
+climate change. The IPCC provides regular
+assessments of the scientific basis of climate
+change, its impacts and future risks, and
+options for adaptation and mitigation.
+41
+International Sustainability Standards Board
+(ISSB) – proposed body being established
+by the IFRS Foundation to develop global
+sustainability reporting standards.
+Nature positive – enhancing the resilience
+of our planet and societies to halt and
+reverse nature loss.
+Net Zero emissions – Sometimes known
+as Net Zero Carbon or just Net Zero, this
+describes a state where any CO2 and
+Greenhouse Gas (GHG) emissions left
+over after decarbonisation are offset by
+negative emissions of an equivalent amount
+of CO2 from the atmosphere, resulting in
+no net GHG impact. The offsets need to
+actively remove carbon dioxide from the
+atmosphere, as opposed to only avoiding
+emissions elsewhere which is allowed in the
+specification for carbon neutral. There is not
+yet an agreed standard on what constitutes
+Net Zero Carbon for an organisation, product,
+or country, although there are multiple
+organisations with working definitions, for
+example, the Science Based Targets Initiative.
+Task Force for Climate-Related Financial
+Disclosures (TCFD) – a private sector led
+group convened by the Financial Stability
+Board in 2015 to “develop voluntary,
+consistent climate-related financial disclosures
+that would be useful to investors, lenders
+and insurance underwriters in understanding
+material risks”.
+Categories of ESG Investing (as referenced in Figure D):
+Impact Investing – Investments made with
+the intention to generate positive, measurable
+social and environmental impact alongside a
+financial return. There are four key elements: 1.
+Intentionality: Impact investments intentionally
+contribute to social and environmental
+solutions. This differentiates them from other
+strategies such as ESG investing, Responsible
+Investing, and screening strategies. 2.
+Financial Returns: Impact investments seek a
+financial return on capital that can range from
+below market rate to risk-adjusted market rate.
+This distinguishes them from philanthropy. 3.
+Range of Asset Classes: Impact investments
+can be made across asset classes. 4. Impact
+Measurement: A hallmark of impact investing
+is the commitment of the investor to measure
+and report the social and environmental
+performance of underlying investments.
+Sustainability Focused – Investment
+approaches that select and include
+investments on the basis of their fulfilling
+certain sustainability criteria and/or delivering
+on specific and measurable sustainability
+outcome(s). Investments are chosen on the
+basis of their economic activities (what they
+produce/what services they deliver) and on
+their business conduct (how they deliver their
+products and services).
+Exclusions – Exclusions prohibit certain
+investments from a firm, fund or portfolio.
+Exclusions may be applied on a variety
+of issues, including to align with client
+expectations. They may be applied at the
+level of Sector, Business activity, products or
+revenue stream, A company or Jurisdictions/
+countries. Exclusions determine that a fund
+or mandate does NOT invest in certain
+things. It does not constitute an approach
+that is characterised by proactively allocating
+capital to specific assets. It may involve
+excluding investments from a certain
+sector or investments that derive a portion
+of their income from the sale of certain
+specified products.
+ESG Integration – The systematic and
+explicit inclusion of material ESG factors into
+investment analysis and investment decisions.
+ESG Integration alone does not prohibit any
+investments. Such strategies could invest in
+any business, sector or geography as long
+as the ESG risks of such investments are
+identified and taken into account.
+

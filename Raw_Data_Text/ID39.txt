@@ -1,0 +1,655 @@
+Environmental, Social and
+Governance
+NZX Guidance Note
+11 December 2017
+ENVIRONMENTAL, SOCIAL AND GOVERNANCE – DECEMBER 2017 2 of 19
+ENVIRONMENTAL, SOCIAL AND GOVERNANCE – DECEMBER 2017 3 of 19
+1. Introduction
+In 2017, NZX released the NZX Corporate Governance Code (the Code)1
+for issuers to report
+against under the NZX Main Board Rules. The overarching purpose of Code is to promote good
+corporate governance, recognising that boards are in place to protect the interests of
+shareholders and to provide long-term value. It operates on a ‘comply or explain’ basis. The
+Code is structured around 8 principles that cover a code of ethics, board composition and
+performance, board committees, reporting and disclosure, remuneration, risk management,
+auditors and shareholders rights and relations.
+One of the key aims of the Code is to promote issuer disclosure of environmental, social and
+governance factors (ESG). In particular, recommendation 4.3 states:
+“Financial reporting should be balanced, clear and objective. An issuer should provide
+non-financial disclosure at least annually, including considering material exposure to
+environmental, economic and social sustainability risks and other key risks. It should
+explain how it plans to manage those risks and how operational or non-financial targets
+are measured.”
+Issuers may include other non-financial information, such as a description of the performance of
+an issuer’s business against strategic goals. Non-financial reporting is new under the NZX
+Corporate Governance Code. An explanation of the “comply or explain” nature of the NZX Code
+is included on page 5 of the NZX Code.
+Aims of this Guidance Note
+This guidance note is for NZX listed issuers that are considering the disclosure of ESG factors
+under the NZX Code. It is built on the understanding that most businesses will have some sort
+of interaction with one or more of the branches of ESG. While not exhaustive, this guidance
+note aims to help issuers better understand the benefits of ESG reporting and the global
+reporting regimes available.
+The NZX ESG Guidance Note aims to:
+• explain what ESG is;
+• provide issuers context on why it is important (i.e. its relevance under the NZX Code and
+investor demand);
+• provide issuers with resources for accessing more information about how to report on
+ESG factors, including which global frameworks are available to them; and
+• help issuers communicate their strategies for identifying and managing their materially
+significant ESG opportunities and risks to stakeholders and investors.
+1 https://www.nzx.com/regulation/nzx-rules-guidance/corporate-governance-code
+ENVIRONMENTAL, SOCIAL AND GOVERNANCE – DECEMBER 2017 4 of 19
+This guidance should help issuers identify the most appropriate global framework against which
+to report of the most widely recognised and used in New Zealand. The global frameworks
+identified are not exhaustive and NZX recognizes that other frameworks not discussed here
+may also exist, or be developed or evolve over time.
+2. Background – What is ESG?
+The use of ESG disclosure is becoming more important in relation to investment decisions
+alongside other financial and strategic information. Issuers can show investors that they are
+equipped for the long term, and are ready to respond to risks and take advantages of
+opportunities.
+There are three elements that help socially conscious businesses measure their sustainability
+and the ethical impact of an investment in their company or business. These are:
+• Environmental criteria (looks at how a company performs as a steward of the natural
+environment);
+• Social criteria (considers how a company manages its relationships with stakeholders
+(i.e. employees, impact on the broader community and/or suppliers));
+• Governance (includes a company’s leadership, executive pay and shareholder rights
+amongst other matters).
+FTSE Russell has drawn from global standards and frameworks in the development of its ESG
+model. The model involves producing an overall ESG Rating based on the three pillars of
+Environment, Social and Governance and on 14 Themes adapted to reflect their materiality to
+businesses. The table below provides examples of ESG issues for guidance purposes.
+A definitive list of ESG issues does not exist. It would not be possible or desirable to produce a
+list or set of definitions that claim to be definitive because it would soon go out of date. Some
+branches of ESG are sector specific and a listed issuer should take a holistic view of how their
+business fits, noting there are two parts to the equation – the impact a business has on the
+environment and the impact the environment has on a business. ESG reporting requires a
+business to consider both.
+ESG Reporting Factors
+1.Environmental 2.Social 3.Governance
+ Biodiversity
+ Climate change
+ Pollution and
+resources
+ Water use
+  Labour Standards
+ Human rights and
+community
+ Health & Safety
+ Customer Responsibility
+ Anti-corruption
+ Corporate Governance
+ Risk Management
+ Tax Transparency
+ENVIRONMENTAL, SOCIAL AND GOVERNANCE – DECEMBER 2017 5 of 19
+The UN PRI cites a more comprehensive list:
+1. Specific Environmental
+Issues
+2. Specific Social Issues 3. Governance
+ Environmental protection
+ Air and water pollution
+ Waste management
+ Land degradation
+ Resource depletion
+ Sustainable procurement
+ Deforestation
+ Biodiversity
+ Ecosystem services
+  Human rights
+ Supply chain management
+ Conflict regions
+ Labour standards
+ Human capital management
+ Talent attraction and
+retention
+ Access to medicines
+ Safe development of
+medicines
+ Government and community
+relations
+ Product safety and liability
+ Product mis-selling
+ Executive
+remuneration
+ Bribery and corruption
+ Shareholder rights
+ Proxy voting
+ Business ethics
+ Board composition
+ Independent directors
+ Risk management
+ Whistle-blower
+schemes
+ Stakeholder dialogue
+ Lobbying
+ Government relations
+ Disclosure
+ Capital reorganizations
+ Accounting treatment
+ Succession planning
+ Audit committee
+structure
+Interchanging terminology (ESG, sustainability, integrated-reporting, non-financial Reporting or
+Corporate Social Responsibility?)
+Often, the terms ESG, non-financial reporting and corporate social responsibility are used
+interchangeably. For the purposes of this note, we have elected to use the term ESG because it
+is a commonly used term.
+3. How is ESG relevant to my company?
+There are many reasons why ESG is relevant to corporate governance. Three of these are
+identified briefly below:
+1. A changing global environment
+All over the world, companies and entities are coming to report on ESG and responsible
+investment. These trends reflect the need to shift to a low carbon economy, increasing business
+vulnerability to the effects of climate change and other environmental and social factors, a
+generational changeover and institutional forces. The major move towards investment in these
+areas worldwide includes:
+• signatories to the UN Principles of Responsible Investment (UN PRI) now represent $60tn
+in assets under management – up from $22tn in 2010.
+ENVIRONMENTAL, SOCIAL AND GOVERNANCE – DECEMBER 2017 6 of 19
+• recent research from Global Sustainable Investment Alliance suggesting that sustainable
+investing strategies now represent more than 60% of professionally managed assets for EU
+investors.
+• a recent Barclays study also found that investment-grade bonds with higher ESG scores
+outperformed those with lower ESG scores between 2007 and 2015.
+2
+• responsible investments have more than quadrupled over the past 3 years in Australia to
+$622 billion in assets under management in 2016 with nearly half (44%) of Australia’s
+assets under management now being invested through some form of responsible
+investment strategy.3
+• responsible investment funds are largely outperforming their average mainstream
+counterparts year on year as the market for responsible investment grows in Australia.4
+The global context of this movement is discussed more in para 4 ‘Our Global Commitments’.
+2. Increasing investor interest
+Investor decision making is key to ESG reporting. Climate change and depletion of resources
+mean investors, particularly younger ones, may consider sustainability as an important factor
+when making investment choices. Evidence based disclosure can help investors make
+conscious investment choices. Commentary indicates that more investors are asking questions
+about corporate responsibility and looking for evidence based answers when choosing where to
+invest.
+When communicating to investors and stakeholders about long-term issues associated with
+ESG, particularly environmental issues, issuers should be able to express where their
+organization sits on the spectrum of companies with an ESG footprint and what, if anything, is
+being done to mitigate their impact. The purpose of this is to provide investors with a clearer
+picture of the issuer and its business.
+3. Informs the over-arching long-term strategic view of business
+ESG reporting aids already existing disclosures by issuers so that investors have a richer view
+into the long-term strategy of the issuer. Issuers should think about the current and future
+strategy for their company, and how ESG fits into this. There is no one-size-fits-all approach for
+ESG reporting and depending on the nature of its business, some issuers may find certain
+areas of ESG more relevant than others. However, climate, population and customer
+demographic and technology changes are all important overarching themes to consider for ESG
+reporting and issuers are encouraged to use the range of tools available to them to think about
+the impact of their business broadly and critically.
+2 Source – Barclays: https://www.investmentbank.barclays.com/content/dam/barclaysmicrosites/ibpublic/documents/our-insights/esg/barclayssustainable-investing-and-bond-returns-3.6mb.pdf
+3 Source – Responsible Investment Association Australia: Responsible Investment Benchmark Report 2017 Australia
+4 As above.
+ENVIRONMENTAL, SOCIAL AND GOVERNANCE – DECEMBER 2017 7 of 19
+4. Our Global Commitments
+Sustainable Stock Exchange Initiative and NZX
+In 2016 the Sustainable Stock Exchange invited NZX to become a Partner Exchange of the
+SSE by making a voluntary public commitment to promote ESG disclosure and performance
+among issuers. The SSE initiative is organised by the UN Conference on Trade and
+Development (UNCTAD), the UN Global Compact, the UN Environmental Program Finance
+Initiative (UNEP FI) and the UN PRI to promote transparency on ESG issues by exchanges.
+As a member of the SSE NZX promotes disclosure of relevant ESG matters by issuers. In order
+to achieve New Zealand’s environmental and sustainability goals, the New Zealand
+Government is re-examining its own opportunities and challenges of a transition to a lower net
+emissions economy.5 The focus on this work indicates that ‘green’ reporting and finance and
+disclosure is becoming mainstream.
+UN Sustainable Development Goals
+New Zealand is party to the UN Sustainable Development Goals. In September 2015, the
+United Nations signed up to 17 Sustainable Development Goals (SDGs) and 169 targets.
+The Human Rights Commission specifically noted this as a point in its submission to NZX on
+the NZX Code stating that “ESG Reporting is a way that our national exchange, NZX, and listed
+issuers can contribute to the UN Sustainable Development Goals.”
+The 17 goals and 169 targets set out a universal agenda to achieve sustainable development
+globally, to be achieved by 2030. They bring together the three dimensions of sustainable
+development: economic, social and environmental. They apply to all countries. Although the
+goals are not legally binding, countries are expected to report voluntarily on implementation.
+Best practice corporate responsibility reports link their strategy for managing ESG to the
+Sustainable Development Goals.
+The Paris Agreement
+On 12 December 2015 the new global agreement on climate change, The Paris Agreement,
+was adopted by Parties under the United Nations Framework Convention on Climate Change
+(UNFCCC), including New Zealand. It entered into force in New Zealand on 4 November 2016
+and will take effect from 2020. The aim of The Paris Agreement is to keep global temperatures
+under 2 degrees above pre-industrial levels and to pursue efforts to limit the temperature
+increase even further.
+5
+In April 2017, the current Minister of Finance shared the Terms of Reference for a Productivity Commission Inquiry into the Opportunities and
+Challenges to a Lower Net Emissions Economy for New Zealand. The purpose of this Commission of Inquiry is to identify options how New Zealand
+could reduce its domestic greenhouse gas emissions through a transition towards a lower net emissions future, while at the same time continuing to
+grow incomes and wellbeing.
+The outgoing Environmental Commissioner in her final address during July 2017 asked New Zealand’s political parties to unite on the common goal of
+finding a solution to climate change and setting achievable carbon budgets. The United Kingdom approach to carbon reduction via carbon budgets was
+used as an example of carbon levels can be successfully reduced through collective strategic efforts.
+ENVIRONMENTAL, SOCIAL AND GOVERNANCE – DECEMBER 2017 8 of 19
+The Financial Stability Board Taskforce on Climate Related Financial Disclosures
+The Financial Stability Board Taskforce on Climate Related Financial Disclosures (FSB-TCFD)
+was set up by the G20's Financial Stability Board to provide such a framework to improve the
+ability to assess and price climate-related risk and opportunities.
+In mid-2017 it published
+its final report outlining
+its recommendations. It
+structured its
+recommendations
+around four thematic
+areas that represent core
+elements of how
+organisations operate;
+governance, strategy,
+risk management and
+metrics and targets.
+In particular, FSB-TCFD recommend that organisations disclose the specific metrics and targets
+used to assess and manage relevant climate-related risks and opportunities where such
+information is material. It states in its final report:
+“Investors and other stakeholders need to understand how an organization measures
+and monitors its climate-related risks and opportunities. Access to the metrics and
+targets used by an organization allows investors and other stakeholders to better assess
+the organization’s potential risk-adjusted returns, ability to meet financial obligations,
+general exposure to climate-related issues, and progress in managing or adapting to
+those issues. They also provide a basis upon which investors and other stakeholders
+can compare organizations within a sector or industry.”
+They should do so by:
+(1) disclosing the metrics used by the organization to assess climate related risks and
+opportunities in line with its strategy and risk management process;
+(2) disclosing Scope 1, Scope 2, and, if appropriate, Scope 3 greenhouse gas (GHG)
+emissions, and the related risks;
+6
+ and
+(3) describe the targets used by the organization to manage climate-related risks and
+opportunities and performance against targets.
+For more information, the full report is available here.
+6
+‘Scope’ refers to greenhouse gas (ghg) emissions scope level. Scope 1 refers to all direct GHG emissions. Scope 2 refers to indirect GHG emissions
+from consumption of purchased electricity, heat, or steam. Scope 3 refers to other indirect emissions not covered in Scope 2 that occur in the value
+chain of the reporting company, including both upstream and downstream emissions. Scope 3 emissions could include: the extraction and production
+of purchased materials and fuels, transport-related activities in vehicles not owned or controlled by the reporting entity, electricity-related activities (e.g.
+transmission and distribution losses), outsourced activities, and waste disposal. See page 63 of Final Report: Recommendations of the Task Force on
+Climate-related Fianncail Disclosures- https://www.fsb-tcfd.org/wp-content/uploads/2017/06/FINAL-TCFD-Report-062817.pdf
+ENVIRONMENTAL, SOCIAL AND GOVERNANCE – DECEMBER 2017 9 of 19
+UN Human Rights and their Principles
+In 1948 New Zealand ratified the Universal Declaration on Human Rights. Since then, New
+Zealand has generally had a good track record in relation to human rights, linking to the ‘social’
+branch of ESG. New Zealand has international obligations under a range of UN treaties to
+which it has ratified and specific legislation such as the Human Rights Act 1993 and the Bill of
+Rights Act 1990. The full scope of New Zealand’s relationship to human rights is beyond the
+scope of this guidance note. However, more information can be found on the website of the
+Human Rights commission here. There is an important link between ESG reporting and human
+rights because this is something issuers already likely comply with and can report on to improve
+New Zealand’s overall rating for the ‘social’ branch of ESG (or corporate reporting) when it is
+linked to the UN Human Rights Principles. This may help issuers appeal to international
+investors who are looking to invest funds in ethical, sustainable businesses with a good record
+of social responsibility.
+5. What are the available global frameworks in New
+Zealand?
+While there is no consensus on reporting standards globally, there are a range of global
+frameworks available for issuers to report against that are widely cited by investors. No one
+framework is preferred by NZX, but it may be issuers find a particular framework a better fit for
+their company. While the sheer number of standards, frameworks and data requirements can
+be overwhelming, it is important to consider your business and what model works best for your
+company. As a result, NZX has short-listed the global reporting frameworks down to three
+commonly used in Australia and New Zealand, based on consultation undertaken in developing
+this guidance.7
+Different data is required across the different reporting frameworks. Lack of standardization
+means data can be difficult to compare issuers. However, globally all listed issuers and the
+business community at large are working towards consensus on what constitutes relevant
+information for issuers.
+If none of the below frameworks are considered viable by an issuer, the issuer should still
+consider providing ESG information using guidance and the relevant framework as a guide.
+ESG reporting could be accompanied by an explanation regarding why a global framework is
+inappropriate for that issuer and any targets that the issuer has to implement a global
+framework over the longer term.
+7 We note that KPMG have found that GRI is the most popular reporting framework in Australasia, with Integrated Reporting gaining ground. The
+Global report from KPMG ‘The road ahead’ is available here and is a useful resource to understand the global context of corporate responsibility better:
+https://home.kpmg.com/content/dam/kpmg/campaigns/csr/pdf/CSR_Reporting_2017.pdf. A 2017 New Zealand Corporate Responsibility Survey
+Supplement is also available from KPMG: https://home.kpmg.com/content/dam/kpmg/nz/pdf/November/02261-Corporate-Sustainability-Report-2017-
+Digital.pdf
+ENVIRONMENTAL, SOCIAL AND GOVERNANCE – DECEMBER 2017 10 of 19
+The Leading Global ESG Frameworks
+Global Reporting Initiative
+(GRI) Integrated Reporting. UN Global Compact
+(UNGC).
+GRI Sustainability Reporting
+Standards are the most widely used
+standards for reporting on ESG
+impacts globally, and have been
+developed over many years through
+multi-stakeholder contributions. GRI
+Standards aim to meet the
+information of all stakeholders, and
+modular structure supports both
+comprehensive reports and selected
+disclosures.
+www.globalreporting.org.
+The Integrated Reporting
+Framework helps companies to
+produce a concise, investor
+focused report that looks at an
+issuers performance and
+prospects through the lens of six
+‘capitals’ (financial,
+manufactured, human, natural,
+intellectual, social and
+relationship). This framework can
+be used in conjunction with other
+specific ESG frameworks.
+www.integratedreporting.org.
+The Global Compact requires
+companies to commit to a set of
+ten universal principles
+concerning human rights, labour,
+environment and anti-corruption.
+www.unglobalcompact.org.
+6. What should be reported?
+Issuers may wish to consider reporting as follows:
+1. Explain the relevance of environmental, social and governance factors to their business
+models and strategy. These factors should not be ‘bolt-on’ but an integrated component
+of business drivers and considerations.
+2. Explain how ESG issues may affect their business, e.g. through legislation, reputational
+damage, employee turnover, licence to operate, legal action or stakeholder
+relationships, and how these impacts may affect business strategy and financial and
+operational performance (also known as ‘value mapping’).
+3. Explain how they intend to access the new opportunities and revenue streams
+generated by green and socially beneficial products and services. In this context they
+should explain how their investments in innovation and R&D will drive future growth for
+the business.
+4. Identify the parts of the business that manufacture or provide goods, products and
+services delivering environmental solutions and supporting the transition to a low carbon
+economy; and break down and quantify the associated revenues.
+5. Provide data that is accurate, timely, aligned with their fiscal year and business
+ownership model, and based on consistent global standards to facilitate comparability.
+6. Recognise that reporting is just one part of the wider dialogue they have with their
+investors. ESG reporting, irrespective of the specific format, provides a basis for
+dialogue with investors and other key stakeholders but is not a replacement for it.
+ENVIRONMENTAL, SOCIAL AND GOVERNANCE – DECEMBER 2017 11 of 19
+7. How to approach reporting on ESG
+Consider which framework of those available is most appropriate for your business and
+operations
+Issuers should define their business and reporting boundaries, taking into consideration the
+nature of their business, the geographical span of operations, subsidiaries, joint ventures and
+supply chain.
+Identifying Key Stakeholders
+Issuers should consider who their key stakeholders are and how their reporting or gathering of
+data may affect them or require their feedback. Stakeholders can include employees,
+customers, suppliers, distributors, community, unions, shareholders, investors and government.
+Identifying materiality for those Stakeholders
+There is no one method to correctly identify relevant, or material information. However, it is
+important that issuers gain an understanding of what is material and bring that information to the
+attention of investors and other stakeholders. For instance, investors may be interested in
+whether an issuer can successfully respond to a climate change risk or demonstrate future
+viability and resilience. An example of this could be an energy company considering investing
+in wind generation. The company should articulate to its shareholders the investment case, the
+sources of investment risk and how practices and performance will be measured, looking at
+both qualitative and quantitative data and the likely business, environmental, social and broader
+economic outcomes.
+The International Accounting Standards Board8 defines ‘material’ as information that which
+could, if omitted or misstated, influence the economic decisions of readers relying on financial
+statements. ASX in their ESG guidance note defines material as:
+“ESG risks are material, where a reasonable person would consider the
+information to have an impact on a company’s valuation or the sustainability of
+its operations. The risk(s) could have an immediate or foreseeable impact on
+earnings, an impact on a balance sheet, or an impact on the sustainability of
+its operations”
+9
+Other guidance about ‘materiality’ can be found online at the following:
+ KPMG published guidance in August 2017 explaining materiality in the context of the
+NZX Corporate Governance Code to help bridge the gap between what companies are
+currently doing and how to provide value to investors and stakeholders in relation to
+8 The International Accounting Standards Board IASB) is an independent, private-sector body that develops and approves International Financial
+Reporting Standards (IFRSs)
+9 http://www.asx.com.au/documents/asx-compliance/acsi-fsc-esg-reporting-guide-final-2015.pdf
+ENVIRONMENTAL, SOCIAL AND GOVERNANCE – DECEMBER 2017 12 of 19
+non-financial reporting: https://home.kpmg.com/nz/en/home/insights/2017/09/materialityassessment.html
+ The International Integrated Reporting Council and International Federation of
+Accountants released the publication, ‘Materiality in Integrated Reporting’ which offers
+guidance Federation of Accountants has released the publication, ‘Materiality in
+Integrated Reporting’ which offers guidance on Integrated Reporting, explains materiality
+and the corresponding materiality determination process in the context of integrated
+reporting. This is available at https://integratedreporting.org/resource/materiality-inintegrated-reporting/.
+ Materiality is explained in respect of GRI reporting here on the G4 website, here:
+https://g4.globalreporting.org/how-you-should-report/reporting-principles/principles-fordefining-report-content/materiality/Pages/default.aspx
+Develop a strategy
+Issuers may develop a strategy to address the identified risks and opportunities for ESG. The
+Strategy should drive reporting, rather than reporting driving strategy.
+Identify indicators of ESG themes
+Issuers should look at specific practices, outputs, impacts and, where relevant, results in their
+business as indicators of how it is performing on its material ESG issues, and whether this is
+applicable to the whole business or just a specific area. These should be drawn from both
+qualitative and quantitative data.
+The challenge is to identify the most relevant indicators and the ESG global frameworks which
+are most relevant. There may be a combination; for example, GRI may be used as a specific
+subset standard within a broader framework such as Integrated Reporting. Some NZX Listed
+Issuers already do (using GRI and Integrated Reporting).
+A company should take into account its own sector to report on ESG. For instance, a company
+that has a strong reliance on employees, like a software company, might report on employee
+attrition in its KPI’s. An eco-tourism company, on the other hand, would likely need to include
+opportunities and risks in relation to sustainability and environmental impact, and how that
+relates to its financial return.
+Provide data
+Information for ESG reporting needs to be complete, consistent, reliable, comparable and clear.
+Data should provide evidence of any assertions made.
+The characteristics of Investment Grade Data include: 10
+10 See London Stock Exchange Guidance on ESG:
+https://www.lseg.com/sites/default/files/content/images/Green_Finance/ESG_Guidance_Report_LSEG.pdf
+ENVIRONMENTAL, SOCIAL AND GOVERNANCE – DECEMBER 2017 13 of 19
+ Accuracy – deploy rigorous data collection systems
+ Boundaries – align to the fiscal year and business ownership model
+ Comparability and consistency – use consistent global standards to facilitate
+ Data provision – provide raw as well as normalised data
+ Timeliness – provide data to coincide with the annual reporting cycle
+ External assurance – consider strengthening the credibility of data by having it assured
+ Balance – provide an objective view, including both favourable and unfavourable
+information.
+In order to allow comparability between peers, it is preferable to use consistent global standards
+when reporting if this is possible for the issuer. Issuers should gather data in line with common
+practices and report in a similar manner to sector peers when possible.
+The method that the issuers selects to report should remain consistent year-to-year. If the
+circumstances of the issuer changes, or any underlying assumption changes in its business, an
+issuer should explain the change to its business in its annual reporting, explicitly referring to
+ESG. An issuer may want to communicate sooner if a controversy or incident has taken place.
+An issuer may consider it more appropriate to present information in a standalone sustainability
+report
+The issuer may consider making raw data available to allow investors to cross compare issuers
+should they wish. Issuers can also support data interpretation by providing contextual data (ie
+number of staff and contractors, turnover, countries in which they operate), normalized data (ie
+interpreting process around set targets) and explanations (ie narrating the data, particularly
+where it may have influenced performance either positively or negatively).
+Providing an objective view of results with external assurance
+An issuer may wish to strengthen credibility of its ESG data through external assurance. This
+can be conducted through the same process as financial reporting using qualified auditors. The
+manner in which external assurance was sought should be described.
+In addition, issuers should try and present favourable and unfavourable information clearly and
+in full. Efforts to obscure information may create mistrust. Commentary may be provided to
+guide more difficult subjects.
+8. Reporting formats
+How should the report be presented?
+An ESG report should be presented either as part of the issuer’s corporate governance
+reporting, or included as an external link (including a short summary of the ESG report) which is
+easy to locate on the issuer website. This should make up part of the issuer’s wider Annual
+ENVIRONMENTAL, SOCIAL AND GOVERNANCE – DECEMBER 2017 14 of 19
+Report to ensure information is widely and readily available to issuers. Any reporting should be
+easy to find, understand and access. An issuer can also address ESG in a standalone report.
+Importance of making Integrated Reporting comprehensive
+An integrated report aims to offer investors a more rounded, concise and holistic insight into
+business performance and impact over the short, medium and long term. The integrated
+reporting framework developed by the International Integrated Reporting Council (IIRC) guides
+organisations that want to understand and articulate to investors how their interactions with
+financial, human, natural and other forms of ‘capital’ affect business prospects, and emphasises
+disclosure of better information rather than more information.
+Users of integrated reporting alone should note the potential impact of making current reports to
+investors more concise. Issuers should consider their own business model and the breadth of
+their investors’ interests before adopting integrated reporting. They may also wish to consider
+supplementing integrated reporting with further ESG information available on their website.
+9. Communication with shareholders
+Investors want to better understand how a company is positioned to deliver long term
+sustainable value. Shareholders increasingly wish to understand why an issuer has made
+certain decisions in respect of ESG risks and opportunities and how decisions have been made.
+Issuers should use corporate reporting as a tool to communicate long term strategy, material
+issues and the future social, environmental and economic outcomes being pursued through
+their current activities. More information about shareholder rights and relations can be found in
+Principle 8 of the NZX Code.
+Timeframes
+An appropriate time to provide ESG data is at the same time as providing your corporate
+governance reporting under the NZX Code as part of an Annual Report, although listed issuers
+may also wish to provide more regular disclosure. This is so that investors know when they can
+expect to receive updated information and for consistency with other reporting criteria. There
+are also the disclosure requirements if something that materially impacts the share value
+occurs.
+ENVIRONMENTAL, SOCIAL AND GOVERNANCE – DECEMBER 2017 15 of 19
+10. Green Bonds
+Another element of green finance that complements transparent sustainability reporting is green
+financial products, such as green Exchange Traded Funds (ETFs) and green bonds. Globally,
+there is a growing international trend towards sustainable investment and investors who are
+more conscious of where they put their money (i.e. do not want to invest money in investments
+that may be considered unethical). Now, some listed issuers are beginning to issue green
+bonds in New Zealand.
+A green bond is a bond where proceeds are used to finance or refinance climate-friendly or
+environmental projects. The market has been in existence since 2008, and as at the end of
+2015 reached USD $41.8bn of labelled green bonds issued globally. In 2016 it was USD $81.6b
+and in 2017 to date has been USD $103.3b. The market is open to many types of issuers:
+Corporations, Governments and semi-government bodies, Financial Institutions and Asset
+Owners. As at the drafting of this guidance, NZX issuers are already invested in the creation of
+green bonds.
+Many exchanges worldwide have been involved in the promotion and accreditation of new
+products. NZX would like to support the development of green financial products, promoting
+transparency and potentially assisting with accreditation to help the market recognize which
+products are ‘green’.11 Other exchanges around the world, such as the London Stock Exchange
+and Singapore Stock Exchange, have taken this step to label green financial products.
+Issuers of green bonds could consider disclosing information about internal assurance
+processes or consider independent external assurance to provide investors with a greater
+degree of comfort over the integrity of information disclosed.
+How to issue a green bond
+There are two main options to certify a green bond. An issuer can either follow:
+(a) The Green Bond Principles; or
+(b) Climate Bond Initiative Standards
+The Green Bond Principles and the Climate Bond Initiative have established requirements that
+need to be met by green bonds. Both provide a framework for identifying and applying bond
+proceeds to a range of green projects and expenditures and view assurance as a key element
+in in unlocking the additional “ethical” value of a green bond assuring the long-term integrity of
+green bonds.12
+11 See question 13 on page 12 of a discussion paper dated 27 September 2017 here
+12 http://www.ey.com/nz/en/services/specialty-services/climate-change-and-sustainability-services/ey-lets-talk-sustainability-issue-3-bonds-greenbonds
+ENVIRONMENTAL, SOCIAL AND GOVERNANCE – DECEMBER 2017 16 of 19
+The Green Bond Principles
+13
+The Green Bond Principles, updated as at June 2017, are voluntary process guidelines that
+recommend transparency and disclosure and promote integrity in the development of the green
+bond market by clarifying the approach for issuance of a green bond. The Principles are
+intended for broad use by the market. They provide issuers guidance on the key components
+involved in launching a credible green bond, aid investors by ensuring availability of information
+necessary to evaluate the environmental impact of their green bond investments and assist
+underwriters by moving the market towards standard disclosures which will facilitate
+transactions.14
+ The Green Bond Principles include, but are not limited to, consideration of
+investment in the following areas:
+• Renewable energy
+• Energy efficiency (including efficient buildings)
+• Pollution prevention and sustainable waste management
+• Sustainable land use (including sustainable forestry and agriculture)
+• Biodiversity conservation
+• Clean transportation
+• Sustainable water management (including clean and/or drinking water)
+• Climate change adaptation
+• Eco-products
+• Green buildings
+Climate Bond Initiative Standards15
+Climate Bonds Standard & Certification Scheme are already being used by NZX listed issuers
+to verify green bonds issued. The Climate Bonds standards is the requirements and eligibility
+criteria for Climate Bond Certification, based on the current version as published on the Climate
+Bonds Initiative website (https://www.climatebonds.net/standards).
+For issuers, the Climate Bonds Standard & Certification Scheme is a voluntary initiative, which
+allows them to clearly demonstrate to the market that their bond meets industry standards for
+climate integrity, management of proceeds, and transparency. The key difference from the
+Green Bond Principles are:
+13 https://www.icmagroup.org/assets/documents/Regulatory/Green-Bonds/GreenBondsBrochure-JUNE2017.pdf
+14 https://www.icmagroup.org/Regulatory-Policy-and-Market-Practice/green-social-and-sustainability-bonds/green-bond-principles-gbp/
+15 https://www.climatebonds.net/files/files/Climate%20Bonds%20Standard%20v2_1%20-%20January_2017(1).pdf
+ENVIRONMENTAL, SOCIAL AND GOVERNANCE – DECEMBER 2017 17 of 19
+• Green assets supported by the green bond are required to meet sector specific technical
+criteria and;
+• Issuers must obtain assurance over the green bond for the Climate Bonds Standard
+Board to certify the bond
+The Certification Scheme is made up of the overarching Climate Bonds Standard Version 2.1
+and a number of Sector Specific Criteria that provide detailed eligibility criteria for different
+sectors, such as:
+• Solar energy;
+• Wind energy;
+• Geothermal energy;
+• Low carbon buildings;
+• Low carbon transport;
+• Water;
+• Marine Energy;
+Land Use and Hydropower (under development)The requirements of the Climate Bonds
+Standard are separated into pre-issuance requirements, which need to be met for listed
+issuers seeking certification ahead of issuance, and post-issuance requirements, which
+need to be met by issuers seeking continued certification following the issuance of the bond.
+Technical Working Groups and Industry Working Groups provide the expertise for the
+development of these Sector-Specific Criteria which are approved by the Climate Bonds
+Standard Board.
+11. Further Resources
+More background about ESG can be found at the following:
+• NZX.com
+• Sustainable Stock Exchanges Initiative - The Sustainable Stock Exchanges (SSE)
+initiative is a peer-to-peer learning platform for exploring how exchanges (in
+collaboration with investors, regulators, and companies) can promote responsible
+investment for sustainable development - (www.sseinitiative.org)
+• The Sustainable Business Council - The Sustainable Business Council (SBC) is the New
+Zealand member of the World Business Council for Sustainable Development that
+advocates a better way of doing business, one which creates a sustainable future
+(http://www.sbc.org.nz).
+ENVIRONMENTAL, SOCIAL AND GOVERNANCE – DECEMBER 2017 18 of 19
+• United Nations Principles of Responsible Investment – The PRI is the world's leading
+proponent of responsible investment. It works to understand the investment implications
+of environmental, social and governance (ESG) factors and to support its international
+network of investor signatories in incorporating these factors into their investment and
+ownership decisions. The PRI acts in the long-term interests of its signatories, of the
+financial markets and economies in which they operate and ultimately of the
+environment and society as a whole - (https://www.unpri.org)
+• The International Integrated Reporting Council (IIRC) - The IIRC is a worldwide coalition
+with the mission to mainstream integrated thinking and reporting and to change the
+corporate reporting system so that Integrated Reporting becomes the global norm
+(https://integratedreporting.org).
+• UN Global Compact Guide To Sustainability - Lays out five defining features of
+corporate sustainability, which the Global Compact asks businesses to strive towards –
+looking at why each element is essential, how business can move forward and what the
+Global Compact is doing to help (https://www.unglobalcompact.org/library/1151).
+• SDGs - The United Nations Sustainable Development Goals are a universal call to
+action to end poverty, protect the planet and ensure that all people enjoy peace and
+prosperity.
+• GRI Standards - The Global Reporting Initiative’s GRI Standards are the first global
+standards for sustainability reporting. They feature a modular, interrelated structure, and
+represent the global best practice for reporting on a range of economic, environmental
+and social impacts (https://www.globalreporting.org/standards).
+• Sustainability Accounting Standards Board - The Sustainability Accounting Standards
+Board is a US non-profit organization incorporated in 2011 to develop and disseminate
+sustainability accounting standards (www.sasb.org).
+• CDP - The CDP (formerly the "Carbon Disclosure Project") is an organisation based in
+the United Kingdom which supports companies and cities to disclose the environmental
+impact of major corporations. It aims to make environmental reporting and risk
+management a business norm, and drive disclosure, insight and action towards a
+sustainable economy (www.cdp.net).
+• WFE Website - The World Federation of Exchanges, formerly the Federation
+Internationale des Bourses de Valeurs, or International Federation of Stock Exchanges,
+is the trade association of 63 publicly regulated stock, futures, and options exchanges
+(www.world-exchanges.org).
+• Greenhouse Gas Protocol - A nearly 20-year long partnership between the World
+Resources Institute (WRI) and the World Business Council for Sustainable Development
+(WBCSD), the Greenhouse Gas Protocol (GHG Protocol) works with governments,
+industry associations, NGOs, businesses, and other organizations around the world to
+build credible, effective, and robust GHG accounting and reporting platforms that serve
+as a foundation to address climate change. It establishes comprehensive, global,
+standardized frameworks for measuring and managing emissions from private and
+public sector operations, value chains, products, cities, and policies
+(www.ghgprotocol.org)
+ENVIRONMENTAL, SOCIAL AND GOVERNANCE – DECEMBER 2017 19 of 19
+• Corporate Eco Forum – Corporate Eco Forum is an invitation-only membership
+organization for large companies that demonstrate a serious commitment to
+sustainability as a business strategy issue - (http://www.corporateecoforum.com/)
+• World Environment Centre – The World Environment Centre is an independent, global,
+non-profit, non-advocacy organization that advances sustainable development through
+the business practices of member companies and in partnership with governments,
+multi-lateral organizations, non-governmental organizations, universities and other
+stakeholders - (http://www.wec.org).

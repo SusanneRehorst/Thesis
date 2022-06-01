@@ -1,0 +1,2465 @@
+LuxSE
+Guide to ESG
+Reporting
+January 2021
+
+Table of content
+ Foreword from LuxSE CEO 2
+ About the Luxembourg Stock Exchange 5
+ Introduction and purpose 6
+1 Luxembourg
+Stock Exchange 9
+2 What is ESG and
+why it is important? 11
+3 Why report on ESG? 12
+3.1 Meeting investor interest in ESG factors 12
+3.2 Getting ahead of policy and regulatory
+developments 14
+3.3 Strengthening financial performance 16
+3.4 LuxSE Guide to ESG Reporting 16
+4 Companies 19
+4.1 Assigning roles for the preparation of the report 20
+4.2 Aligning the report with corporate strategy 21
+4.3 Engaging stakeholders 22
+4.4 Identifying and understanding the audience 22
+4.5 Identifying the themes and defining
+a materiality matrix 23
+4.6 Assessing the relevance
+of performance indicators 24
+4.7 Collecting data for the report 25
+4.8 Identifying the format
+and communication channels 26
+4.9 Considering internal audit
+and external assurance 27
+5 Issuers of sustainable
+debt instruments 29
+5.1 Identifying and defining ESG activities
+and strategies 30
+5.2 Defining ESG procedures
+and disclosing information pre-issuance 31
+5.3 Evaluating relevant reporting categories
+and performance indicators 32
+5.4 Taking stock of internal data processes
+and collecting data 33
+5.5 Deciding on the best format
+and reporting period for publication 33
+5.6 Considering external assurance 33
+6 Asset managers 35
+6.1 Identifying and defining ESG activities
+and strategies 36
+6.2 Defining ESG procedures
+and disclosing information 38
+6.3 Evaluating relevant reporting categories
+and performance indicators 39
+6.4 Taking stock of internal data processes
+and collecting data 39
+6.5 Deciding on the best format
+and reporting period for publication 40
+6.6 Considering external assurance 40
+ Appendices 42
+ Appendix A:
+Local initiatives regarding ESG and CSR 43
+ Appendix B:
+Questions to guide ESG report preparation 44
+ Appendix C:
+Reporting initiatives 49
+ Appendix D:
+Global sustainability standards and principles 52
+ Appendix E:
+Template for green, social
+and sustainability bond reporting 54
+Luxembourg Stock Exchange | Guide to ESG Reporting 1
+Robert Scharfe
+Chief Executive Officer
+Placing ESG considerations
+at the heart of your organisation
+is an inevitable step towards
+more sustainable growth
+and better performance
+Foreword from the CEO
+In the fast-paced world we live in,
+companies strive to stay ahead of
+the game by focusing their energy on
+innovation, cyber-security, research
+and development. And while all these
+are important aspects of our industry,
+Environmental, Social and Governance
+(ESG)-related opportunities and risks
+should be given precedence in order
+to truly pave the road to success
+and a more sustainable future.
+When organisations choose to embrace
+ESG in today’s competitive climate, they
+solidify their role as pioneers of the future,
+rather than mere followers of global trends.
+We are in a period of great transition.
+While some organisations are already
+on their way to fully integrating ESG at
+the core of their businesses, others are
+only starting to get their minds around
+the concept. We should be inclusive and
+engage all stakeholders as only through
+combined and global efforts can we help
+ESG considerations evolve from being
+niche to becoming mainstream.
+The role of stock exchanges in this
+process is, and will continue to be,
+incredibly important. We must embrace
+this role head on by encouraging issuers
+and investors to consider ESG aspects
+as an opportunity, promoting their efforts
+to comply with best market practices
+and giving investors clarity and trust.
+For these reasons, I am glad to share
+with you the LuxSE Guide to ESG
+Reporting, which I hope you will find of
+practical use. Placing ESG considerations
+at the heart of your organisation is an
+inevitable step towards more sustainable
+growth and better performance.
+This document offers guidance to
+companies, issuers and asset managers
+and constitutes a roadmap for advancing
+ESG integration into businesses of all sizes.
+Consistently integrating ESG considerations
+into business decisions is – and will
+increasingly be – a key indicator of
+good business, as sustainable business
+is better business.
+Robert Scharfe,
+CEO of the Luxembourg Stock Exchange
+2 Luxembourg Stock Exchange | Guide to ESG Reporting
+Environmental, social and corporate
+governance (ESG) data is now
+in high demand from the biggest
+institutional investors in the world
+Foreword
+The Luxembourg Stock Exchange has been a market
+innovator, leader and supporter for climate finance
+and sustainability not only in their own market but
+worldwide. With the world’s first dedicated green stock
+exchange, the Luxembourg Green Exchange has opened
+new channels for sustainable finance and is reinforcing
+the role of capital markets in achieving the targets
+of the UN’s Sustainable Development Goals (SDGs).
+The Luxembourg Stock Exchange is well known
+for its leadership in the space of green finance, and
+in particular debt financing for green initiatives.
+It is because of this leadership that we invited the
+exchange to chair the UN Sustainable Stock Exchanges
+(SSE) Advisory Group on Green Finance in 2017.
+That same year, the Luxembourg Stock Exchange
+hosted the SSE Green Finance Dialogue on the
+sidelines of the United Nations climate change
+conference (COP23) in Bonn, Germany.
+Today, we applaud the Luxembourg Stock Exchange
+for their commitment to promoting sustainability and
+transparency from issuers across the entire capital market
+spectrum. As one of the organizers of the SSE initiative,
+UNCTAD welcomes this new guidance on ESG disclosure.
+Building on the "Ten Principles of Corporate Governance"
+launched by the exchange in 2006, this guidance
+demonstrates how stock exchanges can contribute
+to sustainable development and help to tackle the twentyfirst century’s biggest sustainability challenges.
+Global policy developments such as the Sustainable
+Development Goals and the Paris Agreement on
+climate change make clear the task before us and the
+imperative to take action. Achieving the global goals
+will require significant investment. UNCTAD estimates
+that developing countries alone will face an annual
+funding gap of $2.5 trillion in order to achieve the
+SDGs by 2030. Private sector contributions – through
+both good governance in business practices and
+investment in sustainable development – will be critical
+to the realization of the SDGs.
+The investment world increasingly recognizes this.
+Environmental, social and corporate governance
+(ESG) data is now in high demand from the biggest
+institutional investors in the world. Stock exchanges
+are playing a key role in the education and training
+of companies in order to supply this growing demand
+for new information. In 2019 approximately half
+of all stock exchanges are providing written guidance
+and training on ESG reporting. Updating guidance to
+reflect market demand – such as what Luxembourg
+has done with this new guidance document – is key
+to ensuring issuers are able to meet investor demand
+for ESG information.
+Since the SSE’s founding in 2009, UNCTAD and our
+SSE co-organizers – UNEP, the UN Global Compact,
+and the PRI – have been working with stock exchanges
+around the world to promote improved ESG practices
+and investment in sustainable development. Stock
+exchanges and their surrounding ecosystem of issuers,
+investors and regulators have a critically important role
+to play in the achievement of the SDGs. We hope other
+exchanges will benefit from the sustainable finance
+innovations demonstrated by Luxembourg Stock
+Exchange, and we encourage all issuers to incorporate
+the recommendations in this guidance to ensure their
+reporting is fit for purpose in the 21st century.
+James Zhan
+Chair, Governing Board, UN Sustainable Stock Exchanges
+Director, Investment & Enterprise Division,
+United Nations Conference on Trade and Development (UNCTAD)
+Luxembourg Stock Exchange | Guide to ESG Reporting 3
+About the Luxembourg
+Stock Exchange
+4 Luxembourg Stock Exchange | Guide to ESG Reporting
+About the Luxembourg Stock Exchange
+Founded in 1928, the Luxembourg Stock Exchange (LuxSE) is the worldwide
+leader in the listing of international securities. With its first mover attitude
+over the last 50 years, LuxSE has actively contributed to the development
+of international capital markets.
+LuxSE has a strong culture of servicing international clients and addressing
+their specific needs. Thanks to its stringent but business-friendly criteria and
+admission process, LuxSE provides the highest transparency to investors.
+By providing increased visibility to issuers, LuxSE is the gateway to access
+international investors. Issuers on LuxSE benefit from the country’s vibrant
+and integrated financial ecosystem and proximity to a powerful network
+of international experts.
+About the Luxembourg Green Exchange
+Launched in 2016, the Luxembourg Green Exchange (LGX) is the world’s largest
+platform dedicated exclusively to sustainable finance.
+By displaying securities on LGX, issuers generate awareness around their
+projects and investment portfolios. The platform also caters to sustainable
+and responsible investors by providing full and unrestricted access
+to a comprehensive online database of information on sustainable instruments.
+This LuxSE Guide to ESG Reporting has been developed using the vast experience
+which we have gained at the centre of the sustainable finance marketplace.
+For further questions and feedback
+If you have any further queries or wish to provide feedback on LuxSE Guide
+to ESG Reporting, please feel free to contact the Luxembourg Green
+Exchange team at lgx@bourse.lu to voice all questions and suggestions.
+We would be glad to receive your feedback in order to keep this guide
+as relevant and up-to-date as possible.
+Luxembourg Stock Exchange | Guide to ESG Reporting 5
+Introduction and purpose
+With the growing global concern surrounding the
+achievement of the Sustainable Development Goals
+(SDG) by 2030, investors and other financial market
+players are increasingly interested in understanding
+how organisations manage their material ESG
+opportunities and risks, and how they deliver on ESG
+positive impact. Stock exchanges have the ability to act
+as catalysts for financial markets in providing guidance
+for appropriate ESG reporting.
+At LuxSE, we are committed to promoting transparency
+on ESG matters through encouraging the reporting
+thereof. This document therefore provides information
+on how organisations can integrate such ESG matters
+into their reporting by focusing on providing guidance
+for three different kinds of stakeholders:
+1 Companies
+2 Issuers of debt instruments (i.e. bonds)
+3 Asset Managers active in SRI funds
+The distinction between these three kinds of
+stakeholders has been made in order to illustrate the
+way in which ESG issues are integrated into decisionmaking and how reporting differs across these
+stakeholders in various fundamental ways. This firstof-its-kind report therefore ensures that stakeholders
+will find this document relevant and useful for starting,
+or continuing, their journey to integrate ESG into their
+value creation process.
+In terms of this document’s distinction between the
+different kinds of stakeholders, companies may find
+this guide complementary to LuxSE’s "Ten Principles
+of Corporate Governance", while bond issuers and asset
+managers will find further resources on how to capture
+and disseminate ESG information relevant to their products
+present within the following pages.
+By publishing this guide, we would like to reaffirm
+our commitment to contributing to the achievement
+of the SDGs by furthering transparency and supporting
+Principle 2 of the "World Federation of Exchanges
+(WFE) Sustainability Principles", which refers to the
+role of stock exchanges in enhancing the availability
+of investor-relevant, decision-useful ESG information.
+In addition, this guide has been inspired by the "Model
+Guidance on Reporting ESG Information to Investors"
+published by the United Nations Sustainable Stock
+Exchanges (UN SSE) Initiative.
+In the Appendices, the reader will also find a list
+of questions that may help in the preparation of such
+a report (Appendix A), as well as a list of frameworks
+and tools (Appendix B, Appendix C and Appendix D)
+to help them do so effectively.
+While the guidance in this document has been
+compiled in accordance with ESG fundamentals,
+the topic is evolving quickly. We therefore intend
+to review this document on a regular basis to ensure
+it remains aligned to market practice and is fit for purpose.
+Disclaimer
+The present guide and all information contained
+herein (collectively the "Guide") are made available
+for information purposes. The Guide cannot be
+disseminated, displayed, sold or distributed, in any
+manner, in whole or in part, freely or against payment,
+without the prior written consent of the Luxembourg
+Stock Exchange ("LuxSE").
+Although part of the information contained within the
+Guide has been collected from external sources that
+are deemed reliable in LuxSE’s reasonable opinion,
+LuxSE does not give any representation or warranty
+and disclaims any liability or responsibility of any kind
+in connection with the accuracy, correctness,
+timeliness, fitness for a particular purpose, reliability
+or completeness of the Guide.
+The Guide is not and shall not be a substitute for your
+company’s researches, investigations, verifications,
+checks or consultation for professional or investment
+advice. Neither does the publication of the Guide
+by LuxSE represent or constitute any warranty or
+representation from LuxSE in connection with the good
+standing, profitability, suitability or reliability of any
+financial instrument and/or of any organisation.
+"Luxembourg Stock Exchange", "Luxembourg Green
+Exchange" and "LGX" are LuxSE’s trademarks. No part
+of these trademarks or any other trademark owned
+by LuxSE can be used, reproduced or transmitted
+in any form without express written consent by LuxSE.
+6 Luxembourg Stock Exchange | Guide to ESG Reporting
+Luxembourg Stock Exchange | Guide to ESG Reporting 7
+1 Luxembourg Stock
+Exchange
+Our commitment
+to sustainability
+and transparency
+8 Luxembourg Stock Exchange | Guide to ESG Reporting
+LuxSE has a long-standing history of promoting
+sustainability and transparency amongst its issuers
+and across different players in the capital markets.
+In 2006, we introduced the "Ten Principles of Corporate
+Governance" (the "Ten Principles"), which must be met
+by all Luxembourgish companies listed on the Regulated
+Market of LuxSE. The Ten Principles focus on embedding
+corporate governance in companies’ corporate culture
+and promoting integrity, responsibility, transparent
+decision-making processes and respect for the interests
+of shareholders and other stakeholders. In 2017,
+we revised these principles in order to integrate
+a new corporate social responsibility (CSR) principle.
+Principle 9 requires companies to describe how they
+create long-term value by integrating CSR in their
+corporate strategy. In addition, companies must now
+analyse the sustainability of their activities and present
+the relating CSR information in either a dedicated report,
+or as part of an overall management report.
+This also requires company boards to regularly consider
+non-financial risks and publish the methodology behind
+their CSR performance indicators and data.
+In 2016, we launched the Luxembourg Green Exchange
+(LGX) which is currently the largest platform in the
+world exclusively dedicated to sustainable finance.
+By displaying their securities on LGX and engaging
+in continuous reporting, issuers and asset managers
+generate awareness around their projects and
+investment portfolios. The platform caters
+to environmentally and socially-conscious investors
+by providing full and unrestricted access
+to a comprehensive online database of ESG reporting
+information on sustainable financial instruments.
+We are committed to progressing the international
+sustainability agenda. We have been a partner
+of the UN SSE Initiative since 2016 and have chaired
+the UN SSE’s Advisory Group which was responsible for
+the development of the report on "How Stock Exchanges
+Can Grow Green Finance".
+Our commitment to advancing sustainable finance
+entered the realm of policy making when we were
+appointed as one of the Members of the European
+Commission’s (EC) High-Level Expert Group (HLEG)
+on Sustainable Finance in 2016. The HLEG members,
+which is comprised of 20 senior experts from civil
+society, the finance sector, academia and observers
+from European and international institutions,
+were selected to embed sustainable finance in the
+framework of the Capital Markets Union and across
+the financial markets. In particular, the group was
+mandated to provide advice to the EC on how to:
+− Steer the flow of public and private capital towards
+sustainable investments
+− Identify the steps that financial institutions and
+supervisors should take to protect the stability
+of the financial system from risks related to the
+environment
+− Deploy these policies on a pan-European scale
+The final report of HLEG, which was published in January
+2018, provides an extensive range of recommendations,
+including some specifically related to disclosure rules.
+This was done with a view to making sustainability
+risks fully transparent and part of the conversation with
+financial players and investors everywhere.
+Our commitment continued with our appointment
+as a Member of the European Union (EU) Comissions’
+Technical Expert Group on Sustainable Finance (TEG)
+in 2018. The TEG was mandated to assist the EC in
+developing implementation measures for the EC Action
+Plan on Financing Sustainable Growth and its subsequent
+package of legislative proposals, issued in May 2018.
+As a key player in the development of sustainable
+finance in the EU, we are a central pillar within the
+Luxembourg financial sector in our work as board
+member of the Luxembourg Bankers`Association (ABBL),
+the Association of the Luxembourg Fund Industry (ALFI)
+and a founding member of the Luxembourg Finance
+Labelling Agency (LuxFlag). We work in close partnership
+with the government in Luxembourg to ensure continued
+support and sustainable growth in the capital markets.
+In 2017, through in close collaboration with the government,
+we played a key role in the creation of the National
+Plan for Sustainable Development, the blueprint for
+Luxembourg’s sustainable finance strategy culminating
+in the development of the Luxembourg Sustainable
+Finance Roadmap.
+Luxembourg Stock Exchange | Guide to ESG Reporting 9
+2 What is ESG and
+why it is important?
+10 Luxembourg Stock Exchange | Guide to ESG Reporting
+In 2018, nine volunteers representing different levels and departments
+of LuxSE were tasked with identifying the values that define LuxSE.
+The result was the adoption of the following four core values:
+Excellence, Transparency, Innovation and Commitment.
+For the purpose of this Guide, the term ESG is seen as encompassing
+the broad set of environmental, social and governance considerations
+that play a role in an organisation’s ability to execute their business strategy,
+track performance and create value. While ESG factors are at times referred
+to as "non-financial" or "extra-financial", they are intrinsically material
+to every business in different ways. In fact, their level of materiality depends
+on many variables as they have a direct impact on the following criteria:
+− Access to capital
+− Cost savings and productivity
+− Risk management
+− Alignment to future markets
+− Revenue growth and market access
+− Brand value and reputation
+− License to operate
+− Human capital
+− Employee retention and recruitment
+− Company value as an acquisition target
+− Ability to acquire other high-quality companies
+In 2015, the United Nations (UN) adopted the 2030 Agenda for Sustainable
+Development and its 17 Sustainable Development Goals (SDG) 1
+,
+which constitute a clear map and timetable for action on the world’s most
+pressing challenges. In order to thrive, businesses should have a vital interest
+in ensuring that the SDGs are delivered. Assessing and disclosing how
+businesses’ operations and value chains positively or negatively impact
+the achievement of the SDGs can, among others, help businesses better
+manage risks and opportunities and engage stakeholders. The SDGs are also
+becoming increasingly important for investors, as they are "an articulation
+of the world’s most pressing environmental, social and economic issues and,
+as such, act as a definitive list of the material ESG perspectives that should
+be taken into account" 2
+.
+1 Learn more about the SDG here: https://www.un.org/sustainabledevelopment/sustainable-development-goals/
+2 See the "SDG Investment Case" https://www.unpri.org/download?ac=5909
+Luxembourg Stock Exchange | Guide to ESG Reporting 11
+5 000 000
+4 000 000
+3 000 000
+2 000 000
+1 000 000
+0
+2013 2015 2017
+2 646 346
+1 900 040
+4 239 932
+3 Why report on ESG?
+3.1 Meeting investor interest in ESG factors
+A large and growing proportion of assets
+managed globally are with asset
+managers and asset owners who are
+incorporating ESG considerations
+into the investment process. Proxies
+of the growing interest in the field of
+sustainable finance are the UN Principles
+for Responsible Investment. This global
+coalition of institutional investors has
+now expanded to over 2000 signatories,
+representing over USD $86 trillion
+of assets under management (2019).
+For all investors in the value chain,
+ESG information provides insight into
+the quality of management and the
+environmental and social impact
+of financed activities 3
+. Access to ESG
+information also helps them better
+forecast performance, risks and
+opportunities which is thanks to a more
+comprehensive view of a company
+or financial instrument. Effective analysis
+of relevant ESG opportunities and risks
+has become a fundamental part of
+assessing the value of an investment
+for many investors. Three in four investors
+take these issues into account in their
+investment analysis. This means that
+today, most EU-based asset managers
+use some form of ESG integration
+in their portfolio with this strategy growing
+by 123% in the past 4 years 4
+. This is why
+investors are asking companies, asset
+managers and issuers of sustainable
+financial instruments to communicate
+on how they are managing ESG-related
+opportunities and risks and integrate
+them into their management decisions.
+What is key for these investors is being
+able to find transparent, comparable and
+qualitative information on the companies
+they want to invest in.
+3 Principles for Responsible Investment
+4 According to the Eurosif Study 2018, ESG integration totals over €4 trillion AuM, representing the third SRI strategy in terms of popularity.
+ESG Integration growth over the last three surveyed years.
+We noticed a 123% growth rate in this strategy,
+but it remains difficult to decipher the level of the final impact
+for the final investments.
+12 Luxembourg Stock Exchange | Guide to ESG Reporting
+Good business is about delivering value to customers
+and shareholders, offering great careers to employees,
+whilst ensuring you understand and appropriately
+improve your wider environmental and social footprint.
+You cannot do that in secret, you must share your
+challenges, plans and performance with stakeholders
+and be open to their feedback, be it positive or
+challenging. That is what ESG reporting is all about;
+knowing what to say, how to say it, and ensuring
+the information is accessible. These guidelines brilliantly
+help us navigate that complexity.
+Alan Knight,
+General Manager, Corporate Responsibility
+Arcelor Mittal
+Hermes is a founding member of the Principles
+for Responsible Investment (PRI) where members
+collectively represent US$86 trillion of assets under
+management. Our foresight in the importance
+of ESG and stewardship for investment is evident
+through our early commitment to this journey.
+13 years on, we believe that it is necessary but not
+sufficient if companies consider ESG only from the risk
+management perspective. We believe that companies
+should have a business purpose that serves societal
+good, with clear business objectives that are supportive
+of the UN Sustainable Development Goals (SDGs).
+These companies may have listed equities and/or
+bonds. We commend the LuxSE’s dedication and efforts
+in educating companies on these topics.
+Through this guide and the referenced materials,
+we expect companies to be well equipped for
+constructive dialogue on the material ESG and SDG
+issues with their investors. Together, our common goal
+is to create long term value for stakeholders
+of companies, the environment and the society.
+Dr. Christine Chow,
+Director of Engagement
+Hermes Investment Management
+Luxembourg Stock Exchange | Guide to ESG Reporting 13
+3.2 Getting ahead of policy and regulatory developments
+Governments around the world are responding
+to demands 5
+ for high-quality corporate reporting
+on ESG information with the aim of improving disclosure.
+According to the PRI Global Guide to Responsible
+Investment regulation published in 2016, there are
+39 international governments which mandate some
+form of ESG disclosure for issuers 6
+. In the EU, legislators
+have started requiring large companies to disclose
+information on the way they operate and manage social
+and environmental challenges. This was also done
+to help investors, consumers, policy-makers and other
+stakeholders to take into account the non-financial
+performance of large companies, while promoting
+the development of a responsible business model.
+Directive 2014/95/EU on the disclosure of non-financial
+and diversity information (NFD) requires certain large
+companies to disclose relevant non-financial information
+in order to provide investors with more granular
+information on their development, performance,
+position and the impact of their activity. The targets
+are large public-interest companies with more than
+500 employees, which make up around 6000 large
+companies and groups across the EU, spanning from
+any listed companies, banks, insurance companies and
+other enterprises designated as public-interest entities.
+In 2017, the EC also produced a set of non-mandatory
+guidelines to "help companies disclose environmental
+and social information" 7
+. As part of its Sustainable Finance
+Action Plan, released in 2018, the EC set itself the target
+to review the guidelines for company reporting
+on climate-related information. For this reason,
+in the first half of 2019, the EC launched a consultation
+which proposed new ways to assess how climate
+change can impact the financial performance
+of companies as well as showing how companies
+can have positive and negative impacts on the climate.
+This step is a follow-up to the report issued by the TEG
+on 10 January 2019, as part of its mandate to "develop
+climate-related metrics in the context of its work on
+an EU taxonomy allowing improving disclosure on climaterelated information and publish the outcome in a report 8
+."
+The increasing emphasis on reporting, accountability
+and transparency goes hand-in-hand with the
+EC Sustainable Finance Action Plan, which represents
+the foundations of its vision of a sustainable Capital
+Markets Union.
+The Action Plan outlines the EC’s vision of reform
+in three areas:
+1 Reorienting capital flows towards sustainable
+investment, in order to achieve sustainable
+and inclusive growth
+2 Incorporating sustainability into risk management
+3 Fostering transparency and long-termism in financial
+and economic activity
+5
+ See, for example, recommendation 3 in OICU-IOSCO’s final report on “Sustainable finance in emerging markets and the role of securities regulators”
+6
+ PRI (2016): Global Guide to Responsible Investment Regulation
+7
+ For details, please see https://ec.europa.eu/info/business-economy-euro/company-reporting-and-auditing/company-reporting/non-financial-reporting_en
+8
+ TEG on Sustainable Finance: report on climate-related disclosures https://ec.europa.eu/info/publications/190110-sustainable-finance-teg-report-climate-related-disclosures_en
+14 Luxembourg Stock Exchange | Guide to ESG Reporting
+Implementing any of these Action Plan points will
+require stakeholders to review and act on ESG
+information. It is foreseen that ESG information will
+be relevant in relation to disclosure, benchmarking,
+risk management and client advice, as well as being
+required to be considered for corporate governance
+decisions. Organisations who set themselves up early
+to capture ESG information relevant to management
+decisions will be in a good position to understand
+forthcoming regulation ahead of others and take
+advantage of the opportunities these represent. It will
+also attract the interest of responsible and long-term
+investors therefore putting these organisations in an
+even stronger position. With respect to the proposed
+EU regulation on disclosures relating to sustainable
+investments and sustainability risks in particular 9
+,
+not only organisations but also financial market
+participants shall have to specify in their policies how
+they integrate sustainability risks. Where they do not
+take into account the adverse impacts of investment
+decisions on sustainability factors, they shall publish
+clear information on why they do not, including where
+appropriate, information whether and when they
+intend to take these negative impacts into account.
+This can relate to, for example, disclosure of corporate
+governance information (in relation to remuneration
+policies), sustainability risk management policies and
+a description of the risks identified. Organisations
+will find it helpful to consult this LuxSE Guide to ESG
+Reporting to enable them to do so.
+In addition to regulation on corporate reporting, policymakers are increasingly asking investors to improve
+their engagement with investees and their integration
+of ESG issues in their investment decisions. The graph
+below represents policies put in place by the largest
+50 economies in the world that cover either pension
+fund regulation, stewardship codes or corporate
+ESG disclosure requirements.
+400
+350
+300
+250
+200
+150
+100
+50
+0
+1946 1956 1966 1976 1986 1996 2006 2016
+9 https://ec.europa.eu/info/law/better-regulation/initiatives/ares-2017-5524115_en#pe-2018-3336
+Source: PRI Responsible Investment database
+ESG information
+will be relevant
+in relation to
+disclosure,
+benchmarking,
+risk management
+and client advice
+NUMBER OF POLICY INTERVENTIONS (counting individual revisions separatly)
+Luxembourg Stock Exchange | Guide to ESG Reporting 15
+3.3 Strengthening financial performance
+A growing number of studies make a case for organisations
+to fully integrate sustainability into their business strategy
+and investment decisions. The evidence suggests that
+wealth creation is not sacrificed in the process of adopting
+environmentally and socially responsible policies,
+and that strong performance on ESG factors correlates
+positively with improved cost of capital and financial
+performance. 10 A 2016 study suggests that organisations
+that perform well on material ESG factors significantly
+outperform peers with poor performance on the same
+issues11. Reporting on how sustainability initiatives are
+linked to strategy, financial performance and valuation
+provides important benefits. Some organisations
+measure sustainability impacts on future cash flows
+and weighted average cost of capital. Integrating
+sustainability into company valuation will assist
+in communicating on how an organisation is addressing
+the world’s most pressing challenges; from poverty
+and education, to climate change and biodiversity.
+Addressing these challenges promotes more prosperous
+economic systems that benefit all participants and
+create more stable and resilient markets.
+3.4 LuxSE Guide to ESG Reporting
+Mainstreaming ESG considerations into an organisation’s
+procedures and decision-making is a transformative
+exercise. New risks need to be identified and managed,
+and new opportunities to be discovered. Until an
+organisation is ready to embark on this journey,
+it will need to take stock of its current procedures,
+products and activities in order to identify how far ESG
+considerations are presently addressed before being
+in the position to define the shortcomings that it wishes
+to ameliorate. Committing to ESG integration will result
+in capturing new data, changing existing processes
+and engaging with new stakeholders. This process will
+differ from organisation to organisation and is, to a degree,
+a highly individual exercise. However, there are key
+parameters that certain groups of stakeholders can
+expect to be confronted with.
+For this Guide, we have identified three key group
+users for whom developing consistent and
+well-structured ESG reporting is most important:
+1 Companies
+2 Issuers of debt instruments
+3 Asset managers
+These three group users differ in their reporting
+requirements and in their needs surrounding
+ESG reporting. Nevertheless, their work in this area
+contributes to the quality of each other’s output
+and final goal. A company’s clear definition of an
+ESG strategy and reporting will be appealing for
+investors who intend to select for their portfolios,
+companies who are able to report on these criteria
+and who manage to demonstrate their added value
+in this respect. Issuers of debt instruments, such as green,
+social and sustainability bonds have to commit
+to some degree of reporting in order to adhere
+to standard market practice12. For sustainable (ESG)
+funds, asset managers mostly choose to report how
+they take ESG criteria into account in their governance
+and fund management, in order to align with market
+expectations. The LuxSE requires ESG disclosure from
+companies that are listed on the regulated market,
+while LGX requires the reporting associated to displayed
+sustainable financial instruments. Investors can access
+this ESG database via our LGX platform, the one-stopshop for sustainability documentation.
+This LuxSE Guide to ESG Reporting therefore contains
+the following sections:
+» Section 4 which outlines how companies should
+report on ESG
+» Section 5 which outlines how and on what issuers
+of sustainable financial debt should consider to report
+» Section 6 which provides information on ESG reporting
+for asset managers.
+10 Eccles, R. G., Ioannou I., Serafeim, G. 2014. "The Impact of Corporate Sustainability on Organizational Processes and Performance". Management Science, Vol. 60, No. 11, pp. 2835–2857.
+11 Khan, M., Serafeim, G., Yoon, A. 2016. "Corporate Sustainability: First Evidence on Materiality". The Accounting Review, Vol. 91, No. 6, pp. 1697-1724.
+16 Luxembourg Stock Exchange | Guide to ESG Reporting
+Luxembourg Stock Exchange | Guide to ESG Reporting 17
+4 Companies
+How to report on ESG
+18 Luxembourg Stock Exchange | Guide to ESG Reporting
+There are nine key points that companies should
+address when preparing an ESG report:
+Defining roles for the 1 preparation of the report
+5
+3
+7
+2
+6
+4
+8
+9
+Identifying and understanding
+the audience
+Collecting data for the report
+Aligning the report with
+the corporate strategy
+Identifying the themes
+and defining a materiality matrix
+Identifying the format
+and communication channels
+Engaging stakeholders
+Assessing the relevance
+of the performance indicators
+Considering internal audit
+and external assurance
+Luxembourg Stock Exchange | Guide to ESG Reporting 19
+4.1 Assigning roles for the preparation of the report
+The initial stages of report preparation provide
+the opportunity to determine who within the company
+is best placed to be involved in creating the report.
+As a practical first step, it is useful to determine the
+roles, responsibilities and capabilities within a company
+that are relevant to ESG reporting. This includes
+identifying appropriate persons and defining how
+they coordinate their work. Senior management
+can take the lead by demonstrating commitment
+to high-quality reporting and providing strategic input
+into – the overseeing of – the process. Other managers
+within the organisation may also play a leading role.
+Countless companies began reporting from the bottom
+up and evolved toward full buy-in at the highest
+level. Different departments such as finance, investor
+relations, communications, legal and sustainability
+need to be involved to ensure their vision and input
+is integrated into the report. Any team working on ESG
+reporting should have access to input from across the
+functional divisions of a company, as different functions
+within the company may be engaging with different
+stakeholders and managing varying material issues.
+A company’s board of directors will also play an
+essential role in the integration and oversight of this
+report. As the board of directors holds the responsibility
+for oversight of the strategic direction of a company,
+integrating ESG considerations into the company’s
+strategy should fall under its role. It is therefore
+worthwhile for companies to define their ESG rationale
+and objectives with their board of directors. This would
+provide governance mechanisms for addressing ESG
+factors at all levels of the organisation. By embedding
+ESG into their core duties, directors can position
+themselves in order to ensure the mainstreaming of ESG
+factors into business strategy, organisational culture and
+operational practices in a way that supports the long-term
+profitability and viability of the company.
+Boards may find it beneficial to issue
+a statement setting out:
+» The role of different stakeholders
+» The ESG factors selected and how they were selected
+» How the board and/or board committees (e.g., audit,
+risk, or other committees) are informed about
+ESG-related issues
+» How these issues are embedded in the organisation’s
+strategy, including risk management policies,
+budgeting, etc.
+» The time frame for these judgments, as they might
+change over time
+» How the board reviews progress against goals
+and targets13
+Developing such a statement is also an opportunity
+for the board to reflect on the company’s role in society
+and its contribution to sustainable development. It can
+provide transparency regarding the board’s position on,
+and oversight of, the company’s ESG opportunities
+and risks. It also strengthens the company’s credibility
+when communicating on ESG factors.
+The board members’ commitment to reporting on ESG
+factors lends credibility to a company’s claims about
+its ESG engagement and performance. It indicates
+that opportunities and risks are adequately dealt with
+at the highest level, and is therefore a proxy for overall
+good governance. In order to evaluate the quality
+of management, many investors examine not only
+ESG performance and the quality of disclosures,
+but also the governance or management of these
+issues by executive teams.
+13 WFE. 2018. WFE ESG Guidance and Metrics.
+20 Luxembourg Stock Exchange | Guide to ESG Reporting
+4.2 Aligning the report with corporate strategy
+High-quality corporate reporting can help a company
+address various goals related to internal and
+external stakeholders and impact decision-making;
+particularly the decision-making process of investors.
+While reporting provides information that is useful
+for stakeholders’ decision-making, the process
+of compiling this information can also strengthen
+internal reporting systems, which are beneficial to the
+management of a company. As such, there is a need
+for clear links between strategic goals, the business
+model, risks, opportunities, operational indicators
+and financial performance. With strong connections
+between each of these areas, a company’s ability
+to identify and manage risks, evaluate and measure
+success, as well as identify future challenges and
+opportunities will be improved.
+Moreover, research published in 2017 suggests
+that information presented in ESG reports should
+correspond to the information used by managers
+to make business decisions in order to be better
+perceived by those outside of the company14.
+Based on the recommendations of the Task Force
+on Climate-related Financial Disclosures (TCFD),
+issuers should show the possible impact of selected
+ESG issues on:
+» Products and services
+» Supply chain and/or value chain
+» Investment in research and development
+» Operations (including types of operations
+and location of facilities)
+13 WFE. 2018. WFE ESG Guidance and Metrics.
+14 Bradford, M., Earp, J. B., Williams, P. F. 2017. "Understanding sustainability for socially responsible investing and reporting". Journal of Capital Markets Studies, Vol. 1, No. 1, pp.10-35.
+15 Callan. 2018. 2018 ESG Survey.
+According to a KPMG Survey of Corporate
+Responsibility Reporting, 78% of the world’s
+largest companies now integrate financial and
+sustainability data into their annual financial
+reports which suggests that they believe ESG
+information is relevant for investors. In addition,
+Callan’s 2018 ESG survey has found that 72%
+of large funds have incorporated ESG factors
+into their investment decisions15.
+78%
+Luxembourg Stock Exchange | Guide to ESG Reporting 21
+4.3 Engaging stakeholders
+Active engagement of stakeholders on ESG factors is
+a clear indicator of good practice towards any relevant
+risk management and mitigation activity. Stakeholder
+engagement can also be a source of innovation,
+future opportunities and new partnerships that fuel
+strategic growth. Disclosing a company’s engagement
+process can help investors understand if and how
+well a company is integrating ESG opportunities
+and risks into planning and operations, as well as lend
+credibility to company’s claims about leadership
+in ESG performance.
+Systematic stakeholder engagement enhances
+receptivity and the usefulness of corporate ESG
+information. When executed correctly, stakeholder
+engagement is likely to result in improved
+understanding of a company’s strategic partners and
+resources, stronger relationships with stakeholders and
+the fostering of higher levels of trust among external
+parties regarding the company’s actions and reporting.
+Understanding the needs of the stakeholders is key in
+the definition of the materiality matrix which will serve
+as the basis for the ESG report.
+4.4 Identifying and understanding the audience
+As investors are a key audience for ESG disclosures,
+companies should make sure they provide information
+that is relevant to their decision-making. While all can
+benefit from ESG information, different investors might
+have different needs when it comes to this information.
+To address expectations correctly, companies might
+ask themselves the following questions:
+» Who are the company’s top investors?
+» What kind of investors would the company like to have?
+» How has the company engaged with relevant
+investors to find out what they are interested in?
+For instance, investors with a long-term investment
+horizon, such as pension funds, may be particularly
+interested in information regarding risks that may
+include how climate change may affect the company
+in the medium- or long-term.
+It is important to address these considerations early
+in the reporting process as they will help to define
+the content, scope and format of the report, as well as
+engagement efforts. Investors are also interested in how
+a company communicates with other key stakeholders
+who can have a material impact on company
+operations (e.g. employees, consumers, civil society,
+governments). Investors recognise that a company’s
+ability to create value in the long-term depends on its
+interactions with its stakeholders and use of resources.
+22 Luxembourg Stock Exchange | Guide to ESG Reporting
+100%
+80%
+60%
+40%
+20%
+0%
+Tangible
+Assets
+Intangible
+Assets
+83%
+17%
+68%
+32%
+32%
+68%
+20%
+1975 1985 1995 2005
+80%
+16%
+2015
+84%
+4.5 Identifying the themes and defining a materiality matrix
+An effective report covers ESG considerations that are
+relevant to the business strategy and illustrates the
+link to both long-term and short-term value creation.
+Thinking through each piece of a company’s value chain
+can help develop a comprehensive understanding
+of the ESG themes that may be relevant for disclosure.
+Additionally, it is often helpful to reflect on the risks
+discussed in the company’s annual management reports,
+as well as themes reported by peers. Companies can
+also use a variety of national and international resources
+to develop an initial list of ESG themes, whether these
+themes are generic or sector-specific. For example,
+a company can use the UN Global Compact’s 10 Principles
+and its Basic Guide for reporting on environmental, labour,
+human rights and anti-corruption issues16.
+The increase in the valuation of ESG criteria has developed
+in parallel with the general increase in intangible asset
+evaluation. An S&P 500 evaluation in 2015 found their total
+value was at 84%, registering a staggering 52% growth
+since 198517.
+Companies may also benefit from further exploration
+of intangible assets. One of the leading intangibles
+for many firms is human capital. Good ESG practices
+are recognised as key drivers of employee attraction,
+motivation and retention18. Another example of an
+intangible asset is brand image. Again, good ESG
+practices influence consumers’ interest in products
+and services and enhances the company’s legitimacy
+in the eyes of governments and local communities.
+Another relevant element of company value is tied
+to "natural capital", which relates to the raw material
+inputs and others provided by, or depending on,
+environmental processes. Companies are being
+increasingly challenged by risks such as resource
+depletion, species loss and climate change impacts.
+As a result, better management of natural capital
+is believed to have an impact on companies’ bottom
+lines and long-term viability.
+The materiality of information and its relevance to the
+users of the report is a key consideration in determining
+the scope and content of the company’s report.
+With a wide range of potential ESG opportunities
+and risks, the accounting and legal construct of
+materiality is increasingly used to identify and prioritise
+the matters covered in the report. The International
+Accounting Standards Board (IASB) defines information
+as "material" if its omission or misstatement could
+influence the users’ economic decisions taken based
+on the financial statements.
+16 Similarly, for businesses looking to identify relevant SDG targets to report on, the UN Global Compact, GRI and PRI report "In Focus: Addressing Investor Needs in Business
+Reporting on the SDGs" source: https://www.unglobalcompact.org/library/5625
+17 Ocean Tomo (2015): Annual Study of Intangible Asset Market Value
+18 Deloitte. 2018. 2018 Deloitte Millennial Survey
+COMPONENTS OF S&P 500 MARKET VALUE
+Luxembourg Stock Exchange | Guide to ESG Reporting 23
+Different organisations (Sustainability Accounting
+Standards Board (SASB), Global Reporting Initiative (GRI),
+International Integrated Reporting Framework (IIRR))
+have different interpretations and recommendations
+on how the concept of materiality could be applied
+to reporting on ESG considerations. Likewise, different
+stakeholder groups have differing views on which ESG
+factors are material for a company. The interpretations
+of materiality differ most in terms of the topics that are
+considered relevant.
+Identifying relevant issues is a starting point for identifying
+material factors. Information is "relevant" when it
+influences the opinion or decision of users by helping
+them to evaluate past, present or future events, or by
+confirming or correcting their past evaluations. As such,
+understanding the reporting audience is critical when
+determining what information should be included in a
+report. It can be useful to gauge how much an issue may
+affect the company’s ability to create value over time.
+In addition to material ESG information, a company
+may decide to report on other elements that do not
+meet the threshold for materiality, but could be relevant
+to the company’s operational and/or reputational
+performance. For example, a company’s perspective
+on what is material to investors may differ from what
+is significant to society. Therefore, one company may
+decide to report only on material information, whereas
+another may report on all the information it deems
+significant to its stakeholders. As investors increasingly
+understand how business-critical operations are
+being affected by a variety of ESG factors, the range of
+information considered relevant and material by existing
+definitions is widening. Whether companies decide
+to apply a strict interpretation of materiality when
+considering which ESG information to report, or they
+take a wider view, they should clearly articulate how the
+concept of materiality has been applied.
+4.6 Assessing the relevance of performance indicators
+Once a company has established which ESG themes to
+report on, it can begin to disclose specific performance
+indicators to demonstrate progress. These indicators
+may be generic, industry-specific or company-specific.
+It is recommended that companies use widely
+accepted indicators developed via a credible process.
+The GRI, for example, produces the most widely used
+set of indicators for corporate sustainability reporting
+with detailed guidance on their application. Another
+useful resource is the TCFD Implementation Guide19
+which was designed to foster improved reporting of
+climate-related information. This Implementation Guide
+aims to help companies to enhance the robustness,
+consistency and utility of their climate disclosures by
+applying the disclosure guidance offered by the SASB
+and Climate Disclosure Standards Board (CDSB).
+This application of the TCFD, SASB and CDSB standards
+should help companies to craft disclosures in harmony
+with the TCFD’s principles-based framework and the
+disclosure principles offered by the SASB and CDSB.
+When reporting on these indicators, investors
+appreciate information that appears in the appropriate
+context, including comparisons to:
+» Historical company and industry trends
+» Related corporate goals
+» Relevant ratios
+» Industry averages
+» Financial results/performance
+As investors seek to understand how ESG information is
+linked to the company’s business strategy and financial
+performance, quantitative data is in high demand.
+This data allows for comparisons to be made over
+different time periods within the firm or with similar
+data from other companies. Such data is also useful for
+enhancing investment valuation and credit rating models.
+To effectively use indicators, companies can:
+» Consult nationally or internationally recognised
+reporting guidelines and protocols for measuring
+in order to prepare and present ESG metrics and
+to improve the quality of a company’s disclosure.
+» Explain why indicators increased or decreased
+year-to-year, the company’s perception of this
+and how this might change in the future.
+» Explain methodologies for data collection in the
+report, along with reasons why they were used.
+» Supplement qualitative narratives with quantitative
+data, benchmarks and targets (or vice versa).
+» Explain the link between ESG metrics and financial
+performance by demonstrating how ESG initiatives
+drive growth, productivity and risk management in
+monetary terms, where possible.
+» Report on challenges and mistakes as well as
+accomplishments. Moreover, in many jurisdictions,
+information on regulatory infractions or penalties is
+readily available. If stakeholders have access to this
+information and do not see it in corporate reporting,
+it diminishes the credibility of the corporate report.
+Investors understand that no company has a perfect
+record on every issue; an honest discussion builds
+rapport with shareholders and other stakeholders and
+often wards against more aggressive engagement.
+19 Published by the Climate Disclosure Standards Board and the Sustainability Accounting Standards Board.
+24 Luxembourg Stock Exchange | Guide to ESG Reporting
+4.7 Collecting data for the report
+Better data leads to better decision-making and performance. First, it is useful to assess the capabilities of existing
+internal systems in order to collect concise, reliable and complete ESG data. Rather than creating completely new
+channels, companies can make use of existing internal audit, risk and data control verification systems. If internal
+systems are not currently sufficient for the task, a company may decide it is in its long-term interest to invest
+in building better capacity in this area. If data collection gaps are identified, companies can highlight and explain
+them in their reports.
+Luxembourg Stock Exchange | Guide to ESG Reporting 25
+4.8 Identifying the format and communication channels
+The right disclosure channels ensure that investors
+receive relevant, easily accessible, comparable
+and timely information. Companies should be familiar
+with their target audiences’ preferred ESG information
+sources and update them with timely and accurate
+news regarding their performance.
+To accommodate diverse information needs and
+interests, companies can use different communication
+channels, including websites, regulatory filings, annual
+reports, sustainability reports and other company reports.
+Using more than one communication channel can be an
+effective way to ensure that the entirety of a company’s
+target audience receives the necessary information.
+To make the information more accessible to international
+investors, companies may also wish to disseminate their
+ESG information in a language widely spoken throughout
+the world in addition to a national language.
+The channels for ESG disclosure also depend on
+a company’s regulatory context as well as its business
+and communication strategy. Securities regulations
+and/or listing rules may require a company to integrate
+financially material ESG information into its financial
+disclosures and other mandatory investor communications
+and regulatory filings. Similarly, given a company’s
+own analysis of information needs and expectations,
+it may decide to include certain ESG information
+in the company’s financial disclosure even if not required.
+Regardless of the format, there are a few overarching
+practices to keep in mind:
+» If sustainability disclosure is separate from financial
+disclosure, it is recommended that both types
+of disclosure cover the same reporting period.
+This will allow investors to consider financial
+information within the context of ESG information.
+Cross-references within these documents ensure
+connectivity and accessibility of information.
+» It is important to ensure consistency among the
+different communication channels. For example,
+a company should use one channel to emphasise
+the critical nature of an issue to its business
+and then fail to discuss that issue on another
+communication channel.
+» The information has to be easy to find therefore
+a company may produce an online content index
+with hyperlinks to boost digital accessibility and
+indicate where to find existing ESG information.
+» Overall, reporting is most effective when the language
+used, and the way the information is presented,
+is clear and relevant to investors and connects
+to a company’s ability to create value in the short-,
+medium- and long-term.
+» Principle 9 of the "Ten Principles of Corporate
+Governance" of the LuxSE requires that the concerned
+companies present CSR information in a dedicated
+report or within their management report either
+in a specific section or in an appendix relating
+to sustainable development.
+STAND-ALONE
+SUSTAINABILITY REPORTING
+FINANCIAL REPORTING WITH
+MATERIAL ESG FACTORS
+INTEGRATED
+REPORTING
+Sustainability reports address the
+relevant ESG information needs
+of investors and sometimes other
+stakeholders, such as consumers
+and the civil society.
+After a company decides that
+certain ESG factors are material
+to its business over a specific length
+of time, it may decide to include
+this information in its financial
+reports. These will likely cover
+a smaller set of ESG factors than
+the other options listed.
+An integrated report is a concise
+communication on how an
+organisation’s strategy, governance,
+performance and prospects, in the
+context of its external environment,
+lead to the creation of value over
+the short-, medium- and long-term.
+Illustrated below are three examples of communication channels a company
+may consider. Note that these are not mutually exclusive. As mentioned above,
+many companies pursue a collection of complementary reporting channels
+and the processes to create one can feed into another.
+26 Luxembourg Stock Exchange | Guide to ESG Reporting
+Public
+News
+Oicially
+Appointed
+Mechanism
+Regulatory
+Authority
+ESG reports publication and dissemination via FIRST
+At LuxSE we are committed to promoting and integrating
+ESG/sustainability matters across our business lines
+which include listing, trading and information services.
+In order to motivate companies to publish their ESG/
+sustainability reports, we have developed a dedicated
+feature for the Financial News Service (FNS) within
+our Financial Instruments Reporting Services Tool (FIRST).
+Issuers are now able to publish their reports on our website,
+link them to their issuer cards and simultaneously
+distribute them to data vendors and media.
+This new feature allows companies to reach a wider
+audience and be discovered by ESG focused investors
+while keeping ahead of regulations on the disclosure
+of non-financial information.
+FIRST has been developed to allow organisations
+to fully comply with reporting requirements. This is done
+by providing a simple solution to publishing regulated
+information and disseminating other announcements,
+making information available for storage in the Officially
+Appointed Mechanism (OAM) and filing regulated
+information with the competent authorities. It is thereby
+a single portal for publishing, disseminating and filing
+information and allows for the fast and easy completion
+of report publication. Further information on how to use
+FIRST can be found on: www.bourse.lu/first.
+4.9 Considering internal audit and external assurance
+ESG reports are made more credible through strong
+internal assessment processes and/or external
+assurance, if resources permit. An internal audit
+committee or group of individuals, independent
+of the division tasked with measuring and gathering
+the information, can review the disclosure as well as
+the internal process and procedures. An internal audit
+can also ensure that internal data collection systems
+are robust and organised.
+Interest in externally assured ESG disclosure, along
+with the development of accompanying assurance
+standards, has been driven by investor requests
+to bring ESG information up to financial grade reporting.
+External assurance can lend an added degree of trust,
+credibility and recognition, in the same way that financial
+auditing does. Accounting, engineering and specialist
+service firms are the most common third-party
+assurance providers. In order to decide the type
+and level of assurance desired, companies should
+consider recommended standards for assurance
+within their sector, as well as stakeholder expectations.
+As a resource in addition to this chapter, Appendix A
+includes a set of helpful questions that companies
+can use to guide their ESG report preparation.
+20 As required for issuers whose transferable securities are traded on a regulated market and are within the remit of the Luxembourg competent authority, the Commission
+de Surveillance du Secteur Financier (CSSF).
+Luxembourg Stock Exchange | Guide to ESG Reporting 27
+5 Issuers of sustainable
+debt instruments
+28 Luxembourg Stock Exchange | Guide to ESG Reporting
+The EC has estimated the size of the efforts needed to decarbonise the
+European economy and meet the objectives of the Paris Agreement on climate
+change to be at 180bn euros of additional investment every year until 203021.
+There is a strong need for the private sector to be mobilised and play an active
+role in the climate economy. In relation to the huge challenge and opportunity
+this financing need represents for the debt market, various stakeholders
+of the financial markets increasingly require issuers of sustainable financial
+instruments to be transparent regarding their activities in order to allow
+investors to track the ESG progress and impact of their investments.
+For this reason, reports that, for example, detail the bond proceeds allocated
+to ESG assets and activities and the relating environmental impact achieved,
+are a fundamental resource for financial decision-makers. Such information
+allows these decision-makers to track the use of their investments and,
+in cases, their investments’ environmental performance. It is therefore
+important that issuers of green, social and sustainable debt instruments
+prepare these documents and make them available to investors and the public
+so that they can make decisions on this basis.
+This section will provide guidance on how to establish relevant ESG reporting
+and what to report on, so that issuers of debt instruments can successfully
+take advantage of the opportunities presented by the green, social and
+sustainable debt market.
+The below guide focuses on advising bond issuers on the ESG reporting
+framework for green, social and sustainability bonds. For guidance
+on an issuer’s company-level ESG reporting, please consult Section 4.1.
+There are six key topics to be taken into account for effective ESG reporting:
+1 Identifying and defining ESG activities and strategies
+2 Defining ESG procedures and disclosing information pre-issuance
+3 Evaluating relevant reporting categories and performance indicators
+4 Taking stock of internal data processes and collecting data
+5 Deciding on the best format and reporting period for publication
+6 Considering external assurance
+21 EC (2018): EU Climate Action: https://ec.europa.eu/clima/citizens/eu_en
+Luxembourg Stock Exchange | Guide to ESG Reporting 29
+5.1 Identifying and defining ESG activities and strategies
+Before reporting on their ESG activities, issuers of
+sustainable financial products need to identify or
+define which of their activities can be classified as
+being, or supporting, an ESG activity. For bonds, this
+usually involves identifying which of the use of proceeds
+can be classified as contributing to ESG outcomes.
+Prospective green, social or sustainability bond issuers
+(henceforth referred to as "issuers"), typically already
+engage in activities which are subsequently identified
+as ESG-eligible. Such stakeholders can use established
+market standards, such as the ICMA Green and Social
+Bond Principles and Sustainability Bond Guidelines 22 as
+guides to establish whether or not their activities can
+be seen as eligible to receive the proceeds of a green,
+social or sustainability bond. If the bond will be of a social
+nature, the issuer will need to define the population that is
+being targeted to receive the social benefits of this bond.
+In addition, if the activities can be seen as
+contributing to the mitigation of climate change (such
+as investments in renewable energy, energy efficiency
+or clean transportation), the issuers can utilise the
+CBI Climate Bond Standard (CBI CBS) or the EU
+taxonomy to further guide their assessment of whether
+or not their activities align with the general market
+definition of "green". These documents contain more
+detailed sector criteria as to what constitute green
+activities (in cases on the basis of quantitative
+metrics), in particular helping organisations that have
+access to relevant activity data to identify which of
+their activities can be classified as eligible to receive
+the proceeds of green bonds 23 24.
+GREEN ELIGIBLE
+ACTIVITIES
+SOCIAL ELIGIBLE
+ACTIVITIES
+SOCIAL TARGET
+POPULATION
+Renewable energy Affordable basic infrastructure Living below the poverty line
+Energy efficiency Access to essential
+services
+Excluded and/or
+marginalised populations
+Pollution prevention
+and control
+Affordable housing Vulnerable groups
+Sustainable Management of living
+natural resources and land use
+Employment generation People with disabilities
+Biodiversity conservation Food security Migrants and/or displaced
+persons
+Clean transportation Socioeconomic advancement and
+empowerment
+Undereducated persons
+Sustainable water
+and wastewater management
+Underserved persons
+Climate change adaptation Unemployed persons
+Eco-efficient and/or circular
+economy adapted products,
+production and processes
+Green buildings
+The following use of proceeds categories are outlined in the Green Bond Principles
+and the Social Bond Principles (as reflected in the Sustainability Bond Guidelines):
+22 Green Bond Principles (2018), Social Bond Principles (2018), Sustainability Bond Guidelines (2018)
+23 Climate Bond Initiative: Climate Bond Standard https://www.climatebonds.net/standard/sector-criteria
+24 EU Technical Expert Group Technical Report on the EU taxonomy
+30 Luxembourg Stock Exchange | Guide to ESG Reporting
+5.2 Defining ESG procedures and disclosing
+information pre-issuance
+To align with standard market practice, issuers of
+sustainable financial products should prepare and
+make available to investors, or the general public,
+documentation that details the characteristics of the
+sustainable financial instrument(s) and the procedures
+employed by the organisation to manage them.
+For issuers of bonds, this typically takes the form
+of a "framework" document, explaining the following
+approaches the organisation is taking:
+» Use of proceeds: The issuer will explain which
+activities and/or projects the proceeds of the green,
+social or sustainability will finance. These are laid
+out to correspond to the eligible activity categories
+identified in step 5.1.
+» Process for project evaluation and selection:
+This section outlines the procedures and bodies
+present in the organisational structure that will
+allow the issuer to identify whether or not an activity
+can be classified as one of the activities eligible to
+receive the green, social or sustainability proceeds.
+» Management of proceeds: This section details how
+the issuer plans to manage the proceeds internally.
+Typical examples include placing the green, social
+or sustainability proceeds into a segregated account
+before allocation, or associating an electronic tag
+to the relevant proceeds via the issuer’s accounting
+system to track the proceeds.
+» Commitment to ongoing reporting: This section
+includes an explicit statement of commitment
+that the issuer will report on the green, social
+or sustainability bond on a typically annual
+and ongoing basis until a specified point in time
+(either full allocation of proceeds or maturity).
+25 LGX analysis on green bond reporting practices (2018)
+26 The commissioning of an external review of the green bond framework and allocation report by an "accredited" party will also be mandatory as per the proposed EU Green Bond Standard.
+27 ICMA’s Guidelines for Green, Social and Sustainability Bonds External Reviews (2018): https://www.icmagroup.org/green-social-and-sustainability-bonds/external-reviews/
+85%
+In addition, 85% of the European
+green bond market 25 commission
+an external party to provide
+assurance that the above
+approaches are aligned with
+standard market practice
+(this majority is reflected in other
+markets as well) 26. Most frequently,
+such assurance is given in the
+form of "second opinions", where
+alignment with market standards
+is assessed. These are typically
+disclosed by the issuer ahead
+of issuing a green, social or
+sustainability bond in order to
+provide investors with third party
+assurance that general market
+practice has been followed. Other
+forms of external reviews include
+ratings, certifications and external
+verification which are explained
+in more detail in ICMA’s Guidelines
+for Green, Social and Sustainability
+Bonds External Reviews (2018) 27.
+Luxembourg Stock Exchange | Guide to ESG Reporting 31
+5.3 Evaluating relevant reporting categories
+and performance indicators
+Once ESG activities or investment strategies have
+been identified, issuers of sustainable financial
+instruments can identify the types of information
+that are descriptive of their ESG activities and,
+in turn, useful for investors to receive reports on.
+At a minimum, investors are interested in the use of
+their ESG-oriented investment. Issuers of sustainable
+financial instruments must, therefore, at the very least,
+be transparent regarding the amount of proceeds
+or portfolio investments that have been allocated
+to finance ESG-relevant activities or are invested in line
+with an ESG-oriented strategy identified in step 5.2.
+For green, social or sustainability bond issuers,
+this relates to indicating the amount of proceeds
+allocated to each eligible sector or each activity
+or projects within an eligible sector.
+Issuers of green, social and sustainability bonds can,
+in addition, provide additional information that
+describes the outcome of the activities financed.
+They may consider reporting on the following to describe
+their activities:
+» Projects: Detailed descriptions of the type of
+assets or project(s) where the proceeds have been
+allocated to. For example, providing a consolidated
+list containing all the relevant projects with common
+financial indicators.
+» Impact: Quantitative information describing the
+environmental positive and/or negative impact of
+the activities financed by the proceeds. This can
+include, for example, indicators that represent
+an absolute figure, or a figure that represents
+incremental change between a previous baseline
+and the current situation (indicating a change over
+time). This information can also be supplemented
+by qualitative information that describes the
+environmental impact of these activities.
+Indicators most commonly chosen to report on
+impact describe energy use or reduction, as well
+as greenhouse gas emissions and reduction
+» Re-financing: In cases where the proceeds are
+to be used to re-finance activities, this indicates
+the share of the overall green or social activities
+dedicated to re-financing.
+» Co-financing: In cases where the proceeds
+are allocated to projects where the issuer is
+a co-financier, this indicates the total share
+of the project that has been co-financed.
+» Type of expenditure: This information would indicate
+the type of expense the proceeds of the bond have
+been allocated to cover. For example, this can either
+be capital expenditure or operational expenditure.
+The issuer may also consider indicating whether the
+expenditures cover tangible or intangible assets.
+» Methodology: Any methodological notes that clarify
+how any of the information contained in the report
+has been compiled.
+Appendix D of this Guide includes a template that green,
+social and sustainability bond issuers can use to report
+on their use of proceeds and the impact of their activities.
+32 Luxembourg Stock Exchange | Guide to ESG Reporting
+5.4 Taking stock of internal data processes and collecting data
+Issuers of sustainable financial instruments need to assess
+whether or not information identified as useful for
+investors (in line with step 5.2) is available for reporting.
+Internal data systems may already capture the required
+information directly or may capture information from
+which the required data can be constructed.
+For example, an issuer of a green bond that provides
+energy efficient mortgages can utilise energy
+performance documentation on the relevant buildings
+financed (as already available to the issuer) to derive
+data on estimated energy reductions achieved.
+By applying standards such as the GreenhouseGas Protocol 28, the issuer can then use this energy
+reductions data to estimate the greenhouse-gas
+reductions achieved. The issuer then has relevant
+impact information which can be disseminated to
+investors. Green bond issuers who do not have any
+environmental impact information available should
+consider capturing data on energy reductions achieved
+through their activities in the first instance, as such data
+is generally available to be captured and can easily
+be used to derive data on greenhouse gas reductions.
+To define the impact of social activities, issuers of
+social bonds should firstly focus on capturing data on
+the number of people within the issuer-defined target
+population that have gained access to the relevant
+social service whether this is in the form of affordable
+housing, healthcare or education.
+5.5 Deciding on the best format and reporting period
+for publication
+It is general market practice for issuers of sustainable
+financial instruments to publish their report to investors
+at least on an annual basis (starting the year following
+the year of the issuance of the sustainable debt product).
+The majority of sustainability market players choose to
+disclose ESG information on their sustainable financial
+products in dedicated reports, rather than publishing
+it as part of their wider-scope reporting which may
+include annual, financial or sustainability reports.
+The former approach allows for a greater degree of
+flexibility and clarity, whereas the latter approach may
+be more efficient for some organisations. Issuers of
+sustainable financial products will need to assess their
+existing reporting cycle and publications in order
+to identify whether or not information on sustainable
+financial products is best reported as part of,
+or separate to, existing reporting structures.
+From an investor’s perspective, dedicated green, social
+or sustainability bond reports are preferable, as the
+relevant bond-specific information is easier to retrieve
+on its own rather than being bundled within a document
+containing other, non-bond related information.
+Issuers of sustainable financial products may also
+consider reporting information to investors directly
+on webpages that are dedicated to their sustainable
+financial products.
+5.6 Considering external assurance
+It is best practice for issuers of sustainable financial
+products to seek an external verification of their
+ESG reporting (audit report). However, based on LGX
+analysis of European green bond issuers (issued up
+to June 2018), only 22% of all issuers currently seek
+such verification. Managers and issuers of sustainable
+financial instruments can differentiate themselves
+from the majority of other players by disclosing such
+an audit report and demonstrating transparency
+as well as robustness to investors.
+28 Greenhouse Gas Protocol: https://ghgprotocol.org/standards
+Luxembourg Stock Exchange | Guide to ESG Reporting 33
+6 Asset managers
+How to report on ESG
+34 Luxembourg Stock Exchange | Guide to ESG Reporting
+Asset managers, both mainstream and those who have a specific focus
+on Sustainable and Responsible Investing (SRI), have a keen interest
+in demonstrating that their process and approach meet specific reporting
+parameters which are strictly linked to ESG reporting criteria. They can be
+transparent on the methodological approach followed in their investment
+strategy, implementation of governance and measure of reporting
+in place. Today, most asset managers have several options before them
+to demonstrate the transparency and accountability of their SRI funds,
+these are typically SRI product labels which are available throughout Europe.
+Such SRI labels have started making their appearances in Europe over
+20 years ago, in combination with the launch of the first sustainable
+investment funds. Prior to the set-up of most of those labels, Eurosif
+(a European association for the promotion of sustainable and responsible
+investment) defined their Transparency Guidelines in 2004. These guidelines
+later became the basis for a transparency framework29 which most SRI
+funds today use to detail how they make use of ESG indicators in their fund
+management approach. This framework of reporting constitutes the basis
+for most SRI labels used today. It is a prerequisite to obtaining recognition
+of a fund’s SRI identity in France and Belgium30. Asset managers’ use of
+the Transparency Code and/or of SRI labels would be essentially for the
+promotion of the quality of their products with both retail and institutional
+investors. Appropriate reporting on ESG strategies and frameworks grants
+asset managers the possibility to attract longer-term investors who seek
+specific ESG requirements for their investment criteria. Regardless of the fact
+that asset managers will choose one reporting approach over another,
+it is useful to keep in mind some specific reporting parameters which can help
+construct an effective SRI framework focused on ESG reporting.
+There are six key topics to be taken into account for effective ESG reporting:
+1 Identifying and defining ESG activities and strategies
+2 Defining ESG procedures and disclosing information
+3 Evaluating relevant reporting categories and performance indicators
+4 Taking stock of internal data processes and collecting data
+5 Deciding on the best format and reporting period for publication
+6 Considering external assurance
+29 Eurosif Transparency Code: www.eurosif.org
+30 Having been embedded by the asset management funds associations in the respective countries
+Luxembourg Stock Exchange | Guide to ESG Reporting 35
+6.1 Identifying and defining ESG activities and strategies
+Asset managers can utilise different principles in order to define their responsible investment approaches. The principles
+that will make most sense for an asset manager depend on their investment strategy and portfolio composition.
+The below outlines a non-exhaustive list of selected strategies, as stated in the Eurosif Transparency Code31:
+» Best-in-class: An approach where leading or
+best-performing investments within a universe,
+category or class are selected or weighted based
+on ESG criteria. This approach involves the selection
+or weighting of the best-performing or improved
+companies or assets as identified by ESG analysis
+within a defined investment universe. Typically,
+the ESG analysis data is procured from specialised
+data providers 32.
+» Engagement and voting: This approach involves
+engagement activities and active ownership through
+voting of shares and engagement with companies
+on ESG matters. This is a long-term process, seeking
+to influence the behaviour of management or
+increase their disclosure of data. Engagement and
+voting on corporate governance only is necessary,
+but not sufficient enough to be counted in this
+strategy.
+» Exclusions: This is an approach that excludes
+specific investments or classes of investment from
+the investible universe, such as companies, sectors,
+or countries on the basis of specific criteria. Common
+categories include weapons, pornography, tobacco
+and animal testing. Exclusions can be applied at
+individual fund or mandate level, but increasingly
+also at asset manager or asset owner level, across
+the entire product range of assets. This approach is
+also referred to as ethical- or value-based exclusions,
+as exclusion criteria are typically based on the choices
+made by asset managers or asset owners.
+» Sustainability-themed: This approach involves
+investment in themes or assets linked to the
+development of sustainability. Thematic funds
+focus on specific or multiple issues related to ESG.
+Sustainability-themed investments inherently
+contribute to addressing social and/or environmental
+challenges such as climate change, eco-efficiency
+and health. Funds are required to have an ESG
+analysis or screen of investments in order to be
+counted in this approach, which can be performed
+by specialised ESG label providers, for example.
+» Norms-based screening: The screening of
+investments according to their compliance with
+international standards and norms, or combinations
+of ESG norms, is one of the most commonly
+employed approaches. International norms on ESG
+are those defined by international bodies such
+as the United Nations (UN). Examples of such norms
+include the UN Principles for Responsible Investment
+(UN PRI) and the UN Global Compact.
+» Impact investing: These are investments made into
+companies, organisations and funds with the intention of
+generating social and environmental impact alongside a
+financial return. Impact investments can be made in both
+emerging and developed markets and target a range of
+returns from below market-to-market rate, depending
+upon the circumstances. Investments are often projectspecific and distinct from philanthropy, as the investor
+retains ownership of the asset and expects a positive
+financial return. Impact investing includes microfinance,
+community investing, social business/entrepreneurship
+funds and the French "fonds solidaires".
+» ESG integration: This approach involves the explicit
+inclusion by asset managers of ESG risks and
+opportunities in traditional financial analysis and
+investment decisions based on a systematic process
+and appropriate research sources. This type of strategy
+covers explicit consideration of ESG factors alongside
+financial factors in the mainstream analysis
+of investments. The integration process focuses
+on the potential positive and/or negative impact
+of ESG issues on company financials,
+which in turn may affect the investment decision.
+M Environmental issues concern any aspect of a
+company’s activity that affects the environment
+in a positive or negative manner. Examples
+include greenhouse gas emissions, renewable
+energy, energy efficiency, resource depletion,
+chemical pollution, waste management,
+water management and impact on biodiversity.
+M Social issues vary from community-related
+aspects, such as the improvement of health and
+education, to workplace-related issues,
+including the adherence to human rights,
+non-discrimination and stakeholder engagement.
+Examples of such issues include labour standards,
+relations with local communities, talent
+management, controversial business practices,
+health standards or freedom of association.
+M Governance issues concern the quality of
+a company’s management, culture, risk
+profile, among others. This includes the board
+accountability and their dedication towards, and
+strategic management of, social and environmental
+performance. Furthermore, it emphasises principles
+such as transparent reporting and the realisation
+of management tasks in a manner that is free of
+abuse and corruption. Examples include corporate
+governance, bribery, corruption, stakeholder
+dialogue or lobbying activities.
+Based on any, or more, of the selected approaches outlined above, asset managers will define an ESG investment
+strategy that will form the foundation of future reporting elements.
+31 Eurosif Transparency Code: http://www.eurosif.org/wp-content/uploads/2018/04/Transparency-Code-4.0.pdf
+32 Currently there is low comparability between data generated by different rating agencies and methodologies, and caution must be taken when doing so.
+36 Luxembourg Stock Exchange | Guide to ESG Reporting
+Luxembourg Stock Exchange | Guide to ESG Reporting 37
+6.2 Defining ESG procedures and disclosing information
+Asset managers typically use the Key Investor
+Information Document (KIID) to lay out the ESG principles
+followed as part of the investment policy of the relevant
+fund. This section describes the objectives followed
+in plain language. However, it is best practice
+for asset managers to provide supplemental
+ESG-relevant information via their website, prospectus,
+factsheet documentation or any other type
+of ESG policy documentation. This document generally
+lays out how any relevant specific approaches outlined
+in section 6.1 have been implemented and will continue
+to be followed. To ensure that investors are given
+a comprehensive picture, asset managers can comply
+with the Eurosif Transparency Code.
+For example, by following the Eurosif Transparency
+Code, asset managers will provide information on:
+» The dominant SRI strategy and the funds pertaining
+to them
+» The exclusions being applied
+» How ESG matters, including risks and opportunities,
+have been integrated into the investment decision
+process
+» The responsible investment initiatives that the asset
+manager has signed up to (e.g. UN PRI, Carbon
+Disclosure Project)
+» The communication channels that will be used to
+inform investors
+Best-practice ESG reports also contain information
+on relevant metrics indicative of the ESG impact
+of the relevant strategy, or strategies, being pursued.
+For example, in line with mandatory requirements
+formulated by the Principles for Responsible Investment,
+managers of sustainable financial instruments will
+publish a "transparency report" where necessary.
+In addition, depending on the ESG strategy pursued,
+asset managers may commission an ESG label provider
+to assess the ESG nature of their fund, before disclosing
+to investors the relevant labels obtained, thereby
+providing the relevant assurance.
+38 Luxembourg Stock Exchange | Guide to ESG Reporting
+6.3 Evaluating relevant reporting categories
+and performance indicators
+The type of information that is relevant to asset managers depends on the ESG investment approach defined in step 6.1.
+For example, the following could be reported as a baseline for each strategy:
+» Best-in-class: Average ESG-rating of the portfolio
+or sectors within the portfolio.
+» Engagement and voting: Outlining the asset
+manager’s engagement activities and voting
+behaviour metrics.
+» Exclusions: Regular commitment to review, and,
+if appropriate, update the exclusions list, as well
+as updates to progress towards divestment.
+This could be done when implementing a new addition
+to the exclusions list.
+» Sustainability-themed: The amount of the portfolio
+invested in the sustainability-themes pursued.
+» Norms-based screening: The amount of the portfolio
+invested in line with the selected norms.
+» Impact investing: depending on the impact pursued
+as part of the strategy, metrics relevant to the
+advancement of the objective. For climate changefocused strategies, this would include metrics on
+greenhouse-gas reductions. For microfinance strategies,
+relevant metrics could be the purpose, number
+and average amount of microfinance loans provided.
+» ESG-integration: Investment decisions and/or
+the relating investment value impacted by ESG
+considerations. Usually this is evidenced by ex-ante
+or ex-post analysis conducted either in-house
+or by other market players (e.g. Novethic) 33.
+Asset managers will find it useful to use reporting templates such as the reporting framework provided by the Principles
+for Responsible Investment 34.
+6.4 Taking stock of internal data processes and collecting data
+In general, asset managers can collect data on their
+ESG strategy via their internal due diligence procedures.
+Another approach for asset managers is assimilating
+publicly disclosed information (e.g. as provided by the
+companies within their portfolio), aggregating it and
+compiling a sustainability-themed portfolio report.
+To do so, asset managers generally aggregate the data
+relative to the weight of the companies in the portfolio.
+To estimate the impact of their portfolio, asset
+managers may make use of data providers that offer
+ESG impact conversion factors. Such factors are
+sector-specific and have been, for example, developed
+by aggregating reported impact information and
+comparing such information against investment
+in that sector. The result is a factor that is descriptive
+of impact per unit of currency invested in a specific sector
+(e.g. greenhouse gas emissions per $ million invested).
+Asset managers can apply these factors to their portfolio
+and estimate their impact for reporting purposes.
+33 The CFA Institute and the PRI released a best practice report (Guidance and Case Studies for ESG Integration: Equities and Fixed Income) and three regional reports (one
+for the Americas [AMER], one for Asia Pacific [APAC], and one for Europe, the Middle East, and Africa [EMEA]) to help investors understand how they can better integrate ESG
+factors into their equity, corporate bond, and sovereign debt portfolios. source: https://www.unpri.org/investor-tools/esg-integration-in-europe-the-middle-east-and-africamarkets-practices-and-data-/4190.article
+34 UN PRI Reporting Tool: https://www.unpri.org/signatories/reporting-for-signatories
+Best-practice ESG reports also contain
+information on relevant metrics indicative
+of the ESG impact of the relevant strategy,
+or strategies, being pursued.
+Luxembourg Stock Exchange | Guide to ESG Reporting 39
+6.5 Deciding on the best
+format and reporting
+period for publication
+It is general market practice for asset managers to
+publish their report to investors on an annual basis,
+at the very least. This period would start from the
+year following the year that the relevant fund was
+launched. Asset managers generally choose to provide
+supplemental ESG-relevant information via their
+website, prospectus, factsheet documentation or any
+other type of ESG-dedicated documentation.
+Asset managers will need to assess their existing
+reporting cycle and publications in order to identify
+whether or not information on sustainable financial
+products is best reported as part of, or separate to,
+existing reporting structures.
+6.6 Considering
+external assurance
+As noted previously in the Guide, asset managers
+can seek an external verification of their funds
+by applying to receive a SRI-focused label.
+SRI-labels are issued on a fund-level after a label
+provider analysis of an asset manager’s information
+associated with the relevant fund has taken place.
+SRI labels offer investors a quick-to-use tool to identify
+whether or not certain funds are employing appropriate
+SRI strategies. Further information regarding the
+methodology employed by label provider organisations
+can be found on their respective websites.
+Examples of label providers include:
+» LuxFLAG
+» FNG Label
+» Label ISR
+» Nordic Swan
+» Österreichisches Umweltzeichen
+» Label transition énergétique
+et écologique pour le climat (TEEC) 35
+» Febelfin
+35 Le label TEEC change de nom. Pendant environnemental du label ISR,
+le label «transition énergétique et écologique pour le climat» (TEEC) devient
+le «Greenfin label France finance verte»
+40 Luxembourg Stock Exchange | Guide to ESG Reporting
+Luxembourg Stock Exchange | Guide to ESG Reporting 41
+Appendix A
+Local initiatives regarding ESG and CSR
+42 Luxembourg Stock Exchange | Guide to ESG Reporting
+Institut National pour le Développement durable
+et la Responsabilité sociale des entreprises (INDR)
+Created in 2007, under the auspices of the Union
+of Luxembourg Enterprises (l’Union des Entreprises
+Luxembourgeoises (UEL), the National Institute
+for Sustainable Development and Corporate Social
+Responsibility (INDR) is tasked with the promotion of
+Corporate Social Responsibility (CSR) amongst national
+companies in order to help these companies
+to contribute to sustainable development while
+improving their competitiveness and image.
+By focusing on the benefits of CSR for companies
+and stakeholders, the INDR:
+» Plays an educational role through
+the CSR Guide – Socially Responsible Business
+» Plays a normative role through
+the CSR Label (Label RSE) 36
+» Offer a number of courses on CSR
+in partnership with the House of Training
+Inspiring More
+Sustainability (IMS)
+Inspiring More Sustainability (IMS) has been leading
+a network of Luxembourg companies involved
+in Corporate Social Responsibility for more than
+10 years. The network represents 15% of the
+Luxembourg payroll and is the national representative
+of the CSR Europe.
+IMS is active across four main pillars:
+1 Raising awareness through communication
+campaigns, conferences, forums, workshops
+and trainings.
+2 Running the leading CSR network through CSR
+clubs, collaborative groups for sectoral innovation,
+stakeholders’ engagement and the Luxembourg
+Diversity Network and Diversity Charter.
+3 Providing expertise through the guidance
+and recommendations of member practices,
+identification of possible areas of development,
+partnerships with researchers and specialists,
+publications and consulting CSR Europe’s expertise.
+4 Proposing solutions through a dedicated toolkit,
+creation of best practices, piloting of actions
+to mutualise means across the territories, facilitating
+diversity, sustainable purchases and partnerships
+with associations (e.g. Part & Act programme
+and Speed Meeting) among others.
+IMS explores new solutions and concretely tests
+sustainable alternatives through working groups
+and pilot projects with positive impacts. Through
+these projects, IMS facilitates innovative initiatives
+by mobilising all stakeholders (private, public and
+associative).
+IMS projects tackle the following three issues:
+1 People: Inclusion and diversity, happiness at work,
+community engagement, youth, business and
+human rights
+2 Planet: Climate change, natural resources
+and biodiversity, movement towards zero waste
+3 Prosperity: Responsible production and
+consumption, a new economic approach,
+social business, transparency and reporting
+IMS is an independent, apolitical, non-profit
+organisation that benefits from the expertise
+of an agile and creative team.
+36 The CSR label enables business leaders to structure, formalise and enhance their social responsibility initiatives in order to create shared value for themselves and for society
+Luxembourg Stock Exchange | Guide to ESG Reporting 43
+Appendix B
+Questions to guide ESG report preparation
+Questions to guide companies
+The following questions may be useful to corporate players
+as they prepare their ESG reports:
+1 How is the company moving towards a sustainable
+business strategy?
+2 How can ESG aspects support the achievement
+of business goals?
+3 What are the existing reporting requirements
+in the market(s) where the company operates?
+4 How can the company use ESG disclosure
+to engage and align board members, senior
+executives and employees?
+5 What are the key issues and future goals that relate
+to ESG from the point of view of the CEO and/or
+Chairperson?
+6 How are board members, senior executives, and
+employees involved in ESG-related decision-making,
+planning, monitoring and activities?
+7 What is the company’s main reporting objective(s)?
+8 What are the key ESG factors that impact
+the company strategy in terms of the risks and
+opportunities they present?
+9 What are the company’s public commitments
+towards sustainable development and corporate
+responsibility?
+10 Who are the company’s priority stakeholders?
+What is the process for identifying them and how
+often is that determination refreshed or updated?
+How does the company know what ESG matters are
+relevant for these stakeholders?
+11 Which ESG factors are most relevant for
+the company’s current and potential investors?
+12 What does the company know about its existing
+investor base and its information needs?
+13 How would the company like to evolve its investor
+roster in the next five years?
+14 What does the company know about the information
+needs of its future investor roster?
+15 What is the company’s materiality determination
+process related to ESG matters?
+16 How do ESG factors fit within the company’s existing
+materiality determination process?
+17 Which ESG factors have the most impact
+on the company’s long-term value creation?
+18 Which ESG factors directly impact the company’s
+short-term financial performance?
+19 Has the company identified what information
+investors need?
+20 How does the company maintain and enhance
+its relationship with investors?
+21 How does the company compare with respect
+to ESG management among its benchmarked peers?
+22 What ESG factors are linked to current and potential
+regulations?
+23 How are investors, and potentially other
+stakeholders, using the company’s disclosure?
+24 How can the company leverage ESG disclosure
+to deepen relationships with investors?
+25 How can the company use investors’ feedback
+to improve performance?
+26 How has the company effectively engaged investors?
+27 What alternative methods does the company need
+to explore to engage investors?
+28 How does the company use feedback from investors
+in its decision-making processes?
+29 How do financial disclosure controls and obligations
+apply to the company’s ESG disclosure?
+30 What level(s) of assurance is meaningful and
+feasible?
+31 What level(s) of assurance do investors expect?
+32 How does the company determine which third
+party is the most effective and relevant to assure
+the company’s disclosure?
+44 Luxembourg Stock Exchange | Guide to ESG Reporting
+Questions to guide green, social or sustainability bond issuers
+The following questions may be useful to prospective issuers
+as they prepare their ESG reports:
+1 What are the key organisational objectives
+for the future, and how does an ESG strategy fit
+into advancing these objectives?
+2 How are your business objectives already aligned
+to advancing ESG outcomes?
+3 How can you use an ESG strategy to engage
+and align board members, senior executives
+and employees, as well as investors and the public?
+4 What are the key ESG factors that could impact
+your strategy in terms of the risks and opportunities
+they present?
+5 Could the issuance of green, social or sustainability
+bond be a cornerstone of your strategy?
+6 What projects and/or other activities do you engage
+in (or plan to engage in) that are recognised by market
+standards (e.g. Green Bond Principles, Social Bond
+Principles, Sustainability Bond Guidelines, Climate Bond
+Standard) as being green, social and/or sustainability?
+7 What do you know about your existing investor base,
+and would it be diversified as a consequence
+of a green, social and sustainability bond issuance?
+8 Does your organisational accounting system allow
+for the tracking of green, social or sustainability
+bond proceeds? If not, can you establish a green,
+social, or sustainability dedicated account?
+9 How are board members, senior executives, and
+employees involved in ESG-related decision-making,
+and identification of green, social or sustainability
+projects and activities?
+10 What are your main reporting objectives, and do
+they already capture ESG-related information (e.g.
+carbon footprint, energy use)?
+11 Which metrics would be indicative of ESG progress
+and impact in relation to your projects and/or
+activities?
+12 How do you currently compare with respect
+to ESG data capture in relation to your peers?
+13 Have you finalised and published to investors/
+the public a green, social or sustainability bond
+framework, where you detail your use and
+management of proceeds, method of project
+selection, and reporting intentions?
+14 What level(s) of assurance in addition to a second
+opinion are meaningful and feasible for your framework
+and future reporting?
+Luxembourg Stock Exchange | Guide to ESG Reporting 45
+Questions to guide asset
+managers of SRI funds
+The following questions may be useful
+to asset managers as they prepare
+their ESG reports:
+1 What are the key organisational objectives
+for the future, and how does an ESG strategy
+fit into advancing these objectives?
+2 How does sustainability fit within your investment
+philosophy?
+3 What ESG-related knowledge, skills, data and tools
+do you have to better support investment decisions
+by using these ESG considerations?
+4 What are the main medium- and long-term risks
+and opportunities you believe industries/companies
+will need to respond to?
+5 What are the limitations of your current
+ESG strategy in capturing and addressing these risks
+and opportunities you have identified?
+6 Would an additional/other ESG strategy better
+address those risks and opportunities?
+7 What data do you lack to measure the performance
+of your ESG strategy, and the ESG performance
+of your portfolio more widely?
+8 Which are the main sectors that you invest in,
+and which metrics could be most descriptive
+of environmental impact of activities within
+these sectors?
+9 How are investors, and potentially other
+stakeholders, using your disclosure?
+10 Do you know which ESG data your target investors
+are looking for?
+11 How can you leverage ESG disclosure to deepen
+relationships with investors?
+12 What are your main reporting objective(s)
+and cycles, and what are the opportunities
+to enhance your reporting with ESG information?
+13 How do you currently compare with respect
+to ESG data capture in relation to your peers?
+14 Would it be meaningful and beneficial for you
+to seek a label from a label provider?
+46 Luxembourg Stock Exchange | Guide to ESG Reporting
+Luxembourg Stock Exchange | Guide to ESG Reporting 47
+Appendix C
+Reporting initiatives
+48 Luxembourg Stock Exchange | Guide to ESG Reporting
+Overview of tools for identifying
+ESG factors for reporting
+» UN Global Compact’s best practices related to the GC Advanced
+Communication on Progress in the areas of human rights, labour,
+environment and anti-corruption
+» UN Guiding Principles Reporting Framework addresses reporting
+on human rights according to the UN Guiding Principles on Business
+and Human Rights
+» UNCTAD’s Guidance on Good Practices in Corporate Governance
+Disclosure establishes a benchmark for identifying corporate governance
+issues that could be included in corporate reporting
+» CDP’s disclosure requirements regarding emissions, water and forests
+» Climate Disclosure Standards Board’s (CDSB) Framework for reporting
+environmental information and natural capital in mainstream financial
+reports
+» GRI G4 Sustainability Reporting Guidelines, with over 140 indicators that
+address ESG issues across all sectors, vetted by an array of stakeholders
+» The International Integrated Reporting Framework and its six capitals
+» Sustainability Accounting Standards Board’s (SASB) standards identify
+factors that are likely to constitute material information for companies
+in an industry (with a median of five disclosure topics per industry)
+» The Financial Stability Board (FSB) Task Force on TCFD reporting
+recommendations
+Luxembourg Stock Exchange | Guide to ESG Reporting 49
+Details on the organisations mentioned in the Guide
+Carbon Disclosure Project (CDP)
+CDP is a global non-profit organisation founded
+in 2000 and headquartered in London. CDP requests
+standardized climate change, water and forest
+information from some of the world’s largest listed
+companies through annual questionnaires sent
+on behalf of institutional investors who are endorsed
+as ‘CDP signatories’. These shareholder requests
+for information encourage companies to account for -
+and be transparent about - environmental risks.
+Climate Disclosure Standards Board (CDSB)
+CDSB is a consortium of eight business and environmental
+organisations which include CDP, CERES, The Climate
+Group, The Climate Registry (TCR), The International
+Emissions Trading Association (IETA), World Council
+for Business and Sustainable Development (WCBSD),
+World Economic Forum (WEF) and World Resources Institute
+(WRI). The organisation is supported by a Technical
+Working Group consisting of businesses, accountancy
+bodies, major accountancy firms, academia, as well as
+investors. CDSB is committed to advancing and aligning
+the global mainstream corporate reporting model to
+equate natural capital with financial capital by offering
+companies a framework for reporting on environmental
+information with the same rigour as financial information.
+Global Reporting Initiative (GRI)
+GRI is an international, non-profit organisation working in
+the public interest towards a vision of a sustainable global
+economy where organisations manage their economic,
+environmental, social and governance performance
+and responsibility is impacted. Thousands of corporate
+and public sector reporters in over 90 countries use the
+GRI Guidelines. More than 24,000 reports have been
+registered in GRI’s Sustainability Disclosure Database
+with 27 countries and regions referencing GRI in their
+policies. GRI’s activities are two-fold: firstly, in the provision
+of sustainability reporting guidelines and secondly,
+in the development of engagement activities, products
+and partnerships to enhance the value of sustainability
+reporting for organisations.
+International Integrated Reporting Council (IIRC)
+The IIRC is a group of international leaders from
+the corporate, investment, accounting, securities,
+regulatory, academic, standard-setting and civil areas
+of society who have been tasked with creating
+the Integrated Reporting Framework. This framework
+will provide material information about an organisation’s
+strategy, governance, performance and prospects
+in a concise and comparable format which marks
+a fundamental shift in corporate reporting.
+Sustainability Accounting Standards Board (SASB)
+SASB is a non-profit organisation, based in the
+United States that issues sustainability accounting
+standards that can be used by reporting issuers
+to disclose material sustainability information in filings
+with the Securities and Exchange Commission. SASB
+standards identify sustainability topics and related
+accounting metrics, at an industry level, that are likely
+to constitute material information to companies in that
+industry. Since the beginning of 2016, SASB is developing
+provisional standards for more than 80 industries
+in 10 sectors. SASB’s standards development process
+includes evidence-based research, multi-stakeholder
+working groups, a 90-day public comment period
+and a review by an independent standards council.
+Task Force on Climate-Related Financial Disclosures (TCFD)
+The TCFD, which is facilitated by The Financial Stability
+Board (FSB), provides an industry-driven, voluntary
+framework that encourages the consistent financial
+disclosure of material climate related risks and
+opportunities for use by investors, lenders, insurers and
+other stakeholders. In developing this framework, the TCFD
+considered the material physical and transition risks, as
+well as the opportunities associated with climate change
+and what constitutes effective financial disclosures
+across eight key sectors. The recommendations are
+designed to help firms understand what financial markets
+want from this disclosure in order to assess and manage
+climate-related risks and opportunities which in turn
+encourages listed equities and fixed income issuers
+to align their disclosures with investors’ needs.
+50 Luxembourg Stock Exchange | Guide to ESG Reporting
+United Nations Conference on Trade and Development’s
+Intergovernmental Working Group of Experts on
+International Standards of Accounting and Reporting (ISAR)
+ISAR assists developing countries and economies
+in transition to implement best practices in corporate
+transparency and accounting in order to facilitate
+investment flows and economic development.
+The ISAR achieves this through an integrated process
+of research, intergovernmental consensus building,
+information dissemination and technical cooperation.
+United Nations Global Compact (UN Global Compact)
+The UN Global Compact is a leadership platform
+for the development, implementation and disclosure of
+responsible corporate policies and practices. Launched
+in 2000, it is the largest corporate sustainability initiative
+in the world with over 8,000 companies and 4,000
+non-business signatories based in 160 countries and
+over 85 Local Networks. The UN Global Compact is
+a voluntary initiative that encourages companies to
+align their operations and strategies with ten universally
+accepted principles in the areas of human rights, labour,
+environment and anti-corruption. It also encourages
+companies to take action in support of UN goals and
+issues. Business participants are expected to publicly
+report on their progress in an annual Communication
+on Progress. For guidance on global best practices
+on reporting on comprehensive ESG information, see GC
+Advanced criteria and GC Basic Reporting Guidance.
+United Nations Guiding Principles Reporting
+Framework (UNGP Reporting Framework)
+The UNGP Reporting Framework has been developed by
+the Human Rights Reporting and Assurance Frameworks
+Initiative (RAFI), which is co-facilitated by business
+and human rights experts, Shift and international
+accountancy firm, Mazars. The UNGP Reporting
+Framework is the first comprehensive guidance for
+companies to report on human rights issues which aligns
+with their responsibility to respect human rights as set
+out in the UN Guiding Principles. It provides a concise set
+of questions for companies to consider and report on
+in order to know and show that they are meeting their
+responsibilities to respect human rights. It offers clear
+and concise guidance on how to answer these questions
+with relevant and meaningful information about human
+rights policies, processes and performance.
+Luxembourg Stock Exchange | Guide to ESG Reporting 51
+Appendix D
+Global sustainability standards and principles
+AA1000 Stakeholder Engagement Standard
+Developed by AccountAbility, a U.K.-based global
+organisation, AA1000 is a series of standards designed
+to help organisations become more accountable
+and sustainable. They address priorities, performance
+and targets in governance, sustainability assurance and
+inclusive stakeholder engagement, among others, and
+complement standards such as ISO9001 and ISO14001.
+Climate Bonds Standard
+The Climate Bonds Standard and Certification Scheme
+is a Fairtrade-like labelling scheme for bonds.
+Scientific criteria ensure that it is consistent with the
+2 degrees Celsius warming limit in the Paris Agreement.
+The Scheme is used globally by bond issuers,
+governments, investors and the financial markets
+to prioritise investments which genuinely contribute
+to addressing climate change.
+Eurosif
+Eurosif is a non-profit association which promotes
+sustainable and responsible investment (SRI).
+In 2004, Eurosif produced a set of European
+Transparency Guidelines for funds transparency, which
+built the foundations for the European SRI Transparency
+Code, first launched in May 2008. The European SRI
+Transparency Code was the first framework for SRI in the
+industry that primarily aims to increase accountability
+and clarity of SRI practices for European investors.
+International Capital Market Association Green
+Bond Principles
+Green bonds enable capital-raising and investment for
+new and existing projects with environmental benefits.
+The Green Bond Principles (GBP), updated in June 2018,
+are voluntary process guidelines that recommend
+transparency and disclosure and promote integrity
+in the development of the green bond market by
+clarifying the approach for issuance of a green bonds.
+The GBP are intended for broad use by the market as
+they provide issuers guidance on the key components
+involved in launching a credible green bond. They also
+aid investors by ensuring the availability of information
+necessary to evaluate the environmental impact of their
+green bond investments and they assist underwriters
+by moving the market towards standard disclosures
+which will facilitate transactions.
+International Capital Market Association Social
+Bond Principles
+Social bonds are use of proceeds bonds that raise
+funds for new and existing projects with positive
+social outcomes. The Social Bond Principles (SBP),
+which were updated in June 2018, promote integrity
+in the social bond market through guidelines that
+recommend transparency, disclosure and reporting.
+They are intended for use by market participants
+and are designed to drive the provision of information
+needed to increase capital allocation to social projects.
+International Capital Market Association Sustainability
+Bond Guidelines
+Sustainability bonds are bonds where the proceeds will be
+exclusively applied to finance or re-finance a combination
+of both green and social projects. The Sustainability
+Bond Guidelines (SBG), which were published in June 2018,
+confirm the relevance of the Principles in this context and
+facilitate the application of their guidance on transparency
+and disclosure to the sustainability bond market. The
+common four core components of the Principles and their
+recommendations on the use of external reviews and impact
+reporting therefore also apply to sustainability bonds.
+International Labour Organization, Tripartite
+Declaration of Principles Concerning Multinational
+Enterprises and Social Policy (MNE Declaration)
+The MNE Declaration provides guidelines to companies
+and governments, as well as employee and labour
+organisations in areas such as employment, training,
+conditions of work and life and industrial relations.
+Companies can use these guidelines to enhance the
+positive social and labour effects of their operations.
+ISO26000 Guidance on Social Responsibility
+ISO26000 is an international guidance standard
+on social responsibility for organisations of all sizes
+in the public and private sector and includes specific
+guidance on communication surrounding social
+responsibility. The standard was issued in November
+2010 after five years of work that included contributions
+from some 450 experts from 99 countries as well
+as 200 observers and 42 regional or global liaison
+organisations such as the Consumers International,
+the International Labour Organization, UNCTAD,
+the UN Global Compact and the World Health Organisation.
+52 Luxembourg Stock Exchange | Guide to ESG Reporting
+OECD Guidelines for Multinational Enterprises
+These OECD Guidelines are far-reaching recommendations
+addressed by governments to multinational enterprises
+operating in, or are from, adhering countries.
+They provide voluntary principles and standards
+for responsible business conduct in areas such
+as employment and industrial relations, human rights,
+environment, information disclosure, combating bribery,
+consumer interests, science and technology, competition
+and taxation. Chapter III covers disclosure and calls
+on enterprises to be transparent in their operations
+and responsive to the public’s increasingly sophisticated
+demands for information.
+The Principles for Responsible Investment (PRI)
+The PRI is an organization that works to understand
+the investment implications of ESG factors and support
+its international network of investor signatories in
+incorporating these factors into their investment and
+ownership decisions. It encourages investors to use
+responsible investment to enhance returns and better
+manage risks, but does not operate for its own profit.
+The PRI engages with global policymakers but is not
+associated with any government and while it is supported
+by the United Nations, it is not a part of the organisation.
+Luxembourg Stock Exchange | Guide to ESG Reporting 53
+Appendix E
+Template for green, social and sustainability bond reporting
+Use of proceeds
+Impact and other information
+ISIN Total proceeds
+allocated
+Total proceeds
+not allocated
+Proceeds
+allocated
+to the
+renewable
+energy sector
+Proceeds
+allocated
+to clean
+transportation
+sector
+Proceeds
+allocated
+to energy
+efficiency
+XS12345689 €400 MEUR €100 MEUR €85 MEUR €10 MEUR €5 MEUR
+Project/
+Portfolio name
+Project/
+portfolio
+description
+Eligible
+activities
+category
+ISIN of Green
+Bond(s)
+proceeds used
+Total project/
+portfolio
+investment
+Amount
+of green bond
+proceeds allocated
+Northeast
+Wave Power One
+Construction,
+installation and
+operation of 10
+wave power units
+Renewable
+energy
+XS12345689 €100 MEUR €75 MEUR
+54 Luxembourg Stock Exchange | Guide to ESG Reporting
+Project start
+date/end date
+(if relevant)
+Share of proceeds
+used for direct
+financing vs
+refinancing
+Share of
+co-financing
+by others
+Share of
+proceeds allocated
+to CAPEX vs OPEX
+Impact
+metric (relative)
+2016 ongoing 100% direct 25% 90% CAPEX,
+10% OPEX
+-25kt CO2e

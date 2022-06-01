@@ -1,0 +1,382 @@
+NZX Corporate Governance Code
+2017
+Contents
+NZX Corporate Governance Code 03
+Principle 1 – Code of Ethical Behaviour 07
+Principle 2 – Board Composition
+& Performance 09
+Principle 3 – Board Committees 14
+Principle 4 – Reporting & Disclosure 18
+Principle 5 – Remuneration 21
+Principle 6 – Risk Management 24
+Principle 7 – Auditors 26
+Principle 8 – Shareholder Rights & Relations
+28
+02
+NZX Corporate Governance Code
+PURPOSE & STRUCTURE OF PRINCIPLES
+The overarching purpose of the NZX Corporate Governance Code (the NZX Code) is to promote good
+corporate governance, recognising that boards are in place to protect the interests of shareholders and
+to provide long-term value.
+Strong governance can lead to a lower cost of capital and higher valuations for issuers. Regulation has an
+important role to play in improving corporate governance standards. The NZX Code is set out in
+Appendix 16 to the NZX Main Board Rules (Listing Rules), which all listed issuers must report against.1
+The NZX Code is structured around eight principles:
+1. Code of ethical behaviour – directors should set high standards of ethical behavior, model
+this behavior and hold management accountable for these standards being followed
+throughout the organisation.
+2. Board composition and performance – to ensure an effective board, there should be a
+balance of independence, skills, knowledge, experience and perspectives.
+3. Board committees – the Board should use committees where this will enhance its
+effectiveness in key areas, while still retaining board responsibility.
+4. Reporting and disclosure – the Board should demand integrity in financial and non-financial
+reporting and in the timeliness and balance of corporate disclosures.
+5. Remuneration – the remuneration of directors and executives should be transparent, fair
+and reasonable.
+6. Risk management – directors should have a sound understanding of the material risks faced
+by the issuer and how to manage them. The Board should regularly verify that the issuer
+has appropriate processes that identify and manage potential and material risks.
+7. Auditors – the Board should ensurethe quality and independence of theexternal audit process.
+8. Shareholder rights and relations – the Board should respect the rights of shareholders and
+foster relationships with shareholders that encourage them to engage with the issuer.
+The NZX Code outlines recommendations under each principle recommending areas of good practice. If
+a particular recommendation is not appropriate for an issuer given its size or stage of development the
+issuer can explain why it has chosen not to adopt the recommendation and the alternative measures it has
+in place. The NZX Code therefore seeks to balance a desire to promote strong corporate governance
+while remaining flexible so that boards and issuers can determine the appropriate corporate governance
+practices for their businesses. Issuers should be continuously reviewing their corporate governance
+practices and seeking to improve these over time. NZX encourages issuers to think about disclosure on a
+1. Under Listing Rules 10.4.5 (h) – (m)
+NZX Corporate Governance Code 2017
+03
+Overarching theme or concept
+Comply or explain NZX Code - reporting
+requirements
+Voluntary
+Prescriptive mandatory requirements
+Principles
+Recommendations
+Commentary
+Listing Rules
+The NZX Main Board Rules
+Listing Rule 10.4.5(i) requires an issuer to provide NZX with a statement on its corporate governance
+reporting. The statement must disclose the extent to which the issuer has followed the recommendations
+set by NZX during the reporting period and be current as at the effective date specified for the purpose
+of Listing Rule 10.4.5 (see below for how more about the form in which this can be disclosed).
+The disclosures under Listing Rule 10.4.5(i) relate to the recommendations in the NZX Code. The
+principles themselves and commentary about the principles do not form part of the recommendations and
+therefore do not trigger any disclosure requirements under the Listing Rules.
+Comply or explain
+The Listing Rules act to encourage issuers to adopt the NZX Code but do not force them to do so. This
+allows an issuer flexibility to adopt other corporate governance practices considered by the Board to be
+more suitable. Under the NZX Code, if the Board of an issuer considers that a recommendation is not
+appropriate because it does not fit the issuer’s circumstances, it is entitled not to adopt it. If it does not
+adopt it, it must explain why it has not. This is the basis of the ‘comply or explain’ (‘if not, why not’)
+approach. Requiring this explanation ensures that the market receives an appropriate level of information
+about the issuer’s governance arrangements so that:
+a. investors and other stakeholders can have a meaningful dialogue with the Board and management
+on corporate governance matters;
+NZX Corporate Governance Code 2017
+continuous basis and not simply as an annual event. The recommendations have been drafted with the
+intention of allowing flexibility between disclosure in an Annual Report or on an issuers website. NZX also
+notes the value of independence on boards. Formal independence requirements currently sit in the Listing
+Rules and will be reviewed in due course.
+HOW TO APPLY THE NZX CODE
+The NZX Code applies to all listed issuers on the NZX Main Board that do not fall under an exception in
+the Listing Rules. There are specific recommendations intended to give effect to the general principles,
+as well as explanatory commentary in relation to both the principles and recommendations. The diagram
+below illustrates the hierarchy of the ‘comply or explain’ regime (described below) and how each issuer
+should interpret the principles, recommendations and commentary.
+04
+b. investors can use such information to help make decisions on how to vote on particular resolutions; and
+c. investors can factor that information into their decision on whether or not to invest in the issuer.
+Reporting against the NZX Code
+An issuer should explain what policies and practices it has in place in respect of the recommendation, and
+inform the investor or stakeholder where they can find any material referred to and where to find out
+more about their policies, which can be updated over time as practices develop and change. This is to
+demonstrate that the corporate governance practices of the issuer will evolve over time.
+The disclosure of an issuer’s compliance with the NZX Code is intended to be flexible so that disclosure
+can either be:
+in its annual report - where an issuer chooses to include its statement in the annual report rather than its
+website, NZX recommends that the statement and any related disclosures appear in a clearly labeled
+corporate governance section; or
+on its website - disclosures should be clearly presented and centrally located on or accessible from the
+landing page of the website, and the link should be easy to locate, prominently displayed in a category
+such as ‘About Us’ or ‘Investor Centre’; or
+a combination of both reporting in the annual report and cross referencing on the website.
+Issuers may incorporate material by reference as long as the material referred to is freely available and the
+statement clearly tells you where you can read or obtain a copy of it (such as a URL of a website).
+Disclosing that a recommendation is not followed
+If the issuer has not followed a recommendation for any part of the reporting period, its statement must
+separately identify that recommendation and what (if any) corporate governance arrangements it adopted
+in lieu of the recommendation during that period. An issuer’s corporate governance statement must
+specify the date at which it is current. This must be the issuer’s balance date or a later date specified by
+the issuer and state that it has been approved by the Board of the issuer. A statement regarding the
+explanation of why a recommendation was not followed should:
+be reasonably detailed and informative so that the market understands why it is that the issuer has
+chosen not to follow the recommendation;
+disclose the alternative practices it has, if any, employed in lieu of the recommendation and explain why
+they are more appropriate than the NZX Code in this instance; and
+avoid being short and uninformative, without analysis and unhelpful to investors.
+Exceptions
+Dual listed issuers are excluded from the Listing Rules in respect of annual reports content.2
+Overseas listed issuers are deemed under Listing Rule 5.1.7 to satisfy and comply with all the rules
+(including as to the content for annual reports) for so long as they remain listed on their home exchange
+(provided NZX can decide a rule does apply from time to time). The issuers’ annual reports should contain
+a statement that the home exchange’s governance rules and principles may materially differ from NZX’s
+corporate governance rules and NZX Code.
+2. See Appendix 17 of the Listing Rules, as set out in Listing Rule 5.1.5.
+NZX Corporate Governance Code 2017
+05
+Issuers with only debt securities quoted are not required comply with Listing Rule 10.4.5(i).3
+EFFECTIVE DATE
+The NZX Code will apply for all reporting periods from 1 October 2017, making it required reporting for
+the 31 December 2017 year end period. Issuers may choose to adopt the recommendations earlier.
+Under a class ruling this will be sufficient to meet the existing requirements under the Listing Rules in
+effect prior to the effective date of the updated NZX Code.
+NZX’S CONSULTATION APPROACH
+In 2015, NZX commenced a comprehensive review of the previous Corporate Governance Best Practice
+Code. This was the first substantive update to the Code since 2003 and involved two rounds of formal
+feedback from market participants. NZX received over 80 submissions during the course of the review from
+a wide range of industry participants in New Zealand and offshore. NZX also engaged global market
+research company, TNS Qualitative Research to conduct interviews with 15 small to medium sized issuers
+to obtain their views on the issues raised, to ensure all the feedback from this sector of the market was
+considered as part of the review process.
+The updated NZX Code seeks to more closely align with the Financial Markets Authority Corporate
+Governance in New Zealand Handbook - Principles and Guidance and the ASX Corporate Governance
+Principles and Recommendations.
+Theupdated NZX Codehas beenreviewed by the NZX Board and approved by theFinancial Markets Authority.
+3. See Appendix 5 of the Listing Rules.
+NZX Corporate Governance Code 2017
+06
+Principle 1 – Code of Ethical Behaviour
+"Directors should set high standards of ethical behaviour, model this
+behaviour and hold management accountable for these standards being
+followed throughout the organisation."
+
+RECOMMENDATION 1.1
+1.1 The board should document minimum standards of ethical behaviour to which the issuer’s
+directors and employees are expected to adhere (a code of ethics).
+The code of ethics and where to find it should be communicated to the issuer’s employees.
+Training should be provided regularly. The standards may be contained in a single policy
+document or more than one policy.
+The code of ethics should outline internal reporting procedures for any breach of ethics, and
+describe the issuer’s expectations about behaviour, namely that every director and employee:
+a. acts honestly and with personal integrity in all actions;
+b. declares conflicts of interest and proactively advises of any potential conflicts;
+c. undertakes proper receipt and use of corporate information, assets and property;
+d. in the case of directors, gives proper attention to the matters before them;
+e. acts honestly and in the best interests of the issuer, shareholders and stakeholders and as
+required by law;
+f. adheres to any procedures around giving and receiving gifts (for example, where gifts are
+given that are of value in order to influence employees and directors, such gifts should not
+be accepted);
+g. adheres to any procedures about whistle blowing (for example, where actions of a whistle
+blower have complied with the issuer’s procedures, an issuer should protect and support
+them, whether or not action is taken); and
+h. manages breaches of the code
+NZX Corporate Governance Code 2017
+07
+
+RECOMMENDATION 1.2
+1.2 Anissuer should havea financial product dealing policy whichapplies to employees and directors.
+
+08
+Principle 2 – Board Composition
+& Performance
+“To ensure an effective board, there should be a balance of independence,
+skills, knowledge, experience and perspectives.”
+
+RECOMMENDATION 2.1
+2.1 The board of an issuer should operate under a written charter which sets out the roles and
+responsibilities of the board. The board charter should clearly distinguish and disclose the
+respective roles and responsibilities of the board and management.
+
+RECOMMENDATION 2.2
+2.2 Every issuer should have a procedure for the nomination and appointment of directors to
+the board.
+
+RECOMMENDATION 2.3
+2.3 An issuer should enter into written agreements with each newly appointed director
+establishing the terms of their appointment.
+
+RECOMMENDATION 2.4
+2.4 Every issuer should disclose information about each director in its annual report
+or on its website, including a profile of experience, length of service, independence and
+ownership interests.
+NZX Corporate Governance Code 2017
+11
+
+RECOMMENDATION 2.5
+2.5 An issuer should have a written diversity policy which includes requirements for the board
+or a relevant committee of the board to set measurable objectives for achieving diversity
+(which, at a minimum, should address gender diversity) and to assess annually both the
+objectives and the entity’s progress in achieving them. The issuer should disclose the policy or
+a summary of it.
+
+RECOMMENDATION 2.6
+2.6 Directors should undertake appropriate training to remain current on how to best perform
+their duties as directors of an issuer.
+
+RECOMMENDATION 2.7
+2.7 The board should have a procedure to regularly assess director, board and
+committee performance.
+
+RECOMMENDATION 2.8
+2.8 The Chair and the CEO should be different people.
+
+Principle 3 – Board Committees
+“The board should use committees where this will enhance its effectiveness
+in key areas, while still retaining board responsibility.”
+
+RECOMMENDATION 3.1
+3.1 An issuer’s audit committee should operate under a written charter. Membership on the
+audit committee should be majority independent6
+ and comprise solely of non-executive
+directors of the issuer. The chair of the audit committee should not also be the chair of the board.
+
+RECOMMENDATION 3.2
+3.2 Employees should only attend audit committee meetings attheinvitation oftheaudit committee.
+
+RECOMMENDATION 3.3
+3.3 An issuer should have a remuneration committee which operates under a written charter
+(unless this is carried out by the whole board). At least a majority of the remuneration
+committee should be independent directors. Management should only attend remuneration
+committee meetings at the invitation of the remuneration committee.
+
+3.4 An issuer should establish a nomination committee to recommend director appointments
+to the board (unless this is carried out by the whole board), which should operate under a
+written charter. At least a majority of the nomination committee should be independent directors.
+
+RECOMMENDATION 3.5
+3.5 An issuer should consider whether it is appropriate to have any other board committees as
+standing board committees. All committees should operate under written charters. An issuer
+should identify the members ofeach of its committees, and periodically report member attendance.
+An issuer may choose to have other specific committees depending on the nature of their businesses, for
+example a health and safety committee.
+Each committee should have a written charter that clearly sets out the roles and responsibilities of the
+committee. The members of the committee should be identified. The members should have an
+appropriate mix of experience and skills. Proceedings of committees should be reported back to the
+board. Recommendation 4.2 recommends that the charters of board committees be made available on
+the issuer’s website.
+NZX Corporate Governance Code 2017
+16
+Although an issuer may decide that it is not appropriate to have some of the separate committees
+recommended above, as it increases in size and scale it should continue to assess whether additional
+committees are appropriate in future.
+RECOMMENDATION 3.6
+3.6 The board should establish appropriate protocols that set out the procedure to be followed
+if there is a takeover offer for the issuer including any communication between insiders and the
+bidder. It should disclose the scope of independent advisory reports to shareholders. These
+protocols should include the option of establishing an independent takeover committee, and
+the likely composition and implementation of an independent takeover committee.
+It is useful for issuers to have appropriate protocols in place for dealing with takeovers given that issuers
+will often need to react quickly in response to any approach. Independence is an important issue in the
+context of takeovers and therefore any takeover committee should be independent of the bidder.
+NZX Corporate Governance Code 2017
+17
+Principle 4 – Reporting & Disclosure
+“The board should demand integrity in financial and non financial
+reporting, and in the timeliness and balance of corporate disclosures.”
+
+RECOMMENDATION 4.1
+4.1 An issuer’s board should have a written continuous disclosure policy.
+
+RECOMMENDATION 4.2
+4.2 An issuer should make its code of ethics, board and committee charters and the policies
+recommended in the NZX Code, together with any other key governance documents, available
+on its website.
+
+RECOMMENDATION 4.3
+4.3 Financial reporting should be balanced, clear and objective. An issuer should provide non
+financial disclosure at least annually, including considering material exposure to environmental,
+economic and social sustainability risks and other key risks. It should explain how it plans to
+manage those risks and how operational or non financial targets are measured.
+
+Principle 5 – Remuneration
+“The remuneration of directors and executives should be transparent, fair
+and reasonable.”
+
+RECOMMENDATION 5.1
+5.1 An issuer should recommend director remuneration to shareholders for approval in a
+transparent manner. Actual director remuneration should be clearly disclosed in the issuer’s
+annual report.
+
+RECOMMENDATION 5.2
+5.2 An issuer should have a remuneration policy for remuneration of directors and officers,
+which outlines therelative weightings ofremunerationcomponents and relevant performancecriteria.
+
+RECOMMENDATION 5.3
+5.3 An issuer should disclose the remuneration arrangements in place for the CEO in its annual
+report. This should include disclosure of the base salary, short term incentives and long term
+incentives and the performance criteria used to determine performance based payments.
+
+Principle 6 – Risk Management
+“Directors should have a sound understanding of the material risks faced
+by the issuer and how to manage them. The Board should regularly verify
+that the issuer has appropriate processes that identify and manage
+potential and material risks.”
+
+RECOMMENDATION 6.1
+6.1 An issuer should have a risk management framework for its business and the issuer’s board
+should receive and review regular reports. A framework should also be put in place to manage
+any existing risks and to report the material risks facing the business and how these are
+being managed.
+
+RECOMMENDATION 6.2
+6.2 An issuer should disclose how it manages its health and safety risks and should report on
+their health and safety risks, performance and management.
+
+Principle 7 – Auditors
+“The board should ensure the quality and independence of the external
+audit process.”
+
+7.1 The board should establish a framework for the issuer’s relationship with its external
+auditors. This should include procedures:
+(a) for sustaining communication with the issuer’s external auditors;
+(b) to ensure that the ability of the external auditors to carry out their statutory audit role is not
+impaired, or could reasonably be perceived to be impaired;10
+(c) to address what, if any, services (whether by type or level) other than their statutory audit
+roles may be provided by the auditors to the issuer; and
+(d) to provide for the monitoring and approval by the issuer’s audit committee of any service
+provided by the external auditors to the issuer other than in their statutory audit role.
+
+RECOMMENDATION 7.2
+7.2 The external auditor should attend the issuer’s Annual Meeting to answer questions from
+shareholders in relation to the audit.
+Commentary
+Every issuer should ensure that their external auditor attends their Annual Meetings and that they are
+available to answer questions from investors relevant to the audit.
+RECOMMENDATION 7.3
+7.3 Internal audit functions should be disclosed.
+
+Principle 8 – Shareholder Rights
+& Relations
+“The board should respect the rights of shareholders and foster
+constructive relationships with shareholders that encourage them to engage
+with the issuer.”
+
+RECOMMENDATION 8.1
+8.1 An issuer should have a website where investors and interested stakeholders can access
+financial and operational information and key corporate governance information about the issuer.
+
+RECOMMENDATION 8.2
+8.2 An issuer should allow investors the ability to easily communicate with the issuer, including
+providing the option to receive communications from the issuer electronically.
+
+RECOMMENDATION 8.3
+8.3 Shareholders should have the right to vote on major decisions which may change the nature
+of the company in which they are invested in.
+
+RECOMMENDATION 8.4
+8.4 Each person who invests money in a company should have one vote per share of the
+company they own equally with other shareholders.
+
+RECOMMENDATION 8.5
+8.5 The board should ensure that the annual shareholders notice of meeting is posted on the
+issuer’s website as soon as possible and at least 28 days prior to the meeting
+As part of encouraging shareholder participation in meetings, clear meaningful information about the
+matters to be addressed at the meetings should be provided to shareholders with sufficient notice in
+advance of the meeting. Information should be provided at least 28 days in advance of a meeting to allow
+sufficient time for shareholders to consider such information.
+

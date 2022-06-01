@@ -1,0 +1,1542 @@
+GUIDANCE FOR ISSUERS
+DESIGN AND CONSTRUCTION
+OF SUSTAINABILITY REPORTS
+HOW TO INCLUDE ENVIRONMENTAL, SOCIAL AND
+CORPORATE GOVERNANCE FACTORS:
+1 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+Prologue of Santiago Exchange
+Prologue of sustainable stock exchanges
+Introduction
+What is sustainability or ESG?
+Environmental Aspects
+Social Aspects
+Governance Aspects
+Sustainability in capital markets
+The role of issuers
+The role of investors
+The role of exchanges
+Why report on sustainability considerations?
+Investor Interest in ESG factors
+Regulatory developments
+Strengthening financial performance
+Customers and consumers with interest in ESG factors
+Primary benefits of reporting on sustainability
+Recommendations for preparing a sustainability report
+Responsibility and oversight
+Clarity of purpose
+Supporting corporate strategy
+Identifying and understanding the audience
+Relevance and materiality
+Identifying themes
+Adopting relevant performance indicators
+Accessibility
+Credibility and responsiveness
+Robust internal ESG data collection and
+management processes
+Engaging for continuous improvement
+Assessment and control
+ Considerations in preparing a sustainability report
+Sustainability reporting initiatives
+Performance measurement metrics
+ Appendices
+Questions to guide report preparers
+Communicating the value of sustainability
+ Global sustainability standards and principles
+ References
+ Acknowledgemnts and contact
+3
+5
+7
+9
+10
+10
+11
+12
+12
+12
+13
+14
+14
+16
+19
+22
+1.
+2.
+2.1.
+2.2.
+2.3.
+3.
+3.1.
+3.2.
+3.3.
+4.
+4.1.
+4.2.
+4.3.
+4.4.
+23
+29
+29
+31
+31
+32
+33
+34
+35
+37
+39
+39
+39
+40
+41
+41
+43
+47
+47
+49
+51
+53
+54
+7.
+7.1.
+7.2.
+8.
+8.1.
+8.2.
+8.3.
+9.
+10.
+5.
+6.
+6.1.
+6.2.
+6.2.1.
+6.2.2.
+6.3.
+6.3.1.
+6.3.2.
+6.4.
+6.5.
+6.5.1.
+6.5.2.
+6.5.3.
+CONTENTS
+2 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+In this day and age, investors want a broad and comprehensive
+understanding of how companies are doing business, going
+beyond financial performance to include environmental, social
+and governance aspects and incorporating information on
+these practices into their investment analysis.
+Meanwhile, companies—in line with market demands and regulations—have met the challenge of providing more and better
+information while bolstering transparency and best practices,
+which are key to adding value to their performance.
+As a result, sustainability and financial performance have become increasingly intertwined, demonstrated by the number
+of companies that have incorporated a sustainability agenda
+into their business strategy.
+We believe that stock exchanges play a key role in building more
+sustainable capital markets and developing regulations and
+best practices that reflect both advancements and market
+requirements on such topics.
+This conviction inspired Santiago Exchange to develop a Sustainability Reporting Guide to help issuers prepare and publish
+information related to environmental, social and governance
+(ESG) matters.
+PROLOGUE OF SANTIAGO EXCHANGE
+3 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+In addition to emphasizing the importance of effectively and
+credibly disclosing relevant information for investors, the
+guide is designed to educate issuers on the benefits to them
+of providing ESG information. These include identifying new
+business opportunities; anticipating changes in standards,
+regulations or social issues; reducing costs; accessing capital
+and improving customer loyalty, among others.
+This document also features recommendations for establishing a corporate sustainability program; different sustainability reporting initiatives and global sustainability principles;
+metrics for measuring performance (as recommended by the
+World Federation of Exchanges, WFE); and questions to guide
+preparers of sustainability reports.
+Lastly, this Sustainability Reporting Guide reflects Santiago
+Exchange's commitment to strengthen and drive the development of sustainable matters in capital markets, demonstrating
+considerable progress in the market's regulatory development
+and thereby enhancing financial performance.
+José Antonio Martínez
+Chief Executive Officer
+Santiago Exchange
+4 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+The environmental, political and economic forces which influence our lifes are complex systems. There are no easy ways, no
+silver bullets that can ensure food, water and energy security
+or create a green and inclusive economy without effort. But we
+have to master these challenges in order to secure our future
+on this planet, our ability to live in peace and prosperity and in
+harmony with nature for generations to come. The transformations that we need to achieve require massive investments, on
+a scale that go well beyond what public finances can provide.
+Our success in resolving these challenges, therefore, will be
+determined as much by how well we can mobilize private capital
+to finance these investments, as by issues of global political
+governance and national social consensus. The governance,
+transparency and accountability of capital markets are therefore critical issues for sustainable development.
+For this reason, UN Environment is pushing for more transparent capital markets that deal openly and honestly with relevant
+environmental, social and governance issues. Transparency
+on these issues in corporate reports promotes greater awareness of the risks and opportunities that companies must
+manage in order to succeed, and that investors will need to
+assess and integrate into their investment decisions. Happily,
+this is also one of those rare situations where there is a winwin solution. Transparency can also enhance the quality of
+management, as well as motivating investment--over the past
+decade, a growing body of empirical evidence demonstrates
+the material importance of effective sustainability strategies
+for corporate efficiency and profitability. More efficient and
+profitable enterprises; rational investment choices in new technologies and products; greater resource efficiency; socially
+PROLOGUE OF SUSTAINABLE
+STOCK EXCHANGES
+5 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+responsible business practices; and well-informed consumer
+choices--these all contribute in an essential way to creating a
+sustainable future for us all.
+Stock exchanges globally list over USD 70 trillion of market
+capitalization. They play a central role in connecting investors, companies and regulators and can be a major driver in
+promoting global sustainability. Integrating sustainability into
+business operations is at its heart good business and good for
+business. Market transparency and information exchange is a
+cornerstone of this effort.
+The 2030 Sustainable Development Agenda, with its 17 Sustainable Development Goals (SDGs), which the global community of nations adopted in September 2015 outline both the
+challenges our world faces, as well as the opportunities that
+we can realize in working to achieve these goals. Target 6 of
+SDG 12 focuses on the importance of corporate reporting.
+Ensuring that relevant environmental, social and governance
+risks and opportunities are measured and disclosed effectively requires engagement and dialogue along the investment
+value chain. This guide provides a compelling case and a useful
+roadmap for companies to help advance corporate reporting
+in the Chilean market. It draws on lessons learned from experience with corporate reporting in various forms from around
+the world, to provide guidance to corporations in preparing
+and conducting sustainability reports, and to help identify
+and communicate the value of sustainability for business and
+society. UN Environment, along with the other organizing partners of the UN's Sustainable Stock Exchanges initiative, is
+proud to be supporting the Santiago Stock Exchange in this
+endeavour, and we look forward to further close collaboration
+in advancing the sustainability agenda.
+Elliott Harris
+Assistant Secretary-General
+and Head of UN Environment
+UN Environment
+6 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+INTRODUCTION
+When making investment decisions, it is increasingly important for investors to consider the integration of Environmental, Social and Governance (ESG) policies and practices into
+a company's valuation strategy. Therefore, for investors, the
+transparency with which a company manages ESG risks and
+opportunities has become part of its value proposition. As a
+result, the global financial community recognizes that to thoroughly assess an investment, it must also analyze relevant
+ESG factors.
+Currently, in the Chilean market close to 44% of the securities
+market's most representative issuers1
+ disclose ESG information or prepare an annual sustainability report. In order to
+provide guidance for issuers on ESG aspects and investors'
+sustainability reporting requirements, Santiago Exchange has
+developed this Sustainability Reporting Guide, based on the
+Model Guidance on Reporting ESG Information to Investors
+prepared by the United Nations Sustainable Stock Exchange
+(SSE) Initiative in order to promote and propagate sustainability
+in the local market. This Guide was also prepared as part of
+Santiago Exchange's commitment arising from its involvement
+in the SSE.
+This guide provides insight into the benefits of ESG reporting
+for issuers, as well as guidance on navigating the reporting
+process so that they may effectively and credibly disclose ESG
+information to investors.
+01
+1. This 44% represents 25 of the 57 issuers on the IGPA as of year-end 2015
+with a free-float adjusted market capitalization of more than USD100 million.
+7 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+Can use this guide to understand the benefits and
+implications of integrating sustainability into a
+company's business strategy.
+The preparation and disclosure of sustainability reports is
+rapidly evolving. Companies practice a variety of reporting in
+different industries, which proves that there is no one-sizefits-all approach to sustainability reporting. However, some
+common international practices can be identified:
+Adopting ongoing ESG reporting processes in line with
+investor—and potentially other stakeholder—2
+expectations.
+Considering national securities laws, which may already require disclosure of material ESG information, and
+international best practices.
+Companies that have not yet begun reporting on sustainability
+can use this guide to understand the benefits and implications
+of integrating sustainability into a company's business strategy,
+which is the first step in the ESG reporting process.
+2. Stakeholders can be defined as individuals or groups who are
+affected by, or can affect, the company's performance and longterm competitiveness. In addition to investors, stakeholders
+generally include employees, suppliers, governments, regulators,
+communities, consumers or customers and media, among others.
+1
+2
+8 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+ESG is called the environmental, social and
+corporate governance issues of a company.
+License to operate
+Human capital
+Employee retention and recruitment
+Company value as an acquisition target
+Ability to acquire other high-quality companies
+It is important to note that while this document primarily uses
+the term “ESG” because it is commonly used among investors,
+the term “sustainability” is used interchangeably as it is more
+common among companies. While subtle nuances exist, for the
+purpose of this guide, both terms are seen as encompassing
+the broad set of environmental, social and governance considerations that can impact a company’s performance. While
+ESG factors are at times called “non-financial” or “extrafinancial”, how a company manages them undoubtedly has financial
+consequences. They can impact:
+02
+WHAT IS SUSTAINABILITY OR ESG?
+Access to capital
+Cost savings and productivity
+Risk management
+Revenue growth and market access
+Brand value and reputation
+9 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+2.1 ENVIRONMENTAL ASPECTS
+The main risks or opportunities are related to managing natural resources and preventing pollution or contamination.
+Another important aspect is the reduction of greenhouse
+gas emissions given the potential impact on climate change
+and the global nature of the challenge. Improper management
+of environmental risk can impact a company's financial performance because of risks of fines or penalties, creation of
+environmental liabilities and stoppage of operations by either
+regulators or the community.
+In contrast, effective management of environmental variables can reduce short- and long-term costs and, as a result,
+increase the company's value.
+2.2 SOCIAL ASPECTS
+The social risks and opportunities that can impact a business's
+performance are centered around the relations and policies
+that each company has with three stakeholders: employees,
+customers and the community.
+▶ Employees: The main indicators to address in this area
+include: diversity, occupational health, employer-employee
+relations, adherence to labor laws and optimum working conditions in the supply chain. Opportunities for effective human
+resource management are related to improved productivity,
+reduced turnover and absenteeism, talent retention and openness to new ideas and business innovation.
+▶ Customers: If the product or service provided by the company has quality and safety standards, fair treatment and the
+use of emerging technology channels3
+, opportunities are related to brand loyalty, increased sales, reduced risk of litigation
+and bad reputation.
+▶ Community: A company's relationship with the community
+has become a key element of both its operations and its growth.
+Consideration of communities' rights and practices that are
+generally responsible and friendly are determining factors for
+strengthening brand loyalty, obtaining and maintaining licenses
+to operate and protecting a company's reputation and value.
+3. Emerging technology channels include Facebook,
+Twitter, Instagram, among others.
+A company's relationship with the community has
+become a key element of both its operations and
+its growth.
+10 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+2.3 GOVERNANCE ASPECTS
+Corporate governance is managed internally within organi
+-
+zations and the transparency of the information is relevant
+in being accountable to shareholders, regulators and the ge
+-
+neral public. A strategy that works actively to instill business
+ethics will prevent incidences of bribery and corruption and
+will also have an influence on the company or organization's
+reputation. Similarly, the integration of codes of conduct and
+policies that promote transparency presents opportunities for
+improvements in a company's performance, risk management
+and reputation.
+11 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+Sustainable development meets the needs of the present without
+compromising the ability of future generations to meet their own
+needs. This is the general definition of sustainable development
+first published in Our Common Future, prepared by the United
+Nations World Commission on Environment and Development
+(1987). This definition helped shift companies' visions, which began
+to incorporate a broader perspective on economic growth into
+their role and future outlook.
+3.1 THE ROLE OF ISSUERS
+In a world where society has increasingly higher expectations regarding the conduct and behavior of companies, natural resources are
+more and more scarce and climate impacts are a lurking concern for
+individuals, issuers are called to promote and play a leading role in the
+sustainable development of the economy, striking a balance between
+the economic, social and environmental results of their operations.
+03
+SUSTAINABILITY IN CAPITAL MARKETS
+Today, a company's role in sustainability is to continuously seek
+the economic viability of the business, coexisting in harmony with
+the environment and the neighboring community.
+3.2 THE ROLE OF INVESTORS
+A strong financial performance is no longer the only criterion that
+investors are considering when making investment decisions. Investors fiduciary duties require the consideration of all financial
+materially factors, which includes ESG factors4
+. In recent years
+there has been increased adoption of Responsible Investment,
+which takes into account financial criteria such as returns and risk
+as well as ESG considerations that affect issuers5
+.
+The financial industry has begun recognizing the importance of
+risks and opportunities related to ESG performance and impact,
+mainly because effective research, analysis and management of
+these areas have been demonstrated to be a key part of evaluating
+an investment's performance in the short-, medium- and long-term
+(for more information see the Guide to Responsible Investment6
+).
+4. For more information, see Fiduciary Duty in the 21st Century.
+5. The growth of the UN-supported Principles for Responsible Investment can
+be seen as a proxy for this growth. PRI has over 1500 signatories, representing
+more than USD $60 trillion assets under management, in 57 countries.
+6. The Guide to Responsible Investing is an initiative by Santiago Exchange,
+in partnership with EY, designed to explain the implications of sustainability
+for investors and help them integrate ESG matters into investment decisions
+and practices. For more information see web site of Santiago Exchange.
+12 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+3.3 THE ROLE OF EXCHANGES
+Exchanges have a fundamental role in building sustainable capital
+markets. As a meeting point for the diverse players that make up
+the market, exchanges play a leading role in setting standards and
+developing and promoting good practices that strengthen the capital market and society as a “whole.” This is why Santiago Exchange
+works every day to continuously develop the organization and the
+capital markets through ongoing knowledge, understanding and
+practice of the highest standards of transparency, responsible
+investment and corporate governance.
+Santiago Exchange began working with corporate sustainability
+by joining major initiatives, such as the United Nations Sustainable
+Stock Exchange (SSE) Initiative and the World Federation of Exchanges Sustainable Working Group (SWG). In addition, in its role
+as a promoter of best practices in sustainability, it has proposed
+recommendations for issuers listed with Santiago Exchange7
+, in
+order to strengthen the stock market's transparency and enhance
+information provided by issuers to investors. In addition, it has
+developed tools to encourage Responsible Investment in the
+capital market, including the first local sustainability index, the
+Dow Jones Sustainability Chile Index (DJSI Chile), and the Guide
+to Responsible Investing. Along with this Guide, these tools are
+helping raise the sustainability standard in Chile and improve the
+transparency around how sustainability is being integrated into
+the business strategies of Chilean issuers.
+“Sustainable development meets the needs of
+the present without compromising the ability of
+future generations to meet their own needs.”
+7. Santiago Exchange identified a series of recommendations grouped into
+three information categories: market operations, financial reporting and
+investor relations. For more information see web site of Santiago Exchange.
+Our Common Future, United Nations World Commission on Environment and Development (1987).
+13 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+04
+WHY REPORT ON SUSTAINABILITY
+4.1 INVESTOR INTEREST IN ESG FACTORS
+A growing number of investors are incorporating ESG aspects
+in the investment process8
+. For these investors, a company's
+sustainability report provides insight into the quality of corporate management and helps them forecast performance. For
+these reasons, more and more investors are asking companies
+to communicate how they are managing ESG-related risks and
+opportunities.
+The tools most widely used by investors to assess a company's
+sustainability performance include:
+Public information on the company: this includes financial
+reports that include material ESG factors, annual sustainability reports and mandatory, statutory questionnaires generally
+required by regulators.
+ESG risk rating agencies: companies specialized in assessing corporate performance on ESG aspects. The assessment, in most cases, is performed using public information or
+with support from the company itself. The rating methods are
+based on industry-specific standards that are comparable
+with each other.
+Sustainable performance indexes: indicators developed
+by securities exchanges to rate and measure the performance of listed companies that use ESG aspects as selection criteria.
+8. Global Sustainable Investment Review (2015) findings show that investors
+who consider ESG factors in portfolio selection and management grew by
+61% over the past two years, outpacing investment in conventional assets.
+1
+2
+3
+CONSIDERATIONS?
+14 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+DJSI CHILE
+The Dow Jones Sustainability Index Chile (DJSI Chile), developed by Santiago Exchange in collaboration with S&P Dow
+Jones Indices and RobecoSAM as an independent, external
+assessor, presented its first results in 2015. This index is an
+important tool for the decision-making process of investors
+that consider ESG aspects when making an investment.
+The DJSI Chile is the first local sustainability index and helps
+internationalize ESG indicators for the equities market. It
+is a globally standard metric that gives Chilean companies
+worldwide exposure.
+The methodology for this index is described below:
+▶ Eligibility criteria: In the index's first year, the 40 companies on the Selective Stock Price Index (IPSA) were assessed. In 2016, the assessment was broadened to include
+companies on the General Stock Price Index (IGPA) with
+a free-float adjusted market capitalization of more than
+USD100 million as of year-end 2015. The assessment is
+expected to expand to more issuers in the future. There
+are currently 21 companies on the index.
+▶ Independent assessment: RobecoSAM, a Swiss company
+that specializes in sustainability, was in charge of rating
+the ESG performance of the companies invited to participate in the DJSI Chile. The assessment was conducted
+using a voluntary, sector-specific questionnaire given
+to issuers. The assessment also considers public information such as financial statements, press, corporate
+websites, sustainability reports and information given
+to supervisors.
+▶ Analysis process: The analysis included 24 sectors from
+the Global Industry Classification Standard, with 59
+groups of issuers. It analyzed both generic dimensions
+and other factors unique to the particular industry. The
+industry-specific elements were the results of the questionnaire weighted differently based on the sector or
+industry. For example, the banking sector was evaluated
+on its asset laundering prevention policies, something
+that is less relevant for an energy company. Thus, at the
+end of the evaluation the “Total Sustainability Score”
+(TSS) is obtained. This is used to select the companies
+eligible for the Index based on a minimum sustainability
+standard assigned per industry sector by RobecoSAM.
+Based on the TSS obtained by the companies, the best
+40% per industry is selected using the “Best-In-Class”
+methodology. The weight of each company on the Index
+is determined by its free-float adjusted market capitalization. No company may have a weight greater than 15%
+on the DJSI Chile.
+15 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+4.2 REGULATORY DEVELOPMENTS
+Governments around the world are responding to demands
+for ESG information by taking action to drive corporate sustainability disclosures. Authorities recognize the importance of
+strengthening market mechanisms that will help the country
+achieve its objectives related to sustainable development9
+.
+As a result, a number of capital market regulators have introduced regulatory requirements governing corporate disclosure
+of ESG information. In examining instruments in place in the
+world’s 50 largest economies per GDP according the World
+Bank, as of November 2016, there were10
+:
+▶ Over 100 regulations mandating the disclosure of environmental, social or governance information
+▶ Over 200 measures mandating or encouraging sustainability-related disclosure instruments (a threefold increase
+since 2006).
+▶ Nearly 300 instruments overall, spanning corporate disclosure, investor stewardship codes and pension fund regulation regarding sustainability factors.
+9. In September 2015, Chile committed to the Sustainable Development
+Goals (SDG), as part of the 2030 Agenda for Sustainable Development
+approved by the Chiefs of State of the 193 United Nations
+member countries, which includes 17 goals and 169 targets.
+10. For more information see PRI responsable investment regulation.
+16 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+Establishing protocols for identifying, measuring and disclosing ESG factors can help companies stay ahead of such new
+regulatory developments.
+The Chilean Superintendency of Securities and Insurance (SVS)
+has not fallen behind on such initiatives. In June 2015, it issued
+two new standards (General Rules No. 385 and No. 386) that
+aim to improve the disclosures made by issuers on matters
+of corporate governance, corporate social responsibility and
+sustainable development, among others.
+Although adoption of these practices is not mandatory, the
+overall objective is to create incentives for investors to make
+investment decisions that favor companies in which their interests are better protected.
+The main objectives of Rule No. 385 are to:
+Foster the adoption of corporate social responsibility and
+sustainable development policies, referring particularly to the
+diversity of the company's board and senior executives.
+Encourage the disclosure of information to shareholders
+and the general public regarding corporate social responsibility
+and sustainable development policies and practices and their
+effectiveness.
+Improve the quality and credibility of the information
+contained in the board self-assessment through an external,
+third-party evaluation.
+1
+2
+3
+17 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+Establishing protocols for
+identifying, measuring and
+disclosing ESG factors can help
+companies stay ahead of such new
+regulatory developments.
+▶ Board diversity (gender, nationality, age and years in office).
+▶ Diversity of chief executive officer and other divisions that
+report to the CEO or board of directors.
+▶ Organizational diversity (gender, nationality, age and years
+of service).
+▶ Salary gap by gender.
+Promote the adoption of national and international principles, directives and recommendations such as, for example,
+those developed by The Committee of Sponsoring Organizations (COSO) or those contained in Control Objectives for
+lnformation and Related Technology (COBIT) created by ISACA
+or ISO 31000:2009 and ISO 31004:2013.
+Specify measures for addressing conflicts of interest
+and procedures for updating the Board Code of Conduct.
+Therefore, the new Rule No. 386 calls for incorporating the
+following information regarding corporate social responsibility
+and sustainable development into the company's annual report:
+5
+4
+18 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+The evidence suggests that strong corporate
+performance on ESG factors correlates
+positively with improved cost of capital and
+financial performance.
+11. Deutsche Asset & Wealth Management (2015) ESG & Corporate Financial
+Performance: Mapping the global landscape.
+12. Khan, Mozaffar, Serafeim, George, Yoon, Aaron (2015 Corporate
+Sustainability: First Evidence on Materiality, Working Paper 15-073, Harvard
+Business School.
+4.3 STRENGTHENING FINANCIAL
+PERFORMANCE
+A growing number of studies make the business case for
+companies to fully integrate sustainability into their business
+strategy. The evidence suggests that strong corporate performance on ESG factors correlates positively with improved
+cost of capital and financial performance11
+.
+A 2015 study suggests that companies that perform well on
+material ESG factors significantly outperform peers with poor
+performance on these issues12. The performance of sustainability indexes reflects that companies that integrate ESG
+aspects into their business strategy obtain better financial
+returns than their peers. This can be seen by examining the
+performance of sustainability indexes developed by exchanges
+around the world.
+19 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+PERFORMANCE OF ISE13 VERSUS THE BRAZILIAN MARKET INDEX
+(BM&FBOVESPA)
+Source: Bloomberg 2016.
+FIXED-BASE INDEX: 2011 = 100
+July 2011 - June 2016
+140
+2011 2012 2013 2014 2015 2016
+130
+120
+110
+100
+90
+80
+70
+60
+50
+ISE Index IBOV Index
+PERFORMANCE OF FTSE4GOOD IBEX14 VERSUS
+IBEX35 ON THE SPANISH STOCK EXCHANGE (BME).
+FIXED-BASE INDEX: 2011 = 100
+July 2011 - June 2016
+140
+2011 2012 2013 2014 2015 2016
+130
+120
+110
+100
+90
+80
+70
+60
+50
+FTSEIBEX Index IBEX Index
+13. ISE is an indicator of average stock price performance of
+a maximum of 40 companies with a recognized commitment
+to corporate sustainability in the BM&FBovespa.
+14. FTSE4Good IBEX is comprised of companies on the Spanish
+Stock Exchange (BME) that comply with sustainability eligibility
+criteria and belong to the IBEX 35 and FTSE Spain All Cap.
+20 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+PERFORMANCE OF DJSI CHILE VERSUS SPBMI CHILE PERFORMANCE OF DJSI CHILE VERSUS IPSA
+Source: Bloomberg 2016.
+115
+09-2015 12-2015 03-2016 06-2016
+110
+105
+100
+95
+90
+DJSCLCP Index IPSA Index
+115
+09-2015 12-2015 03-2016 06-2016
+110
+105
+100
+95
+90
+DJSCLCP Index SPBMI CHILE Index
+FIXED-BASE INDEX: 2015 = 100
+September 2015 - June 2016
+THE S&P CHILE BMI (BROAD MARKET INDEX) IS A SUBSET OF THE S&P LATIN AMERICA BMI.
+THE INDEX IS DESIGNED TO SERVE AS A CHILEAN MARKET BENCHMARK.
+FIXED-BASE INDEX: 2015 = 100
+September 2015 - June 2016
+21 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+Reporting on how sustainability initiatives are linked to strategy, financial performance and valuation provides important
+benefits. The figures above demonstrate that in the Brazilian
+and Spanish markets sustainability indexes perform better in
+the long term than the market indexes on which they are based.
+While the trend in the Chilean market is not as clear, this could
+be because the DJSI Chile is a relatively new sustainability index
+and these processes need time to take root in the economy,
+similar to what happened in Spain.
+Integrating sustainability into company valuation will assist in
+communicating how a company is addressing the world’s most
+pressing challenges: poverty, education, climate change, biodiversity, transparency and competition, etc. Addressing these
+challenges promotes more prosperous economic systems and
+more stable and resilient markets that benefit all participants.
+4.4 CUSTOMERS AND CONSUMERS WITH
+INTEREST IN ESG FACTORS
+Customers and consumers around the world are increasingly
+concerned about purchasing products that satisfy environmental requirements, using renewable materials, recyclable
+packaging and environmentally friendly waste.
+This is supported by a global survey applied by Tetra Pak in
+201515, where some 6,000 consumers across 12 different countries were surveyed, including consumers from United States,
+Brazil, France, China, India and others. Of the results, regarding
+their recent purchasing habits, 70% of consumers said they
+had purchased an environmental product, even if it costs more,
+while 66% confessed to having avoided a particular product
+or brand for environmental reasons. 15. Millward Bromn (2015) Environment research.
+Customers and consumers concerned about ESG factors is a
+growing trend, which expands beyond the food industry. This is
+why companies have included taking care of the environment
+and other sustainable factors as part of their business strategy.
+Focusing on the use of materials of responsible and renewable
+origin is considered like a key factor in product differentiation.
+22 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+ON SUSTAINABILITY
+05
+PRIMARY BENEFITS OF REPORTING
+The primary benefits expected from preparing sustainability
+reports include:
+ACCESS TO CAPITAL
+▶ Demonstrate transparency and effective management and
+enhance the company’s ability to attract long-term capital
+and favorable long-term financing conditions.
+▶ Enhance the company’s ability to attract longer-term investors, including major institutional investors.
+PROFITABILITY AND GROWTH
+▶ Generate financial value for the company by identifying
+opportunities for cost savings, new revenue generation
+and risk mitigation.
+▶ Drive continuous improvement by creating accountability
+and fostering collaboration with stakeholders.
+▶ Create a deeper understanding of stakeholder needs, which
+could drive innovation and enhance market differentiation
+and competitiveness.
+23 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+▶ Enable management and board scrutiny of ESG opportunities
+and risks, and promote company-wide alignment on goals.
+COMPLIANCE AND RISK MANAGEMENT
+▶ Address mandatory reporting requirements on financially
+material factors and mitigate compliance risks related to
+financial disclosure obligations.
+▶ Establish measurements for ESG aspects that are material
+for the company.
+▶ Help the company stay ahead of emerging sustainability
+and disclosure regulations.
+▶ Protect the company’s license to operate by demonstrating
+corporate transparency and responsiveness to stakeholder needs.
+CORPORATE REPUTATION AND BRANDING
+▶ Demonstrate corporate commitments to responsibly managing environmental, social, and economic impacts.
+▶ Exhibit corporate adherence to ethical standards, ESG regulatory frameworks, sustainable development goals, etc.
+24 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+ENHANCED INVESTOR RELATIONS
+AND ENGAGEMENT
+▶ Improve relationships and understanding with investors
+by engaging with stakeholders throughout the process of
+identifying relevant indicators for sustainability reporting.
+MEASURABLE ACHIEVEMENTS
+▶ Measure the impact of ESG factors on the business strategy.
+Sustainability reporting enables the measurement of success
+or progress of ESG issues in key corporate strategies as well
+as impacts of corporate practices, providing an annual basis
+of comparison and promoting improvement strategies.
+▶ Enhance corporate reputation by improving stakeholders’
+perception of a company through reporting-related stakeholder engagement.
+▶ Improve employee perception of the company, helping to attract, retain, motivate and align new and existing employees.
+INFORMATION FLOW
+▶ Ensure that the key stakeholder(s) has the relevant information that is needed to make informed decisions about
+the company’s ability to create value in the short, medium
+and longer term.
+Sustainability reporting generates financial value for
+the company by identifying opportunities for cost
+savings, new revenue generation and risk mitigation.
+25 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+RECOMMENDATIONS FOR INTEGRATING SUSTAINABILITY
+Thirteen steps for integrating and moving forward on corporate
+sustainability, established by BM&FBovespa:
+Start by involving senior management and the board: In
+order to be effective and generate value for the company, the
+decision to get involved with sustainability must come from
+the senior management and benefits from board involvement.
+Identify what needs to change: A diagnostic is key in identifying a company's existing gaps and implementing a short-,
+medium- and long-term action plan. This process will also help
+identify the organization's alignment needs and whether its
+existing infrastructure, processes and systems are suitable
+for the new challenges.
+Set priorities: After performing the diagnostic, the next
+step is to define priorities. Priorities must be set based on
+the concept of materiality, which is broadly used in legal and
+accounting matters, and can also be used to define sustainability strategies. An issue is material when it is important
+and a priority for stakeholders, corporate viability and/or the
+company's internal management.
+Commit publicly: There are several collaborative initiatives
+that require public commitments to sustainable development
+that can help the company formulate its strategy and integrate ESG aspects through a learning network and stakeholder
+engagement. The United Nations Global Compact, launched
+in 2000, is one example.
+Establish sustainable corporate governance: In order
+to guide the company on ESG aspects, short- and long-term
+decisions must be made by creating a corporate governance
+3
+5
+1
+2
+4
+structure that is focused on sustainability and incorporates directors' committees, working groups or sustainability areas into
+the company. Depending on the size of the company, the person
+in charge of corporate sustainability should be a professional
+with access to senior management. While this person does
+not necessarily need to report directly to the chairman, CFO
+or CEO, the board and senior management should be involved
+in setting sustainability objectives and oversight. Depending
+on the industry and maturity of the company's sustainability
+strategy, the sustainability area might be part of the:
+a. Finance/Risk Area
+b. Corporate Affairs Area
+c. Communications Area
+d. Human Resources Area
+e. Operations Area
+26 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+Confirm the corporate identity: Performing the above
+steps might have led to some changes in the organization that
+affect the company's identity. As a result, the mission, vision
+and values need to be reviewed in order to reflect the new
+commitments adopted.
+Engage with stakeholders: Dialoging formally with stakeholders enables the company to better understand how its
+activities impact the environment and society in order to create
+mitigation or compensation plans. It also helps identify its investors' information needs and any business opportunities or
+improvements required by customers.
+Draw up a sustainability policy: This is a key step to translate sustainable strategies and commitments into objectives
+and management guidelines. It must contain the basic guidelines
+for managing sustainability within the company, facilitating
+planning and execution of actions in the different business
+areas. A good policy should be short, objective and distributed
+to all company stakeholders, starting with the organization's
+internal groups.
+Involve internal stakeholders: To ensure a successful corporate strategy, the entire organization must be aligned. This
+logic also applies when implementing a sustainability strategy.
+Embedding the company’s commitment to sustainability into
+its corporate culture can include training programs, codes
+of ethics and internal communications campaigns, among
+other activities.
+Adjust management systems: As a company integrates
+sustainability into its business strategy and organizational
+culture, it might need to adapt its corporate commitments,
+management systems and performance evaluation processes.
+One necessary step is to draft and distribute new corporate
+policies on topics such as sustainability, the environment, labor
+matters, social issues and risk. These policies require management systems to monitor execution by establishing processes
+and procedures and selecting and calculating key indicators.
+Identify and monitor indicators: Indicators must be defined based on the organization's desired objectives, its industry
+and the maturity of its sustainability strategy. They must be
+communicated to the entire organization and reviewed periodically (at least once a year). There are several ESG reporting
+initiatives that are a major source of information and can help
+companies identify the key indicators per industry. (See Chapter
+7: "Considerations in Preparing a Sustainability Report").
+6
+8
+10
+7 9
+11
+27 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+Set goals: If the organization wishes to demonstrate its
+commitment to sustainability, it must set clear goals for the key
+indicators identified. They must ideally be public information in
+order to facilitate internal and external monitoring of compliance.
+Report achievements and challenges: Transparency is a
+must for a company to win its stakeholders' trust. The best way
+to achieve this is by disclosing its ESG information, either in the
+form of supplementary sustainability reports or an integrated
+report that includes information on a company's economic, social and environmental aspects as a result of a unified strategy.
+13
+12
+28 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+06
+RECOMMENDATIONS FOR PREPARING
+In the following section, Santiago Exchange provides Chilean
+issuers recommendations for preparing to report on ESG consideration.
+ A SUSTAINABILITY REPORT
+6.1 RESPONSIBILITY AND OVERSIGHT
+The initial stages of report preparation provide an opportunity to determine who within a company is best placed to be
+involved in creating the report. Regardless of the amount of
+resources allocated, the group should be multidisciplinary as
+reports benefit from the knowledge and expertise of those
+who come to together to prepare them.
+As a practical first measure, it is useful to determine within a company the roles, responsibilities and capabilities that are relevant
+for sustainability reporting, including identifying appropriate
+personnel and coordinating among them. It is recommended that
+senior management lead the ESG reporting process, demonstrating commitment to high-quality reporting and providing strategic
+input into, and oversight over, the process, in order to guarantee
+proper execution. Different departments (such as finance, investor relations, communications, legal, sustainability and each
+business unit) make valuable contributions to the outcome of a
+report. Any team working on sustainability reporting should have
+access to input from across the functional divisions of a company,
+as different functions within the company may be engaging with
+different stakeholders and managing material issues.
+29 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+A company’s board of directors plays an essential role in relation
+to organization-wide integration and oversight of the reporting process. As the board of directors has responsibility for
+oversight of the strategic direction of a company, integrating
+sustainability considerations into the company’s strategy is an
+appropriate aspect of the board’s role. It is thus worthwhile for
+companies to define their sustainability rationales and objectives with their boards of directors, and provide governance
+mechanisms for addressing these factors at all levels of the
+organization. By embedding sustainability into their core duties,
+directors can position themselves to ensure the mainstreaming
+of ESG factors into business strategy, organizational culture
+and operational practices in a way that supports the long-term
+profitability and viability of the company.
+Boards may find it beneficial to issue a statement that clarifies
+how the board determined:
+The importance of different stakeholders.
+Which ESG factors are material and how were they selected.
+Within what time frame it made these judgments, as they change
+over time.
+While these statements are not currently commonplace, they
+are an emerging best practice. Developing such a statement is
+also an opportunity for the board to reflect on the company’s
+role in society and contribution to sustainable development. It
+By embedding sustainability into their core duties, directors
+can position themselves to ensure the mainstreaming of ESG
+factors into business strategy, organizational culture and
+operational practices.
+1
+2
+3
+30 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+can provide transparency regarding the board’s position on and
+oversight of the company’s ESG risks and opportunities, and
+strengthen the company’s credibility when communicating on
+sustainability measures.
+A board leadership commitment to reporting on sustainability
+lends credibility to a company’s claims and publications about its
+ESG commitments and performance. In order to evaluate quality of
+management, many investors examine not only ESG performance
+and the quality of disclosures, but also the management of risks
+and opportunities by executive teams and boards.
+6.2 CLARITY OF PURPOSE
+6.2.1 Supporting Corporate Strategy
+In addition to the benefits of the report itself, a company also
+derives value from the process of creating it. High-quality
+corporate reporting can help a company define guidelines
+for achieving various goals in relation to internal and external
+stakeholders and inform decision-making (particularly that of
+investors). While reporting provides decision-useful information
+for stakeholders, the process of compiling this information
+can also strengthen internal reporting systems beneficial to
+the management of a company. As such, there is a need for
+clear links between reporting needs and strategic goals, the
+business model, risks, opportunities, operational indicators
+and financial performance. With strong connections between
+these areas, a company becomes better able to identify and
+31 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+manage risk, evaluate and measure success, as well as identify
+future challenges and opportunities.
+6.2.2 Identifying and Understanding the Audience
+When reporting information to investors, it is important to
+remember that while all investors can benefit from ESG information, different investors can have distinct information
+needs. Companies can therefore benefit from asking themselves the following questions:
+Who are the company's top investors?
+What kind of investors would the company like to have?
+How has the company engaged with relevant investors to find
+out what they are interested in?
+For instance, investors with a long-term investment horizon, such
+as pension funds, may be particularly interested in information
+regarding risks, such as how climate change may affect the company in the medium or long term. While some investors may only
+be interested in material information that is being disclosed within
+a financial or integrated report, others may want supplemental,
+detailed sustainability information in a stand-alone report. These considerations are important to clarify early in the reporting
+process, as they will help define the content, scope and format
+of reporting, as well as engagement efforts.
+While this guide focuses on facilitating transparency between
+investors and issuers, investors’ information needs go beyond
+investors themselves. Investors are interested in how a company
+communicates with other key stakeholders, which can have a material impact on company operations (e.g., workers, consumers or
+customers, communities, governments). Investors recognize that
+ Investors recognize
+that a company’s ability
+to create value in the
+long term depends on
+its interactions with its
+stakeholders and use of
+resources.
+1
+2
+3
+32 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+a company’s ability to create value in the long term depends on
+its interactions with its stakeholders and use of resources.
+6.3 RELEVANCE AND MATERIALITY
+While companies have a number of sustainability reporting objectives, the materiality of information and its relevance for investors is a key consideration in determining the scope and content
+of a company’s reporting. With a range of potential ESG factors
+to disclose, companies should focus efforts on material factors
+that are relevant to the company. Auditors and attorneys use the
+concept of "materiality" in corporate social responsibility (CSR),
+defining it to include those issues that are especially relevant
+for an organization's sustainability as they reflect their most
+significant economic, environmental and social effects and/or
+substantially influence the evaluations, decisions and perceptions
+of stakeholders.
+Different organizations have different interpretations and recommendations on how the concept of materiality could be applied to
+sustainability reporting16. As an example, the US Supreme Court
+defined material information as the one that has "substantial
+likelihood that the omission in disclosure of the fact could be
+viewed by the reasonable investor as having significantly altered
+the ‘total mix’ of information made available”, recognizing that it
+is important information for investor’s decisions.
+Likewise, different stakeholder groups have distinct views on
+which ESG factors are material for a company. The company must
+adopt the definition most used by its stakeholders, market regulators or industry sector.
+Identifying relevant issues is a starting point for identifying material factors. Information is “relevant” when it influences the
+opinion or decision of users by helping them to evaluate past,
+present or future events, or by confirming or correcting their
+past evaluations. As such, understanding the reporting audience
+is critical to determining what information should be included in
+a sustainability report. For determining material factors, it can
+be useful to gage how much an issue might potentially affect the
+company’s ability to create value over time.
+In addition to material information, a company may decide to report
+on other factors that do not meet the threshold for materiality,
+but may still be relevant to the company’s operational and/or
+reputational performance. For example, a company’s perspective
+16. For more information see Chapter 7 :” Considerations in preparing a
+sustainability report”
+33 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+on what is material to investors may diverge from what, in its view,
+is significant to society. Therefore, one company may decide to
+report only on material information, whereas another may report
+all information it deems significant to its stakeholders
+Whether a company decides to apply a strict interpretation
+of materiality when considering which ESG information to report, or it takes a wider view, companies will strengthen their
+reports by clearly articulating how the concept of materiality
+has been applied.
+6.3.1 Identifying Themes
+Whether a company reports on a smaller number of only
+the most material themes or a more comprehensive range,
+an effective report covers ESG considerations that are relevant to business strategy and illustrates the link to both
+long-term and, when possible, short-term value.
+Thinking through each piece of a company’s value chain can help
+develop a comprehensive understanding of the ESG themes
+that could be relevant for disclosure. Additionally, it is often
+helpful to reflect on the risks discussed in the company’s annual
+management reports, as well as themes reported by peers. A
+company can also use a variety of national and international
+resources to develop an initial list of ESG themes, be they generic or sector-specific. For example, the UN Global Compact’s
+10 Principles17 or the UN’s 17 Sustainable Development Goals18.
+One area a company may benefit from further exploring is that
+of intangible assets. One of the foremost of these intangibles
+17. Global Compact is based on four broad concepts (Human Rights, Labor,
+Environment and Anti-Corruption) and 10 main principles on sustainability
+matters. The objective is to facilitate a basic understanding of what the
+principles represent, how they relate to the business sector and how
+they contribute as an essential part of the organizational philosophy of
+theparticipating companies. For more information, see the 10 Principles.
+18. L17 Sustainable Development Goals (SDGs) of the 2030 Agenda for
+Sustainable Development, adopted by world leaders in September
+2015 at an historic UN Summit officially came into force on 1 January
+2016. Over the next fifteen years, with these new Goals that universally
+apply to all, countries will mobilize efforts to end all forms of poverty,
+fight inequalities and tackle climate change, while ensuring that
+no one is left behind. For more information, see the 17 Goals.
+for many firms is human capital, and good ESG practices are
+recognized as key drivers of employee attraction, motivation
+34 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+and retention. Another intangible is brand image, and again
+good ESG practices affect consumer or customer interest in
+products and services and the company’s license to operate
+in the eyes of governments and local communities.
+Another relevant element of company value is tied to “natural
+capital”, which relates to the raw material inputs and environmental processes. Companies are increasingly challenged by risks,
+such as resource depletion, species loss and climate change
+impacts. As a result, better management of natural capital is
+believed to have an impact on companies’ long-term viability.
+6.3.2 Adopting Relevant Performance Indicators
+Once a company has established which ESG themes to report
+on, it can begin to disclose specific performance indicators to
+demonstrate progress in a sustainability report. These indicators may be generic, industry-specific or company-specific. It is
+recommended that companies use widely accepted indicators
+developed via a credible, recognized international process. The
+Sustainability Reporting Guidelines of Global Reporting Initiative (GRI), for example, produces the most widely used set of
+indicators for corporate sustainability reporting.
+35 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+When reporting ESG indicators, investors appreciate information
+that appears in the appropriate context, including comparisons to:
+▶ Historical company and industry trends.
+▶ Related corporate goals.
+▶ Relevant ratios.
+▶ Industry averages.
+▶ Financial results/performance.
+As investors seek to understand how ESG information is linked
+to the company’s business strategy and financial performance,
+quantitative data is in high demand because it can be more
+easily compared across time within the same company or with
+similar data from other companies. Such data is also useful
+for enhancing investment valuation and credit rating models.
+To effectively use indicators, companies can:
+▶ Consult nationally or internationally recognized reporting guidelines and protocols for measuring, preparing and presenting ESG
+metrics to improve the quality of a company’s disclosure.
+▶ Explain why indicators increased or decreased year-to-year. Investors also appreciate knowing the company’s perception of
+this, and how this might change in the future.
+▶ Explain methodologies for data collection in the report, along with
+why these were used.
+▶ Supplement qualitative narratives with quantitative data, benchmarks and targets, and vice versa.
+▶ Explain the link between ESG metrics and financial performance,
+by demonstrating how ESG initiatives drive growth, productivity
+and risk management in monetary terms, where possible.
+▶ Report on challenges and mistakes as well as accomplishments.
+Moreover, in many jurisdictions, information on regulatory infractions or penalties is available independently through the regulator's
+information channel. If stakeholders have access to this information and do not see it in corporate reporting, this diminishes the
+credibility of the corporate report. Investors understand that no
+company has a perfect record on every ESG issue; an honest discussion builds rapport with shareholders and other stakeholders
+alike, and often wards against more aggressive engagement.
+36 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+6.4 ACCESSIBILITY
+The right disclosure channels ensure investors receive relevant, easily accessible, comparable and timely information. It is
+advantageous for companies to be familiar with their targeted
+audiences’ preferred ESG information sources, and to update
+these with timely and accurate news about their performance.
+To accommodate variable information needs and interests,
+it may be relevant to use different communication channels,
+including websites, voluntary or mandatory regulatory filings,
+annual reports, sustainability reports and other company
+reports. Using more than one communication channel can be
+an effective way to ensure that a company’s complete target
+audience gets the necessary information. To make the information more accessible to international investors, companies
+may also wish to disseminate their ESG information in English,
+in addition to the Spanish version.
+The appropriate channels for ESG disclosure also depend on a
+company’s regulatory context and business and communication
+strategy. Securities regulations or listing rules may require a
+company to integrate financially material ESG information into
+its financial disclosures and other mandatory investor communications and regulatory filings. Similarly, given a company’s
+own analysis of information needs and expectations, it may
+decide to include certain ESG information in the company’s
+financial disclosure even if not required.
+Using more than one
+communication channel
+can be an effective way to
+ensure that a company’s
+complete target audience
+gets the necessary
+information.
+37 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+Stand-alone sustainability
+reporting
+Financial reporting with
+material ESG factors Integrated reporting
+Sustainability reports
+address the relevant ESG
+information needs of
+investors and sometimes
+other stakeholders, such as
+consumers or customers and
+the community.
+After a company determines certain ESG factors are
+material to its business over
+a specific time horizon, it
+may decide to include this
+information in its financial
+reports. These likely cover
+a smaller set of ESG factors
+than the other options listed.
+An integrated report is a
+concise communication
+about how an organization’s strategy, management, performance and
+prospects, in the context of
+its external environment,
+lead to the creation of value over the short, medium
+and long term.
+Illustrated below are three examples of communication channels a company may consider for disclosing ESG information to
+stakeholders. As mentioned above, many companies pursue a
+suite of complementary reporting channels and the processes
+to compile one can feed into the other.
+Regardless of the format, there are a few overarching practices
+to keep in mind:
+If sustainability disclosure is separate from financial disclosure, it is recommended that the two types of disclosure
+are published for the same reporting period. This will allow
+investors to consider financial information within the context
+of ESG information. Cross-references within these documents
+ensure connectivity and accessibility of information.
+1
+38 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+It is important to ensure consistency among the information reported in different communication channels. For example,
+a company would not want to have one channel emphasizing the
+critical nature of an issue to its business and then not discuss
+that issue in another communication channel.
+It is critical that the information is easy to find, for example by producing an online content index with hyperlinks to
+boost digital accessibility indicating where all existing ESG
+information can be found.
+Overall, reporting is most effective when the language
+used and the way the information is presented is clear and
+relevant for investors and connects to a company’s ability to
+create value in the short, medium and long term.
+6.5 CREDIBILITY AND RESPONSIVENESS
+6.5.1 Robust Internal ESG Data Collection and
+Management Processes
+Better data leads to better decision-making and performance. First, it is useful to assess the capabilities of existing internal systems to collect concise, reliable and complete ESG
+data. Rather than creating completely new channels, companies can make use of existing internal audit, risk and data control verification systems. If internal systems are not currently
+sufficient for the task, a company may decide it is in its longterm best interest to invest in building capacity in this area.
+If data collection gaps are identified, companies can identify
+and explain them in their report.
+6.5.2 Engaging for Continuous Improvement
+Engaging stakeholders on ESG factors is best conducted as
+a preventative rather than reactionary activity, as stakeholders can help a company identify, mitigate, and manage ESG
+risks and opportunities before problems emerge. Stakeholder
+engagement can also be a source of innovation, future opportunities and new partnerships that fuel strategic growth. Disclosing a company’s sustainability integration process can help
+investors understand if and how well a company is integrating
+ESG risks and opportunities into planning and operations, as
+well as lend credibility to company claims about leadership in
+ESG performance.
+Systematic stakeholder engagement enhances receptivity and
+the usefulness of corporate ESG information. Executed properly,
+stakeholder engagement is likely to result in improved unders3
+4
+2
+39 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+tanding by the company of its strategic partners and resources,
+strengthen relationships with stakeholders and foster higher
+levels of trust among external parties regarding the company’s
+actions and reporting.
+6.5.3 Assessment and Control
+ESG reports are made more credible by strong internal assessment processes and/or external assurance, if resources
+permit. With respect to the former, an internal audit committee
+or group of individuals, independent of the division tasked with
+measuring and gathering the ESG information or indicators,
+can review disclosure. An internal audit can also further ensure
+that internal data collection systems are robust and organized.
+Interest in externally assured sustainability reports, along with the
+development of disclosure standards, has been driven by investor
+requests for companies to bring ESG information up to financial
+grade reporting for investment decision-making. If resources
+allow, external assurance of sustainability reports can lend an
+added degree of trust, credibility and recognition, just as financial
+auditing does. Auditing/accounting firms and sustainability risk
+rating agencies are the most common third-party assurance providers. In order to decide the type and level of assurance needed
+for ESG information, it is important for companies to consider
+recommended standards for assurance within their sector, as
+well as stakeholder expectations.
+40 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+07
+CONSIDERATIONS IN PREPARING
+7.1 SUSTAINABILITY REPORTING INITIATIVES
+In preparing sustainability reports, it is recommended to
+use a nationally or internationally recognized reporting initiative or ESG indicator identification tool, since they also
+lend comparability.
+The following tools can be used to identify relevant ESG factors
+for the company and its stakeholders:
+▶ The Sustainability Reporting Guidelines of Global Reporting Initiative (GRI), with over 140 indicators that address
+ESG issues across all sectors, defined by their relevance
+to stakeholders.
+A SUSTAINABILITY REPORT
+▶ UN Global Compact’s best practices related to the GC Advanced Communication on Progress in the areas of human
+rights, labor, environment and anti-corruption.
+▶ Indicators from the Carbon Disclosure Project (CDP) regarding climate change, water consumption and deforestation.
+▶ Climate Disclosure Standards Board’s (CDSB) Framework for
+reporting environmental information and natural capital in
+mainstream financial reports.
+▶ The International Integrated Reporting Framework (IIRC).
+▶ The Sustainability Accounting Standards Board’s (SASB)
+standards identify relevant factors by industry sector that
+are comparable with each other.
+▶ UN Guiding Principles Reporting Framework addresses
+reporting on human rights according to the UN Guiding
+Principles on Business and Human Rights
+41 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+Some details on the organizations that promote these standards:
+▶ Global Reporting Initiative (GRI): The GRI initiative, created
+in 1995 as a joint project between the United Nations Environment
+Programme (UNEP) and the Coalition for Environmentally Responsible Economies, is an independent, international organization
+that helps companies, governments and other organizations
+communicate their businesses' impact on critical sustainability
+issues such as: climate change, human rights, corruption, etc. It
+includes more than 140 performance indicators, separated into
+its Sustainability Reporting Standards.
+▶ United Nations Global Compact: The United Nations Global
+Compact is a call to companies everywhere to voluntarily align
+their operations and strategies with ten universally accepted
+principles in the areas of human rights, labor, environment and
+anti-corruption, and to take action in support of UN goals and
+issues. The UN Global Compact is a leadership platform for the
+development, implementation and disclosure of responsible
+corporate policies and practices. Launched in 2000, it is the
+largest corporate sustainability initiative in the world, with
+over 8,000 companies and 4,000 non-business signatories
+based in 160 countries, and over 85 local networks. Business
+participants are expected to publicly report on their progress
+in an annual "Communication on Progress" (CoP).
+▶ Carbon Disclosure Project (CDP): CDP is a global not-forprofit organization, founded in 2000 and headquartered in
+London. The CDP standard defines ESG indicators on climate
+change, sustainable water consumption and deforestation.
+Companies report ESG information through annual questionnaires sent on behalf of institutional investors that endorse
+them as "CDP signatories". These shareholder requests for
+information encourage companies to publicly share information
+on their greenhouse gas emissions and mitigation measures.
+▶ Climate Disclosure Standards Board (CDSB): The Climate Disclosure Standards Board (CDSB) is an international
+consortium of business and environmental NGOs founded in
+2007 in London. They are committed to advancing and aligning
+the global mainstream corporate reporting model to equate
+natural capital with financial capital. As of late 2015, 341 companies in 32 countries used the CDSB framework for reporting
+environmental information to stakeholders.
+▶ International Integrated Reporting Council (IIRC): Integrated reporting is an evolution of corporate reporting,
+with a focus on conciseness, strategic relevance and future
+orientation. It aims to improve accountability, management and
+42 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+trust as well as information flows and transparency entailed
+with technology, providing investors with critical information
+to make more effective capital allocation decisions, which will
+facilitate better long-term profitability of their investments.
+The first discussion paper was issued in 2011 in the United
+Kingdom and the final version was published in 2013.
+▶ Sustainability Accounting Standards Board (SASB):
+SASB, an independent, non-profit US-based organization, was
+created in July 2011. Its mission is to develop and disseminate
+industry-specific sustainability standards and indicators that
+enable corporate performance to be compared. The indicator
+matrices are constructed through a rigorous process that
+includes evidence-based research and broad, balanced stakeholder participation.
+▶ UN Guiding Principles Reporting Framework: The United
+Nations Guiding Principles Reporting Framework is the first
+comprehensive guidance for companies to report on human
+rights issues in line with their responsibility to respect human
+rights as set out in the UN Guiding Principles. It provides a
+concise set of questions for a company to consider and report
+on in order to know and show that it is meeting its responsibility to respect human rights in practice. It offers clear and
+straightforward guidance on how to answer these questions
+with relevant and meaningful information about human rights
+policies, processes and performance.
+7.2 PERFORMANCE MEASUREMENT METRICS
+AThe following list of material sustainability indicators can
+serve as a reference for issuers when preparing their sustainability reporting. These material ESG reporting indicators are
+the result of an analysis of different sustainability standards
+and tools conducted by the Sustainability Working Group of
+the World Federation of Exchanges, of which Santiago Exchange has been a member since 2015. Note that the list is
+not exhaustive, and companies are free to choose the most
+applicable indicators according to their business.
+43 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+ESG aspect Metric Annual measurement or specification
+Environmental Direct and indirect greenhouse gas (GHG)
+emissions Total amount, metric tons.
+Environmental Carbon intensity Total emissions relative to revenue.
+Environmental Direct and indirect energy consumption Total amount, metric MWh.
+Environmental Energy intensity Amount of direct energy used per M3 of space and FTE.
+Environmental Primary energy source Cite specific energy type in majority of direct usage
+Environmental Renewable energy intensity Percentage of direct energy consumption from renewable sources
+Environmental Water management Total amount of water consumed, recycled or reclaimed, M3
+Environmental Waste management Total amount of waste generated, recycled or reclaimed (by type and
+weight)
+Environmental Environmental policy Does your company publish and follow an environmental policy? Yes / No
+Environmental Environmental impacts Did your company bear any legal/regulatory responsibility for an
+environmental impact? Yes / No
+Social CEO pay ratio Ratio: CEO salary and bonus to median FTE salary
+Social Gender pay ratio Ratio: Median male salary to median female salary
+44 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+ESG aspect Metric Annual measurement or specification
+Social Employee turnover rate Percentage of change for FTEs, contractors, consultants.
+Social Gender diversity Percentage of FTE, contractor and consultant positions held by women.
+Social Temporary worker rate Percentage of FT positions held by part-time/contract/temp workers.
+Social Non-discrimination Does your company publish and follow a non-discrimination policy? Yes /
+No
+Social Injury rate Total number of injuries and fatalities relative to workforce
+Social Global health Does your company publish and follow a policy for occupational and global
+health issues? Yes / No
+Social Child and forced labor Does your company prohibit the use of child or forced labor throughout the
+supply chain? Yes / No
+Social Human rights policy Does your company publish and follow a human rights policy or statement?
+Yes / No
+Social Human rights violations Number of grievances about human rights impacts filed, addressed or
+resolved.
+Social Board - diversity Percentage of board seats filled by independents and women.
+Governance Board - separation of powers Does your company allow the CEO to sit on the board, act as chairman or
+lead committees?
+Governance Board - confidential voting Are your board votes (individually or collectively) made public? Yes / No
+45 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+ESG aspect Metric Annual measurement or specification
+Governance Incentivized pay Are company executives formally incentivized to perform on ESG? Yes / No
+Governance Fair labor practices Does your company (or supply chain) inhibit workers from organizing? Yes /
+No
+Governance Supplier code of conduct Does your company publish and follow a supplier code of conduct? Yes / No
+Governance Ethics code of conduct Does your company publish and follow an ethical code of conduct? Yes / No
+Governance Anti-corruption code Does your company publish and follow an anti-corruption code? Yes / No
+Governance Tax transparency Does your company publish and follow a tax policy that is overseen by the
+board? Yes / No
+Other Sustainability report Does your company publish a sustainability report? Yes / No
+Other Framework disclosures Does your company publish a GRI, CDP, SASB, IIRC or UN GC disclosure?
+Other External assurance Are your company's ESG disclosures assured or validated by a third party?
+Yes / No
+46 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+08
+APPENDICES
+8.1 QUESTIONS TO GUIDE REPORT
+PREPARERS
+The following questions may be useful to corporate issuers
+as they prepare their ESG reports. Intended for those who
+do not consider themselves advanced reporting experts, the
+questions are arranged according to the reporting recommendations detailed in Chapter 6 of this document.
+Overview
+How is the company moving towards a sustainable business strategy?
+How can ESG aspects support the achievement of business goals?
+What are the existing reporting requirements imposed
+by the market regulator?
+Responsibility and Oversight
+How can the company use ESG disclosure to engage and
+align board members, senior executives and employees?
+What are the key issues and future goals that relate to ESG
+from the point of view of the CEO and/or Chairman?
+How are board members, senior executives, and employees
+involved in ESG-related decision-making, planning, monitoring
+and activities?
+1
+3
+5
+4
+2 6
+47 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+Clarity of Purpose and Responsiveness
+What is the company’s main reporting objective(s)?
+What are the key ESG factors that impact the company
+strategy in terms of the risks and opportunities they present?
+What are the company’s public commitments towards
+sustainable development and corporate responsibility?
+Who are the company’s priority stakeholders? What is the
+process for identifying them and how often is that determination refreshed or updated? How does the company know what
+ESG matters are relevant for these stakeholders?
+Which ESG factors are most relevant for the company’s
+current and potential investors?
+What does the company know about its existing investor
+base and its information needs?
+How would the company like to evolve its investor roster
+in the next five years?
+What does the company know about the information needs
+of its future investor roster?
+Relevance and Materiality
+What is the company’s materiality determination process
+related to ESG matters?
+How do ESG factors fit within the company’s existing materiality determination process?
+Which ESG factors have the most impact on the company’s
+long-term value creation?
+Which ESG factors directly impact the company’s short-termfinancial performance?
+Has the company identified what information investors need?
+How does the company maintain and enhance its relationship with investors?
+How does the company compare with respect to ESG management among its benchmarked peers?
+What ESG factors are linked to current and potential regulations?
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+7
+21
+22
+48 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+Accessibility, Credibility and Usability
+How are investors, and potentially other stakeholders,
+using the company’s disclosure?
+How can the company leverage ESG disclosure to deepen
+relationships with investors?
+How can the company use their feedback to improve performance?
+How has the company effectively engaged investors in the
+ESG disclosure process?
+What alternative methods does the company need to explore to engage investors?
+How does the company use feedback from investors in its
+decision-making processes?
+How do financial disclosure controls and obligations apply
+to the company’s ESG disclosure?
+What level(s) of assurance is meaningful and feasible?
+What level(s) of assurance do investors expect?
+How does the company determine which third party is the
+most effective and relevant to assure the company’s disclosure?
+8.2 COMMUNICATING THE VALUE OF
+SUSTAINABILITY
+The value driver model offers companies a simple, direct
+approach for assessing and communicating the financial impact of their sustainability strategies.
+The objective of the value driver model is to provide key indicators for companies to use to illustrate how their sustainable business strategy contributes to the company's general
+performance. The financial and market performance of any
+company is the product of a complex array of factors. The
+following table shows the possible ways that ESG aspects
+can affect the determining factors in companies' financial and
+market performance. The model enables firms to construct
+their own metrics to describe the connection between their
+26
+27
+28
+29
+30
+31
+32
+23
+24
+25
+49 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+top financial objectives (e.g. return on capital or return on
+equity) and the following:
+▶ Revenue growth from sustainability-advantaged products,
+services and/or strategies (S / G).
+▶ Total annual cost savings (and cost avoidance) from sustainability-driven productivity initiatives (S / P).
+▶ Reduced sustainability-related risk exposure that could
+materially impair a company’s performance (S / R).
+RETURN ON
+EQUITY OR
+CAPITAL
+GROWTH
+New Markets & Geographies
+New Customers & Market Share
+Product & Services Innovation
+Long-term Strategy
+Revenue Growth from
+Sustainability-Enhanced
+or Advantaged Product &
+Services
+= S/G
+PRODUCTIVITY
+Operacional Efficiency
+Human Capital Management
+Reputation Procing Power
+Total Cost Saving + Avoidance
+from Sustainability-related
+Iniciatives
+= S/P
+RISK MANAGEMENT
+Operational & Regulatory Risk
+Reputational Risk
+Supply Chain Risk
+Leadership & Adaptability
+Measureable reduction in
+Exposure to Sustainabilityrelated Risks to Revenue and
+Reputation
+= S/R
+Source: UN Global Compact and Principles of Responsible Investment (PRI)
+FIGURE 1: THE VALUE DRIVER MODEL
+50 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+▶ ISO26000 Guidance on Social Responsibility: ISO26000
+is an international guidance standard on social responsibility
+for organizations of all types in the public and private sectors,
+and includes specific guidance on communication on social
+responsibility. The standard was issued in November 2010 after five years of work that included contributions from some
+450 experts from 99 countries, plus 200 observers, and 42
+regional or global liaison organizations such as the Consumers
+International, the International Labor Organization, United
+Nations Conference on Trade and Development (UNCTAD),
+the UN Global Compact and the World Health Organization.
+8.3 GLOBAL SUSTAINABILITY STANDARDS
+AND PRINCIPLES
+The following internationally accepted sustainability standards
+have been developed by institutions that promote standards,
+best practices and corporate transparency.
+▶ AA1000 Stakeholder Engagement Standard: Developed
+by AccountAbility, a U.K.-based global organization, AA1000 is
+a series of standards designed to help organizations become
+more accountable and sustainable. They address priorities,
+performance and targets in governance, sustainability assurance, and inclusive stakeholder engagement, among others,
+and complement standards such as ISO9001 and ISO14001.
+51 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS
+▶ OECD Guidelines for Multinational Enterprises19: The
+guidelines are far-reaching recommendations addressed by
+governments to multinational enterprises operating in or from
+adhering countries. They provide voluntary principles and
+standards for responsible business conduct in areas such as
+employment and industrial relations, human rights, environment, information disclosure, combating bribery, consumer
+interests, science and technology, competition, and taxation.
+Chapter III covers disclosure and calls on enterprises to be
+transparent in their operations and responsive to the public’s
+increasingly sophisticated demands for information.
+▶ International Labour Organization, Tripartite Declaration of Principles Concerning Multinational Enterprises
+and Social Policy: The MNE Declaration provides guidelines
+to companies, governments, and employee and labor organizations in such areas as employment, training, conditions of
+work and life, and industrial relations. Companies can use these
+guidelines to enhance the positive social and labor effects of
+their operations.
+19. Organization for Economic Cooperation and Development (OECD)
+52 DESIGN AND CONSTRUCTION OF SUSTAINABILTY REPORTS

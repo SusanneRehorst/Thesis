@@ -1,0 +1,1968 @@
+In support of Supported by
+Leading the way for
+a better tomorrow
+JSE Sustainability
+Disclosure Guidance
+Draft open for public comment from
+9 December 2021 - 28 February 2022
+
+Contents
+A message from the JSE Group CEO 2
+Introduction 4
+Chapter 1: What is sustainability, and why report on it? 8
+1.1 What is Sustainability and ESG? 10
+1.2 Why report on sustainability? The business case for good disclosure 13
+Chapter 2: How might an organisation approach sustainability disclosure? 16
+2.1 Understanding materiality 18
+2.2 Different reporting formats 20
+2.3 Principles for useful sustainability data and an effective sustainability disclosure 23
+Chapter 3: What sustainability information should a company disclose? 24
+3.1 Sustainability Narrative Disclosures 27
+3.2 Core and Leadership Sustainability Metrics 30
+Annexes 38
+Annex 1: Global and regional standards and frameworks relating to sustainability disclosure 39
+Annex 2: The JSE Disclosure Guidance, the ISSB Protocols and the EU CSRD – A brief comparison 42
+Annex 3: Abbreviations and acronyms 46
+Annex 4: Acknowledgements 47
+JSE Limited Sustainability Disclosure Guidance 2021 1
+
+Introduction
+Globally and locally, companies are feeling increased
+pressure to improve their performance and disclosure
+on environmental, social and governance (ESG) and
+climate-related issues, and to demonstrate leadership in
+addressing social and environmental challenges.
+Increasing investor interest in ESG disclosure, coupled
+with the recent growth in sustainable finance instruments
+and the varying methodologies and indicators of ESG
+rating agencies and global reporting standards, has
+prompted calls for more consistent, comparable, and
+verifiable sustainability metrics and narrative disclosure.
+In this context, the JSE welcomes the recent global
+initiatives aimed at ensuring greater convergence and
+harmonisation of sustainability reporting standards.
+The JSE believes that meaningful sustainability disclosure
+plays an important role in building resilient markets,
+helping to attract financial capital, and fostering greater
+accountability and improved business performance.
+We believe that locally listed companies and investors
+will benefit from the global activities – by the G20, G7,
+the European Commission, the Financial Stability Board,
+the IFRS Foundation, the Global Reporting Initiative (GRI),
+and others – towards developing a common baseline of
+international sustainability reporting standards. We are
+committed to ensuring that the disclosure practices
+of South African companies are aligned with these
+initiatives, and that the country continues to play an
+influential role in contributing to these developments.
+To help local companies navigate the recent changes
+ in the global reporting landscape, and to stimulate
+improved sustainability disclosure and performance,
+the JSE has developed this Sustainability Disclosure
+Guidance that is aligned with global expectations and
+best practice, and specifically tailored to the South
+African business context. It is intended that this
+Disclosure Guidance will serve as an umbrella for
+topic-related guidance as needed, with the first such
+guidance – on Climate Disclosure – to be released at
+the same time.
+Securities exchanges are uniquely placed to facilitate more efficient capital
+markets by properly pricing social and environmental risks through
+effective, consistent, and comparable sustainability and climate-related
+disclosure.
+Ensuring coherence: The link
+between the JSE Disclosure
+Guidance and key global
+initiatives
+The Sustainability Metrics and Narrative Disclosures
+provided in the JSE Sustainability Disclosure Guidance
+are fully aligned with, and draw from, the following
+international initiatives on sustainability and climate
+change disclosure:
+y The initial work of the recently established
+International Sustainability Standards Board (ISSB),
+including the two recently published prototypes
+developed by the IFRS Foundation Technical
+Readiness Working Group (TRWG)2
+y The standards and guidance in the Value Reporting
+Foundation’s Integrated Thinking Principles,
+Integrated Reporting Framework, and SASB
+Standards
+y The Climate Disclosure Standards Board (CDSB)
+Framework (soon to be consolidated – together with
+the Value Reporting Foundation – within the IFRS
+Foundation)
+y The recommendations of the Task Force on Climaterelated Financial Disclosure (TCFD)
+y The WEF’s Measuring Stakeholder Capitalism metrics
+y The SDG Disclosure Recommendations
+y The GRI’s Sustainability Reporting Standards,
+developed by the Global Sustainability Standards
+Board (GSSB)
+y The work of the European Commission and European
+Financial Reporting Advisory Group (EFRAG)
+regarding the development of EU sustainability
+reporting standards as part of the proposed
+Corporate Sustainability Reporting Directive (CSRD)
+As outlined in Figure 1, these various global initiatives
+that inform the JSE Disclosure Guidance relate to one
+of three broad arenas for corporate disclosure on
+sustainability issues: sustainability reporting, integrated
+4 JSE Limited Sustainability Disclosure Guidance 2021
+reporting, and financial reporting. The ISSB and TCFD,
+for example, focus explicitly on disclosure to inform an
+assessment of enterprise value (and are thus
+traditionally addressed in integrated reports and
+financial statements), while the GRI’s Sustainability
+Reporting Standards and the EU proposal for a
+Corporate Sustainability Reporting Directive both look at
+disclosure through the broader lens of the
+organisation’s impacts on the economy, society, and
+the environment.
+In line with the King IV Code, the JSE’s Sustainability
+Disclosure Guidance aims to improve the quality and
+availability of information both for investors – focusing
+on the sustainability-related risks and opportunities that
+affect the entity’s financial performance (the ‘outside-in’
+perspective) – as well as for stakeholders more broadly,
+covering disclosure on the reporting entity’s significant
+impacts on the economy, society, and the environment
+(‘inside-out’) .
+The JSE Sustainability Disclosure Guidance is not
+intended to replace any of these global initiatives, but
+instead seeks to help companies navigate this very
+dynamic landscape of reporting standards, while also
+providing for the South African business context,
+legislative requirements, and specific socio-economic
+and environmental challenges. An important aim of this
+Guidance is to reduce complexity and the potential for
+duplicative reporting requirements, assisting reporting
+entities, investors, and other stakeholders through the
+provision of decision-useful metrics that are both
+globally aligned – facilitating access to global markets
+– yet also locally relevant.
+Figure 1 – Global standards and different lenses for corporate sustainability disclosure4
+Dynamic materiality:
+Sustainability-related
+issues can move
+(gradually or very
+quickly) between
+these areas
+All sustainability matters affected by or that affect the organisation
+Disclosure includes those sustainability topics that
+reflect the organisation’s most significant impacts
+(positive or negative) on society, the environment,
+and the economy (”people, planet and prosperity”).
+Disclosure includes a sub-set of sustainability
+issues that enable report users to understand the
+financial implications of sustainability-related
+risks and opportunities on enterprise value
+over time.
+Disclosure includes monetary amounts in the financial
+statements reflecting the effects on enterprise value that
+have already taken place at the reporting date, or are
+included in future cash flow projections.
+Materiality should be informed by science-based
+environmental thresholds and agreed social priorities as
+articulated in authoritative international instruments,
+global and national development objectives, and local
+legislative requirements.
+Materiality should be informed by the extent to which the
+sustainability-related information influences a users’
+assessments of the value, timing and certainty of the
+reporting entity’s future cash flows, over the short,
+medium and long term.
+Sustainability reporting targets all stakeholders seeking to
+understand the entity’s significant sustainability impacts
+Integrated reporting targets stakeholders seeking to assess
+enterprise value (eg: investors, lenders and creditors)
+Financial reporting targets primarily investors
+and capital markets
+Impact
+Materiality
+Financial
+Materiality
+2 General Requirements for Disclosure of Sustainability-related Financial Information Prototype and Climate-related Disclosures Prototype (both
+published on 3 November 2021)
+3 This dual approach is sometimes referred to as ‘double materiality’. See eg Section 3.1 and the EU Non-Financial Reporting Directive (Directive
+2014/95/EU)
+4 This diagram draws on various material developed by EFRAG, GRI, CDP, CDSB, Value Reporting Foundation and IFRS
+JSE Limited Sustainability Disclosure Guidance 2021 5
+The JSE Sustainability
+Disclosure Guidance: Purpose
+and intended audience
+This Disclosure Guidance does not constitute a new
+listing requirement and is not intended as a new reporting
+standard or to replace legal obligations. The Guidance
+highlights emerging best practice for disclosure in line
+with international developments. It is intended to inform a
+reporting organisation’s sustainability materiality process
+with a view to enhancing business practice.
+At the heart of this Disclosure Guidance is the belief,
+firstly, that sustainability issues are material to enterprise
+value creation and increasingly provide valuable
+opportunities for commercial innovation, and secondly,
+that if we are to transition to a more sustainable economy
+– as outlined for example in the UN SDGs and the
+Glasgow Climate Pact – then organisations need to
+deepen their understanding and disclosure of their most
+significant social and environmental impacts.
+As a conduit between issuers and investors, securities
+exchanges are uniquely placed to encourage and facilitate
+more transparent and efficient capital markets that generate
+long-term value. Transparency builds trust, which is critical
+to well-functioning markets. Effective corporate disclosure
+enhances internal management practice and enables
+meaningful accountability, both of which are critical
+drivers for improved sustainability performance.
+This Disclosure Guidance aims to enable more useful,
+consistent, and comparable sustainability disclosure to
+inform better decision-making and action. To achieve this,
+the Guidance seeks to:
+Help issuers navigate the rapidly evolving landscape
+of sustainability disclosure
+Support the convergence of global reporting standards
+Outline the business case for disclosing the organisation’
+sustainability governance and management practices and
+their performance on relevant ESG metrics
+Stimulate interest in the innovation opportunities
+in sustainability challenges
+Assist in contributing to the achievement of
+national and international sustainable
+development commitments and priorities, such
+as the National Development Plan and UN SDGs
+This Guidance avoids being prescriptive, and
+leaves responsibility for decision-making with the
+reporting organisation, particularly as regards the
+identification of material sustainability issues.
+The Sustainability Narrative Disclosures and the
+Core and Leadership Metrics in Chapter 3 of this
+Disclosure Guidance are intended to inform any
+materiality processes that organisation’s use to
+inform the content of their various annual
+reports. The Guidance is designed to be helpful
+for those companies with little or no experience in
+sustainability and ESG disclosure, as well as
+helping more experienced reporting companies to
+align with recent changes in global standards and
+international best practice.
+While intended primarily to assist JSE-listed
+companies, this guidance will also be of value to
+institutional investors and the different entities
+that they invest in (including non-listed
+companies and debt issuers), as well as a range
+of stakeholder groups interested in sustainability
+disclosure and performance.
+Investors are increasingly interested in
+sustainability issues as this pertains to all their
+investments, irrespective of whether they are
+large or small, equities or bonds, listed or unlisted,
+across all sectors. The JSE believes that the
+characteristics of high-quality disclosure and
+effective engagement with investors is broadly
+the same for all entities, whether it is a large
+publicly listed issuer with a long track record of
+reporting, a smaller company, a privately held
+business, or a debt issuer. All these different
+entities are encouraged to use these guidelines.
+6 JSE Limited Sustainability Disclosure Guidance 2021
+JSE Limited Sustainability Disclosure Guidance 2021 7
+What is sustainability
+and why report on it?
+01
+8 JSE Limited Sustainability Disclosure Guidance 2021
+JSE Limited Sustainability Disclosure Guidance 2021 9
+1.1 What is sustainability
+and ESG?
+The concepts of ‘sustainability’ and ESG
+(environmental, social and governance issues) often
+mean different things to different people. Despite the
+terms increasingly being used by investors,
+companies, standards setting bodies, and
+academics, there is no clear agreement on the exact
+scope of each of these terms.
+For many companies, practitioners and standards
+setting bodies, ESG and sustainability are seen as
+interchangeable concepts. In the London Stock
+Exchange’s Guide to ESG Reporting , for example,
+the stock exchange recognises that “many
+companies use ‘sustainability’, ‘corporate
+responsibility’ or ‘corporate social responsibility’ to
+refer to strategies or programmes related to
+environmental, social or governance (ESG) activities”.
+While the LSE states that they “make no particular
+recommendation concerning which term to use”, for
+the purpose of their guidance, the LSE chooses to
+use ESG “as it has become a commonly-used
+investment term.” Significantly, the LSE’s guidance
+has a strong investor focus, identifying material ESG
+issues as those that influence the economic
+decisions of shareholders.
+The view of ‘ESG’ as being primarily about ‘enterprise
+value’ is widespread in the investment community.
+As the International Organization of Securities
+Commissions (IOSCO) puts it: “ESG ratings, rankings
+and scorings serve the same objective, namely the
+assessment of an entity, an instrument, or an
+issuer’s exposure to ESG risks and/or opportunities.”
+This focus on enterprise value is at the heart of the
+Value Reporting Foundation (and before that, of
+SASB and the IIRC) and is informing the standards
+being developed by the International Sustainability
+Standards Board (ISSB). Whether the term ‘ESG’ is
+necessarily limited to a focus on enterprise value
+might be up for debate, but there is a strong case to
+be made that this is how it is predominantly applied,
+certainly in the investment sector.
+‘Sustainability’ takes a much broader focus and
+recognises the need to drive systemic change in
+achieving a more equitable society and economy
+that operates within ecological boundaries. This
+understanding of sustainability focuses on an
+organisation’s impacts on society, the environment,
+and the economy (on ‘people, planet and prosperity’)
+enabling an assessment of the organisation’s
+contribution toward global commitments such as the
+UN SDGs. This approach informs the work of the GRI’s
+Sustainability Reporting Standards developed by the
+Global Sustainability Standards Board and is also
+evidenced in the EU’s sustainable finance regulation,
+which defines ‘sustainable investment’ as
+ “an investment in an economic activity that contributes
+to an environmental objective …. or a social objective …
+(such as) tackling inequality or that fosters social
+cohesion, social integration, and labour relations …
+King IV similarly makes it clear that “sustainable
+development is not confined to individual matters,
+such as the economic viability of the organisation …”
+In line with approach adopted by the King IV Code, the
+JSE’s Sustainability Disclosure Guidance aims to
+improve the quality and availability of information both
+about the sustainability-related risks and opportunities
+that affect the organisation’s financial performance
+(sometimes referred to as ESG), as well as information
+about the organisation’s impacts on people, the
+environment, and economy. As outlined in Figure 1
+(page 5), the Guidance is thus intended to inform
+disclosure for the purposes of annual integrated reports,
+sustainability reports, and annual financial statements.
+Growing stakeholder and investor
+interest in sustainability performance
+and disclosure
+Although sustainability and ESG issues are sometimes
+referred to as ‘non-financial’, these issues clearly
+contribute to financial value in various ways. Effective
+sustainability responses can:
+Protect value – through initiatives taken in response to
+material social, environmental and governance risks
+Create value – by stimulating innovation in response to
+sustainability challenges, delivering profit-led
+environmental or social benefits, at scale
+Enable value creation – for example by encouraging
+collaboration with peers (including competitors) to
+address systemic sustainability risks to the broader
+market ecosystem
+As sustainability pressures continue their anticipated
+upward trend, an organisation’s sustainability policies,
+practices and performance will increasingly impact on
+the organisation’s value. Its ability to communicate its
+sustainability performance more effectively – and
+investors’ ability to track this better – is increasingly
+impacting access to capital.
+10 JSE Limited Sustainability Disclosure Guidance 2021
+A new kind of financial instrument – sustainabilitylinked finance– is gaining traction, including as part of
+the efforts to achieve national commitments under the
+Paris Agreement. Both corporate issuers and investors
+are moving beyond green bonds and loans, broadening
+the scope of sustainable finance to align with the need
+to integrate sustainability in the core management and
+governance of companies. This follows closely on the
+heels of national and regional initiatives to develop
+taxonomies for green finance, such as the EU
+Sustainable Finance Taxonomy9 and the South Africa
+Green Finance Taxonomy currently out for public
+comment.10 Indications from the EU, G7 and G20 are
+that financial institutions will be increasingly
+encouraged to invest in the “transition” space, but to do
+so in a rigorous manner requiring evidence of robust
+sustainability risk management practices. Given this
+context, there is seen to be valuable potential for JSE
+listed companies to use this Disclosure Guidance to
+leverage this opportunity.
+THE UNITED NATIONS SUSTAINABLE
+DEVELOPMENT GOALS (SDGS)
+There is increasing appreciation in both the business and investment communities about the commercial
+significance of sustainable development and the 17 SDGs. Adopted by all United Nations Member States in
+2015, the 17 UN SDGs provide the blueprint for a more sustainable future by tackling some of the biggest
+and most urgent global challenges, such as poverty, inequality, climate change and environmental
+degradation; the private sector is recognised as having a significant responsibility to use their global reach
+and innovative potential to make a meaningful contribution to achieving the SDGs. Companies can measure
+and report their impacts in relation to the SDGs and implement new ideas that improve the business,
+reducing their footprint and minimizing overall negative impacts. Companies can also use the SDGs as
+inspiration and design criteria for new product development and business process innovation, developing
+profitable products and services that contribute to solving global social and environmental challenges.
+SDG 12 encompasses target 12.6, which “encourage(s) companies, especially large and
+transnational companies, to adopt sustainable practices and to integrate sustainability
+information into their reporting cycle.” Governments are required to report the numbers of
+sustainability reports submitted on an annual basis, as required in SDG indicator 12.6.1. The
+need for accountability of companies’ direct contribution to sustainable development is consistent with a
+rising interest among investors to understand sustainability performance in the context of broader social
+and environmental outcomes.
+9 EU Taxonomy for Sustainable Activities
+10 https://sustainablefinanceinitiative.org.za/taxonomy
+JSE Limited Sustainability Disclosure Guidance 2021 11
+12 JSE Limited Sustainability Disclosure Guidance 2021
+1.2 Why report on
+sustainability: The business
+case for good disclosure
+Done properly, sustainability disclosure can result in
+valuable benefits for the reporting organisation. The
+extent to which these benefits are realised depends
+significantly on the effectiveness of the organisation’s
+reporting process, and on the quality of the disclosure in
+the report (see section 3.2 on a set of disclosure principles
+aimed at strengthening the quality of the disclosure).
+The Sustainable Stock Exchanges Initiative has identified
+the following suggested benefits of effective sustainability
+disclosure:11
+Enhancing access to capital
+y Demonstrating effective management of material
+sustainability risks and opportunities can enhance the
+ability to attract capital and secure more favourable
+financing conditions.
+Driving profitability and growth
+y Generating increased financial value for the company
+by identifying opportunities for cost savings, revenue
+generation and risk mitigation.
+y Prompting innovation and enhancing market
+differentiation and competitiveness, by creating a
+deeper understanding of stakeholder needs.
+y Enabling strengthened management and board
+scrutiny of sustainability opportunities and risks and
+promoting greater company-wide alignment on goals.
+Improving compliance and
+risk management
+y Addressing mandatory reporting requirements on
+financially material factors and mitigating compliance
+risks related to financial disclosure obligations.
+y Helping the company stay ahead of emerging
+sustainability disclosure regulations, as well as
+enhancing its ability to comply with sustainability
+performance requirements more broadly.
+y Protecting the company’s license to operate by
+demonstrating corporate transparency and
+responsiveness to stakeholder needs.
+Enhancing corporate reputation
+and stakeholder relationship
+y Demonstrating corporate commitments to
+responsible management of environmental, social,
+and economic impacts.
+y Exhibiting corporate adherence to industry ethical
+standards and national and international frameworks
+on corporate sustainability and sustainable
+development.
+y Enhancing corporate reputation by improving
+stakeholders’ perception of a company through
+reporting-related stakeholder engagement.
+y Improving employee perception of the company,
+helping to attract, retain, motivate, and align new and
+existing employees.
+y Ensuring that key stakeholders have
+the relevant information that is needed to make
+informed decisions about the company’s ability to
+create value in the short, medium, and longer term.
+y Enhancing the flow of relevant information between
+the board and management.
+Figure 2 – Value drivers for enhanced sustainability performance and disclosure12 RETURN ON EQUITY OR CAPITAL
+RISK MANAGEMENT
+– Operational and regulatory risk
+– Reputational risk
+– Supply chain risk
+– Leadership and adaptability
+Measurable reduction in exposure to
+sustainability-related risks to revenue
+and reputation
+PRODUCTIVITY
+– Operational efficiency
+– Human capital management
+– Reputation pricing power
+Total cost saving + avoidance from
+sustainability-related initiatives
+GROWTH
+– New markets and Geographies
+– New customers and market share
+– Product and service innovation
+– Long-term strategy
+Revenue growth from sustainabilityenhanced or advanced products
+and services
+11 Sustainable Stock Exchanges Initiative (2015) Model Guidance on Reporting ESG Information to Investors (Annex C)
+12 Derived from the UN Global Compact value driver model (https://www.unglobalcompact.org/library/811), as presented in GPW (2021) ESG Reporting
+Guidelines
+JSE Limited Sustainability Disclosure Guidance 2021 13
+Figure 3: Emergence and convergence of global sustainability and climate-related disclosure standards13
+13 Diagram based on various similar source documents, developed internally for JSE – Draft to be updated
+Growing convergence in the
+sustainability disclosure landscape
+The following text will be revised and updated as needed
+– keeping this all succinct in giving a very high-level
+overview and linking it with the above diagram. Provision
+will also be made for the most current developments in
+terms of the IFRS, ISSB and VRF, and developments
+with GRI and EFRAG; some of these developments are
+very current and may change before final publication.
+y In Sept 2020, the five leading voluntary frameworkand standard-setters on sustainability and climaterelated disclosure – CDP, the Climate Disclosure
+Standards Board (CDSB), GRI, the International Integrated
+Reporting Council (IIRC), and the Sustainability
+Accounting Standards Board (SASB) – for the first
+time committed to work towards a joint vision.
+y In 2020 The International Federation of Accountants
+(IFAC) called for the creation of an International
+Sustainability Standards Board (ISSB) to sit alongside
+the International Accounting Standards Board (IASB)
+under the auspices of the IFRS Foundation.
+y In early 2021 the IIRC and SASB combined to establish
+the Value Reporting Foundation (VRF), and in
+November 2021, the VRF and the CDSB announced
+their intention to consolidate with the IFRS Foundation,
+jointly positioning their resources to serve as a
+framework to connect the work of IASB and the ISSB
+y The European Commission is revising its NonFinancial Reporting Directive (NFRD), adopting a
+proposal for a Corporate Sustainability Reporting
+Directive (CSRD) that would inter alia extend the
+scope of the NFRD to all large companies and all
+companies listed on regulated markets (except
+micro-enterprises), as well as introducing more
+detailed reporting requirements, aligned with the GRI
+Sustainability Reporting Standards
+y The International Organisation of Securities
+Commissions (IOSCO) has set out its intention to
+accelerate the harmonization of sustainability
+standards and is supportive of the approach of the
+ISSB
+y The Taskforce on Nature-related Financial Disclosures
+(TNFD) was launched in June 2021 to develop and
+deliver a risk management and disclosure framework
+for organisations to report and act on evolving
+nature-related risks, which aims to support a shift in
+global financial flows away from nature-negative
+outcomes and toward nature-positive outcomes.
+14 JSE Limited Sustainability Disclosure Guidance 2021
+JSE Limited Sustainability Disclosure Guidance 2021 15
+How might an
+organisation approach
+sustainability
+disclosure?
+02
+16 JSE Limited Sustainability Disclosure Guidance 2021
+JSE Limited Sustainability Disclosure Guidance 2021 17
+2.1 Understanding materiality
+Material information is any information that is reasonably
+capable of making a difference to the conclusions that
+reasonable stakeholders may draw when reviewing the related
+information. The definition of materiality focuses on the
+material information needs of the primary stakeholders for
+the report being issued.14
+For any disclosure to be useful it needs to address the interests
+of the targeted user. From a traditional annual reporting
+perspective, material information is traditionally defined
+through an investor lens as: ‘any information that could be
+expected to influence an investor’s economic decision making
+with respect to the object of investment’. As outlined earlier
+(section 1.2) sustainability issues can often meaningfully
+affect a company’s operational and financial results, and thus
+are ‘material’ in influencing investors’ perceptions of the
+company. Many stakeholders have different interests in the
+organisation’s performance, including specifically in
+understanding the organisation’s significant impacts (positive
+and negative) on the economy, society, and the environment.
+The recently published prototypes developed by the IFRS
+Foundation for the International Sustainability Standards
+Board, and the TCFD Recommendations, both focus on
+informing an assessment of enterprise value by investors
+and other participants in the world’s capital markets, while the
+GRI’s Sustainability Reporting Standards and the EU’s proposed
+Corporate Sustainability Reporting Directive looks at materiality
+though the lens of impacts on the economy, society, and the
+environment. Recognising these different interests for
+disclosure purposes, in 2017 the European Commission
+introduced the concept of ‘double materiality’, comprising:
+y Financial materiality, referring to the entity’s “development,
+performance [and] position”
+y Environmental and social materiality, referring to the
+“impact of [the entity’s] activities”
+The JSE’s Sustainability Disclosure Guidance has adopted this
+double materiality approach, and recommends that:
+y Those sustainability issues that could reasonably be
+foreseen to meaningfully affect a company’s operational
+and financial results, should be disclosed in an annual
+integrated report; and
+y More detailed sustainability information relating to the
+organisation’s management of its significant impacts on the
+economy, society, and the environment – including, but not
+limited to, where these impacts affect enterprise value
+– should be disclosed in addition to the IR in an appropriate
+format, such as a separate sustainability report.
+14 See eg European Commission’s Non-Financial Reporting Directive
+18 JSE Limited Sustainability Disclosure Guidance 2021
+MATERIALITY: MEETING
+THE INFORMATION NEEDS
+OF THE REPORT USER
+Standard setters have provided diverse perspectives
+on the issue of materiality for the purposes of an
+organisation’s sustainability disclosure, reflecting
+the different intended purpose and outcome of the
+standard setting organisation. None of these
+definitions are either ‘right’ or ‘wrong’: it is the context
+that defines which of these definitions might be
+more appropriate than the others.
+y The International Accounting Standards Board
+defines ‘material’ information as that which, if
+omitted, misstated, or obscured, could influence
+the economic decisions of readers relying on the
+financial statements.
+y The Value Reporting Foundation’s Integrated
+Reporting Framework suggests a matter is
+material if it “substantively affects the organisation’s
+ability to create value over the short, medium and
+long term.”
+y The IFRS Foundation’s recommendations to the
+ISSB, maintains that sustainability-related financial
+information is material “if it influences users’
+assessments of the value, timing and certainty
+of the entity’s future cash flows.”
+y The GRI’s 2021 Sustainability Reporting
+Standards suggests that a sustainability topic is
+material when it “represents the organisation’s
+most significant impacts on the economy,
+environment, and people, including impacts on
+their human rights.”
+JSE Limited Sustainability Disclosure Guidance 2021 19
+15 See eg [Draft] International Sustainability Disclosure Standard General Requirements for Disclosure of Sustainability-related Financial Information
+16 Extensive guidance on integrating reporting can be found on the Value Reporting Foundation’s website (https://www.integratedreporting.org/) and the
+IRC SA website (https://integratedreportingsa.org/about/about-the-irc-of-sa/)
+17 In South Africa, listed companies are required to use the International Financial Reporting Standards (IFRS).
+2.2 Different reporting
+formats
+There are various reporting formats for disclosing
+sustainability information. The chosen format depends
+on the report’s purpose and its intended target audience
+(see also Figure 1).
+Annual Integrated Report – reporting on
+enterprise value
+In line with the King III and King IV Codes, most
+JSE-listed companies have been producing integrated
+reports annually since around 2011. An integrated
+report is defined in the Value Reporting Foundation’s
+Integrated Reporting Framework as “a concise
+communication about how an organization’s strategy,
+governance, performance and prospects, in the context
+of its external environment, lead to the creation,
+preservation or erosion of value over the short, medium
+and long term.” Targeted primarily at providers of
+financial capital, the focus of the integrated report is
+explicitly on enterprise value; the report should thus
+include disclosure of all sustainability-related risks and
+opportunities that could impact the entity’s business
+model, strategy, and cash flows over the short, medium
+and long term. The proposed standards being developed
+by the International Sustainability Standards Board
+(ISSB)15 are intended to inform the identification of
+sustainability-related financial information for inclusion
+in ‘general purpose financial reporting’ (in South Africa
+this is primarily the annual integrated report).16
+Annual Sustainability Report –
+reporting on sustainability impact
+In line with global practice, many South African
+companies publish separate sustainability reports; the
+first such reports in the country were published by
+various high impact companies in the mid-1990s.
+These reports review the organisation’s approach to
+managing its significant economic, social, and
+environmental impacts, and to addressing those
+sustainability issues of interest to a broader range of
+stakeholders than targeted by the integrated report. An
+important function of these reports is to reflect how the
+organisation is contributing to national and global
+development priorities (such as the NDP and the SDGs).
+Many of these reports use the GRI Sustainability
+Reporting Standards.
+Combined Report
+Some companies choose to combine their traditional
+annual financial report with a more detailed review of
+their sustainability/ ESG performance into a single
+‘combined report’.
+Annual Financial Statements
+These provide a detailed analysis of the organisation’s
+financial results, with audited financial statements
+typically prepared in accordance with generally
+accepted accounting practice17. These statements
+present in monetary amounts the effects on enterprise
+value that have already taken place at the reporting
+date, or are included in future cash flow projections,
+including those effects from sustainability issues.
+Given increasing stakeholder expectations, some
+organisations opt to publish additional ‘supplementary’
+reports that provide more detailed disclosure in areas
+of particular significance to their operations. Examples
+include separate TCFD reports, human rights reports
+and/or B-BBEE Reports.
+An annual report serves two purposes: disclosure and
+communication. However, not everything that needs to
+be disclosed can or should go into an annual report. For
+listed companies, quarterly results should be disclosed,
+but this information is usually disclosed in earnings
+releases. Some sustainability/ESG information of
+interest to specific stakeholders may be better
+communicated directly to those stakeholders than in a
+report. For example, mining companies will often
+disclose mining impacts to local communities online or
+at community meetings, while the annual report of the
+mining company may communicate the impact of
+all the company’s mines. A materiality assessment can
+help companies determine which issues are best
+included in reporting, and which may be communicated
+or disclosed to specific stakeholder groups through
+other channels.
+20 JSE Limited Sustainability Disclosure Guidance 2021
+Figure 4: Materiality assessments inform organisation’s disclosure and communication18
+Other Channels for
+Disclosure Information:
+• Quarterly reporting
+• Earnings releases
+• Shareholder meetings
+• Website
+Other Channels for
+Disclosure Information:
+• Website
+• Press/media
+• Community meetings
+• Social media
+Annual Report
+combines disclosure
+and communication
+Disclosure Communication
+18 Source: IFC “Beyond the Balance Sheet” Disclosure and Transparency Program
+JSE Limited Sustainability Disclosure Guidance 2021 21
+SEVEN QUESTIONS TO INFORM
+THE REPORTING PROCESS19
+MOTIVATION: What is the purpose of the report?
+Be clear from the start on the purpose of the report as this will inform the approach. Is it simply to ensure
+compliance with listing requirements, is it intended to be a frank disclosure informing investors the
+company’s long-term strategy for value creation, or is it intended to review the organisation’s impacts on
+sustainability?
+MARKET: Who is the intended audience for the report?
+For a report to be effective, it’s important to be clear which priority stakeholder group/s the organisation is
+seeking to inform and influence through its disclosure, and what their specific interests are regarding the
+organisation’s disclosure. It is not useful or effective for the organisation to attempt to address all the
+information needs of all its stakeholders in one report.
+MATERIALITY: What is of material interest to the target audience?
+Having a clear understanding of the purpose of the report, and the target audience, is essential in identifying
+what information to include in the report. If targeted at investors the primary focus will be on enterprise
+value and it will thus include those sustainability issues impacting the organisation; if it’s targeted at those
+stakeholders interested in the organisation’s social and environmental impacts, then it will have much
+broader coverage of sustainability issues.
+MEDIUM: What reporting format will work best for the target audience?
+The purpose and audience will also inform the preferred reporting format. In some instances, the means
+of disclosure will not be in the form of a traditional report, but may include direct engagements, marketing
+documents or electronic media.
+MEANS: How will the reporting process be managed and integrated across the business?
+While reporting provides decision-useful information for stakeholders, the process of compiling the
+information can be used to strengthen internal reporting systems and inform strategic goals, shape the
+business model, and assist in identifying risks and opportunities. For these opportunities to be realised
+there needs to be clarity on the internal process and responsibilities, ensuring that this is properly integrated
+across the organisation and not managed in silos.
+MEASUREMENT: Does the data support the report?
+Better data can lead to better decision-making and performance; it is important to have the right internal
+systems in place to collect and disseminate concise, reliable, and complete data. Rather than creating
+entirely new channels, organisations should seek as far as possible to use existing internal management
+and systems.
+MONITORING: Has the integrity of the data been assured?
+Reports are generally more credible when they are supported by robust internal assessment processes
+involving existing internal audit, risk and data control verification systems. If resources allow, and when
+properly managed, external assurance can provide an added degree of trust, credibility, and recognition. It is
+important to recognise, however, that while third-party assurance can be valuable in strengthening internal
+sustainability reporting systems and enhancing the credibility of reports, an overemphasis on external
+assurance can be a distraction; it is better to start with reporting with no assurance rather than not start
+reporting at all.20
+19 Incite (2006) Presentation to University of Cambridge Institute for Sustainability Leadership (CISL) BSP Exec programme
+20 Sustainable Stock Exchanges Initiative (2015) Model Guidance on Reporting ESG Information to Investors (page 18)
+22 JSE Limited Sustainability Disclosure Guidance 2021
+2.3 Principles for useful
+sustainability data and an
+effective sustainability report
+With enhanced disclosure on sustainability issues
+increasingly being demanded by investors, analysts,
+capital market participants and other stakeholders, it
+is important that the information is of sufficient quality
+to enable users to make informed assessments and
+decisions – be it about the organisation’s impacts and
+its contribution to sustainable development, and/or
+the organisation’s own viability over time. There is
+significant convergence on the principles informing
+effective sustainability reporting in international and
+local guidance frameworks. Based on this, the following
+key principles should guide the organisation in ensuring
+the quality and proper presentation of the information
+that is disclosed.21
+Accuracy: The organisation should report information
+that is correct and sufficiently detailed to allow an
+assessment of the organisation’s impacts.
+Balance: The organisation should report information
+in an unbiased way and provide a fair representation
+of the organisation’s negative and positive impacts.
+Clarity: The organisation should present information
+in a way that is accessible and understandable.
+Comparability: The organisation should select,
+compile, and report information consistently to enable
+an analysis of changes in the organisation’s impacts
+over time and an analysis of these impacts relative to
+those of other organisations.
+21 These principles are based almost entirely on the GRI’s recently released Sustainability Reporting Standards, and are consistent with the principles in
+many of the initiatives listed in Annex 1.
+Completeness: The organisation should provide
+sufficient information to enable an assessment
+of the organisation’s impacts during the reporting
+period.
+Material: in terms of enterprise value and/or impact
+on society and the environment:
+The reporting organisation should disclose
+sustainability information that is reasonably capable of
+making a difference to the conclusions drawn by:
+y providers of finance concerning the ability of the
+organisation to create long term value for the
+organisation; and
+y stakeholders more broadly concerning the
+organisation’s most significant impacts on the
+economy, environment, and people, including impacts
+on their human rights
+Stakeholder inclusive: The reporting organisation
+should identify its stakeholders and explain how the
+organisation has responded to their reasonable
+expectations and interests.
+Sustainability context: recognizing critical
+environmental thresholds and social pressures:
+The organization should report information about its
+impacts in the wider context of sustainable
+development.
+Timeliness: The organisation should disclose
+information on a regular schedule and make it available
+in time for information users to make decisions.
+Verifiability: The organisation should gather, record,
+compile, and analyse information in such a way that the
+information can be examined to establish its quality
+JSE Limited Sustainability Disclosure Guidance 2021 23
+What sustainability
+information should a
+company disclose?
+03
+24 JSE Limited Sustainability Disclosure Guidance 2021
+JSE Limited Sustainability Disclosure Guidance 2021 25
+Figure 5: The JSE Sustainability Narrative Disclosures and Sustainability Metrics
+Investors and stakeholders are increasingly expecting companies to
+report on their sustainability impacts, risks, and opportunities with the
+same rigour as they do with financial information.
+By reporting meaningfully on the proposed Sustainability Narrative Disclosures and Core and Leadership Sustainability
+Metrics presented in this Disclosure Guidance – and integrating these considerations into the organisation’s governance,
+strategy, and performance – the reporting organisation will send a signal to shareholders and other stakeholders
+that it has a sound appreciation of the impacts, risks and opportunities associated with running its business.
+Those organisations that align their goals to the long-term goals of society, as articulated for example in National
+Development Plans and the UN SDGs, are most likely to create long-term sustainable value, driving positive outcomes
+for their organisation, the economy, society, and the environment more broadly.
+Governance
+Management
+NARRATIVE
+DISCLOSURES
+Environmental
+metrics
+Social metrics
+Climate
+Change
+Water
+Security
+Pollution
+and waste
+Biodiversity
+and land-use
+Supply chain
+and Materials Supply chain
+Customer
+responsibility
+Health &
+Safety
+Human rights
+& community
+development
+Labour
+standards
+Governance metrics
+Strategy
+Metric, targets
+and performance
+Board
+composition
+Compliance
+and Risk
+Management
+Ethical Behaviour
+Tax
+transparency
+26 JSE Limited Sustainability Disclosure Guidance 2021
+3.1 Sustainability Narrative
+Disclosures
+The Sustainability Narrative Disclosures provided in this
+section have been structured in broad alignment with
+the two recently published prototypes developed for
+consideration by the International Sustainability
+Standards Board (ISSB),22 as well as with the TCFD
+recommendations23 the CDSB Framework.24, the SDG
+Disclosure Recommendations,25 and the GRI’s
+Sustainability Reporting Standards.26
+The Narrative Disclosures have been slightly revised
+from the ISSB, TCFD and CDSB recommendations to
+ensure alignment with ‘double materiality’; the review of
+management issues has been extended beyond risk
+management, and explicit provision is made for an
+assessment of the organisation’s impacts on the
+economy, society, and the environment.
+Governance
+Investors and other stakeholders have an interest in
+understanding the role played by the organisation’s
+board in overseeing sustainability issues – such
+information informs an assessment as to whether
+these issues are receiving appropriate board and
+management attention.
+Recommended disclosure
+Describe the board’s oversight of sustainability-related
+impacts, risks and opportunities, and its process for
+integrating sustainability issues into the overall
+governance processes.
+In describing the board’s oversight of sustainability
+issues, the organisation should disclose the following
+information:
+y The process by which that the board sets the direction
+for sustainability considerations, including disclosing
+which board committee/s and/or individuals are
+responsible for oversight of sustainability-related
+impacts, risks, and opportunities, and how these
+responsibilities are reflected in the terms of reference,
+board mandates, and other relevant entity policies.
+y The processes and frequency by which the board
+and/or board committees are informed about material
+sustainability issues, and the company’s interaction
+with the broader sustainability context, including any
+significant negative effects that the organisation’s
+operations have had on people, the environment,
+and economy.
+y The processes whereby the board ensures that
+material sustainability considerations are
+integrated in:
+(i) board appointments, ensuring that the correct
+skills and competencies are available to
+oversee strategies designed to respond to
+sustainability-related risks and opportunities
+(ii) risk and opportunity assessments, evaluations,
+and responses
+(iii) the development and monitoring of strategy
+implementation, through budgets, business
+plans and performance targets
+(iv) the internal reward systems, including by
+incorporating any performance metrics and
+targets on material sustainability issues within
+remuneration policies
+(v) the organisation’s stakeholder engagement,
+disclosure, and assurance activities.
+y The process the board follows in assessing the
+sustainability goals and targets that have been
+set, and for monitoring progress against these
+goals and targets, and responding accordingly.
+y The organisational structure/s and managementlevel responsibilities for assessing and managing
+sustainability-related impacts, risks, and
+opportunities.
+22 General Requirements for Disclosure of Sustainability-related Financial Information Prototype and Climate-related Disclosures Prototype (both
+published on 3 November 2021) – available at https://www.ifrs.org
+23 https://www.fsb-tcfd.org
+24 www.cdsb.net
+25 https://integratedreporting.org/resource/sustainable-development-goals-disclosure-sdgd-recommendations/
+26 https://www.globalreporting.org/standards/
+JSE Limited Sustainability Disclosure Guidance 2021 27
+Strategy
+Investors and other stakeholders need to understand
+how sustainability issues may affect an organisation’s
+business model, strategy, and financial planning over
+the short, medium, and long term; such information
+is used to inform expectations about the future
+performance and impacts of the organisation.
+Recommended disclosure
+Describe how an assessment of sustainability-related
+impacts, risks and opportunities has influenced the
+organisation’s strategy, and what impact this has had
+on the organisation’s overall performance, both
+positive and negative.
+In describing how sustainability issues inform strategy,
+the organisation should disclose the following
+information:
+y The nature and outcome of the processes in place
+to determine the organisation’s material sustainability
+issues, including an assessment of:
+(i) the organisation’s most significant positive and
+negative impacts on the economy, society,
+and the environment, over the short, medium,
+and long term; and
+(ii) the most significant sustainability-related risks
+and opportunities that the organisation reasonably
+expects could positively or negatively impact its
+business model, strategy, and cash flows over
+the short, medium, and long term – and the
+impact of these risks and opportunities on
+enterprise value.
+y How the organisation defines short, medium, and
+long term, and how these definitions are linked to the
+organisation’s strategic planning horizons and capital
+allocation plans.
+y Any trade-offs between sustainability-related risks and
+opportunities that were considered by management in
+their decision-making.
+y How the identified material sustainability issues have
+informed the organisation’s business model, its strategic
+objectives and targets, and financial planning, over
+the short, medium, and long term, recognising that
+sustainability issues often manifest themselves over
+the medium and longer term.
+y The nature, extent, and outcomes of any analysis,
+including scenario analysis, undertaken to test the
+resilience of the organisation’s strategy, considering
+the likelihood and magnitude of material sustainabilityrelated impacts, risks and opportunities in its operations,
+its products and services, its value chain, and its
+investment research and development activities.
+y Commentary on the value created, preserved, or
+eroded for the organisation, its stakeholders, and
+society and the environment more broadly, as a result
+of implementing its strategy.
+28 JSE Limited Sustainability Disclosure Guidance 2021
+Management approach
+Investors and other stakeholders need to understand
+how an organisation has integrated sustainability issues
+into the organisation’s management processes; such
+information informs assessments of the organisation’s
+overall risk profile and performance prospects.
+Recommended disclosure
+Describe how sustainability-related impacts, risks
+and opportunities have been integrated into the
+organisation’s management processes.
+In describing the integration of sustainability issues
+in the organisation’s management processes, the
+organisation should disclose the following information:
+y The processes in place for identifying, assessing,
+prioritising, monitoring, and managing sustainabilityrelated risks and opportunities, and how these
+processes are integrated into the organisation’s
+existing risk and opportunity management systems.
+y The steps taken to facilitate access to a diversity
+of perspectives in identifying and prioritising
+sustainability-related impacts, risks, and opportunities.
+y The ways in which management processes (such as
+planning, organising, staffing, and coordinating)
+have been adapted to enhance sustainability
+decision-making and action.
+y The processes by which the leadership team
+systematically tracks, reflects on, and responds
+to sustainability progress and performance.
+Metrics, targets, and
+performance
+Investors and other stakeholders need to understand
+how an organisation measures and monitors its
+sustainability strategy, performance, and impacts.
+Access to the metrics and targets used by an
+organisation allows investors and other stakeholders to
+better assess the organisation’s exposure to sustainability
+issues, and its progress in managing those issues and
+its impacts, as well as providing a basis to compare
+organisations within a sector or industry.
+Recommended disclosure
+Describe the performance metrics and targets used by
+the organisation to measure, monitor, and manage its
+sustainability impacts, risks and opportunities, and its
+performance against these metrics and targets.
+In describing its sustainability metrics, targets, and
+performance, the organisation should disclose the
+following information:
+y The metrics and targets used to measure, monitor,
+and manage the organisation’s performance against
+its material sustainability-related impacts, risks, and
+opportunities, including any cross-industry, sectorbased and entity-specific activity metrics.
+y The methodologies used to calculate or estimate
+the metrics and targets, where this is not
+immediately apparent.
+y The nature of its sustainability targets, including
+where relevant:
+(i) whether the target is absolute, normalised,
+intensity, or activity- based
+(ii) the timeframe over which the target applies
+(iii) the base period from which progress is
+measured
+(iv) any milestones or interim targets.
+y The nature of any changes to metrics or targets,
+explaining the reasons for these changes, including
+(where practical and appropriate) any restated
+comparative figures.
+y A response to each of the Core Metrics listed in the
+JSE Disclosure Guidance, or a description as to why
+these are not disclosed and/or not seen to be
+material, and what steps are being taken to start
+disclosing those that are material.
+y The organisation’s performance against its
+sustainability metrics and targets, with provision
+for a suitable historical period to allow for trend
+analysis.
+JSE Limited Sustainability Disclosure Guidance 2021 29
+Governance Disclosure Metrics
+GOVERNANCE METRICS: Core (C) and Leadership (L)
+BOARD COMPOSITION
+Board diversity
+and competence C
+Composition of the board and its committees by: race; gender, membership of
+under-represented social groups, and stakeholder groups competencies relating
+to the risks, opportunities and management of economic, environmental, and
+social issues.
+Board independence C
+Composition of the board in relation to: executive or non-executive; independence;
+tenure on the governance body; number of each individual’s other significant
+positions and commitments, and the nature of the commitments.
+Remuneration
+practices C
+How performance criteria in the remuneration policies relate to the highest
+governance body and senior executives’ objectives for economic, environmental,
+and social topics, as connected to the company’s stated purpose, strategy and
+long-term value.
+3.2 Core and Leadership
+Sustainability Metrics
+The Sustainability Metrics presented in this Disclosure
+Guidance have been informed by a thorough review of
+current sustainability disclosure expectations and
+emerging best practice, with explicit provision for South
+Africa’s business context and developmental
+challenges.
+The Core (C) and Leadership (L) metrics seek to balance
+the desirability of a ‘simple list’ with an applied materiality
+principle. The metrics include revisions to the approach
+used in some of the peer exchanges to provide for:
+y Greater use of outcome and impact indicators, over
+simple input and output measures
+y The double materiality perspective that is gaining
+increasing recognition, including specifically as part
+of the European Union’s proposed Corporate
+Sustainability Reporting Directive (CSRD)
+y South Africa’s specific environmental, social and
+governance challenges
+y Recognition of planetary boundaries and emerging
+global expectations on social performance
+An organisation’s materiality landscape is dynamic. It is
+important to recognise that organisation’s need to
+determine their own material matters, at appropriate
+intervals, and that this list is not intended to be
+exhaustive or prescriptive.
+Note: further detail on each metric is provided in a
+separate Excel sheet, with details on: the metric’s
+measurement unit; cross-reference to its use in existing
+standards (eg SASB and GRI); and a rationale for each
+metric. These details will be included in the final design
+version of this document following feedback on these
+metrics in the public consultation process. An example
+of the suggested presentation for each metric is provided
+in the social and environmental sections below.
+30 JSE Limited Sustainability Disclosure Guidance 2021
+ETHICAL BEHAVIOUR
+Anti-corruption
+C
+Total percentage of governance body members, employees and business
+partners who have received training on the organization’s anti-corruption policies
+and procedures, broken down by region.
+C Total number and nature of incidents of corruption confirmed during the current
+year, related to this year and previous years.
+C
+Description of the organisation’s provision for whistleblowing, and the number
+and nature of issues raised through the whistleblowing facility, and how these
+were resolved.
+L Discussion of initiatives and stakeholder engagement to improve the broader
+operating environment and culture, to combat corruption.
+L
+A description of: (i) the internal and external mechanisms for seeking advice
+about ethical and lawful behaviour and organizational integrity, and for reporting
+concerns about unethical or unlawful behaviour and lack of organisational
+integrity; and (ii) the extent to which these mechanisms have been used, and the
+outcomes of processes using these mechanisms.
+Lobbying and political
+contributions C
+Identify the significant issues that are the focus of the company’s participation in
+public policy development and lobbying, including within any business association
+that the company is a member of; describe the company’s strategy relevant to
+these areas of focus; and any differences between its lobbying positions and its
+purpose, stated policies, goals or other public positions.
+C Total amount of political contributions made per political party.
+Monetary loss from
+unethical behaviour C
+Total amount of monetary losses as a result of legal proceedings (including fines)
+associated with fraud, insider trading, anti-trust, anti-competitive behaviour,
+market manipulation, malpractice or violations of other related industry laws or
+regulations.
+COMPLIANCE AND RISK MANAGEMENT
+Incidents C
+Number and nature of significant environmental, social and/or governance related
+incidents, including incidents of legal non-compliance (whether under investigation,
+pending finalisation, or finalised) and directives, compliance notices, warnings or
+investigations, and any public controversies.
+Fines C
+Total number of fines, settlements and penalties paid in relation to ESG incidents
+or breaches, including individual and total cost of the fines, settlements and
+penalties paid in relation to ESG incidents or breaches.
+TAX TRANSPARENCY
+Tax paid and
+estimated tax gap
+C
+The total global tax borne by the company, including corporate income taxes,
+property taxes, non-creditable VAT and other sales taxes, employer-paid payroll
+taxes and other taxes that constitute costs to the company, by category of taxes.
+C
+Extent of exposure to countries and jurisdictions recognised for their corporate
+tax rate, tax transparency and tax haven status; estimated tax gap (gap between
+estimated effective tax rate and estimated statutory tax rate).
+JSE Limited Sustainability Disclosure Guidance 2021 31
+Social Disclosure Metrics
+SOCIAL METRICS: Core (C) and Leadership (L)
+LABOUR STANDARDS
+Diversity and
+inclusion
+C Percentage of employees per employee category, by race, gender, age, and other
+indicators of diversity.
+C
+Number of reports of discrimination and harassment incidents, investigation
+status of reported incidents, and actions taken and the total amount of monetary
+losses as a result of legal proceedings associated with (i) law violations and
+(ii) employment discrimination.
+Pay equality
+C Ratio of CEO’s total annual compensation to median total annual compensation
+of all employees (excluding the CEO).
+L
+Ratio of the basic salary and remuneration for each employee category by
+significant locations of operation for priority areas of equality, including by race,
+gender, and other relevant equality areas.
+Wage level C Ratios of standard entry-level wage by race and gender compared to local
+minimum wage for the sector.
+L
+Mean pay gap of basic salary and remuneration of full-time relevant employees
+based on gender (women to men) and indicators of race at a company level or by
+significant location of operation.
+Living wage L Current wages against an identified ‘living wage’ for employees and contractors in
+states and localities where the company is operating.
+Freedom of
+Association and
+Collective Bargaining
+C Percentage of active workforce covered under collective bargaining agreements
+L
+An explanation of the assessment performed on suppliers for which the right to
+freedom of association and collective bargaining is at risk including measures
+taken by the organization to address these risks.
+Temporary workers C Ratio of temporary workers to permanent workers (and absolute numbers of each),
+broken down by gender and racial group.
+HUMAN RIGHTS AND COMMUNITY DEVELOPMENT
+Human rights (see
+also supply chain
+below)
+C Total number and percentage of operations that have been subject to human
+rights reviews or human rights impact assessments, by country.
+C Number and type of grievances reported with associated impacts related to a
+salient human right issues in the reporting period and an explanation of impacts.
+Skills for the future
+C
+Average hours of training per person that the organization’s employees have
+undertaken during the reporting period, by gender and employee category (total
+number of trainings provided to employees divided by the number of employees).
+C Average training and development expenditure per full time employee.
+Employment and
+wealth creation
+C Total number and rate of new employee hires during the reporting period, by age
+group, gender, other indicators of diversity and region.
+C Total number and rate of employee turnover during the reporting period, by age
+group, gender, other indicators of diversity and region.
+32 JSE Limited Sustainability Disclosure Guidance 2021
+HUMAN RIGHTS AND COMMUNITY DEVELOPMENT continued
+Economic
+Contribution
+C
+Direct economic value generated and distributed (EVG&D) – on an accrual basis,
+covering the basic components for the organisation’s global operations, ideally
+split out by:
+(i) Revenue
+(ii) Operating Costs
+(iii) Employee wages and benefits
+(iv) Payments to providers of capital
+(v) Payments to government
+(vi) Community investment (including charitable giving, impact investment and
+other forms of social investment).
+C
+Description of significant identified indirect economic impacts of the organisation,
+including for example: number of jobs supported in supply or distribution chain;
+number of suppliers / enterprises supported from defined vulnerable groups;
+nature of economic development in areas of high poverty; availability of products
+and services for those on low incomes or previously disadvantaged; enhanced
+skills and knowledge in a professional community or geographic location.
+C Proportion of procurement spending on suppliers local to the organisation’s
+operations and/or from defined vulnerable groups.
+L Qualitative disclosure describing the extent of significant infrastructure investment
+and services supported.
+L
+Financial assistance received from the government – Total monetary value of
+financial assistance received by the organization from any government during
+the reporting period.
+HEALTH AND SAFETY
+Workplace health
+and safety
+C
+Number and rate of fatalities during reporting period across the organisation. The
+disclosure should include both employees and workers who are not employees
+but whose work and/or workplace is controlled by the organisation.
+C
+Number of recordable work-related injuries, and number of work-related illnesses
+or health conditions arising from exposure to hazards at work, during the reporting
+period. The disclosure should include both employees and workers who are not
+employees but whose work and/or workplace is controlled by the organisation.
+L
+An explanation of how the organization facilitates workers’ access to nonoccupational medical and healthcare services and the scope of access provided
+for employees and workers.
+JSE Limited Sustainability Disclosure Guidance 2021 33
+CUSTOMER RESPONSIBILITY
+High risk products
+and services
+L
+Description of products and services that present specific risks to individuals,
+communities or the environment; an outline of the nature of these risks, and the
+measures taken to mitigate these.
+C Number and nature of any product recalls.
+Product innovation
+C Total costs related to research and development aimed at enhancing social or
+environmental attributes of products and services.
+L
+Percentage of revenue from products and services designed to deliver specific
+social or environmental benefits or to address specific sustainability challenges;
+if the company applies a taxonomy or benchmark to label their activities as
+sustainable, they should report on the benchmark used and how they meet the
+criteria of the benchmark.
+Consumer data
+and privacy
+C A description of the mechanisms and steps taken to ensure privacy of consumer
+data.
+C Number and types of breaches reported in relation to consumer data privacy
+SUPPLY CHAIN
+Supply Chain
+(Social)
+C
+Report wherever material across the value chain, mechanisms aimed at
+enhancing management of social issues (codes, policies, prevention, and
+treatment).
+C
+An explanation of suppliers considered to have significant risk for incidents of child
+labour, forced or compulsory labour. Such risks could emerge in relation to type of
+operation (such as manufacturing plant) and type of supplier; or countries or
+geographic areas with operations and suppliers considered at risk.
+L % of products certified by external agencies, % of traceable origin.
+Following is an example of the proposed presentation for each metric in the final Guidance
+LABOUR STANDARDS
+Diversity and
+inclusion
+1. Percentage of employees per employee category, by race, gender, age, and other
+indicators of diversity (CORE).
+2. Number of reports of discrimination and harassment incidents, investigation status
+of reported incidents, and actions taken and the total amount of monetary losses as
+a result of legal proceedings associated with (1) law violations and (2) employment
+discrimination (CORE).
+How is it measured 1. Quantitative metric – % of employees by category.
+2. # and description.
+Context/Rationale Organisations with higher levels of diversity, particularly within executive teams, are
+generally better able to innovate, attract top talent, improve their customer orientation,
+enhance employee satisfaction, and secure their license to operate.
+To be effective, organisational culture should be built on a foundation of respect, courtesy,
+and professionalism, free from any acts of discrimination, bullying or harassment.
+Link to standards
+and frameworks
+GRI 405-1; GRI 406-1; SASB 310; SASB 330; WEF
+34 JSE Limited Sustainability Disclosure Guidance 2021
+Environmental Disclosure Metrics
+ENVIRONMENTAL: Core (C) and Leadership (L)
+CLIMATE CHANGE
+GHG Emissions
+C
+For all relevant greenhouse gases (e.g. carbon dioxide, methane, nitrous oxide,
+F-gases etc.), report in metric tonnes of carbon dioxide equivalent (tCO2e) GHG
+Protocol Scope 1 and Scope 2 emissions.
+L Estimate and report material upstream and downstream (GHG Protocol Scope 3)
+emissions where appropriate.
+Energy mix C
+Total energy use and share of energy usage by generation type noting use of
+energy from renewable non-fossil sources, (namely wind, solar (solar thermal
+and solar photovoltaic) and geothermal energy, ambient energy, tide, wave and
+other ocean energy, hydropower, biomass, landfill gas, sewage treatment plant
+gas, and biogas).
+Science-based
+targets
+L
+Define and report progress against time-bound short, medium, and long-term
+science-based GHG emissions targets (see also the Narrative Disclosure on Metrics,
+Targets and Performance) that are in line with the goals of the Paris Agreement
+and Glasgow Climate Pact. This includes reducing global carbon dioxide emissions
+by 45% by 2030 relative to the 2010 level, and to net zero around mid-century, on
+the basis of the best available scientific knowledge and equity, taking into account
+common but differentiated responsibilities and respective capabilities, and in the
+context of sustainable development and efforts to eradicate poverty. Science-based
+emissions reduction targets should be informed by recognised scientific methodologies
+and verified through approved processes, and should as a minimum be consistent
+with relevant host country/ies Nationally Determined Contribution.
+Just transition
+C
+Existence and nature of a ‘just transition plan’ that commits to stakeholder
+engagement with workers and communities (see the JSE Climate Disclosure
+Guidance for further detail).
+L Number of engagements undertaken with affected parties by group and
+geography.
+L Number of workers in the past year retrained, retrenched, and/or compensated
+due to implementation of the decarbonisation plan.
+L
+Nature of climate-related lobbying activities, and those of relevant associations
+and membership groups, and their alignment with the objectives of the Paris
+Agreement and Glasgow Climate Pact.
+L Nature of provision for delivery of the transition plan within executive remuneration
+L Nature of provision for impacts on workers and communities within climate
+scenario plans.
+L Level of capital or expenditure deployed toward climate adaptation and climate
+mitigation projects.
+JSE Limited Sustainability Disclosure Guidance 2021 35
+WATER SECURITY
+Water usage
+C Total amount of fresh water consumed.
+C Fresh water consumption intensity (water use/sales).
+L
+Report for operations where material, mega litres of water withdrawn, mega litres
+of water consumed and the percentage of each in regions with high or extremely
+high baseline water stress according to WRI Aqueduct water risk atlas tool.
+POLLUTION AND WASTE
+Solid waste C Total solid waste generation (non-recycled).
+C Total hazardous waste generation.
+L Total waste recycled.
+C Waste intensity (total waste/sales).
+Single use plastic L
+Report wherever material along the value chain: estimated metric tonnes of
+single-use plastic consumed and share (%) of single-use plastic weight of total
+plastic weight.
+Atmospheric
+pollution
+C
+Report wherever material along the value chain: nitrogen oxides (NOx), sulphur
+oxides (SOx), Volatile Organic Compounds, particulate matter and other significant
+air emissions.
+L Wherever possible estimate the proportion of specified emissions that occur in or
+adjacent to urban/densely populated areas.
+ Water pollution L Estimate and report wherever material along the value chain: metric tonnes of
+nitrogen, phosphorous and potassium in fertilizer consumed.
+Biodiversity
+and land use
+C
+Report the number and area (in hectares) of sites owned, leased or managed in or
+adjacent to protected areas and/or key biodiversity areas (KBA). Report for
+operations (if applicable) and full supply chain (if material).
+C Area of land used for the production of basic plant, animal or mineral commodities
+(e.g. the area of land used for forestry, agriculture or mining activities).
+L
+Percentage of land area in point 1 above covered by a sustainability certification
+standard or formalized sustainability management programme; Percentage of
+land area in point 2 above covered by a sustainability certification programme or
+formalized sustainability management system.
+SUPPLY CHAIN AND MATERIALS
+Supply chain
+(environmental) L Report wherever material across the value chain, mechanisms aimed at enhancing
+management of environmental issues (codes, policies, prevention, and treatment).
+Materials of concern
+C
+Process to identify and manage emerging materials and chemicals of concern in
+products (materials of concern could include conflict minerals or recognised high
+impact raw materials such as palm oil).
+L
+Percentage of materials identified in point 1 above that are covered by a
+sustainability certification standard or formalized sustainability management
+programme.
+36 JSE Limited Sustainability Disclosure Guidance 2021
+Following is an example of the proposed presentation for each metric in the final Guidance
+CLIMATE CHANGE
+Greenhouse Gas
+Emissions
+1. For all relevant greenhouse gases (e.g. carbon dioxide, methane, nitrous oxide,
+F-gases etc.), report in metric tonnes of carbon dioxide equivalent (tCO2e) (CORE).
+2. Estimate and report material upstream and downstream (GHG Protocol Scope 3)
+emissions where appropriate. (LEADERSHIP).
+How is it Measured 1. Total amount, in CO2-e for Scope 1 and Scope 2 (if applicable) – Trend for at least
+three years.
+2. Total amount, in CO2-e for Scope 3 (if applicable) – Trend for at least three years.
+Context/Rationale GHG emissions are a primary driver of climate change, which is expected to have
+increasingly significant economic, environmental, and social impacts. As a result, GHGs
+are a key focus area for policy, regulatory, market and technology responses to limit rising
+temperatures. Organisations with emission-intensive business models are likely to face
+greater risks from the transition to a lower emission economy in terms of increased
+regulatory requirements and additional capital expenditure. Climate risk assessments
+depend on understanding the entire emission profile. For many organisations, the most
+significant GHG emissions are found in their supply chains, not in their own operations.
+Reporting on Scope 3 emissions can assist the identification of potential supply chain
+risks in terms of exposure to the transition to a lower emission economy. It can also help
+improve energy efficiency and cost reduction programmes.
+Link to standards
+and frameworks
+GRI 305:1-3; SASB 110; TCFD; GHG Protocol
+JSE Limited Sustainability Disclosure Guidance 2021 37
+Annexes
+04
+38 JSE Limited Sustainability Disclosure Guidance 2021
+Annex 1: Global and regional
+standards and frameworks
+relating to sustainability
+disclosure
+CDP (formerly the Carbon Disclosure Project)
+CDP collects standardised information from companies
+on climate change and the use of natural resources
+such as water and forests.
+Climate Action 100+ Net Zero Company Benchmark
+Disclosure Indicators
+The Benchmark assesses the performance of focus
+companies against the initiative’s three high-level goals:
+emissions reduction, governance, and disclosure. The
+benchmark helps investor signatories evaluate company
+ambition and action in tackling climate change.
+Climate Disclosure Standards Board (CDSB)
+Issued by the Climate Disclosure Standards Board, the
+CDSB Framework helps companies explain how
+environmental matters affect their performance and
+show how they are addressing associated risks and
+opportunities to investors in annual or integrated
+reports.
+EU Corporate Sustainability Reporting Directive
+(CSRD)
+In April 2021, the Commission adopted a proposal for a
+Corporate Sustainability Reporting Directive (CSRD)
+that would amend the existing reporting requirements
+of the NFRD, extending the scope to all large
+companies and all companies listed on regulated
+markets (except listed micro-enterprises), and
+introducing more detailed reporting requirement.
+EU Non-Financial Reporting Directive
+The EU Non-Financial Reporting Directive (NFRD)
+establishes a minimum standard for SUSTAINABILITY
+reporting for large public interest companies across the
+EU. The Directive requires the largest companies to
+report on environmental matters, social and employee
+affairs, human rights, anti-corruption and bribery issues,
+and diversity on company boards.
+EU Sustainable Finance Disclosure Regulation (SFDR)
+The EU SFDR applies to financial market participants
+ranging from asset managers to financial advisors. It
+aims to increase transparency in how sustainability
+risks and opportunities are integrated into the
+investment decisions and recommendations of
+financial market players.
+EU Taxonomy Regulation
+The EU Taxonomy Regulation is a classification system
+for sustainable economic activities. It defines which
+economic activities can be considered environmentally
+sustainable. It focuses on environmental considerations,
+with social and governance factors to be included by
+the end of 2021.
+GRI (formerly Global Reporting Initiative)
+The GRI Sustainability Reporting Standards, issued by
+the Global Sustainability Standards Board (GSSB), are
+the most widely used standards for sustainability
+reporting, developed over many years with multistakeholder input. It offers a set of modular standards
+to enable organisations to report on their sustainability
+impacts against universal standards and sector-specific
+standards.
+IFC’s Corporate Governance Methodology
+This is an approach to evaluate and improve the corporate
+governance of a company – including the governance
+attributes of key environmental and social policies
+and procedures – to identify, reduce, and manage risk.
+Its use can help a company confirm its commitment
+to demonstrate leadership and promote effective
+environmental, social, and corporate governance
+throughout the company.
+IFC’s Performance Standards on Environmental
+and Social Sustainability
+These standards define IFC clients’ responsibilities for
+managing the environmental and social risks of their
+projects in emerging markets, provide guidance on how
+to identify risks and impacts, and are designed to help
+avoid, mitigate, and manage risks and impacts as a
+way of doing business in a more sustainable way.
+IFC’s Toolkit for Disclosure and Transparency
+The Toolkit is designed to guide companies in preparing
+comprehensive and best-in-class disclosures that
+reflects investors’ views of what drives corporate value.
+The tool provides progressive guidance on the disclosure
+of material information about a company’s strategy,
+governance, and performance—including the impact of
+sustainability factors and the contribution to
+sustainable development.
+IFRS Foundation International Sustainability
+Standards Board
+The International Financial Reporting Standards
+Foundation is a public interest organisation established
+to develop globally accepted accounting standards. In
+response to investor calls for comparable sustainability
+reporting the Foundation Trustees are working on the
+creation of a proposed new standard-setting board—
+International Sustainability Standards Board (ISSB).
+JSE Limited Sustainability Disclosure Guidance 2021 39
+ISO 26000
+ISO 26000 is an international guidance standard on
+social responsibility. In addition to its specific guidance
+on sustainability disclosure, it includes detailed
+guidance on the fundamental expectations of socially
+responsible behaviour, derived primarily from
+authoritative international instruments.
+ISO 37000:2021 Governance of organizations
+ISO 37000 provides principles and key aspects of
+practices to guide governing bodies and governing
+groups on how to meet their responsibilities so that the
+organizations they govern can fulfil their purpose. It is
+also intended for stakeholders involved in, or impacted
+by, the organization and its governance. It is applicable
+to all organizations regardless of type, size, location,
+structure or purpose.
+OECD Guidelines for Multinational Enterprises
+The Guidelines are far-reaching recommendations
+addressed by governments to multinational enterprises
+operating. They provide voluntary principles and
+standards for responsible business conduct in areas
+such as employment and industrial relations, human
+rights, environment, information disclosure, combating
+bribery, consumer interests, science and technology,
+competition, and taxation.
+SDG Disclosure Recommendations
+The Sustainable Development Goals Disclosure (SDGD)
+Recommendations seek to establish best practice for
+corporate reporting on the SDGs and enable more
+effective and standardized reporting and transparency
+on climate change, social and other environmental
+impacts. The report was published by the global
+accountancy bodies, IFAC, ACCA, ICAS, CA ANZ, as well
+as the IIRC and World Benchmarking Alliance.
+South African Green Finance Taxonomy
+South Africa’s National Treasury published a draft
+Technical Paper on Financing a Sustainable Economy
+in May 2020 to unlock access to sustainable finance
+and stimulate the allocation of capital to support a
+development-focused and climate-resilient economy.
+One of the recommendations is to “develop or adopt a
+taxonomy for green, social and sustainable finance
+initiatives, consistent with international developments,
+to build credibility, foster investment and enable
+effective monitoring and disclosure of performance.”
+Task Force on Climate-related Financial Disclosures
+(TCFD)
+The Financial Stability Board established the TCFD in
+December 2015 to develop recommendations for more
+effective climate-related disclosures that could promote
+more informed investment, credit, and insurance
+underwriting decisions and, in turn, enable stakeholders
+to understand better the concentrations of carbonrelated assets in the financial sector and the financial
+system’s exposures to climate-related risks. The TCFD
+recommendations were published in June 2017.
+UN Global Compact (UNGC) Principles
+The Global Compact requires companies to commit to
+a set of ten universal principles concerning human
+rights, labour, environment, and anti-corruption.
+UN Sustainable Stock Exchanges Initiative Model
+Reporting Guidelines
+The Model Guidance is a voluntary tool for stock
+exchanges to guide issuers on how to report on
+environmental, social and governance (ESG) issues.
+Value Reporting Foundation: Integrated Reporting
+Framework
+Issued by the International Integrated Reporting Council
+(IIRC), which has recently merged with SASB to form
+the Value Reporting Foundation, the Integrated
+Reporting Framework helps companies to produce a
+concise, investor-focused report that looks at an
+issuer’s performance and prospects through the lens of
+six ‘capitals’ (financial, manufactured, human, natural,
+intellectual, social and relationship).
+Value Reporting Foundation: Sustainability
+Accounting Standards Board (SASB)
+SASB issues sustainability accounting standards that
+help public corporations disclose material and decisionuseful information to investors in their mandatory
+filings, based on their industry, in line with the notion
+that under existing regulation material information
+should be disclosed in the Forms 10-K or 20-F.
+WEF Measuring Stakeholder Capitalism
+Developed in response to a call from 120 of the world’s
+largest companies to develop a set of common metrics
+on non-financial factors, this document provides a core
+and expanded set of metrics to be used by companies
+to align their reporting on sustainability and ESG
+performance and track their contributions to the SDGs.
+The metrics are based on existing standards, with the
+aim of accelerating convergence in sustainability
+disclosures.
+World Benchmarking Alliance (WBA)
+The WBA has identified seven systems transformations
+needed to achieve the SDGs and is developing a series
+of publicly available benchmarks to assess the
+contributions of the 2,000 most influential companies
+to the SDGs. A series of indicators have been (and are
+being) developed with associated indicators.
+40 JSE Limited Sustainability Disclosure Guidance 2021
+JSE Limited Sustainability Disclosure Guidance 2021 41
+JSE Sustainability Disclosure Guidance
+ISSB: General Requirements for
+Disclosure of Sustainability-related
+Financial Information Purpose of
+the Disclosure
+Document
+Provides guidance to JSE listed companies on the
+disclosure of sustainability-related impacts, risks,
+and opportunities – to meet calls from investors
+and other stakeholders for more consistent,
+complete, comparable, and verifiable metrics and
+narrative disclosures
+Sets out the overall requirements for
+disclosing sustainability-related financial
+information relevant to the sustainabilityrelated risks and opportunities of the entity
+– to assist the primary users of ‘general
+purpose financial reporting’ in deciding
+whether to provide resources to the entity.
+Target users of
+the disclosed
+information
+All stakeholders with an interest in the reporting
+entity’s sustainability-related impacts, risks, and
+opportunities, including investors specifically on the
+sustainability-related risks and opportunities
+impacting enterprise value
+Primary users of general purpose financial
+reporting – namely existing and potential
+investors, lenders and other creditors.
+Disclosure
+channel/s
+covered by
+the Guidance/
+Prototype
+Integrated reports – disclosure to investors and
+other creditors about sustainability matters that
+affect their assessment of enterprise value
+Sustainability reports – disclosures to
+stakeholders about impacts on people,
+the environment, and the economy
+Annual financial report – disclosures to investors,
+lenders and other creditors about monetary
+amounts included in the financial statements
+General purpose financial reports –
+disclosure to investors, lenders and other
+creditors about sustainability matters that
+affect their assessment of enterprise value
+Approach to
+materiality
+Double materiality – impact and enterprise value
+The JSE’s Sustainability Disclosure Guidance has
+adopted the double materiality approach, and
+recommends that those sustainability issues that
+could reasonably be foreseen to meaningfully affect
+a company’s operational and financial results should
+be disclosed in an annual integrated report; and that
+information relating to the organisation’s significant
+impacts on the economy, society, and the environment
+– including, but not limited to, where these impacts
+affect enterprise value – should be in addition to
+the IR in an appropriate format, such as a separate
+sustainability report.
+Single materiality – enterprise value
+Information is material if it would “assist
+users in predicting the value, timing and
+certainty of the entity’s future cash flows,
+over the short, medium and long term, and
+therefore their assessment of enterprise
+value.” Sustainability matters that do not
+affect enterprise value are outside the scope
+of general purpose financial reporting.
+28 Both documents, published on 3 November 2021, represent recommendations from the Technical Readiness Working Group (TRWG) for consideration by the
+International Sustain ability Standards Board (ISSB). While the recommendations build on the established work of the organisations represented on the TRWG
+(CDSB, IFRS Foundation, TCFD, VRF and WEF), these documents have not been subject to the due process of those organisations or the IFRS Foundation.
+The ISSB is expected to consult publicly, informed by the TRWG’s recommendations, and its work will be subject to the IFRS Foundation’s due process.
+Annex 2: JSE Disclosure Guidance, the ISSB Protocols
+and the EU CSRD – A brief comparison
+The JSE Sustainability Disclosure Guidance has been developed to ensure full alignment with key global disclosure
+initiatives, while providing for South Africa’s business context and its particular social and environmental challenges.
+The following table compares the JSE Guidance with three recent and potentially significant initiatives – two
+42 JSE Limited Sustainability Disclosure Guidance 2021
+ISSB: Climate-related Disclosures Prototype
+EU Corporate Sustainability Reporting Directive
+(CSRD)
+Sets out the requirements for the identification,
+measurement, and disclosure of climate-related
+financial information – to assist the primary users of
+‘general purpose financial reporting’ in deciding whether
+to provide resources to the entity.
+Improve sustainability reporting at least possible cost,
+contribute to the transition towards a sustainable and
+inclusive economy, enhance clarity and certainty on
+issues to disclose, reduce competing demands on
+companies for sustainability information, promote
+convergence and harmonisation
+Primary users of general purpose financial reporting –
+namely existing and potential investors, lenders and
+other creditors.
+Two primary users: investors, including asset
+managers, who want to better understand the risks
+and opportunities that sustainability issues pose to
+their investments, and the impacts of these
+investment; and other stakeholders that wish to hold
+organisations to account for their sustainability
+impacts
+General purpose financial reports – disclosure to
+investors, lenders and other creditors about climaterelated issues that affect their assessment of enterprise
+value
+Annual management reports and annual financial
+statements
+Organisations should prepare their financial
+statements and management report in XHTML format
+and mark-up sustainability information in accordance
+with relevant regulations, and tagged according to an
+agreed digital taxonomy
+Single materiality – enterprise value
+Information is material if it would “assist users in
+predicting the value, timing and certainty of the entity’s
+future cash flows, over the short, medium and long term,
+and therefore their assessment of enterprise value.”
+Sustainability matters that do not affect enterprise value
+are outside the scope of general purpose financial
+reporting.
+Double materiality – impact and enterprise value
+Organisations required to report both on how
+sustainability matters affect the entity, and on the
+impacts of the activities of the organisation on people
+and the environment – referred to as the doublemateriality perspective, in which the risks to the
+undertaking and the impacts of the undertaking each
+represent one materiality perspective
+29 European Commission COM (2021) 189 final; 2021/0104 (COD), aimed at revising the Non-Financial Reporting Directive, inter alia extending the scope
+to all large companies and all companies listed on regulated markets (except micro-enterprises), as well as introducing more detailed reporting
+requirements
+prototypes being developed for the ISSB28, and the proposed EU Directive on Corporate Sustainability Reporting29 –
+and highlights the strong alignment between the JSE Guidance and these initiatives
+JSE Limited Sustainability Disclosure Guidance 2021 43
+JSE Sustainability Disclosure Guidance
+ISSB: General Requirements for
+Disclosure of Sustainability-related
+Financial Information Disclosure
+guidance
+Narrative
+disclosures
+Disclosure guidance on:
+(a) governance
+(b) strategy
+(c) management
+(d) metrics, targets and performance
+Note: the JSE has ensured consistency in
+the details within each of above narrative disclosures
+with those provided in the
+ISSB Protocol and EU Directive
+Disclosure guidance on:
+(a) governance
+(b) strategy
+(c) risk management
+(d) metrics and targets
+Disclosure
+guidance
+Specific metrics
+Core and Leadership metrics on:
+Governance
+y Board composition
+y Ethical behaviour
+y Compliance and risk
+y Tax transparency
+Social
+y Labour standards
+y Human rights / community dev
+y Health and safety
+y Customer responsibility
+y Supply chain (social)
+Environmental
+y Climate change and energy
+y Water use
+y Pollution and waste
+y Biodiversity and land-use
+y Supply chain and materials
+No specific metrics in this Protocol
+These will be included in separate thematic
+standards on sustainability-related matters
+(in addition to the current draft on climate),
+as well as industry-specific standards.
+Reporting
+principles
+y Accuracy
+y Balance
+y Clarity
+y Comparability
+y Completeness
+y Material
+y Stakeholder inclusive
+y Sustainability context
+y Timeliness
+y Verifiability
+y Comparability
+y Faithful representation
+y Relevance
+y Timeliness
+y Understandability
+y Verifiability
+44 JSE Limited Sustainability Disclosure Guidance 2021
+ISSB: Climate-related Disclosures Prototype
+EU Corporate Sustainability Reporting Directive
+(CSRD)
+Disclosure guidance on:
+(a) governance
+ (b) strategy
+(c) risk management
+ (d) metrics and targets
+Disclosure guidance on (amongst others):
+y Role of board and management
+y Strategy
+y Targets
+y Principal adverse impacts connected to the
+company and its value chain
+Specific metrics on
+y Greenhouse gas emissions
+y Transition risks
+y Physical risks
+y Climate-related opportunities
+y Capital deployment
+y Internal carbon prices
+y Remuneration
+Specific metrics to be published in reporting
+standards; first set by 31 October 2022, including:
+Governance
+y Role of supervisory bodies
+y Ethics and culture
+y Political engagements
+y Control and risk mngt
+Social
+y Equal opportunities
+y Working conditions
+y Respect for human rights
+Environmental
+y Climate change
+y Water & marine resources
+y Resource use & circular economy
+y Pollution
+y Biodiversity and ecosystems
+y Comparability
+y Faithful representation
+y Relevance
+y Timeliness
+y Understandability
+y Verifiability
+y Comparability
+y Faithful representation
+y Relevance
+y Representative
+y Understandable
+y Verifiable

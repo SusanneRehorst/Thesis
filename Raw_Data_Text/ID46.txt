@@ -1,0 +1,12 @@
+711A	
+An issuer must issue a sustainability report for its financial year, no later than 4 months after the end of the financial year, or where the issuer has conducted external assurance on the sustainability report, no later than 5 months after the end of the financial year.
+711B 
+(1) The sustainability report must describe the sustainability practices with reference to the following primary components:
+(a)    material environmental, social and governance factors;
+(aa)  climate-related disclosures consistent with the recommendations of the Task Force on Climate-related Financial     Disclosures;
+(b)    policies, practices and performance;
+(c)    targets;
+(d)    sustainability reporting framework; and
+(e)    Board statement and associated governance structure for sustainability practices.
+(2) If the issuer excludes any primary component, it must disclose such exclusion and describe what it does instead, with reasons for doing so. An issuer in any of the industries identified in Practice Note 7.6 may not exclude the primary component in Rule 711B(1)(aa).
+(3) The issuer’s sustainability reporting process must be subject to internal review. The issuer may additionally commission an independent external assurance on the sustainability report.

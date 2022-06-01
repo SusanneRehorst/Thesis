@@ -1,0 +1,911 @@
+Pillar 3 – People
+Summary of key changes
+The majority of respondents to the consultation
+survey ranked all the core metrics as either important
+or highly important, indicating strong support for the
+core metrics across all themes (Dignity and equality,
+Health and well-being, and Skills for the future).
+In the core metrics, the principal changes arising
+from the feedback and other developments were as
+follows:
+– Introduction of CEO pay ratio into wage level
+metric
+– Transfer of the quantitative element of child and
+forced labour from core metric to expanded
+metric
+– Modification of the health and safety metric to
+include disclosure of provision of non-occupational
+medical and healthcare services to workforce
+– During the six-month consultation period, the
+Black Lives Matter movement took hold and it
+became important to respond by introducing
+ethnicity into the pay equality metric
+In the expanded metrics, the main changes based
+on the feedback were as follows:
+– Introduction of the ratio of the annual total
+compensation for the highest-paid individual in
+each country to the median compensation in
+that country
+– As with the core metrics, the expanded set saw
+the introduction of a pay gap metric based on
+gender and other indicators of diversity
+– The quantitative aspects of human right issues,
+such as assessments and incidents, have been
+introduced into the expanded metrics
+– The training metric was modified to measure
+investment level and effectiveness of training
+rather than number of people trained
+In response to feedback received, some additional
+commentary has been included for both core and
+expanded metrics and a Glossary of definitions of
+key terms has been added.
+Measuring Stakeholder Capitalism: Towards Common Metrics and Consistent Reporting of Sustainable Value Creation 64
+People: Core metrics and disclosures
+Theme People: Core metrics and disclosures Sources
+Dignity and
+equality
+Diversity and inclusion (%)
+Percentage of employees per employee category, by age group,
+gender and other indicators of diversity (e.g. ethnicity).
+GRI 405-1b
+Rationale
+Empowering and promoting social and economic inclusion, irrespective of age, sex, disability, race,
+ethnicity, origin, religion or other status is an important aspect of good people management. Gender
+and ethnic/cultural diversity, particularly within executive teams, are closely correlated to both financial
+and non-financial performance and enhance the stability of companies across the globe. More diverse
+companies are better able to innovate, attract top talent, improve their customer orientation, enhance
+employee satisfaction and secure a licence to operate. Inclusion and diversity are likely to become core to
+an organization’s business model in the future. Companies that focus on improving inclusion and diversity
+in their workforce can reap both tangible and intangible benefits.
+Additional commentary
+Ethnicity issues have received renewed focus with recent events across the globe, including the Black
+Lives Matter movement. Reporting on these aspects provides an opportunity to identify disparities within
+the organization and helps improve the culture across the value chain. The suggested age groups for
+reporting on this disclosure are: under 30 years old, 30-50 years old and over 50 years old.
+Dignity and
+equality
+Pay equality (%)
+Ratio of the basic salary and remuneration for each employee
+category by significant locations of operation for priority areas
+of equality: women to men, minor to major ethnic groups, and
+other relevant equality areas.
+Adapted from
+GRI 405-2
+Rationale
+Corporate policies promoting pay equality reflect an organization’s culture and help companies bridge
+diversity gaps, attract talent and drive long-term competitiveness. Inclusion and diversity can only be
+achieved by promoting equal pay and by providing equal remuneration for the same jobs, to address
+social disparity and to maximize professional opportunities for all people irrespective of gender, colour,
+caste, creed, religion and other diversity aspects. Organizations in which racial and other discrimination
+imbalances exist expose themselves to reputational and potential legal risk.
+Additional commentary
+Refer to the guidance provided in the GRI Standard 405 for reporting on this metric. For reporting on
+ethnic pay equality, adopt a methodology similar to GRI 405-2, focusing on ethnic groups. The major and
+minor ethnic group would be based on the significant locations of organizations’ operations.
+TABLE
+Measuring Stakeholder Capitalism: Towards Common Metrics and Consistent Reporting of Sustainable Value Creation 65
+Theme People: Core metrics and disclosures Sources
+Dignity and
+equality
+Wage level (%)
+1. Ratios of standard entry level wage by gender compared to
+local minimum wage.
+2. Ratio of the annual total compensation of the CEO to the
+median of the annual total compensation of all its employees,
+except the CEO.
+GRI 202-1,
+Adapted from
+Dodd-Frank
+Act, US SEC
+Regulations
+Rationale
+Fair compensation and benefits contribute to the economic well-being of employees, since the distribution
+of wages and income is crucial for eliminating inequality and poverty. A wide gap between the highestpaid individual and the median reinforces inequality and could impede long-term value creation. Focus
+on pay ratios improves corporate governance and will help ensure that CEO pay is fair and appropriate
+in relation to the rest of the workforce. Disclosure will provide greater insight into how companies are
+spending on top-management, their basis for doing so and the opportunity costs that might impact their
+performance (e.g. investment in research and development or staff training) and therefore encourage the
+organization to raise compensation for low- and middle-income employees.
+Additional commentary
+The organization should disclose this indicator for employees who are compensated based on wages
+subject to minimum wage rules. It can report the relevant ratio of entry-level wage to minimum wage by
+gender at significant locations of operations. If a local minimum wage is absent or variable at significant
+locations of operation, by gender, use different minimums as a reference and report which minimum is
+used for calculating the ratio.
+Executive compensation disclosure rules require companies to disclose the ratio of the annual total
+compensation of the CEO to the median of the annual total compensation of all its employees, except the
+CEO. To identify the median compensation of all the employees, companies can select a methodology
+based on their own facts and circumstances. A company could, for example, identify the median of
+its population or sample using annual total compensation as determined under existing executive
+compensation rules, or any consistently applied compensation measure from compensation amounts
+reported in its payroll or tax records.
+Dignity and
+equality
+Risk for incidents of child, forced or compulsory labour
+An explanation of the operations and suppliers considered
+to have significant risk for incidents of child labour, forced or
+compulsory labour. Such risks could emerge in relation to:
+a) type of operation (such as manufacturing plant) and type of
+supplier
+b) countries or geographic areas with operations and suppliers
+considered at risk
+GRI 408-1b,
+GRI 409-1a
+Rationale
+Child labour and forced or compulsory labour are violations of fundamental human rights and have been
+identified as a hindrance to development. There is a strong link between poverty and child labour, which
+can lower the standard of living across generations. The ripple effects arising from these issues can
+translate into legal and reputational risk for the companies, especially those with extensive value chains.
+Eliminating child labour, forced labour and human trafficking requires businesses, financial institutions
+and civil society to take strong action and address its root causes. This indicator provides an overview of
+where a company is identifying these significant human rights risks and gives the company the opportunity
+to explain its approach to risk management of these issues and how it is addressing these risks in the
+entire value chain.
+Additional commentary
+For more information refer to GRI Standards 408 and 409 guidance document.
+Measuring Stakeholder Capitalism: Towards Common Metrics and Consistent Reporting of Sustainable Value Creation 66
+Theme People: Core metrics and disclosures Sources
+Health and
+well‑being
+Health and safety (%)
+The number and rate of fatalities as a result of work-related
+injury; high-consequence work-related injuries (excluding
+fatalities); recordable work-related injuries; main types of workrelated injury; and the number of hours worked.
+An explanation of how the organization facilitates workers’
+access to non-occupational medical and healthcare services,
+and the scope of access provided for employees and workers.
+GRI:2018
+403-9a&b,
+GRI:2018
+403-6a
+Rationale
+Maintaining strong standards of health, safety and labour rights can improve employee productivity
+and operational efficiency and enhance employee well-being. Working proactively in these areas of
+business will help identify and mitigate potential risks, and it is increasingly required by law. Mental
+health and emotional wellbeing, as components of overall worker health and safety, are becoming
+increasingly important to drive innovation and deliver goods and services that are reliant on human capital.
+Organizations that invest in non-occupational medical and healthcare services would demonstrate to their
+employees that they care and look after them. This would result in a purposeful, resilient and growthoriented workforce.
+Additional commentary
+1. For all employees and workers who are not employees but whose work and/or workplace is controlled
+by the organization, report the following:
+– The number and rate of fatalities as a result of work-related injury
+– The number and rate of high-consequence work-related injuries (excluding fatalities)
+– The number and rate of recordable work-related injuries
+– The main types of work-related injury
+– The number of hours worked
+For calculation for the rate of work-related injury, high consequence work-related injuries and recordable
+work-related injuries refer to GRI:2018 403-9 for guidance.
+2. Provide an explanation of how the organization facilitates workers’ access to non-occupational medical
+and healthcare services, and the scope of access provided for all employees and workers. Employees’
+and workers’ access to non-occupational medical and healthcare services might be facilitated through,
+for example, company clinics, disease treatment programmes, referral systems, health insurance or
+financial contributions.
+When describing the scope of access to non-occupational medical and healthcare services provided,
+specify the types of service to which access is facilitated and the types of workers that have access to
+them. For more information refer to GRI:2018 403-6 guidance documents.
+Measuring Stakeholder Capitalism: Towards Common Metrics and Consistent Reporting of Sustainable Value Creation 67
+Theme People: Core metrics and disclosures Sources
+Skills for the
+future
+Training provided (#, $)
+1. Average hours of training per person that the organization’s
+employees have undertaken during the reporting period, by
+gender and employee category (total number of hours of training
+provided to employees divided by the number of employees).
+2. Average training and development expenditure per full time
+employee (total cost of training provided to employees
+divided by the number of employees).
+GRI 404-1,
+SASB HC 101-
+15
+Rationale
+A skilled workforce improves a company’s performance, contributes to employee satisfaction and
+enhances human capital. It is a key priority for all companies today. When firms fail to invest in training,
+education, skilling and reskilling of their workforce, it can affect their business performance, reputation
+and ability to attract talent. It can also lead to higher operating costs related to recruiting, developing and
+retaining employees. The quantum of training needs to be a healthy mix that helps employees to upskill,
+learn and review issues that are industry-relevant. Providing the right mix of training to employees on
+technical and behavioural aspects will nurture business growth and help develop a competitive edge.
+Additional commentary
+1. Report average hours of training that company employees have undertaken during the reporting
+period, by gender and employee category. In the context of this metric, training refers to:
+– All types of vocational training and instruction
+– Paid educational leave provided by an organization for its employees
+– Training or education pursued externally, paid for in whole or in part by an organization
+– Training on specific topics
+– Reskilling of employees as per market requirements
+– Note: training does not include on-site coaching by supervisors
+2. Provide information on the training and development expenditure per full time employee. This
+includes the expenditure for professional qualifications (such as credentialing programmes and board
+certification), advanced industry education (such as degree and certificate programmes directly related
+to job function) and all other categories of training, as mentioned above. For more information refer to
+GRI 404-1 guidance and SASB HC101-15
+Measuring Stakeholder Capitalism: Towards Common Metrics and Consistent Reporting of Sustainable Value Creation 68
+People: Expanded metrics and disclosures
+Theme People: Expanded metrics and disclosures Sources
+Dignity and
+equality
+Pay gap (%, #)
+1. Mean pay gap of basic salary and remuneration of full-time
+relevant employees based on gender (women to men)
+and indicators of diversity (e.g. BAME to non-BAME) at a
+company level or by significant location of operation.
+2. Ratio of the annual total compensation for the organization’s
+highest-paid individual in each country of significant operations
+to the median annual total compensation for all employees
+(excluding the highest-paid individual) in the same country.
+Adapted from
+UK Government
+guidance on
+gender and
+ethnicity pay gap
+reporting,44
+GRI 102-38
+Rationale
+The pay gap metric is considered a potential indicator of organizational structural inequality and underrepresentation of disadvantaged groups in senior and higher paid roles. Research has shown that women
+and people from ethnic minorities tend to earn less and be in less-senior roles. This is often associated
+with social disadvantage and is arguably also caused by discrimination. A migrant workforce may have
+a poor command of the local language, possess qualifications that are not generally recognized by
+employers and be unfamiliar with the regional culture; these factors affect pay and position. Addressing
+this issue will create pathways towards a greater variety of roles in the workforce and will positively change
+how businesses promote talent and distribute pay at all levels.
+A wide gap between the highest-paid individual and the median reinforces inequality and could impede
+long-term value creation. Depending on how the organization is structured, it can become a crucial factor
+in enabling investors to make appropriate decisions.
+Additional commentary
+Guidance on the requirements and the gender pay gap calculation method is provided by the UK Government
+Equalities Office as well as by other organizations such as the UK Chartered Institute of Personnel and
+Development (CIPD). Companies should apply the same methodology to calculate an ethnicity pay gap, being
+the difference in the average rate of pay between BAME (or other relevant ethnic categorization) workers and
+non-BAME workers expressed as a percentage of the pay of non-BAME workers.
+Companies should disclose the ratio of the annual total compensation for the organization’s highestpaid individual in each country of significant operations to the median annual total compensation for
+all employees (excluding the highest-paid individual) in the same country. Calculate by considering the
+median annual compensation of all employees at each level.
+Dignity and
+equality
+Discrimination and harassment incidents (#) and the total
+amount of monetary losses ($)
+1. Number of discrimination and harassment incidents, status
+of the incidents and actions taken.
+2. Total amount of monetary losses as a result of legal
+proceedings associated with:
+a) law violations, and
+b) employment discrimination
+GRI 406-1,
+Adapted from
+SASB FR310a.4
+Rationale
+Organizational culture needs to be built on a foundation of respect, courtesy and professionalism, free
+from any acts of discrimination, bullying or harassment. Employers are responsible for dealing effectively
+and fairly with situations involving claims and incidents of harassment or discrimination. Commitment
+to eliminating discrimination and harassment in the workplace helps reduce inequalities and promotes
+organizational cultures that focus on performance and merit.
+Additional commentary
+1. Report on total number of discrimination and harassment incidents, status of the incidents and
+remediation measures taken.
+2. Report the total amount of monetary losses incurred during the reporting period as a result of legal
+proceedings associated with (1) labour law violations and (2) employment discrimination. Labour
+violation is defined as violations including, but not limited to, those relating to wages, work hours,
+overtime and meal and rest breaks.
+While disclosing information on this metric, include incidents of discrimination on the grounds of race,
+color, sex, religion, political opinion, national extraction or social origin as defined by the ILO, or other
+relevant forms of discrimination involving internal and/or external stakeholders across operations in the
+reporting period. For additional information refer to GRI 406-1 guidance and SASB FB–FR–310a.4.
+TABLE
+Measuring Stakeholder Capitalism: Towards Common Metrics and Consistent Reporting of Sustainable Value Creation 69
+Theme People: Expanded metrics and disclosures Sources
+Dignity and
+equality
+Freedom of association and collective bargaining at risk (%)
+1. Percentage of active workforce covered under collective
+bargaining agreements.
+2. An explanation of the assessment performed on suppliers
+for which the right to freedom of association and collective
+bargaining is at risk, including measures taken by the
+organization to address these risks.
+SASB CN0401-
+17,
+GRI 407-1,
+WDI 7.2
+Rationale
+A responsible business respects the human rights of its workers, including their right to exercise freedom of
+association and collective bargaining. It is important to have a proper governance structure in place which
+embraces these human rights and makes it possible to promote and realize decent conditions at work. Freedom
+of association and collective bargaining are the basis for all human rights in the workplace (e.g. living wage,
+decent work conditions, equal opportunities). Organizations that support these rights internally and externally
+across the value chain can better mitigate the risk of potential conflicts as well as safeguard business continuity.
+Additional commentary
+1. Report on the percentage of the active workforce covered under collective bargaining agreements. The
+active workforce is defined as the maximum number of unique employees employed at any time during
+the fiscal year. The scope includes all personnel employed by the registrant, including full-time, part-time
+and temporary employees.
+2. Workers’ rights to exercise freedom of association or collective bargaining may be violated or at
+significant risk either in terms of type of operations and countries or geographic areas. Disclose the
+information related and provide the remediation measures taken in the reporting period to support and
+protect the rights of collective bargaining across the value chain.
+Dignity and
+equality
+Human rights review, grievance impact and modern
+slavery (#, %)
+1. Total number and percentage of operations that have been
+subject to human rights reviews or human rights impact
+assessments, by country.
+2. Number and type of grievances reported with associated
+impacts related to a salient human rights issue in the
+reporting period and an explanation on type of impacts.
+3. Number and percentage of operations and suppliers
+considered to have significant risk for incidents of child
+labour, forced or compulsory labour. Such risks could
+emerge in relation to:
+a) type of operation (such as manufacturing plant) and type
+of supplier; or
+b) countries or geographic areas with operations and
+suppliers considered at risk.
+GRI 412-1,
+UN Guiding
+Principles,
+Adapted from
+GRI 408-1a and
+GRI 409-1,
+WDI 7.5
+Rationale
+Organizational activities may cause or contribute to an environment of social abuse that violates the human
+rights of individuals, workers and communities. Without a mechanism for employees and other key stakeholders
+to report human rights violations, companies could miss opportunities to identify and mitigate such underlying
+issues. Companies that encourage stakeholders to provide feedback can respond more quickly to misconduct,
+build trust with them and prevent harm to long-term value. Eliminating forced labour remains an important
+challenge as it perpetuates poverty and is a hindrance to economic and human development. Companies that
+associate with modern slavery in any form will damage their reputation, brand and even licence to operate. It is
+extremely important for companies to engage with this topic and assess the risk across their value chain.
+Additional commentary
+1. Disclose information on the total number and percentage of operations that have been subject to
+human rights reviews or human rights impact assessments, by country. For additional information refer
+to GRI 412-1. Perform human rights due diligence across the value chain to report on this aspect.
+2. Disclose information related to grievances, including number and type of grievances reported, with
+associated impacts related to a salient human rights issues in the reporting period. Additionally,
+disclose the types of impacts that occurred (both direct and indirect). Mention any monetary losses
+associated with these impacts.
+3. Disclose information on the number and percentage of operations and suppliers considered to be at
+significant risk of incidents of child, forced or compulsory labour by type of operation and supplier;
+and by countries or geographic areas with operations and suppliers considered at risk. To ensure the
+accuracy and mitigate the risk, perform risk assessments across upstream and downstream activities.
+For more information, refer to GRI 412-1, UN Guiding Principles, GRI 408-1a, GRI 409-1 and WDI 7.5.
+Measuring Stakeholder Capitalism: Towards Common Metrics and Consistent Reporting of Sustainable Value Creation 70
+Theme People: Expanded metrics and disclosures Sources
+Dignity and
+equality
+Living wage (%)
+Current wages against the living wage for employees and
+contractors in states and localities where the company is operating.
+MIT Living Wage
+Tool,
+EPIC
+Rationale
+Companies that offer a living wage to workers and employees can help lift households and communities
+out of poverty. A living wage provides a benchmark for responsible employers who respect human
+rights and who choose to pay their employees a rate that meets the basic cost of living in the region
+they operate in. The provision of a living wage could strengthen the organizations’ reputation, reduce
+employee turnover and lower the risk of strike action by workers.
+Additional commentary
+Living wage is defined as a wage sufficient to meet the basic standards of living, which will vary by
+country, local living standards and need. Information and references for a living wage are available at MIT’s
+Living Wage Calculator.45 For locations not in the US, refer to the Living Wage Foundation46 or to “Living
+Wages Around the World: Manual for Measurement”, by Richard and Martha Anker.
+Health and
+well‑being
+Monetized impacts of work-related incidents on organization (#, $)
+By multiplying the number and type of occupational incidents
+by the direct costs for employees, employers per incident
+(including actions and/or fines from regulators, property damage,
+healthcare costs, compensation costs to employees).
+Adapted
+indicator based
+on European
+Commission,
+Safe Work
+Australia
+Rationale
+A safe workplace is crucial for companies to maintain employees’ morale and stay competitive. The
+financial impacts of workplace accidents can destabilize companies and their business models. Measuring
+the direct impacts of these accidents will enable companies to reduce their negative impacts on
+employees, business and society. The cost of work-related accidents and ill-health helps substantiate the
+business case for investments in occupational health and safety.
+Additional commentary
+Report on monetized impacts incurred due to work-related incidents during the reporting period. Calculate
+by multiplying the number and type of occupational incidents (e.g. injuries to employees, structural
+damage in the organization etc.) with direct costs incurred by the organization. This includes costs directly
+attributed to the accident, e.g. direct costs from compensation payments, first aid and medical expenses,
+wages of the victim, material damages, payment of indemnity benefits, workers’ compensation and other
+benefits, medical benefits for the injured worker (e.g. workers’ compensation and other health benefits),
+return-to-work programmes, workers’ compensation insurance premiums, injury prevention programmes,
+and costs of compliance, among others.
+Health and
+well‑being
+Employee well-being (%)
+1. The number of fatalities as a result of work-related ill-health,
+recordable work-related ill-health injuries and the main types
+of work-related ill-health for all employees and workers.
+2. a) Percentage of employees participating in “best practice”
+health and well-being programmes, and
+b) Absentee rate (AR) of all employees.
+GRI:2018
+403-10a&b,
+EPIC,
+Adapted from
+GRI:2016
+403-2a
+Rationale
+There is a growing recognition that the well-being of employees has a positive impact on organizational
+success as well as on employee health, professional fulfilment and quality of life. Research has consistently
+shown that employee well-being predicts job attitudes and performance. It has important implications for
+productivity and work relationships. Having a hygienic, safe and healthy workplace culture contributes to a
+high-performing organization with employees who are socially integrated.
+Additional commentary
+1. Report on the following information for all employees and workers who are not employees, but whose
+work and/or workplace is controlled by the organization:
+– The number of fatalities as a result of work-related ill-health
+– The number of cases of recordable work-related ill-health
+– The main types of work-related ill-health
+2. Disclose information on the percentage of employees participating in “best practice” health and wellbeing programmes. Well-being programmes are categorized under lifestyle management, disease
+management and access to healthcare. Report on the absenteeism rate (AR) for all employees.
+For more information refer to GRI:2016 403-2b and Embankment Project, EPIC Report page 46.
+Measuring Stakeholder Capitalism: Towards Common Metrics and Consistent Reporting of Sustainable Value Creation 71
+Theme People: Expanded metrics and disclosures Sources
+Skills for the
+future
+Number of unfilled skilled positions (#, %)
+1. Number of unfilled skilled positions (#).
+2. Percentage of unfilled skilled positions for which the
+company will hire unskilled candidates and train them (%).
+WBCSD
+Measuring Impact
+Framework
+Methodology
+Version 1.0
+(2008)
+Rationale
+The rapid changes in global markets and business models including technology have led to a rise in skills
+gaps. It is imperative for organizations to identify skills gaps and train employees to bridge the gaps. It
+is paramount for organizations, society and investors alike to measure the effects of available skills and
+learning. A company will be rewarded in the market based on the value it generates for its stakeholders.
+Investing in relevant training programmes will help organizations fill vacant skilled positions, thereby
+improving productivity and reducing employee turnover.
+Additional commentary
+1. Report on the number of unfilled skilled positions (a skilled position is unfilled if it is vacant for 90 days).
+2. Report on the percentage of unfilled skilled positions for which the company hires unskilled candidates
+and trains them.
+Organizations can use the regional definition for “skilled” as per the location they operate in. For more
+information refer to WBCSD’s impact framework, page 59.
+Skills for the
+future
+Monetized impacts of training – Increased earning capacity as a
+result of training intervention (%, $)
+1. Investment in training as a percentage (%) of payroll.
+2. Effectiveness of the training and development through
+increased revenue, productivity gains, employee engagement
+and/or internal hire rates.
+Adapted from
+OECD, 47 48
+WDI 5.5
+Rationale
+Training affects valuation and creates a pressure for change. It can be leveraged for innovation and used to
+improve performance and manage human capital. Enhancing skills through relevant investments in training
+and monitoring the effectiveness of training will enhance productivity, reduce employee turnover and
+contribute to an organization’s capacity to create long-term value.
+Additional commentary
+1. Report on the investment made in training as a percentage of payroll. This analyses how much
+reskilling investment is made to enhance the capabilities of the workforce and make them future-ready.
+2. Companies are encouraged to provide any quantitative or qualitative measures of the impact of training
+and development on the business and its workforce (e.g. through increased revenue, productivity
+gains, employee engagement and/or internal hire rates or return on investment). Regarding internal
+hires, report the proportion of internal hires at company level and proportion by employee category.
+For reporting on training return on investment, use the DJSI human capital return on investment
+methodology or the Kirkpatrick Model.
+Measuring Stakeholder Capitalism: Towards Common Metrics and Consistent Reporting of Sustainable Value Creation 72
+
+People
+Absentee Worker absent from work because of incapacity of
+any kind, not just as the result of work-related injury or
+disease
+Note: Absentee excludes permitted leave absences
+such as holidays, study, maternity or paternity leave
+and compassionate leave.
+GRI 403-2 (2016),
+Glossary
+People, Expanded: Well-being
+Absentee rate Measure of actual absentee days lost, expressed as a
+percentage of total days scheduled to be worked by
+workers for the same period (The total absentee days
+lost divided by the total days scheduled to be worked
+by employees during the reporting period, expressed as
+a percentage)
+Note: Absentee rate can be calculated for a specific
+category of workers (e.g. employees). This is specified
+in the respective disclosure in the GRI Standards.
+GRI 403-2, 2016
+Glossary
+People, Expanded: Well-being
+Age group – Under 30 years old
+– 30-50 years old
+– Over 50 years old
+GRI Disclosure
+401-1
+People, Core: Diversity and
+inclusion
+Prosperity, Core: Absolute
+number and rate of
+employment
+Annual total
+compensation
+Compensation provided over the course of a year.
+Annual total compensation can include compensation
+such as salary, bonus, stock awards, option awards,
+non-equity incentive plan compensation, change in
+pension value and nonqualified deferred compensation
+earnings and all other compensation.
+GRI 102-38
+Glossary
+People, Core: Wage Level
+People, Expanded: Pay Gap
+Child Person under the age of 15 years, or under the age of
+completion of compulsory schooling, whichever is higher.
+Note 1: Exceptions can occur in certain countries
+where economies and educational facilities are
+insufficiently developed and a minimum age of 14 years
+applies. These countries of exception are specified by
+the International Labour Organization (ILO) in response
+to a special application by the country concerned and
+in consultation with representative organizations of
+employers and workers.
+Note 2: The ILO Convention 138, “Minimum Age
+Convention”, 1973, refers to both child labour and
+young workers.
+GRI 408-1
+Glossary , ILO
+Convention
+People, Core: Risk for incidents
+of child, forced or compulsory
+labour
+People, Expanded: Human
+rights review, grievance impact
+& modern slavery
+Chronic
+disease
+management
+Chronic disease management includes supporting
+employees to manage chronic non-communicable
+diseases (these include for example, heart disease,
+hypertension, diabetes, mental health). Following a
+baseline health assessment (anonymized) the company
+then supports and intervenes where appropriate (e.g.
+access to flu shots, helplines).
+Embankment
+Project, EPIC
+Report (Page 47)
+People, Expanded: Well-being
+Discrimination Act and result of treating persons unequally by imposing
+unequal burdens or denying benefits instead of treating
+each person fairly on the basis of individual merit.
+Note: Discrimination can also include harassment, defined
+as a course of comments or actions that are unwelcome,
+or should reasonably be known to be unwelcome, to the
+person towards whom they are addressed.
+GRI 406-1
+Glossary
+People, Expanded:
+Discrimination and harassment
+incidents and the total amount
+of monetary losses
+Entry level
+wage
+Full-time wage in the lowest employment category
+Note: Intern or apprentice wages are not considered
+entry level wages.
+GRI 202-1
+Glossary
+People, Core: Wage Leve
+Forced or
+compulsory
+labour
+All work and service that is exacted from any person
+under the menace of any penalty and for which the said
+person has not offered herself or himself voluntarily.
+Note 1: The most extreme examples of forced or
+compulsory labour are slave labour and bonded labour,
+but debts can also be used as a means of maintaining
+workers in a state of forced labour.
+Note 2: Indicators of forced labour include withholding
+identity papers, requiring compulsory deposits and
+compelling workers, under threat of firing, to work extra
+hours to which they have not previously agreed.
+Note 3: This definition is based on International Labour
+Organization (ILO) Convention 29, “Forced Labour
+Convention”, 1930.
+GRI 409-1
+Glossary
+People, Core: Risk for incidents
+of child, forced or compulsory
+labour
+People, Expanded: Human
+rights review, grievance impact
+& modern slavery
+Formal
+agreement
+Written document signed by both parties declaring a
+mutual intention to abide by what is contained in the
+documents.
+Note: A formal agreement can include, for example, a
+local collective bargaining agreement, or a national or
+international framework agreement.
+GRI 407-1
+Glossary
+People, Expanded: Freedom
+of association and collective
+bargaining at risk
+Freedom of
+association
+Right of employers and workers to form, to join and to
+run their own organizations without prior authorization
+or interference by the state or any other entity.
+GRI 407-1
+Glossary WDI 7.2
+Definitions
+People, Expanded: Freedom
+of association and collective
+bargaining at risk
+Gender Gender refers to the roles, behaviours, activities,
+attributes and opportunities that any society considers
+appropriate for girls and boys, and women and men.
+Gender interacts with, but is different from, the binary
+categories of biological sex
+World Health
+Organization
+People, Core:
+– Diversity & inclusion
+– Training provided
+People, Expanded: Pay gap
+Prosperity, Core: Absolute
+number and rate of
+employment
+Grievance
+mechanism
+System consisting of procedures, roles and rules for
+receiving complaints and providing remedy.
+Note: Effective grievance mechanisms are expected to be
+legitimate, accessible, predictable, equitable, transparent,
+rights-compatible and a source of continuous learning.
+For operational-level mechanisms to be effective, they
+are expected to be based on engagement and dialogue.
+For a description of each of these criteria, see Guiding
+Principle 31 in the United Nations (UN), “Guiding Principles
+on Business and Human Rights, Implementing the United
+Nations “Protect, Respect and Remedy” Framework”, 2011
+GRI 408-1
+Glossary
+People, Expanded: Human
+rights review, grievance impact
+and modern slavery
+Health
+promotion
+Process of enabling people to increase control over and
+improve their health.
+Note 1: The terms “health promotion”, “well-being” and
+“wellness” are often used interchangeably.
+Note 2: This definition comes from the World Health
+Organization (WHO), “Ottawa Charter for Health
+Promotion”, 1986
+GRI 403-9 (2018),
+Glossary
+OSHAS 2018
+People, Core: Health & safety
+Highconsequence
+work-related
+injury
+Work-related injury that results in a fatality or in an
+injury from which the worker cannot, does not, or is
+not expected to recover fully to pre-injury health status
+within 6 months.
+GRI 403-9 (2018),
+Glossary
+People, Core: Health & safety
+High-potential
+work-related
+incident
+Work-related incident with a high probability of causing
+a high-consequence injury.
+Note: Examples of high-potential incidents might
+include incidents involving malfunctioning equipment,
+explosions, or vehicle collisions with a high probability
+of causing a high-consequence injury.
+GRI 403-9 (2018),
+Glossary
+People, Core: Health & safety
+Human rights
+review
+Formal or documented assessment process that
+applies a set of human rights performance criteria.
+GRI 412-1
+Glossary
+People, Expanded: Human
+rights review, grievance impact
+& modern slavery
+Incident Occurrence arising out of, or in the course of, work that
+could or does result in injury and ill health.
+Note 1 to entry: An incident where injury and ill health
+occurs is sometimes referred to as an “accident”.
+Note 2 to entry: An incident where no injury and ill
+health occurs, but has the potential to do so, may be
+referred to as a “near-miss” “near-hit” or “close call”.
+Note 3 to entry: Although there can be one or more
+nonconformities related to an incident, an incident can
+also occur where there is no nonconformity.
+ISO 45001:2018 People, Core: Health & Safety
+People, Expanded: Monetized
+impacts of work-related
+incidents on organization
+Lifestyle
+management
+Lifestyle management includes supporting employees
+with psychological safety, encouraging health
+assessments, physical and emotional health and wellbeing, stress management, social connectedness,
+mindfulness, emotional resilience, making healthy food
+and physical activity choices easier and supporting
+smokers to quit.
+Embankment
+Project, EPIC
+Report (Page: 47)
+People, Expanded: Well-being
+Living wage The provision of wages that are “enough to meet basic
+needs and to provide some discretionary income”.
+In general terms, a living wage is the minimum income
+necessary for a worker and their family to meet basic
+needs, including some discretionary income. In many
+cases, a living wage is considered to be higher than the
+minimum wage set by national laws.
+Shift, “The Human
+Rights
+Opportunity”, July
+2018, p 10
+People, Expanded: Living Wage
+Local minimum
+wage
+Minimum compensation for employment per hour, or
+other unit of time, allowed under law.
+Note: Some countries have numerous minimum
+wages, such as by state or province or by employment
+category.
+GRI 202-1
+Glossary
+People, Core: Wage Level
+People, Core:
+Risk for incidents of child,
+forced or compulsory labour
+Other
+indicators of
+diversity
+Indicator of diversity for which the organization gathers
+data. Examples of indicators of diversity can include
+age, ancestry and ethnic origin, citizenship, creed,
+disability and gender.
+GRI Disclosure
+405-1 Glossary
+People, Core:
+– Diversity & Inclusion
+– Pay equality
+People, Expanded: Pay Gap
+Recordable
+work-related
+injury or ill
+health
+Work-related injury or ill health that results in any of the
+following: death, days away from work, restricted work or
+transfer to another job, medical treatment beyond first aid,
+or loss of consciousness; or significant injury or ill health
+diagnosed by a physician or other licensed healthcare
+professional, even if it does not result in death, days
+away from work, restricted work or job transfer, medical
+treatment beyond first aid, or loss of consciousness
+GRI 403-10 (2018)
+Glossary
+People, Expanded: Well-being
+Supplier Organization or person that provides a product or
+service used in the supply chain of the reporting
+organization.
+Note 1: A supplier is further characterized by a genuine
+direct or indirect commercial relationship with the
+organization.
+Note 2: Examples of suppliers can include, but are
+not limited to: brokers, consultants, contractors,
+Distributors, Franchisees or licensees, Home workers,
+Independent contractors, Manufacturers, primary
+Producers, Sub-contractors, wholesalers.
+GRI 408-1
+Glossary
+People, Core: Risk for incidents
+of child, forced or compulsory
+labour
+People, Expanded: Human
+rights review, grievance impact
+& modern slavery
+Training Training refers to:
+– All types of vocational training and instruction
+– Paid educational leave provided by an organization
+for its employees
+– Training or education pursued externally paid for in
+whole or in part by an organization
+– Training on specific topics, reskilling of employees
+as per market requirements
+Training does not include on-site coaching by supervisors.
+GRI 404-1
+Guidance
+People, Core: Training Provided
+People, Expanded: Monetized
+Impacts of Training
+Unfilled
+positions
+If a skilled position is vacant for a period of 90 days and
+above, then it is considered to be “unfilled”.
+Expert judgement People, Expanded: Number of
+unfilled skilled positions
+Worker Person who performs work.
+Note 1: The term “workers” includes, but is not limited
+to, employees.
+Note 2: Further examples of workers include interns,
+apprentices, self-employed persons and persons
+working for organizations other than the reporting
+organization, e.g. for suppliers
+GRI 403-9 (2018)
+Glossary
+People, Core: Health & Safety
+People, Expanded: Well-being
+Work-related
+injury or ill
+health
+Negative impacts on health arising from exposure to
+hazards at work.
+Note 1: This definition is based on the International
+Labour Organization (ILO), Guidelines on Occupational
+Safety and Health Management Systems, ILO-OSH
+2001, 2001.
+Note 2: “Ill health” indicates damage to health and
+includes diseases, illnesses and disorders. The terms
+“disease”, “illness” and “disorder” are often used
+interchangeably and refer to conditions with specific
+symptoms and diagnoses.
+Note 3: Work-related injuries and ill health are those
+that arise from exposure to hazards at work. Other
+types of incident can occur that are not connected with
+the work itself. For example, the following incidents are
+not considered to be work related:
+– A worker suffers a heart attack while at work that is
+unconnected with work;
+– A worker driving to or from work is injured in a car
+accident (where driving is not part of the work and
+where the transport has not been organized by the
+employer);
+– A worker with epilepsy has a seizure at work that is
+unconnected with work.
+Note 4: Traveling for work: Injuries and ill health that
+occur while a worker is traveling are work related
+if, at the time of the injury or ill health, the worker
+was engaged in work activities “in the interest of the
+employer”. Examples of such activities include traveling
+to and from customer contacts; conducting job tasks;
+and entertaining or being entertained to transact,
+discuss, or promote business (at the direction of the
+employer).
+Working at home: Injuries and ill health that occur
+when working at home are work related if the injury or
+ill health occurs while the worker is performing work
+at home and the injury or ill health is directly related to
+the performance of work rather than the general home
+environment or setting.
+Mental illness: A mental illness is considered to be
+work related if it has been notified voluntarily by the
+worker and is supported by an opinion from a licensed
+healthcare professional with appropriate training and
+experience stating that the illness is work related.
+GRI 403-9 (2018),
+Glossary
+People, Core: Health & safety

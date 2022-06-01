@@ -1,0 +1,1799 @@
+ESG
+Reporting
+Guide 2.0
+A Support Resource for Companies
+May 2019
+
+ESG REPORTING GUIDE 2.0
+SUSTAINABILITY@NASDAQ.COM 1
+Expanded choice and control in the new
+markets economy requires more data to drive
+decision-making, and ESG data points have
+become vital tools.
+Foreword
+We are constantly drawn to the promise of technological
+progress and how it can transform our lives. The companies
+on our markets are leaders in innovation, whether they are
+creating the next consumer technology, developing the latest
+medical therapy, or providing sources of energy. With these
+advances, investors and other external stakeholders rely on
+new types of analytics and information to understand the
+positive change companies are making in the communities
+they serve.
+Expanded choice and opportunity in the new ‘markets
+economy’ requires more data to drive decision-making.
+Environmental, social, and governance (ESG) data points
+have become useful tools—not only for investors seeking
+performance indicators, but also for public companies
+trying to increase operational efficiency, decrease resource
+dependency, and attract a new generation of empowered
+workers. This ESG Reporting Guide is intended to serve as a
+resource for all of these ends.
+We are currently at the forefront of building the
+infrastructure to support a new future, focusing on safety,
+transparency and fairness. Nasdaq is helping to create a
+world where all market participants are able to share in
+economic opportunities, and this guide is a vital part of
+that work.
+Stock exchanges – at the intersection of investors, companies
+and regulators – have a critically important role in the global
+transition to more sustainable economies. We therefore
+commit ourselves to strengthening our cooperation with our
+clients around the world for a more successful tomorrow.
+Sincerely,
+Nelson Griggs
+President
+Nasdaq Stock Exchange
+ESG REPORTING GUIDE 2.0
+2 SUSTAINABILITY@NASDAQ.COM
+
+Introduction
+Nasdaq has had a formal Corporate Sustainability program
+in place for six years. Through that program, we engage with
+listed companies, investors, standards-setters, regulators, and
+other stock exchanges on the market impact of sustainability
+issues—specifically Environmental, Social, and Corporate
+Governance data, otherwise known as ESG.
+Effective management of sustainability issues helps Nasdaq
+(and our listed companies) better understand operational
+performance, address resource inefficiencies, and forecast
+enterprise risk. In addition, there is a growing body of
+academic and analytic evidence suggesting that ESG excellence
+correlates with other benefits, such as lower costs of
+capital, reduced shareholder turnover, and enhanced talent
+recruitment and retention. With a renewed market emphasis
+on long-term value creation, we also believe that ESG is an
+effective and mutually beneficial communication channel
+between public companies and the investment community.
+To broaden understanding of these dynamics—and to solicit
+feedback from our stakeholders—Nasdaq hosts regular
+webinars, in-person events, and small-scale workshops. We
+have also discussed our findings in a previous ESG Reporting
+Guide, Sustainability Report, and other publications.
+We are ourselves longstanding reporters to several
+sustainability frameworks, including the Global Reporting
+Initiative (GRI) and the United Nations Global Compact (UNGC).
+For the last three years, Nasdaq has been honored as one
+of the world’s most sustainable companies in the Dow Jones
+Sustainability Index (DJSI).
+Our brand and our advocacy on this topic allow us to
+collaborate with virtually all of the global sustainability
+efforts, among them the Sustainability Accounting Standards
+Board (SASB) and the recent Task Force on Non-Financial
+Climate Disclosures (TCFD). Through these connections and
+others, Nasdaq is able to stay apprised of developments in the
+space, represent the viewpoints of ourselves and our listed
+companies, and help to drive smart, practical ways forward.
+Because ESG is an emerging field, thus far exempt from the
+discipline (and faith) that we apply to traditional financial
+reporting, listed company reactions to this work are likely to be
+varied. Nasdaq is home to more than 4,000 public companies
+on various markets, and it would be foolish to assume that they
+all share the same perspective on any single issue. That is why
+the materiality process (described in more detail below) is an
+essential part of this work, a way to customize ESG to best
+fit company purpose. But this guide may also provoke other
+reactions, including some or all of the following:
+• Internal documentation and management of ESG
+performance data
+• Inclusion of material ESG indicators in enterprise risk
+management (ERM) systems
+• Peer and competitor benchmarking and analysis
+• Undertaking a materiality assessment; publishing the results
+of that assessment
+• Greater engagement with current and prospective employees
+on sustainability issues
+• Productive meetings with investors and analysts
+• Integration of ESG metrics into management performance
+(and remuneration) indicators
+• Formal inclusion of ESG data in board practice and oversight
+• Inclusion in indexes and other lists related to ESG
+outperformance
+• Disclosure of ESG data in stand-alone sustainability reports
+• Disclosure of ESG data to established sustainability reporting
+frameworks
+• Disclosure of ESG data in financial filing and investor
+documents
+• Creation of products and services that address sustainability
+concerns (such as the SDGs)
+Companies that compete and survive in a resource-constrained
+world will become the new baseline, and market forces will
+reward some and punish others. Nasdaq must itself navigate
+this transition (to new energy sourcing, better human capital
+management, more inclusive economics, and so on) and assist
+our listed companies in doing likewise. That is why we pursue
+this work, and why we offer this guide as a resource.
+Evan Harvey
+Global Head of Sustainability, Nasdaq
+Nasdaq is home to more than 4,000 public
+companies on various markets, and it would
+be foolish to assume that they all share the
+same perspective on any single issue.
+ESG REPORTING GUIDE 2.0
+4 SUSTAINABILITY@NASDAQ.COM
+Using This Guide
+Nasdaq launched its first ESG data reporting guide in March
+2017 as an experiment, both in business intent and regional
+focus. It was designed to promote meaningful engagement
+between listed companies and investors, a dialogue based on
+the emergence of ESG data as a significant performance signal.
+Could the exchange, in tandem with key multi-stakeholder
+working groups, provide a compelling business case for
+the voluntary reporting of so-called “non-financial” data?
+Based on the participation and feedback from a number of
+pilot reporting companies, and its reception in the global
+marketplace, the answer seems to be yes.
+The first version of this guide was specifically addressed to
+our Nordic and Baltic companies—operating in markets where
+investor expectations are clearer and regulatory actions more
+present, at least when it comes to ESG. But this is certainly
+a global issue, and the utility of this guide is not limited to a
+handful of markets or a few dozen outperforming companies.
+Firms of all sizes, in virtually all sectors, are wrestling with the
+both the reporting burdens and bottom-line opportunities that
+ESG can provide.
+This new version of the ESG Reporting Guide is intended to
+meet several goals:
+• Eliminate and revise uncommon or impractical metrics
+• Incorporate new developments in the marketplace (such as
+TCFD, SDGs, GRI Standards, EU NFR Directive, and others)
+• Simplify and standardize guidance, labels, and calculations
+• Improve ESG engagement for small- and medium-sized
+business enterprises
+• Cover all Nasdaq markets – including the U.S. equities market
+– in a single document
+This document considers the long-term value of strategic and
+transparent ESG practices, specifically as a vital connection
+point between individual companies and prospective investors.
+In this work we have focused on economic principles and
+specific data, rather than moral or ethical arguments, because
+bottom-line impacts are more immediate and actionable. This
+guide also suggests that a focus on ESG can lead to more
+efficient, harmonious, and sustainable management practices.
+Nasdaq encourages its listed companies to consider this
+information as they evaluate costs and benefits, to use the
+guide only as a reference point in determining the best way
+forward for that business. We do not require, by rule or by
+practice, the disclosure of ESG data. If companies view ESG as
+a way to improve operations, enhance strategy, broaden risk
+oversight, or engage with new investors, then this guide may
+prove useful.
+This guide was created primarily for companies, but investors,
+exchanges, regulators, and other capital market stakeholders
+have contributed much to it. As a primer on the current
+practice and enduring value of ESG management and data
+reporting, we hope this guide brings clarity and synthesis to a
+crowded marketplace, not additional confusion. It is certainly
+not a new sustainability reporting framework, nor should
+it provide any substitute or shortcut when evaluating the
+potential value (or risk) associated with investing.
+The Nasdaq ESG Reporting Guide is also, by design, a living
+document. The version you have before you is significantly
+revised, and we expect to do so on a regular basis as new
+issues emerge, existing standards shift, and calculation
+methodologies improve. If you have any comments, critiques,
+or suggestions for the improvement of this document, please
+email us (sustainability@nasdaq.com).
+What Is ESG?
+ESG generally means a broad set of environmental, social
+and corporate governance considerations that may impact a
+company’s ability to execute its business strategy and create
+value over the long term. While ESG factors are at times called
+non-financial, how a company manages them undoubtedly has
+measurably financial consequences.
+Over the course of this project, we managed to create a short
+list of the most pervasive and persuasive ESG metrics—the
+Key Performance Indicators (KPIs) that we believe provide
+the greatest insight into the sustainability performance of the
+greatest number of companies. Our evaluation of these metrics
+was based on five key factors: precedent, prevalence, potential,
+perspective, and practicality.
+Through our trade association the World Federation of
+Exchanges, or WFE, exchanges have worked together for
+many years to create a short list of the most pervasive
+and persuasive ESG metrics. These are the KPIs that we
+believe provide the greatest insight into the sustainability
+performance of the greatest number of companies.
+ESG REPORTING GUIDE 2.0
+SUSTAINABILITY@NASDAQ.COM 5
+But the dynamics surrounding ESG are still in motion. We have
+seen a transition from vague, philosophical, and aspirational
+language (“sustainability”) to more specific, operational, and
+tactical terms (“ESG”). ESG means Environmental, Social,
+and Corporate Governance information, but it also means
+something else; not text but data, focusing on performance
+that is measurable, manageable, actionable, and reportable.
+• Microsoft ((Nasdaq: MSFT) doesn’t just publish the text
+of their vendor responsibility code, but lists its top 100
+suppliers by spend annually
+• Cisco (Nasdaq: CSCO) doesn’t simply publish photographs
+of the many food drives that it organizes, but also the total
+amount of food (by weight) donated
+Does ESG include anything and everything that’s not
+traditionally reported? In the U.S., that means SEC filings such
+as the 10Q & 10K, annual reports, and proxy statements. Some
+argue this is the case, and therefore prefer the “non-financial”
+data label. This is an interesting word choice, given that the
+data drives investor dollars today and measurable financial
+consequences tomorrow.
+There are also a number of emerging issues that may belong
+in the traditional reporting channels. The Sustainability
+Accounting Standards Board (SASB) advocates the inclusion
+of certain sector-based ESG disclosures that are financially
+material. The TCFD recommends much more robust
+environmental reporting in financial filings. And institutional
+investors—perhaps most notably BlackRock, via CEO Larry
+Fink’s letter on corporate governance—advocate for KPIs that
+provide real insight into long-term value creation.
+“ESG is no longer purely ethical, but rather a
+financially-motivated search for enlightened
+management, best practices, and long-term returns.”
+—Thomson Reuters, Jan 2018
+Reporting ESG
+Because ESG reports tend to be part of the “total mix” of
+information that potential investors evaluate, Nasdaq does not
+require the participation of its listed companies in this process.
+The rewards for managing and reporting ESG are made clear
+elsewhere in this document, but should not imply a benefit from
+Nasdaq itself for doing so, nor an implied punishment for not
+doing so. This is a completely voluntary initiative.
+Nasdaq may, however, track the participation of listed
+companies in this program in order to better support their
+efforts. If and when a public company does choose to
+disclose its ESG data, it should be able to articulate the value
+proposition for all relevant stakeholders. To that end, we have
+provided a summary of certain value drivers below. Taken
+together, they demonstrate a few of the potentially positive
+impacts of better reporting.
+Our thinking in this area has been driven by a foundational
+document, The Model Guidance on Reporting ESG Information
+to Investors, originally published in 2015 by the UN
+Sustainable Stock Exchanges Initiative. The assertions therein
+about the inherent value of ESG reporting have proven
+more prescient with time, and still form the foundation
+of any meaningful “business case” for the practice. There
+are supporting studies for virtually all of the points below,
+located in the Appendix.
+Access to Capital
+• Demonstrate transparency and effective management and
+enhance the company’s ability to attract long-term capital
+and favorable financing conditions.
+• Enhance the company’s ability to attract long-term investors,
+including major institutional investors such as pension funds
+(in fact, some funds actually have mandatory requirements in
+this regard).
+Profitability and Growth
+• Generate financial value for the company by identifying
+opportunities for cost savings, revenue generation, and risk
+mitigation.
+• Drive continuous improvement by creating accountability
+and fostering collaboration with stakeholders.
+• Create a deeper understanding of stakeholder needs, which
+could drive innovation and enhance market differentiation
+and competitiveness.
+• Enable management and board scrutiny of ESG opportunities
+and risks, and promote company-wide alignment on goals.
+Compliance and Risk Management
+• Address mandatory reporting requirements on financially
+material factors and mitigate compliance risks related to
+financial reporting regulations.
+• Establish measurement and reporting processes for ESG
+information.
+• Help the company stay ahead of emerging ESG and reporting
+regulations.
+• Secure the company’s license to operate by demonstrating
+corporate transparency and responsiveness to stakeholder
+needs.
+ESG REPORTING GUIDE 2.0
+6 SUSTAINABILITY@NASDAQ.COM
+Corporate Reputation and Branding
+• Demonstrate corporate commitments to responsibly
+managing environmental, social, and economic impacts.
+• Exhibit corporate adherence to industry ethical standards
+and national and international frameworks on corporate
+sustainability and sustainable development, particularly in
+light of the UN Sustainable Development Goals.
+• Enhance corporate reputation by improving stakeholders’
+perception of a company through reporting-related
+stakeholder engagement.
+• Improve employee perception of the company, helping to
+attract, retain, motivate, and align new and existing employees.
+Information Measurement & Flow
+• Ensure that key stakeholders have the relevant information
+that is needed to make informed decisions about the
+company’s ability to create value in the short, medium and
+longer term.
+• Measure the realization of strategy and the extent of ESG impacts.
+• Reporting ESG enables the measurement of success or
+progress in key corporate strategies as well as impacts of
+corporate practices.
+Enhanced Stakeholder Relationships
+• Improve relationships with key stakeholders by engaging
+them throughout the reporting process.
+Stakeholders
+When determining the parties that directly influence (or are
+directly influenced by) company operation, we often use
+two parallel and yet wholly distinct terms: “stakeholder” and
+“shareholder.” It is factually and thematically incorrect to use
+these terms interchangeably in the business environment.
+Because any substantive ESG practice requires a hard look at
+these parties, it’s vital to define terms.
+According to the Corporate Finance Institute (CFI), the
+“shareholder is a stakeholder of the company while a
+stakeholder is not necessarily a shareholder. A shareholder is a
+person who owns an equity stock in the company and therefore
+holds an ownership stake in the company. On the other
+hand, a stakeholder is an interested party in the company’s
+performance for reasons other than capital appreciation.”
+There are two spheres of influence to consider – those who
+directly benefit (or suffer) economically based on the performance
+of the company, and those who benefit (or suffer) in any other
+ways based on the performance of the company. Profitability
+is of extreme interest to the shareholder; responsibility may
+be more directly tied to the stakeholder’s interests.
+Because Nasdaq itself is a hybrid organization—publicly traded
+company, exchange operator, self-regulated organization,
+financial product creator, data steward—defining our circle
+of stakeholders is difficult. During our own materiality
+assessment, it was revealed that all of the institutions and
+entities below (and others) bear upon our business in some
+meaningful way:
+• Listed Companies
+• Listed Company Investors
+• Nasdaq (NDAQ) Investors
+• Investor Advocacy Groups
+• Exchange Regulators
+• Other Stock Exchanges
+• Market Analysts and Researchers
+• Public Policymakers
+• NGOs and Reporting Frameworks
+• Pre-IPO Companies
+• Our Customers and Suppliers
+• Our Current (and Future) Employees
+• Public Communities
+Stakeholders must be taken into account. They may be
+integrated into a risk assessment, an examination of new
+market opportunities, or a cost-benefit analysis in talent
+acquisition, but their interests do intersect with those of the
+company. How much they intersect, and how meaningfully, is
+the stuff of a materiality assessment.
+The list below offers a brief glimpse into the diversity, impact,
+and evolution of many stakeholder types. Companies are
+advised to consider some or all of these stakeholders as they
+come to terms with their ESG reporting practices.
+ESG REPORTING GUIDE 2.0
+SUSTAINABILITY@NASDAQ.COM 7
+• Investors. ESG specialist firms like PAX, Parnassus, Aviva,
+and Boston Common Asset Management have been focused
+on ESG performance for more than a generation—and even
+bigger firms are following suit. State Street, Blackrock, and
+Vanguard have all unveiled new and more aggressive ESG
+strategies since 2018.
+• Indexers & Innovators. This category includes well-known ESG
+indexers, such as MSCI and RobecoSAM, but many product
+innovators that have found entirely new ways leverage
+new data. The green bond and climate bond revolution, for
+example, would not have caught fire without the underlying
+data—and we have the Climate Bond Initiative actively setting
+best practices. Datamaran, an AI-driven “non-financial risk
+management” tool, uses sophisticated analytics to search and
+benchmark ESG data signals, among other things.
+• Exchanges. Stock exchanges first started getting into the
+ESG reporting space decades ago, in South Africa and Brazil
+most prominently. But what was once exceptional has
+now become commonplace. Thanks to the work of the UN
+Sustainable Stock Exchanges (SSE) and the WFE Sustainability
+Working Group (SWG), almost half of the stock exchanges
+on the planet have provided (or have committed to provide)
+ESG reporting guidance to their issuers. Nasdaq Helsinki
+was recently rated the most sustainable stock exchange in
+the world by Corporate Knights; more than half of its large
+listings disclose significant environmental metrics.
+• Governments. The regulatory push for complete and
+comprehensive ESG data is truly worldwide. In most cases,
+government regulators are seeking better reporting from
+public companies. The Nonfinancial Reporting Directive
+in Europe (2014/95/EU) does just this, requiring certain
+companies to file an ESG-focused declaration with their
+annual reports. Local country governance codes have been
+commonplace in the Nordics, but now we are seeing them
+tied to emerging markets in Asia, South America, and sub-
+Saharan Africa.
+• Non-Governmental Organizations (NGOs). First, there are
+many United Nations projects and agencies with a direct
+tie to sustainable development: the UN Environment
+Programme, UN Women, the Economic and Social
+Council (ECOSOC), and the 2030 Agenda for Sustainable
+Development (the impetus for the Sustainable Development
+Goals, or SDGs), to name just a few. But other, more highly
+specialized groups have become influential. Shift, for
+example, translates UN principles into actionable plans
+for business, creating partnerships between economic
+stakeholders to report on—and hopefully remediate—human
+rights issues. And in the environmental space, the Natural
+Resources Defense Council (NRDC) and the World Wildlife
+Fund (WWF) come quickly to mind.
+• Suppliers & Supply Chains. Small suppliers tend to be part of
+large corporate supply chains, and those large corporations
+are increasingly being asked to expand the scope of their
+ESG oversight and control. Competition for contracts now
+commonly requires an ESG performance disclosure, especially
+when doing business with government agencies. Consider the
+rise of the supply chain consultancies and standards-setters,
+such as EcoVadis, Enablon and the Sustainable Purchasing
+Leadership Council (SPLC). These firms tend to evaluate
+the sustainable pedigree of suppliers, so that corporate
+purchasers can be sure they engage with ESG-compliant
+vendors. Various industry associations have been focused
+on ESG—most notably, the Responsible Business Alliance
+(formerly the Electronics Industry Citizenship Coalition),
+which has been driving supply chain responsibility for
+member companies (Apple, IBM, Samsung, Sony) since 2004.
+• Human Capital. There are significant performance pressures
+coming from within organizations as well. The concept of
+human capital management (HCM), the cultivation of collective
+economic value for an employee population, is inevitably tied
+to ESG concerns, as workers increasingly gravitate towards
+socially responsible and transparent companies (see studies
+by Nielsen, 2015, and Horizon Media, 2017). The prospect of
+recruiting and retaining top talent, especially in a tight market,
+seems to inevitably touch upon ESG metrics.
+• Academics & Analytics. In addition to the environmental
+and social pressures that drive individual companies
+to consider ESG, there is a body of academic research
+(Eccles and Serafeim, Harvard; Todd Cort, Yale) that points
+to macroeconomic benefits as well. Recent metastudies
+have been able to convincingly integrate a great deal of
+underlying academic research in order to make a grand case—
+“ESG and Financial Performance: Aggregated Evidence from
+More than 2000 Empirical Studies” (2015) and “From the
+Stockholder to the Stakeholder: How Sustainability Can Drive
+Financial Outperformance” (2015). A number of firms (ISS,
+PIMCO, JP Morgan, among many others) now fund a team of
+analysts devoted exclusively to ESG research.
+ESG REPORTING GUIDE 2.0
+8 SUSTAINABILITY@NASDAQ.COM
+• Media. Popular media outlets (Newsweek, Forbes, Fortune)
+have been driving ESG awareness for years, and companies
+frequently make changes to their ESG strategy and reporting
+in order to qualify for “best of” lists. The benefit of inclusion
+goes beyond brand value and good PR. FTSE Russell analyzed
+the Fortune 100 Best Companies and made a startling
+discovery: selected companies outperform the market, beating
+other relevant benchmarks by nearly 5% (“The Best Companies
+to Work for Are Beating the Market,” Fortune, 2/28/18).
+• Rankers, Raters, and Reporters. Twenty years ago, there
+were only a few firms that focused on developing ESG
+reporting standards—such as the Carbon Disclosure Project
+(now CDP) and the Global Reporting Initiative (GRI), which
+still stands tallest in the field. But now there are technical
+reporting structures (COSO, ISO), financial disclosure
+protocols (SASB), and framework aggregators (CDSB) that
+integrate ESG considerations.
+—adapted from “What’s Driving ESG? A Top-Ten List” by Evan
+Harvey (Capital Finance, April 2018)
+Materiality
+While the concepts of “materiality” and “material business
+impact” are essential to a proper evaluation of ESG cause and
+effect, it is not the intention of this document to define the
+process whereby materiality is evaluated. That work must be
+undertaken by the corporate reporters—possibly in concert
+with more detailed guidance from third parties—and with
+the interests of their stakeholders at heart. Nasdaq assists
+companies in the evaluation of materiality through direct
+intervention, passive education, expert consultation, case
+studies and original research.
+When evaluating materiality, companies are encouraged to
+consider impacts to external stakeholders and ecosystems in
+addition to those directly affecting the company. This process (and
+the subsequent reporting of it) allows investors to better assess
+the systemic and longer-term risks that inevitably arise through
+these impacts. Direct reporting of ESG performance data provides
+just one part—however vital and necessary— of the overall
+company picture; understanding external impacts illuminates a
+company’s overall value proposition and long-term risk profile.
+For a better understanding of the concept of materiality, we
+refer you to the sources and definitions below. Bear in mind
+that assessing materiality is a continuous process, producing
+a highly individualized result. Companies are encouraged to
+focus on the needs of their own business, rather than adhering
+blindly to a standard definition.
+• The International Integrated Reporting Council (IIRC) suggests
+an issue is material if it is relevant (is likely to have an impact
+on value creation) and is sufficiently important in terms of its
+known or potential effect on value creation with reference to
+magnitude of the matter’s effect and, likelihood of occurrence.
+• For purposes of reporting, the Global Reporting Initiative
+(GRI) suggests the report should cover aspects that reflect the
+organization’s significant economic, environmental and social
+impacts; or substantively influence the assessments and
+decisions of stakeholders.
+• SASB’s approach to financial materiality is based on a
+traditional definition that is well-accepted globally, that
+is, information that is reasonably likely to be important to
+investors in making voting and investment decisions. SASB
+identifies industry-specific sustainability factors that are
+reasonably likely to impact the financial condition or operating
+performance of companies in an industry and therefore warrant
+standardized disclosure to investors. While SASB’s standards
+are a useful tool to guide disclosure of financially material
+topics, it is the responsibility of company management to
+determine the factors that are material to the business.
+• Datamaran, a firm that specializes in analyzing non-financial
+risk management, has recently published an overview of
+the variant interpretations of materiality and its impact on
+public disclosure. "Materiality Definition: The Ultimate Guide"
+is freely available on their website and provides a useful
+primer on the topic to date.
+Last but not least, we would draw your attention to vital work done
+by the Corporate Reporting Dialogue. Their Statement of Common
+Principles of Materiality of the Corporate Reporting Dialogue
+(2016) not only summarizes the variant definitions of materiality
+used by the organizations above (and others), it also posits a
+harmonized “common core” amongst and between the variations.
+"Nasdaq believes that principles-based
+disclosure grounded in materiality allows
+reporting companies the degree of flexibility
+needed to provide investors with the proper
+amount and mix of information.”
+—Ed Knight, Nasdaq EVP & General Counsel, Comment Letter to
+SEC (16 Sep 2016)
+Management
+Data reporting is but one of the parts inherent in good EG
+management. How a company gathers the data, disseminates
+it internally, structures a team to better understand it, and
+incents others to improve performance are equally important
+parts. There is a new management discipline associated with
+the increased understanding and valuation of ESG, one that
+brings to bear these factors below:
+ESG REPORTING GUIDE 2.0
+SUSTAINABILITY@NASDAQ.COM 9
+• Data-driven decision-making
+• Distributed (shared) responsibility for difficult or ambitious
+projects
+• A willingness to break with the status quo
+The “right” management approach to ESG is still somewhat
+undetermined, but there is a process taking root. An influential
+Thomson Reuters blogpost (2018) argued for a four-step
+procedure:
+1. Align ESG with the core strategy, products/services, and
+operations of the company
+2. Assign resources to address material ESG issues to assist
+with the task above
+3. Manage and measure ESG performance according to welldefined
+KPIs.
+4. Engage investors, customers, and employees in the effort
+—Using ESG as a Driver of Performance, 13 Sep 2018
+This process may be complicated by the sheer scope of the
+work. Many different organizational verticals—often with
+their own budget, resources, and goals—may be called upon.
+Some of these likely include internal operations, legal, finance,
+compliance, HR functions, health and safety, product managers,
+investor relations, corporate secretary, executives and the
+board of directors. Even if the company has a functional
+and efficient ESG team in place, integrating the competing
+perspectives and interest levels of such a disparate group of
+participants often proves difficult. For this reason and others,
+the enterprise must be single-minded and vocal (at least
+internally) about the importance of ESG to its business.
+“From a management perspective, integration of
+ESG dimensions of performance makes a company
+more resilient in an increasingly more complex,
+interconnected and dynamic business environment.”
+—Susanne Stormer, VP Corporate Sustainability, NovoNordisk
+Markets
+Market reaction to—and engagement with, and valuation
+of—ESG has been evolving for more than two decades. This
+is due to many complex and evolving factors, including the
+emergence of very large multinational organizations, an
+abundance of performance data, and the essentially shared
+nature of global issues such as climate risk, diversity and
+inclusion, and access to economic opportunity.
+Some experts and analysts argue that an increased focus
+on longer-term measurements (such as ESG) could remedy
+dysfunctional market dynamics. They believe that short-term
+investment distorts real valuation, leads to short-term thinking
+and thus artificially inhibits growth and innovation. Could ESG
+facilitate a transition from stock trading to share ownership,
+from selling short to holding long?
+There are a number of new trends in the global capital markets
+that are driven by—and drivers of—greater ESG integration into
+the value chain, including:
+• Expansion of fiduciary responsibility beyond delivering
+investor returns
+• Frustration with counterproductive or contentious
+investor engagements
+• Lack of long-term strategic discussion during analyst and
+earnings calls
+• Passive investment strategies that seem to limit ESG
+intervention
+• Adoption of ESG data signals as shared value creation tools
+• Global focus on the idea of sustainable capital formation
+• The high costs of investor turnover
+• Mainstream expectations of more robust governance insight
+Finally, we would draw your attention to a recent statement
+(2019) on ESG by the International Organization of Securities
+Commissions (IOSCO). This membership organization, made
+up of securities regulators from all parts of the globe, sets
+certain standards for proper and efficient market operations.
+The statement reads, in part: “ESG matters, though sometimes
+characterized as non-financial, may have a material shortterm
+and long-term impact on the business operations of the
+issuers as well as on risks and returns for investors and their
+investment and voting decisions.”
+"Our goal is to take an increasing role in
+facilitating ESG practices, disclosures, and
+dialogue between investors and public
+companies. This not only creates liquidity for
+new investible products, such as ESG index
+futures, green bonds, and exchange-traded
+products that focus on ESG principles—but it
+will also likely create a better, more sustainable
+economy over the long-term."
+—Adena Friedman, Nasdaq CEO, LinkedIn Post, 20 Jan 2019]
+ESG REPORTING GUIDE 2.0
+10 SUSTAINABILITY@NASDAQ.COM
+Stock Exchanges
+From the perspective of Nasdaq as a listings venue, we always
+start with the primary underlying purpose of listing standards
+and rules around trading stocks on exchanges, which are
+to protect investors (the lifeblood of any exchange) and to
+maintain the integrity of the market. This all goes to being
+sure that companies have the confidence to list and investors
+have the confidence to trade.
+To maintain this confidence and trust, we have various
+financial and governance requirements for listed companies
+and we monitor those on an ongoing real-time basis. Many
+of these requirements are based on financial and other
+information as reported in mandatory financial disclosures,
+proxies and other public filings by listed companies.
+Governments and regulators around the world have started
+to adopt “non-financial” disclosure requirements for public
+companies. Even the SEC has moved towards more nonfinancial
+disclosure requirements, including conflict minerals
+and compensation-related disclosures.
+The Range of Exchange Intervention on ESG
+Low
+(35 exchanges)
+Medium
+(40 exchanges)
+High
+(12 exchanges)
+• No action
+• Promote ESG
+“best practices”*
+• Participate in
+exchange/investor
+dialogues*
+• Join working
+groups*
+• Publicly support
+ESG frameworks*
+• Offer awards
+• Create stakeholder
+& company
+dialogue*
+• Create indexes,
+financial products
+(green bonds)*
+• Create voluntary
+ESG guidance*
+• Tiered disclosure
+recommendations
+• Report or explain
+• ESG-related
+listing rules
+• ESG-tiered
+listing fees
+• Delisting for ESG
+noncompliance
+• Publication of ESG
+reporting data
+• Audit enforcement
+• Requiring more
+sophisticated
+reporting
+standards (IIRC)
+*Nasdaq actions to date
+Some non-financial listing requirements are already in place,
+mostly governance related. For instance, listed companies
+must have an annual meeting and a majority independent
+board and comply with committee composition requirements.
+The Dodd-Frank [U.S.] regulation, for example, required us
+to adopt disclosure standards around a company’s executive
+compensation and clawback policies.
+Nasdaq has a listing requirement that specifies prompt
+public disclosure of material news. That’s any information
+that would reasonably be expected to affect the value of its
+securities or influence investor decisions. Thus far, that has
+been limited to significant transactions, such as acquisitions,
+new products, senior management changes, defaults and
+other developments related to securities, and important legal
+or regulatory developments.
+To date, Nasdaq has not taken any regulatory action over
+failure to make full disclosure of sustainability-related
+matters. But we have acted when companies fail to disclose
+material news in a timely manner (a court order that closed a
+company’s principal production facility; overstating the value
+of acquisitions; misstating the status of negotiations related to
+acquisition; and so on).
+As listing venues, we must always serve the needs of our
+companies. Overregulation may curtail entrepreneurialism; make
+companies less willing or able to capitalize on opportunities. The
+constant churn of filings, disclosures, statements, applications,
+and surveys tends to steal focus from long-term goals, and a
+fear of expensive litigation paralyzes growth.
+At the same time, a lack of regulatory control may embolden
+impropriety and corrupt the better angels of corporate nature.
+If the exchange can help businesses better plan and execute
+long-term strategy, markets will naturally disseminate and
+incentivize the right tools.
+ESG REPORTING GUIDE 2.0
+SUSTAINABILITY@NASDAQ.COM 11
+Exchanges & ESG
+Why are stock exchanges involved in ESG?
+The scale of exchange influence
+• WFE: 45,000 listed public companies, >$80T in market cap (basically = global GDP)
+• Small, iterative changes in reporting practices create profound macroeconomic impacts
+Quest for greater insight into corporate performance signals
+• The “returns-at-any-cost” mindset creates more risk than reward
+• Capital, when deployed efficiency, can generate market return and social impact
+• Exchanges are incented to create longer-term listings, longer-term market value
+Exchange intervention on ESG has been impactful:
+UN SSE progress, 2015-2019
+• 77/80 exchanges have now committed “to support sustainable and transparent markets”
+• 38/80 exchanges have issued ESG guidance to their companies
+• Nine (9) more exchanges may do so this year (2019)
+Standards
+The sheer number of investor advocacy groups, analysts,
+experts, academics, and non-governmental organizations (NGOs)
+in the space can be daunting. Companies often ask: Which one is
+the most reputable? Which one gets the attention of investors?
+Do we have to report the same data in several different places?
+Do we have to fill out the entire questionnaire?
+For a company just beginning their sustainability journey,
+I would focus on the five organizations listed below. They
+have the longest experience in the space, the most direct and
+substantive engagement with stakeholders, or the kind of
+reputation and reach that makes them unavoidable.
+• The Global Reporting Initiative (GRI) offers perhaps the
+broadest and most deeply researched sustainability
+reporting framework in the world. Launched in Boston in
+1997, the GRI is now headquartered in Amsterdam, which
+gives some indication of its global reach and history of
+engagement with investors. The current version of its
+framework, G4, came out two years ago.
+• The Sustainability Accounting Standards Board (SASB) was
+born out of responsible investment research at Harvard
+University, and is an independent 501(c)3 non-profit. SASB
+relies on technical research and extensive market input to
+develop and disseminate a streamlined set of industry-specific
+sustainability metrics. SASB’s focus is on enabling companies
+to more effectively communicate with investors about the
+subset of sustainability information that is financially material
+to the business, standardizing this disclosure in a way that is
+consistent, comparable, and reliable.
+• The International Integrated Reporting Council (IIRC) has
+created a framework that seeks to integrate sustainability
+performance metrics and “traditional” financial metrics in a
+single corporate disclosure. The Integrated Report specifies
+a unified corporate narrative without segregation of “nonfinancial”
+metrics like ESG.
+ESG REPORTING GUIDE 2.0
+12 SUSTAINABILITY@NASDAQ.COM
+• The Climate Disclosure Project (CDP) focuses almost
+exclusively on climate reporting, energy strategy, and
+climate change.
+• The United Nations Global Compact (UNGC) asks companies
+to publicly endorse and operationally integrate a
+10-point policy, covering human rights, labor standards,
+environmental actions, and anti-corruption.
+More and more groups are getting involved in the corporate
+sustainability conversation, stimulating a debate that impacts
+individual investors and global markets. Regulators in
+Europe and Asia have issued requirements for more detailed
+sustainability reporting from public companies. One recent
+EU rule, for example, requires large companies to include
+environmental, governance, and diversity disclosures in its
+annual report (NFR Directive, 2014). France just issued guidance
+for sustainability reporting by investors, meaning: institutions
+and fund managers would be required to disclose any
+investment holdings in fossil fuels or other carbon-based assets.
+Stock exchanges are increasingly involved as well. There
+are mandatory listing requirements related to sustainability
+already in place in Brazil, South Africa, India, and Singapore,
+and more seem to be on the way in emerging Asian markets.
+Large exchanges are cooperating in working groups to create
+smart and practical sustainability disclosure guidance for listed
+companies. Nasdaq leads the two most prominent efforts:
+the sustainability working group at the World Federation of
+Exchanges and the Sustainable Stock Exchanges Initiative at
+the United Nations.
+Investor advocacy groups are also heavily involved. The UNbacked
+Principles for Responsible Investment, for example,
+is an advocacy group that has grown to include 1,400
+signatories representing more than $59T AUM. PRI signatories
+are committed to engaging with their investment targets to
+improve a wide range of ESG issues.
+Sustainable Development Goals
+The UN Sustainable Development Goals (SDGs) are an
+ambitious set of 17 goals (and 169 underlying targets)
+designed to alleviate many pervasive social, economic, and
+environmental problems by the year 2030 – especially those
+that may form an existential threat to this planet and our
+ability to live peacefully upon it. The SDGs are meant to attract
+the awareness and support of companies in alleviating issues
+that are closely related to business (Gender Equality, Decent
+Work Conditions) and those that may not seem so closely
+related (Life Below Water, Zero Hunger).
+The SDG project follows in the wake of the Millennium
+Development Goals (MDGs) from 2000-2015, which sought
+similar ends but focused more on government intervention
+than business participation. The goals themselves are nonbinding,
+and there are few definitive guidelines for company
+management and/or reporting of efforts that contribute to the
+success of the SDGs.
+Despite that limitation, Nasdaq supports the work of the
+SDGs. Our advocacy and support is mainly channeled through
+membership in (and leadership of) the UN Global Compact,
+a business membership organization that helps to broaden
+awareness of UN issues within economic circles. We have also
+integrated the work of the SDGs into the sustainability tools
+and support that we provide to listed companies, leveraging
+events, white papers, and webinars to demonstrate the value
+and impact of the SDGs.
+As of this writing (2019), a relatively small number of Nasdaqlisted
+companies are publicly reporting progress against
+the SDG goals (notable exceptions include Intel, Microsoft,
+Symantec, and Starbucks), but we expect that number to go up.
+The UN and stock exchange leaders previously identified
+the SDGs that most pertain to our industry and the various
+ways that capital markets can help meet related goals. Per
+this guidance, the SDGs that receive special emphasis from
+Nasdaq include:
+• Gender Equality (SDG 5). Ensuring women’s full and effective
+participation and equal opportunities for leadership at all
+levels of decision-making in political, economic, and public life.
+• Responsible Consumption and Production (SDG 12).
+Encouraging companies, especially large and trans-national
+companies, to adopt sustainable practices and to integrate
+sustainability information into their reporting cycle.
+• Climate Action (SDG 13). Improving education, awareness
+raising and human and institutional capacity on climate
+change mitigation, adaptation, impact reduction, and
+early warning.
+ESG REPORTING GUIDE 2.0
+SUSTAINABILITY@NASDAQ.COM 13
+• Partnerships for the Goals (SDG 17). Enhancing the global
+partnership for sustainable development complemented
+by multi-stakeholder partnerships that mobilize and share
+knowledge, expertise, technologies and financial resources to
+support the achievement of sustainable development goals in
+all countries, particularly developing countries.
+ESG Metrics
+There are many reasons for this revision of the first ESG
+Reporting Guide, published in 2017, but the most important
+has to do with the evolving nature of the data itself. Not
+only is the ESG data set growing more robust, definitive, and
+“mainstream” every day, but we are finding better ways to
+measure performance through the trial and error process. Also,
+as more companies wrestle with the process, we are fixing
+some of the practical and legitimate boundaries of reporting.
+In some ways, the ESG data universe is still expanding at
+an astounding rate. New topics are still emerging, and the
+connections between company operation and downstream
+impact are being made clear. The big data era in investing has,
+finally, made ESG data itself more investment-grade. Since the
+previous version of this guide, we have seen new KPIs focus
+on human rights, anti-slavery, data privacy, tax and payments
+to governments, water stewardship, and so on – all under the
+collective label of ESG.
+But the data universe is also contracting, too. Divergent
+metrics have been streamlined, as have divergent ESG
+reporting frameworks. The markets created convenient
+and insightful shortcuts (such as CEO Pay Ratio) in order to
+understand complex organizational dynamics. Nasdaq even
+narrowed the list of 33 ESG metrics in the previous version
+to just 30 in this one, not because some of the metrics were
+superfluous, but rather to focus more effort on (and drive
+more market valuation to) the most meaningful, practical, and
+achievable ones.
+The list below, divided into Social, Environmental, and
+Corporate Governance subsections, is meant to give our public
+companies some clarity and direction when considering ESG
+reporting. In each instance, we provide not just the ESG metric,
+but a number of related insights:
+• Why is it measured?
+• How is it measured?
+• Why is it disclosed?
+• How is it disclosed?
+In addition, we have included information that may assist
+in your evaluation of the relative merits of each data point:
+existing connections to prominent ESG reporting frameworks,
+the relative percentage of Nasdaq-listed companies reporting
+this data (when known), and links to underlying calculation
+methodologies. If the metric has experienced a distinct or
+lengthy historical evolution, we have also tried to cite primary
+sources for your further research.
+The ESG data set is growing more robust,
+definitive, and mainstream every day,
+and we are finding better ways to
+measure performance.
+Environmental (E) Social (S) Corporate Governance (G)
+E1. GHG Emissions S1. CEO Pay Ratio G1. Board Diversity
+E2. Emissions Intensity S2. Gender Pay Ratio G2. Board Independence
+E3. Energy Usage S3. Employee Turnover G3. Incentivized Pay
+E4. Energy Intensity S4. Gender Diversity G4. Collective Bargaining
+E5. Energy Mix S5. Temporary Worker Ratio G5. Supplier Code of Conduct
+E6. Water Usage S6. Non-Discrimination G6. Ethics & Anti-Corruption
+E7. Environmental Operations S7. Injury Rate G7. Data Privacy
+E8. Climate Oversight / Board S8. Global Health & Safety G8. ESG Reporting
+E9. Climate Oversight / Management S9. Child & Forced Labor G9. Disclosure Practices
+E10. Climate Risk Mitigation S10. Human Rights G10. External Assurance
+ESG REPORTING GUIDE 2.0
+14 SUSTAINABILITY@NASDAQ.COM
+E1. GhG Emissions
+E1.1 Total amount, in CO2 equivalents, for Scope 1 (if applicable)
+E1.2 Total amount, in CO2 equivalents, for Scope 2 (if applicable)
+E1.3 Total amount, in CO2 equivalents, for Scope 3 (if applicable)
+Why is it measured? Greenhouse Gas (GhG) emissions are significant determinants of climate change and global environmental health
+How is it measured? By tracking the actual or estimated atmospheric emissions produced as a direct (or indirect) result of the
+company's consumption of energy
+Why is it disclosed? Understanding every company’s emissions profile is an essential precursor to meaningful and shared climate
+intervention
+How is it disclosed? As a number, trended over time (and compared against historical and industry averages, if possible)
+Connections to
+Frameworks
+• GRI: 305-1, 305-2, 305-3
+• UNGC: Principle 7
+• SASB: General Issue / GHG Emissions (See also: SASB Industry Standards)
+• TCFD: Metrics & Targets (Disclosure B)
+Percentage of
+Companies Reporting?
+80% (report at least one metric)
+Notes & Sources Please defer to the WRI/WBCSD GhG protocol; companies may elect to disclose performance targets for E1
+E2. Emissions Intensity
+E2.1 Total GhG emissions per output scaling factor
+E2.2 Total non-GhG emissions per output scaling factor
+Why is it measured? Contextualizes an organization’s resource efficiency relative to economic value generation
+How is it measured? By dividing annual emissions (numerator) by various measures of economic output (denominator)
+Why is it disclosed? Serves as a competitive benchmark, risk management indicator, and economic efficiency KPI
+How is it disclosed? As a number, trended over time (and compared against historical and industry averages, if possible)
+Connections to
+Frameworks
+• GRI: 305-4
+• SDG: 13
+• UNGC: Principle 7, Principle 8
+• SASB: General Issue / GHG Emissions, Energy Management (See also: SASB Industry Standards)
+Percentage of
+Companies Reporting?
+46% (report at least one metric)
+Notes & Sources Scaling factors set by reporting company; examples include: revenues, sales, production units
+Environmental Data
+Companies may elect to report any or all of the Environmental metrics below, per stakeholder guidance, industry or
+sector standards, or materiality assessment implications. Please use a "respond or explain" rationale when following this
+recommendation. If a certain response is omitted, use the comment area to explain the reasons why (i.e., “immaterial”).
+All responses are intended to be reported annually, unless otherwise indicated, and the time scope should be noted.
+ESG REPORTING GUIDE 2.0
+SUSTAINABILITY@NASDAQ.COM 15
+E3. Energy Usage
+E3.1 Total amount of energy directly consumed
+E3.2 Total amount of energy indirectly consumed
+Why is it measured? Energy cost, source, availability, and resilience directly impact a company's ability to operate
+How is it measured? Typically measured in megawatt-hours (MWh) or gigajoules (GJ)
+Why is it disclosed? Serves as a competitive benchmark, risk management indicator, and economic efficiency KPI
+How is it disclosed? As a number, trended over time (and compared against historical and industry averages, if possible)
+Connections to
+Frameworks
+• GRI: 302-1, 302-2
+• SDG: 12
+• UNGC: Principle 7, Principle 8
+• SASB: General Issue / Energy Management (See also: SASB Industry Standards)
+Percentage of
+Companies Reporting?
+8% (report at least one metric)
+Notes & Sources Direct energy is produced & consumed on company-owned or -operated property; Indirect energy is
+produced elsewhere (i.e., utilities); companies may elect to disclose performance targets for E3
+E4. Energy Intensity
+Total direct energy usage per output scaling factor
+Why is it measured? Contextualizes an organization’s resource consumption relative to physical footprint
+How is it measured? By dividing annual consumption (numerator) by various measures of physical scale (denominator)
+Why is it disclosed? Serves as a competitive benchmark, risk management indicator, and economic efficiency KPI
+How is it disclosed? As a number, trended over time (and compared against historical and industry averages, if possible)
+Connections to
+Frameworks
+• GRI: 302-3
+• SDG: 12
+• UNGC: Principle 7, Principle 8
+• SASB: General Issue / Energy Management (See also: SASB Industry Standards)
+Percentage of
+Companies Reporting?
+N/A
+Notes & Sources Scaling factors set by reporting company; examples include: physical floor space, employee headcount
+ESG REPORTING GUIDE 2.0
+16 SUSTAINABILITY@NASDAQ.COM
+E5. Energy Mix
+Percentage: Energy usage by generation type
+Why is it measured? Energy cost, source, availability, and resilience directly impact the company's ability to operate
+How is it measured? By quantifying the specific energy sources most directly used by the company
+Why is it disclosed? The replacement of nonrenewable sources with renewables signals a company’s responsible consumption &
+longterm strategic focus
+How is it disclosed? As a number, trended over time (and compared against historical and industry averages, if possible)
+Connections to
+Frameworks
+• GRI: 302-1
+• SDG: 7
+• SASB: General Issue / Energy Management (See also: SASB Industry Standards)
+Percentage of
+Companies Reporting?
+7%
+Notes & Sources “Generation type” set by reporting company; examples include: renewables, hydro, coal, oil, natural gas
+E6. Water Usage
+E6.1) Total amount of water consumed
+E6.2) Total amount of water reclaimed
+Why is it measured? Water cost, source, availability, and resilience directly impact the company's ability to operate
+How is it measured? Water consumed, recycled, and reclaimed annually, in cubic meters (m3)
+Why is it disclosed? Illuminates risks posed by disruptions to water supplies or cost increases as clean, fresh water becomes
+increasingly scarce
+How is it disclosed? As a number, trended over time (and compared against historical and industry averages, if possible)
+Connections to
+Frameworks
+• GRI: 303-5
+• SDG: 6
+• SASB: General Issue / Water & Wastewater Management (See also: SASB Industry Standards)
+Percentage of
+Companies Reporting?
+3% (report at least one metric)
+Notes & Sources Companies may elect to disclose performance targets for E6
+See also: Investor Water Toolkit (Ceres, 2018); The CEO Water Mandate (UN Global Compact)
+ESG REPORTING GUIDE 2.0
+SUSTAINABILITY@NASDAQ.COM 17
+E7. Environmental Operations
+E7.1) Does your company follow a formal Environmental Policy? Yes, No
+E7.2) Does your company follow specific waste, water, energy, and/or recycling polices? Yes/No
+E7.3) Does your company use a recognized energy management system? Yes/No
+Why is it measured? Emerging standards of environmental responsibility demand policy formation and formal execution
+How is it measured? Companies that create, publish, and periodically update a policy document that covers this subject may
+affirmatively respond
+Why is it disclosed? Comparing expectations against performance is an indicator of the company’s ability to execute operational
+tactics
+How is it disclosed? As text, with appropriate links to public content
+Connections to
+Frameworks
+• GRI: 103-2 (See also: GRI 301-308 for relevant topic-specific standards)
+• SASB: General Issue / Waste & Hazardous Materials Management; Water and Wastewater Management
+(See also: SASB Industry Standards)
+Percentage of
+Companies Reporting?
+76% (report at least one metric)
+Notes & Sources Examples related to E7.3 might include ISO 50001, for example
+E8. Climate Oversight / Board
+Does your Board of Directors oversee and/or manage climate-related risks? Yes/No
+Why is it measured? Increased awareness and understanding of climate-related risks and opportunities within the company
+resulting in better risk management and more informed strategic planning [TCFD]
+How is it measured? Companies that cover climate risk in board meetings (as part of the official agenda) or have a board
+committee dedicated to climate-related issues may affirmatively respond
+Why is it disclosed? Stakeholders use this metric to evaluate the efficacy and scope of enterprise risk management (ERM)
+How is it disclosed? As text, with appropriate links to public content
+Connections to
+Frameworks
+• GRI: 102-19, 102-20, 102-29, 102-30, 102-31
+• SASB: General Issue / Business Model Resilience, Systemic Risk Management (See also: SASB Industry
+Standards)
+• TCFD: Governance (Disclosure A)
+Percentage of
+Companies Reporting?
+N/A
+Notes & Sources See also: ESG, Strategy, and the Long View: A Framework for Board Oversight (KPMG, 2017)
+ESG REPORTING GUIDE 2.0
+18 SUSTAINABILITY@NASDAQ.COM
+E9. Climate Oversight / Management
+Does your Senior Management Team oversee and/or manage climate-related risks? Yes/No
+Why is it measured? Increased awareness and understanding of climate-related risks and opportunities within the company resulting
+in better risk management and more informed strategic planning [TCFD]
+How is it measured? Companies that cover climate risk in senior management meetings (as part of the official agenda) or have a
+management committee dedicated to climate-related issues may affirmatively respond
+Why is it disclosed? Stakeholders use this metric to evaluate the efficacy and scope of enterprise risk management (ERM)
+How is it disclosed? As text, with appropriate links to public content
+Connections to
+Frameworks
+• GRI: 102-19, 102-20, 102-29, 102-30, 102-31
+• SASB: General Issue / Business Model Resilience, Systemic Risk Management (See also: SASB Industry
+Standards)
+• TCFD: Governance (Disclosure B)
+Percentage of
+Companies Reporting?
+N/A
+Notes & Sources See also: Climate-Related Disclosures and TCFD Recommendations (Harvard Law School Forum, 2018)
+E10. Climate Oversight / Management
+Total amount invested, annually, in climate-related infrastructure, resilience, and product development.
+Why is it measured? Climate-related investment (on the risk or opportunity side) demonstrates an understanding of how the physical
+and transition risks and opportunities of climate change might plausibly impact the business over time [TCFD]
+How is it measured? Companies measure the total dollar amount (USD) invested in climate-related issues, including R&D spend
+Why is it disclosed? Easier or better access to capital by increasing investors’ and lenders’ confidence that the company’s climaterelated
+risks are appropriately assessed and managed [TCFD]
+How is it disclosed? As a number, trended over time (and compared against historical and industry averages, if possible)
+Connections to
+Frameworks
+• UNGC: Principle 9
+• SASB: General Issue / Physical Impacts of Climate Change, Business Model Resilience (See also: SASB
+Industry Standards)
+• TCFD: Strategy (Disclosure A)
+Percentage of
+Companies Reporting?
+N/A
+Notes & Sources See also: Technical Supplement: The Use of Scenario Analysis in Disclosure of Climate-Related Risks &
+Opportunities (TCFD, 2017)
+ESG REPORTING GUIDE 2.0
+SUSTAINABILITY@NASDAQ.COM 19
+S1. CEO Pay Ratio
+S1.1) Ratio: CEO total compensation to median FTE total compensation
+S1.2) Does your company report this metric in regulatory filings? Yes/No
+Why is it measured? It illuminates the company’s costs (and, by implication, its valuation) for the Chief Executive role as compared
+against other employees.
+How is it measured? As a ratio: the CEO Salary & Bonus (X) to Median FTE Salary, usually expressed as “X:1”
+Why is it disclosed? Some stakeholders (primarily investors) assert that this metric allows them to evaluate the potential impacts
+of executive compensation; a significant gap in pay between the CEO and the rest of a company’s employees
+might lower productivity and increase turnover, with inevitable ties to profit and return
+How is it disclosed? As a number, trended over time (and compared against historical and industry averages, if possible) (S1.1); As
+text, with appropriate links to public content (S1.2)
+Connections to
+Frameworks
+• GRI: 102-38
+• UNGC: Principle 6
+Percentage of
+Companies Reporting?
+UNGC: Principle 6
+Notes & Sources Use total compensation, including all bonus payments and incentives; defer to Dodd-Frank regulatory
+guidance (US)
+Social Data
+Companies may elect to report any or all of the Social metrics below, per stakeholder guidance, industry or sector standards, or
+materiality assessment implications. Please use a "respond or explain" rationale when following this recommendation. If a certain
+response is omitted, use the comment area to explain the reasons why (i.e., “immaterial”). All responses are intended to be
+reported annually, unless otherwise indicated, and the time scope should be noted.
+S2. Gender Pay Ratio
+Ratio: Median male compensation to median female compensation
+Why is it measured? This measures the remunerative scope and impact of any “gender gaps” within the company
+How is it measured? As a ratio: the median total compensation for men compared to the median total compensation for women
+Why is it disclosed? Many countries have introduced legislation to enforce the principle of equal pay for work of equal value.
+This issue is supported by the ILO Convention. Equality of remuneration is a factor in retaining qualified
+employees in the workforce. Where imbalances exist, an organization runs a risk to its reputation and legal
+challenges on the basis of discrimination. [GRI]
+How is it disclosed? As a number, trended over time (and compared against historical and industry averages, if possible)
+Connections to
+Frameworks
+• GRI: 405-2
+• UNGC: Principle 6
+• SASB: General Issue / Employee Engagement, Diversity & Inclusion (See also: SASB Industry Standards)
+Percentage of
+Companies Reporting?
+N/A
+Notes & Sources Reported for FTEs only; Use total compensation, including all bonus payments and incentives.
+ESG REPORTING GUIDE 2.0
+20 SUSTAINABILITY@NASDAQ.COM
+S3. Employee Turnover
+S3.1) Percentage: Year-over-year change for full-time employees
+S3.2) Percentage: Year-over-year change for part-time employees
+S3.3) Percentage: Year-over-year change for contractors and/or consultants
+Why is it measured? The relative percentage of employees who leave the organization may directly impact resource allocation,
+budgets, planning, and productivity
+How is it measured? Percentage of total annual turnover, broken down by various employment types
+Why is it disclosed? A high rate of employee turnover can indicate levels of uncertainty and dissatisfaction among employees,
+or may signal a fundamental change in the structure of the organization’s core operations. Turnover has
+direct cost and value implications either in terms of reduced payroll or greater expenses for recruitment of
+workers. [GRI]
+How is it disclosed? As a number, trended over time (and compared against historical and industry averages, if possible)
+Connections to
+Frameworks
+• GRI: 401-1b
+• UNGC: Principle 6
+• SASB: General Issue / Labor Practices (See also: SASB Industry Standards)
+Percentage of
+Companies Reporting?
+82% (report at least one metric)
+Notes & Sources Turnover includes all job changes, whether due to dismissal, retirement, job transition, or death
+S4. Gender Diversity
+S4.1) Percentage: Total enterprise headcount held by men and women
+S4.2) Percentage: Entry- and mid-level positions held by men and women
+S4.3) Percentage: Senior- and executive-level positions held by men and women
+Why is it measured? Increasing the diversity of thought (as embodied in men and women) may lead to enhanced creativity, greater
+team productivity, and the alleviation of systemic inequities.
+How is it measured? Percentage of male-to-female metrics, broken down by various organizational levels
+Why is it disclosed? This information can signify the organization’s efforts to implement inclusive recruitment practices and
+the optimal use of available labor and talent. An uneven pattern of promotion and seniority by gender can
+indicate risks related to workplace inequity. Some investors specifically target more diverse (or genderbalanced)
+companies. [GRI]
+How is it disclosed? As a number, trended over time (and compared against historical and industry averages, if possible)
+Connections to
+Frameworks
+• GRI: 102-8, 405-1
+• UNGC: Principle 6
+• SASB: General Issue / Employee Engagement, Diversity & Inclusion (See also: SASB Industry Standards)
+Percentage of
+Companies Reporting?
+85% (report at least one metric)
+Notes & Sources See also: Declaration on Fundamental Principles and Rights at Work (ILO, 1998)
+ESG REPORTING GUIDE 2.0
+SUSTAINABILITY@NASDAQ.COM 21
+S5. Temporary Worker Ratio
+S5.1) Percentage: Total enterprise headcount held by part-time employees
+S5.2) Percentage: Total enterprise headcount held by contractors and/or consultants
+Why is it measured? This ratio provides valuable insight into human capital strategy and management regarding certain
+employment structures
+How is it measured? Percentage of Full-Time (or FTE-equivalent) positions held by non-traditional workers in the value chain
+Why is it disclosed? Breaking down the workforce by employment type demonstrates how the organization structures its human
+resources to implement its overall strategy. It also provides insight into the organization’s business model,
+and offers an indication of job stability and the level of benefits the organization offers. [GRI]
+How is it disclosed? As a number, trended over time (and compared against historical and industry averages, if possible)
+Connections to
+Frameworks
+• GRI: 102-8
+• UNGC: Principle 6
+Percentage of
+Companies Reporting?
+N/A
+Notes & Sources See also: Guidelines for Multinational Enterprises [OECD, 2011]
+S6. Non-Discrimination
+Does your company follow a sexual harassment and/or non-discrimination policy? Yes/No
+Why is it measured? This ratio provides valuable insight into human capital strategy and management regarding certain protected
+employment classes
+How is it measured? Companies that create, publish, and periodically update a policy document that covers this subject may
+affirmatively respond
+Why is it disclosed? Stakeholders use this metric to evaluate the efficacy and scope of enterprise risk management (ERM)
+How is it disclosed? As text, with appropriate links to public content
+Connections to
+Frameworks
+• GRI: 103-2 (See also: GRI 406: Non-Discrimination 2016)
+• UNGC: Principle 6
+• SASB: General Issue / Employee Engagement, Diversity & Inclusion (See also: SASB Industry Standards)
+Percentage of
+Companies Reporting?
+84%
+Notes & Sources See also: Guidelines for Multinational Enterprises [OECD, 2011]
+ESG REPORTING GUIDE 2.0
+22 SUSTAINABILITY@NASDAQ.COM
+S7. Injury Rate
+Percentage: Frequency of injury events relative to total workforce time
+Why is it measured? Low injury and absentee rates are generally linked to positive trends in staff morale and productivity. [GRI]
+How is it measured? Total number of injuries and fatalities, relative to the total workforce
+Why is it disclosed? Health and safety performance is a key measurement of organizational responsibility, and negative
+performance may impact investment, valuation, and the company's continuing social license to operate.
+How is it disclosed? As a number, trended over time (and compared against historical and industry averages, if possible)
+Connections to
+Frameworks
+• GRI: 403-9
+• SDG: 3
+• SASB: General Issue / Employee Health & Safety (See also: SASB Industry Standards)
+Percentage of
+Companies Reporting?
+2%
+Notes & Sources Reference ILO & UNDHR standards, if possible.
+See also: Corporate Disclosure of Human Capital Metrics (Harvard Law School, 2017)
+S8. Global Health & Safety
+Does your company follow an occupational health and/or global health & safety policy? Yes/No
+Why is it measured? Formal policies may promote the acceptance of responsibilities by multiple parties and the development of a
+positive health and safety culture. This Indicator reveals the extent to which the workforce is actively aware of
+policies that determine health and safety management principles. [GRI]
+How is it measured? Companies that create, publish, and periodically update a policy document that covers this subject may
+affirmatively respond
+Why is it disclosed? Stakeholders use this metric to evaluate the efficacy and scope of enterprise risk management (ERM)
+How is it disclosed? As text, with appropriate links to public content
+Connections to
+Frameworks
+• GRI: 103-2 (See also: GRI 403: Occupational Heath & Safety 2018)
+• SDG: 3
+• SASB: General Issue / Employee Health & Safety (See also: SASB Industry Standards)
+Percentage of
+Companies Reporting?
+84%
+Notes & Sources See also: Guidelines on Occupational Safety and Health Management Systems (ILO, 2001)
+ESG REPORTING GUIDE 2.0
+SUSTAINABILITY@NASDAQ.COM 23
+S9. Child & Forced Labor
+S9.1) Does your company follow a child and/or forced labor policy? Yes/No
+S9.2) If yes, does your child and/or forced labor policy See also: cover suppliers and vendors? Yes/No
+Why is it measured? The presence and effective implementation of policies on this issue are a basic expectation of socially
+responsible conduct. Working conditions that run counter to prevailing laws expose the company to
+significant risk. [GRI]
+How is it measured? Companies that create, publish, and periodically update a policy document that covers this subject may
+affirmatively respond
+Why is it disclosed? Stakeholders use this metric to evaluate the efficacy and scope of enterprise risk management (ERM)
+How is it disclosed? As text, with appropriate links to public content
+Connections to
+Frameworks
+• GRI: 103-2 (See also: GRI 408: Child Labor 2016, GRI 409: Forced or Compulsory Labor, and GRI 414:
+Supplier Social Assessment 2016)
+• SDG: 8
+• UNGC: Principle 4,5
+• SASB: General Issue / Labor Practices (See also: SASB Industry Standards)
+Percentage of
+Companies Reporting?
+67% (report at least one metric)
+Notes & Sources Cite public content, if available; Reference ILO & UNDHR standards, if possible.
+S10. Human Rights
+S10.1) Does your company follow a human rights policy? Yes/No
+S10.2) If yes, does your human rights policy See also: cover suppliers and vendors? Yes/No
+Why is it measured? Adherence to a strong human rights policy often leads to enhanced productivity, better human capital
+dynamics, and lower risk
+How is it measured? Companies that create, publish, and periodically update a policy document that covers this subject may
+affirmatively respond
+Why is it disclosed? Stakeholders use this metric to evaluate the efficacy and scope of enterprise risk management (ERM)
+How is it disclosed? As text, with appropriate links to public content
+Connections to
+Frameworks
+• GRI: 103-2 (See also: GRI 412: Human Rights Assessment 2016 & GRI 414: Supplier Social Assessment 2016)
+• SDG: 4, 10, 16
+• UNGC: Principle 1, 2
+• SASB: General Issue / Human Rights & Community Relations (See also: SASB Industry Standards)
+Percentage of
+Companies Reporting?
+83% (report at least one metric)
+Notes & Sources Reference ILO & UNDHR standards, if possible.
+See also: Universal Declaration of Human Rights (UN, 1948)
+ESG REPORTING GUIDE 2.0
+24 SUSTAINABILITY@NASDAQ.COM
+G1. Board Diversity
+G1.1) Percentage: Total board seats occupied by women (as compared to men)
+G1.2) Percentage: Committee chairs occupied by women (as compared to men)
+Why is it measured? Research tends to indicate an increased number of women in the boardroom is linked to better business
+results, including: strong financial performance, ability to attract and retain top talent, heightened innovation,
+enhanced client insight, strong performance on non-financial indicators, and improved board effectiveness.
+How is it measured? The percentage of female directors and committee chairs, relative to male colleagues in the same groups
+Why is it disclosed? This information can signify the organization’s efforts to implement inclusive practices and the optimal use of
+available labor and talent. An uneven pattern of promotion and seniority by gender can indicate risks related to
+workplace inequity. Some investors specifically target more diverse (or gender-balanced) company boards. [GRI]
+How is it disclosed? As a number, trended over time (and compared against historical and industry averages, if possible)
+Connections to
+Frameworks
+• GRI: 405-1
+• SDG: 10
+• SASB: General Issue / Employee Engagement, Diversity & Inclusion (See also: SASB Industry Standards)
+Percentage of
+Companies Reporting?
+34% (report at least one metric)
+Notes & Sources Companies may elect to disclose performance targets for G1
+Governance Metrics
+Companies may elect to report any or all of the Governance metrics below, per stakeholder guidance, industry or sector
+standards, or materiality assessment implications. Please use a "respond or explain" rationale when following this
+recommendation. If a certain response is omitted, use the comment area to explain the reasons why (i.e., “immaterial”).
+All responses are intended to be reported annually, unless otherwise indicated, and the time scope should be noted.
+G2. Board Independence
+G2.1) Does company prohibit CEO from serving as board chair? Yes/No
+G2.2) Percentage: Total board seats occupied by independents
+Why is it measured? The presence of a high-functioning, semi-independent board is often a good indicator of other effective practices
+How is it measured? Companies with such a rule on the record may respond affirmatively; the number of "Independent Directors"
+(as defined in the board rules or corp[orate charter) as compared with other board members is also calculated
+Why is it disclosed? Stakeholders use this metric to evaluate the efficacy and modernity of the company's governance structure
+How is it disclosed? As text, with appropriate links to public content (S2.1); As a number, trended over time (and compared
+against historical and industry averages, if possible) (S2.2)
+Connections to
+Frameworks
+• GRI: 102-23, 102-22
+Percentage of
+Companies Reporting?
+41% (report at least one metric)
+Notes & Sources See also: Independent & Outside Directors: Research Spotlight (Stanford Graduate School of Business, 2015)
+ESG REPORTING GUIDE 2.0
+SUSTAINABILITY@NASDAQ.COM 25
+G3. Incentivized Pay
+Are executives formally incentivized to perform on sustainability? Yes/No
+Why is it measured? The relative seriousness of a company's organizational emphasis upon ESG — and its willingness to invest in
+same — is easily indicated
+How is it measured? If executives are financially incentivized to perform on ESG metrics, the company may affirmatively respond
+Why is it disclosed? To usefully illustrate a key talent and labor issue within companies
+How is it disclosed? As text, with appropriate links to public content
+Connections to
+Frameworks
+• GRI: 102-35
+Percentage of
+Companies Reporting?
+42%
+Notes & Sources See also: A New Agenda for the Board of Directors: Adoption and Oversight of Corporate Sustainability
+(UNGC Lead, 2012)
+G4. Collective Bargaining
+Percentage: Total enterprise headcount covered by collective bargaining agreement(s)
+Why is it measured? This facilitates local responses to a globalized economy, and serves as a basis for sustainable growth
+and secure investment returns. The results help bridge the widening representational gap in global work
+arrangements, and facilitate the input of those people, regions and economic sectors — especially women and
+informal sector workers — who otherwise may be excluded from participating in processes that build decent
+work environments. [UNGC]
+How is it measured? By measuring the number of employees governed by collective bargaining protocols against the total
+employee population
+Why is it disclosed? To usefully illustrate a key talent and labor issue within companies
+How is it disclosed? As a number, trended over time (and compared against historical and industry averages, if possible)
+Connections to
+Frameworks
+• GRI: 102-41
+• SDG: 8
+• UNGC: Principle 3
+• SASB: General Issue / Labor Practices (See also: SASB Industry Standards)
+Percentage of
+Companies Reporting?
+39%
+Notes & Sources See also: Conventions, Recommendations, and Principles of the International Labour Organization (ILO)
+ESG REPORTING GUIDE 2.0
+26 SUSTAINABILITY@NASDAQ.COM
+G5. Supplier Code of Conduct
+G5.1) Are your vendors or suppliers required to follow a Code of Conduct? Yes/ N
+G5.2) If yes, what percentage of your suppliers have formally certified their compliance with the code?
+Why is it measured? By actively managing ESG performance and governance throughout the supply chain, companies act in their
+own interests, the interests of their stakeholders and the interests of society at large. [UNGC]
+How is it measured? Companies that create, publish, and periodically update a policy document that covers this subject may
+affirmatively respond
+Why is it disclosed? Stakeholders use this metric to evaluate the efficacy and scope of enterprise risk management (ERM)
+How is it disclosed? As text, with appropriate links to public content (G5.1); As a number, trended over time (and compared
+against historical and industry averages, if possible) (G5.2)
+Connections to
+Frameworks
+• GRI: 102-16, 103-2 (See also: GRI 308: Supplier Environmental Assessment 2016 & GRI 414: Supplier Social
+Assessment 2016)
+• SDG: 12
+• UNGC: Principle 2, 3, 4, 8
+• SASB: General Issue / Supply Chain Management (See also: SASB Industry Standards)
+Percentage of
+Companies Reporting?
+40% (report at least one metric)
+Notes & Sources "Percentage" can be defined by number or expenditure.
+G6. Ethics & Anti-Corruption
+G6.1) Does your company follow an Ethics and/or Anti-Corruption policy? Yes/No
+G6.2) If yes, what percentage of your workforce has formally certified its compliance with the policy?
+Why is it measured? This code illuminates company values and a commitment to high standards of ethical conduct. Demonstrating
+a "good faith effort" to prevent illegal acts may reduce the financial risks associated with government fines for
+ethical misconduct.
+How is it measured? Companies that create, publish, and periodically update a policy document that covers this subject may
+affirmatively respond
+Why is it disclosed? Stakeholders use this metric to evaluate the efficacy and scope of enterprise risk management (ERM)
+How is it disclosed? As text, with appropriate links to public content (G6.1); As a number, trended over time (and compared
+against historical and industry averages, if possible) (G6.2)
+Connections to
+Frameworks
+• GRI: 102-16, 103-2 (See also: GRI 205: Anti-Corruption 2016)
+• SDG: 16
+• UNGC: Principle 10
+Percentage of
+Companies Reporting?
+11% (report at least one metric)
+Notes & Sources "Percentage" is defined by total FTE headcount
+ESG REPORTING GUIDE 2.0
+SUSTAINABILITY@NASDAQ.COM 27
+G7. Data Privacy
+G7.1) Does your company follow a Data Privacy policy? Yes/No
+G7.2) Has your company taken steps to comply with GDPR rules? Yes/No
+Why is it measured? Data privacy, protection, and stewardship has become a prevalent issue, specifically in the context of a
+digital economy; many stakeholders assert that virtualized identity and property should be vigorously
+protected, and they use this metric to measure the sophistication of a company's risk and security protocols.
+How is it measured? Companies that create, publish, and periodically update a policy document that covers this subject may
+affirmatively respond
+Why is it disclosed? Stakeholders use this metric to evaluate the efficacy and scope of enterprise risk management (ERM)
+How is it disclosed? As text, with appropriate links to public content
+Connections to
+Frameworks
+• GRI: 418 Customer Privacy 2016
+• SASB: General Issue / Customer Privacy, Data Security (See also: SASB Industry Standards)
+Percentage of
+Companies Reporting?
+N/A
+Notes & Sources GDPR: General Data Protection Regulation
+See also: Privacy & Data Protection Principles (UN Global Pulse)
+G8. ESG Reporting
+G8.1) Does your company publish a sustainability report? Yes/No
+G8.2) Is sustainability data included in your regulatory filings? Yes/No
+Why is it measured? This indicates the presence or absence of public communications regarding company ESG performance, and
+the embedding of such data in regulatory filings
+How is it measured? Does your company publish a sustainability report: Yes, No? If yes, the location of relevant public
+information should be declared. And does your company include ESG data in its regulator filings: Yes, No?
+Why is it disclosed? Increasing data availability and access. In addition, many investors draw a distinction between ESG
+data that is incorporated into a financial disclosure or annual report, or only available via stand-alone
+sustainability report. Many investors have expressed their preference for embedding ESG data in more
+traditional financial disclosures.
+How is it disclosed? As text, with appropriate links to public content
+Connections to
+Frameworks
+• UNGC: Principle 8
+Percentage of
+Companies Reporting?
+13% (report at least one metric)
+Notes & Sources See also: Revealing the Full Picture: Your Guide to ESG Reporting (London Stock Exchange, 2018)
+ESG REPORTING GUIDE 2.0
+28 SUSTAINABILITY@NASDAQ.COM
+G9. Disclosure Practices
+G9.1) Does your company provide sustainability data to sustainability reporting frameworks? Yes/No
+G9.2) Does your company focus on specific UN Sustainable Development Goals (SDGs)? Yes/No
+G9.3) Does your company set targets and report progress on the UN SDGs? Yes/No
+Why is it measured? This illustrates the company’s history of engagement with sustainability reporting frameworks that most
+investors value.
+How is it measured? Does your company publish a GRI, CDP, SASB, IIRC, or UNGC report? If yes, the location of relevant public
+information should be declared for each framework
+Why is it disclosed? Corporate disclosure enhances data availability and access, specifically for investors
+How is it disclosed? As text, with appropriate links to public content
+Connections to
+Frameworks
+• UNGC: Principle 8
+Percentage of
+Companies Reporting?
+2% (report at least one metric)
+Notes & Sources Cite specific frameworks used
+See also: Disclose What Matters: Bridging the Gap Between Investor Needs and Company Disclosures on
+Sustainability (Ceres, 2018)
+G10. External Assurance
+Are your sustainability disclosures assured or validated by a third party? Yes/No
+Why is it measured? This indicates the relative trustworthiness of the sustainability data published by the company through
+various reporting channels
+How is it measured? Are your company's ESG disclosures assured or validated by a third party: Yes/No? If yes, please identify the
+audit/validation entity and the location of any relevant public information.
+Why is it disclosed? Investors often use this metric to determine the “investment-worthiness” of self-reported ESG data
+How is it disclosed? As text, with appropriate links to public content
+Connections to
+Frameworks
+• GRI: 102-56
+• UNGC: Principle 8
+Percentage of
+Companies Reporting?
+38%
+Notes & Sources Cite third party assurance partner.
+See also: Sustainability Assurance Services: From a Niche to Mainstream (The CPA Journal, 2018)
+ESG REPORTING GUIDE 2.0
+SUSTAINABILITY@NASDAQ.COM 29
+Environmental Metrics
+E1. Direct & Indirect GhG Emissions
+Renamed as "GHG Emissions" because not all companies have direct and indirect reporting, thus the label was inaccurate
+E2. Carbon Intensity
+Renamed as "Emissions Intensity" per example set by the TCFD, and added TCFD qualifying language
+(Emissions per output scaling factor: revenues, sales, units produced, etc.)
+E3. Direct & Indirect Energy Consumption
+Renamed as "Energy Usage" in an effort to simplify language
+E4. Energy Intensity
+No substantial change
+Explanation of Revisions (2019)
+The notes below briefly explain the ESG data changes between the initial publication of this guide (2017) and the current version
+(2019). Changes to the 2017 version are noted under their original labels; entirely new metrics are explained at the end. As
+mentioned in the prefatory content, these changes were primarily driven by three factors: WFE revisions to the ESG data set,
+new developments in the ESG reporting space, and feedback received from Nasdaq stakeholders—in particular, the participants in
+an 2018 ESG Reporting Pilot Program. We are grateful for their assistance.
+E7. Water Management
+Renamed as "Water Usage" in an effort to simplify language
+E8. Waste Management
+We found this metric to be virtually unreported, so it was eliminated in favor of a broader policy disclosure in E9 (e.g., “a company's
+EP should include a WM strategy”)
+E9. Environmental Policy
+No change, other than increase in scope described above
+E10. Environmental Impacts
+User feedback indicated confusion over the meaning and value of this metric, and it was virtually unreported, so it was eliminated
+E5. Primary Energy Source
+Eliminated metric in favor of combining with E6 ("Energy Mix")
+E6. Renewable Energy Intensity
+Renamed as "Energy Mix" per TCFD and others (Percent of energy by source type: renewable, hydro, coal, oil, natural gas)
+ESG REPORTING GUIDE 2.0
+30 SUSTAINABILITY@NASDAQ.COM
+Social Metrics
+S1. CEO Pay Ratio
+Realigned this metric with a more specific Dodd-Frank (US) regulatory requirement (“median vs. mean”)
+S2. Gender Pay Ratio
+No substantial change
+S3. Employee Turnover Ratio
+Renamed as "Employee Turnover" in an effort to simplify language
+S4. Gender Diversity
+Revised metric to focus on more meaningful "headcount" rather than FTEs
+S5. Temporary Worker Ratio
+Revised metric to focus on more meaningful "headcount" rather than FTEs
+S6. Non-Discrimination Policy
+No substantial change
+S7. Injury Rate
+Revised the previous calculation (2015) to better align with GRI Standards
+S8. Global Health Policy
+Revised metric to emphasize publication of policy
+S9. Child & Forced Labor Policy
+Revised metric to emphasize publication of policy
+S10. Human Rights Policy
+Revised metric to emphasize publication of policy
+S11. Human Rights Violations
+This metric was regretfully removed from the list; though important, this data is rarely reported in ESG disclosures, and does not easily
+12. Board - Diversity
+Recategorized as a "Governance" issue; also realigned some of the Board issues related to “independence” and “separation of powers”
+ESG REPORTING GUIDE 2.0
+SUSTAINABILITY@NASDAQ.COM 31
+Governance
+G1. Separation of Powers
+Added "independents" as a subcategory in the new metric
+G2. Board - Transparent Practices
+User feedback indicated confusion over the meaning and value of this metric, and it was virtually unreported, so it was eliminated
+G3. Incentivized Pay
+No substantial change
+G4. Fair Labor Practices
+Revised and renamed in order to better align with GRI Standards 407 & 102: "Percentage of headcount covered by collective
+bargaining agreements"
+G5. Supplier Code of Conduct
+No substantial change
+G6. Ethics/Code of Conduct
+Metrics G6 and G7 were combined into a single metric, because so many companies have embedded BACs in their Ethics code
+G7. Bribery/Anti-Corruption Code
+Metrics G6 and G7 were combined into a single metric, because so many companies have embedded BACs in their Ethics code
+G8. Tax Transparency
+This metric was regretfully removed from the list; though important, this data is rarely reported in ESG disclosures, and does not easily
+G9. Sustainability Report
+Recategorized as a true Governance issue; renamed as "Sustainability Reporting" for clarity; scope of reported metric expanded
+(10k, etc.)
+G10. Other Framework Disclosures
+Recategorized as a true Governance issue; renamed as "Framework Disclosures” for clarity
+G11. External Validation/Assurance
+Recategorized as a true Governance issue; renamed as "External Assurance" for clarity
+ESG REPORTING GUIDE 2.0
+32 SUSTAINABILITY@NASDAQ.COM
+New Metrics
+E8. Climate Oversight / Board
+This metric was created to better align with TCFD recommendations; beyond a yes/no answer, companies could delve into frequency,
+scope, and goal-setting
+E9. Climate Oversight / Management
+This metric was created to better align with TCFD recommendations; beyond a yes/no answer, companies could delve into frequency,
+scope, and goal-setting
+E10. Climate Risk Mitigation
+This metric was created to better align with TCFD recommendations; tracks the amount invested in development or deployment of lowcarbon
+products, energy resilience, services and/or technologies
+G7. Data Management
+Emerging consensus on data privacy stewardship and management as key sustainability issues—and related regulatory requirements,
+such as GDPR—demanded the creation of this new metric
+Our changes were primarily driven by three
+factors: WFE revisions to the ESG data set, new
+developments in the ESG reporting space, and
+feedback received from Nasdaq stakeholders.
+ESG REPORTING GUIDE 2.0
+SUSTAINABILITY@NASDAQ.COM 33
+Appendix 1: Local Rules & Regulations
+European businesses are now aware of an emerging regulatory
+effort from the European Commission (EC). This “Directive”
+(technically, Directive 2014/95/EU) requires large companies to
+disclose non-financial and diversity information on an annual
+basis. The directive was first launched in December 2014, and
+it itself an amendment to a previous effort (Directive 2013/34/
+EU) targeting better financial statements in general. EU nations
+must begin to implement the Directive in 2018, so that
+companies may report for the 2017 financial year.
+This is an expansion of the existing reporting rules,
+requiring broader disclosure of “non-financial” performance
+measures. The Directive requires companies to append a
+management report to their financial statement that covers
+many environmental, social, and corporate governance (ESG)
+matters, including:
+• Environmental matters
+• Social and employee matters
+• Respect for human rights
+• Anti-corruption and bribery matters
+• Diversity in the Board of Directors
+The format of this disclosure, however, is not clearly
+understood. “There is significant flexibility for companies to
+disclose relevant information,” the guidelines state, and they
+“may rely on international, European or national guidelines.”
+There is an underlying “comply or explain” rationale included;
+companies not willing or able to report on these issues must
+provide valid reasons for their refusal.
+The new disclosure requirements apply to large public interest
+entities with more than 500 employees. “Public-interest
+entities” include all companies listed in EU markets and
+even some unlisted companies (credit institutions, insurance
+firms, etc.) that Member States designate for inclusion due to
+business type, activity, or size. At first glance, there seems to
+be about 6,000 companies covered by the Directive—including
+some based outside the EU.
+The EC actively advocates for greater corporate social
+responsibility (CSR). “The Commission promotes CSR in the
+EU and encourages enterprises to adhere to international
+guidelines and principles,” the Commission has said. “The
+EU’s policy is built on an agenda for action to support this
+approach.” The reasons for this outreach are made clear: CSR
+offers real benefits for companies (better risk oversight, lower
+costs), markets (investor trust, sustainable capital flow), and
+society (reduced inequalities, economic transformation).
+This kind of regulatory effort is not limited to Europe. When
+it comes to governments requiring corporate disclosure of
+ESG factors, at least 14 members of the G20 and 32 of the
+50 largest country economies have at least one regulation
+covering an aspect of environmental, social, and governance
+disclosure. As these global regulatory actions continue to
+emerge, both in Europe and beyond, there are institutions
+tracking their progress and potential impact. The UN PRI, for
+example, maintains a current database of this information.
+Local country governance codes have been commonplace
+in the Nordics, but now we are seeing new ones emerge in
+Japan. New legislation in China (February 2018) focuses on
+mandatory environmental disclosures; UK rules mandate
+human rights and anti-slavery disclosures. France raised the
+stakes by requiring investors to more transparently report
+climate and social risks in their portfolios.
+In the U.S. there are ESG-related efforts underway—the Dodd
+Frank reform bill, Department of Labor guidance for retirement
+plans, SEC taking a fresh look at decades of stale reporting
+protocols (Regulation SK)—but that regulatory momentum has
+slowed. Yet American companies are still voluntarily disclosing
+ESG data in record numbers, and find themselves subject to a
+growing web of ESG reporting requirements abroad.
+European businesses are now aware of an
+emerging regulatory effort from the European
+Commission (EC). This “Directive” (technically,
+Directive 2014/95/EU) requires large companies
+to disclose non-financial and diversity
+information on an annual basis.
+ESG REPORTING GUIDE 2.0
+34 SUSTAINABILITY@NASDAQ.COM
+Appendix 2: Research Sources
+• MSCI research from 2007 to 2017 shows that companies
+in the bottom quintile of the their World Index experienced
+large drawdowns (above 95%) three times higher than
+those in the top quintile, supporting the assertion that ESG
+provides market insight into risk valuation.
+• BlackRock researched traditional equity indexes alongside
+ESG-focused versions and found that annualized returns
+since 2012 matched or exceeded the standard index in both
+developed and emerging markets.
+• According to State Street research (2018), more than twothirds
+(68%) of institutional asset managers report that
+integration of ESG has significantly improved their returns.
+• “[Our results] show significant outperformance of the top ESG
+momentum quintile over the bottom quintile, corresponding
+with the findings from our transmission channel analysis:
+An improvement in ESG characteristics has led to increasing
+valuations over time.” [Foundations of ESG Investing, MSCI
+2017]
+• From 2001 to 2014, the revenue of “long-term-minded” firms
+cumulatively grew on average 47% more than the revenue
+of other firms, and with less volatility. Cumulatively the
+earnings of these firms grew 36% more on average over this
+period than those of other firms, and their economic profit
+grew 81% more on average. [McKinsey Global Institute, 2017]
+• “Integrating ESG criteria into passive strategies generally
+improved risk-adjusted performance over the period 2007
+to 2016 and tilted the portfolio towards higher quality
+and lower volatility securities.” [Factor Investing and ESG
+Integration, MSCI 2016]
+• Since the U.S. presidential election (2016), as much as $8.1
+billion has flowed into U.S. equity sustainable funds, marking
+a 13.1% surge in the assets under management. This inflow
+has been the largest percentage inflow into any class or style
+of fund. [Ethical Investing Thrives When There’s ‘Bad’ News,
+Wall Street Journal]
+• More than 70% of all investors are interested in socially
+responsible investing, according to Morningstar research,
+while more than 80% of millennials seek to go socially
+responsible on their investment decisions.
+• Over the past five years, 70% of U.S. investors have
+increased their allocation to ESG investments.
+[Shroders, 2017]
+• In 2018, 43% of U.S. institutional investors—endowments,
+foundations and pension plans—incorporated ESG factors into
+their decision-making process, nearly twice the percentage in
+2013. [Kiplingers, 2018]
+• A 2014 metastudy from the University of Oxford found that
+86% of the reviewed papers showed positive correlation
+between company operational performance and ESG
+dynamics.
+• The Journal of Sustainable Finance & Investment published
+a metastudy in 2015 that demonstrated a 90% non-negative
+relationship between ESG and financial performance, among
+other findings. [ESG and Financial Performance: Aggregated
+Evidence from More than 2000 Empirical Studies]
+• According to a 2017 State Street Global Advisors survey of
+a large and diverse array of institutional investors, 92% of
+the respondents want companies to report on ESG issues and
+80% want better ESG reporting standards.
+• A similar finding was reported by EY in 2017 [Is your
+nonfinancial performance revealing the true value of your
+business to investors?]

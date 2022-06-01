@@ -9,12 +9,21 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Data Analysis
-This document uses the processed data from Data_Processing.Rmd and performs analysis on it.
-
-Load in the data:
+Load or install packages:
 ```{r}
 
+```
+
+# Data Analysis
+This document uses the processed data files from Data_Processing.Rmd and performs analysis on it. 
+
+## Load in the data
+Load in the descriptive data of the documents, the tokenized text data, and a vector containing ESG key topics. 
+```{r}
+load("Descriptive_Data.RData")
+load("Processed_Data.RData")
+
+ESG_Topics <- c("")
 ```
 
 ## Transform to document term matrix

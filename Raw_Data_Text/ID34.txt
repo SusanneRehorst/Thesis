@@ -1,0 +1,659 @@
+Environmental Reporting Guidelines
+2018
+Ministry of the Environment
+
+Chapter.1: Basic information of environmental reporting
+✓ This chapter contains general information intended to promote the understanding of the
+environmental report and relevant key information among users of the environmental report.
+1. Basic requirements for environmental reporting
+✓ This is information on the basic requirements for environmental reporting that stakeholders should
+know when making use of the environmental report. It is written at the very top of the environmental
+report or in another easy-to-find location.
+✓ If environmental reporting is conducted within a securities report, sustainability report, or similar,
+and this environmental section’s content is equivalent to the basic requirements for environmental
+reporting, the basic requirements section may be omitted from the environmental report.
+Items to be reported
+□ Boundary of the reporting entity
+□ Reporting period for information provided
+□ Reporting standards, guidelines or the like
+□ Overview of the environmental report
+Explanation
+✓ “Boundary of the reporting entity” refers to the corporate group that comprises all entities reported
+in the consolidated financial statements in financial reporting. Therefore, if the entity conducting
+environmental reporting is the parent of the corporate group, the “Boundary of the reporting entity”
+generally includes the entity (the parent) and the entities it controls (the subsidiaries) .
+✓ “Reporting period for information provided” refers to the time period for which the environmental
+report was created. In the interest of timeliness, it is important to conduct environmental reporting
+regularly, at least once per year. It is preferred that the period covered by the environmental report
+be the same as the accounting period covered by the financial report (i.e. the fiscal year).
+✓ For “Reporting standards, guidelines or the like” describe the names of the standards, guidelines or
+things like that applied for environmental reporting.
+✓ If existing standards or guidelines have been partially applied for preparing the report, it is necessary
+to explain specifically what portion has been applied in order to avoid causing misunderstanding
+among users of the environmental report.
+✓ If existing standards or guidelines have been used for reference but not even partially applied,
+9
+indicate that the reporting guidelines applied are “voluntary standards” or otherwise indicate this fact
+in a way that is clear to the reader.
+✓ In the “Overview of the environmental report,” explain that, for example, the environmental report is
+presented across multiple business reporting documents (e.g., sustainability report, annual report,
+securities report, corporate governance report, etc.) or the report is presented in multiple formats (e.g.
+booklet, website, etc.), using diagrams or other easily intelligible methods to convey the
+interrelationships between those various components.
+10
+2. Trends in key performance indicators
+✓ The entity should present a summary of the trends in key performance indicators to enable users of
+the environmental report to understand performance change of the entity’s activities over time.
+Item to be reported
+□ Trends in major performance indicators
+Explanation
+✓ The entity develops a summary consisting of movements and changes in 2 or 3 key performance
+indicators for environmental issues chosen by the entity from among major performance indicators
+for environmental issues determined by the entity to be of materiality. These 2 or 3 performance
+indicators are listed for the last 3 to 5 continuous years alongside major business indicators such as
+the amount of consolidated sales.
+✓ If environmental information is disclosed in the annual report, sustainability report, or similar
+document, these major performance indicators may be listed alongside performance indicators for
+the entity’s major social issues, as well.
+11
+Chapter.2: Items to be reported in environmental reporting
+✓ The objective of environmental reporting to clearly convey how, as society undergoes a process of
+transitioning to a sustainable society, the entity is working on material environmental issues in the
+short, medium, and long term, and how the entity will work on these issues in the future.
+✓ To that end, it is desirable to beyond simple historical results data and also include specific, clear
+information pertaining to governance, business models, and other organizational issues as well as to
+the direction of management strategy, making for a forward-looking and dynamic description of the
+entity’s status.
+✓ Chapter 2’s reporting items are to be reported in the order that the reporting entity judges to be
+appropriate, taking into account the entity’s corporate philosophy, business environment, business
+characteristics, and other factors. The order of explanation in these guidelines need not be the same
+as the order used in the environmental report itself.
+✓ In order to avoid redundancy, as with governance issues, information that is reported in business
+reporting documents other than the environment report can be omitted from the environment report
+with a clear indication of where the information is record.
+✓ Of course, in the interest of making the documents easier to search for users of the information, it is
+also helpful to include in the environmental report the full text or a summary of information that has
+already been reported in other business reporting documents.
+✓ In either case, the decision of what disclosure method to use will be left to the judgment of the entity
+conducting environmental reporting.
+✓ Of the items to be reported in environmental reporting, item “1. Management commitment
+statements” through item “9. Identification of material environmental issues” are common to all
+entities. The next item, “10. The entity’s material environmental issues,” will differ from entity to
+entity in terms of the type of material environmental issue(s) listed and the boundary of reporting
+conducted. This is because for item 10, each entity evaluates the direct and indirect severe impact of
+their activities on the environment and determines what information will be disclosed.
+12
+1. Top management's commitments
+✓ Addressing material environmental issues are the entity's voluntary action and whether its results is
+good or bad will be ultimately judged by the entity's stakeholders. As their judgement processes
+begin with reviewing the top management's commitments, policies for addressing material
+environmental issues selected by the entity should be clearly stated to the public, as the top
+management commitments, in the name of the top management.
+Items to be reported
+□ Top management's commitments on the entity’s response to material environmental issues
+Explanation
+✓ If an entity attempts to achieve sustainable growth as society undergoes a process of transitioning to
+a sustainable society, it is essential that the entity establishes a business model that is appropriate for
+a sustainable society as it also creates shared value with society. Response to material environmental
+issues is pursued within this process, and it is through the results of those initiatives that entities
+contribute to the achievement of a sustainable society.
+✓ Entities conduct business activities using not only financial capital contributed by investors and
+creditors, but using the natural environment, manpower, social infrastructure, and other types of
+capital, as well. Therefore, management has a moral obligation to explain to the providers of this
+capital how this capital was used. Environmental reporting is a way of fulfilling this obligation with
+regard to an entity’s use of the natural environment.
+✓ Therefore, in conducting environmental reporting, the top management must provide a clear,
+specific explanation in their own words of their basic approach and policy towards addressing
+material environmental issues, including in their performance indicators, targets, and other
+information in addition to making clear declarations regarding the execution of those policies. In this
+sense, top management’s commitment on this topic goes beyond and has a deeper significance than
+simple greetings.
+✓ Moreover, because the determination of whether these commitments are appropriate or not is left to
+the judgment of the stakeholders who use the environmental report, the top management’s
+commitments must be written in a clear and easy-to-understand way.
+✓ The top management’s commitments should explain, with links to the entity's forward-looking
+information to the greatest extent possible, how the response to material environmental issues is
+13
+positioned within the entity’s long-term vision and what type of connection that response has to the
+entity’s strategy and planning.
+14
+2. Governance
+✓ The transition to a sustainable society will occur over a long period. If over that period, the entity
+will attempt to consistently and continuously address material environmental issues as an
+organization, a sound governance structure is essential.
+Items to be reported
+□ The entity’s governance structure
+□ Name of the manager responsible for material environmental issues
+□ The roles of the board of directors and the board of executive officers in the management of material
+environmental issues
+Explanation
+✓ The objective of governance-related reporting is for the entity’s board of directors to explain how
+they view and are addressing, or attempting to address, material environmental issues and related
+risks and opportunities.
+✓ For “the entity’s governance structure,” the entity explains its organizational structure with respect
+to corporate governance.
+✓ However, the purpose of governance is to enable sustainable entity growth by allowing stockholders
+to monitor the board of directors’ activities. To this end, in explaining governance it is important to
+clarify how the board of directors is contributing to the response to material environmental issues.
+✓ The manager responsible for material environmental issues refers to the highest-ranking manager
+who oversees all environmental issue-related matters at the entity.
+✓ If the board of directors has transferred supervisory authority over material environmental issues to
+an environmental affairs committee (incl. a CSR committee, ESG committee, sustainability
+committee, etc.), or if material environmental issues are managed within an environment
+management system, the entity explains that fact and whether the board of directors receives
+information on the management of material environmental issues from the managers of the
+environmental affairs committee or environment management system.
+15
+3. Stakeholder engagement
+✓ Stakeholder engagement is sometimes employed to build a good relationship with stakeholders who
+have an impact on response to material environmental issues, and to smoothly conduct the process
+of identifying material environmental issues and determining/executing policies for addressing such
+issues. Reporting the status of stakeholder engagement is an effective method of showing how the
+entity is mindful of stakeholders’ ideas.
+Items to be reported
+□ Corporate policies to stakeholders
+□ Overview of stakeholder engagement activities conducted in the reporting period
+Explanation
+✓ Stakeholder engagement refers to the systematic attempts of the entity to understand their
+stakeholders and incorporate the stakeholders and their matters of interest into the entity’s activities
+and decision-making process. Engagement can take an extremely wide variety of forms, including
+performance by the entity alone or performance in cooperation with stakeholders.
+✓ For the corporate policies to stakeholders, the entity explains the approach to stakeholder
+engagement including the policy for identifying and selecting stakeholders, and for undertaking
+stakeholder engagement, to disclose how stakeholder engagement is utilized for addressing material
+environmental issues..
+✓ The overview of stakeholder engagement activities conducted in the reporting period includes the
+stakeholder groups identified and selected, the types or forms of engagement used, and the status of
+the implementation of those engagement activities.
+✓ If there has been feedback from stakeholders regarding the status of response to material
+environmental issues, that feedback should be explained, as well.
+16
+4. Risk management
+✓ Even if an entity has achieved good results in managing its material environmental issues, past
+results may not necessarily demonstrate a high capacity to handle potential risks in the future if the
+business environment undergoes significant change. In order to convey that an entity has the risk
+management capacity to address latent environmental issues, it is necessary to demonstrate that the
+entity’s risk management system is functioning effectively.
+Items to be reported
+□ Environment-related risk identification, assessment, and management processes
+□ Positioning of the above processes within the entity’s overall risk management
+Explanation
+✓ “Risk” in this context refers to risk pertaining to material environmental issues, primarily caused by
+the dramatic changes in the business environment associated with the transition to a sustainable
+society.
+✓ This risk management may also cover risks posed by major natural disasters, accidents, and other
+unusual circumstances.
+✓ Risk identification, assessment, and management processes refer to the ways in which the entity
+identifies, evaluates, and is addressing risks pertaining to material environmental issues.
+✓ “Positioning of the above processes within the entity’s overall risk management” constitutes an
+explanation of how the entity’s processes for identifying, evaluating, and managing
+environment-related risks are integrated into entity-wide risk management.
+17
+5. Business model
+✓ The type and magnitude of the impact of an entity’s activities on the environment varies by industry,
+business conditions, and the country or region in which the business is active, among other factors.
+Therefore, explaining the business model of the entity serves to clarify the environmental issues
+unique to the entity as well as incidental risks and opportunities, making it easier for the users of the
+information to understand the status of measures taken to address material environmental issues.
+Items to be reported
+□ The entity’s business model
+Explanation
+✓ The “business model” refers to the nature of an entity’s activities and how it remains competitive,
+generating and maintaining profits over the long term. Typically, this is explained using the entity’s
+main products and services, its business environment, trends in its market, the position and role of
+the entity in the value chain, its customers, its sales methods, and other factors.
+✓ Business models differ significantly from entity to entity, meaning that each entity should utilize its
+own unique technique to describe its business model in an accurate and easy-to-understand way.
+✓ The International Integrated Reporting Council (IIRC), which has established a disclosure
+framework for integrated reporting, defines the business model as “the organization's chosen system
+of inputs, business activities, outputs, and outcomes that aims to create value over the short, medium
+and long term.”1 The business model is included among the items reported in the integrated report.
+✓ The European Union (EU) requires publicly listed companies to disclose a brief description of their
+business model in financial reporting, rendering the business model as an overview of “what a
+company does, and how and why it does it.”2
+
+1
+International Integrated Reporting Council (2013), Business Model, Background Paper for <IR>, p.6.
+2 European Commission (2017), Guidelines on non-financial reporting (2017/C215/01), p.10.
+18
+6. Value chain management
+✓ If the scope (boundaries) under consideration in the identification of material environmental issues
+(such as climate change, water resources, or biodiversity) extends across the entire value chain, it is
+necessary to have a mechanism of value chain management that effectively prevents or addresses
+such issues. If the entity has such a mechanism of value chain management, the entity explains its
+workings and status.
+Items to be reported
+□ Value chain overview
+□ Green procurement policy, objectives, and results
+□ Status of eco-friendly products and services
+Explanation
+✓ The value chain overview explains the structure of the value chains of the entity’s primary products
+and services in an easy-to-understand manner, using diagrams and similar techniques. It should
+include a value chain map and lists material environmental issues for each stage of the value chain,
+incidental risks and opportunities, descriptions of the entity’s work to address material
+environmental issues, and other information.
+✓ Regarding the “upstream” portion of the value chain, the entity describes its green procurement
+policies (incl. CSR procurement) and the range of suppliers for which adherence to these policies is
+required (i.e. to what extent direct / indirect business partners are covered). If targets have been set,
+the entity also explains the targets set and the results thus far, and evaluates the effectiveness of the
+measures employed. If no targets have been set, the entity simply states the results thus far.
+✓ Regarding the “downstream” portion of the value chain, the entity describes the status of each
+eco-friendly product or service. If the entity calculates its contribution to the reduction of certain
+byproducts (i.e. the amount by which environmental impact has been reduced through the use of
+eco-friendly products and services), the entity must state the results of those calculations and
+specifically list background information such as definitions of indicators used, calculation
+methodology, the scope of data aggregation, etc.
+✓ If the entity is required by downstream business partners (clients) to provide information on its
+adherence to green procurement policies and the status of its adherence thereto, the entity should
+explain its policies for responding to such requirements and the status of its response.
+19
+7. Long-term vision
+✓ As the social context of business gradually changes in the transition to a sustainable society, it is
+necessary that entities attempting to achieve continuous growth establish a business model
+appropriate for a sustainable society. Because response to material environmental issues will occur
+over a long timeframe marked by dynamic environmental change, entities use the long-term vision
+to present a vision of what they aim to become in the future. This vision is then used as a starting
+point to assess the relevance of the entity’s activities and to help stakeholders understand the
+direction of the business.
+Items to be reported
+□ Long-term vision
+□ Time period covered by the long-term vision
+□ Reasons why that time period was selected
+Explanation
+✓ The long-term vision serves to communicate to society what the entity seeks to become in the future
+through its addressing of material environmental issues and its contributions to the achievement of a
+sustainable society. Although such visions often present quantitative targets to this end, it is not
+uncommon to present qualitative targets either.
+✓ The time period covered by the long-term vision is primarily determined by the entity, taking into
+account its industry, business conditions, size, and other such factors. The vision should cover the
+period from 2030 to 2050.
+✓ It is hoped that the entity will set suitable interim targets within the period covered by its long-term
+vision and otherwise make it easy for readers to understand its progress toward achievement of that
+vision. It is most useful to set quantitative interim targets where possible.
+✓ The long-term vision and interim targets require periodic revision in response to changes in society
+at large.
+20
+8. Strategy
+✓ In order to realize the entity’s long-term vision, it is essential that the entity carries out its
+sustainable action plans over the long term with a strategic direction that must be shared across the
+entire entity. The environmental report serves to explain how the entity seeks to do so by specifying
+its business strategy designed for achieving a sustainable society.
+Item to be reported
+□ Business strategy of an entity developed for contributing to the achievement of a sustainable
+society
+Explanation
+✓ The “business strategy of an entity developed for contributing to the achievement of a sustainable
+society” is one that involves work on material environmental issues in addition to establishing a
+business model suitable for a sustainable society in the long term and enabling sustainable entity
+growth, while also contributing to the achievement of a sustainable society.
+✓ Building off of the entity’s existing business model, the strategy is an easy-to-understand road map
+(e.g. systematic mechanisms and big-picture plans) by which the entity will carry out its action plans
+in order to work toward the achievement of its long-term vision.
+21
+9. Methodology fort identifying material environmental issues
+✓ The entity identifies by its own judgment its material environmental issues to be addressed, from
+among all of the direct and indirect impacts its business activities have on the environment.
+Stakeholders will determine whether the entity has judged them appropriately or not, and to that end
+the entity explains clearly in its environmental report how it identified those material environmental
+issues.
+Items to be reported
+□ Procedure by which the entity identified its material environmental issues
+□ List of identified material environmental issues
+□ Reasons that the identified environmental issues were judged material
+□ Boundaries of the material environmental issues
+Explanation
+✓ These guidelines only require the entity to explain the methodology by which it identified its
+material environmental issues and which method should be applied is exclusively dependent on the
+entity's judgement.
+✓ However, for the convenience of users of these guidelines, some guidance documents on materiality
+and typical methods of assessing materiality are provided as supplements to these guidelines.
+✓ Because material environmental issues cover even the indirect impacts of an entity’s business
+activities, the boundaries of material environmental issues may expand through the entire value
+chain. In order to state that the boundaries are appropriately determined, the entity explains the
+boundaries from the following two perspectives:
+1) At what part of the value chain do the material environmental issues occur?
+2) How are the material environmental issues related to the entity’s activities and business
+relationships?
+22
+10. The entity’s material environmental issues
+✓ The entity should report on the following items for each of the material environmental issues
+identified by its own judgement.
+Items to be reported
+□ Policies and/or action plans
+□ Targets and results of policies / action plans based on performance indicators
+□ Methodologies used for calculating each performance indicator
+□ Aggregation scope of data for each performance indicator
+□ Financial impact of related risks and opportunities and calculation methodology thereof, if the
+financial impact is significant
+□ An assurance report, if an independent third party provided assurance to the items to be reported
+Explanation
+Policies and/or action plans
+✓ The policies and/or action plans describe the entity’s specific means and practical plans for
+achieving sustainable entity growth and executing its business strategy that works toward realizing a
+sustainable society.
+✓ The entity may describe policies and/or action plans applicable to the entity’s entire organization all
+together. However, when the specific policies and/or action plans for each individual material
+environmental issue exist, they should be also individually described.
+Performance indicators
+✓ Performance indicators serve as tools for evaluating the progress of policies and/or action plans.
+These indicators are typically quantitative, verifiable numerical data, but qualitative indicators may
+also be used depending on the nature of the material environmental issue.
+✓ In selecting performance indicators, multiple indicators may be used for one environmental issue, or
+one indicator may be used for multiple environmental issues to evaluate the degree of achieving
+policies and/or action plans.
+✓ In order to make the degree of the progress on policies and/or action plans easier to understand,
+targets are set to be accomplished by their ends of the period. These targets should be announced in
+advance.
+23
+✓ At the end of the set period, the results of policies and/or action plans are measured with the
+performance indicators. These results are to be compared to the corresponding targets to explain the
+degree of the progress on policies and/or action plans.
+✓ Even if no targets of policies and/or action plans are set, their results must be reported.
+✓ If performance indicators are not disclosed for the entity’s material environmental issues, the entity
+should explain the reasons for doing so.
+✓ Performance indicators should be easily understandable for the users of environmental reporting. It
+should be done by presenting their calculation methodologies (incl. coefficients used or related
+metrics) and the aggregation scope of data for each performance indicator as well.
+✓ In the case of indicators for which a large amount of discretion is left to the entity when calculating
+them, such as avoided emission contributing to reduce the environmental impacts, the entity should
+explain those indicators’ definitions, calculation methodologies, aggregation scopes of data, and
+other background information as needed, to ensure that users correctly understand the meanings of
+the indicators used.
+✓ If the boundary of the reporting entity differs from the aggregation scope of data for specific
+performance indicators, the entity should explain that difference and the reason for it, for each
+performance indicator.
+Financial impact of risks and opportunities
+✓ If the amount of the financial impact is stated, it should be accompanied by definitions thereof,
+calculation methodologies, and the scope of data aggregation.
+Assurance report
+✓ If multiple material environmental issues are assured by an independent third party, that should be
+indicated or explained with respect to each applicable material environmental issue.
+24
+Reference
+Major environmental issues and their performance indicators
+✓ As a reference material for use in identifying material environmental issues as explained in Chapter
+2, this sector presents and describes examples of major environmental issues and their performance
+indicators.
+✓ The major environmental issues listed here as examples are issues that are considered highly
+material by many entities. This section cannot necessarily cover all possible environmental issues.
+The entity is free to identify material environmental issues other than those listed here as example.
+✓ For each identified material environmental issue, the entity presents the “items to be reported” listed
+under Chapter 2, “10. The entity’s material environmental issues.” This section includes examples of
+performance indicators for six major environmental issues. If the entity has identified material
+environmental issues other than those six, the entity must determines their appropriate performance
+indicators.
+✓ A performance indicator is that selected by the entity to evaluate the results of its action plans. These
+indicators are often quantitative in nature, but qualitative indicators may be used depending on the
+nature of the relevant environmental issue.
+✓ Many material environmental issues are relevant throughout the entire value chain. Therefore, the
+entire value chain must be reviewed when determining the aggregation scope of data for
+performance indicators.
+25
+1. Climate change
+✓ Climate change poses the threat of catastrophic damage to economic and social systems on a global
+scale. As a result, one of the major tasks facing the world is a rapid global transition to a post-carbon
+society. Because business activities rely on fossil fuels in some way or another, entities are required
+to disclose the extent of that dependency and to describe their initiatives working towards
+decarbonization.
+Items to be reported
+Greenhouse gas emissions
+□ Scope 1 emissions
+□ Scope 2 emissions
+□ Scope 3 emissions
+Emission intensity
+□ Greenhouse gas emission intensity
+Energy usage
+□ Breakdown of energy usage and overall energy usage
+□ Renewable energy usage as a percentage of overall energy usage
+Explanation
+Greenhouse gas emissions
+✓ Greenhouse gas emissions are divided into three “scopes”. For scope 3 emissions, each entity uses a
+significantly different method for calculation, and thus these emissions should be accompanied by a
+description of the way in which they were calculated.
+✓ The greenhouse gases covered by the report are as follows: CO2, methane, nitrous oxide, nitrogen
+trifluoride, and three fluorinated gas alternatives (hydrofluorocarbon [HFC], perfluorocarbon [PFC],
+sulfur hexafluoride [SF6]).
+✓ Greenhouse gas emissions are calculated by taking the sum of all of the different types of
+greenhouse gases produced by business activities and converting this sum to a total quantity of CO2
+based on their Global Warming Potential. This CO2 total is expressed in units of tCO2e (tons of
+CO2 equivalent). However, if there are insignificant amounts of greenhouse gas emissions other
+than CO2, it is acceptable to report only CO2 emissions.
+26
+Emission intensity
+✓ Emission intensity is an indicator that makes it easier to compare greenhouse gas emission
+reductions chronologically and between entities.
+✓ Emission intensity is calculated using an appropriate measure of business activity such as sales,
+production output, etc.
+Energy usage
+✓ The entity should list energy usage by energy type (kWh, kg, etc.) including electricity and each fuel
+used; and total energy usage, the sum of the calorific value of the different types.
+Scenario analysis
+✓ For some environmental issues with an especially high level of materiality to entities and society
+(e.g. climate change), entities of certain industries, business types and sizes may need to assess the
+validity of their long-term strategies through scenario analysis.
+✓ In scenario analysis, several possible scenarios are forecast concerning possible changes in business
+conditions and long-term policy trends, and the impact of each scenario on the entity’s strategy is
+analyzed in terms its risks and opportunities. Assessment of the resilience and durability of the
+entity’s strategy is evaluated for each scenario, testing the validity of the strategy.
+✓ The scenario analysis is not included among the examples of items to be reported. However, the
+TCFD has recommended that scenario analysis be performed, necessitating caution regarding future
+information disclosures.
+27
+2. Water resources
+✓ Water (especially fresh water) is an essential resource for human survival and difficult to substitute.
+In a world where access to water resources is at high risk of being restricted by factors such as
+increasing water usage due to increasing populations and precipitation patterns changing due to
+climate change, water resource management in business activities has become a material
+environmental issue.
+Items to be reported
+□ Water resource inputs
+□ Water intensity
+□ Water discharge
+□ Status of water stress, if the entity has sites or supply chains located in areas with water stress
+Explanation
+✓ Water resource inputs are broken down by type: tap water, industrial water, groundwater, river water,
+seawater, etc.
+✓ Water intensity is calculated using an appropriate measure of business activity such as sales,
+production output, etc.
+✓ Due to uneven distribution of water resources across the world, not just workplaces but entire supply
+chains may be located in areas with water stress. If this is the case for an entity, it will explain the
+relevant situation here.
+✓ In explaining the status of water stress, the description should also cover the impact of the entity’s
+activities on all regional water systems and the status of management of those water resources.
+28
+3. Biodiversity
+✓ In pursuing a transition to a sustainable society, it is essential that the ecosystems underlying
+biodiversity be conserved to achieve a society in harmony with nature that benefits from that
+biodiversity now and in the future. Because entities have a deep relationship with biodiversity
+domestically and internationally through their business activities, the conservation of biodiversity in
+such activities is a material environmental issue.
+Items to be reported
+□ Impact of business activities on biodiversity
+□ Status and extent of the dependency of the entity’s business activities on biodiversity
+□ Business activities that contribute to biodiversity conservation
+□ Status of cooperation with external stakeholders
+Explanation
+✓ The impact of business activities on biodiversity refers not only to the direct effects of the entity’s
+business activities, but also indirect effects such as the impact on biodiversity of other businesses in
+the entity’s supply chain, and the impact of consumers using or disposing of products or services
+provided by the entity.
+✓ In this business’s case, targets pertaining to the avoidance or minimization of the impact of business
+activities on biodiversity are included as “initiative targets” to be reported as per Chapter 2, “10. The
+entity’s material environmental issues.” These targets are chosen such that they can be used by the
+entity to confirm the status of relevant initiatives as well as be reported to an external audience, but
+these targets do not need to be quantitative in nature. Additionally, because the indirect effects of
+business activities are included in consideration of the impact of business activities on biodiversity,
+targets are chosen with consideration of cooperation with consumers and other entities involved in
+the entity’s value chain.
+✓ Regarding “the status and extent of the dependency of the entity’s business activities on
+biodiversity”, the entity should explain natural capital and ecosystem services that the business
+activities depend on (e.g., the entity procures biological raw materials for its business), with further
+discussion of the extent of that dependency from the perspective of the sustainability of those
+business activities.
+✓ “Business activities that contribute to biodiversity conservation” refers to how technology owned by
+29
+the entity and the products and services the entity produces contribute to the conservation of
+biodiversity and the sustainable use of natural resources.
+✓ “Cooperating external stakeholders” includes client entities, local governments (municipalities),
+NGOs/NPOs, local residents, etc.
+30
+4. Resource circulation
+✓ From the perspective of intergenerational fairness, a sustainable society requires resource
+consumption to an extent that future generations’ demand for resources can still be satisfied. To that
+end, in order to establish a sustainable business model, it is essential that entities promote resource
+circulation.
+✓ Water resources and fossil fuels used as energy sources are not included in the total amount of
+“resource inputs.” For more information on these topics, see “1. Climate change” for resources used
+as energy sources and “2. Water resources” for water resources.
+Items to be reported
+Resource inputs
+□Volume of nonrenewable resource inputs
+□Volume of renewable resource inputs
+□ Volume of recycled materials used
+□ Rate of recycled and reused resources ( = Volume of recycled materials used / Volume of resource
+inputs)
+Resource waste
+□ Total production of waste, etc.
+□ Total final disposal volume of waste, etc.
+Explanation
+✓ “Nonrenewable resources” refers to exhaustible natural resources such as metals and minerals that
+require an extremely long time to replenish naturally. “Renewable resources” refers to agricultural
+produce, timber, marine products, and other resources that can be renewed over a short period
+thorough natural cycles, protective measures, etc.
+✓ Resources to be reported should be determined due to their high volume of use, scarcity, or other
+such characteristic and listed by type.
+✓ Whether to reuse or recycle a resource or not is determined in some cases by comparing the cost of
+recycling to the price of virgin material. For this reason, it is preferable to understand the differences
+between whether a resource is virgin or recycled.
+✓ The volume of recycled materials used refers to the amount of reused or recycled resources used to
+31
+substitute for virgin materials.
+✓ In order to restrict the consumption of resources by business activities to a level such that future
+generations’ demand for resources can still be satisfied, the use of nonrenewable resources will be
+dramatically restricted. To that end, it is necessary to transition over to renewable resources and
+reduce the usage of nonrenewable resources, in addition to reducing the total final disposal volume
+of waste through resource circulation.
+✓ Report items pertaining to “resource waste” should be reported by type and disposal method to
+describe the impact on the environment of waste treatment.
+32
+5. Chemical substances
+✓ Entities are required to take their own measures to improve chemical substance management and
+prevent problems with environmental conservation in advance. The proper management of chemical
+substances and the reduction of handled chemical substances through the use of substitutes are both
+important tasks facing society.
+Items to be reported
+□ Volume of chemical substances in storage
+□ Volume of chemical substance emissions
+□ Volume of chemical substances transferred
+□ Volume of chemical substances handled (volume used)
+Explanation
+✓ As long as chemical substances are properly stored, they do not carry a high risk during normal
+times. However, in the event of an accident or natural disaster (i.e. abnormal times), there may be a
+massive impact on the environment depending on the amount of chemical substances in storage,
+making this a major potential environmental issue.
+✓ The volume of each type of major chemical substance is included.
+✓ If there has been a drastic change in chemical substance storage volume, emissions volume, or any
+other such measures compared to the previous year, explain the reason for that difference in detail.
+✓ Chemical substances must be managed properly even when present in small quantities. An
+explanation of the status of chemical substance management is also included in “Response policies /
+action plan,” one of the items to be reported under “The entity’s material environmental issues.”
+✓ The range of chemical substances to be managed must consider not only organizations that are the
+focus of the report but the entity’s entire value chain.
+33
+6. Pollution prevention
+✓ Environmental pollution can have a major impact on the environment and future generations. The
+entity that causes the pollution may not only be liable for large damages payments and restoration
+costs but also face severe risks to their reputation. In particular, pollution in developing countries
+that cause health problems are material environmental issues must be rapidly addressed by entities.
+Items to be reported
+General
+□ Status of legal compliance
+Air quality conservation
+□ Air-pollutant emissions volume, emission concentration in air pollution regulations
+Water pollution
+□ Water pollution load, emission concentration in emissions regulations
+Soil pollution
+□ Status of soil pollution
+Explanation
+✓ Even if a legal violation or the discovery thereof occurs before the time period covered by the report,
+the legal violation should be explained if it has an impact on the period covered by the report. For
+example, a past legal violation that had a large impact may continue to affect compliance issues
+through to the present.
+✓ Entities can also write about activities that go beyond compliance (e.g. if an entity voluntarily
+conducts soil pollution studies and discloses the results thereof, despite this not being required by
+law).
+✓ Important legal violations that occurred in the entity’s supply chain should also be reported.
+34
+Glossary
+(Note) The lack of a clearly stated source for a definition indicates that it is defined or explained by the
+Ministry of the Environment.
+SDGs (p. 1, 3)
+The seventeen Sustainable Development Goals (SDGs), adopted at an international summit at
+the United Nations Headquarters in New York on September 25, 2015, constitute the core of
+“Transforming our World: the 2030 Agenda for Sustainable Development.” The biggest characteristic of
+these SDGs is their universality, being adopted by all countries, including developed countries. Of these
+17 goals, at least 12 are related to the environment. The Ministry of the Environment is also actively
+implementing policies toward the achievement of the Agenda in areas including climate change and
+sustainable consumption and production (initiatives toward the achievement of a recycling-based society,
+etc.).
+Paris Agreement (p. 1, 3)
+The Paris Agreement is a new international framework for climate change in 2020 and beyond.
+It was adopted in 2015 at the 21st United Nations Climate Change Conference (COP 21) held in Paris,
+France. The Paris Agreement includes the establishment of a 2℃ long-term warming target shared
+throughout the world, the submission and updating of reduction targets every five years in all countries,
+national adaptation plan processes and implementation for each country, the continued provision of
+funding by developed countries as well as voluntary funding provided by developing countries, the
+receiving of reports and reviews of countries’ implementation status in a common and flexible way, and
+the use of market mechanisms including the Joint Crediting Mechanism (JCM). The Paris Agreement
+represents a major historical turning point as the first fair agreement in history to successfully have all
+countries participating voluntarily as appropriate for conditions in their country.
+ESG information (p.3, 4)
+Environmental, social, and governance information on an entity. Risks and governance pertaining to
+environmental and social issues are points of perspective that can be used by institutional investors and
+the rest of the financial sector to understand the status of an entity and improve the mid- to long-term
+value of the entities in which they invest. In September 2015, the Government Pension Investment Fund
+35
+(GPIF), the largest pension asset pool in the world, signed the United Nations-supported Principles for
+Responsible Investment. This served as one opportunity in which ESG investment—investment that takes
+into account environmental, social, and governance information—has become increasingly better known
+and a bigger source of interest over time.
+GRI Standards (p.3)
+The GRI Standards serve to present global best practices for the purpose of general reporting
+on the economic, environmental, and social impact of an organization. Sustainability reports based on
+these standards provide information on the positive and negative contributions of organizations to
+sustainable development.
+Source: GRI website
+International Integrated Reporting Council (IIRC) (p. 3, 17)
+The International Integrated Reporting Council (IIRC) is an international confederation of regulatory
+authorities, investors, entities, standard-setting bodies, accountants, NGOs, and other parties. Working
+under the approach that communication on value creation is the next step in the development of corporate
+reporting, the IIRC drafted the International Integrated Reporting Framework in 2013. Integrated
+reporting recognizes the fact that the value-creation process relies on resource contributions from a
+variety of stakeholders. An integrated report is founded on the assumption of integrated thinking in which
+the entity is run with proper consideration paid to those stakeholders, and contains the entity’s strategy,
+governance, performance, and material data pertaining to the entity’s future outlook compiled in a way
+that can reflect the context (environmental, social, etc.) of the entity.
+Source: IIRC website
+Material balance (p.5)
+An easy-to-understand comparison of the inputs (resources, energy volume) and outputs (volume of
+products / services produced and sold, amount of burden on the environment of waste, greenhouse gases,
+discharge, chemical substances, etc.) of an entity’s activities.
+Stakeholders (p.2, 7, 8, 12, 15, 19, 21, 28, 29, 35)
+The organizations and individuals with a direct or indirect interest in the entity’s activities, including its
+environmental initiatives. For an entity, this includes customers / consumers, shareholders / investors,
+36
+clients, employees, NPOs, local residents, administrative organizations, etc.
+Value chain (p.2, 17, 18, 21, 24, 28, 32)
+The entire chain of economic agents or economic activities involved in the entity’s business
+processes from the creation of added-value to consumption. Includes activities such as raw material
+mining, procurement, production, sales, transport, use, disposal, etc.
+Scope 1, 2,3 emissions (p.25)
+Greenhouse gas emissions can be subdivided by source activity as per the following activity
+groups (called “scopes”).
+Scope 1 emissions are direct greenhouse gas emissions from the entity itself.
+Scope 2 emissions are indirect emissions associated with the use of electricity, heat, or steam
+supplied by another party.
+Scope 3 emissions any indirect emissions other than those covered by Scope 2.
+Supply chain (p.27, 28, 33)
+The chain of all activities and suppliers who supply products and services to the entity. The
+supply chain is further upstream than the value chain.

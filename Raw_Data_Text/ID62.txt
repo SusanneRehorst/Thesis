@@ -1,0 +1,1317 @@
+E. Summary of the Proposed Rules
+
+We are proposing to add a new subpart to Regulation S-K, 17 CFR 229.1500-1507 (“Subpart 1500 of Regulation S-K”) that would require a registrant to disclose certain climate-related information, including information about its climate-related risks that are reasonably likely to have material impacts on its business or consolidated financial statements, and GHG emissions metrics that could help investors assess those risks.[121] 
+
+A registrant may also include disclosure about its climate-related opportunities. The proposed new subpart to Regulation S-K would include an attestation requirement for accelerated filers [122] 
+
+and large accelerated filers [123] 
+
+regarding certain proposed GHG emissions metrics disclosures.[124] 
+
+We are also proposing to add a new article to Regulation S-X, 17 CFR 210.14-01 and 02 (“Article 14 of Regulation S-X”) that would require certain climate-related financial statement metrics and related disclosure to be included in a note to a registrant's audited financial statements.[125] 
+
+The proposed financial statement metrics would consist of disaggregated climate-related impacts on existing financial statement line items. As part of the registrant's financial statements, the financial statement metrics would be subject to audit by an independent registered public accounting firm, and come within the scope of the registrant's internal control over financial reporting (“ICFR”).[126] 
+
+1. Content of the Proposed Disclosures
+
+The proposed climate-related disclosure framework is modeled in part on the TCFD's recommendations, and also draws upon the GHG Protocol. In particular, the proposed rules would require a registrant to disclose information about:
+
+• The oversight and governance of climate-related risks by the registrant's board and management; [127] 
+
+• How any climate-related risks identified by the registrant have had or are likely to have a material impact on its business and consolidated financial statements, which may manifest over the short-, medium-, or long-term; [128] 
+
+• How any identified climate-related risks have affected or are likely to affect the registrant's strategy, business model, and outlook; [129] 
+
+• The registrant's processes for identifying, assessing, and managing climate-related risks and whether any such processes are integrated into the registrant's overall risk management system or processes; [130] 
+
+• The impact of climate-related events (severe weather events and other natural conditions as well as physical risks identified by the registrant) and transition activities (including transition risks identified by the registrant) on the line items of a registrant's consolidated financial statements and related expenditures,[131] 
+
+and disclosure of financial estimates and assumptions impacted by such climate-related events and transition activities.[132] 
+
+Scopes 1 and 2 GHG emissions metrics, separately disclosed, expressed:
+
+○ Both by disaggregated constituent greenhouse gases and in the aggregate, and
+
+○ In absolute and intensity terms; [133] 
+
+Scope 3 GHG emissions and intensity, if material, or if the registrant has set a GHG emissions reduction target or goal that includes its Scope 3 emissions; and
+
+• The registrant's climate-related targets or goals, and transition plan, if any.[134] 
+
+When responding to any of the proposed rules' provisions concerning governance, strategy, and risk management, a registrant may also disclose information concerning any identified climate-related opportunities.
+
+2. Presentation of the Proposed Disclosures
+
+The proposed rules would require a registrant (both domestic and foreign private issuers): [135] 
+
+• To provide the climate-related disclosure in its registration statements and Exchange Act annual reports; [136] 
+
+• To provide the Regulation S-K mandated climate-related disclosure in a separate, appropriately captioned section of its registration statement or annual report, or alternatively to incorporate that information in the separate, appropriately captioned section by reference from another section, such as Risk Factors, Description of Business, or Management's Discussion and Analysis (“MD&A”); [137] 
+
+• To provide the Regulation S-X mandated climate-related financial statement metrics and related disclosure in a note to the registrant's audited financial statements; [138] 
+
+• To electronically tag both narrative and quantitative climate-related disclosures in Inline XBRL; [139] 
+
+and
+
+• To file rather than furnish the climate-related disclosure.[140] 
+
+3. Attestation for Scope 1 and Scope 2 Emissions Disclosure
+
+The proposed rules would require an accelerated filer or a large accelerated filer to include, in the relevant filing, an attestation report covering, at a minimum, the disclosure of its Scope 1 and Scope 2 emissions and to provide certain related disclosures about the service provider.[141] 
+
+As proposed, both accelerated filers and large accelerated filers would have time to transition to the minimum attestation requirements. The proposed transition periods would provide existing accelerated filers and large accelerated filers one fiscal year to transition to providing limited assurance and two additional fiscal years to transition to providing reasonable assurance, starting with the respective compliance dates for Scopes 1 and 2 disclosure described below.[142] 
+
+The proposed rules would provide minimum attestation report requirements, minimum standards for acceptable attestation frameworks, and would require an attestation service provider to meet certain minimum qualifications. The proposed rules would not require an attestation service provider to be a registered public accounting firm.
+
+4. Phase-In Periods and Accommodations for the Proposed Disclosures
+
+The proposed rules would include:
+
+A phase-in for all registrants, with the compliance date dependent on the registrant's filer status;
+
+An additional phase-in period for Scope 3 emissions disclosure;
+
+A safe harbor for Scope 3 emissions disclosure;
+
+• An exemption from the Scope 3 emissions disclosure requirement for a registrant meeting the definition of a smaller reporting company (“SRC”); [143] 
+
+and
+
+A provision permitting a registrant, if actual reported data is not reasonably available, to use a reasonable estimate of its GHG emissions for its fourth fiscal quarter, together with actual, determined GHG emissions data for the first three fiscal quarters, as long as the registrant promptly discloses in a subsequent filing any material difference between the estimate used and the actual, determined GHG emissions data for the fourth fiscal quarter.
+
+The proposed rules would be phased in for all registrants, with the compliance date dependent upon the status of the registrant as a large accelerated filer, accelerated or non-accelerated filer, or SRC, and the content of the item of disclosure. For example, assuming that the effective date of the proposed rules occurs in December 2022 and that the registrant has a December 31st fiscal year-end, the compliance date for the proposed disclosures in annual reports, other than the Scope 3 disclosure, would be:
+
+For large accelerated filers, fiscal year 2023 (filed in 2024);
+
+For accelerated and non-accelerated filers, fiscal year 2024 (filed in 2025); and
+
+• For SRCs, fiscal year 2025 (filed in 2026).[144] 
+
+Registrants subject to the proposed Scope 3 disclosure requirements would have one additional year to comply with those disclosure requirements.
+
+We welcome feedback and encourage interested parties to submit comments on any or all aspects of the proposed rules. When commenting, it would be most helpful if you include the reasoning behind your position or recommendation.
+
+PART 210—FORM AND CONTENT OF AND REQUIREMENTS FOR FINANCIAL STATEMENTS, SECURITIES ACT OF 1933, SECURITIES EXCHANGE ACT OF 1934, INVESTMENT COMPANY ACT OF 1940, INVESTMENT ADVISERS ACT OF 1940, AND ENERGY POLICY AND CONSERVATION ACT OF 1975
+
+1. The authority citation for part 210 continues to read as follows: 
+
+Authority: 
+
+15 U.S.C. 77f, 77g, 77h, 77j, 77s, 77z-2, 77z-3, 77aa(25), 77aa(26), 77nn(25), 77nn(26), 78c, 78j-1, 78
+
+l,
+
+78m, 78n, 78o(d), 78q, 78u-5, 78w, 78ll, 78mm, 80a-8, 80a20, 80a-29, 80a-30, 80a-31, 80a-37(a), 80b-3, 80b-11, 7202 and 7262, and sec. 102(c), Pub. L. 112-106, 126 Stat. 310 (2012), unless otherwise noted.
+
+2. Amend § 210.8-01 by revising paragraph (b) to read as follows: 
+
+§ 210.8-01 
+
+General requirements for Article 8.
+
+* * * * *
+
+(b) Smaller reporting companies electing to prepare their financial statements with the form and content required in Article 8 need not apply the other form and content requirements in 17 CFR part 210 (Regulation S-X) with the exception of the following:
+
+(1) The report and qualifications of the independent accountant shall comply with the requirements of §§ 210.2-01 through 210.2-07 (Article 2); and
+
+(2) The description of accounting policies shall comply with § 210.4-08(n);
+
+(3) Smaller reporting companies engaged in oil and gas producing activities shall follow the financial accounting and reporting standards specified in § 210.4-10 with respect to such activities; and
+
+(4) Sections 210.14-01 and 210.14-02 (Article 14).
+
+* * * * *
+
+3. Add an undesignated center heading and §§ 210.14-01 and 210.14-02 to read as follows: 
+
+Article 14—Climate-Related Disclosure
+
+§ 210.14-01 
+
+Climate-related disclosure instructions.
+
+(a) 
+
+General.
+
+A registrant must include disclosure pursuant to § 210.14-02 in any filing that is required to include disclosure pursuant to subpart 229.1500 of this chapter and that also requires the registrant to include its audited financial statements. The disclosure pursuant to § 210.14-02 must be included in a note to the financial statements included in such filing.
+
+(b) 
+
+Definitions.
+
+The definitions in § 229.1500 (Item 1500 of Regulation S-K) apply to this Article 14 of Regulation S-X.
+
+(c) 
+
+Basis of calculation.
+
+When calculating the metrics in this Article 14, except where otherwise indicated, a registrant must:
+
+(1) Use financial information that is consistent with the scope of the rest of its consolidated financial statements included in the filing; and
+
+(2) Whenever applicable, apply the same accounting principles that it is required to apply in preparation of the rest of its consolidated financial statements included in the filing.
+
+(d) 
+
+Historical periods.
+
+Disclosure must be provided for the registrant's most recently completed fiscal year, and for the historical fiscal year(s) included in the consolidated financial statements in the filing (
+
+e.g.,
+
+a registrant that is required to include balance sheets as of the end of its two most recent fiscal years and income statements and cash flow statements as of the end of its three most recent fiscal years would be required to disclose two years of the climate-related metrics that correspond to balance sheet line items and three years of the climate-related metrics that correspond to income statement or cash flow statement line items).
+
+§ 210.14-02
+
+Climate-related metrics.
+
+(a) 
+
+Contextual information.
+
+Provide contextual information, describing how each specified metric was derived, including a description of significant inputs and assumptions used, and, if applicable, policy decisions made by the registrant to calculate the specified metrics.
+
+(b) 
+
+Disclosure thresholds.
+
+(1) Disclosure of the financial impact on a line item in the registrant's consolidated financial statements pursuant to paragraphs (c) and (d) of this section (including any impacts included pursuant to paragraphs (i) and (j) of this section) is not required if the sum of the absolute values of all the impacts on the line item is less than one percent of the total line item for the relevant fiscal year.
+
+(2) Disclosure of the aggregate amount of expenditure expensed or the aggregate amount of capitalized costs incurred pursuant to paragraphs (e) and (f) of this section (including any impacts included pursuant to paragraphs (i) and (j) of this section) is not required if such amount is less than one percent of the total expenditure expensed or total capitalized costs incurred, respectively, for the relevant fiscal year.
+
+(c) 
+
+Financial impacts of severe weather events and other natural conditions.
+
+Disclose the impact of severe weather events and other natural conditions, such as flooding, drought, wildfires, extreme temperatures, and sea level rise on any relevant line items in the registrant's consolidated financial statements during the fiscal years presented. Disclosure must be presented, at a minimum, on an aggregated line-by-line basis for all negative impacts and, separately, at a minimum, on an aggregated line-by-line basis for all positive impacts. Impacts may include, for example:
+
+(1) Changes to revenues or costs from disruptions to business operations or supply chains;
+
+(2) Impairment charges and changes to the carrying amount of assets (such as inventory, intangibles, and property, plant and equipment) due to the assets being exposed to severe weather, flooding, drought, wildfires, extreme temperatures, and sea level rise;
+
+(3) Changes to loss contingencies or reserves (such as environmental reserves or loan loss allowances) due to impact from severe weather events; and
+
+(4) Changes to total expected insured losses due to flooding or wildfire patterns.
+
+(d) 
+
+Financial impacts related to transition activities.
+
+Disclose the impact of any efforts to reduce GHG emissions or otherwise mitigate exposure to transition risks on any relevant line items in the registrant's consolidated financial statements during the fiscal years presented. Disclosure must be presented, at a minimum, on an aggregated line-by-line basis for all negative impacts and, separately, at a minimum, on an aggregated line-by-line 
+
+basis for all positive impacts. Impacts may include, for example:
+
+(1) Changes to revenue or cost due to new emissions pricing or regulations resulting in the loss of a sales contract;
+
+(2) Changes to operating, investing, or financing cash flow from changes in upstream costs, such as transportation of raw materials;
+
+(3) Changes to the carrying amount of assets (such as intangibles and property, plant, and equipment) due to, among other things, a reduction of the asset's useful life or a change in the asset's salvage value by being exposed to transition activities; and
+
+(4) Changes to interest expense driven by financing instruments such as climate-linked bonds issued where the interest rate increases if certain climate-related targets are not met.
+
+(e) 
+
+Expenditure to mitigate risks of severe weather events and other natural conditions.
+
+Disclose separately the aggregate amount of expenditure expensed and the aggregate amount of capitalized costs incurred during the fiscal years presented to mitigate the risks from severe weather events and other natural conditions, such as flooding, drought, wildfires, extreme temperatures, and sea level rise. For example, a registrant may be required to disclose the amount of expense or capitalized costs, as applicable, to increase the resilience of assets or operations, retire or shorten the estimated useful lives of impacted assets, relocate assets or operations at risk, or otherwise reduce the future impact of severe weather events and other natural conditions on business operations.
+
+(f) 
+
+Expenditure related to transition activities.
+
+Disclose separately the aggregate amount of expenditure expensed and the aggregate amount of capitalized costs incurred during the fiscal years presented to reduce GHG emissions or otherwise mitigate exposure to transition risks. For example, a registrant may be required to disclose the amount of expense or capitalized costs, as applicable, related to research and development of new technologies, purchase of assets, infrastructure, or products that are intended to reduce GHG emissions, increase energy efficiency, offset emissions (purchase of energy credits), or improve other resource efficiency. A registrant that has disclosed GHG emissions reduction targets or other climate-related commitments must disclose the expenditures and costs related to meeting its targets, commitments, and goals, if any, in the fiscal years presented.
+
+(g) 
+
+Financial estimates and assumptions impacted by severe weather events and other natural conditions.
+
+Disclose whether the estimates and assumptions the registrant used to produce the consolidated financial statements were impacted by exposures to risks and uncertainties associated with, or known impacts from, severe weather events and other natural conditions, such as flooding, drought, wildfires, extreme temperatures, and sea level rise. If yes, provide a qualitative description of how the development of such estimates and assumptions were impacted by such events.
+
+(h) 
+
+Financial estimates and assumptions impacted by transition activities.
+
+Disclose whether the estimates and assumptions the registrant used to produce the consolidated financial statements were impacted by risks and uncertainties associated with, or known impacts from, a potential transition to a lower carbon economy or any climate-related targets disclosed by the registrant. If yes, provide a qualitative description of how the development of such estimates and assumptions were impacted by such a potential transition or the registrant's disclosed climate-related targets.
+
+(i) 
+
+Impact of identified climate-related risks.
+
+A registrant must also include the impact of any climate-related risks (separately by physical risks and transition risks, as defined in § 229.1500(c) of this chapter), identified by the registrant pursuant to § 229.1502(a) of this chapter, on any of the financial statement metrics disclosed pursuant to paragraphs (c) through (h) of this section.
+
+(j) 
+
+Impact of climate-related opportunities.
+
+A registrant may also include the impact of any opportunities arising from severe weather events and other natural conditions, any impact of efforts to pursue climate-related opportunities associated with transition activities, and the impact of any other climate-related opportunities, including those identified by the registrant pursuant to § 229.1502(a) of this chapter, on any of the financial statement metrics disclosed pursuant to paragraphs (c) through (h) of this section. If a registrant makes a policy decision to disclose the impact of an opportunity, it must do so consistently for the fiscal years presented, including for each financial statement line item and all relevant opportunities identified by the registrant.
+
+PART 229—STANDARD INSTRUCTIONS FOR FILING FORMS UNDER SECURITIES ACT OF 1933, SECURITIES EXCHANGE ACT OF 1934 AND ENERGY POLICY AND CONSERVATION ACT OF 1975—REGULATION S-K
+
+4. The authority citation for part 229 continues to read as follows: 
+
+Authority: 
+
+15 U.S.C. 77e, 77f, 77g, 77h, 77j, 77k, 77s, 77z-2, 77z-3, 77aa(25), 77aa(26), 77ddd, 77eee, 77ggg, 77hhh, 77iii, 77jjj, 77nnn, 77sss, 78c, 78i, 78j, 78j-3, 78l, 78m, 78n, 78n-1, 78o, 78u-5, 78w, 78ll, 78 mm, 80a-8, 80a-9, 80a-20, 80a-29, 80a-30, 80a-31(c), 80a37, 80a-38(a), 80a-39, 80b-11 and 7201 
+
+et seq.;
+
+18 U.S.C. 1350; sec. 953(b), Pub. L. 111-203, 124 Stat. 1904 (2010); and sec. 102(c), Pub. L. 112-106, 126 Stat. 310 (2012).
+
+5. Add subpart 229.1500 (“Climate-Related Disclosure”) to read as follows: 
+
+Subpart 229.1500—Climate-Related Disclosure
+
+229.1500 
+
+(Item 1500) Definitions.
+
+229.1501 
+
+(Item 1501) Governance.
+
+229.1502 
+
+(Item 1502) Strategy, business model, and outlook.
+
+229.1503 
+
+(Item 1503) Risk management.
+
+229.1504 
+
+(Item 1504) GHG emissions metrics.
+
+229.1505 
+
+(Item 1505) Attestation of Scope 1 and Scope 2 emissions disclosure.
+
+229.1506 
+
+(Item 1506) Targets and goals.
+
+229.1507 
+
+(Item 1507) Interactive data requirement.
+
+Subpart 229.1500—Climate-Related Disclosure
+
+§ 229.1500
+
+(Item 1500) Definitions.
+
+As used in this subpart, these terms have the following meanings:
+
+(a) 
+
+Carbon offsets
+
+represents an emissions reduction or removal of greenhouse gases (“GHG”) in a manner calculated and traced for the purpose of offsetting an entity's GHG emissions.
+
+(b) 
+
+Climate-related opportunities
+
+means the actual or potential positive impacts of climate-related conditions and events on a registrant's consolidated financial statements, business operations, or value chains, as a whole.
+
+(c) 
+
+Climate-related risks
+
+means the actual or potential negative impacts of climate-related conditions and events on a registrant's consolidated financial statements, business operations, or value chains, as a whole. Climate-related risks include the following:
+
+(1) 
+
+Physical risks
+
+include both acute risks and chronic risks to the registrant's business operations or the operations of those with whom it does business.
+
+(2) 
+
+Acute risks
+
+are event-driven and may relate to shorter term extreme weather events, such as hurricanes, floods, and tornadoes, among other events.
+
+(3) 
+
+Chronic risks
+
+relate to longer term weather patterns and related effects, such as sustained higher temperatures, sea level rise, drought, and increased wildfires, as well as related effects such as decreased arability of farmland, decreased habitability of land, and decreased availability of fresh water.
+
+(4) 
+
+Transition risks
+
+are the actual or potential negative impacts on a registrant's consolidated financial statements, business operations, or value chains attributable to regulatory, technological, and market changes to address the mitigation of, or adaptation to, climate-related risks, such as increased costs attributable to changes in law or policy, reduced market demand for carbon-intensive products leading to decreased prices or profits for such products, the devaluation or abandonment of assets, risk of legal liability and litigation defense costs, competitive pressures associated with the adoption of new technologies, reputational impacts (including those stemming from a registrant's customers or business counterparties) that might trigger changes to market behavior, consumer preferences or behavior, and registrant behavior.
+
+(d) 
+
+Carbon dioxide equivalent
+
+(“CO2
+
+e”) means the common unit of measurement to indicate the global warming potential (“GWP”) of each greenhouse gas, expressed in terms of the GWP of one unit of carbon dioxide (“CO2
+
+”).
+
+(e) 
+
+Emission factor
+
+means a multiplication factor allowing actual GHG emissions to be calculated from available activity data or, if no activity data is available, economic data, to derive absolute GHG emissions. Examples of activity data include kilowatt-hours of electricity used, quantity of fuel used, output of a process, hours of operation of equipment, distance travelled, and floor area of a building.
+
+(f) 
+
+Global warming potential
+
+(“GWP”) means a factor describing the global warming impacts of different greenhouse gases. It is a measure of how much energy will be absorbed in the atmosphere over a specified period of time as a result of the emission of one ton of a greenhouse gas, relative to the emissions of one ton of carbon dioxide (CO2).
+
+(g) 
+
+Greenhouse gases
+
+(“GHG”) means carbon dioxide (CO2), methane (“CH4
+
+”), nitrous oxide (“N2
+
+O”), nitrogen trifluoride (“NF3
+
+”), hydrofluorocarbons (“HFCs”), perfluorocarbons (“PFCs”), and sulfur hexafluoride (“SF6
+
+”).
+
+(h) 
+
+GHG emissions
+
+means direct and indirect emissions of greenhouse gases expressed in metric tons of carbon dioxide equivalent (CO2
+
+e), of which:
+
+(1) Direct emissions are GHG emissions from sources that are owned or controlled by a registrant.
+
+(2) Indirect emissions are GHG emissions that result from the activities of the registrant, but occur at sources not owned or controlled by the registrant.
+
+(i) 
+
+GHG intensity
+
+(or 
+
+carbon intensity
+
+) means a ratio that expresses the impact of GHG emissions per unit of economic value (
+
+e.g.,
+
+metric tons of CO2
+
+e per unit of total revenues, using the registrant's reporting currency) or per unit of production (
+
+e.g.,
+
+metric tons of CO2
+
+e per product produced).
+
+(j) 
+
+Internal carbon price
+
+means an estimated cost of carbon emissions used internally within an organization.
+
+(k) 
+
+Location
+
+means a ZIP code or, in a jurisdiction that does not use ZIP codes, a similar subnational postal zone or geographic location.
+
+(l) 
+
+Operational boundaries
+
+means the boundaries that determine the direct and indirect emissions associated with the business operations owned or controlled by a registrant.
+
+(m) 
+
+Organizational boundaries
+
+means the boundaries that determine the operations owned or controlled by a registrant for the purpose of calculating its GHG emissions.
+
+(n) 
+
+Renewable energy credit or certificate
+
+(“
+
+REC”
+
+) means a credit or certificate representing each megawatt-hour (1 MWh or 1,000 kilowatt-hours) of renewable electricity generated and delivered to a power grid.
+
+(o) 
+
+Scenario analysis
+
+means a process for identifying and assessing a potential range of outcomes of various possible future climate scenarios, and how climate-related risks may impact a registrant's operations, business strategy, and consolidated financial statements over time. For example, registrants might use scenario analysis to test the resilience of their strategies under certain future climate scenarios, such as those that assume global temperature increases of 3 °C, 2 °C, and 1.5 °C above pre-industrial levels.
+
+(p) 
+
+Scope 1 emissions
+
+are direct GHG emissions from operations that are owned or controlled by a registrant.
+
+(q) 
+
+Scope 2 emissions
+
+are indirect GHG emissions from the generation of purchased or acquired electricity, steam, heat, or cooling that is consumed by operations owned or controlled by a registrant.
+
+(r) 
+
+Scope 3 emissions
+
+are all indirect GHG emissions not otherwise included in a registrant's Scope 2 emissions, which occur in the upstream and downstream activities of a registrant's value chain.
+
+(1) Upstream activities in which Scope 3 emissions might occur include:
+
+(i) A registrant's purchased goods and services;
+
+(ii) A registrant's capital goods;
+
+(iii) A registrant's fuel and energy related activities not included in Scope 1 or Scope 2 emissions;
+
+(iv) Transportation and distribution of purchased goods, raw materials, and other inputs;
+
+(v) Waste generated in a registrant's operations;
+
+(vi) Business travel by a registrant's employees;
+
+(vii) Employee commuting by a registrant's employees; and
+
+(viii) A registrant's leased assets related principally to purchased or acquired goods or services.
+
+(2) Downstream activities in which Scope 3 emissions might occur include:
+
+(i) Transportation and distribution of a registrant's sold products, goods or other outputs;
+
+(ii) Processing by a third party of a registrant's sold products;
+
+(iii) Use by a third party of a registrant's sold products;
+
+(iv) End-of-life treatment by a third party of a registrant's sold products;
+
+(v) A registrant's leased assets related principally to the sale or disposition of goods or services;
+
+(vi) A registrant's franchises; and
+
+(vii) Investments by a registrant.
+
+(s) 
+
+Transition plan
+
+means a registrant's strategy and implementation plan to reduce climate-related risks, which may include a plan to reduce its GHG emissions in line with its own commitments or commitments of jurisdictions within which it has significant operations.
+
+(t) 
+
+Value chain
+
+means the upstream and downstream activities related to a registrant's operations. Upstream activities in connection with a value chain may include activities by a party other than the registrant that relate to the initial stages of a registrant's production of a good or service (
+
+e.g.,
+
+materials sourcing, materials processing, and supplier activities). Downstream activities in connection with a value chain may include activities by a party other than the registrant that relate to processing materials into a finished product and delivering it or providing a service to the end user (
+
+e.g.,
+
+transportation and distribution, processing of sold products, use of sold products, end of life treatment of sold products, and investments).
+
+§ 229.1501 
+
+(Item 1501) Governance.
+
+(a)(1) Describe the board of director's oversight of climate-related risks. Include the following, as applicable:
+
+(i) The identity of any board members or board committee responsible for the oversight of climate-related risks;
+
+(ii) Whether any member of the board of directors has expertise in climate-related risks, with disclosure in such detail as necessary to fully describe the nature of the expertise;
+
+(iii) The processes by which the board of directors or board committee discusses climate-related risks, including how the board is informed about climate-related risks, and the frequency of such discussion;
+
+(iv) Whether and how the board of directors or board committee considers climate-related risks as part of its business strategy, risk management, and financial oversight; and
+
+(v) Whether and how the board of directors sets climate-related targets or goals, and how it oversees progress against those targets or goals, including the establishment of any interim targets or goals.
+
+(2) If applicable, a registrant may also describe the board of director's oversight of climate-related opportunities.
+
+(b)(1) Describe management's role in assessing and managing climate-related risks. Include the following, as applicable:
+
+(i) Whether certain management positions or committees are responsible for assessing and managing climate-related risks and, if so, the identity of such positions or committees and the relevant expertise of the position holders or members in such detail as necessary to fully describe the nature of the expertise;
+
+(ii) The processes by which such positions or committees are informed about and monitor climate-related risks; and
+
+(iii) Whether and how frequently such positions or committees report to the board or a committee of the board on climate-related risks.
+
+(2) If applicable, a registrant may also describe management's role in assessing and managing climate-related opportunities.
+
+§ 229.1502 
+
+(Item 1502) Strategy, business model, and outlook.
+
+(a) Describe any climate-related risks reasonably likely to have a material impact on the registrant, including on its business or consolidated financial statements, which may manifest over the short, medium, and long term. If applicable, a registrant may also disclose the actual and potential impacts of any climate-related opportunities when responding to any of the provisions in this section.
+
+(1) Discuss such climate-related risks, specifying whether they are physical or transition risks and the nature of the risks presented.
+
+(i) For physical risks, describe the nature of the risk, including if it may be categorized as an acute or chronic risk, and the location and nature of the properties, processes, or operations subject to the physical risk.
+
+(A) If a risk concerns the flooding of buildings, plants, or properties located in flood hazard areas, disclose the percentage of those assets (square meters or acres) that are located in flood hazard areas in addition to their location.
+
+(B) If a risk concerns the location of assets in regions of high or extremely high water stress, disclose the amount of assets (
+
+e.g.,
+
+book value and as a percentage of total assets) located in those regions in addition to their location. Also disclose the percentage of the registrant's total water usage from water withdrawn in those regions.
+
+(ii) For transition risks, describe the nature of the risk, including whether it relates to regulatory, technological, market (including changing consumer, business counterparty, and investor preferences), liability, reputational, or other transition-related factors, and how those factors impact the registrant. A registrant that has significant operations in a jurisdiction that has made a GHG emissions reduction commitment may be exposed to transition risks related to the implementation of the commitment.
+
+(2) Describe how the registrant defines short-, medium-, and long-term time horizons, including how it takes into account or reassesses the expected useful life of the registrant's assets and the time horizons for the registrant's climate-related planning processes and goals.
+
+(b) Describe the actual and potential impacts of any climate-related risks identified in response to paragraph (a) of this section on the registrant's strategy, business model, and outlook.
+
+(1) Include impacts on the registrant's:
+
+(i) Business operations, including the types and locations of its operations;
+
+(ii) Products or services;
+
+(iii) Suppliers and other parties in its value chain;
+
+(iv) Activities to mitigate or adapt to climate-related risks, including adoption of new technologies or processes;
+
+(v) Expenditure for research and development; and
+
+(vi) Any other significant changes or impacts.
+
+(2) Include the time horizon for each described impact (
+
+i.e.,
+
+in the short, medium, or long term, as defined in response to paragraph (a) of this section).
+
+(c) Discuss whether and how any impacts described in response to paragraph (b) of this section are considered as part of the registrant's business strategy, financial planning, and capital allocation. Provide both current and forward-looking disclosures that facilitate an understanding of whether the implications of the identified climate-related risks have been integrated into the registrant's business model or strategy, including how any resources are being used to mitigate climate-related risks. Include in this discussion how any of the metrics referenced in § 210.14-02 of this chapter and § 229.1504 or any of the targets referenced in § 229.1506 relate to the registrant's business model or business strategy. If applicable, include in this discussion the role that carbon offsets or RECs play in the registrant's climate-related business strategy.
+
+(d) Provide a narrative discussion of whether and how any climate-related risks described in response to paragraph (a) of this section have affected or are reasonably likely to affect the registrant's consolidated financial statements. The discussion should include any of the climate-related metrics referenced in § 210.14-02 of this chapter that demonstrate that the identified climate-related risks have had a material impact on reported financial condition or operations.
+
+(e)(1) If a registrant maintains an internal carbon price, disclose:
+
+(i) The price in units of the registrant's reporting currency per metric ton of CO2
+
+e;
+
+(ii) The total price, including how the total price is estimated to change over time, if applicable;
+
+(iii) The boundaries for measurement of overall CO2
+
+e on which the total price is based if different from the GHG emission organizational boundary required pursuant to § 229.1504(e)(2); and
+
+(iv) The rationale for selecting the internal carbon price applied.
+
+(2) Describe how the registrant uses any internal carbon price described in response to paragraph (e)(1) of this section to evaluate and manage climate-related risks.
+
+(3) If a registrant uses more than one internal carbon price, it must provide the disclosures required by this section for each internal carbon price, and disclose its reasons for using different prices.
+
+(f) Describe the resilience of the registrant's business strategy in light of potential future changes in climate-related risks. Describe any analytical tools, such as scenario analysis, that the registrant uses to assess the impact of climate-related risks on its business and consolidated financial statements, and to support the resilience of its strategy and business model. If the registrant uses scenario analysis to assess the resilience of its business strategy to climate-related risks, disclose the scenarios considered (
+
+e.g.,
+
+an increase of no greater than 3 °C, 2 °C, or 1.5 °C above pre-industrial levels), including parameters, assumptions, and analytical choices, and the projected principal financial impacts on the registrant's business strategy under each scenario. The disclosure should include both qualitative and quantitative information.
+
+§ 229.1503 
+
+(Item 1503) Risk management.
+
+(a) Describe any processes the registrant has for identifying, assessing, and managing climate-related risks. If applicable, a registrant may also describe any processes for identifying, assessing, and managing climate-related opportunities when responding to any of the provisions in this section.
+
+(1) When describing any processes for identifying and assessing climate-related risks, disclose, as applicable, how the registrant:
+
+(i) Determines the relative significance of climate-related risks compared to other risks;
+
+(ii) Considers existing or likely regulatory requirements or policies, such as GHG emissions limits, when identifying climate-related risks;
+
+(iii) Considers shifts in customer or counterparty preferences, technological changes, or changes in market prices in assessing potential transition risks; and
+
+(iv) Determines the materiality of climate-related risks, including how it assesses the potential scope and impact of an identified climate-related risk, such as the risks identified in response to § 229.1502.
+
+(2) When describing any processes for managing climate-related risks, disclose, as applicable, how the registrant:
+
+(i) Decides whether to mitigate, accept, or adapt to a particular risk;
+
+(ii) Prioritizes whether to address climate-related risks; and
+
+(iii) Determines how to mitigate any high priority risks.
+
+(b) Disclose whether and how any processes described in response to paragraph (a) of this section are integrated into the registrant's overall risk management system or processes. If a separate board or management committee is responsible for assessing and managing climate-related risks, a registrant should disclose how that committee interacts with the registrant's board or management committee governing risks.
+
+(c)(1) If the registrant has adopted a transition plan as part of its climate-related risk management strategy, describe the plan, including the relevant metrics and targets used to identify and manage any physical and transition risks. To allow for an understanding of the registrant's progress to meet the plan's targets or goals over time, a registrant must update its disclosure about the transition plan each fiscal year by describing the actions taken during the year to achieve the plan's targets or goals.
+
+(2) If the registrant has adopted a transition plan, discuss, as applicable:
+
+(i) How the registrant plans to mitigate or adapt to any identified physical risks, including but not limited to those concerning energy, land, or water use and management;
+
+(ii) How the registrant plans to mitigate or adapt to any identified transition risks, including the following:
+
+(A) Laws, regulations, or policies that:
+
+(
+
+1
+
+) Restrict GHG emissions or products with high GHG footprints, including emissions caps; or
+
+(
+
+2
+
+) Require the protection of high conservation value land or natural assets;
+
+(B) Imposition of a carbon price; and
+
+(C) Changing demands or preferences of consumers, investors, employees, and business counterparties.
+
+(3) If applicable, a registrant that has adopted a transition plan as part of its climate-related risk management strategy may also describe how it plans to achieve any identified climate-related opportunities, such as:
+
+(i) The production of products that may facilitate the transition to a lower carbon economy, such as low emission modes of transportation and supporting infrastructure;
+
+(ii) The generation or use of renewable power;
+
+(iii) The production or use of low waste, recycled, or other consumer products that require less carbon intensive production methods;
+
+(iv) The setting of conservation goals and targets that would help reduce GHG emissions; and
+
+(v) The provision of services related to any transition to a lower carbon economy.
+
+§ 229.1504 
+
+(Item 1504) GHG emissions metrics.
+
+(a) 
+
+General.
+
+Disclose a registrant's GHG emissions, as defined in § 229.1500(h), for its most recently completed fiscal year, and for the historical fiscal years included in its consolidated financial statements in the filing, to the extent such historical GHG emissions data is reasonably available.
+
+(1) For each required disclosure of a registrant's Scopes 1, 2, and 3 emissions, disclose the emissions both disaggregated by each constituent greenhouse gas, as specified in  § 229.1500(g), and in the aggregate, expressed in terms of CO2
+
+e.
+
+(2) When disclosing a registrant's Scopes 1, 2, and 3 emissions, exclude the impact of any purchased or generated offsets.
+
+(b) 
+
+Scopes 1 and 2 emissions.
+
+(1) Disclose the registrant's total Scope 1 emissions and total Scope 2 emissions separately after calculating them from all sources that are included in the registrant's organizational and operational boundaries.
+
+(2) When calculating emissions pursuant to paragraph (b)(1) of this section, a registrant may exclude emissions from investments that are not consolidated, are not proportionately consolidated, or that do not qualify for the equity method of accounting in the registrant's consolidated financial statements.
+
+(c) 
+
+Scope 3 emissions.
+
+(1) Disclose the registrant's total Scope 3 emissions if material. A registrant must also disclose its Scope 3 emissions if it has set a GHG emissions reduction target or goal that includes its Scope 3 emissions. Disclosure of a registrant's Scope 3 emissions must be separate from disclosure of its Scopes 1 and 2 emissions. If required to disclose Scope 3 emissions, identify the categories of upstream or downstream activities that have been included in the calculation of the Scope 3 emissions. If any category of Scope 3 emissions is significant to the registrant, identify all such categories and provide Scope 3 emissions data separately for them, together with the registrant's total Scope 3 emissions.
+
+(2) If required to disclose Scope 3 emissions, describe the data sources used to calculate the registrant's Scope 3 emissions, including the use of any of the following:
+
+(i) Emissions reported by parties in the registrant's value chain, and whether such reports were verified by the registrant or a third party, or unverified;
+
+(ii) Data concerning specific activities, as reported by parties in the registrant's value chain; and
+
+(iii) Data derived from economic studies, published databases, government statistics, industry associations, or other third-party sources outside of a registrant's value 
+
+chain, including industry averages of emissions, activities, or economic data.
+
+(3) A smaller reporting company, as defined by §§ 229.10(f)(1), 230.405, and 240.12b-2 of this chapter, is exempt from, and need not comply with, the disclosure requirements of this paragraph (c).
+
+(d) 
+
+GHG intensity.
+
+(1) Using the sum of Scope 1 and 2 emissions, disclose GHG intensity in terms of metric tons of CO2
+
+e per unit of total revenue (using the registrant's reporting currency) and per unit of production relevant to the registrant's industry for each fiscal year included in the consolidated financial statements. Disclose the basis for the unit of production used.
+
+(2) If Scope 3 emissions are otherwise disclosed, separately disclose GHG intensity using Scope 3 emissions only.
+
+(3) If a registrant has no revenue or unit of production for a fiscal year, it must disclose another financial measure of GHG intensity or another measure of GHG intensity per unit of economic output, as applicable, with an explanation of why the particular measure was used.
+
+(4) A registrant may also disclose other measures of GHG intensity, in addition to metric tons of CO2
+
+e per unit of total revenue (using the registrant's reporting currency) and per unit of production, if it includes an explanation of why a particular measure was used and why the registrant believes such measure provides useful information to investors.
+
+(e) 
+
+Methodology and related instructions.
+
+(1) A registrant must describe the methodology, significant inputs, and significant assumptions used to calculate its GHG emissions. The description of the registrant's methodology must include the registrant's organizational boundaries, operational boundaries (including any approach to categorization of emissions and emissions sources), calculation approach (including any emission factors used and the source of the emission factors), and any calculation tools used to calculate the GHG emissions. A registrant's description of its approach to categorization of emissions and emissions sources should explain how it determined the emissions to include as direct emissions, for the purpose of calculating its Scope 1 emissions, and indirect emissions, for the purpose of calculating its Scope 2 emissions.
+
+(2) The organizational boundary and any determination of whether a registrant owns or controls a particular source for GHG emissions must be consistent with the scope of entities, operations, assets, and other holdings within its business organization as those included in, and based upon the same set of accounting principles applicable to, the registrant's consolidated financial statements.
+
+(3) A registrant must use the same organizational boundaries when calculating its Scope 1 emissions and Scope 2 emissions. If required to disclose Scope 3 emissions, a registrant must also apply the same organizational boundaries used when determining its Scopes 1 and 2 emissions as an initial step in identifying the sources of indirect emissions from activities in its value chain over which it lacks ownership and control and which must be included in the calculation of its Scope 3 emissions. Once a registrant has determined its organizational and operational boundaries, a registrant must be consistent in its use of those boundaries when calculating its GHG emissions.
+
+(4) A registrant may use reasonable estimates when disclosing its GHG emissions as long as it also describes the assumptions underlying, and its reasons for using, the estimates.
+
+(i) When disclosing its GHG emissions for its most recently completed fiscal year, if actual reported data is not reasonably available, a registrant may use a reasonable estimate of its GHG emissions for its fourth fiscal quarter, together with actual, determined GHG emissions data for the first three fiscal quarters, as long as the registrant promptly discloses in a subsequent filing any material difference between the estimate used and the actual, determined GHG emissions data for the fourth fiscal quarter.
+
+(ii) In addition to the use of reasonable estimates, a registrant may present its estimated Scope 3 emissions in terms of a range as long as it discloses its reasons for using the range and the underlying assumptions.
+
+(5) A registrant must disclose, to the extent material and as applicable, any use of third-party data when calculating its GHG emissions, regardless of the particular scope of emissions. When disclosing the use of third-party data, it must identify the source of such data and the process the registrant undertook to obtain and assess such data.
+
+(6) A registrant must disclose any material change to the methodology or assumptions underlying its GHG emissions disclosure from the previous fiscal year.
+
+(7) A registrant must disclose, to the extent material and as applicable, any gaps in the data required to calculate its GHG emissions. A registrant's GHG emissions disclosure should provide investors with a reasonably complete understanding of the registrant's GHG emissions in each scope of emissions. If a registrant discloses any data gaps encountered when calculating its GHG emissions, it must also discuss whether it used proxy data or another method to address such gaps, and how its accounting for any data gaps has affected the accuracy or completeness of its GHG emissions disclosure.
+
+(8) When determining whether its Scope 3 emissions are material, and when disclosing those emissions, in addition to emissions from activities in its value chain, a registrant must include GHG emissions from outsourced activities that it previously conducted as part of its own operations, as reflected in the financial statements for the periods covered in the filing.
+
+(9) If required to disclose Scope 3 emissions, when calculating those emissions, if there was any significant overlap in the categories of activities producing the Scope 3 emissions, a registrant must describe the overlap, how it accounted for the overlap, and the effect on its disclosed total Scope 3 emissions.
+
+(f) 
+
+Liability for Scope 3 emissions disclosures.
+
+(1) A statement within the coverage of paragraph (f)(2) of this section that is made by or on behalf of a registrant is deemed not to be a fraudulent statement (as defined in paragraph (f)(3) of this section), unless it is shown that such statement was made or reaffirmed without a reasonable basis or was disclosed other than in good faith.
+
+(2) This paragraph (f) applies to any statement regarding Scope 3 emissions that is disclosed pursuant to §§ 229.1500 through 229.1506 and made in a document filed with the Commission.
+
+(3) For the purpose of this paragraph (f), the term fraudulent statement shall mean a statement that is an untrue statement of material fact, a statement false or misleading with respect to any material fact, an omission to state a material fact necessary to make a statement not misleading, or that constitutes the employment of a manipulative, deceptive, or fraudulent device, contrivance, scheme, transaction, act, practice, course of business, or an artifice to defraud as those terms are used in the Securities Act of 1933 or the Securities Exchange Act of 1934 or the rules or regulations promulgated thereunder.
+
+§ 229.1505 
+
+Attestation of Scope 1 and Scope 2 emissions disclosure.
+
+(a) 
+
+Attestation.
+
+(1) A registrant that is required to provide Scope 1 and Scope 2 emissions disclosure pursuant to 
+
+§ 229.1504 and that is an accelerated filer or a large accelerated filer must include an attestation report covering such disclosure in the relevant filing. For filings made by an accelerated filer or a large accelerated filer for the second and third fiscal years after the compliance date for § 229.1504, the attestation engagement must, at a minimum, be at a limited assurance level and cover the registrant's Scope 1 and Scope 2 emissions disclosure. For filings made by an accelerated filer or large accelerated filer for the fourth fiscal year after the compliance date for § 229.1504 and thereafter, the attestation engagement must be at a reasonable assurance level and, at a minimum, cover the registrant's Scope 1 and Scope 2 emissions disclosures.
+
+(2) Any attestation report required under this section must be provided pursuant to standards that are publicly available at no cost and are established by a body or group that has followed due process procedures, including the broad distribution of the framework for public comment. An accelerated filer or a large accelerated filer obtaining voluntary assurance prior to the first required fiscal year must comply with subparagraph (e) of this section. Voluntary assurance obtained by an accelerated filer or a large accelerated filer thereafter must follow the requirements of paragraphs (b) through (d) of this section and must use the same attestation standard as the required assurance over Scope 1 and Scope 2.
+
+(b) 
+
+GHG emissions attestation provider.
+
+The GHG emissions attestation report required by paragraph (a) of this section must be prepared and signed by a GHG emissions attestation provider. A GHG emissions attestation provider means a person or a firm that has all of the following characteristics:
+
+(1) Is an expert in GHG emissions by virtue of having significant experience in measuring, analyzing, reporting, or attesting to GHG emissions. Significant experience means having sufficient competence and capabilities necessary to:
+
+(i) Perform engagements in accordance with professional standards and applicable legal and regulatory requirements; and
+
+(ii) Enable the service provider to issue reports that are appropriate under the circumstances.
+
+(2) Is independent with respect to the registrant, and any of its affiliates, for whom it is providing the attestation report, during the attestation and professional engagement period.
+
+(i) A GHG emissions attestation provider is not independent if such attestation provider is not, or a reasonable investor with knowledge of all relevant facts and circumstances would conclude that such attestation provider is not, capable of exercising objective and impartial judgment on all issues encompassed within the attestation provider's engagement.
+
+(ii) In determining whether a GHG emissions attestation provider is independent, the Commission will consider:
+
+(A) Whether a relationship or the provision of a service creates a mutual or conflicting interest between the attestation provider and the registrant (or any of its affiliates), places the attestation provider in the position of attesting such attestation provider's own work, results in the attestation provider acting as management or an employee of the registrant (or any of its affiliates), or places the attestation provider in a position of being an advocate for the registrant (or any of its affiliates); and
+
+(B) All relevant circumstances, including all financial or other relationships between the attestation provider and the registrant (or any of its affiliates), and not just those relating to reports filed with the Commission.
+
+(iii) The term “affiliates” as used in this section has the meaning provided in 17 CFR 210.2-01, except that references to “audit” are deemed to be references to the attestation services provided pursuant to this section.
+
+(iv) The term “attestation and professional engagement period” as used in this section means both:
+
+(A) The period covered by the attestation report; and
+
+(B) The period of the engagement to attest to the registrant's GHG emissions or to prepare a report filed with the Commission (“the professional engagement period”). The professional engagement period begins when the GHG attestation service provider either signs an initial engagement letter (or other agreement to attest a registrant's GHG emissions) or begins attest procedures, whichever is earlier.
+
+(c) 
+
+Attestation report requirements.
+
+The GHG emissions attestation report required by paragraph (a) of this section must be included in the separately captioned “Climate-Related Disclosure” section in the filing. The form and content of the attestation report must follow the requirements set forth by the attestation standard (or standards) used by the GHG emissions attestation provider. Notwithstanding the foregoing, at a minimum the report must include the following:
+
+(1) An identification or description of the subject matter or assertion being reported on, including the point in time or period of time to which the measurement or evaluation of the subject matter or assertion relates;
+
+(2) An identification of the criteria against which the subject matter was measured or evaluated;
+
+(3) A statement that identifies the level of assurance provided and describes the nature of the engagement;
+
+(4) A statement that identifies the attestation standard (or standards) used;
+
+(5) A statement that describes the registrant's responsibility to report on the subject matter or assertion being reported on;
+
+(6) A statement that describes the attestation provider's responsibilities in connection with the preparation of the attestation report;
+
+(7) A statement that the attestation provider is independent, as required by paragraph (a) of this section;
+
+(8) For a limited assurance engagement, a description of the work performed as a basis for the attestation provider's conclusion;
+
+(9) A statement that describes significant inherent limitations, if any, associated with the measurement or evaluation of the subject matter against the criteria;
+
+(10) The GHG emissions attestation provider's conclusion or opinion, based on the applicable attestation standard(s) used;
+
+(11) The signature of the attestation provider (whether by an individual or a person signing on behalf of the attestation provider's firm);
+
+(12) The city and state where the attestation report has been issued; and
+
+(13) The date of the report.
+
+(d) 
+
+Additional disclosures by the registrant.
+
+In addition to including the GHG emissions attestation report required by paragraph (a) of this section, a large accelerated filer and an accelerated filer must disclose the following information within the separately captioned “Climate-Related Disclosure” section in the filing, after requesting relevant information from any GHG emissions attestation provider as necessary:
+
+(1) Whether the attestation provider has a license from any licensing or accreditation body to provide assurance, and if so, identify the licensing or accreditation body, and whether the attestation provider is a member in good standing of that licensing or accreditation body;
+
+(2) Whether the GHG emissions attestation engagement is subject to any oversight inspection program, and if so, which program (or programs); and
+
+(3) Whether the attestation provider is subject to record-keeping requirements with respect to the work performed for 
+
+the GHG emissions attestation engagement and, if so, identify the record-keeping requirements and the duration of those requirements.
+
+(e) 
+
+Disclosure of voluntary attestation.
+
+A registrant that is not required to include a GHG emissions attestation report pursuant to paragraph (a) of this section must disclose within the separately captioned “Climate-Related Disclosure” section in the filing the following information if the registrant's GHG emissions disclosures were subject to third-party attestation or verification:
+
+(1) Identify the provider of such attestation or verification;
+
+(2) Describe the attestation or verification standard used;
+
+(3) Describe the level and scope of attestation or verification provided;
+
+(4) Briefly describe the results of the attestation or verification;
+
+(5) Disclose whether the third-party service provider has any other business relationships with or has provided any other professional services to the registrant that may lead to an impairment of the service provider's independence with respect to the registrant; and
+
+(6) Disclose any oversight inspection program to which the service provider is subject (
+
+e.g.,
+
+the AICPA's peer review program).
+
+§ 229.1506 
+
+(Item 1506) Targets and goals.
+
+(a)(1) A registrant must provide disclosure pursuant to this section if it has set any targets or goals related to the reduction of GHG emissions, or any other climate-related target or goal (
+
+e.g.,
+
+regarding energy usage, water usage, conservation or ecosystem restoration, or revenues from low-carbon products) such as actual or anticipated regulatory requirements, market constraints, or other goals established by a climate-related treaty, law, regulation, policy, or organization.
+
+(2) A registrant may provide the disclosure required by this section as part of its disclosure in response to § 229.1502 or § 229.1503.
+
+(b) If the registrant has set climate-related targets or goals, disclose the targets or goals, including, as applicable, a description of:
+
+(1) The scope of activities and emissions included in the target;
+
+(2) The unit of measurement, including whether the target is absolute or intensity based;
+
+(3) The defined time horizon by which the target is intended to be achieved, and whether the time horizon is consistent with one or more goals established by a climate-related treaty, law, regulation, policy, or organization;
+
+(4) The defined baseline time period and baseline emissions against which progress will be tracked with a consistent base year set for multiple targets;
+
+(5) Any interim targets set by the registrant; and
+
+(6) How the registrant intends to meet its climate-related targets or goals. For example, for a target or goal regarding net GHG emissions reduction, the discussion could include a strategy to increase energy efficiency, transition to lower carbon products, purchase carbon offsets or RECs, or engage in carbon removal and carbon storage.
+
+(c) Disclose relevant data to indicate whether the registrant is making progress toward meeting the target or goal and how such progress has been achieved. A registrant must update this disclosure each fiscal year by describing the actions taken during the year to achieve its targets or goals.
+
+(d) If carbon offsets or RECs have been used as part of a registrant's plan to achieve climate-related targets or goals, disclose the amount of carbon reduction represented by the offsets or the amount of generated renewable energy represented by the RECS, the source of the offsets or RECs, a description and location of the underlying projects, any registries or other authentication of the offsets or RECs, and the cost of the offsets or RECs.
+
+§ 229.1507 
+
+(Item 1507) Interactive data requirement.
+
+Provide the disclosure required by this Subpart 1500 in an Interactive Data File as required by § 232.405 of this chapter (Rule 405 of Regulation S-T) in accordance with the EDGAR Filer Manual.
+
+PART 232—REGULATION S-T—GENERAL RULES AND REGULATIONS FOR ELECTRONIC FILINGS
+
+6. The general authority citation for part 232 continues to read as follows: 
+
+Authority: 
+
+15 U.S.C. 77c, 77f, 77g, 77h, 77j, 77s(a), 77z-3, 77sss(a), 78c(b), 78
+
+l,
+
+78m, 78n, 78o(d), 78w(a), 78
+
+ll,
+
+80a-6(c), 80a-8, 80a-29, 80a-30, 80a-37, 7201 
+
+et seq.;
+
+and 18 U.S.C. 1350, unless otherwise noted.
+
+* * * * *
+
+7. Amend § 232.405 by adding paragraphs (b)(1)(iii), (b)(3)(i)(C), and (b)(4) as follows: 
+
+§ 232.405
+
+Interactive Data File submissions.
+
+* * * * *
+
+(b) * * *
+
+(1) * * *
+
+(iii) As applicable, the disclosure set forth in paragraph (4) of this section.
+
+* * * * *
+
+(3) * * *
+
+(i) * * *
+
+(C) The disclosure set forth in paragraph (4) of this section.
+
+(4) An Interactive Data File must consist of the disclosure provided under 17 CFR 229 (Regulation S-K) and related provisions that is required to be tagged, including, as applicable:
+
+(i) The climate-related information required by Subpart 1500 of Regulation S-K  (§§ 229.1500 through 229.1507 of this chapter).
+
+* * * * *
+
+PART 239—FORMS PRESCRIBED UNDER THE SECURITIES ACT OF 1933
+
+8. The general authority citation for part 239 continues to read as follows: 
+
+Authority: 
+
+15 U.S.C. 77c, 77f, 77g, 77h, 77j, 77s, 77z-2, 77z-3, 77sss, 78c, 78
+
+l,
+
+78m,78n, 78o(d), 78o-7 note, 78u-5, 78w(a), 78
+
+ll,
+
+78mm, 80a-2(a), 80a-3, 80a-8, 80a-9, 80a-10, 80a-13, 80a-24, 80a-26, 80a-29, 80a-30, and 80a-37; and sec. 107, Pub. L. 112-106, 126 Stat. 312, unless otherwise noted.
+
+* * * * *
+
+9. Amend Form S-1 (referenced in § 239.11) by adding Item 11(o) to Part I to read as follows: 
+
+Note: 
+
+The text of Form S-1 does not, and these amendments will not, appear in the Code of Federal Regulations.
+
+FORM S-1
+
+* * * * *
+
+PART I—INFORMATION REQUIRED IN PROSPECTUS
+
+* * * * *
+
+Item 11. Information With Respect to the Registrant.
+
+* * * * *
+
+(o) Information required by Subpart 1500 of Regulation S-K (17 CFR 229.1500 through 229.1507), in a part of the registration statement that is separately captioned as 
+
+Climate-Related Disclosure.
+
+Pursuant to Rule 411 (17 CFR 230.411) and General Instruction VII of this form, a registrant may incorporate by reference disclosure from other parts of the registration statement (
+
+e.g.,
+
+Risk Factors, Business, Management's Discussion and Analysis, or the financial statements) or from a separately filed annual report or other periodic report into the Climate-Related Disclosure item if it is responsive to the topics specified in Items 1500 through 1507 of Regulation S-K.
+
+* * * * *
+
+10. Amend Form S-11 (referenced in § 239.18) by adding Item 9 to Part I to read as follows: 
+
+Note:
+
+The text of Form S-11 does not, and these amendments will not, appear in the Code of Federal Regulations.
+
+FORM S-11
+
+* * * * *
+
+PART I. INFORMATION REQUIRED IN PROSPECTUS
+
+* * * * *
+
+Item 9. Climate-related disclosure. Provide the information required by Subpart 1500 of Regulation S-K (17 CFR 229.1500 through 229.1507), in a part of the registration statement that is separately captioned as 
+
+Climate-Related Disclosure.
+
+Pursuant to Rule 411 (17 CFR 230.411) and General Instruction H of this form, a registrant may incorporate by reference disclosure from other parts of the registration statement (
+
+e.g.,
+
+Risk Factors, Management's Discussion and Analysis, or the financial statements) or from a separately filed annual report or other periodic report into the Climate-Related Disclosure item if it is responsive to the topics specified in Items 1500 through 1507 of Regulation S-K.
+
+* * * * *
+
+11. Amend Form S-4 (referenced in § 239.25) by: 
+
+a. Adding paragraph (k) to Item 14 to Part I; and 
+
+b. Adding paragraph (b)(11) to Item 17 to Part I. 
+
+The additions read as follows:
+
+Note:
+
+The text of Form S-4 does not, and these amendments will not, appear in the Code of Federal Regulations.
+
+FORM S-4
+
+* * * * *
+
+PART I
+
+INFORMATION REQUIRED IN THE PROSPECTUS
+
+* * * * *
+
+Item 14. Information With Respect to Registrants Other Than S-3 Registrants.
+
+* * * * *
+
+(k) Information required by Subpart 1500 of Regulation S-K (17 CFR 229.1500 through 229.1507), in a part of the registration statement that is separately captioned as 
+
+Climate-Related Disclosure.
+
+Pursuant to Rule 411 (17 CFR 230.411) a registrant may incorporate by reference disclosure from other parts of the registration statement (
+
+e.g.,
+
+Risk Factors, Description of Business, Management's Discussion and Analysis, or the financial statements) into the Climate-Related Disclosure item if it is responsive to the topics specified in Items 1500 through 1507 of Regulation S-K.
+
+* * * * *
+
+Item 17. Information With Respect to Companies Other Than S-3 Companies.
+
+* * * * *
+
+(b) * * *
+
+(11) Information required by Items 1500-1507 of Regulation S-K (17 CFR 229.1500 through § 229.1507), in a part of the registration statement that is separately captioned as 
+
+Climate-Related Disclosure of Company Being Acquired.
+
+* * * * *
+
+12. Amend Form F-4 (referenced in § 239.34) by: 
+
+a. Adding paragraph (k) to Item 14 to Part I; and 
+
+b. Amending paragraph (3) to Item 17(b) to Part I. 
+
+The additions read as follows:
+
+Note: 
+
+The text of Form F-4 does not, and these amendments will not, appear in the Code of Federal Regulations.
+
+FORM F-4
+
+* * * * *
+
+PART I
+
+INFORMATION REQUIRED IN THE PROSPECTUS
+
+* * * * *
+
+Item 14. Information With Respect to Foreign Registrants Other Than F-3 Registrants.
+
+* * * * *
+
+(k) Item 3.E of Form 20-F, climate-related disclosure.
+
+* * * * *
+
+Item 17. Information With Respect to Foreign Companies Other Than F-3 Companies.
+
+* * * * *
+
+(b) * * *
+
+(3) Item 3.E of Form 20-F, climate-related disclosure;
+
+* * * * *
+
+PART 249—FORMS, SECURITIES EXCHANGE ACT OF 1934
+
+13. The authority citation for part 249 continues to read as follows: 
+
+Authority: 
+
+15 U.S.C. 78a 
+
+et seq.
+
+and 7201 
+
+et seq.;
+
+12 U.S.C. 5461 
+
+et seq.;
+
+18 U.S.C. 1350; Sec. 953(b) Pub. L. 111-203, 124 Stat. 1904; Sec. 102(a)(3) Pub. L. 112-106, 126 Stat. 309 (2012), Sec. 107 Pub. L. 112-106, 126 Stat. 313 (2012), Sec. 72001 Pub. L. 114-94, 129 Stat. 1312 (2015), and secs. 2 and 3 Pub. L. 116-222, 134 Stat. 1063 (2020), unless otherwise noted.
+
+* * * * *
+
+Section 249.220f is also issued under secs. 3(a), 202, 208, 302, 306(a), 401(a), 401(b), 406 and 407, Pub. L. 107-204, 116 Stat. 745, and secs. 2 and 3, Pub. L. 116-222, 134 Stat. 1063.
+
+Section 249.308a is also issued under secs. 3(a) and 302, Pub. L. 107-204, 116 Stat. 745.
+
+* * * * *
+
+Section 249.310 is also issued under secs. 3(a), 202, 208, 302, 406 and 407, Pub. L. 107-204, 116 Stat. 745.
+
+* * * * *
+
+14. Amend Form 10 (referenced in § 249.210) by adding Item 3.A (“Climate-Related Disclosure”) to read as follows: 
+
+Note: 
+
+The text of Form 10 does not, and these amendments will not, appear in the Code of Federal Regulations.
+
+FORM 10
+
+* * * * *
+
+Item 3.A Climate-Related Disclosure. Provide the information required by Subpart 1500 of Regulation S-K (17 CFR 229.1500 through 229.1507), in a part of the registration statement that is separately captioned as 
+
+Climate-Related Disclosure.
+
+Pursuant to Exchange Act Rule 12b-23 (17 CFR 240.12b-23) and General Instruction F of this form, a registrant may incorporate by reference disclosure from other parts of the registration statement (
+
+e.g.,
+
+Risk Factors, Business, Management's Discussion and Analysis, or the financial statements) into the Climate-Related Disclosure item if it is responsive to the topics specified in Item 1500 through 1507 of Regulation S-K.
+
+* * * * *
+
+15. Amend Form 20-F (referenced in § 249.220f) by adding Item 3.E (“Climate-related disclosure”) to Part I to read as follows: 
+
+Note:
+
+The text of Form 20-F does not, and these amendments will not, appear in the Code of Federal Regulations.
+
+FORM 20-F
+
+* * * * *
+
+PART I
+
+* * * * *
+
+Item 3. Key Information
+
+* * * * *
+
+E. Climate-Related Disclosure
+
+1. 
+
+Required disclosure.
+
+The company must provide disclosure responsive to the topics specified in Subpart 1500 of Regulation S-K (17 CFR 229.1500 through 229.1507) in a part of the registration statement or annual report that is separately captioned as 
+
+Climate-Related Disclosure.
+
+2. 
+
+Incorporation by reference.
+
+Pursuant to Rule 12b-23 (17 CFR 240.12b-23), the company may incorporate by reference disclosure from other parts of the registration statement 
+
+or annual report (
+
+e.g.,
+
+Risk Factors, Information on the Company, Operating and Financial Review and Prospects, or the financial statements) into the Climate-Related Disclosure item if it is responsive to the topics specified in Item 1500 through 1507 of Regulation S-K.
+
+* * * * *
+
+16. Amend Form 6-K (referenced in § 249.306) by adding the phrase “climate-related disclosure;” before the phrase “and any other information which the registrant deems of material importance to security holders.” in the second paragraph of General Instruction B. 
+
+17. Amend Form 10-Q (referenced in § 249.308a) by adding Item 1.B (“Climate-Related disclosure”) to Part II (“Other Information”) to read as follows: 
+
+Note:
+
+The text of Form 10-Q does not, and these amendments will not, appear in the Code of Federal Regulations.
+
+FORM 10-Q
+
+* * * * *
+
+Item 1B. Climate-Related Disclosure. Disclose any material changes to the disclosures provided in response to Item 6 (“Climate-related disclosure”) of Part II to the registrant's Form 10-K (17 CFR 229.310).
+
+* * * * *
+
+18. Amend Form 10-K (referenced in § 249.310) by: 
+
+a. Revising paragraph (1)(g) of General Instruction J (“Use of this Form by Asset-backed Issuers”); and 
+
+b. Adding Item 6 (“Climate-Related Disclosure”) to Part II to read as follows: 
+
+The revision and addition read as follows:
+
+Note: 
+
+The text of Form 10-K does not, and these amendments will not, appear in the Code of Federal Regulations.
+
+FORM 10-K
+
+* * * * *
+
+GENERAL INSTRUCTIONS
+
+* * * * *
+
+J. Use of This Form by Asset-Backed Issuers.
+
+* * * * *
+
+(1) * * *
+
+(g) Item 6, Climate-Related Disclosure;
+
+* * * * *
+
+Part II
+
+* * * * *
+
+Item 6. Climate-Related Disclosure
+
+Provide the disclosure required by Subpart 1500 of Regulation S-K (17 CFR 229.1500 through 229.1507) in a part of the annual report that is separately captioned as 
+
+Climate-Related Disclosure.
+
+Pursuant to Rule 12b-23 (17 CFR 240.12b-23) and General Instruction G of this form, a registrant may incorporate by reference disclosure from other parts of the registration statement or annual report (
+
+e.g.,
+
+Risk Factors, Business, Management's Discussion and Analysis, or the financial statements) into the Climate-Related Disclosure item if it is responsive to the topics specified in Item 1500 through 1507 of Regulation S-K.
+
+* * * * *
+
+By the Commission.
+
+Dated: March 21, 2022.
+
+Vanessa A. Countryman,
+
+Secretary.

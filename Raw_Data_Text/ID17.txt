@@ -1,0 +1,242 @@
+DIRECTIVE 2014/95/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+Article 1
+
+Amendments to Directive 2013/34/EU
+
+Directive 2013/34/EU is amended as follows:
+
+(1)
+
+The following Article is inserted:
+
+‘Article 19a
+
+Non-financial statement
+
+1.   Large undertakings which are public-interest entities exceeding on their balance sheet dates the criterion of the average number of 500 employees during the financial year shall include in the management report a non-financial statement containing information to the extent necessary for an understanding of the undertaking's development, performance, position and impact of its activity, relating to, as a minimum, environmental, social and employee matters, respect for human rights, anti-corruption and bribery matters, including:
+
+(a)
+
+a brief description of the undertaking's business model;
+
+(b)
+
+a description of the policies pursued by the undertaking in relation to those matters, including due diligence processes implemented;
+
+(c)
+
+the outcome of those policies;
+
+(d)
+
+the principal risks related to those matters linked to the undertaking's operations including, where relevant and proportionate, its business relationships, products or services which are likely to cause adverse impacts in those areas, and how the undertaking manages those risks;
+
+(e)
+
+non-financial key performance indicators relevant to the particular business.
+
+Where the undertaking does not pursue policies in relation to one or more of those matters, the non-financial statement shall provide a clear and reasoned explanation for not doing so.
+
+The non-financial statement referred to in the first subparagraph shall also, where appropriate, include references to, and additional explanations of, amounts reported in the annual financial statements.
+
+Member States may allow information relating to impending developments or matters in the course of negotiation to be omitted in exceptional cases where, in the duly justified opinion of the members of the administrative, management and supervisory bodies, acting within the competences assigned to them by national law and having collective responsibility for that opinion, the disclosure of such information would be seriously prejudicial to the commercial position of the undertaking, provided that such omission does not prevent a fair and balanced understanding of the undertaking's development, performance, position and impact of its activity.
+
+In requiring the disclosure of the information referred to in the first subparagraph, Member States shall provide that undertakings may rely on national, Union-based or international frameworks, and if they do so, undertakings shall specify which frameworks they have relied upon.
+
+2.   Undertakings fulfilling the obligation set out in paragraph 1 shall be deemed to have fulfilled the obligation relating to the analysis of non-financial information set out in the third subparagraph of Article 19(1).
+
+3.   An undertaking which is a subsidiary undertaking shall be exempted from the obligation set out in paragraph 1 if that undertaking and its subsidiary undertakings are included in the consolidated management report or the separate report of another undertaking, drawn up in accordance with Article 29 and this Article.
+
+4.   Where an undertaking prepares a separate report corresponding to the same financial year whether or not relying on national, Union-based or international frameworks and covering the information required for the non-financial statement as provided for in paragraph 1, Member States may exempt that undertaking from the obligation to prepare the non-financial statement laid down in paragraph 1, provided that such separate report:
+
+(a)
+
+is published together with the management report in accordance with Article 30; or
+
+(b)
+
+is made publicly available within a reasonable period of time, not exceeding six months after the balance sheet date, on the undertaking's website, and is referred to in the management report.
+
+Paragraph 2 shall apply mutatis mutandis to undertakings preparing a separate report as referred to in the first subparagraph of this paragraph.
+
+5.   Member States shall ensure that the statutory auditor or audit firm checks whether the non-financial statement referred to in paragraph 1 or the separate report referred to in paragraph 4 has been provided.
+
+6.   Member States may require that the information in the non-financial statement referred to in paragraph 1 or in the separate report referred to in paragraph 4 be verified by an independent assurance services provider.’
+
+.
+(2)
+
+Article 20 is amended as follows:
+
+(a)
+
+in paragraph 1, the following point is added:
+
+‘(g)
+
+a description of the diversity policy applied in relation to the undertaking's administrative, management and supervisory bodies with regard to aspects such as, for instance, age, gender, or educational and professional backgrounds, the objectives of that diversity policy, how it has been implemented and the results in the reporting period. If no such policy is applied, the statement shall contain an explanation as to why this is the case.’
+
+;
+
+(b)
+
+paragraph 3 is replaced by the following:
+
+‘3.   The statutory auditor or audit firm shall express an opinion in accordance with the second subparagraph of Article 34(1) regarding information prepared under points (c) and (d) of paragraph 1 of this Article and shall check that the information referred to in points (a), (b), (e), (f) and (g) of paragraph 1 of this Article has been provided.’
+
+;
+(c)
+
+paragraph 4 is replaced by the following:
+
+‘4.   Member States may exempt undertakings referred to in paragraph 1 which have only issued securities other than shares admitted to trading on a regulated market within the meaning of point (14) of Article 4(1) of Directive 2004/39/EC from the application of points (a), (b), (e), (f) and (g) of paragraph 1 of this Article, unless such undertakings have issued shares which are traded in a multilateral trading facility within the meaning of point (15) of Article 4(1) of Directive 2004/39/EC.’
+
+;
+(d)
+
+the following paragraph is added:
+
+‘5.   Notwithstanding Article 40, point (g) of paragraph 1 shall not apply to small and medium-sized undertakings.’
+
+.
+(3)
+
+The following Article is inserted:
+
+‘Article 29a
+
+Consolidated non-financial statement
+
+1.   Public-interest entities which are parent undertakings of a large group exceeding on its balance sheet dates, on a consolidated basis, the criterion of the average number of 500 employees during the financial year shall include in the consolidated management report a consolidated non-financial statement containing information to the extent necessary for an understanding of the group's development, performance, position and impact of its activity, relating to, as a minimum, environmental, social and employee matters, respect for human rights, anti-corruption and bribery matters, including:
+
+(a)
+
+a brief description of the group's business model;
+
+(b)
+
+a description of the policies pursued by the group in relation to those matters, including due diligence processes implemented;
+
+(c)
+
+the outcome of those policies;
+
+(d)
+
+the principal risks related to those matters linked to the group's operations including, where relevant and proportionate, its business relationships, products or services which are likely to cause adverse impacts in those areas, and how the group manages those risks;
+
+(e)
+
+non-financial key performance indicators relevant to the particular business.
+
+Where the group does not pursue policies in relation to one or more of those matters, the consolidated non-financial statement shall provide a clear and reasoned explanation for not doing so.
+
+The consolidated non-financial statement referred to in the first subparagraph shall also, where appropriate, include references to, and additional explanations of, amounts reported in the consolidated financial statements.
+
+Member States may allow information relating to impending developments or matters in the course of negotiation to be omitted in exceptional cases where, in the duly justified opinion of the members of the administrative, management and supervisory bodies, acting within the competences assigned to them by national law and having collective responsibility for that opinion, the disclosure of such information would be seriously prejudicial to the commercial position of the group, provided that such omission does not prevent a fair and balanced understanding of the group's development, performance, position and impact of its activity.
+
+In requiring the disclosure of the information referred to in the first subparagraph, Member States shall provide that the parent undertaking may rely on national, Union-based or international frameworks, and if it does so, the parent undertaking shall specify which frameworks it has relied upon.
+
+2.   A parent undertaking fulfilling the obligation set out in paragraph 1 shall be deemed to have fulfilled the obligation relating to the analysis of non-financial information set out in the third subparagraph of Article 19(1) and in Article 29.
+
+3.   A parent undertaking which is also a subsidiary undertaking shall be exempted from the obligation set out in paragraph 1 if that exempted parent undertaking and its subsidiaries are included in the consolidated management report or the separate report of another undertaking, drawn up in accordance with Article 29 and this Article.
+
+4.   Where a parent undertaking prepares a separate report corresponding to the same financial year, referring to the whole group, whether or not relying on national, Union-based or international frameworks and covering the information required for the consolidated non-financial statement as provided for in paragraph 1, Member States may exempt that parent undertaking from the obligation to prepare the consolidated non-financial statement laid down in paragraph 1, provided that such separate report:
+
+(a)
+
+is published together with the consolidated management report in accordance with Article 30; or
+
+(b)
+
+is made publicly available within a reasonable period of time, not exceeding six months after the balance sheet date, on the parent undertaking's website, and is referred to in the consolidated management report.
+
+Paragraph 2 shall apply mutatis mutandis to parent undertakings preparing a separate report as referred to in the first subparagraph of this paragraph.
+
+5.   Member States shall ensure that the statutory auditor or audit firm checks whether the consolidated non-financial statement referred to in paragraph 1 or the separate report referred to in paragraph 4 has been provided.
+
+6.   Member States may require that the information in the consolidated non-financial statement referred to in paragraph 1 or in the separate report referred to in paragraph 4 be verified by an independent assurance services provider.’
+
+.
+(4)
+
+In Article 33, paragraph 1 is replaced by the following:
+
+‘1.   Member States shall ensure that the members of the administrative, management and supervisory bodies of an undertaking, acting within the competences assigned to them by national law, have collective responsibility for ensuring that:
+
+(a)
+
+the annual financial statements, the management report, the corporate governance statement when provided separately and the report referred to in Article 19a(4); and
+
+(b)
+
+the consolidated financial statements, the consolidated management reports, the consolidated corporate governance statement when provided separately and the report referred to in Article 29a(4),
+
+are drawn up and published in accordance with the requirements of this Directive and, where applicable, with the international accounting standards adopted in accordance with Regulation (EC) No 1606/2002.’
+
+.
+(5)
+
+In Article 34, the following paragraph is added:
+
+‘3.   This Article shall not apply to the non-financial statement referred to in Article 19a(1) and the consolidated non-financial statement referred to in Article 29a(1) or to the separate reports referred to in Articles 19a(4) and 29a(4).’
+
+.
+(6)
+
+In Article 48, the following paragraph is inserted before the last paragraph:
+
+‘The report shall also consider, taking into account developments in the OECD and the results of related European initiatives, the possibility of introducing an obligation requiring large undertakings to produce on an annual basis a country-by-country report for each Member State and third country in which they operate, containing information on, as a minimum, profits made, taxes paid on profits and public subsidies received.’
+
+.
+Article 2
+
+Guidance on reporting
+
+The Commission shall prepare non-binding guidelines on methodology for reporting non-financial information, including non-financial key performance indicators, general and sectoral, with a view to facilitating relevant, useful and comparable disclosure of non-financial information by undertakings. In doing so, the Commission shall consult relevant stakeholders.
+
+The Commission shall publish the guidelines by 6 December 2016.
+
+Article 3
+
+Review
+
+The Commission shall submit a report to the European Parliament and to the Council on the implementation of this Directive, including, among other aspects, its scope, particularly as regards large non-listed undertakings, its effectiveness and the level of guidance and methods provided. The report shall be published by 6 December 2018 and shall be accompanied, if appropriate, by legislative proposals.
+
+Article 4
+
+Transposition
+
+1.   Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 6 December 2016. They shall immediately inform the Commission thereof.
+
+Member States shall provide that the provisions referred to in the first subparagraph are to apply to all undertakings within the scope of Article 1 for the financial year starting on 1 January 2017 or during the calendar year 2017.
+
+When Member States adopt those provisions, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.
+
+2.   Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+
+Article 5
+
+Entry into force
+
+This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+Article 6
+
+Addressees
+
+This Directive is addressed to the Member States.
+
+Done at Strasbourg, 22 October 2014.
+
+For the European Parliament
+
+The President
+
+M. SCHULZ
+
+For the Council
+
+The President
+
+B. DELLA VEDOVA

@@ -1,0 +1,973 @@
+SECURITIES AND EXCHANGE COMMISSION
+17 CFR PARTS 211, 231 and 241
+[Release Nos. 33-9106; 34-61469; FR-82]
+Commission Guidance Regarding Disclosure Related to Climate Change
+AGENCY: Securities and Exchange Commission.
+ACTION: Interpretation.
+SUMMARY: The Securities and Exchange Commission (“SEC” or “Commission”) is
+publishing this interpretive release to provide guidance to public companies regarding the
+Commission’s existing disclosure requirements as they apply to climate change matters.
+EFFECTIVE DATE: February 8, 2010.
+FOR FURTHER INFORMATION CONTACT: Questions about specific filings should be
+directed to staff members responsible for reviewing the documents the registrant files with the
+Commission. For general questions about this release, contact James R. Budge at (202) 551-
+3115 or Michael E. McTiernan, Office of Chief Counsel at (202) 551-3500, in the Division of
+Corporation Finance, U.S. Securities and Exchange Commission, 100 F Street, NE, Washington,
+DC 20549.
+SUPPLEMENTARY INFORMATION:
+I. Background and purpose of interpretive guidance
+A. Introduction
+Climate change has become a topic of intense public discussion in recent years.
+Scientists, government leaders, legislators, regulators, businesses, including insurance
+companies, investors, analysts and the public at large have expressed heightened interest in
+climate change. International accords, federal regulations, and state and local laws and
+
+
+
+
+
+
+
+
+
+
+regulations in the U.S. address concerns about the effects of greenhouse gas emissions on our
+environment,1
+ and international efforts to address the concerns on a global basis continue.2 The
+Environmental Protection Agency is taking action to address climate change concerns,3
+ and
+Congress is considering climate change legislation.4
+ Some business leaders are increasingly
+recognizing the current and potential effects on their companies’ performance and operations,
+both positive and negative, that are associated with climate change and with efforts to reduce
+greenhouse gas emissions.5
+ Many companies are providing information to their peers and to the
+public about their carbon footprints and their efforts to reduce them.6
+1	 For a listing of state and local government laws and regulations in this field, see
+http://www.epa.gov/climatechange/wycd/stateandlocalgov/index.html. Two significant international accords
+related to this topic are the Kyoto Protocol, which was adopted in Kyoto, Japan, on December 11, 1997 and
+became effective on February 16, 2005, and the European Union Emissions Trading System (EU ETS), which
+was launched as an international “cap and trade” system of allowances for emitting carbon dioxide and other
+greenhouse gases, built on the mechanisms set up under the Kyoto Protocol. See
+http://unfccc.int/kyoto_protocol/items/2830.php and
+http://ec.europa.eu/environment/climat/pdf/brochures/ets_en.pdf for a more detailed discussion of the Kyoto
+Protocol and EU ETS, respectively.
+2	 For example, in December 2009, Copenhagen, Denmark hosted the United Nations Climate Change
+Conference.
+3	 See e.g., Current and Near-Term Greenhouse Gas Reduction Initiatives, available at
+www.epa.gov/climatechange/policy/neartermghgreduction.html, for a discussion of EPA initiatives as well as
+other federal initiatives.
+4	 See e.g., American Clean Energy and Security Act of 2009, H.R.2454, 111th Cong., 1st Sess. (2009), passed
+by the House of Representatives on June 26, 2009, and Clean Energy Jobs and American Power Act of 2009,
+S. 1733, 111th Cong., 1st Session (2009), introduced in the Senate September 30, 2009.
+5	 See Appendix F to the Petition for Interpretive Guidance on Climate Risk Disclosure submitted September 18,
+2007, File No. 4-547, for a sampling of comments by business leaders relating to climate change regulation
+and disclosure, available at http://www.sec.gov/rules/petitions/2007/petn4-547.pdf.
+6	 Companies are assessing and reporting on their greenhouse gas emissions and other climate change related
+matters using standards and guidelines promulgated by organizations with specific expertise in the field.
+Three such organizations are the Climate Registry, the Carbon Disclosure Project and the Global Reporting
+Initiative. We discuss this in more detail below.
+2
+
+
+
+
+
+
+
+
+
+This release outlines our views with respect to our existing disclosure requirements as
+they apply to climate change matters. This guidance is intended to assist companies in satisfying
+their disclosure obligations under the federal securities laws and regulations.
+B. Background
+1. Recent regulatory, legislative and other developments
+In the last several years, a number of state and local governments have enacted legislation
+and regulations that result in greater regulation of greenhouse gas emissions.7
+ Climate change
+related legislation is currently pending in Congress. The House of Representatives has approved
+one version of a bill,8
+ and a similar bill was introduced in the Senate in the fall of 2009.9 This
+legislation, if enacted, would limit and reduce greenhouse gas emissions through a “cap and
+trade” system of allowances and credits, among other provisions.
+The Environmental Protection Agency has been taking steps to regulate greenhouse gas
+emissions. On January 1, 2010, the EPA began, for the first time, to require large emitters of
+greenhouse gases to collect and report data with respect to their greenhouse gas emissions.10
+This reporting requirement is expected to cover 85% of the nation’s greenhouse gas emissions
+7	 For example, in California, the Global Warming Solutions Act of 2006 and regulatory actions by the
+California Air Resources Board have resulted in restrictions on greenhouse gas emissions. In addition, state
+and regional programs, such as the Regional Greenhouse Gas Initiative (including ten Northeast and MidAtlantic states), the Western Climate Initiative (including seven Western states and four Canadian provinces)
+and the Midwestern Greenhouse Gas Reduction Accord (including six states and one Canadian province) have
+been developed to restrict greenhouse gas emissions. For a more detailed list of state action on climate
+change, see Pew Center on Global Climate Change, States News (available at
+http://www.pewclimate.org/states-regions/news?page=1).
+8	 See American Clean Energy and Security Act of 2009.
+9	 See Clean Energy Jobs and American Power Act of 2009.
+10	 See Mandatory Reporting of Greenhouse Gases, Docket No. EPA–HQ–OAR–2008–0508, 74 FR 56260
+(October 30, 2009).
+3
+
+
+
+
+
+
+
+
+generated by roughly 10,000 facilities.11 In December 2009, the EPA issued an “endangerment
+and cause or contribute finding” for greenhouse gases under the Clean Air Act, which will allow
+the EPA to craft rules that directly regulate greenhouse gas emissions.12
+Some members of the international community also have taken actions to address climate
+change issues on a global basis, and those actions can have a material impact on companies that
+report with the Commission. One such effort in the 1990s resulted in the Kyoto Protocol.
+Although the United States has never ratified the Kyoto Protocol, many registrants have
+operations outside of the United States that are subject to its standards.13 Another important
+international regulatory system is the European Union Emissions Trading System (EU ETS),
+which was launched as an international “cap and trade” system of allowances for emitting carbon
+dioxide and other greenhouse gases, based on mechanisms set up under the Kyoto Protocol.14 In
+addition, the United States government is participating in ongoing discussions with other nations,
+including the recent United Nations Climate Conference in Copenhagen, which may lead to
+future international treaties focused on remedying environmental damage caused by greenhouse
+11 See EPA Press Release “EPA Finalizes the Nation’s First Greenhouse Gas Reporting System / Monitoring to
+begin in 2010” dated September 22, 2009, available at
+http://yosemite.epa.gov/opa/admpress.nsf/d0cf6618525a9efb85257359003fb69d/194e412153fcffea852576390
+0530d75!OpenDocument.
+12	 Endangerment and Cause or Contribute Findings for Greenhouse Gases Under Section 202(a) of the Clean Air
+Act, Docket ID No. EPA-HQ-OAR-2009-0171, 74 FR 66496 (December 15, 2009). The Clean Air Act is
+found in 42 U.S.C. ch. 85.
+13	 One of the major features of the Kyoto Protocol is that it sets binding targets for industrialized countries for
+reducing greenhouse gas emissions. These amount to an average of five per cent against 1990 levels over the
+five-year period 2008-2012.
+14	 See n. 1, supra.
+4
+
+
+
+
+
+
+
+
+gas emissions. Those accords ultimately could have a material impact on registrants that file
+disclosure documents with the Commission.15
+The insurance industry is already adjusting to these developments. A 2008 study listed
+climate change as the number one risk facing the insurance industry.16 Reflecting this
+assessment, the National Association of Insurance Commissioners recently promulgated a
+uniform standard for mandatory disclosure by insurance companies to state regulators of
+financial risks due to climate change and actions taken to mitigate them.17 We understand that
+insurance companies are developing new actuarial models and designing new products to
+reshape coverage for green buildings, renewable energy, carbon risk management and directors’
+and officers’ liability, among other actions.18
+2. Potential impact of climate change related matters on public companies
+For some companies, the regulatory, legislative and other developments noted above
+could have a significant effect on operating and financial decisions, including those involving
+capital expenditures to reduce emissions and, for companies subject to “cap and trade” laws,
+15	 The terms of the Kyoto Protocol are set to expire in 2012. Ongoing international discussions, including the
+United Nations Climate Change Conference held in Copenhagen, Denmark in mid-December 2009, are
+intended to further develop a framework to carry on international greenhouse gas emission reduction standards
+beyond 2012.
+16	 Strategic business risk 2008 - Insurance , a report prepared by Ernst & Young and Oxford Analytica. See
+Ernst & Young press release dated March 12, 2008, available at http://www.ey.com/GL/en/Newsroom/Newsreleases/Media---Press-Release---Strategic-Risk-to-Insurance-Industry.
+17	 On March 17, 2009, the NAIC adopted a mandatory requirement that insurance companies disclose to
+regulators the financial risks they face from climate change, as well as actions the companies are taking to
+respond to those risks. All insurance companies with annual premiums of $500 million or more will be
+required to complete an Insurer Climate Risk Disclosure Survey every year, with an initial reporting deadline
+of May 1, 2010. The surveys must be submitted in the state where the insurance company is domesticated.
+See Insurance Regulators Adopt Climate Change Risk Disclosure, available at
+www.naic.org/Releases/2009_docs/climate_change_risk_disclosure_adopted.htm.
+18	 See Klein, Christopher, Climate Change, Part IV: (Re)insurance Industry response, May 28, 2009, available at
+www.gccapitalideas.com/2009/05/28/climate-change-part-iv-reinsurance-industry-response.
+5
+
+
+
+expenses related to purchasing allowances where reduction targets cannot be met. Companies
+that may not be directly affected by such developments could nonetheless be indirectly affected
+by changing prices for goods or services provided by companies that are directly affected and
+that seek to reflect some or all of their changes in costs of goods in the prices they charge. For
+example, if a supplier’s costs increase, that could have a significant impact on its customers if
+those costs are passed through, resulting in higher prices for customers. New trading markets for
+emission credits related to “cap and trade” programs that might be established under pending
+legislation, if adopted, could present new opportunities for investment. These markets also could
+allow companies that have more allowances than they need, or that can earn offset credits
+through their businesses, to raise revenue through selling these instruments into those markets.
+Some companies might suffer financially if these or similar bills are enacted by the Congress
+while others could benefit by taking advantage of new business opportunities.
+In addition to legislative, regulatory, business and market impacts related to climate
+change, there may be significant physical effects of climate change that have the potential to
+have a material effect on a registrant’s business and operations. These effects can impact a
+registrant’s personnel, physical assets, supply chain and distribution chain. They can include the
+impact of changes in weather patterns, such as increases in storm intensity, sea-level rise,
+melting of permafrost and temperature extremes on facilities or operations. Changes in the
+availability or quality of water, or other natural resources on which the registrant’s business
+depends, or damage to facilities or decreased efficiency of equipment can have material effects
+on companies.19 Physical changes associated with climate change can decrease consumer
+For one view of the anticipated business-related physical risks resulting from climate change, see Industry
+Update: Global Warming & the Insurance Industry -- Will Insurers Be Burned by the Climate Change
+Phenomenon?, available at http://www.aon.com/about-aon/intellectual-capital/attachments/riskservices/will_insurers_be_burned_by_the_climate_change_phenomenon.pdf. Another example of how
+6
+
+19
+
+
+
+
+
+
+
+20
+demand for products or services; for example, warmer temperatures could reduce demand for
+residential and commercial heating fuels, service and equipment.
+For some registrants, financial risks associated with climate change may arise from
+physical risks to entities other than the registrant itself. For example, climate change-related
+physical changes and hazards to coastal property can pose credit risks for banks whose borrowers
+are located in at-risk areas. Companies also may be dependent on suppliers that are impacted by
+climate change, such as companies that purchase agricultural products from farms adversely
+affected by droughts or floods.
+3. Current sources of climate change related disclosures regarding public companies
+There have been increasing calls for climate-related disclosures by shareholders of public
+companies. This is reflected in the several petitions for interpretive advice submitted by large
+institutional investors and other investor groups.20 The New York Attorney General’s Office
+physical risks attributable to climate change are changing business and risk assessments is the Federal
+Emergency Management Agency’s plan to update its risk mapping, assessment and planning to better reflect
+the effects of climate change, such as changing rainfall data, and hurricane patterns and intensities. See “Risk
+Mapping, Assessment, and Planning (Risk MAP): Fiscal Year 2009 Flood Mapping Production Plan,” Version
+1, May 2009, available at http://www.fema.gov/library/viewRecord.do?id=3680.
+See Petition for Interpretive Guidance on Climate Risk Disclosures, dated September 19, 2007, File No. 4-
+547, available at http://www.sec.gov/rules/petitions/2007/petn4-547.pdf; supplemental petition dated June 12,
+2008, available at http://www.sec.gov/rules/petitions/2008/petn4-547-supp.pdf; second supplemental petition
+dated November 23, 2009, available at http://www.sec.gov/rules/petitions/2009/petn4-547-supp.pdf. For other
+petitions on point, see also Petition for Interpretive Guidance on Business Risk of Global Warming
+Regulation, submitted on behalf of the Free Enterprise Action Fund on October 22, 2007, File Number 4-549,
+available at http://www.sec.gov/rules/petitions/2007/petn4-549.pdf. One petition urges the Commission to
+issue guidance warning companies not to include information on climate change that may be false and
+misleading; see Petition for Interpretive Guidance on Public Statements Concerning Global Warming and
+Other Environmental Issues, submitted on behalf of the Free Enterprise Action Fund on July 21, 2008, File
+No. 4-563, available at http://www.sec.gov/rules/petitions/2008/petn4-563.pdf. While not a formal petition,
+Ceres has provided the Commission with the results of a study it commissioned in conjunction with the
+Environmental Defense Fund regarding climate risk disclosure in SEC filings and suggests that the
+Commission issue guidance on this topic. See Climate Risk Disclosure in SEC Filings: An Analysis of 10-K
+Reporting by Oil and Gas, Insurance, Coal, and Transportation and Electric Power Companies, June 2009,
+available at http://www.ceres.org/Document.Doc?id=473.
+The Subcommittee on Securities, Insurance, and Investment of the Senate Committee on Banking, Housing,
+and Urban Development held a hearing on corporate disclosure of climate-related issues on October 31, 2007;
+representatives of signatories to the September 19, 2007 petition, among others, testified in that hearing. See
+7
+
+
+
+
+
+
+
+
+
+recently has entered into settlement agreements with three energy companies under its
+investigation regarding their disclosures about their greenhouse gas emissions and potential
+liabilities to the companies resulting from climate change and related regulation. The companies
+agreed in the settlement agreements to enhance their disclosures relating to climate change and
+greenhouse gas emissions in their annual reports filed with the Commission.21
+Although some information relating to greenhouse gas emissions and climate change is
+disclosed in SEC filings,22 much more information is publicly available outside of public
+company disclosure documents filed with the SEC as a result of voluntary disclosure initiatives
+or other regulatory requirements. For example, in addition to the disclosure requirements
+mandated in several states23 and the disclosure that the EPA began requiring at the start of 2010,
+The Climate Registry provides standards for and access to climate-related information. The
+“Climate Disclosure: Measuring Financial Risks and Opportunities,” available at
+http://banking.senate.gov/public/index.cfm?FuseAction=Hearings.Hearing&Hearing_ID=ed7a4968-1019-
+411d-9a22-c193c6b689ea. Following the hearing, Senators Christopher Dodd and Jack Reed wrote to
+Chairman Christopher Cox urging the Commission to issue guidance regarding climate disclosure. See
+http://dodd.senate.gov/multimedia/2007/120607_CoxLetter.pdf.
+21	 For information about the settlement agreements, see the New York Attorney General’s Office press releases
+relating to: Xcel Energy, available at http://www.oag.state.ny.us/media_center/2008/aug/aug27a_08.html;
+Dynegy Inc., available at http://www.oag.state.ny.us/media_center/2008/oct/oct23a_08.html; and AES
+Corporation, available at http://www.oag.state.ny.us/media_center/2009/nov/nov19a_09.html.
+22	 For example, in the electric utility industry, we have been informed by the Edison Electric Institute that 95%
+of the member companies it recently surveyed reported that they included at least some disclosure related to
+greenhouse gas emissions in their SEC filings, with 34% discussing quantities of greenhouse gases emitted
+and 23% discussing costs of climate-related compliance. Registrants include this type of disclosure in the risk
+factors, business description, legal proceedings, executive compensation, MD&A and financial statements
+sections of their annual reports. The Edison Electric Institute is an association of U.S. shareholder-owned
+electric companies. Their members serve 95 percent of the customers in the shareholder-owned segment of
+the industry, and represent approximately 70 percent of the U.S. electric power industry. The EEI also
+has more than 80 international electric companies as affiliate members, and nearly 200 industry suppliers and
+related organizations as associate members. The EEI described the results of its survey in a presentation to
+staff members of the Division of Corporation Finance.
+23	 State requirements include CO2 emissions disclosure requirements for electricity providers, greenhouse gas
+registries for reporting of entity emissions levels and emissions changes, and required reporting of greenhouse
+gas emissions. For a discussion of specific state requirements, see
+http://epa.gov/climatechange/wycd/stateandlocalgov/state_reporting.html.
+8
+
+
+
+
+
+
+
+
+Registry is a non-profit collaboration among North American states, provinces, territories and
+native sovereign nations that sets standards to calculate, verify and publicly report greenhouse
+gas emissions into a single public registry. The Registry supports both voluntary and statemandated reporting programs and provides data regarding greenhouse gas emissions.24
+The Carbon Disclosure Project collects and distributes climate change information, both
+quantitative (emissions amounts) and qualitative (risks and opportunities), on behalf of 475
+institutional investors.25 Over 2500 companies globally reported to the Carbon Disclosure
+Project in 2009; over 500 of those companies were U.S. companies. Sixty-eight percent of the
+companies that responded to the Carbon Disclosure Project’s investor requests for information
+made their reports available to the public.26
+The Global Reporting Initiative has developed a widely used sustainability reporting
+framework.27 That framework is developed by GRI participants drawn from business, labor and
+professional institutions worldwide. The GRI framework sets out principles and indicators that
+organizations can use to measure and report their economic, environmental, and social
+performance, including issues involving climate change. Sustainability reports based on the GRI
+framework are used to benchmark performance with respect to laws, norms, codes, performance
+standards and voluntary initiatives, demonstrate organizational commitment to sustainable
+development, and compare organizational performance over time.
+24 The Climate Registry’s Web site is at www.theclimateregistry.org. Reports are publicly available through
+their Web site at no charge. See http://www.theclimateregistry.org/resources/climate-registry-informationsystem-cris/public-reports/.
+25 The Carbon Disclosure Project’s Web site is at www.cdproject.net.
+26 These figures were provided to the Commission staff by representatives of the Carbon Disclosure Project.
+27 The GRI’s Web site is at www.globalreporting.org.
+9
+
+
+
+
+
+
+These and other reporting mechanisms can provide important information to investors
+outside of disclosure documents filed with the Commission. Although much of this reporting is
+provided voluntarily, registrants should be aware that some of the information they may be
+reporting pursuant to these mechanisms also may be required to be disclosed in filings made with
+the Commission pursuant to existing disclosure requirements.
+II. Historical background of SEC environmental disclosure
+The Commission first addressed disclosure of material environmental issues in the early
+1970s. The Commission issued an interpretive release stating that registrants should consider
+disclosing in their SEC filings the financial impact of compliance with environmental laws,
+based on the materiality of the information.28 Throughout the 1970s, the Commission continued
+to explore the need for specific rules mandating disclosure of information relating to litigation
+and other business costs arising out of compliance with federal, state and local laws that regulate
+the discharge of materials into the environment or otherwise relate to the protection of the
+environment. These topics were the subject of several rulemaking efforts, extensive litigation,
+and public hearings, all of which resulted in the rules that now specifically address disclosure of
+environmental issues.29 The Commission adopted these rules, which we discuss below, in final
+and current form in 1982, after a decade of evaluation and experience with the subject matter.30
+Earlier, beginning in 1968, we began to develop and fine-tune our requirements for
+management to discuss and analyze their company's financial condition and results of operations
+28 Release No. 33-5170 (July 19, 1971) [36 FR 13989].
+29 See Interpretive Release No. 33-6130 (September 27, 1979) [44 FR 56924] (the “1979 Release”), which
+includes a brief summary of the legal and administrative actions taken with regard to environmental disclosure
+during the 1970s. More information relating to the Commission's efforts in this area is chronicled in Release
+No. 33-6315 (May 4, 1981) [46 FR 25638].
+30 Release No. 33-6383 (March 3, 1982) [47 FR 11380].
+10
+
+
+
+
+
+
+
+
+
+in disclosure documents filed with the Commission.31 During the 1970s and 1980s, materiality
+standards for disclosure under the federal securities laws also were more fully articulated.32
+Those standards provide that information is material if there is a substantial likelihood that a
+reasonable investor would consider it important in deciding how to vote or make an investment
+decision, or, put another way, if the information would alter the total mix of available
+information.33 In the articulation of the materiality standards, it was recognized that doubts as to
+materiality of information would be commonplace, but that, particularly in view of the
+prophylactic purpose of the securities laws and the fact that disclosure is within management's
+control, “it is appropriate that these doubts be resolved in favor of those the statute is designed to
+protect.”34 With these developments, registrants had clearer guidance about what they should
+disclose in their filings.
+More recently, the Commission reviewed its full disclosure program relating to
+environmental disclosures in SEC filings in connection with a Government Accountability
+Office review.35 The Commission also has had the opportunity to consider the thoughtful
+31	 See Release No. 33-6835 (May 18, 1989) [54 FR 22427] (the “1989 Release”) and Release No. 33-8350
+(December 19, 2003) [68 FR 75055] (the “2003 Release”) for detailed histories of Commission releases that
+outline the background of, and interpret, our MD&A rules.
+32	 See TSC Industries, Inc. v. Northway, Inc., 426 U.S. 438 (1976) (adopting a standard for materiality in
+connection with proxy statement disclosures supported by the Commission, see id. at n. 10) and Basic Inc. v.
+Levinson, 485 U.S. 224 (1988).
+33	 Basic at 231, quoting TSC Industries at 449.
+34	 TSC Industries at 448.
+35	 “Environmental Disclosure: SEC Should Explore Ways to Improve Tracking and Transparency of
+Information,” United States Government Accountability Office Report to Congressional Requesters, GAO-04-
+808 (July 2004). Eleven years before, at the request of the Chairman of the House Committee on Energy and
+Commerce, the GAO had prepared a report relating to environmental liability disclosure involving property
+and casualty insurers and Superfund cleanup costs. See “Environmental Liability: Property and Casualty
+Insurer Disclosure of Environmental Liabilities,” GAO/RCED-93-108 (June 1993), available at
+http://74.125.93.132/search?q=cache:tWeHLDHoIcUJ:www.gao.gov/cgi-bin/getrpt%3FGAO/RCED-93-
+108+GAO/RCED-93-108&cd=1&hl=en&ct=clnk&gl=us.
+11
+
+
+
+
+
+
+
+suggestions that many organizations have provided us recently about how the Commission could
+direct registrants to enhance their disclosure about climate change related matters.36
+III. Overview of rules requiring disclosure of climate change issues
+When a registrant is required to file a disclosure document with the Commission, the
+requisite form will largely refer to the disclosure requirements of Regulation S-K37 and
+Regulation S-X.38 Securities Act Rule 408 and Exchange Act Rule 12b-20 require a registrant to
+disclose, in addition to the information expressly required by Commission regulation, “such
+further material information, if any, as may be necessary to make the required statements, in light
+of the circumstances under which they are made, not misleading.”39 In this section, we briefly
+describe the most pertinent non-financial statement disclosure rules that may require disclosure
+related to climate change; in the following section, we discuss their application to disclosure of
+certain specific climate change related matters.
+A. Description of business.
+Item 101 of Regulation S-K requires a registrant to describe its business and that of its
+subsidiaries. The Item lists a variety of topics that a registrant must address in its disclosure
+documents, including disclosure about its form of organization, principal products and services,
+major customers, and competitive conditions. The disclosure requirements cover the registrant
+and, in many cases, each reportable segment about which financial information is presented in
+the financial statements. If the information is material to individual segments of the business, a
+registrant must identify the affected segments.
+36 See n. 20, supra.
+37 17 CFR Part 229.
+38 17 CFR Part 210.
+39 17 CFR 230.408 and 17 CFR 240.12b-20.
+12
+
+
+
+
+
+
+
+
+Item 101 expressly requires disclosure regarding certain costs of complying with
+environmental laws.40 In particular, Item 101(c)(1)(xii) states:
+Appropriate disclosure also shall be made as to the material effects that compliance with
+Federal, State and local provisions which have been enacted or adopted regulating the
+discharge of materials into the environment, or otherwise relating to the protection of the
+environment, may have upon the capital expenditures, earnings and competitive position
+of the registrant and its subsidiaries. The registrant shall disclose any material estimated
+capital expenditures for environmental control facilities for the remainder of its current
+fiscal year and its succeeding fiscal year and for such further periods as the registrant
+may deem material. 41
+A registrant meeting the definition of “smaller reporting company” may satisfy its
+disclosure obligation by providing information called for by Item 101(h). Item 101(h)(4)(xi)
+requires disclosure of the “costs and effects of compliance with environmental laws (federal,
+state and local).”42
+ B. Legal proceedings.
+Item 103 of Regulation S-K43 requires a registrant to briefly describe any material
+pending legal proceeding to which it or any of its subsidiaries is a party. A registrant also must
+describe material pending legal actions in which its property is the subject of the litigation.44 If a
+registrant is aware of similar actions contemplated by governmental authorities, Item 103
+40	 The Commission first addressed disclosure of material costs and other effects on business resulting from
+compliance with existing environmental law in its first environmental disclosure interpretive release in 1971.
+See Release 33-5170 (July 19, 1971) [36 FR 13989]. The Commission codified that interpretive position in
+the disclosure forms two years later. See Release 33-5386 (April 20, 1973) [38 FR 12100]. The Commission
+provided additional interpretive guidance in the 1979 Release. With some adjustments to reflect experience
+with the subject matter, the requirements were moved to Item 101 in 1982, and they have not changed since
+that time. See Release No. 33-6383 (March 3, 1982) [47 FR 11380].
+41	 17 CFR 229.101(c)(1)(xii).
+42	 17 CFR 229.101(h)(4)(xi).
+43	 17 CFR 229.103.
+44	 Id.
+13
+
+
+
+
+
+
+
+45
+requires disclosure of those proceedings as well. A registrant need not disclose ordinary routine
+litigation incidental to its business or other types of proceedings when the amount in controversy
+is below thresholds designated in this Item.
+Instruction 5 to Item 103 provides some specific requirements that apply to disclosure of
+certain environmental litigation.45 Instruction 5 states:
+Notwithstanding the foregoing, an administrative or judicial proceeding (including, for
+purposes of A and B of this Instruction, proceedings which present in large degree the
+same issues) arising under any Federal, State or local provisions that have been enacted
+or adopted regulating the discharge of materials into the environment or primary for the
+purpose of protecting the environment shall not be deemed "ordinary routine litigation
+incidental to the business" and shall be described if:
+(A) Such proceeding is material to the business or financial condition of the
+registrant;
+(B) Such proceeding involves primarily a claim for damages, or involves
+potential monetary sanctions, capital expenditures, deferred charges or
+charges to income and the amount involved, exclusive of interest and costs,
+exceeds 10 percent of the current assets of the registrant and its subsidiaries
+on a consolidated basis; or
+(C) A governmental authority is a party to such proceeding and such proceeding
+involves potential monetary sanctions, unless the registrant reasonably
+believes that such proceeding will result in no monetary sanctions, or in
+monetary sanctions, exclusive of interest and costs, of less than $100,000;
+provided, however, that such proceedings which are similar in nature may
+be grouped and described generically.
+Instruction 5 in its current form was the product of the Commission’s experience with environmental litigation
+disclosure. In 1973, we added provisions to the legal proceedings requirements of various disclosure forms
+singling out legal actions involving environmental matters. See Release No. 33-5386 (Apr. 20, 1973) [38 FR
+12100]. The new rules required disclosure of any pending legal proceeding arising under environmental laws
+if a governmental entity was involved in the proceeding, and any other legal proceeding arising under
+environmental laws unless it was not material, or if in a civil suit for damages, unless it involved less than
+10% of the current assets of the registrant on a consolidated basis. The Commission provided additional
+interpretive guidance regarding environmental litigation in the 1979 Release. When the Commission, in
+connection with its development of the integrated disclosure system, moved these rules out of various forms
+and into Item 103 of Regulation S-K, the Commission modified the requirements related to actions involving
+governmental authorities to allow registrants to omit disclosure of a proceeding if they reasonably believed the
+action would result in a monetary sanction of less than $100,000. See Release No. 33-6383 (Mar. 3, 1982) [47
+FR 11380]. At the time, the Commission noted that the reason for the revision was to address the problem that
+disclosure documents were being filled with descriptions of minor infractions that distracted from the other
+material disclosures included in the document.
+14
+
+
+
+
+
+
+
+C. Risk factors.
+Item 503(c) of Regulation S-K46 requires a registrant to provide where appropriate, under
+the heading “Risk Factors,” a discussion of the most significant factors that make an investment
+in the registrant speculative or risky. Item 503(c) specifies that risk factor disclosure should
+clearly state the risk and specify how the particular risk affects the particular registrant;
+registrants should not present risks that could apply to any issuer or any offering.47
+D. Management's discussion and analysis.
+Item 303 of Regulation S-K48 requires disclosure known as the Management's Discussion
+and Analysis of Financial Condition and Results of Operations, or MD&A. The MD&A
+requirements are intended to satisfy three principal objectives:
+• to provide a narrative explanation of a registrant's financial statements that enables
+investors to see the registrant through the eyes of management;
+• to enhance the overall financial disclosure and provide the context within which financial
+information should be analyzed; and
+• to provide information about the quality of, and potential variability of, a registrant's
+earnings and cash flow, so that investors can ascertain the likelihood that past
+performance is indicative of future performance.49
+MD&A disclosure should provide material historical and prospective textual disclosure enabling
+investors to assess the financial condition and results of operations of the registrant, with
+46 17 CFR 229.503(c).
+47 Id.
+48 17 CFR 229.303.
+49 2003 Release.
+15
+
+
+
+
+
+
+
+particular emphasis on the registrant's prospects for the future.50 Some of this information is
+itself non-financial in nature, but bears on registrants' financial condition and operating
+performance.
+The Commission has issued several releases providing guidance on MD&A disclosure,
+including on the general requirements of the item and its application to specific disclosure
+matters.51 Over the years, the flexible nature of this requirement has resulted in disclosures that
+keep pace with the evolving nature of business trends without the need to continuously amend
+the text of the rule. Nevertheless, we and our staff continue to have to remind registrants,
+through comments issued in the filing review process, public statements by staff and
+Commissioners and otherwise, that the disclosure provided in response to this requirement
+should be clear and communicate to shareholders management’s view of the company’s financial
+condition and prospects.52
+Item 303 includes a broad range of disclosure items that address the registrant's liquidity,
+capital resources and results of operations. Some of these provisions, such as the requirement to
+provide tabular disclosure of contractual obligations,53 clearly specify the disclosure required for
+compliance. But others instead identify principles and require management to apply the
+principles in the context of the registrant’s particular circumstances. For example, registrants
+must identify and disclose known trends, events, demands, commitments and uncertainties that
+50	 1989 Release.
+51	 See, e.g., the 2003 Release; Release No. 33-8182 (Jan. 28, 2003) [68 FR 5982]; Release No. 33-8056 (Jan. 22,
+2002) [67 FR 3746]; Release. No. 33-7558 (Jul. 29, 1998) [63 FR 41394]; and 1989 Release.
+52	 See, e.g., speech by Commissioner Cynthia A. Glassman to the Corporate Counsel Institute (Mar. 9, 2006)
+available at www.sec.gov/news/speech/spch030906cag.htm; and speech by Commissioner Elisse B. Walter to
+the Corporate Counsel Institute (Oct. 2, 2009) available at
+www.sec.gov/news/speech/2009/spch100209ebw.htm.
+53	 17 CFR 229.303(a)(5).
+16
+
+
+
+
+
+
+
+
+are reasonably likely54 to have a material effect on financial condition or operating performance.
+This disclosure should highlight issues that are reasonably likely to cause reported financial
+information not to be necessarily indicative of future operating performance or of future financial
+condition.55 Disclosure decisions concerning trends, demands, commitments, events, and
+uncertainties generally should involve the:
+• consideration of financial, operational and other information known to the registrant;
+• identification, based on this information, of known trends and uncertainties; and
+• assessment of whether these trends and uncertainties will have, or are reasonably likely
+to have, a material impact on the registrant's liquidity, capital resources or results of
+operations.56
+The Commission has not quantified, in Item 303 or otherwise, a specific future time
+period that must be considered in assessing the impact of a known trend, event or uncertainty
+that is reasonably likely to occur. As with any other judgment required by Item 303, the
+necessary time period will depend on a registrant’s particular circumstances and the particular
+trend, event or uncertainty under consideration. For example, a registrant considering its
+disclosure obligation with respect to its liquidity needs would have to consider the duration of its
+known capital requirements and the periods over which cash flows are managed in determining
+the time period of its disclosure regarding future capital sources.57 In addition, the time horizon
+of a known trend, event or uncertainty may be relevant to a registrant’s assessment of the
+54	 “Reasonably likely” is a lower disclosure standard than “more likely than not.” Release No. 33-8056 (Jan. 22,
+2002) [67 FR 3746].
+55	 2003 Release.
+56	 Id.
+57	 Id. at n.43.
+17
+
+
+
+
+
+
+materiality of the matter and whether or not the impact is reasonably likely. As with respect to
+other subjects of disclosure, materiality “with respect to contingent or speculative information or
+events . . . ‘will depend at any given time upon a balancing of both the indicated probability that
+the event will occur and the anticipated magnitude of the event in light of the totality of the
+company activity.’”58
+The nature of certain MD&A disclosure requirements places particular importance on a
+registrant’s materiality determinations. The Commission has recognized that the effectiveness of
+MD&A decreases with the accumulation of unnecessary detail or duplicative or uninformative
+disclosure that obscures material information.59 Registrants drafting MD&A disclosure should
+focus on material information and eliminate immaterial information that does not promote
+understanding of registrants’ financial condition, liquidity and capital resources, changes in
+financial condition and results of operations.60 While these materiality determinations may limit
+what is actually disclosed, they should not limit the information that management considers in
+making its determinations. Improvements in technology and communications in the last two
+decades have significantly increased the amount of financial and non-financial information that
+management has and should evaluate, as well as the speed with which management receives and
+is able to use information. While this should not necessarily result in increased MD&A
+disclosure, it does provide more information that may need to be considered in drafting MD&A
+disclosure. In identifying, discussing and analyzing known material trends and uncertainties,
+registrants are expected to consider all relevant information even if that information is not
+58 Basic at 238, quoting Texas Gulf Sulfur Co., 401 F. 2d 833 (2d Cir. 1968) at 849.
+59 2003 Release.
+60 Id.
+18
+
+
+
+
+
+
+
+required to be disclosed,61 and, as with any other disclosure judgments, they should consider
+whether they have sufficient disclosure controls and procedures to process this information.62
+Analyzing the materiality of known trends, events or uncertainties may be particularly
+challenging for registrants preparing MD&A disclosure. As the Commission explained in the
+1989 Release, when a trend, demand, commitment, event or uncertainty is known, “management
+must make two assessments:
+• Is the known trend, demand, commitment, event or uncertainty likely to come to
+fruition? If management determines that it is not reasonably likely to occur, no
+disclosure is required.
+• If management cannot make that determination, it must evaluate objectively the
+consequences of the known trend, demand, commitment, event or uncertainty, on the
+assumption that it will come to fruition. Disclosure is then required unless management
+determines that a material effect on the registrant's financial condition or results of
+operations is not reasonably likely to occur.”63
+61	 Id.
+62	 Pursuant to Exchange Act Rules 13a-15 and 15d-15, a company's principal executive officer and principal
+financial officer must make certifications regarding the maintenance and effectiveness of disclosure controls
+and procedures. These rules define “disclosure controls and procedures” as those controls and procedures
+designed to ensure that information required to be disclosed by the company in the reports that it files or
+submits under the Exchange Act is (1) “recorded, processed, summarized and reported, within the time periods
+specified in the Commission's rules and forms,” and (2) “accumulated and communicated to the company's
+management … as appropriate to allow timely decisions regarding required disclosure.” As we have stated
+before, a company’s disclosure controls and procedures should not be limited to disclosure specifically
+required, but should also ensure timely collection and evaluation of “information potentially subject to
+[required] disclosure,” “information that is relevant to an assessment of the need to disclose developments and
+risks that pertain to the [company’s] businesses,” and “information that must be evaluated in the context of the
+disclosure requirement of Exchange Act Rule 12b-20.” Release No. 33-8124 (Aug. 28, 2002) [67 FR 57276].
+63	 1989 Release.
+19
+
+
+
+
+
+
+Identifying and assessing known material trends and uncertainties generally will require
+registrants to consider a substantial amount of financial and non-financial information available
+to them, including information that itself may not be required to be disclosed.64
+Registrants should address, when material, the difficulties involved in assessing the effect
+of the amount and timing of uncertain events, and provide an indication of the time periods in
+which resolution of the uncertainties is anticipated.65 In accordance with Item 303(a), registrants
+must also disclose any other information a registrant believes is necessary to an understanding of
+its financial condition, changes in financial condition and results of operations.
+E. Foreign private issuers.
+The Securities Act and Exchange Act disclosure obligations of foreign private issuers are
+governed principally by Form 20-F's66 disclosure requirements and not those under Regulation
+S-K. However, most of the disclosure requirements applicable to domestic issuers under
+Regulation S-K that are most likely to require disclosure related to climate change have parallels
+under Form 20-F, although some of the requirements are not as prescriptive as the provisions
+applicable to domestic issuers. For example, the following provisions of Form 20-F may require
+a foreign private issuer to provide disclosure concerning climate change matters that are material
+to its business:
+• Item 3.D, which requires a foreign private issuer to disclose its material risks;
+• Item 4.B.8, which requires a foreign private issuer to describe the material effects of
+government regulation on its business and to identify the particular regulatory body;
+64
+65
+66
+2003 Release
+Id.
+17 CFR 249.220f.
+20
+
+
+
+
+• Item 4.D, which requires a foreign private issuer to describe any environmental issues
+that may affect the company’s utilization of its assets;
+• Item 5, which requires management’s explanation of factors that have affected the
+company’s financial condition and results of operations for the historical periods
+covered by the financial statements, and management’s assessment of factors and
+trends that are anticipated to have a material effect on the company’s financial
+condition and results of operations in future periods; and
+• Item 8.A.7, which requires a foreign private issuer to provide information on any legal
+or arbitration proceedings, including governmental proceedings, which may have, or
+have had in the recent past, significant effects on the company’s financial position or
+profitability.
+Forms F-167 and F-3,68 Securities Act registration statement forms for foreign private
+issuers, also require a foreign private issuer to provide the information, including risk factor
+disclosure, required under Regulation S-K Item 503.
+IV. Climate change related disclosures
+In the previous section we summarized a number of Commission rules and regulations
+that may be the source of a disclosure obligation for registrants under the federal securities laws.
+Depending on the facts and circumstances of a particular registrant, each of the items discussed
+above may require disclosure regarding the impact of climate change. The following topics are
+some of the ways climate change may trigger disclosure required by these rules and
+67 17 CFR 239.31.
+68 17 CFR 239.33.
+21
+
+
+
+regulations.69 These topics are examples of climate change related issues that a registrant may
+need to consider.
+A. Impact of legislation and regulation.
+As discussed above, there have been significant developments in federal and state
+legislation and regulation regarding climate change. These developments may trigger disclosure
+obligations under Commission rules and regulations, such as pursuant to Items 101, 103, 503(c)
+and 303 of Regulation S-K. With respect to existing federal, state and local provisions which
+relate to greenhouse gas emissions, Item 101 requires disclosure of any material estimated capital
+expenditures for environmental control facilities for the remainder of a registrant’s current fiscal
+year and its succeeding fiscal year and for such further periods as the registrant may deem
+material. Depending on a registrant’s particular circumstances, Item 503(c) may require risk
+factor disclosure regarding existing or pending legislation or regulation that relates to climate
+change. Registrants should consider specific risks they face as a result of climate change
+legislation or regulation and avoid generic risk factor disclosure that could apply to any
+company. For example, registrants that are particularly sensitive to greenhouse gas legislation or
+regulation, such as registrants in the energy sector, may face significantly different risks from
+climate change legislation or regulation compared to registrants that currently are reliant on
+products that emit greenhouse gases, such as registrants in the transportation sector.
+Item 303 requires registrants to assess whether any enacted climate change legislation or
+regulation is reasonably likely to have a material effect on the registrant’s financial condition or
+In addition to the Regulation S-K items discussed in this section, registrants must also consider any financial
+statement implications of climate change issues in accordance with applicable accounting standards, including
+Financial Accounting Standards Board (“FASB”) Accounting Standards Codification Topic 450,
+Contingencies, and FASB Accounting Standards Codification Topic 275, Risks and Uncertainties.
+22
+
+69
+
+
+
+
+
+results of operation.70 In the case of a known uncertainty, such as pending legislation or
+regulation, the analysis of whether disclosure is required in MD&A consists of two steps. First,
+management must evaluate whether the pending legislation or regulation is reasonably likely to
+be enacted. Unless management determines that it is not reasonably likely to be enacted, it must
+proceed on the assumption that the legislation or regulation will be enacted. Second,
+management must determine whether the legislation or regulation, if enacted, is reasonably likely
+to have a material effect on the registrant, its financial condition or results of operations. Unless
+management determines that a material effect is not reasonably likely,71 MD&A disclosure is
+required.72 In addition to disclosing the potential effect of pending legislation or regulation, the
+registrant would also have to consider disclosure, if material, of the difficulties involved in
+assessing the timing and effect of the pending legislation or regulation.73
+A registrant should not limit its evaluation of disclosure of a proposed law only to
+negative consequences. Changes in the law or in the business practices of some registrants in
+response to the law may provide new opportunities for registrants. For example, if a “cap and
+trade” type system is put in place, registrants may be able to profit from the sale of allowances if
+their emissions levels end up being below their emissions allotment. Likewise, those who are
+not covered by statutory emissions caps may be able to profit by selling offset credits they may
+qualify for under new legislation.
+70 See 1989 Release.
+71 Management should ensure that it has sufficient information regarding the registrant’s greenhouse gas
+emissions and other operational matters to evaluate the likelihood of a material effect arising from the subject
+legislation or regulation. See n. 62, supra.
+72 In 2003 we issued additional guidance with respect to how registrants could improve MD&A disclosure,
+including ideas about how to focus on material issues and how to present information in a more effective
+manner to be of more value to investors. See 2003 Release.
+23
+
+
+
+Examples of possible consequences of pending legislation and regulation related to
+climate change include:
+• Costs to purchase, or profits from sales of, allowances or credits under a “cap and trade”
+system;
+• Costs required to improve facilities and equipment to reduce emissions in order to
+comply with regulatory limits or to mitigate the financial consequences of a “cap and
+trade” regime; and
+• Changes to profit or loss arising from increased or decreased demand for goods and
+services produced by the registrant arising directly from legislation or regulation, and
+indirectly from changes in costs of goods sold.
+We reiterate that climate change regulation is a rapidly developing area. Registrants need
+to regularly assess their potential disclosure obligations given new developments.
+B. International accords.
+Registrants also should consider, and disclose when material, the impact on their business
+of treaties or international accords relating to climate change. We already have noted the Kyoto
+Protocol, the EU ETS and other international activities in connection with climate change
+remediation. The potential sources of disclosure obligations related to international accords are
+the same as those discussed above for U.S. climate change regulation. Registrants whose
+businesses are reasonably likely to be affected by such agreements should monitor the progress
+of any potential agreements and consider the possible impact in satisfying their disclosure
+obligations based on the MD&A and materiality principles previously outlined.
+See 2003 Release for a discussion of how companies should address, where material, the difficulties involved
+in assessing the effect of the amount and timing of uncertain events.
+24
+73
+
+
+
+C. Indirect consequences of regulation or business trends.
+Legal, technological, political and scientific developments regarding climate change may
+create new opportunities or risks for registrants. These developments may create demand for
+new products or services, or decrease demand for existing products or services. For example,
+possible indirect consequences or opportunities may include:
+• Decreased demand for goods that produce significant greenhouse gas emissions;
+• Increased demand for goods that result in lower emissions than competing products;74
+• Increased competition to develop innovative new products;
+• Increased demand for generation and transmission of energy from alternative energy
+sources; and
+• Decreased demand for services related to carbon based energy sources, such as drilling
+services or equipment maintenance services.
+These business trends or risks may be required to be disclosed as risk factors or in
+MD&A. In some cases, these developments could have a significant enough impact on a
+registrant’s business that disclosure may be required in its business description under Item 101.
+For example, a registrant that plans to reposition itself to take advantage of potential
+opportunities, such as through material acquisitions of plants or equipment, may be required by
+Item 101(a)(1) to disclose this shift in plan of operation. Registrants should consider their own
+particular facts and circumstances in evaluating the materiality of these opportunities and
+obligations.
+For example, recent legislation will ultimately phase out most traditional incandescent light bulbs. This has
+resulted in the acceleration of the development and marketing of compact fluorescent light bulbs. See Energy
+Independence and Security Act of 2007, Pub. L. No. 110-140, 121 Stat. 1492 (2007).
+25
+
+74
+
+
+
+
+Another example of a potential indirect risk from climate change that would need to be
+considered for risk factor disclosure is the impact on a registrant’s reputation. Depending on the
+nature of a registrant’s business and its sensitivity to public opinion, a registrant may have to
+consider whether the public’s perception of any publicly available data relating to its greenhouse
+gas emissions could expose it to potential adverse consequences to its business operations or
+financial condition resulting from reputational damage.
+D. Physical impacts of climate change.
+Significant physical effects of climate change, such as effects on the severity of weather
+(for example, floods or hurricanes), sea levels, the arability of farmland, and water availability
+and quality,75 have the potential to affect a registrant’s operations and results. For example,
+severe weather can cause catastrophic harm to physical plants and facilities and can disrupt
+manufacturing and distribution processes. A 2007 Government Accountability Office report
+states that 88% of all property losses paid by insurers between 1980 and 2005 were weatherrelated.76 As noted in the GAO report, severe weather can have a devastating effect on the
+financial condition of affected businesses. The GAO report cites a number of sources to support
+the view that severe weather scenarios will increase as a result of climate change brought on by
+an overabundance of greenhouse gases.
+Possible consequences of severe weather could include:
+75 See “Climate Change: Financial Risks to Federal and Private Insurers in Coming Decades Are Potentially
+Significant: U.S. Government Accountability Office Report to the Committee on Homeland Security and
+Governmental Affairs, U.S. Senate,” GAO-07-285 (March 2007).
+76 Id. at p.17.
+26
+
+
+
+
+
+
+
+
+
+
+• For registrants with operations concentrated on coastlines, property damage and
+disruptions to operations, including manufacturing operations or the transport of
+manufactured products;
+• Indirect financial and operational impacts from disruptions to the operations of major
+customers or suppliers from severe weather, such as hurricanes or floods;
+• Increased insurance claims and liabilities for insurance and reinsurance companies77;
+• Decreased agricultural production capacity in areas affected by drought or other
+weather-related changes; and
+•	 Increased insurance premiums and deductibles, or a decrease in the availability of
+coverage, for registrants with plants or operations in areas subject to severe weather.
+Registrants whose businesses may be vulnerable to severe weather or climate related
+events should consider disclosing material risks of, or consequences from, such events in their
+publicly filed disclosure documents.
+V. Conclusion
+This interpretive release is intended to remind companies of their obligations under
+existing federal securities laws and regulations to consider climate change and its consequences
+as they prepare disclosure documents to be filed with us and provided to investors. We will
+monitor the impact of this interpretive release on company filings as part of our ongoing
+disclosure review program. In addition, the Commission’s Investor Advisory Committee78 is
+77	 Many insurers already have plans in place to address the increased risks that may arise as a result of climate
+change, with many reducing their near-term catastrophic exposure in both reinsurance and primary insurance
+coverage along the Gulf Coast and the eastern seaboard. Id. at 32.
+78	 The Investor Advisory Committee was formed on June 3, 2009 to advise the Commission on matters of
+concern to investors in the securities markets, provide the Commission with investors’ perspectives on current,
+non-enforcement, regulatory issues and serve as a source of information and recommendations to the
+Commission regarding the Commission’s regulatory programs from the point of view of investors. See Press
+27
+
+
+considering climate change disclosure issues as part of its overall mandate to provide advice and
+recommendations to the Commission, and the Commission is planning to hold a public
+roundtable on disclosure regarding climate change matters in the spring of 2010. We will
+consider our experience with the disclosure review program together with any advice or
+recommendations made to us by the Investor Advisory Committee and information gained
+through the planned roundtable as we determine whether further guidance or rulemaking relating
+to climate change disclosure is necessary or appropriate in the public interest or for the
+protection of investors.
+VI. Codification Update
+The "Codification of Financial Reporting Policies" announced in Financial Reporting
+Release No. 1 (April 15, 1982) [47 FR 21028] is updated by adding new Section 501.15,
+captioned “Climate change related disclosures,” and under that caption including the text in
+Sections III and IV of this release.
+The Codification is a separate publication of the Commission. It will not be published in
+the Federal Register/Code of Federal Regulations.
+List of Subjects
+17 CFR Part 211
+Reporting and recordkeeping requirements, Securities.
+17 CFR Parts 231 and 241
+Securities.
+Release No. 2009-126, “SEC Announces Creation of Investor Advisory Committee,” available at
+http://www.sec.gov/news/press/2009/2009-126.htm.
+28
+Amendments to the Code of Federal Regulations
+For the reasons set forth above, the Commission is amending Title 17, Chapter II of the
+Code of Federal Regulations as set forth below:
+PART 211 -- INTERPRETATIONS RELATING TO FINANCIAL REPORTING MATTERS
+1. Part 211, Subpart A, is amended by adding Release No. FR-82 and the release date of
+February 2, 2010 to the list of interpretive releases.
+PART 231 -- INTERPRETATIVE RELEASES RELATING TO THE SECURITIES ACT
+OF 1933 AND GENERAL RULES AND REGULATIONS THEREUNDER
+2. Part 231 is amended by adding Release No. 33-9106 and the release date of
+February 2, 2010 to the list of interpretive releases.
+PART 241 -- INTERPRETATIVE RELEASES RELATING TO THE SECURITIES
+EXCHANGE ACT OF 1934 AND GENERAL RULES AND REGULATIONS
+THEREUNDER
+3. Part 241 is amended by adding Release No. 34-61469 and the release date of
+February 2, 2010 to the list of interpretive releases.
+By the Commission
+ Elizabeth M. Murphy
+Secretary
+Dated: February 2, 2010
+29
+ 

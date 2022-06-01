@@ -1,0 +1,1002 @@
+ESG Reporting Guide
+ESG REPORTING
+GUIDE FOR
+AUSTRALIAN
+COMPANIES
+2015
+ABOUT FSC
+The Financial Services Council (FSC) has over 115 members
+representing Australia’s retail and wholesale funds
+management businesses, superannuation funds, life insurers,
+financial advisory networks, licensed trustee companies and
+public trustees. The industry is responsible for investing more
+than $2.6 trillion on behalf of 11.5 million Australians. The pool
+of funds under management is larger than Australia’s GDP
+and the capitalisation of the Australian Securities Exchange
+and is the third largest pool of managed funds in the world.
+The Financial Services Council promotes best practice for the
+financial services industry by setting mandatory Standards
+for its members and providing Guidance Notes to assist in
+operational efficiency.
+ABOUT ACSI
+The Australian Council of Superannuation Investors (ACSI)
+represents 29 Australian superannuation funds and six major
+international pension funds with a combined $1.5 trillion under
+management.
+We help our members manage long-term investment risks, in
+the belief that companies with good ESG practices are, over time,
+more sustainable and provide better risk-adjusted returns. ACSI
+engages strongly and constructively with major listed companies
+on ESG issues; provides vital research, policy and voting advice
+for our members; and interacts with the regulators to ensure
+markets are focused on the long term benefits of investors.
+Our mission is to enhance the sustainable and enduring value of
+the retirement savings entrusted to our members.
+01.
+PAGE 04. Background
+PAGE 03. Welcome and introduction
+PAGE 04. 1. Why use the Guide?
+PAGE 07. 2. Getting started and following through
+PAGE 11. 3. Application of the Guide
+PAGE 18. 4. Conclusion
+PAGE 19. 5. Resources
+CONTENTS
+
+03.
+The Australian Council of Superannuation Investors
+(ACSI) and the Financial Services Council (FSC)
+are pleased to provide this update to the ESG
+Reporting Guide for Australian Companies.
+Investment managers (represented by the FSC) and
+asset owners (represented by ACSI) recognise that
+environmental, social and governance (ESG) factors are
+of vital importance to the financial performance of the
+companies in which they invest both in the short and long
+term.
+While there are a variety of ESG factors at play at any
+given time, it is unquestionable that many of these factors
+impact on the ability of companies and their investors to
+achieve sustainable growth and prosperity.
+Institutional investors and companies seek to find
+common ground to define the ways in which ESG factors
+influence their shared goals. They require a shared
+understanding of how to report on ESG factors and their
+financial materiality.
+This Guide has been updated for this purpose.
+Investors need accurate, timely and comparable information
+to identify and manage exposure to ESG investment risks.
+Such information assists investment managers to decide
+the selection and holding of stocks in their portfolios, and
+in their investable universe. This information also prompts
+investment managers, broker analysts and asset owners
+(principally superannuation funds) to constructively engage
+with companies on these matters.
+Companies need consistency in the information required
+by institutional investors, and for reporting obligations not
+to impose undue costs, competitive disadvantages or
+other commercial burdens.
+Recognising both perspectives, ACSI and the FSC
+have jointly updated this Guide to highlight the types
+of information needed by our member organisations to
+understand, price, analyse and manage ESG investment
+risks.
+This Guide is designed to complement the reporting
+requirements of other best practice guides such
+as the ASX Corporate Governance Principles and
+Recommendations, and the existing best practice guides
+issued by each of our Councils.
+We look forward to continuing improvements in ESG
+disclosure levels, consistency and quality of engagement
+between Australian companies and their institutional
+investors.
+WELCOME AND INTRODUCTION
+Louise Davidson
+CEO, ACSI
+Sally Loane
+CEO, FSC
+AUSTRALIAN COUNCIL OF
+SUPERANNUATION INVESTORS
+04.
+BACKGROUND
+In 2011 the Australian Council of Superannuation Investors (“ACSI”) and the Financial Services
+Council (“FSC”) published the first edition of the ESG Reporting Guide for Australian Companies
+(“The Guide”). The Guide was designed to help companies disclose environmental, social and
+governance (“ESG”) risks to investors in a consistent and comparable manner across different
+companies and sectors, giving investors and asset owners a fuller understanding of a company’s
+risk profile and future growth prospects.
+1. WHY USE THE GUIDE?
+Since the release of the first guide, ESG disclosure practices
+(both in Australia and overseas) have evolved significantly,
+due to growing recognition from investors, regulators and
+companies about the importance of disclosure of these
+issues. Of particular note:
+• In Australia, the ASX Corporate Governance
+Council Principles & Recommendations (3rd
+Edition), published in 2014 and taking effect from the
+first full financial year commencing on or after 1 July
+2014, includes a new Recommendation 7.4 explicitly
+requiring that:
+• At an international level, the Global Reporting
+Initiative (GRI) in 2013 released its fourth generation
+of reporting guidelines (“G4”), listing over 400
+indicators on corporate sustainability performance;
+• The International Integrated Reporting Council
+(IIRC) has issued its <IR> Framework, with many
+efforts still underway to harmonise this framework with
+traditional financial reporting, accounting standards and
+the like at the international level;
+• In the United States, the Sustainability Accounting
+Standards Board (SASB) has issued standards for
+45 industries in 6 sectors. By 2016, standards for
+more than 80 industries in 10 sectors will be available;
+• The Sustainable Stock Exchanges Initiative
+(SSE), co-convened by the UN-supported Principles
+for Responsible Investment, the United Nations
+Conference on Trade and Development, the United
+Nations Environment Programme Finance Initiative
+and the UN Global Compact, has launched its Model
+Guidance for exchanges to lay out the business case
+for reporting ESG information and basic principles to
+guide the reporting process.
+ While many companies have embraced GRI reporting
+over recent years, and some have begun to embrace
+the <IR> Framework as well, many other companies
+are still unsure of what ESG risks to disclose. This
+is especially so among newly-listed companies, and
+among those entering market indices such as the
+ASX200 or ASX300, which are commonly used
+as investment benchmarks by institutional investors
+and which generally entail an uplift in disclosure
+expectations of institutional investors. The Guide has
+been designed to help companies in these categories
+meet those investor expectations.
+ In 2015, according to recent research undertaken by
+ACSI, 13% of ASX200 companies still do not provide
+any meaningful reporting on sustainability factors,
+while a further 17% provide only a rudimentary level of
+disclosure.1
+ These results highlight the need for further
+practical guidance tailored for Australian companies
+and their investor needs, complementing the GRI, <IR>
+and other reporting frameworks.
+“A listed entity should disclose whether it
+has any material exposure to economic,
+environmental and social sustainability risks
+and, if it does, how it manages or intends to
+manage those risks”.
+1.1 Link with Existing Governance Guidance
+Detailed guidance relating to Australian listed
+companies’ corporate governance policies and
+practices is already contained in the ASX Corporate
+Governance Principles, as well as in ACSI’s regularlyupdated Governance Guidelines.2
+This Guide is not intended to replicate or replace anything in
+those existing documents relating to core governance issues
+such as board structure, diversity, executive remuneration
+and the like. Rather, this Guide specifically addresses
+institutional investors’ expectations regarding the disclosure
+of material company-specific ESG risks and opportunities,
+to a level sufficient for investors to fully understand, price
+and manage those risks and opportunities. The provision
+of this information will assist investors to better understand
+and compare company level information, and allow asset
+owners (such as superannuation funds) to engage more
+constructively with companies on ESG matters.
+In this way, the Guide is intended to complement and
+enhance the existing body of contemporary corporate
+governance best practice material in Australia. In particular,
+ACSI and FSC believe the Guide will be of assistance
+to listed companies in addressing the new disclosure
+requirements of Recommendation 7.4 of the ASX
+Principles, noted above.
+1.2 A Positive Step for Companies
+In addition to providing investors with a more comprehensive
+understanding of a company’s risk profile, disclosing
+this information is an opportunity for a company’s board
+and management to demonstrate strategic thinking for
+long-term financial sustainability that goes beyond the
+achievement of short-term financial targets. It is for these
+reasons we believe companies that provide insightful ESG
+disclosure can broaden their potential appeal to providers of
+long-term equity capital.
+ACSI and the FSC are confident that the views presented in
+the Guide will assist companies to streamline their reporting
+as well as reduce the volume of ad hoc information requests
+that are made by the investor community. Where applicable,
+the Guide draws upon various existing sources, including the:
+• Global Reporting Initiative3
+;
+• International Integrated Reporting Council Framework4
+;
+• Carbon Disclosure Project5
+;
+• International Corporate Governance Network6
+;
+• Global Framework for Climate Risk Disclosure7
+;
+• Sustainable Accounting Standards Board8
+; and
+• Sustainable Stock Exchanges Initiative.9
+These frameworks provide extensive information on
+particular aspects of ESG disclosure, and where appropriate,
+companies should be aiming to report against them.
+We recognise that many companies already publicly
+disclose ESG related information described in this
+Guide, and in many cases information over and above
+the minimum levels suggested. Those companies are
+not expected to disclose anything more (or less), but we
+do ask that they ensure that their information is readily
+accessible.
+1.3 Who does this Guide apply to?
+The Guide was created to provide a reporting guide
+for all Australian listed companies. We recognise that
+some companies, especially those at the smaller market
+capitalisation end of the market, may find full ESG
+disclosure to be a challenge at the beginning of their
+reporting journey. However, companies also need to be
+aware that the issues raised in the Guide are the base
+level of information that investment analysts require to
+make stock selection decisions. We encourage these
+companies to progressively embrace the principles of risk
+reporting as they meet their obligations under Principle 7
+of the ASX Corporate Governance Council Principles and
+Recommendations.
+1.4 How should it be applied?
+The format of reporting is at the discretion of the company.
+High quality reporting of ESG issues can come in a variety
+of forms. The investor bodies publishing this Guide are in
+no way seeking to impose uniform templates or disclosure
+‘checklists’ on companies. Companies should focus
+on providing quality, accurate, consistent and relevant
+information on their business operations. Any reporting
+should be easy to locate within a company’s communications
+such as in the annual report or on the company website.
+1.5 When do we expect to see this happen?
+Reporting on ESG risks and opportunities should ideally
+be released, at or around the time that the annual report
+is released and updated throughout the year via website
+disclosure as required. Where companies produce a
+sustainability report, we strongly encourage announcement
+of the release of their sustainability report to the ASX.
+1. ACSI (April 2015) Corporate Reporting in Australia, The Sustainability Reporting Journey, Disclosure of sustainability risks among S&P/ASX200 companies. Available at http://acsi.org.au/images/stories/
+ACSIDocuments/detailed_research_papers/Sustainability_Reporting_Journey_2015.Apr15.pdf
+2. New 2015 edition available at www.acsi,org.au
+3. See: https://www.globalreporting.org/Pages/default.aspx for information on the Global Reporting Initiative
+4. See: http://integratedreporting.org/ for information on the Integrated Reporting Council Framework
+5. See: https://www.cdp.net/login for information on the Carbon Disclosure Project
+6. See: https://www.icgn.org/ for information on the International Corporate Governance Network
+7. See: http://www.unepfi.org/fileadmin/documents/global_framework.pdf for the Global Framework for Climate Risk Disclosure
+8. See http://www.sasb.org/ for Sustainable Accounting Standards information
+9. See http://www.sseinitiative.org/exchanges-providing-guidance-on-sustainability-reporting/
+05.
+2.1 Define your business and operations
+Companies should clearly define their business and hence
+reporting boundaries in relation to included and excluded
+business entities (e.g. subsidiaries and JVs) and activities.
+In general, more comprehensive reporting encompassing
+the full geographical span of the company’s operations,
+subsidiary as well as parent entities, supply chain information
+and time-spans beyond the annual report period alone,
+are beneficial to investors. As highlighted by a number of
+recent examples, ESG risks that manifest in a company’s
+supply chain or excluded business entities can still have a
+material impact on shareholders.
+2.2 Identify your key stakeholders
+An important consideration for companies is to think
+through who their key stakeholders are and how they will
+engage with them and take their concerns and feedback
+into consideration. Stakeholders may include employees,
+customers, suppliers, distributors, community, unions,
+shareholders and governments. It is important to note that
+this Guide is designed to meet investor expectations. We
+recognise that companies have many other stakeholders.
+This Guide does not seek to address the reporting
+requirements of other stakeholders.
+2.3 Determine what is material
+Investors and asset owners strive to understand corporate
+business models and strategy, what underlies success,
+differentiates them from the competition and issues that
+could potentially lead to significant loss of shareholder
+value. Useful reporting seeks to identify, measure and
+disclose information (including ESG risks) which in
+turn informs investors and other stakeholders about
+the future sustainability and profitability of a company.
+While it is incumbent upon companies to identify material
+ESG risks or opportunities, engagement with stakeholders
+will be of benefit. A careful review of ESG risks will be
+required to assess which risks are impacting or will impact
+the business or supply chain and what that impact might be.
+Principle 7 of the ASX’s Corporate Governance Principles
+and Recommendations requires companies to disclose
+‘material’ risks or opportunities.
+ESG risks are material, where a reasonable person would
+consider the information to have an impact on a company’s
+valuation or the sustainability of its operations. The risk(s)
+could have an immediate or foreseeable impact on
+earnings, an impact on a balance sheet, or an impact on
+the sustainability of its operations. This is a useful approach
+to consider. More detailed guidance on materiality can be
+found in the GRI (G4) Implementation Manual10 and on the
+SASB website11.
+Thinking about the future business environment or impact of
+megatrends on your company may also help you to identify
+and determine material issues. Megatrends are major global
+societal and transformative forces that present material long
+or short term risks and opportunities to companies and their
+shareholders. These may include:
+• Ageing demographics;
+• Urbanisation;
+• Digitisation;
+• Cybersecurity;
+• Climate change;
+• Population growth;
+• Wealth distribution;
+• Water scarcity;
+• Material resource scarcity;
+• Ecosystem decline; and
+• Food security.
+Many investors are interested in identifying the long-term
+societal and environmental trends that are likely to affect
+the businesses in which they invest and understanding
+how the board views such issues. This is not about
+companies disclosing a forecast about their future value,
+but rather a discussion based on all available information
+and technology to hand at present, as it relates to scenario
+planning for the future. Investors want to understand what
+strategies companies have in place to face future business
+environments and how these will be managed.
+Materiality of ESG risks will vary greatly between companies.
+Companies are expected to report on indicators which are
+material to their business and strategy.
+10. See: https://www.globalreporting.org/resourcelibrary/GRIG4-Part2-Implementation-Manual.pdf for the GRI G4 Implementation Manual
+11. See http://www.sasb.org/materiality/sasb-materiality-map/ for the SASB Materiality MapTM visual tools
+2. GETTING STARTED AND
+FOLLOWING THROUGH
+06.
+07.
+2.4 Identify how to measure and report material risks
+Having established what ESG risks are material and
+therefore pursuant to ASX Principle 7.4 what disclosure is
+required, companies then need to consider how to measure
+and report the ESG risks and measures to manage them.
+Investors value good quality, accurate, consistent and
+relevant ESG information over volumes of marketing material.
+Qualitative information is important to capture company
+strategies, initiatives and understanding of ESG risks;
+however quantitative data is particularly useful. For example
+time series/trend data reported consistently year to year.
+With regard to quantitative reporting, should companies
+change ESG risk reporting methodology, the rationale for
+the change should be explained. Companies should provide
+current ESG information and targets, as well as report
+historical performance against previously-stated targets.
+The absence of generally accepted standards for
+measuring and presenting environmental, social and
+governance metrics creates challenges for investors in
+interpreting performance.
+Where they do exist, companies should follow
+generally accepted standards for measuring and
+presenting metrics. There are a number of mandated
+key performance indicators (KPI) that companies
+are required to report to regulators. For example on
+human capital to the Workplace Gender Equality
+Agency. Others include measurement of greenhouse
+gas and energy information in accordance with the
+Measurement Determination under the National
+Greenhouse and Energy Reporting Act 2007.
+Furthermore, understanding a company’s governance
+and accountability mechanisms concerning E and S
+issues provides investors with insight as to how the
+board and management prioritise such issues. A lack
+of disclosure on the governance of E and S issues may
+indicate a lack of understanding and awareness of how
+material E and S issues may affect the business.
+The following is an example of how an ESG disclosure on
+the risk of loss of human capital through a poor approach
+to diversity may appear in company reporting:
+Managing our greatest assets: our people
+We believe in our people and are interested in ensuring a workplace that enables good decision making, fosters
+innovation and high productivity. Strong diversity policies and practises are an important aspect of our approach to
+human capital management – to attract and retain high-quality employees is of vital importance to our business.
+How are we managing the gender diversity of our people?
+• The company’s Diversity Policy (provide link) encourages retention of female employees through a number
+of initiatives including flexible work arrangements, maternity leave, return-to-work financial incentives etc.
+• Performance against diversity targets is a performance metric in executive variable compensation (detail
+provided).
+• The Board has direct oversight over diversity through the following reporting line (detail provided).
+08.
+% of women in senior management
+% of women returning after maternity leave
+How are we tracking?
+30%
+25%
+20%
+25% Target
+Achieved
+Achieved
+15%
+10%
+5%
+0%
+0
+2005
+11%
+2005 2006 2005 2013 2007 2009 2014 2008 2012 2010 2011 2015 2016 2017
+2009
+14%
+2007
+12%
+2011
+15%
+2014
+17%
+2006
+11%
+2010
+15%
+2013
+17%
+2008
+13%
+2012
+17%
+2015
+18%
+30%
+25%
+20%
+15%
+10%
+5%
+35%
+40%
+ Target
+45%
+2.5 Report the framework and standards used to
+measure ESG risks
+Useful information for companies to disclose to investors in
+this regard includes:
+• Internal processes for identifying and reporting material
+ ESG risks, opportunities, targets or goals;
+• How such risks and opportunities are reported to
+ the Board, senior management and various internal
+ committees (e.g. Risk Oversight committees);
+• Decision-making frameworks on how material ESG risks
+ are managed;
+• Person(s) responsible or accountable for ESG related
+ issues within the business including at the Executive level
+ and/ or Board/ Committee level.
+2.5.1 Assurance
+Companies could consider disclosing information about
+internal assurance processes or consider independent
+external assurance to provide investors with a greater
+degree of comfort over the integrity of information disclosed.
+We review annually our “Disclosure on Sustainable
+Management” series of publications. These
+publications are prepared in accordance with the
+Global Reporting Initiative G4 guidelines.
+09.
+Companies should describe to investors and other
+stakeholders any standards that they have applied to
+determine materiality and in the preparation of ESG key
+metrics. Where an external standard has not been applied,
+companies should detail key definitions and assumptions
+used in metrics. A brief ‘basis of preparation’ explanation
+should be made available alongside the ESG risk
+disclosure. Example statement may include the following:
+This Guide broadly divides ESG issues between
+environmental, social and governance themes, for ease of
+illustrating what may be important for a company to report.
+Investors in putting this Guide together are looking
+for information on relevant, material investment risks.
+Hence reporting will vary significantly across sectors and
+companies. The descriptions of these themes and the
+metrics suggested for their assessment are not intended to
+be exhaustive. Rather, they represent a starting framework
+for identification and disclosure of ESG issues, upon which
+companies can build to develop a set of disclosures that
+reflects what is material for them. Although, we do
+not expect all companies to report on all factors, it
+is expected that, where material, companies make
+every effort to ensure the appropriate level of
+disclosures.
+Corporate governance is just as critical as the governance
+of environmental and social factors. Investors’ expectations
+with respect to Corporate Governance have already been
+comprehensively documented elsewhere. In particular,
+the ASX Corporate Governance Principles and ACSI’s
+Governance Guidelines provide good guidance. For
+completeness, this ESG Guide also refers to Corporate
+Governance as per below.
+3. APPLICATION OF THE GUIDE
+Environment
+• Environmental management
+• Climate change
+Social
+• Human capital management (including Occupational
+ Health and Safety)
+• Other stakeholder management
+Corporate Governance
+• Corporate Governance
+10.
+Resources
+ISO 14001 Environmental Management System Standard: www.iso.org
+Process Safety Leading and Lagging Metrics published by the Centre for Chemical Process Safety provides an excellent overview of metrics related to process safety
+http://www.aiche.org/uploadedFiles/CCPS/Metrics/CCPS_ProcessSafety_Metrics_2011_FINAL.pdf
+The Australian Government publishes a range of reports on water use and conservation initiatives at http://www.environment.gov.au/water/ including the Oct 2006 Water
+Efficiency Guide for use in building management. http://www.environment.gov.au/settlements/chemicals/hazardous-waste/index.html has more information on waste and
+recycling.
+Leading Reporter
+Orica’s 2014 Sustainability Report provides investors with details relating to:
+- Instances of non-compliance with environmental license conditions
+- Containment losses experienced
+- Number of process safety incidents
+See: http://www.orica.com/Sustainability#.VaNdv_mqpBc
+BHP Billiton 2014 Sustainability Report: see: http://www.bhpbilliton.com/home/society/reports/Pages/Roll%20up%20Pages/2014-BHP-Billiton-Sustainability-Report.aspx
+provides details of waste produced, recycled or sent to land fill. They also provide information on water recycled and re-used including targets for the future.
+Investors want to know:
+1. Track record of environmental incidents,
+ including information such as:
+• Fines and non-monetary sanctions for
+ non-compliance with environmental laws
+ and regulations;
+• Environmental provisions as reported on
+ the balance sheet;
+• Number and severity of breaches of
+ environmental license conditions;
+• Proportion of operations with ISO 14001
+ certification;
+• Process safety incident reporting.
+2. Policies and systems related to environmental
+management, commensurate with the
+circumstances (materiality) specific to the
+business. Considerations include:
+• Biodiversity impact management;
+• Water management;
+• Hazardous waste management;
+• Involvement in toxic materials.
+3. Environmental data, if the company has a
+significant environmental footprint or is exposed
+to material environmental risk or externality
+discussed above. For example:
+• Energy consumption information including
+renewables;
+• Water consumption; and
+• Waste production.
+Commonly reported indicators
+ENVIRONMENT
+Context – why is it important to investors?
+Operational activities which impact on the
+environment within a company’s supply chain,
+direct operations or products can have far
+reaching implications to shareholder value
+including:
+• Production disruptions as the incident is
+ investigated and new safeguards are put in
+ place;
+• Capital costs associated with remediation;
+• Compensation costs to affected
+ communities, business partners and
+ employees;
+• The impact on the company’s regulatory
+ and/or social license to operate – this can
+ manifest as reputational damage, operational
+ delays, product boycotts, new regulation, etc.
+Investors are also becoming increasingly
+aware of the potential negative impacts on a
+company’s social license to operate of long-term
+environmental externalities that result due to
+company operations, including the depletion
+of scarce resources (for example fresh water,
+arable land, etc.) and the disposal of future
+environmental waste.
+A company with significant environmental
+impact that demonstrates a lack of commitment,
+capacity or track record in the management of
+environmental considerations presents a higher
+risk for investors.
+Environmental management
+11.
+Reporting should be tailored to each business
+- pollution, water and other environmental
+considerations will be more relevant and
+material for certain sectors and businesses
+while investors will be less concerned with
+companies with a small current or anticipated
+environmental footprint.
+ENVIRONMENT
+Context – why is it important to investors?
+With many countries announcing targets to
+reduce carbon emissions to address climate
+change, the risk of climate change regulation
+impacting companies is only likely to grow.
+While the regulatory mechanisms (carbon price,
+emission abatement grants, “pollution” controls,
+etc.) to achieve emissions reductions may change
+over time, the long-term trend is clear.
+Clearly this risk (especially in the short and
+medium-term) is more relevant and material
+for certain sectors or companies, for example
+those heavily involved in fossil fuels. Therefore
+investors expect far greater disclosure from
+these companies on how these risks are being
+managed.
+However over the long-term many other indirect
+risks will impact a broader range of companies.
+For example over time consumption patterns
+will change in favour of low-carbon goods
+and services, leading to significant changes in
+industry structure. Also the physical effects of
+climate change such as changes in weather
+patterns, storm intensity and sea level rise may
+put assets at risk. We encourage all companies
+to consider these long-term trends as they apply
+to their business and disclose where a material
+risk exists.
+A company that fails to understand its carbon
+emissions, exposure to regulatory and other
+indirect impacts could risk:
+• Higher costs as the cost of complying with
+ carbon regulation increases;
+• Loss of market share as customers move to
+ low-emissions suppliers;
+• Damage to assets as the physical impacts of
+ climate change increase.
+Climate change
+Investors look for:
+1. Direct and indirect (for example product)
+carbon emissions (e.g. via the Carbon Disclosure
+Project - see resources below), other data
+and information to inform investors of each
+company’s risk
+2. Other indirect exposure to climate change
+risk – for example if major clients are involved in
+fossil fuels
+3. Measures to address these risks,
+commensurate with the relevance and
+materiality to each business; for example:
+• Opportunities to reduce carbon emissions and
+ energy use;
+• Steps to manage the physical risks from
+ climate change;
+• Measures to reduce indirect exposure
+ to climate change risk.
+Commonly reported indicators
+Resources
+The Carbon Disclosure Project provides a framework for reporting carbon emissions and climate change risk: www.cdproject.org
+The US Securities and Exchange Commission has published guidance on climate change disclosure: http://www.sec.gov/rules/interp/2010/33-9106.pdf
+The Global Reporting Initiative is a widely-used framework for sustainability reporting: www.globalreporting.org
+Leading reporter
+AGL Energy 2014 Sustainability Report: see: http://agl2014.sustainability-report.com.au/ publishes extensive equity-accounted data, see: http://agl2014.sustainability-report.
+com.au/data-centre/environment#tab-90 on its carbon emissions.
+12.
+SOCIAL
+Context – why is it important to investors?
+Human capital management (HCM) is central
+to execution of business strategy, expansion,
+innovation, and business continuity, and is
+therefore a key area of investor attention. Human
+capital is an intangible asset of every company
+that investment markets demonstrably ascribe
+a value to.
+For all companies, strong HCM controls and
+practices contribute to employee productivity
+and loyalty. In contrast poor HCM can lead to:
+• Failure to meet strategic objectives and
+ project targets;
+• Contribute to business disruption;
+• Poor morale, engagement and
+ sub-optimal productivity;
+• Inability to attract skills in tight labour
+ markets / loss of key talent;
+• Industrial disputation and poor employee
+ relations;
+• Encourage increased regulation or
+ regulator action; and
+• Reputational damage.
+Many companies face additional HCM risks that
+can impact shareholders even more acutely. In
+particular:
+• Workplace or Occupational Health and
+ Safety (OH&S) risks, both at project
+ and employee level – companies
+ employing workers or contractors in high-
+ risk occupations often have a higher cost
+ base in workers compensation premiums,
+ safety equipment, and safety processes,
+ and face (often severe) operational and
+ reputational damage for OH&S incidents
+ such as worker fatalities;
+• Labour and human rights – On the surface,
+ investment in companies with lower-cost
+ supply lines (for example products or
+ services sourced from low-income
+ countries or poorly paid domestic
+ workforces) represents an upside for
+ investors as a function of company cost
+ savings. Closer inspection reveals that
+ shareholders may be exposed to increased
+ risks from poor working conditions,
+ unacceptable OH&S and human rights
+ outcomes. These risks are principally
+ legislative, operational and reputational.
+ Adequate reporting of these risks is
+ important for investors in undertaking
+ cost-benefit assessments.
+Human capital management
+Investors look for evidence of the following:
+Qualitative indicators:
+• Board oversight of HCM;
+• Integration of HCM and people risks into
+ risk management processes;
+• Executive remuneration linked to
+ achievement of HCM objectives;
+• Policies and systems to encourage
+ employee satisfaction / engagement
+ outcomes, and key drivers of same -
+ diversity, anti-discrimination, flexible
+ working, training and development, etc.;
+• OH&S policies and systems (for all
+ companies);
+• Policies and systems to manage supply
+ chain issues (including contractors and
+ subcontractors).
+Quantitative indicators:
+• Voluntary turnover rates;
+• Employee engagement / satisfaction;
+• Rate of return from maternity/parental leave;
+• Professional development training data;
+• % women at Board and Senior
+ management levels;
+• Remuneration levels for male and female
+ employees;
+• OH&S performance indicators such as
+ injury fatalities, frequency rates, near
+ misses and severity indicators;
+• Results of supply chain audits.
+Commonly reported indicators
+Resources
+Global Reporting Initiative (Labour Practices and Decent Work). See: http://www.globalreporting.org
+Good Health and Safety Means Good Business (WorkSafe Australia 2006). See: www.worksafe.vic.gov.au/__data/assets/pdf_file/0004/21658/ohs_public_reporting.pdf
+AS/NZS 4801 is the Australian (and NZ) Standard for Occupational Health and Safety Management Systems. http://www.healthsafety.com.au/as4801/
+Safe Work Australia has many free resources and tools. See: http://www.safeworkaustralia.gov.au
+Australian Petroleum Production and Exploration Association Limited Safety Incident Reporting Guideline 2005 with edits in July 2013. See: http://www.appea.com.au/wpcontent/uploads/2013/04/APPEA-Safety-Incident Reporting-Guidelines-2005-with-edits-July-2013.pdf
+Leading reporters
+Downer EDI Ltd reports year on year indicator data on workplace health and safety, along with the absence of fines or prosecutions. Commentary provides insight into
+safety governance to enhance risk management, and the responsibilities of business leaders. Performance and the area for performance improvements going forward is
+discussed along with initiatives implemented which enhance business-specific risk management. See: http://www.downergroup.com/Resources/Documents/Sustainability/
+Reports/2014/2014-Sustainability-Report_FINAL.pdf
+National Australia Bank. Refer to NAB’s 2014 Dig Deeper Paper. See: http://cr.nab.com.au/download-centre
+13.
+SOCIAL
+Context – why is it important to investors?
+In addition to a company’s human capital, an
+absence of accountability to a company’s other
+key stakeholders (such as customers, suppliers,
+government, and the broader community) is
+being recognised by investors as a source of risk.
+This is central to a company’s ‘social license
+to operate’ – it is now widely established that
+corporations adhering to a narrow view of
+providing accountability only to shareholders
+risk loss of shareholder value. This is a broader
+obligation than a company and its officers simply
+complying with all relevant laws. A company’s
+social license is inextricably linked to its brand
+and reputation – intangible assets which all
+companies need to nurture and protect.
+By ignoring the stakeholder interests below,
+reputational and brand damage, product
+boycotts, new or increased regulatory hurdles or
+costs can result.
+Customers
+Product or service failings can inflict broader
+damage to a company beyond the direct financial
+impact of an initial loss of turnover. Measures
+to safeguard product/service quality should be
+critical to any business, however these risks can
+be more acute where:
+• Customers are vulnerable, disadvantaged,
+ or otherwise viewed as more susceptible
+ to product/service failings or poor company
+ conduct; and/or
+• A product or service is especially reputation-
+ sensitive, e.g. food, health care, financial
+ products/advice.
+‘B2B’ (business-to-business) companies are
+less exposed to this social license risk.
+Suppliers
+In seeking to maximise shareholder value,
+companies that exploit dominant market
+positions beyond what is legally and socially
+acceptable risk reputational damage and/or
+regulatory action to curb this misuse of market
+power. The social license risk to shareholders
+of exploiting suppliers is commensurate with
+the perceived vulnerability of the supplier, for
+example if smaller or otherwise disadvantaged
+relative to the company.
+Community stakeholders directly impacted by
+company operations
+Land owners/ occupiers and other community
+groups can be directly impacted by company
+operations. These groups have also become
+increasingly empowered with the help of NGOs
+and social media. Consequently it is now the
+norm for many companies to closely manage
+these risks.
+Other stakeholder accountability
+Tax
+Optimisation of company tax arrangements
+to maximise shareholder value may invite
+controversy if it involves persistently low effective
+tax rates and/or shifting earnings away from
+their point of origin. These companies should
+explain their approach to managing this trade-off
+between shareholder value and social license
+risk (which may manifest in government/
+regulatory action).
+Other corporate conduct issues
+Poor corporate conduct (such as involvement in
+bribery and corruption) is a relevant investment
+risk, as it can:
+• Inflate projects costs and reduce profitability;
+• Increase risks and costs resulting from
+ prosecution;
+• Create brand damage;
+• Be an indicator of poor corporate culture;
+• Generate an unsustainable business
+ environment by perpetuating poverty,
+ entrenching corruption and having other
+ adverse impacts in low-income countries.
+Investors are looking for information from
+companies who are, at least at face-value,
+at high risk of adverse corporate conduct,
+specifically, involvement in:
+• Countries at high corruption risk;
+Broader community and other stakeholders
+14.
+• Government or regulator business or
+ contracts;
+• High community-impact sectors such as
+ resource extraction;
+• Sectors vulnerable to criminal activity such
+ as money laundering or concealment of
+ assets, e.g. gambling, financials.
+Resources
+The Global Reporting Initiative is a widely-used framework for sustainability reporting: www.globalreporting.org
+Group of 100, “Sustainability: a guide to triple bottom line reporting” (2008): http://group100.com.au/
+BSR, Five Step Approach to Stakeholder engagement (2011)
+http://www.bsr.org/en/our-insights/report-view/bsrs-five-step-approach-to-stakeholder-engagement
+Leading reporters
+Westpac Banking Corporation is recognized by the Group of 100 as a leading practice reporter in the Financial Services Industry sector. Westpac has reported on
+stakeholder engagement in its 2014 Annual Review and Sustainability Report. See: http://www.westpac.com.au/about-westpac/sustainability-and-community/reportingour-performance/stakeholder-impact-reports/
+RIO and BHP have published extensive code of conduct documents outlining their standards, who they apply to, membership of global transparency initiatives,
+whistleblower policy, staff training, reporting of breaches and so on.
+SOCIAL
+Commonly reported indicators
+Investors look for:
+• Main sources of stakeholder risk as they
+ apply to the business and governance
+ oversight of these risks;
+• Stakeholder engagement mechanisms e.g.
+ meetings, surveys, briefings, use of online
+ media;
+• Other processes to manage stakeholder risk,
+ e.g. community involvement, partnerships,
+ local employment;
+• Corporate codes of conduct and other
+ significant policies, the extent of their
+ application, associated training and
+ indications of importance (for example Board
+ or senior management responsibility,
+ linkages with remuneration);
+• Whistleblower policies and systems;
+• Reporting on previous incidents and
+ associated costs.
+Other stakeholder accountability continued
+15.
+Resources
+The ASX Corporate Governance Principles and Recommendations supplement black letter law in the Corporations Act in Australia: http://www.asx.com.au/documents/
+asx-compliance/cgc-principles-and-recommendations-3rd-edn.pdf
+The Australian Council of Superannuation Investors publish Governance guidelines for listed company boards. http://www.acsi.org.au/acsi-guidelines23/acsigovernance-guidelines.html
+CORPORATE GOVERNANCE
+Applicable law and standards (see resources
+below) already extensively cover Corporate
+Governance practices and disclosure, hence are
+not reproduced in this Guide. Under this category
+investors will seek to gain an understanding
+of the company’s governance practices. These
+practices provide insight into the quality of
+management in the company, and the quality
+of risk oversight by the board who are the
+representatives of shareholders.
+In particular, companies that fail to comply with
+ASX standards (see resources below) under
+the “If not, why not?” regime are encouraged to
+provide a thorough explanation for same.
+Failure of the board to address these issues has
+contributed to many of the high profile corporate
+collapses over the past decade. Investors
+require reporting on corporate governance to
+better understand the framework, policies, and
+incentives in place to ensure best performance
+by the company.
+Best practice guidelines for corporate
+governance reporting can be found below.
+Context – why is it important to investors?
+16.
+Appropriate management of ESG issues continues to be an essential ingredient for the establishment of long term
+sustainable returns. The Global Financial Crisis, along with a number of recent individual company environmental and
+social events, have once again reminded investors that investment considerations cover a broad range of risks and
+opportunities that affect the value of companies.
+This Guide aims to assist companies with the view of investors on the information needed to assess ESG risks and
+opportunities which can be factored into short, medium, and long term valuations. All companies should provide disclosure
+on material ESG considerations.
+Research into corporate reporting practices shows that over a third of the S&P/ASX 200 fail to provide meaningful
+information on ESG considerations. One of the aims of this Guide is to assist these companies in beginning to report
+meaningful ESG data.
+The Financial Services Council and the Australian Council of Superannuation Investors thanks the many individual industry
+associations, organisations and institutions that provided input into this guide.
+4. CONCLUSION
+17.
+5. RESOURCES
+• The International <IR> Framework, International Integrated
+Reporting Council (IIRC), 2013.
+• Corporate Ecoforum and World Environment Centre. (2015).
+Sustainability and the CFO: Challenges, Opportunities and Next
+Challenges.
+• CPA Australia, GRI Focal Point Australia, KPMG Australia. (2014).
+From Tactical to Strategic: How Australian Businesses create value
+from sustainability.
+• United Nations Principles of Responsible Investment. (2014).
+Principle of Responsible Investment Fact Sheet.
+• AA1000 AccountAbility Principles Standard 2008, AccountAbility,
+2008.
+• G4 Sustainability Reporting Guidelines: Reporting Principles and
+Standard Disclosures, Global Reporting Initiatives, 2013.
+• G4 Sustainability Reporting Guidelines: Implementation Manual,
+Global Reporting Initiatives, 2013.
+• Integrated Governance: A New Model of Governance for
+Sustainability, UNEP Finance Initiative, 2014.
+• Sustainability Accounting Standards Board www.sasb.org
+• Carbon Disclosure Project www.cdp.net
+• Sustainable Stock Exchanges Initiative www.sseinitiative.org
+Performance/ Industry guidelines and standards
+• Consumer Goods Forum www.theconsumergoodsforum.com
+• International Petroleum Industry Environmental Conservation
+Association www.ipieca.org
+• International Council on Mining and Metals www.icmm.org
+• Greenhouse Gas Protocol www.ghgprotocol.org
+• Roundtable on Sustainable Palm Oil www.rspo.org
+• WBCSD Cement Sustainability Initiative www.wbcsdcement.org
+• Roundtable on Responsible Soy www.responsiblesoy.org/en
+• The Marine Stewardship Council Certification www.msc.org
+• Forestry Stewardship Council Certification https://au.fsc.org/
+Stakeholder engagement
+• AA1000 Stakeholder Engagement Standard (AA1000SES),
+AccountAbility, 2008.
+• BSR, Five Step Approach to Stakeholder engagement, BSR, 2011
+Materiality
+• Redefining Materiality II: Why it Matters, Who’s Involved, and What It
+Means for Corporate Leader and Boards, AccountAbility, 2013.
+• Sustainable Insight: The essentials of materiality assessment,
+KPMG International, 2014.
+• The Materiality Report: Aligning Strategy, Performance and
+Reporting, AccountAbility, BT Group Plc and LRQA, 2006.
+18.
+Financial Services Council
+Level 24, 44 Market Street
+Sydney NSW 2000
+Australia
+www.fsc.org.au
+While all due care has been taken in the preparation of this report, none of the Financial Services Council and ACSI make any
+representation or warranty in relation to the accuracy or completeness of the information contained in this report. Commentary,
+information or material contained in this report is of a general nature only. This report does not in any way constitute investment, legal
+or taxation advice and is not a substitute for specific professional advice. No person should undertake or refrain from any action based
+on the information in this report without seeking advice from an appropriately qualified professional. The Financial Services Council
+and ACSI accept no responsibility for any loss or damage caused as a result of the use or reliance on this report by any person.
+Australian Council of Superannuation Investors
+Ground Floor, 215 Spring Street
+Melbourne Victoria 3000
+Australia
+www.acsi.org.au

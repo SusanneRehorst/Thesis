@@ -1,0 +1,2329 @@
+
+Revealing the full picture
+Your guide to
+ESG reporting
+Guidance for issuers on the
+integration of ESG into investor
+reporting and communication
+This Guidance is for information only. It has been produced by London Stock
+Exchange Group plc and its group companies, including London Stock Exchange
+plc, FTSE Russell (a trading name of FTSE International Limited and Frank Russell
+Company) and Borsa Italiana S.p.A (LSEG). While all information contained herein is
+obtained from sources believed to be accurate and reliable, LSEG and the individual
+authors of the Guidance do not accept responsibility for any errors, omissions,
+or inaccurate information or any decisions made in reliance on this Guidance.
+Any inaccuracies can be reported in writing to sustainablebusiness@lseg.com
+but neither LSEG nor the individual authors of the Guidance shall become
+responsible for such inaccuracies as a result of them being reported.
+This publication does not constitute an offer to buy or sell, or a solicitation of
+an offer to sell, any securities, or the solicitation of a proxy, by any person in any
+jurisdiction in which such an offer or solicitation is not authorised, or in which the
+person making such an offer or solicitation is not qualified to do so, or to any
+person to whom it is unlawful to make such an offer or solicitation.
+This Guidance is not offered as advice on any particular matter and must not
+be treated as a substitute for specific advice. In particular, information in this
+publication does not constitute legal, professional, financial or investment advice
+or an endorsement of any particular reporting standard or framework in relation
+to Environmental, Social and Governmental (ESG) factors. Advice from a suitably
+qualified professional should always be sought in relation to any particular
+matter or circumstances.
+
+Introduction 2
+Towards deeper understanding between issuers and investors 4
+ESG reporting priorities 6
+01. Strategic relevance 8
+02. Investor materiality 12
+03. Investment grade data 18
+04. Global frameworks 22
+05. Reporting formats 28
+06. Regulation and investor communication 32
+07. Green Revenue reporting 36
+08. Debt finance 40
+Summary 46
+How LSEG supports ESG reporting and communication 47
+Appendices 48
+Contents
+ 60%
+of assets managed for
+EU investors incorporate
+sustainable investment
+strategies
+Revealing the full picture Introduction
+Once upon a time, environmental, social and governance
+(ESG) factors were a niche interest among asset owners, asset
+managers, banks, brokers and investment consultants. No longer.
+Investors now routinely analyse information on ESG performance
+alongside other financial and strategic information in order to
+gain a better understanding of companies’ future prospects.
+Issuers’ ESG performance on subjects such as resource
+use, human rights, health and safety, corruption and
+transparency is increasingly used to draw conclusions
+about the quality of their management, identify their
+exposure to business risks and assess their ability to
+leverage business opportunities. Therefore it is becoming
+more and more important for companies and other
+issuers to communicate with investors clearly and
+accurately on these aspects of their performance.
+The intention of this Guidance is to help companies
+gain a clear understanding of what ESG information
+they should provide and how they should go about
+providing it. This is a task for which London Stock
+Exchange Group, as a leading international markets
+infrastructure provider connected to issuers, sell side
+and investors is ideally placed.
+About London Stock
+Exchange Group
+Sitting at a critical junction between issuers and
+investors, London Stock Exchange Group plays an
+essential role in supporting global sustainable
+economic growth.
+With more than 2,700 companies hosted on our
+markets, we seek to recognise and encourage dynamic
+companies that will drive long-term economic
+prosperity; helping them improve the sustainability of
+their business and enhance their ability to raise capital
+for growth and employment creation. At the same time,
+through FTSE Russell, our benchmarking and analytics
+business, we seek to support investors in making
+informed and sustainable decisions; providing them
+with the information and tools they need to assess
+issuers’ strategy, performance and governance.
+2
+
+Revealing the full picture Towards deeper understanding between issuers
+and investors
+In publishing this ESG
+Reporting Guidance, our aim
+is to help enable your company
+to effectively navigate the
+reporting landscape of today
+and tomorrow.
+You don’t have to be big
+to be an ESG reporter
+The ESG dimension is not something only larger
+companies need to concern themselves with. When
+a small or mid-sized issuer understands the value of
+ESG data and reporting, investors’ ability to see the full
+picture of its performance and prospects is enhanced
+just as much.
+
+London Stock Exchange Group (LSEG) is the global
+market of choice for such smaller companies. Over 1,000
+of them are quoted on AIM in the UK and Italy; more
+than 460 belong to our ELITE programme for dynamic
+private companies; and we also enable the issuance
+of corporate bonds by smaller companies.
+The Guidance is intended to help both companies
+that have a long history of ESG reporting and those
+that are less experienced in it.
+ESG data and information can be provided by a company
+to a wide range of stakeholders. This Guidance is
+specifically focused on the dialogue and information
+flows between issuers and investors.
+In dealing with good practice in voluntary reporting
+to investors, the Guidance is in line with the UN-backed
+Sustainable Stock Exchanges initiative model guidance
+for exchanges6
+. We believe that it is time to move
+beyond the debate around mandatory versus voluntary
+reporting. Issuers should now focus on innovation and
+relevance in the information they provide to investors
+– and ESG is part of that picture.
+ “ESG reporting is not just for
+larger companies. This is about
+all issuers, regardless of size,
+reporting relevant and material
+information to investors so that
+they can make better informed
+investment decisions.”
+Mark Zinkula
+CEO, Legal & General Investment Management
+Towards deeper
+understanding
+between issuers
+and investors
+4
+Revealing the full picture Towards deeper understanding between issuers
+and investors
+Is ‘ESG’ the same as
+‘sustainability’ and
+‘corporate responsibility’?
+Many companies use ‘sustainability’, ‘corporate
+responsibility’ or ‘corporate social responsibility’ to refer
+to strategies or programmes related to environmental,
+social or governance (ESG) activities. We make no
+particular recommendation concerning which term
+to use.
+For the purpose of this Guidance, LSEG has chosen
+to use the term ‘ESG’ as it has become a commonlyused investment term. Other terms for this type
+of ESG reporting can include ‘non-financial’ and
+‘extra-financial’ reporting.
+ “We have a fiduciary duty
+towards our members and we
+are committed to protecting
+retirement savings from any
+potential investment risk
+within a long-term horizon.
+The best way to do this is to
+take not only financial and
+economic factors but also
+ESG performance into
+consideration.”
+Maurizio Agazzi
+Direttore Generale, Fondo Pensione Cometa
+5
+ESG reporting
+priorities
+We have identified eight
+priorities for ESG reporting.
+Strategic
+relevance
+What is the relevance
+of ESG issues to business
+strategy and business
+models?
+Page 8
+Global
+frameworks
+What are the most
+important ESG reporting
+standards?
+Page 22
+Investor
+materiality
+What do investors
+mean by materiality?
+Page 12
+Investment
+grade data
+What are the essential
+characteristics of
+ESG data?
+Page 18
+1 2 3 4
+6 Revealing the full picture ESG reporting priorities
+Reporting
+formats
+How should ESG
+data be reported?
+Page 28
+Debt finance
+What should debt
+issuers report and
+what are the emerging
+standards here?
+Page 40
+Regulation
+and investor
+communication
+How can companies
+navigate regulations and
+communicate effectively?
+Green Revenue
+reporting
+How can issuers get
+recognition for green
+products and services?
+Page 36
+5 6 7 8
+Page 32
+7 Revealing the full picture ESG reporting priorities
+01
+Revealing the full picture 01. Strategic relevance
+Strategic relevance
+What is the relevance of ESG
+issues to business strategy
+and business models?
+8
+Investors want to
+understand how issuers are
+responding to long-term and
+macroeconomic trends such
+as climate, demographic and
+technological change as well
+as political developments.
+A number of the world’s
+largest investors are allocating
+capital to companies that are
+well equipped to benefit from
+the transition to the low
+carbon economy, and wish to
+protect their portfolios against
+downside environmental, social
+and governance (ESG) risks.
+As an issuer, you should explain the relevance of
+ESG factors to your business model and strategy. You
+should make clear how your company is positioning
+itself, either to benefit from these factors or to manage
+and mitigate the risks associated with them.
+Issuers should also explain how they intend to
+access the new opportunities and revenue streams
+generated by green and socially beneficial
+products and services.
+9 Revealing the full picture 01. Strategic relevance
+ “Sustainability factors, such as
+climate change or demography,
+impact companies’ operating
+environments. It is therefore
+critical that companies provide
+a clear strategic view on the
+likely impact of such trends
+or factors on their business
+models. This will allow investors
+to understand how they
+are positioned, and provide
+confidence that they are
+resilient and can where possible
+exploit opportunities from
+a changing environment.”
+Steve J. Berexa
+Global CIO Equity and Global Head of Research,
+Allianz Global Investors
+It is important for any company to be able to explain
+how its core business models and strategies may be
+impacted by ESG trends, and how it is seeking to
+position itself either to benefit from them or manage
+and mitigate risks associated with them. This provides
+the context for ESG reporting and allows investors to
+assess how well prepared the company is strategically
+for changes in its operating environment.
+A number of the world’s largest investors are allocating
+additional capital to companies that have higher green
+revenue exposure or are better equipped to fulfil
+sustainable goals.
+Demonstrating resilience as well as readiness to
+transition to a sustainable and low carbon economy is
+relevant for issuers across a number of industries and
+sectors. This means looking beyond the risks to new
+opportunities and revenue streams generated by green
+and socially beneficial products and services. These
+can drive value for the organisation and provide social
+and environmental solutions.
+Integrating both financial and non-financial
+performance requires leadership and support from
+the Board and senior management. They play a central
+role in integrating sustainability into the business
+strategy, overseeing implementation across the
+business and communicating to investors. At a working
+level in larger companies, investor relations, finance
+functions and CSR or sustainability divisions will need
+to align to ensure the quality and consistency of
+information reported.
+10 Revealing the full picture 01. Strategic relevance
+11 Revealing the full picture 01. Strategic relevance
+LOW CARBON
+ECONOMY EXPLAINED
+Over the last 300 years there have been a
+number of economic cycles as new industries
+have emerged and revolutionised economies
+both nationally and globally. Previous cycles
+have been linked to the introduction of the
+steam engine, electricity, mass automation, and
+recently information technology and computing.
+A number of economists now suggest that we
+are rapidly moving into the next cycle of
+economic change linked to industrial changes
+to overcome climate change, environmental
+erosion and resource depletion. The Paris
+Agreement that entered into force in November
+2016, marked an important turning point.
+It aims to ‘keep a global temperature rise this
+century well below 2 degrees Celsius above
+pre-industrial levels and to pursue efforts to
+limit the temperature increase even further
+to 1.5 degrees Celsius’. Achieving its goals by
+meeting the signatories’ nationally determined
+contributions (‘NDCs’) requires the growth of
+new products and new ‘green’ industrial sectors
+in areas including renewable energy, energy
+efficiency, waste processing and recycling. The
+low carbon economy encompasses these sectors
+and services, and companies that demonstrate
+their contribution to the low carbon economy
+are attracting investment.
+How ESG issues can impact
+business models and strategies
+The ESG issues and trends that can have a powerful
+impact on business models are varied. Some possible
+examples include:
+— a confectionery company that sources cocoa from
+West Africa explaining their readiness for increased
+levels of drought;
+— an integrated oil and gas business explaining how
+carbon costs and changing energy demands linked
+to carbon intensity would impact their reserve
+portfolio and how future pricing scenarios link into
+their exploration and production strategy; and
+— a professional services outsourcing firm outlining
+the increasing international demand for highly skilled
+staff and explaining their approach to motivating,
+retaining and developing their workforce in order
+to reduce high turnover rates of skilled staff.
+12 Revealing the full picture Strategic relevance 02. Investor materiality
+02
+What do investors
+mean by materiality?
+Investor materiality
+13 Revealing the full picture Revealing the full picture Strategic relevance 02. Investor materiality
+To understand a company’s
+long-term prospects, investors
+will focus on those issues
+that they believe to be most
+relevant – or ‘material’ – to any
+particular business. However,
+different investors inevitably
+have different views on what
+they see as material.
+Issuers should explain which ESG issues they see as
+most relevant or material to their business. They should
+explain how ESG issues may affect their business, e.g.
+through legislation, reputational damage, employee
+turnover, licence to operate, legal action or stakeholder
+relationships. They should then explain how these
+impacts may affect business strategy and financial
+and operational performance.
+When presenting this information to investors, it is
+important to understand what information and data
+your investors are looking for. This should include
+ensuring you are informed about what your industry
+peers globally are reporting on.
+Revealing the full picture 02. Investor materiality
+How to identify
+material ESG themes
+There is no standard template for a successful
+materiality assessment and issuers need to find the
+approach that is appropriate for their organisation.
+There are a number of considerations that can help
+companies identify what is relevant to their business
+and what the critical issues are to report on:
+ Align with what international standards
+recommend and peer companies report. This
+facilitates comparability for investors globally.
+ Use tools at your disposal. ESG research
+and index providers have specific criteria
+and identified material themes for different
+companies and industrial sectors. FTSE Russell,
+a London Stock Exchange Group business, has
+a well developed model which may be helpful
+in this regard. See more on pages 50 and 51.
+ Explicitly link ESG performance, business
+strategy and financial and operational
+performance.
+14
+ ‘MATERIALITY’
+DEFINED
+The International Accounting Standards Board
+defines ‘material’ information as that which
+could, if omitted or misstated, influence the
+economic decisions of readers relying on the
+financial statements. The UK FRC’s ‘Clear &
+Concise’ guidance to narrative reporting states
+that ‘information is material if its omission or
+misrepresentation could influence the economic
+decisions shareholders take on the basis of the
+annual report as a whole’.
+Example
+Index membership: FTSE 100
+ICB subsector: Recreational Services
+A FTSE 100 company in the travel and leisure
+sector conducts a materiality assessment every
+two years. This allows the business to update
+its understanding of the issues that influence
+stakeholder (including investor) perceptions and
+decision-making, and to respond effectively to
+sustainability-related opportunities and risks.
+Its materiality assessment process involves:
+— re-evaluating the previous assessment;
+— reviewing relevant standards;
+— engaging with internal
+and external stakeholders;
+— benchmarking the strategy against industry
+and broader corporate best-practice; and
+— reviewing operational impacts and
+sustainability trends.
+The full list of issues is plotted on a matrix based
+on significance to the business and relative
+concern to stakeholders.
+Index membership: FTSE Small Cap
+ICB subsector: Software
+A small-cap software business has a strong
+reliance on employees, reflected in its vision:
+‘To enable outstanding people to create digital
+solutions that have a positive impact on people’s
+lives.’ Noting that employee retention is a key
+risk, the company includes data on its staff
+attrition rate and its ‘Best Companies to Work
+For’ rating in its KPIs.
+1
+2
+3
+ “One size does not fit all when
+it comes to ESG data. Although
+there is a need for consistency,
+there is also a need to focus on
+investor materiality to ensure
+that the data being reported
+is of relevance to investors.”
+James Bevan
+CIO, CCLA Investment Management
+Revealing the full picture 02. Investor materiality
+ESG Rating
+FTSE Russell has drawn from global standards and frameworks in the
+development of its ESG model. The model involves producing an overall ESG
+Rating based on the three pillars of Environment, Social and Governance and
+on 14 Themes adapted to reflect their materiality to each company.
+Three of the 14 Themes are shown opposite to outline selected examples
+of the ESG data – both qualitative and quantitative – that issuers can
+be expected to disclose against specific, material themes. For more details
+on the methodology please see www.ftserussell.com/esg
+Social
+Governance
+Environmental
+& Community
+Human rights
+Standards
+Labour
+Responsibility
+Customer
+Health & Safety
+Supply Chain: Social
+16–17
+Water Use
+Climate Change
+Biodiversity
+Pollution
+&
+Resources Supply Chain: Environmental
+Anti-Corrupt oi n Corporate
+G
+overnance
+Risk
+Management
+Tax
+Transparency
+1
+3
+2
+ 1. CLIMATE CHANGE
+The investment case
+Investors often want to understand whether businesses can:
+— successfully respond to climate change risks;
+— demonstrate future viability and resilience; and
+— achieve cost savings through efficiencies and identify opportunities
+through low carbon revenue opportunities.
+The sources of investment risks
+Key sources of investment risk and opportunity:
+— regulatory: standards, taxes, carbon pricing;
+— market: reduced demand for high-carbon goods, products and services
+and decreased capital availability for high carbon products;
+— market: increased demand for low-carbon goods, products and services;
+— capital: increased capital availability for low-carbon services
+and technologies; and
+— weather: natural disasters and resource risks.
+Example indicators of practice and performance
+Type Description Applicability
+Quantitative Three years of total energy consumption data All
+Quantitative GHG emissions per megawatt-hr Conventional
+Electricity
+Qualitative Board oversight of climate change:
+a. Evidence of board or board committee
+oversight of the management of climate
+change risks
+b. Named position responsible at Board Level
+All
+ 3. HUMAN RIGHTS & COMMUNITY
+The investment case
+Investors want businesses that:
+— engage in active discussion around human rights and community issues;
+— demonstrate operational robustness and reputational resilience by
+addressing their impact on the communities in which they operate; and
+— Have strong and positive relationships with communities.
+The sources of investment risks
+Key sources of investment risk and opportunity:
+— regulatory: costs associated with regulatory compliance;
+— market: increased exposure to human rights risks in supply chain;
+— reputation: risks caused by community relations and human rights
+issues; and
+— operations: increased chance of operational shut downs or revocation
+of licenses, if the local community resists or protests the presence
+of the business.
+Example indicators of practice and performance
+Type Description Applicability
+Qualitative Stakeholder engagement to verify
+human rights risks and impacts:
+a. Evidence of consultation taking place
+b. Documented meetings OR reports
+of how results have been used
+All
+Qualitative How the issuer addresses freedom
+of expression through:
+a. Having a statement/policy
+b. Being a member of a relevant
+industry initiative such as the
+Global Network Initiative
+Broadcasting &
+Entertainment, Media
+Agencies, Publishing,
+Fixed Line Telecommunications, Mobile
+Telecommunications,
+Computer Services,
+Internet, Software
+Qualitative Total amount of corporate or group
+donations/community investments
+made to registered not-for-profit
+organisations
+All
+The ‘Exposure’ factor in
+FTSE Russell’s ESG Ratings
+The ESG Ratings service operated by FTSE Russell
+identifies 14 Themes spread across the three
+ESG pillars, most of which include several
+relevant quantitative indicators. Its methodology
+includes ‘Exposure’, which categorises the
+materiality of the 14 Themes for a particular
+company as High, Medium, Low or Not
+Applicable. Based on a matrix, this categorisation
+considers business involvement across different
+countries and sectors; utilises a variety of robust,
+globally-accepted frameworks; and can help
+issuers discern which ESG Themes they are
+exposed to, and how to begin reporting on them.
+This can form a starting point for the potential
+ESG themes an investor may regard as
+material for a company.
+ 2. TAX TRANSPARENCY
+The investment case
+Investors often want to understand whether businesses can:
+— not only comply with tax arrangements, but also have a strong governance
+process and transparency around their tax policy and tax arrangements; and
+— demonstrate commitment to transparency by engaging with stakeholders
+and the public to communicate their contribution to local economies.
+The sources of investment risks
+Key sources of investment risk and opportunity:
+— regulatory: risks of increased regulation which could close particular tax
+arrangements, referred to by some as ‘loopholes’ which would mean reduced
+margins and profitability of particular companies. In some cases it may
+even affect a company’s ability to operate in certain markets; and
+— reputational: increased scrutiny of corporate tax behaviour.
+Example indicators of practice and performance
+Type Description Applicability
+Qualitative A policy OR commitment to:
+a. Tax transparency or tax responsibility
+b. Align tax payments with revenue-generating
+activity, or reduce or refrain from the use
+of offshore secrecy jurisdictions for the
+purposes of tax planning
+All
+Qualitative Board has oversight of tax policy:
+a. Evidence of board oversight of the
+management of tax risks
+b. Named position responsible at Board level
+All
+Quantitative Disclosure of corporation tax paid globally:
+a. With at least domestic and
+international breakdown
+b. With country by country breakdown
+All
+
+Revealing the full picture 03. Investment grade data
+03
+Investment
+grade data
+What are the essential
+characteristics of ESG data?
+18
+19 Revealing the full picture 03. Investment grade data
+When using ESG data to
+inform capital allocation and
+investment decision-making,
+investors want ESG information
+to be complete, consistent,
+reliable, comparable and clear.
+Issuers should ensure that the data they provide
+is accurate, timely, aligned with the issuer’s fiscal year
+and business ownership model (i.e. aligned boundaries),
+and based on consistent global standards to facilitate
+comparability.
+Raw as well as normalised data should be provided,
+and your company should offer a balanced view that
+highlights both positives and negatives in its
+performance.
+To provide investors with a greater degree of confidence
+in their reported data, some issuers choose to have
+their ESG data assured.
+Revealing the full picture 03. Investment grade data
+Characteristics of investment grade data
+Accuracy: deploy rigorous data collection systems
+Boundaries: align to the fiscal year and business
+ownership model
+Comparability and consistency: use consistent
+global standards to facilitate comparability
+Data provision: provide raw as well as normalised data
+Timeliness: provide data to coincide with the annual
+reporting cycle
+External assurance: consider strengthening
+the credibility of data by having it assured
+Balance: provide an objective view, including both
+favourable and unfavourable information
+Accuracy
+As an issuer, you should have rigorous data collection
+systems and processes for ESG. When preparing data
+collection, you should pay particular attention to:
+— Internal systems: assess the ability of existing
+systems (for example internal audit and risk and
+data control verification systems) to support
+data collection;
+— Internal assurance: establish strong internal
+assurance processes, including having these
+overseen by or under the governance of the board
+audit committee;
+— Data quality: ensure that the quality of the
+data collected and reported is understood and
+documented. Issuers should collate information on
+how the data was compiled, what assumptions were
+made, and whether any uncertainties or limitations
+apply to the data. Data sources must be appropriate,
+reliable and evidenced. Any data challenges should
+be identified and the implications assessed;
+— Data reliability: this should be tested through
+internal reviews and conducted by internal audit.
+Issuers can also consider engaging third-party
+assurance providers; and
+— Assumptions: report key assumptions that
+underpin reporting.
+Boundaries
+Issuers need to take account of two distinct sets
+of boundaries: timeframes and operations.
+— Timeframes: ESG data should match your fiscal
+year and hence match the time period for the annual
+report. This allows investors to cross-use the two
+different data sets, for example normalising certain
+ESG data by revenues or staff numbers.
+— Operations: ESG data should cover 100% of the issuing
+entity and employ the same principles as financial
+data. If your company has partial ownership of certain
+subsidiaries (perhaps without operational control),
+the data should be reported on a percentage ownership
+basis in order to accurately reflect the proportional
+exposure the company has to these businesses, unless
+national reporting rules have different requirements.
+In situations where parts of the business were acquired
+or sold during the reporting period, data should be
+provided on both a consolidated and separate basis.
+Comparability and consistency
+In order to allow comparability between peers, it is
+important to use consistent global standards when
+reporting. Issuers should use indicators and metrics that
+are widely used within their sector, aiming to gather data
+in line with common practice and to report in a similar
+manner to sector peers. Issuers should consider using
+standard denominators when normalising data.
+The methods used to collect and calculate data should
+remain consistent year-on-year. If data compilation
+methodologies or underlying assumptions change,
+issuers need to explain the changes that have been
+made. Where these changes have had a significant effect
+on results, data for previous years should be recalculated
+using the new methodology or assumptions to
+enable comparison.
+Data provision
+Generally, investors will prefer to normalise ESG
+data themselves so that they can apply their models
+consistently across companies. They therefore expect
+issuers to provide raw as well as normalised data.
+However, issuers should be aware of ways they can
+support investors in using and interpreting the results:
+— Contextual data: investors are interested in putting
+data into context. Companies can help by providing,
+in a readily accessible manner, measures of
+financial activity such as turnover, the countries and
+markets in which they operate, the number of staff
+and contractors and, where relevant, the quantity,
+weight or volume of product outputs;
+— Normalised data: interpretation of progress
+around targets that are set on a normalised basis
+can be useful for investors. This should be provided
+alongside – not instead of – raw data; and
+— Explanation: issuers should supplement
+quantitative data with narrative explaining the
+factors that have influenced performance, whether
+positively or negatively. Further, where there are
+core business differences or client segments that
+explain performance relative to peers, these
+should also be explained.
+20
+Revealing the full picture 03. Investment grade data
+Timeliness
+It is best practice to provide ESG data at the same
+time as the annual report and accounts are published,
+or as soon as possible afterwards.
+A company may need to communicate sooner when
+a significant incident or controversy has taken place, or
+has been alleged. In these situations, investors do not
+expect to wait for the next annual reporting cycle.
+External assurance
+As an issuer you may seek to strengthen the credibility
+of your ESG data through external assurance. This can
+be conducted through the same processes as financial
+reporting, using qualified auditors. We recommend
+that the levels, scope and process adopted for external
+assurance are clearly described in the report.
+Balance
+Issuers should provide an objective picture of
+their performance, presenting both favourable and
+unfavourable information clearly and in full to aid
+the reader’s understanding. Efforts to avoid or obscure
+certain information or aspects of performance will
+inevitably lead to questions from investors and may
+create an environment of mistrust.
+Data on more difficult subjects should be set
+out alongside explanations and commentary. Where
+influenced by unfavourable occurrences or market
+conditions, a full explanation detailing organisational
+learning and changes resulting from the experience
+will reassure investors.
+ “We are active users of ESG
+data in our investment process.
+The quality of data provided
+by issuers has improved and
+we would like to see momentum
+continue and build. ESG data
+influences how we invest.
+We therefore need companies
+to report on ESG with the same
+level of diligence, controls and
+precision as they do for the data
+provided in their annual report
+and accounts.”
+Trevor Green
+Head of UK Equities, Aviva Investors
+21
+INVESTMENT
+GRADE DATA FOR
+SMALLER ISSUERS
+The importance of providing investors with
+investment grade data applies to smaller issuers
+too, as the quality of this information informs
+investment decision-making.
+Smaller issuers should aim to follow the seven
+criteria described in this chapter, taking a
+pragmatic approach where necessary. For example,
+ESG data collection systems and processes may
+be inadequate at first; however, it is better to start
+reporting and to improve systems over time
+than not to report at all.
+Example
+Index membership: FTSE 100
+ICB subsector: Industrial & Office REITs
+A FTSE 100 Real Estate Investment Trust (REIT)
+reports its ESG performance data online, and
+through its annual reporting. The business’
+sustainability strategy prioritises job creation,
+efficient use of natural resources and sustainable
+design, and its data disclosure aligns with these
+focus areas, offering highlights, raw numbers
+and discussion around performance.
+As environment and energy data is considered to
+be of particular importance, the business reports
+against frameworks published by the Climate
+Disclosure Standards Board (CDSB) and the
+European Public Real Estate Association (EPRA).
+These standards commit them to reporting
+emissions both in absolute terms and in a format
+that enables investors to compare their data
+with others in the sector.
+The company also provides a dedicated PDF
+presenting its environmental and energy data
+on an absolute and like-for-like portfolio basis for
+its properties, with comparisons to previous years.
+They also offer an energy reporting methodology
+document that explains their approach,
+boundaries, scope, reporting period, targets
+and measures. This data is also included in the
+‘Business Analysis’ section of their annual report,
+with accompanying discussion and trend data.
+22 Revealing the full picture 04. Global frameworks
+04
+Global frameworks
+What are the most important
+ESG reporting standards?
+23 Revealing the full picture 04. Global frameworks
+To anyone unfamiliar with
+ESG reporting, the volume of
+standards, frameworks and
+data requirements can seem
+overwhelming. Even for more
+experienced issuers, it can
+be a challenge to identify
+the indicators and standards
+which are most relevant to
+their investors.
+While we are some way from a global consensus
+on reporting standards, the frameworks developed by
+the following organisations (in no specified order) are
+the ones most widely cited by investors: the Global
+Reporting Initiative (GRI), the International Integrated
+Reporting Council (IIRC), the Sustainability Accounting
+Standards Board (SASB), the UN Global Compact, the
+CDP (formerly the Carbon Disclosure Project), the
+Climate Disclosure Standards Board, and the FSB Task
+Force on Climate-Related Financial Disclosures.
+FTSE Russell has consolidated indicators from
+different global standards and developed an Exposure
+framework. This identifies indicator applicability
+for different types of company based on industrial
+and geographic presence.
+Revealing the full picture 04. Global frameworks
+Despite the improvements in the quality and quantity
+of ESG data being provided by companies, this data
+continues to be regarded as difficult to compare. We are
+in the middle stage of global standardisation, with many
+organisations – standard setters, issuers, investors –
+defining what it is they need from ESG data, how this
+data is to be used, how its quality is to be assured,
+and how it is to be presented or reported.
+Progress on standardisation will help to move
+sustainability into the mainstream dialogue between
+issuers and investors. Increasing use of global standards
+and frameworks by companies has a key role to play
+in making information more available, consistent and
+reliable. For example, according to KPMG’s 2015 Survey
+of Corporate Responsibility Reporting, 61% of European
+corporate responsibility reporters used the GRI
+framework7
+. Furthermore, 93% of FTSE 100, 64% of the
+FTSE 350 and 45% of the top 100 on Borsa Italiana
+reported to CDP on climate change8
+.
+24
+The leading global
+ESG frameworks
+CDP (formerly the Carbon Disclosure Project)
+CDP collects standardised information from
+companies on climate change and the use
+of natural resources such as water and
+soft commodities.
+www.cdp.net
+Climate Disclosure Standards Board (CDSB)
+The CDSB Framework helps companies explain
+how environmental matters affect their
+performance and show how they are addressing
+associated risks and opportunities to investors
+in annual or integrated reports.
+www.cdsb.net
+Global Reporting Initiative (GRI)
+GRI Sustainability Reporting Standards are
+the most widely used standards for reporting on
+ESG impacts globally, and have been developed
+over many years through multi-stakeholder
+contributions. GRI Standards aim to meet the
+information needs of all stakeholders, and the
+modular structure supports both comprehensive
+reports and selected disclosures.
+www.globalreporting.org
+Integrated reporting
+The Integrated Reporting Framework helps
+companies to produce a concise, investor-focused
+report that looks at an issuer’s performance
+and prospects through the lens of six ‘capitals’
+(financial, manufactured, human, natural,
+intellectual, social and relationship).
+www.integratedreporting.org
+Sustainability Accounting
+Standards Board (SASB)
+SASB issues sustainability accounting standards
+that help public corporations disclose material
+and decision-useful information to investors in
+their mandatory filings, based on their industry, in
+line with the notion that under existing regulation
+material information should be disclosed in the
+Forms 10-K or 20-F.
+www.sasb.org
+UN Global Compact (UNGC)
+The Global Compact requires companies
+to commit to a set of ten universal principles
+concerning human rights, labour, environment
+and anti-corruption.
+www.unglobalcompact.org
+ 61%
+of European sustainability
+reporters use GRI
+ “Consistent global
+frameworks provide an
+essential tool to allow
+investors to analyse and
+compare ESG risks across
+companies and sectors.”
+Rod Paris
+CIO, Standard Life Investments
+Example
+Index membership: FTSE MIB
+ICB subsector: Utilities
+A utility group operating in Europe and Latin
+America has significant exposure to stakeholders
+whose support is critical to its license to operate.
+The company addresses this challenge by
+clearly identifying and disclosing both the
+most significant ESG issues and its stakeholder
+engagement process, and by rigorously
+organising its sustainability report around the ESG
+issues thus identified. The company’s progress
+on its sustainability plan is mapped against the
+Sustainable Development Goals throughout the
+report. The report is prepared in compliance with
+GRI G4 guidelines (“in accordance – core option”),
+with references to this standard clearly guiding
+the reader through the various sections. ESG
+information is externally verified through limited
+assurance by independent auditors.
+26 Revealing the full picture 04. Global frameworks
+The UN Sustainable
+Development Goals
+The 17 Sustainable Development Goals – and 169
+associated targets – were adopted by the General
+Assembly of the United Nations in September 2015
+to inform a global action plan on ‘people, planet and
+prosperity’ through to 2030. The value of the framework
+that the SDGs set out lies in its universality and bottomup nature, reflecting the fact that it stems from an
+agreement reached after a long process of international
+negotiations and consultations involving governments,
+businesses and civil society.
+The 17 SDGs can provide a useful and internationally
+recognised framework to shape and prioritise business
+plans and associated reporting. They are consistent
+with a number of the leading global ESG reporting
+frameworks9
+ and are reflected in a growing number
+of ESG assessment frameworks including FTSE Russell’s
+ESG Ratings Model. Measuring progress against relevant
+sustainable development goals and targets enables
+the harmonisation and comparability of sustainability
+investments and actions on a global scale.
+A summary of the SDG framework is presented
+graphically. For more information, please visit the
+UN Sustainable Development Knowledge Platform
+at https://sustainabledevelopment.un.org
+The Financial Stability Board
+Task Force on Climate-related
+Financial Disclosures
+Background
+In December 2016 the Financial Stability Board Task
+Force on Climate-related Financial Disclosures (TCFD)
+published its recommendations. This initiative was
+set up following a request from the G20 in order
+to avoid potential negative impacts on the stability
+of financial markets.
+The rationale for this was that appropriate disclosures
+were needed for financial firms to manage and price
+climate risks and to take lending, investment or
+insurance underwriting decisions based on their view
+of low carbon transition scenarios. Effective disclosure of
+climate-related financial risks will help avoid an abrupt
+repricing of risk and impacts on market stability.
+The task force has developed a set of recommendations
+for consultation that aim to support consistent,
+comparable, reliable, clear and efficient climate-related
+disclosures by financial and non-financial companies.
+The task force’s recommendations very closely align
+New contributions
+to global standards
+Among the frameworks which are likely to define the
+next decades of global reporting and disclosure are:
+— the Sustainable Development Goals (SDGs)
+specified in the UN’s ‘2030 Agenda for Sustainable
+Development’; and
+— the recommendations of the Financial Stability
+Board’s Task Force on Climate-Related Financial
+Disclosures.
+Although coming from very different directions and
+starting points, both initiatives could play a significant
+role in the global harmonisation of ESG measurement
+to the benefit of both issuers and investors.
+27 Revealing the full picture 04. Global frameworks
+with our Guidance for ESG Reporting although the scope
+of our guidance is more broadly applicable across all ESG
+Themes. Whilst the TCFD is focused on material risks and
+opportunities from climate change and the transition
+to a low carbon economy many of its principles are
+applicable to other sustainability themes too.
+Recommendations
+The task force recommends that climate-related
+financial disclosures should be made in public financial
+filings such as annual reports. They believe that
+since climate change often poses material risks their
+framework provides a useful basis for complying
+with legal obligations in many jurisdictions, for listed
+companies to disclose material risks. To ensure robust
+information the task force recommends governance
+controls such as review by Chief Financial Officers and
+audit committees. The task force recommendations set
+out ‘Principles for Effective Disclosures’ which closely
+align with those set out here in Chapter 03, Investment
+Grade Data.
+The more specific disclosures that are recommended
+fall into four categories; Governance, Strategy, Risk
+Management and Metrics & Targets. The task force
+high level specific disclosure recommendations
+are summarised in the table above across all four
+of these categories.
+These disclosures above are relevant across all
+industrial sectors. The task force has also developed
+much more sector-specific guidance set out for the
+following industries and groups:
+— Financials: Banks, Insurance Companies,
+Asset Owners, Asset Managers; and
+— Non-Financials: Energy, Transportation,
+Materials and Buildings, and Agriculture,
+Food and Forest Products.
+The task force also places some importance on scenario
+analysis and has published a technical supplement
+setting out the use of scenario analysis, related
+considerations, analytical choices, climate-related
+scenarios and use of leading public climate scenarios.
+LSEG welcomes the TCFD recommendations
+London Stock Exchange Group welcomes these
+recommendations and sees them as an important step
+in driving improved global consistency in voluntary global
+reporting standards. Please review the full guidance
+on www.fsb-tcfd.org
+The recommendations have many implications for
+our business: for our own reporting as a listed company,
+for our work with issuers including this Guidance, and
+for our information services to investors, including
+benchmarks. LSEG and FTSE Russell, in particular, intend
+to play a critical role enabling the flow of information
+envisioned by the TCFD. FTSE Russell’s Climate Change
+Criteria (which form part of the ESG Model) in many
+cases map to the recommended disclosures, and as an
+immediate step, FTSE Russell is reviewing them closely
+to identify new indicators and to align existing ones.
+The TCFD also cover disclosure of opportunities related
+to low carbon products. This supports FTSE Russell’s
+Green Revenues Low Carbon Economy (LCE) data model
+and aligns with Chapter 07 of this Guidance. LSEG is
+also well positioned to support and facilitate the further
+refinement of metrics through collaboration with issuers
+and investors, and looks forward to exploring with the
+TCFD how to support this important work.
+TCFD recommendations and supporting recommended disclosures
+Governance Strategy Risk management Metrics and targets
+Disclose the organisation’s
+governance around climaterelated risks and opportunities
+Disclose the actual and potential
+impacts of climate-related
+risks and opportunities on
+the organisation’s businesses,
+strategy and financial planning
+Disclose how the organisation
+identifies, assesses and manages
+climate-related risks
+Disclose the metrics and targets
+used to assess and manage
+relevant climate-related risks
+and opportunities
+Recommended disclosures
+a. Describe the board’s oversight
+of climate-related risks and
+opportunities
+b. Describe the management’s
+role in assessing and
+managing climate-related
+risks and opportunities
+Recommended disclosures
+a. Describe the climate-related
+risks and opportunities the
+organisation has identified
+over the short, medium
+and long term
+b. Describe the impact of
+climate-related risks and
+opportunities on the
+organisation’s businesses,
+strategy and financial planning
+c. Describe the potential
+impact of different scenarios,
+including a 2°C scenario, on
+the organisation’s businesses,
+strategy and financial planning
+Recommended disclosures
+a. Describe the organisation’s
+processes for identifying and
+assessing climate-related risks
+b. Describe the organisation’s
+processes for managing
+climate-related risks
+c. Describe how processes
+for identifying, assessing and
+managing climate-related
+risks are integrated into
+the organisation’s overall
+risk management
+Recommended disclosures
+a. Disclose the metrics used
+by the organisation to assess
+climate-related risks and
+opportunities in line with its
+strategy and risk management
+process
+b. Disclose Scope 1, Scope 2,
+and if appropriate, Scope 3
+greenhouse gas (GHG)
+emissions, and the related risks
+c. Describe the targets used by
+the organisation to manage
+climate-related risks and
+opportunities and performance
+against targets
+This information
+is based on the TCFD
+recommendations
+for consultation that
+were published in
+December 2016. The
+final recommendations
+are expected to be
+published in June 2017.
+28 Revealing the full picture 05. Reporting formats
+05
+Reporting formats
+How should ESG data be reported?
+29 Revealing the full picture 05. Reporting formats
+Companies can report ESG
+information in their annual
+report, in a standalone
+sustainability report or in an
+integrated report. The choice of
+reporting formats may involve
+trade-offs between breadth
+and depth, between focusing
+on material issues and covering
+a wider horizon that addresses
+the relationship between ESG
+and business strategy. It is
+often unclear which of these
+is most useful to investors.
+Issuers can take practical steps to ensure that their ESG
+disclosures are relevant to their investors. You can ensure
+that your reported data is of investment-grade quality,
+set out your views on materiality, and explain the
+strategic relevance of these ESG issues to your business.
+There are different advantages to each type of reporting,
+and each issuer should consider which approach will best
+suit their own needs and those of their investors.
+Remember that reporting is just one part of the wider
+dialogue you have with your investors. You should
+see ESG reporting, irrespective of the specific format,
+as providing a basis for dialogue with your investors,
+not as a replacement for this dialogue.
+Revealing the full picture 05. Reporting formats
+Annual report, standalone
+sustainability report,
+or integrated report?
+Annual report
+It is increasingly common for larger listed companies
+to include explicit references to ESG themes within
+their annual reports.
+The integration of ESG issues into annual reports
+allows the process of gathering and verifying this data
+to be integrated into the processes and information
+controls that are already in place. It also means that
+ESG data is readily available to investors at the same
+time as wider information about the company.
+In practice, due to concerns about length and
+complexity, companies tend to discuss relatively
+few ESG issues in their annual reports. In addition,
+ESG-related content may not fit the flow and structure
+of the annual report. These issues can be addressed by
+publishing methodologies, policies and historical data
+online, leaving just the key information pertaining
+to the previous year and to future strategies, plans
+and targets in the annual report.
+Standalone sustainability report
+Introducing a standalone sustainability or CSR report
+is an approach favoured by many issuers. In 2015,
+726 non-financial reports were published in the UK
+and 309 in Italy10.
+These reports provide a clear ‘home’ for ESG content,
+consolidating the information in a single location.
+In addition, a standalone sustainability report does not
+necessarily need to align with the style of the annual
+report; issuers can adopt a style of presentation for raw
+data, tables and charts best suited to ESG information.
+The separation can imply that sustainability information
+is considered separate from the core business of the
+company. This can be addressed by aligning key areas of
+the annual report and sustainability report. For example,
+if a performance trend or external driver is highlighted
+in the annual report, it should also be addressed in
+the standalone sustainability report.
+Integrated report
+The concept of an integrated report is that ESG
+information and data are presented in an integrated
+manner within the annual report. This model has been
+promoted by the International Integrated Reporting
+Council (IIRC) and aims to offer investors a more
+rounded, concise and holistic insight into business
+performance and impact over the short, medium
+and long term.
+Integrated reporters should beware of the implications
+of reducing the information made available to
+investors. Although brevity is welcomed by many
+investors and enables a focus on the most business
+critical ESG areas, it may mean that investors do not
+get the breadth of information they need. Investors
+are diverse and have different ESG needs. Some of
+them review published reports directly, whereas
+others access company information (including within
+analytics, research tools and indexes) through third
+party data and research providers and index providers.
+This means that data needs to be easily collectable
+by these intermediaries – and as a result, integrated
+reporting should be supplemented by additional,
+more detailed ESG information delivered via the
+company’s website or through associated published
+data appendices.
+30
+THE DIFFERENT
+FORMS OF ‘CAPITAL’
+Capitals (also referred to as ‘resources and
+relationships’) are stocks of value or assets that
+can be enhanced, or diminished, by the activities
+of a business. The International Integrated
+Reporting Council lists six capitals in its
+framework:
+— Financial: internal and external funds
+available to a business;
+— Manufactured: for example, buildings,
+equipment and infrastructure;
+— Intellectual: knowledge-based intangibles,
+for example brands and patents;
+— Human: people and their capabilities
+and experience;
+— Social and relationship: stakeholder
+and network relationships; and
+— Natural: environmental resources, such as air,
+water and land.
+An end to survey fatigue
+Publishing well considered reports that provide high
+quality ESG information and data, and placing other
+relevant information such as policies online, will make
+it increasingly feasible for you to point those requesting
+responses to ESG surveys towards your published
+materials instead.
+Optimising communication
+There are a number of steps that you can take to
+ensure your report is of the greatest possible value
+to investors:
+ Separate out policies,
+processes and methodologies
+– Annual or sustainability reports featuring
+large amounts of detail around policies and
+methodologies can obscure new information
+and key messages; and
+– Incorporate standing information (‘boilerplate’)
+repeated every year in an appendix or separate
+document, and signpost it from the report.
+Make it easy to find and access
+– Ensure that the report is prominent. Promote
+it on the corporate website, including the
+investor relations section, include a link within
+news releases to the markets and summarise
+findings in investor presentations; and
+– Provide data in spreadsheet format, hyperlink
+to corresponding financial statements, or further
+ESG information if producing a report online.
+Data can also be tagged in XBRL, so that it can
+more easily be pulled out and aggregated by
+specialist applications. XBRL is a type of
+extensible markup language used for organising
+and defining financial data in a standardised
+way, applying tags to unify and compare
+different accounting standards.
+Consider language
+– Ensure the language used, and its accessibility,
+meet the needs of your investor base.
+ Combine data tables and
+include historical information
+– Retain three to five years’ worth of historical
+information and data. Where there are significant
+corporate changes such as acquisitions and
+de-mergers, the reports and information
+pertaining to the previous entities should
+also be retained wherever possible.
+31 Revealing the full picture 05. Reporting formats
+Reporting as a complement
+to dialogue
+Reports enable public distribution of ESG information
+concurrently to all existing and prospective investors.
+This can complement direct dialogue with investors and
+also provide a basis for such dialogue – something which
+can in turn help shape and determine the content of
+future reports. In other words, high quality reporting
+should support deeper and more effective direct dialogue
+with the investor community, not replace it.
+1
+2
+3
+4
+Example
+Index membership: FTSE Italia Small Cap
+ICB subsector: Industrial Goods & Services
+A mid-cap manufacturer of components for
+household appliances listed on Borsa Italiana’s
+premium segment STAR has adopted the IIRC’s
+reporting format for its annual report, published
+both in Italian and English. The business
+strategy is broken down into the forms of
+capital suggested by the Integrated Reporting
+Framework. It also adopts GRI standards for
+materiality analysis and KPI disclosure with
+three year data series provided for each KPI.
+The intellectual capital section includes detailed
+research and development indicators, in line with
+the emphasis placed on innovation and intangible
+assets described in the company’s business
+model. The governance section is also well
+developed to meet STAR investors’ expectations
+of a strong sustainability dimension.
+32 Revealing the full picture 06. Regulation and investor communication
+06
+Regulation
+and investor
+communication
+How can companies navigate
+regulations and communicate
+effectively?
+33 Revealing the full picture 06. Regulation and investor communication
+The volume of regulation
+concerning ESG reporting
+has increased substantially
+in recent years. If regulators
+in different countries and
+regions set different reporting
+requirements and standards,
+this can be problematic for
+both issuers and investors.
+As a result of this level of activity in ESG reporting,
+over 80% of the world’s top economies by GDP in 2016
+mandated ESG reporting in some form10. Well-crafted
+disclosure regulation can aid issuers and investors by
+improving data consistency, availability and reliability,
+and by helping focus attention on key ESG issues.
+Issuers should see regulation as a starting point
+for reporting. However, rather than taking a minimum
+compliance approach, you should use regulatory
+requirements as an opportunity to develop an investorfocused approach to reporting. It is important that,
+as an integral part of the reporting you’re required
+to produce, you identify and report on what you
+see as your most material issues.
+Revealing the full picture 06. Regulation and investor communication
+Governments around the world, responding chiefly
+to broader societal awareness around sustainability,
+have introduced a number of mandatory reporting
+instruments. In just three years, over 100 new mandatory
+instruments have been introduced across 64 countries11.
+As a result of this level of activity in ESG reporting,
+over 80% of the world’s top economies by GDP in 2016
+mandated ESG reporting in some form11.
+However, this can often mean that companies will face
+differing requirements, while investors will be unable
+to compare data on companies globally.
+Reporting standards are still evolving and whilst issuers
+need to report in a way that is consistent with regulatory
+reporting requirements, they can also innovate and
+should aim to report in a manner that is most useful
+to investors. This can sometimes mean going above
+and beyond regulation.
+UK and Italian regulation
+The 2015 update of the Italian Corporate Governance
+Code, which is applied on a comply-or-explain basis,
+recommends that the boards of listed companies
+should take into account any risk that may affect the
+sustainability of the business in the medium-long term
+when assessing the company’s risk profile. In addition,
+the Code recommends that the largest companies,
+namely the constituents of the FTSE-Mib index, should
+consider whether or not to set up a board committee
+tasked with supervising sustainability issues related
+to the company’s business.
+The UK governance and reporting framework12
+encourages reporting of ESG and non-financial matters
+through the Guidance on the Strategic Report and
+Corporate Governance Code requirements for disclosure
+of principal risks and uncertainties and a viability
+statement. The 2013 updates to the UK Companies
+Act 2006 included a number of ESG reporting provisions.
+UK incorporated quoted companies i.e. those with equity
+shares listed on London Stock Exchange Main Market,
+EEA regulated, NYSE or NASDAQ, are expected to explain
+how they are managing issues such as environmental
+performance, human rights, social and community
+involvement and diversity. They are also expected to
+report on certain statistics, for example Scope13 1 and
+2 CO2 emissions and gender diversity at Board, senior
+management and whole-company levels.
+Requirements differ for companies of different sizes
+and listed status. For example while all companies are
+expected to disclose principal business risks, mediumsized companies are not expected to include an
+analysis of non-financial KPIs. Furthermore, only listed
+companies are required to contain an overview of the
+business strategy and model as well as environment,
+employee, social, community, human rights and
+diversity information in the strategic report.
+EU regulation: the NonFinancial Reporting Directive
+The aim of the EU non-Financial Reporting Directive
+(NFRD) is to establish a minimum standard for ESG
+reporting across the EU. The Directive requires the largest
+companies to report on environmental matters, social
+and employee affairs, human rights and anti-corruption
+and bribery issues. National governments transposed
+the Directive into national law in 2016.
+The UK’s implementation of the EU Non-Financial
+Reporting Directive builds on earlier provisions to
+require companies and groups with over 500 employees
+that are classed as public interest entities (i.e. entities
+whose activities are of significant interest to the public,
+and include banks, insurers and quoted companies) to
+disclose a fuller range of non-financial information in
+their strategic reports. This requires eligible companies
+to disclose information on environmental, employee,
+social and human rights. The framework also requires
+disclosures on anti-corruption and anti-bribery matters.
+There is a further requirement for quoted companies to
+include a description of their diversity policy and how
+it has been implemented or to explain why one is
+not relevant.
+If the company does not have a policy in relation
+to any of these matters the company should provide
+a clear and reasoned explanation as to why it would
+not be relevant. The first reports under the new
+requirements should be published in 2018, for financial
+years commencing in 2017. There is flexibility on
+how to report and companies can draw on relevant
+international, European or national guidelines.
+The Italian transposition of the Directive in addition
+requires issuers to adopt global standards wherever
+possible, or to explain why the company decided to
+develop its own disclosure approach. Disclosure has
+also to cover a minimum set of parameters, including
+energy use from renewable and non-renewable sources,
+impact on health and safety, and measures aimed at
+implementing international gender diversity frameworks.
+The non-financial statement can be part of the annual
+report, or be a separate document, and it has to be
+externally verified either by the company’s legal
+auditors or by an auditing firm specially appointed.
+The statement has to be submitted to the Italian capital
+markets authority Consob, who is also in charge of
+monitoring compliance.
+34
+ 100+
+mandatory
+reporting
+instruments have
+been introduced
+across 64
+countries10
+Revealing the full picture 06. Regulation and investor communication
+Key ESG reporting regulations: Italy, the UK and the EU14
+Country Institution Year Title Type Status Commentary
+Italy Market
+Participants
+Associations &
+Borsa Italiana
+2015 Italian Corporate
+Governance Code
+Non-Government
+Suggested
+Corporate
+Governance
+Disclosure,
+Voluntary
+Issued The Italian Corporate Governance
+Committee included ESG risks and
+governance considerations in its
+review of the Code issued in July 2015.
+Italian
+Government
+2007 Legislative decree
+No.32/2007
+transposing directive
+2003/51/CE and
+Article 2428 of the
+Italian Civil Code
+Government
+Imposed Corporate
+Environmental
+Disclosure,
+Mandatory
+Issued States that directors’ reports should
+include financial and non-financial
+key performance indicators relevant to
+the specific business of the company,
+including information relating to
+environmental matters.
+UK FRC 1992, most
+recently
+updated
+in 2016
+UK Corporate
+Governance Code
+Industry Body
+Led Corporate
+Governance
+Disclosure,
+‘comply or explain’
+Issued For Premium companies listed on
+the Main Market, the code sets out
+standards of good practice in relation
+to board leadership and effectiveness,
+remuneration, accountability and
+relations with shareholders, on a
+comply-or-explain basis.
+UK Government 2015 Modern Slavery Act Government
+Imposed Corporate
+Environmental
+Disclosure,
+Mandatory
+Issued Section 54 of the Modern Slavery Act
+2015 requires certain organisations
+to develop a slavery and human
+trafficking statement each year.
+UK Government 2006,
+revised
+2013
+Changes to the
+Companies Act 2006
+(Strategic Report
+and Director’s
+Report) 2013
+Government
+Imposed Corporate
+Environmental
+Disclosure,
+Mandatory
+Issued Carbon emissions, human rights and
+diversity reporting required by all listed
+companies in the Director’s Report.
+All EU
+member
+states
+National
+governments
+2016 Transposition of the
+EU Non-Financial
+Reporting Directive
+95/14
+Government
+Imposed Corporate
+Environmental
+Disclosure,
+Mandatory
+Issued Applies from January 2017 to all listed
+companies with more than 500
+employees, and mandates disclosure
+of environmental, social (including
+diversity and human rights) and
+anti-corruption issues.
+— Transposed in the UK through the
+Companies, Partnerships and Groups
+(Accounts and Non-Financial
+Reporting) Regulations 2016 n. 1245
+— Transposed in Italy through
+Legislative Decree 30 December
+2016 n. 245
+35
+Getting value from regulation
+Rather than taking a minimum-compliance approach,
+issuers should use the regulatory requirements as an
+opportunity to enhance their reporting to investors.
+It is critical to move beyond the areas covered in
+regulation and towards identifying your business’s most
+material ESG themes and the underlying indicators
+based on global standards. Only then will you be able to
+produce ESG reporting that aligns closely with your own
+material issues, and that enables a richer data flow
+and dialogue with investors to take place.
+Going forward, we may see the financial community
+sharing the responsibility of disclosing alignment with
+ESG considerations. Article 173 of France’s Energy
+Transition for Green Growth Law which came into effect
+in early 2016 requires investors to outline how they
+factor ESG criteria into their investment decisions. As
+this effectively forces ESG engagement and integration
+from both sides, it adds still more momentum to the
+drive for consistency, standardisation and recognition
+of the global context influencing reporting.
+36 Revealing the full picture 07. Green Revenue reporting
+07
+Green Revenue
+reporting
+How can issuers get recognition
+for green products and services?
+37 Revealing the full picture 07. Green Revenue reporting
+Around the world, investors
+want to understand issuers’
+exposure to green products
+and services. However, there is
+limited consistent information
+available on how issuers are
+deriving revenue and growth
+from providing environmental
+solutions.
+As an issuer you should proactively communicate
+your exposure to the green products and services that
+enable the transition to the low carbon economy. To
+do this, you need to identify the parts of your business
+that manufacture or provide goods, products and
+services delivering environmental solutions, quantify
+the associated revenues, and talk about how your
+investments in innovation and R&D will drive your
+business’s future growth.
+38 Revealing the full picture 07. Green Revenue reporting
+Climate risk and rewards
+Investors need to understand how companies in their
+portfolios are changing their exposure to low carbon
+economy subsectors and therefore need issuers to
+provide more detailed revenue breakdown, at a green
+sub-segment level, to measure this. Some of the world’s
+largest investors are actively allocating additional
+capital to companies with higher green revenue
+exposure; so better reporting can directly lead to greater
+investment flows. This requires you as an issuer to:
+ Understand opportunities in the
+transition to a low carbon economy
+ Identify parts of the business that manufacture
+or provide goods, products and services driving
+value for the business and delivering
+environmental solutions.
+Identify green revenues
+ Provide details of the revenues resulting
+from ‘green’ goods, products and services.
+Connect to your own climate impacts
+ Ensure that reporting on green revenues is
+integrated with both wider financial reporting
+and with carbon strategy, emissions data
+and performance reporting.
+Talk about where the future lies
+ Discuss how investment in innovation and
+R&D will support the transition to a low
+carbon economy.
+Green Revenues Low
+Carbon Economy (LCE)
+data model
+FTSE Russell’s Green Revenues Low Carbon
+Economy (LCE) data model measures the green
+revenues of over 13,000 public companies
+globally across 60 subsectors; from advanced
+battery and solar panel manufacture to flood
+defence construction. For the full list of
+subsectors, see Appendix ii.
+Example
+Index membership: FTSE 100
+ICB subsector: Speciality Chemicals
+A UK chemicals company breaks its revenues
+into specific sub-segments, enabling investors to
+understand precisely how much of those revenues
+make a contribution to the low carbon economy.
+For example, it has a segment named ‘Precious
+Metal Products’, which it breaks down into two
+sub-segments, ‘Recycling’ (revenue gained from
+providing recycling services) and ‘Other activities’
+(revenue gained from refining and developing
+paint coats and other products). This allows
+investors to see that the recycling segment
+contributes to the low carbon economy, whereas
+the ‘Other activities’ do not. Each of these
+sub-segments is furnished with a separate
+published calculation sheet.
+Index membership: FTSE 100
+ICB subsector: Fixed Line Telecommuniactions
+A FTSE 100 telecommunications company has
+reported its aim as being to ‘have helped our
+customers cut their carbon emissions by at least
+three times our own end-to-end carbon impact’ by
+2020. This 3:1 ambition is based on the company’s
+products and services having a carbon abatement
+effect at least three times the impact of its own
+emissions (Scope 1, 2 and 313).
+By quantifying and reporting the abatement
+affects of products such as video-conferencing
+and cloud computing services, the business
+demonstrates how it is not only prepared for the
+transition to the low carbon economy but will
+benefit directly as a result.
+1
+2
+3
+4
+ “Certain segments of global
+markets will undergo significant
+change as the world moves towards
+a low carbon economy. Companies
+that offer comprehensive reports
+on the environmental solutions
+they provide, send a strong signal
+to capital markets that they are
+aware of the business opportunities
+that come with long term trends
+like the transition to a low carbon
+economy. Companies disclosing
+their ‘green revenues’ can benefit
+through greater investment from
+funds such as ours.”
+Maurice Versaevel
+Investment Strategist, PGGM
+RENEWABLE FUNDS
+An emerging asset class associated with the
+transition to a low carbon economy is represented
+by renewable infrastructure funds. Renewable
+infrastructure funds listed on London Stock
+Exchange are worth a combined £3.4bn and
+have raised £2.7bn since 2013. For investors to
+be able to report on the impact of these funds on
+the exposure of their portfolios to the low carbon
+economy, clarity and details regarding the type
+of assets these funds are invested in are extremely
+useful. These could include the renewable energy
+generation capacity and the equivalent estimated
+GHG emissions avoided through the infrastructure
+projects that are financed or in which the funds
+are invested.
+
+46 Revealing the full picture Summary
+Summary
+ As the most important part of the above, identify
+the parts of the business that manufacture or
+provide goods, products and services delivering
+environmental solutions and supporting the
+transition to a low carbon economy; and break
+down and quantify the associated revenues.
+ Provide data that is accurate, timely, aligned with
+their fiscal year and business ownership model,
+and based on consistent global standards
+to facilitate comparability.
+ Recognise that reporting is just one part of
+the wider dialogue they have with their investors.
+ESG reporting, irrespective of the specific format,
+provides a basis for dialogue with investors but
+is not a replacement for it.
+
+47 Revealing the full picture How LSEG supports ESG reporting and communication
+ Capacity building and supporting issuers
+in reporting:
+– We provide training, including through our
+Academy, and host events that clarify good
+practice in corporate reporting;
+– Through our unique open access technology
+platform ELITE Connect, we allow listed
+companies to manage their local and global
+investor relations efforts and to improve their
+communications with their shareholders and
+intermediaries. This platform enables issuers to
+showcase their company story and ESG activities
+through digital meetings and webcasting;
+– In 2000 Borsa Italiana established the STAR
+segment which includes mid-cap companies
+with high corporate governance standards; and
+– Borsa Italiana regularly organises thematic
+road shows to facilitate dialogue between listed
+companies and investors. Sustainability topics
+are increasingly part of these initiatives.
+ Profiling issuers on our markets with green
+or other sustainability attributes:
+– London Stock Exchange has developed one
+of the world’s first green bond segments based
+on strict admission criteria to support the
+growth of this market segment; and
+– On Borsa Italiana, listed companies can include
+information on sustainability strategies, targets
+and performance as an integral part of their
+company profiles.
+ Providing investors with ESG data,
+analytics and indexes:
+– FTSE Russell has pioneered ESG indexes for over
+15 years since the launch of the FTSE4Good
+Index Series and now provides a comprehensive
+range of ESG ratings and data;
+– We collect ESG data from public sources
+and contact over 4,000 companies to check
+that information with them directly;
+– We track the proportion of companies’ revenues
+that derives from products and services serving
+the transition to a low carbon economy through
+FTSE Russell’s LCE data model; and
+– We support stock exchanges including Madrid,
+Johannesburg and Malaysia in creating
+dedicated ESG indexes for their markets.
+ Contributing to global policy
+development and dialogue
+– We contribute to consultations on ESG reporting.
+Recent responses have included those regarding
+the EU Non-Financial Reporting Guidance, the
+FSB Task Force on Climate-Related Financial
+Disclosures, the United States Securities and
+Exchange Commission’s consultation on material
+disclosures, and the UK Government consultation
+on the amendments to the Companies Act;
+– We play an active role in a number of global
+associations including the UN-backed PRI
+and Sustainable Stock Exchanges initiative,
+bringing together a wide range of sustainable
+investment association;
+– We promote good standards in the UK and set
+the Italian corporate governance code. In 2016,
+we published ‘Creative Tension? 25 Years On’,
+a collection of essays on corporate governance
+by leading industry figures; and
+– We convene market participants, issuers
+and investors to improve data, dialogue, and,
+ultimately, capital flows.
+How LSEG supports ESG
+reporting and communication
+Beyond its contribution to public policy discussions on driving
+global standardisation of ESG reporting, LSEG supports issuers
+and investors in making ESG communication effective.
+1
+2
+3
+4
+48 Revealing the full picture Appendices
+Appendices
+49 Revealing the full picture Appendices
+Indicator
+sub code
+Indicator description wording Environmental ECC14 Total operational GHG emissions data (Scope 1 & 2) is disclosed
+ECC15 Total energy consumption data is disclosed
+ECC19 Disclosure of fleet fuel efficiency data by the following countries/regions:
+USA; Japan; China; India; Brazil; Russia; Western Europe; CEE (Central and Eastern Europe)
+ECC22 Disclosure of Oil & Gas Reserves by type (i.e. Proven, Probable and Possible Reserves):
+Total Oil Reserves; Total Gas Reserves; Ratio of Oil:Gas; Oil & Gas: barrels of oil equivalent of reserves
+ECC23 GHG emissions per megawatt-hr
+ECC30 Disclosure of coal reserves by type (Proven, Probable and Possible Reserves)
+EBD11 Disclosure of certified palm oil as a percentage of total palm oil produced/used/processed
+EBD12 Disclosure of certified forest products (e.g. FSC, RAN) as a percentage of total forest products produced/used/processed
+EBD13 Disclosure of certified seafood (e.g. MSC, ASC) as a percentage of total seafood produced/used/processed
+EPR18 Disclosure of NOX emissions (tonnes)
+EPR19 Disclosure of SOX emissions (tonnes)
+EPR21 Disclosure of volatile organic compounds (VOC) emissions (kilograms)
+EPR24 Disclosure of hazardous waste generation (tonnes)
+EPR25 Disclosure of non-recycled waste generation (tonnes)
+EPR26 Disclosure of waste recycled (tonnes)
+EPR27 Total costs of environmental fines and penalties during financial year
+EPR28 Percentage of sites covered by recognised environmental management systems such as ISO14001 or EMAS
+ESC30 Total GHG emissions data on properties disclosed
+ESC31 Total energy usage data on properties disclosed
+ESC32 Total water usage data from property portfolio disclosed
+EWT11 Total water use / water extraction data is disclosed
+EWT12 Percentage of water recycled (non-potable) for use in own operations
+Governance GAC12 Disclosure of total amount of political contributions made
+GAC13 Disclosure of number of staff disciplined or dismissed due to non-compliance with anti-corruption policy/policies
+GAC14 Disclosure of cost of fines, penalties or settlements in relation to corruption
+Social SHR17 Total amount of corporate or group donations / community investments made to registered not-for-profit organisations:
+SHS12 Percentage of sites with OHSAS 18001 certification
+SHS13 Number of staff trained on health and safety standards within the last year
+SHS15 Lost-time incident rate, over last three years
+SHS38 Number of work-related employee fatalities
+SHS40 Number of work-related contractor fatalities
+SLS24 Full-time staff voluntary turnover rates
+SLS25 Percentage of employees that are contractors or temporary staff
+SLS26 Amount of time spent on employee development training to enhance knowledge or individual skills, using:
+a) Total hours as a company, or b) Average hours per employee
+Revealing the full picture Appendices
+Appendix i – Materiality by sector
+Quantitative indicators to consider reporting against: These are drawn from the FTSE Russell ESG Ratings Model and
+their materiality for different ICB16 Industries is highlighted as either ‘likely’ or ‘possible’. Note that these indicators
+themselves draw from a wide variety of pre-existing established standards such as GRI and CDP.
+FTSE Russell quantitative ESG data points
+50
+51 Revealing the full picture Appendices
+Basic
+Materials
+Consumer
+Goods
+Consumer
+Services
+Financials
+(& Real Estate)
+Health Care Industrials Oil & Gas Technology Telecommunications
+Utilities
+Likely relevance
+Possible relevance
+For more details on the FTSE Russell ESG Methodology and indicators please see www.ftserussell.com/esg
+Appendix ii – LCE definitions
+FTSE Russell Low Carbon Economy Industrial Classification System
+Overview LCE subsector Description
+LCEG: Low
+Carbon Energy
+Generation
+LCE Bio Fuels Companies generating power through the use of crops, plants and other organic materials as fuels
+where the reduction of greenhouse gas emissions is a significant function of the power generation
+process either on a life-cycle analysis basis or at the point of generation.
+LCE Clean
+Fossil Fuels
+Companies generating power using fossil fuels such as coal, oil or gas where the reduction of greenhouse
+gas emissions is a significant function of the power generation process either on a life-cycle analysis
+basis or at the point of generation through the use of external technologies.
+LCE Geothermal Companies generating power through the utilisation of natural geothermal heat sources created by
+planetary accretion or radioactive decay either above or below ground where the reduction of greenhouse
+gas emissions is a significant function of the power generation process either on a life-cycle analysis
+basis or at the point of generation.
+LCE Hydro Companies generating power through the management of stored or redirected water within a controlled
+environment where the reduction of greenhouse gas emissions is a significant function of the power
+generation process either on a life-cycle analysis basis or at the point of generation.
+LCE Integrated
+LCEG
+Companies whose activities include more than one LCEG subsector.
+LCE Nuclear Companies generating power from a process of sustained nuclear fission or fusion within a controlled
+environment where the reduction of greenhouse gas emissions is a significant function of the power
+generation process either on a life-cycle analysis basis or at the point of generation.
+LCE Ocean & Tidal Companies generating power from a process of extracting kinetic energies from the motions and
+currents in ocean waters or near shore and offshore tidal currents where the reduction of greenhouse
+gas emissions is a significant function of the power generation process either on a life-cycle analysis
+basis or at the point of generation.
+LCE Solar Companies generating power using radiant light and heat generated by the Sun which is captured
+either via Thermal, Photovoltaic, Concentrated Array or Thin Film processes where the reduction
+of greenhouse gas emissions is a significant function of the power generation process either
+on a life-cycle analysis basis or at the point of generation.
+LCE Waste
+to Energy
+Companies generating power through the use of domestic, agricultural and commercial refuse as fuel
+for both thermal and non-thermal energy creation where the reduction of greenhouse gas emissions
+is a significant function of the power generation process either on a life-cycle analysis basis or at the
+point of generation.
+LCE Wind Companies generating power using the kinetic energy of the air in motion which is captured by turbines
+and other devices where the reduction of greenhouse gas emissions is a significant function of the power
+generation process either on a life-cycle analysis basis or at the point of generation.
+LCEQ: Low
+Carbon Energy
+Equipment
+LCE Bio Fuels Companies providing goods, products and services including components, specialist materials, bespoke
+manufacturing and maintenance processes, design and operational support capabilities that enable
+the generation of power through the use of crops, plants and other organic materials as fuels where
+the reduction of greenhouse gas emissions is a significant function of the power generation process
+either on a life-cycle analysis basis or at the point of generation.
+LCE Clean
+Fossil Fuels
+Companies providing goods, products and services including components, specialist materials, bespoke
+manufacturing and maintenance processes, design and operational support capabilities that enable
+the generation of power using fossil fuels such as coal, oil or gas where the reduction of greenhouse
+gas emissions is a significant function of the power generation process either on a life-cycle analysis
+basis or at the point of generation through the use of external technologies.
+LCE Geothermal Companies providing goods, products and services including components, specialist materials, bespoke
+manufacturing and maintenance processes, design and operational support capabilities that enable the
+generation of power through the utilisation of natural geothermal heat sources created by planetary
+accretion or radioactive decay either above or below ground where the reduction of greenhouse gas
+emissions is a significant function of the power generation process either on a life-cycle analysis
+basis or at the point of generation.
+LCE Hydro Companies providing goods, products and services including components, specialist materials, bespoke
+manufacturing and maintenance processes, design and operational support capabilities that enable
+the generation of power through the management of stored or redirected water within a controlled
+environment where the reduction of greenhouse gas emissions is a significant function of the power
+generation process either on a life-cycle analysis basis or at the point of generation.
+LCE Integrated
+LCEQ
+Companies whose activities include more than one LCEQ subsector.
+52 Revealing the full picture Appendices
+53 Revealing the full picture Appendices
+Overview LCE subsector Description
+LCEQ: Low
+Carbon Energy
+Equipment
+LCE Nuclear Companies providing goods, products and services including components, specialist materials, bespoke
+manufacturing and maintenance processes, design and operational support capabilities that enable the
+generation of power from a process of sustained nuclear fission or fusion within a controlled environment.
+LCE Ocean & Tidal Companies providing goods, products and services including components, specialist materials, bespoke
+manufacturing and maintenance processes, design and operational support capabilities that enable
+the generation of power from a process of extracting kinetic energies from the motions and currents
+in ocean waters or near shore and offshore tidal currents.
+LCE Solar Companies providing goods, products and services including components, specialist materials, bespoke
+manufacturing and maintenance processes, design and operational support capabilities that enable
+the generation of power using radiant light and heat generated by the Sun which is captured either
+via Thermal, Photovoltaic, Concentrated Array or Thin Film processes.
+LCE Waste
+to Energy
+Companies providing goods, products and services including components, specialist materials, bespoke
+manufacturing and maintenance processes, design and operational support capabilities that enable
+the generation of power through the use of domestic, agricultural and commercial refuse as fuel for
+both thermal and non-thermal energy creation.
+LCE Wind Companies providing goods, products and services including components, specialist materials, bespoke
+manufacturing and maintenance processes, design and operational support capabilities that enable
+the generation of power using the kinetic energy of the air in motion which is captured by turbines
+and other devices.
+LCEM: Low
+Carbon Energy
+Management
+LCE Combined
+Heat & Power
+Companies providing goods, products and services including components, specialist materials, bespoke
+manufacturing and maintenance processes, design and operational support capabilities that enable
+the control, direction and manipulation of energy during the power generation cycle to ensure its
+properties are maximised for the benefit of other energy processes and/or energy devices.
+LCE Controls Companies providing goods, products and services including components, specialist materials, bespoke
+manufacturing and maintenance processes, design and operational support capabilities that enable
+the control, direction and manipulation of energy control processes and/or devices.
+LCE Fuel Cells Companies providing goods, products and services including components, specialist materials, bespoke
+manufacturing and maintenance processes, design and operational support capabilities related to
+electrochemical devices that convert chemical energy from a fuel into usable electric energy.
+LCE Integrated
+LCEM
+Companies whose activities include more than one LCEM subsector.
+LCE Logistics
+& Support
+Companies providing goods, products and services including components, specialist materials, bespoke
+manufacturing and maintenance processes, design and operational support capabilities that are ancillary
+to the control, direction and management of energy.
+LCE Power Storage Companies providing goods, products and services including components, specialist materials, bespoke
+manufacturing and maintenance processes, design and operational support capabilities that enable
+the efficient storage and delivery of energy.
+LCE Smart Grids Companies providing goods, products and services including components, specialist materials, bespoke
+manufacturing and maintenance processes, design and operational support capabilities that enable new
+and existing power delivery networks to deliver a more effective use of energy by increasing transmission
+capabilities or to integrate user functions in an intelligent basis through monitoring and management
+of usage and supply.
+LCEE: Low
+Carbon Energy
+Efficiency
+LCE Advanced
+Materials
+Companies providing goods, products and services including components, specialist materials, bespoke
+manufacturing and maintenance processes, design and operational support capabilities that enable new
+lighter, stronger, longer lasting and less resource intensive or environmentally damaging synthetic
+or naturally derived materials and products to be created.
+LCE Buildings
+& Property
+Companies providing goods, products and services including components, specialist materials, bespoke
+manufacturing and maintenance processes, design and operational support capabilities that enable new
+and refurbished properties to be built, refurbished or operated on the basis that they are less resource
+intensive and also reduce their impact on the environment at all levels of their operation in accordance
+with internationally recognised standards such as LEED, Energy Star and BREEAM where applicable.
+LCE Industrial
+Processes
+Companies providing goods, products and services including components, specialist materials, bespoke
+manufacturing and maintenance processes, design and operational support capabilities that enable
+industrial processes operated by companies to become substantially more efficient and less resource
+intensive at all levels of their operation.
+LCE Integrated
+LCEE
+Companies whose activities include more than one LCEE subsector.
+LCE IT Processes Companies providing goods, products and services including components, specialist materials, bespoke
+manufacturing and maintenance processes, design and operational support capabilities that enable
+computers and IT related systems to become substantially more efficient and less resource intensive
+at all levels of their operation.
+54 Revealing the full picture Appendices
+Overview LCE subsector Description
+LCEE: Low
+Carbon Energy
+Efficiency
+LCE Lighting Companies providing goods, products and services including components, specialist materials, bespoke
+manufacturing and maintenance processes, design and operational support capabilities that enable
+lighting equipment and products to become substantially more efficient and less resource intensive
+at all levels of their operation.
+LCE Video
+Conferencing
+Companies providing goods, products and services including components, specialist materials, bespoke
+manufacturing and maintenance processes, design and operational support capabilities that enable
+on demand and installed video transmission facilities to provide meeting facilities between companies
+that reduce the requirement to travel so frequently.
+LCEI:
+Low Carbon
+Environmental
+Infrastructure
+LCE Carbon
+Capture & Storage
+Companies providing goods, products and services including components, specialist materials, bespoke
+manufacturing and maintenance processes, design and operational support capabilities that enable the
+sequestration, capture, cleaning, transport and storage of Carbon Dioxide (CO2) either as an industrial
+by product or from the existing ecosystem.
+LCE Desalination Companies providing goods, products and services including components, specialist materials, bespoke
+manufacturing and maintenance processes, design and operational support capabilities that enable
+the conversion of salt water to fresh water so it is suitable for human, agricultural or industrial use
+through the removal of salt and/or other minerals.
+LCE Flood Control
+& Land Erosion
+Companies providing goods, products and services including components, specialist materials, bespoke
+manufacturing and maintenance processes, design and operational support capabilities that reduce
+or control the impact of inland or coastal flooding and increasing water levels as well as the impact
+on terrain of degradation caused by external forces.
+LCE Integrated
+LCEI
+Companies whose activities include more than one LCEI subsector.
+LCE Logistics
+& Support
+Companies providing goods, products and services including components, specialist materials,
+bespoke manufacturing and maintenance processes, design and operational support capabilities
+that are ancillary to the control, direction and management of human impacts on the environment,
+the environment’s impact on humans as well as the ecosystem’s ability to support and sustain
+the current and future populations.
+LCE Pollution
+Management
+Companies providing goods, products and services including components, specialist materials, bespoke
+manufacturing and maintenance processes, design and operational support capabilities that enable
+us to manage the negative impact of contaminants in the natural environment that cause instability,
+disorder, harm or discomfort to the ecosystem in accordance with internationally recognised
+standards where applicable.
+LCE Recyclable
+Products
+Companies providing goods, products and services including components, specialist materials, bespoke
+manufacturing and maintenance processes, design and operational support capabilities that specifically
+and consciously reduce the impact of human activity through the use recycled materials as the primary
+component of another product, or by enabling components to be easily recycled and/or absorbed thus
+reducing their life-cycle impact on the environment in accordance with internationally recognised
+standards where applicable.
+LCE Recycling
+Services
+Companies providing goods, products and services including components, specialist materials, bespoke
+manufacturing and maintenance processes, design and operational support services that enable the
+recovery of natural resources and synthetic materials from waste created by human activity as an
+alternative and substitute to the use of raw materials in accordance with internationally recognised
+standards where applicable.
+LCE Waste
+Management
+Companies providing goods, products and services including components, specialist materials, bespoke
+manufacturing and maintenance processes, design and operational support capabilities that enable the
+effective management of discarded materials produced by human activity to reduce their impact on
+health and the environment in accordance with internationally recognised standards where applicable.
+LCE Water
+Management
+Companies providing goods, products and services including components, specialist materials, bespoke
+manufacturing and maintenance processes, design and operational support capabilities that help
+establish, regulate, deliver and reduce losses in the supply of clean water for Human, Agricultural
+& Industrial consumption.
+LCER:
+Low Carbon
+Environmental
+Resources
+LCE Agriculture Companies providing goods, products and services that are specifically able to enhance the viability,
+yield, scope and sustainability of agricultural output in accordance with domestic or internationally
+recognised standards where applicable.
+LCE Aquaculture Companies providing goods, products and services that are specifically able to enhance the viability,
+yield, scope and sustainability of aquacultural output in accordance with domestic or internationally
+recognised standards where applicable.
+LCE Integrated
+LCER
+Companies whose activities include more than one LCER subsector.
+LCE Mining Companies providing goods, products and services derived from the ownership of mineral and ore
+extraction rights where the raw materials obtained from such minerals and ores are required as a key
+resource to enable other processes in the industrial transition to the low carbon economy.
+55 Revealing the full picture Appendices
+Overview LCE subsector Description
+LCER:
+Low Carbon
+Environmental
+Resources
+LCE Minerals
+& Metals
+Companies providing goods, products and services derived from the processing and management
+of mineral and ore based raw materials that are required as a key resource to enable other processes
+in the industrial transition to the low carbon economy.
+LCE Source Water Companies providing goods, products and services derived from the ownership or control of water
+extraction rights where such rights specifically apply controls in respect of ecosystem protection and
+the maintenance of sustainable reserves in accordance with domestic or internationally recognised
+standards where applicable.
+LCE Sustainable
+Forestry
+Companies providing goods, products and services derived from the ownership or control of timber
+extraction rights where such rights specifically apply controls in respect of ecosystem protection and
+the maintenance of sustainable reserves in accordance with domestic or internationally recognised
+standards where applicable.
+LCMS:
+Low Carbon
+Modal Shift
+LCE Aviation Companies providing goods, products and services including components, specialist materials, bespoke
+manufacturing and maintenance processes, design and operational support capabilities that are
+specifically able to help adapt, mitigate or remediate the impact air transportation has through
+any part of its operation on climate change, resource depletion or environmental erosion.
+LCE Integrated
+LCMS
+Companies whose activities include more than one LCTR subsector.
+LCE Railways Companies providing goods, products and services including components, specialist materials, bespoke
+manufacturing and maintenance processes, design and operational support capabilities that are
+specifically able to help adapt, mitigate or remediate the impact rail transportation has through
+any part of its operation on climate change, resource depletion or environmental erosion.
+LCE Road Vehicles Companies providing goods, products and services including components, specialist materials, bespoke
+manufacturing and maintenance processes, design and operational support capabilities that are
+specifically able to help adapt, mitigate or remediate the impact road transportation has through
+any part of its operation on climate change, resource depletion or environmental erosion.
+LCE Shipping Companies providing goods, products and services including components, specialist materials,
+bespoke manufacturing and maintenance processes, design and operational support capabilities that
+are specifically able to help adapt, mitigate or remediate the impact ocean and inland waterborne
+transportation has through any part of its operation on climate change, resource depletion or
+environmental erosion.
+LCMS:
+Low Carbon
+Modal Shift
+LCE Finance
+& Investment
+Companies providing financial goods, products and services on a retail or wholesale basis to private and
+corporate clients that are differentiated from a company or industries existing business model because
+they are specifically able to help adapt, mitigate or remediate the impact of climate change, resource
+depletion or environmental erosion.
+LCE Integrated
+LCOS
+Companies whose activities include more than one LCOS subsector.
+LCE Retail
+& Wholesale
+Companies providing non-financial goods, products and services on a retail or wholesale basis to private
+and corporate clients that are differentiated from a company or industries existing business model
+because they are specifically able to help adapt, mitigate or remediate the impact of climate change,
+resource depletion or environmental erosion.
+LCE Property Companies providing new and refurbished commercial, residential, leisure or public buildings that can
+be operated, sold or rented on the basis that they are less resource intensive and also reduce their impact
+on the environment at all levels of their operation in accordance with internationally recognised
+standards such as LEED & BREEAM where applicable.
+56 Revealing the full picture Appendices
+Glossary20
+Best-in-Class investment selection: Approach
+where leading or best-performing investments within
+a universe, category or class are selected or weighted
+based on ESG criteria.
+Engagement and voting on sustainability matters:
+Engagement activities and active ownership through
+voting of shares and engagement with companies
+on ESG matters. This is a long-term process, seeking
+to influence behaviour or increase disclosure.
+Exclusions: An approach that excludes specific
+investments or classes of investment from the investible
+universe such as companies, sectors or countries.
+Impact Investing: Impact investments are
+investments made into companies, organisations
+and funds with the intention to generate social and
+environmental impact alongside a financial return.
+Impact investments can be made in both emerging
+and developed markets, and target a range of returns
+from below-market to market-rate, depending upon
+the circumstances.
+Integration of ESG issues: The explicit inclusion
+by asset managers of ESG risks and opportunities in
+traditional financial analysis and investment decisions
+based on a systematic process and appropriate
+research sources Norms-based screening: Screening
+of investments according to their compliance with
+international standards and norms
+Sustainability themed investment: Investment
+in themes or assets linked to the development
+of sustainability. Thematic funds focus on specific
+or multiple issues related to ESG.
+Appendix iii – ESG investors overview
+The adoption of ESG approaches in investment is a growing force in global financial flows.
+Due to the complexity of this market, there have been various attempts to classify investors into categories
+according to their strategy. These could be grouped according to their capital focus and motivations, from ESG-risk
+related issues only to environmental and/or social impact only. In addition, they could be classified depending
+upon how ESG is implemented. The table below outlines the commonly used categories.
+Eurosif GSIA-equivalent17 PRI-equivalent18 EFAMA-equivalent19
+Exclusions ESG Negative screening ESG Negative /
+Exclusionary screening
+Negative screening or Exclusion
+Norms-based screening Norms-based screening Norms-based screening Norms-based approach
+Best-in-Class selection ESG Positive screening
+and Best-in-Class
+ESG Positive screening
+and Best-in-Class
+Best-in-Class policy
+Sustainability-themed Sustainability-themed ESG-themed Investments Thematic investment
+ESG integration ESG Integration Integration of ESG issues –
+Engagement and voting Corporate engagement
+and shareholder action
+Engagement (three types) Engagement (voting)
+Impact investing Impact / Community investing – –
+

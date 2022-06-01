@@ -1,0 +1,540 @@
+Pillar 1 – Principles of Governance
+Summary of key changes
+Strengthening purpose
+This iteration of metrics and disclosures features
+a strengthened version of core and expanded
+disclosures relating to the governing purpose
+theme, reflecting broad-based feedback from both
+reporting organizations and investors. The word
+“societal” has been replaced with “economic,
+environmental and social issues” to enhance clarity,
+while a new expanded metric evaluates how a
+company’s purpose is embedded in core aspects
+of its business to address stated concerns about
+“greenwashing”.
+Economic, environmental and social
+The metrics and disclosures under Principles
+of Governance have been developed to ensure
+corporate governance incorporates oversight of
+the link between a company, broader sustainable
+development or the UN’s Sustainable Development
+Goals (SDGs), and long-term value creation.
+To make this explicit, the chosen metrics and
+disclosures now repeatedly specify a focus on
+“economic, environmental and social” topics (the
+three dimensions of sustainable development as
+defined by GRI).
+Accommodation of legal concerns
+This version of metrics and disclosures
+accommodates concerns about exposure to
+litigation risk stemming from disclosure of certain
+information, such as confidential information.
+Where relevant, requests for supporting
+disclosures have been added to give companies
+greater latitude to tell a qualitative story alongside
+(or in lieu of) quantitative metrics. These concerns
+can also be addressed by the overarching
+principle of “disclose or explain” as detailed in
+this paper.
+Measuring Stakeholder Capitalism: Towards Common Metrics and Consistent Reporting of Sustainable Value Creation 48
+Governance: Core metrics and disclosures
+Theme Governance: Core metrics and disclosures Sources
+Governing
+purpose
+Setting purpose
+The company’s stated purpose, as the expression of the
+means by which a business proposes solutions to economic,
+environmental and social issues. Corporate purpose should
+create value for all stakeholders, including shareholders.
+The British
+Academy and
+Colin Mayer,
+GRI 102-26,
+EPIC and others
+Rationale
+Oversight of a company’s chosen priorities in terms of economic, environmental and social issues requires
+a clear understanding and articulation of the firm’s purpose. The more that firms can link their purpose and
+core business, the better they can deliver long-term value for all stakeholders, including shareholders.
+Additional commentary
+There is emerging evidence that purpose-led firms outperform their peers in terms of shareholder value32
+and are better positioned to account for and deliver economic, environmental and social value.
+This disclosure calls for the articulation of the output of a process to formulate and publicize a purpose,
+providing a useful baseline for whether firms are pursuing purpose or not. This disclosure was selected
+over alternatives, including measures of investment aligned to purpose and the extent to which culture is
+aligned to purpose, to reflect the primary need that still exists to comprehensively articulate purpose and
+its link to economic, environmental and social value and long-term value creation. It is fundamental to
+purpose-led outcomes, helps establish comparability across businesses and is the essential first step in
+becoming a purpose-led business.
+Purpose should define how a company creates value by addressing solutions to economic, environmental
+and social issues, and ensures that it is not profiting from creating problems in these domains.
+TABLE
+Measuring Stakeholder Capitalism: Towards Common Metrics and Consistent Reporting of Sustainable Value Creation 49
+Theme Governance: Core metrics and disclosures Sources
+Quality of
+governing body
+Governance body composition
+Composition of the highest governance body and its committees
+by: competencies relating to economic, environmental and
+social topics; executive or non-executive; independence; tenure
+on the governance body; number of each individual’s other
+significant positions and commitments, and the nature of the
+commitments; gender; membership of under-represented social
+groups; stakeholder representation.
+GRI 102-22,
+GRI 405-1a,
+IR 4B
+Rationale
+The capabilities and perspectives of board members are important for making robust decisions on an
+ongoing basis. This disclosure captures a variety of important dimensions to composition, going beyond a
+single metric, and emphasizes competencies relating to economic, environmental and social topics.
+Additional commentary
+Research examining public companies across Canada, Latin America, the UK and the US has found
+that companies with higher diversity financially outperform their peers.33 Crucially, boards that reflect
+the diversity of their companies’ stakeholders are more attuned to their needs and are therefore wellpositioned to deliver long-term stakeholder value. This necessitates the inclusion of traditionally underrepresented social groups (see Glossary for definition of “under-represented social groups”). Although
+these groups will vary based on a company’s context, it is important to consider racial and ethnic diversity.
+This disclosure was chosen on the basis that it captures a breadth of dimensions critical to governance
+body composition, including competencies related to economic, environmental and social topics.
+Single measures of governance body composition are insufficient to determine whether a particular
+corporation has the board fit for its particular needs. Practices for achieving greater diversity of board
+member backgrounds and capabilities are relatively universal and well-established, and the disclosure is
+comparatively easy to observe.
+Reporting organizations will choose how to report based on materiality, as defined in this paper.
+Additionally, reporting organizations will need to be mindful of local laws, which can shape or constrain the
+way the standard cited here as a guideline is implemented. One possible and established way to consider
+the diversity of skills represented on the governing body is through presentation of board member
+qualifications, backgrounds and experiences in a “skills matrix”.34
+Stakeholder
+engagement
+Material issues impacting stakeholders
+A list of the topics that are material to key stakeholders and
+the company, how the topics were identified and how the
+stakeholders were engaged.
+GRI 102-21,
+GRI 102-43,
+GRI 102-47
+Rationale
+This disclosure highlights the importance of the relationship between what is material to a firm and to
+its stakeholders; it captures the output of a process to understand the impact of the company on its
+stakeholders and the implications for the company.
+Additional commentary
+As organizations shift to becoming more purpose-led, so too will the definition and understanding of longterm value. The current shareholder-centric view of performance and value is already evolving into a more
+holistic understanding of an organization’s impacts on a broad range of stakeholders. For this shift to have
+a real impact, an organization needs to understand how its stakeholders are most affected by its decisions
+and how this affects the business.
+Conducting a materiality analysis is a vital step in understanding how an organization impacts its key
+stakeholders and the implications for the business. It requires a company-specific identification of key
+stakeholders and engagement with them to determine how they are affected by the company’s decisions
+and actions. Explaining the steps required to undertake a materiality analysis (i.e. listing all identified
+material topics and detailing how they impact stakeholders and company) and the process to identify and
+engage with stakeholders helps validate the output.
+The concept of materiality, as defined in this paper, guides prioritization, ensuring the disclosure is relevant
+to stakeholders and the company. This disclosure facilitates board-level oversight of this critical area. It is
+a means of maintaining accountability to a range of stakeholder groups, helping ensure that organizational
+impact and long-term value align with the interests of a broad range of stakeholders and provide the
+foundation for trust in the business. One possible way to disclose material issues impacting stakeholders
+is through a “materiality matrix”.35
+Measuring Stakeholder Capitalism: Towards Common Metrics and Consistent Reporting of Sustainable Value Creation 50
+Theme Governance: Core metrics and disclosures Sources
+Ethical behaviour Anti-corruption
+1. Total percentage of governance body members, employees
+and business partners who have received training on the
+organization’s anti-corruption policies and procedures,
+broken down by region.
+2. a) Total number and nature of incidents of corruption
+confirmed during the current year, but related to previous
+years
+b) Total number and nature of incidents of corruption
+confirmed during the current year, related to this year.
+3. Discussion of initiatives and stakeholder engagement to
+improve the broader operating environment and culture, in
+order to combat corruption.
+GRI 205-2,
+GRI 205-3
+Rationale
+Corruption undermines stakeholder legitimacy and trust; it is linked to misallocation of capital,
+environmental harm, human exploitation and unethical and illegal behaviour.
+Anti-corruption training and investment in initiatives to improve both operating environment and culture
+develop a company’s anti-corruption capabilities. The total number and nature of corruption incidents are
+a proxy for the effectiveness of a company’s overarching anti-corruption culture and capabilities.
+Additional commentary
+Corporate corruption can thrive where governance is weak. The public expects companies to adhere to
+ethical business practices. Companies implementing anti-corruption policies and practices contribute
+directly towards the vision of SDG 16.5 to “substantially reduce corruption and bribery in all their forms”,
+protecting their own long-term value and their contribution to long-term societal value.
+Monitoring the number and proportion of new corruption incidents unrelated to previous years, in
+comparison to incidents related to previous years, provides some insight into changes over time of
+this effectiveness. These metrics were chosen for their orientation to outcomes and their comparability
+between companies and over time.
+Reporting organizations will need to be mindful of local laws, which can shape or constrain the way the
+standard cited here as a guideline is implemented.
+Ethical behaviour Protected ethics advice and reporting mechanisms
+A description of internal and external mechanisms for:
+1. Seeking advice about ethical and lawful behaviour and
+organizational integrity; and
+2. Reporting concerns about unethical or unlawful behaviour
+and lack of organizational integrity.
+GRI 102-17
+Rationale
+This disclosure focuses on the ongoing ability of a company to both prevent and remedy ethical issues.
+Additional commentary
+This disclosure identifies the mechanisms (e.g. whistleblowing procedures) in place to receive input on
+ethics topics and reports of potential issues, and the ways in which these mechanisms are managed or
+protected to encourage robust advice and reporting. Protected ethics advice and reporting mechanisms
+demonstrate an authentic intent by the board and management to explain and promote ethical and legal
+conduct and prevent unethical or illegal conduct. This disclosure was chosen for its universal applicability
+and allows for comparison and evaluation of board commitment to the oversight of ethical behaviour.
+Without a mechanism for employees and other key stakeholders to ask questions about or to report
+potential or actual unethical or unlawful behaviour, companies may miss opportunities to identify and
+mitigate underlying issues. Companies that encourage their stakeholders to provide feedback can respond
+more quickly to misconduct, build trust with their stakeholders and prevent harm to long-term value.
+Measuring Stakeholder Capitalism: Towards Common Metrics and Consistent Reporting of Sustainable Value Creation 51
+Theme Governance: Core metrics and disclosures Sources
+Risk and
+opportunity
+oversight
+Integrating risk and opportunity into business process
+Company risk factor and opportunity disclosures that clearly
+identify the principal material risks and opportunities facing the
+company specifically (as opposed to generic sector risks), the
+company appetite in respect of these risks, how these risks and
+opportunities have moved over time and the response to those
+changes. These opportunities and risks should integrate material
+economic, environmental and social issues, including climate
+change and data stewardship.
+EPIC,
+GRI 102-15,
+World Economic
+Forum Integrated
+Corporate
+Governance,
+IR 4D
+Rationale
+This disclosure focuses on company-specific risks and opportunities, the onus on the board to oversee
+management of those risks and opportunities, and the corporate response over time as they change; it
+provides broad, management- and board-centred insight.
+Additional commentary
+A clear understanding and synthesis of corporate appetite, board oversight and management’s enterprise
+risk management systems in relation to key emerging risks and opportunities (specifically those related to
+economic, environmental and social issues) is fundamental to long-term value creation. This disclosure
+was selected on the basis that it acknowledges the requirement for the board to be directly involved with
+management in understanding and reacting to material risks and opportunities and the need to observe
+how the board and management adapt their positions over time.
+This disclosure acknowledges traditional risk management and the need for boards and management to
+look beyond risks to the opportunities provided to the business by emerging issues, and specifically those
+related to economic, environmental and social issues.
+Climate change and data stewardship are critical aspects of this disclosure, as they affect long-term
+value for almost all companies, but are typically under-reported. As noted by the World Business Council
+for Sustainable Development (WBCSD), “in a time of climate emergency, it’s important for businesses
+to…consider the transformational changes and associated transition risks needed to achieve climate
+resilience”.36 Data stewardship is also critical for most companies. It includes responsibility for personal
+data, as well as the use and governance of artificial intelligence and cybersecurity. The financial and
+reputational impact when companies fail to consider data stewardship can be substantial.37
+Measuring Stakeholder Capitalism: Towards Common Metrics and Consistent Reporting of Sustainable Value Creation 52
+Theme Governance: Expanded metrics and disclosures Sources
+Governing
+purpose
+Purpose-led management
+How the company’s stated purpose is embedded in company
+strategies, policies and goals.
+GRI 102-26
+Rationale
+Embedding purpose within the company’s strategy and policies is necessary to realizing its stated benefits
+for all stakeholders, including shareholders.
+Additional commentary
+Providing the opportunity for companies to show how their stated purpose is integrated in the business
+strengthens the validity of their purpose statements, provides an opportunity to counter claims of
+“greenwashing” and is a useful indication of a company’s long-term value creation potential.
+Quality of
+governing body
+Progress against strategic milestones
+Disclosure of the material strategic economic, environmental and
+social milestones expected to be achieved in the following year,
+such milestones achieved from the previous year, and how those
+milestones are expected to or have contributed to long-term value.
+EPIC
+Rationale
+An outcome-oriented measure of board and management quality, this disclosure focuses on the company’s
+achievement of its stated objectives. This disclosure combines both leading and lagging indicators of the
+board’s oversight and management’s ability to set, guide and execute the company’s strategy.
+Additional commentary
+Achievement of strategic milestones in the past year provides a useful proxy of the board’s and
+management’s ability to oversee the organization’s achievement of its strategic objectives, including
+purpose. Strategic milestones for the year ahead allow stakeholders to more effectively evaluate the
+quality of decision-making by the board and management and the extent to which that decision-making is
+consistent with the purpose and objectives of the firm.
+Quality of
+governing body
+Remuneration
+1. How performance criteria in the remuneration policies relate
+to the highest governance body’s and senior executives’
+objectives for economic, environmental and social topics, as
+connected to the company’s stated purpose, strategy and
+long-term value.
+2. Remuneration policies for the highest governance body and
+senior executives for the following types of remuneration:
+– Fixed pay and variable pay, including performance-based
+pay, equity-based pay, bonuses and deferred or vested
+shares
+– Sign-on bonuses or recruitment incentive payments
+– Termination payments
+– Clawbacks
+– Retirement benefits, including the difference between benefit
+schemes and contribution rates for the highest governance
+body, senior executives and all other employees
+GRI 102-35
+Rationale
+The incentives provided to board members and senior executives, and the way they are structured, can
+significantly reinforce or impede long-term value creation. Importantly, this disclosure requires the reporting
+organization to explicitly address how its approach to remuneration relates to the organization’s economic,
+environmental and social objectives.
+Additional commentary
+If remuneration is incongruent with long-term objectives, including a combination of commercial and
+societal value creation, it can undermine the ability of governance bodies to provide effective oversight.
+This disclosure is an important advanced indicator of board quality, providing detailed insight into the
+various mechanisms for remuneration and how they are applied. Disclosing how incentives for governing
+bodies are aligned to long-term value serves as a useful indication of the organization’s ability to achieve
+that value. This level of disclosure provides valuable insight for external stakeholders in evaluating the
+alignment of different aspects of governance and fosters increased transparency and trust.
+TABLE Governance: Expanded metrics and disclosures
+Measuring Stakeholder Capitalism: Towards Common Metrics and Consistent Reporting of Sustainable Value Creation 53
+Theme Governance: Expanded metrics and disclosures Sources
+Ethical behaviour Alignment of strategy and policies to lobbying
+The significant issues that are the focus of the company’s
+participation in public policy development and lobbying; the
+company’s strategy relevant to these areas of focus; and any
+differences between its lobbying positions and its purpose,
+stated policies, goals or other public positions.
+GRI 415: Public
+Policy 2016
+Rationale
+Consistency between corporate activity related to lobbying and the firm’s publicly stated purpose and
+strategy is a core component of alignment on long-term objectives, which in turn is essential for longterm value creation. Monitoring this consistency is an important element of overall transparency and the
+authentic pursuit of the company’s objectives.
+Additional commentary
+To create long-term value, corporate behaviour needs to conform to existing norms but also to align with the
+corporation’s long-term objectives, both commercial and societal. This disclosure is a critical advanced indicator
+of corporate behaviour, by providing insight into the extent to which lobbying and advocacy (an important
+but potentially damaging area of corporate activity for stakeholders) is not only permissible but aligned to the
+company’s publicly stated objectives and purpose. Reporting organizations will need to be mindful of local laws,
+which can shape or constrain the way the standard cited here as a guideline is implemented.
+Ethical behaviour Monetary losses from unethical behaviour
+Total amount of monetary losses as a result of legal proceedings
+associated with fraud, insider trading, anti-trust, anti-competitive
+behaviour, market manipulation, malpractice or violations of
+other related industry laws or regulations.
+SASB 510a.1
+Rationale
+This metric is a critical advanced indicator of ethical behaviour, focusing on the company’s observed
+behaviour and relying on outside parties (regulators) and a robust formal process (enforcement and the
+courts) to assess that behaviour. Additionally, measurement in monetary terms facilitates comparison
+across firms.
+Additional commentary
+To assess the ethical standing of a company, it is important to monitor the processes in place to foster
+the right culture and behaviours, as well as the extent to which these processes are adhered to over time.
+Violations of laws governing corporate behaviour are a useful proxy for assessing this adherence.
+Risk and
+opportunity
+oversight
+Economic, environmental and social topics in capital allocation
+framework
+How the highest governance body considers economic,
+environmental and social issues when overseeing major capital
+allocation decisions, such as expenditures, acquisitions and
+divestments.
+CDSB REQ-02
+Rationale
+This disclosure is an important way to gauge the quality of risk and opportunity oversight and the extent to
+which it incorporates economic, environmental and social considerations. Capital allocation is at the core
+of any business model and illustrates the company’s longer-term priorities; as such it is a leading indicator
+of long-term value creation.
+Additional commentary
+Robust governance of both risks and opportunities, with the goal of long-term value creation, must
+engage with the way those risks and opportunities are embedded in the business. 
+Governance
+Clawback Repayment of previously received compensation
+required to be made by an executive to his or her
+employer in the event certain conditions of employment
+or goals are not met
+GRI: 102-35,
+Glossary
+Principles of Governance,
+Expanded: Remuneration
+Confirmed
+incident of
+corruption
+Incident of corruption that has been found to be
+substantiated.
+Note: Confirmed incidents of corruption do not include
+incidents of corruption that are still under investigation
+in the reporting period.
+GRI: 205-3,
+Glossary
+Principles of Governance, Core:
+Anti-corruption
+Corruption Abuse of entrusted power for private gain, which can be
+instigated by individuals or organizations.
+Note: In the GRI Standards, corruption includes practices
+such as bribery, facilitation payments, fraud, extortion,
+collusion and money laundering. It also includes an
+offer or receipt of any gift, loan, fee, reward, or other
+advantage to or from any person as an inducement to
+do something that is dishonest, illegal, or a breach of
+trust in the conduct of the enterprise’s business. This can
+include cash or in-kind benefits, such as free goods, gifts
+and holidays, or special personal services provided for
+the purpose of an improper advantage, or that can result
+in moral pressure to receive such an advantage.
+GRI: 205-2, GRI
+205-3, Glossary
+Principles of Governance, Core:
+Anti-corruption
+Governance
+body (alt.
+governing
+body)
+Committee or board responsible for the strategic
+guidance of the organization, the effective monitoring of
+management and the accountability of management to
+the broader organization and its stakeholders
+GRI: 102-22,
+205-2, 405-1a,
+Glossary
+Principles of Governance, Core:
+– Governance body
+composition
+– Anti-corruption
+Principles of Governance,
+Expanded: Economic,
+environmental and social topics
+in capital allocation framework
+Highest
+governance
+body
+Formalized group of persons charged with ultimate
+authority in an organization.
+Note: In instances where the highest governance body
+consists of two tiers, both tiers are to be included.
+GRI: 102-22, 102-
+35, Glossary
+Principles of Governance, Core:
+– Governance body
+composition
+– Anti-corruption
+Principles of Governance,
+Expanded:
+– Remuneration
+– Economic, environmental
+and social topics in capital allocation framework
+Impact In the GRI Standards, unless otherwise stated,
+“impact” refers to the effect an organization has on the
+economy, the environment, and/or society, which in
+turn can indicate its contribution (positive or negative) to
+sustainable development.
+Note 1: In the GRI Standards, the term “impact” can
+refer to positive, negative, actual, potential, direct,
+indirect, short-term, long-term, intended, or unintended
+impacts.
+Note 2: Impacts on the economy, environment, and/
+or society can also be related to consequences for
+the organization itself. For example, an impact on the
+economy, environment, and/or society can lead to
+consequences for the organization’s business model,
+reputation, or ability to achieve its objectives.
+GRI: 102-47,
+Glossary
+Principles of Governance,
+Core: Material issues impacting
+stakeholders
+Losses
+(monetary)
+All monetary liabilities to the opposing party or to others
+(whether as the result of settlement or verdict after
+trial or otherwise), including fines and other monetary
+liabilities incurred during the reporting period as a result
+of civil actions (e.g. civil judgments or settlements),
+regulatory proceedings (e.g. penalties, disgorgement, or
+restitution) and criminal actions (e.g. criminal judgment,
+penalties, or restitution) brought by any entity (e.g.
+governmental, business, or individual).
+SASB: 510a.1 Principles of Governance,
+Expanded: Monetary losses
+from unethical behaviour
+Remuneration Basic salary plus additional amounts paid to a worker.
+Note: Examples of additional amounts paid to a worker
+can include those based on years of service, bonuses
+including cash and equity such as stocks and shares,
+benefit payments, overtime, time owed and any
+additional allowances, such as transportation, living and
+childcare allowances.
+GRI: 102-35,
+Glossary
+Principles of Governance,
+Expanded: Remuneration
+Stakeholder Entity or individual that can reasonably be expected to
+be significantly affected by the reporting organization’s
+activities, products and services, or whose actions
+can reasonably be expected to affect the ability of the
+organization to successfully implement its strategies
+and achieve its objectives.
+Note 1: Stakeholders include entities or individuals
+whose rights under law or international conventions
+provide them with legitimate claims vis-à-vis the
+organization.
+Note 2: Stakeholders can include those who are
+invested in the organization (such as employees
+and shareholders), as well as those who have other
+relationships to the organization (such as other workers
+who are not employees, suppliers, vulnerable groups,
+local communities and NGOs or other civil society
+organizations, among others).
+GRI: 102-21,
+102-43, 102-47,
+102-22, 205-3,
+Glossary
+Principles of Governance, Core:
+– Setting Purpose
+– Governance body
+composition
+– Anti-corruption
+– Material issues impacting
+stakeholders
+Termination
+payment
+All payments made and benefits given to a departing
+executive or member of the highest governance body
+whose appointment is terminated.
+Note: Termination payments extend beyond monetary
+payments to the giving of property and the automatic
+or accelerated vesting of incentives given in connection
+with a person’s departure from office.
+GRI: 102-35,
+Glossary
+Principles of Governance,
+Expanded: Remuneration
+Topic Economic, environmental or social subject.
+Note 1: In the GRI Standards, topics are grouped
+according to the three dimensions of sustainable
+development: economic, environmental and social.
+Note 2: To prepare a report in accordance with the GRI
+Standards, an organization is required to report on its
+material topics.
+GRI: 102-21,
+102-22, 102-35,
+102-47, Glossary
+Principles of Governance, Core:
+– Governance body
+composition
+– Material issues impacting
+stakeholders
+Principles of Governance,
+Expanded: Remuneration
+Underrepresented
+social group
+Population that, relative to its numbers in a given
+society, has less opportunity to express its economic,
+social, or political needs and views.
+GRI: 102-22,
+Glossary
+Principles of Governance, Core:
+Governance body composition
+

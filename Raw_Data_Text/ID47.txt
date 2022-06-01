@@ -1,0 +1,229 @@
+Practice Note 7.6 Sustainability Reporting Guide
+Listing Rule 711A
+Listing Rule 711B
+1. Introduction
+
+1.1 Listing Rule 711A requires every issuer to prepare an annual sustainability report, which must describe the issuer's sustainability practices with reference to the primary components set out in Listing Rule 711B on a 'comply or explain' basis (other than as required under Listing Rule 711B(2)). This Practice Note contains the Sustainability Reporting Guide (the "Guide"), which provides guidance on the expected structure and contents and the preparation of the sustainability report.
+1.2 Sustainability reporting disclosure does not detract from the issuer's obligation to disclose any information that is necessary to avoid the establishment of a false market in the issuer's securities or would be likely to materially affect the price or value of its securities pursuant to Listing Rule 703.
+1.3 A glossary of the common terms used in the Guide is set out in paragraph 8 of this Guide.
+2. Policy Statement on Sustainability Reporting
+
+2.1 Issuers make regular financial reports to their investors that are used for assessment of the likelihood of repayment (in the case of debt securities) and the returns on investment (in the case of equity securities). Increasingly, investors are demanding that issuers also disclose sustainability information.
+2.2 Reflecting these expectations, financial reports increasingly need to be supplemented by descriptive and quantitative information on how business is conducted and the sustainability of the current business into the future.
+2.3 SGX believes that the addition of sustainability reporting to financial reporting provides a more comprehensive picture of the issuer: statements of financial position and comprehensive income provide a snapshot of the present and an account of the past year, while sustainability reports of environmental, social and governance (“ESG”) factors show the risks and opportunities within sight, managed for future returns. Taken together, the combined financial and sustainability reports enable a better assessment of the issuer's financial prospects and quality of management.
+2.4 To achieve the additional transparency which encourages efficiency and innovation, SGX-ST requires each issuer to publish an annual sustainability report, describing the primary components on a 'comply or explain' basis, and in relation to the primary component in Listing Rule 711B(1)(aa) where the issuer is in any of the industries identified in paragraph 4.9 of this Guide, on a mandatory basis, in accordance with the Listing Rules. This Guide provides guidance to the issuer on compliance with the requirements under the Listing Rules.
+3. Principles
+
+Board responsibility
+
+3.1 The Code states as its preamble that sustainability, together with accountability and transparency, is a tenet of good governance. It provides that the Board is collectively responsible for the long-term success of the issuer, and the Board's role includes setting strategic objectives which should include appropriate focus on sustainability. The Board has ultimate responsibility for the issuer's sustainability reporting. Consistent with its role, the Board should determine the ESG factors identified as material to the business and see to it that they are monitored and managed. Management has responsibility to ensure that the ESG factors are monitored on an ongoing basis and properly managed. The Board's close interaction with management will enable the Board to satisfy itself on the way sustainability governance is structured and functioning through the various levels of management. If any question is raised regarding the issuer's sustainability reporting, the Board and management should make sure it is addressed.
+'Comply or explain'
+
+3.2 Each issuer is required to prepare an annual sustainability report. The sustainability report must include the primary components as set out in Listing Rule 711B on a 'comply or explain' basis (other than as required under Listing Rule 711B(2)). Where the issuer cannot report on any primary component, the issuer must state so and explain what it does instead and the reasons for doing so. As set out in Listing Rule 711B(2), an issuer in any of the industries identified in paragraph 4.9 of this Guide may not exclude the primary component in Listing Rule 711B(1)(aa).
+Report risks as well as opportunities
+
+3.3 In identifying material ESG factors, the issuer should consider both risks and opportunities. In addition, it is conceptually sound, and validated by experience, that risks well-managed represent strengths which can be applied to fulfill opportunities. The risks and opportunities within sight have direct bearing on strategies and operations and should be reported for clearer understanding of the issuer's performance, prospects and management quality. To facilitate understanding, issuers should give the whole explanation in a concise manner.
+Balanced reporting
+
+3.4 In reporting on sustainability, care should be taken to give an accurate and balanced view. There may be a tendency to give more prominence to what is favourable and understate what is negative. Both situations require comprehensive explanations. In reporting performance, factors beyond the issuer's control are as relevant to exceeding the target as to a performance shortfall. In the event of underperformance, the issuer's response is also important and should be included to bring about confidence in its longer term sustainability objectives.
+Global standards and comparability
+
+3.5 The issuer needs to give priority to using globally-recognised frameworks and disclosure practices to guide its reporting. The recommendations of the Task Force on Climate-related Financial Disclosures (“TCFD”) have gained widespread acceptance in international markets as a common framework to disclose climate-related financial information. The increasingly borderless markets for funds as well as for goods and services mean that corporate reporting standards tend to gravitate toward global best practice. Added to this is the international character of SGX-ST both in terms of issuers as well as investors. The individual issuer should take care that its disclosure efforts not be considered inadequate by stakeholders. Where the issuer is applying a portion of a particular framework, the issuer should provide a general description of the extent of the issuer's application of the framework.
+Stakeholder engagement
+
+3.6 The issuer's responsibility on disclosure, including annual reports and sustainability reports, is first and foremost to current and potential shareholders, i.e. the investing public. Interaction of the issuer with its other stakeholders is also of interest to investors for its relevance to sustainability across the value chain of the issuer. The views of stakeholders also contribute to inform the issuer's identification of material ESG factors. On a continuing basis, regular and sustained engagement with stakeholders provides the issuer with an up-to-date picture of its sustainability within both its business and physical environments. The material outcomes of such engagement should be included in the sustainability report.
+4. Contents of Sustainability Reporting
+
+Primary components
+
+4.1 The sustainability report should comprise the following primary components:
+ 
+(a) Material ESG factors. The sustainability report should identify the material ESG factors, and describe both the reasons for and the process of selection, taking into consideration their relevance or impact to the business, strategy, financial planning, business model and key stakeholders.
+(b) Climate-related disclosures. The sustainability report should contain disclosures related to climate risks and opportunities, consistent with the TCFD recommendations.
+(c) Policies, practices and performance. The sustainability report should set out the issuer's policies, practices and performance in relation to the material ESG factors identified, providing descriptive and quantitative information on each of the identified material ESG factors for the reporting period. Performance should be described in the context of previously disclosed targets.
+(d) Targets. The sustainability report should set out the issuer's targets for the forthcoming year in relation to each material ESG factor identified. Targets should be considered for defined short, medium and long term horizons, and if not consistent with those used for strategic planning and financial reporting, the reasons for the inconsistency should be disclosed.
+(e) Sustainability reporting framework. The issuer should select a sustainability reporting framework (or frameworks) to guide its reporting and disclosure. For climate-related disclosures, the issuer should report based on the TCFD recommendations. The sustainability reporting framework(s) selected should be appropriate for and suited to its industry and business model. The issuer should state the name of the framework(s), explain its reasons for choosing the framework(s) and provide a general description of the extent of the issuer's application of the framework(s).
+(f) Board statement. The sustainability report should contain a statement of the Board that it has considered sustainability issues in the issuer’s business and strategy, determined the material ESG factors and overseen the management and monitoring of the material ESG factors. In addition, the sustainability report should describe the roles of the Board and the management in the governance of sustainability issues.
+Identification of material ESG factors
+
+4.2 The issuer should review its business in the context of the value chain and determine what ESG factors in relation to its interaction with its physical environment and social community and its governance, are material for the continuity of its business. The issuer is expected to report the criteria and process by which it has made its selection with reference to how these factors contribute to the creation of value for the issuer.
+4.3 In broad terms, environmental factors would include materials, energy, biodiversity, water, greenhouse gas (“GHG”) emissions, effluents and waste as well as environmental complaint mechanisms. Social factors would include health and safety, employment practices and labour rights such as collective bargaining, product responsibility, anti-corruption, supplier assessments and impact of direct and supply chain activities on local communities. The framework chosen is likely to have additional factors that the issuer would report on.
+4.4 Corruption is a factor on which many investors require reassurance, whether inducement is being offered to employees or by employees to others. Where corruption has been addressed in the Corporate Governance report, the issuer may refer to that report. If corruption is not assessed to be a material ESG factor by the issuer, where stakeholders express sufficient interest in the information, the issuer is advised to state its policy and safeguards on its website.
+4.5 Gender, skills and experience have been highlighted as diversity indicators material to business sustainability. Diversity greatly enhances the issuer's capacity for breadth of input and perspectives into decision making, risk alertness and responsiveness to change. The issuer should be aware of this trend and assess whether diversity is a material social factor in its business. It should engage stakeholders in assessing the necessity of reporting on this matter. In satisfying investors and other stakeholders, diversity should be examined through broad levels of staff and also importantly, in the Board. Where other sections of the annual report sufficiently address stakeholders’ interest in diversity, the issuer may refer to those sections.
+4.6 The issuer should consider not just its internal circle of operations but also widen that circle to include persons and processes in the value chain that contribute to the issuer's product or service. Parts of the business outsourced to third parties (for example, freight and logistics), as well as downstream processes (for example, product defect response), constitute an integral part of the issuer's business and need to be included in the sustainability report.
+Climate-related disclosures
+
+4.7 Climate change threatens to disrupt businesses in a precipitous and potentially devastating manner, with consequential detrimental effects on their stakeholders and providers of capital. Conversely, it also opens up new markets for solutions that respond to the threat. Investors need to properly understand the climate-related risks and opportunities of their portfolio in order to price or value their investments.
+4.8 Securities markets promote the ready availability of decision-useful information so that it may be reflected in the price discovery process. In doing so, exchanges facilitate the allocation of capital to its most efficient use and the transfer of risks to those most willing to bear them.
+4.9 The issuer should provide climate-related disclosures, consistent with the TCFD recommendations. An issuer in any of the following industries identified by the TCFD as most affected by climate change and the transition to a lower-carbon economy will be prioritised to provide mandatory climate-related disclosures, consistent with the TCFD recommendations:
+ 
+For All Financial Years Commencing	Industry (as identified by TCFD)
+1 January 2023	Financial
+Agriculture, Food and Forest Products
+Energy
+1 January 2024	Materials and Buildings
+Transportation
+4.10 Climate-related risks and opportunities are likely to impact the issuer’s future financial position and performance, as reflected in its income statement, cash flow statement and balance sheet. The TCFD sets out recommendations to help organisations disclose climate-related financial information that would be useful to investors, lenders and insurance underwriters. More broadly, this information may also be of interest to other stakeholders.
+ 
+Figure 1: Climate-related risks, opportunities, and financial impact
+
+Source: TCFD
+4.11 The TCFD developed recommended disclosures across four pillars: governance, strategy, risk management, and metrics and targets. The recommended disclosures provide an explanation on the requisite disclosures to fulfil the requirements of the four pillars.
+ 
+Figure 2: TCFD recommendations and supporting recommended disclosures
+
+Source: TCFD
+4.12 The TCFD recommendations are consistent with the requirements in the Listing Rules and this Guide. A mapping table is set out below:
+ 
+TCFD Recommendations	Listing Rules and Guide
+Governance
+Describe the board’s oversight of climate-related risks and opportunities.	The sustainability report should contain a statement of the Board that it has considered sustainability issues in the issuer’s business and strategy, determined the material ESG factors and overseen the management and monitoring of the material ESG factors.	Listing Rule 711B(1)(e) and paragraph 4.1(f) of this Guide
+Describe management’s role in assessing and managing climate-related risks and opportunities.	The sustainability report should describe the roles of the management in the governance of sustainability issues.	Listing Rule 711B(1)(e) and paragraph 4.1(f) of this Guide
+Strategy
+Describe the climate-related risks and opportunities the organisation has identified over the short, medium, and long term.	The sustainability report should contain the material ESG factors, which are the most important ESG risks and opportunities that will act as barriers or enablers to achieving business goals in the short, medium and long term.	Listing Rule 711B(1)(a) and paragraph 4.18 of this Guide
+Describe the impact of climate-related risks and opportunities on the organisation’s businesses, strategy, and financial planning.	The sustainability report should describe both the reasons for and the process of selection of the material ESG factors, taking into consideration their relevance or impact to the business, strategy, financial planning, business model and key stakeholders.	Paragraph 4.1(a) of this Guide
+Describe the resilience of the organisation’s strategy, taking into consideration different climate-related scenarios, including a 2°C or lower scenario.	The sustainability report should describe how resilient the issuer’s strategies are to climate-related risks and opportunities, taking into consideration a transition to a lower-carbon economy consistent with a 2°C or lower scenario and, where relevant, scenarios consistent with increased physical climate-related risks.	Paragraph 4.15 of this Guide
+Risk Management
+Describe the organisation’s processes for identifying and assessing climate-related risks.	The issuer is expected to report the criteria and process by which it has made its selection with reference to how the material ESG factors contribute to the creation of value for the issuer.	Paragraph 4.2 of this Guide
+Describe the organisation’s processes for managing climate-related risks.	The issuer should devise policies and processes to adequately and effectively manage the risks associated with the identified material ESG factors, and describe key features of mitigation.	Paragraph 4.26 of this Guide
+Describe how processes for identifying, assessing, and managing climate-related risks are integrated into the organisation’s overall risk management.	The issuer should use risk ranking and prioritisation to distil the material ESG factors. This process is similar to the widely-practised Enterprise Risk Management (“ERM”) process. The issuer should expand the breadth of the assessment to integrate ESG risk management structures into existing ERM structures or apply existing ERM structures to ESG risk management structures.	Paragraph 4.21 of this Guide
+Metrics and Targets
+Disclose the metrics used by the organisation to assess climate-related risks and opportunities in line with its strategy and risk management process.	A description of the ESG practices and performance across historical and the current reporting periods allows investors and the issuer itself to track its progress. These metrics also form the baseline from which the issuer chooses to set its targets, as informed by its strategic plan and financial reporting.	Paragraph 4.27 of this Guide
+Disclose Scope 1, Scope 2 and, if appropriate, Scope 3 GHG emissions, and the related risks.	The sustainability report should provide climate-related disclosures, consistent with the TCFD recommendations. TCFD recommends disclosure of the issuer’s Scope 1 and Scope 2, and if appropriate, Scope 3 GHG emissions. An internationally accepted GHG accounting system, such as the GHG Protocol should be used to measure the GHG emissions. These disclosures should include the methodologies and emission factors used.	Listing Rule 711B(1)(aa) and paragraph 4.14 of this Guide
+Describe the targets used by the organisation to manage climate-related risks and opportunities and performance against targets.	The sustainability report should set out the issuer's targets for the forthcoming year in relation to each material ESG factor identified. Targets should be considered for defined short, medium and long term horizons, and if not consistent with those used for strategic planning and financial reporting, the reasons for the inconsistency should be disclosed.
+
+The sustainability report should set out the issuer's performance in relation to the material ESG factors identified, providing descriptive and quantitative information on each of the identified material ESG factors for the reporting period. Performance should be described in the context of previously disclosed targets.	Listing Rules 711B(1)(b) and 711B(1)(c) and paragraphs 4.1(c) and 4.1(d) of this Guide
+4.13 TCFD has issued both general and sector-specific guidance, as well as additional supporting materials, on implementing the TCFD recommendations. The sector-specific guidance highlights important considerations for the financial sector and non-financial sectors potentially most affected by climate change, and provides a fuller picture of potential climate-related financial impact in those sectors. The additional supporting materials provide guidance on specific topics intended to help address identified challenges in the preparer’s implementation of key components of the TCFD recommendations, such as on scenario analysis, and metrics and targets. The Sustainable Stock Exchanges initiative has also developed a checklist in its model guidance (“SSE Model Guidance”) on the implementation of the TCFD recommendations. The issuer is encouraged to refer to the TCFD’s supplemental guidance and additional supporting materials to guide its disclosure consistent with the TCFD recommendations, and use the checklist in the SSE Model Guidance to determine whether the information recommended for disclosure by the TCFD are contained in its sustainability report.
+4.14 TCFD recommends disclosure of the issuer’s Scope 1 and Scope 2, and if appropriate, Scope 3 GHG emissions. An internationally accepted GHG accounting system, such as the GHG Protocol should be used to measure the GHG emissions. These disclosures should include the methodologies and emission factors used. For industries with high energy consumption, it may also be important to provide emission intensity per unit of economic output (for example, unit of production or revenue).
+4.15 TCFD also recommends conducting scenario analysis to identify and effectively assess the potential implications of a range of plausible future conditions due to the uncertainty of climate-related changes. Conducting scenario analysis is not an exercise in forecasts, predictions or sensitivity analyses, but rather in evaluating resilience to different possible future scenarios. To reduce the risks and impacts of climate change, almost all countries have agreed to take action in limiting global warming to well below 2°C above pre-industrial levels, while pursuing efforts to arrest the increase to 1.5°C above pre-industrial levels. The issuer should describe how resilient its strategies are to climate-related risks and opportunities, taking into consideration a transition to a lower-carbon economy consistent with a 2°C or lower scenario and, where relevant, scenarios consistent with increased physical climate-related risks.
+4.16 An issuer new to scenario analysis can consider starting with qualitative scenario narratives to explore the potential range of implications. As it gains more experience, it can consider using quantitative information to describe the potential outcomes, and to enhance the rigour of that analysis.
+4.17 The SSE Model Guidance sets out a simplified three stage process to the conduct of scenario analysis. First, the issuer should identify appropriate scenarios that align with its underlying assumptions and the key risks and opportunities of its sector or industry, and clearly explain the scenarios used. Second, the issuer may set boundaries of its scenario analysis with sufficient disclosure of the reasons for exclusion and inclusion. A smaller issuer may feel that an analysis of the direct operations sufficiently covers the climate-related risks and opportunities within each scenario, while a larger issuer and those in the financial sector should expand their analysis beyond their direct operations to include indirect GHG emissions (i.e. Scope 3 GHG emissions). Third, an issuer should evaluate its physical and transitional risks within the scenarios chosen. Mapping the severity and likelihood of the risks enables the issuer to develop a strategic plan for future scenarios.
+Materiality
+
+4.18 As guidance, sustainability reporting relates to the most important ESG risks and opportunities that will act as barriers or enablers to achieving business goals in the short, medium and long term. The omission or misstatement of these risks or opportunities could influence the decisions of investors. The sustainability reporting framework selected by the issuer may also contain a definition of materiality that the issuer should consider.
+4.19 Generally, what is material in sustainability reporting would also be considered material in financial terms, if not in the immediate period, then over time.
+4.20 In assessing materiality of the ESG factors on which it reports, the issuer should first satisfy itself of the relevance of selected factors to its business strategy and outcomes. This has the benefit of focusing both executives and employees on uniform key risks and opportunities that deliver (or impede) desired outcomes.
+4.21 The issuer should use risk ranking and prioritisation to distil the material ESG factors. This process is similar to the widely-practised Enterprise Risk Management (“ERM”) process. The issuer should expand the breadth of the assessment to integrate ESG risk management structures into existing ERM structures or apply existing ERM structures to ESG risk management structures.
+4.22 The Board should determine the material ESG factors and the issuer's response to the attendant risks and opportunities. Discussion with stakeholders contributes to an accurate appreciation of what is important in the business on an ongoing basis.
+Possible process and tools
+
+4.23 A possible process for assessing ESG factors with material relevance to the business and business model are set out in the following paragraphs.
+4.24 In assessing materiality of the ESG factors on which it reports, the issuer may consider:
+ 
+(a) Value drivers
+(b) Stakeholder engagement
+(c) Risk management
+(d) External factors, for example sector, geography, economics, market, social, environment
+(e) Internal factors, for example business model, business cycle, strategy
+(f) Qualitative perspectives, for example operational, strategic, reputational and regulatory
+(g) Timeframe of these considerations
+4.25 The issuer may use the following Materiality Determination Process: Identify — Rate — Prioritise — Validate. The issuer should disclose the outcomes of this process in its sustainability report.
+ 
+(a) STEP 1: IDENTIFY. The issuer should identify the most pressing (material) factors (impact/opportunities) for the issuer (or for each subsidiary in the group). It will also help formulate management's approach and response, and identify where data collection needs to be strengthened.
+(b) STEP 2: RATE. Once the issues of the issuer and its subsidiaries have been explored, the issuer will need to cluster similar issues e.g. safety and health issues can be clustered together. If the issuer is a holding company, a rating process can be done to assess what issues are pervasive/most common across the group.
+(c) STEP 3: PRIORITISE. Once the issues of the issuer and its subsidiaries have been clustered and rated, the issuer will need to prioritise them using a matrix based on likelihood and impact.
+(d) STEP 4: VALIDATE. Once the issuer has prioritised its factors, they need to be internally validated and signed off by leadership.
+Policies, practices and performance
+
+4.26 The issuer should devise policies and processes to adequately and effectively manage the risks associated with the identified material ESG factors, and describe key features of mitigation.
+4.27 A description of the ESG practices and performance across historical and the current reporting periods allows investors and the issuer itself to track its progress. These metrics also form the baseline from which the issuer chooses to set its targets, as informed by its strategic plan and financial reporting.
+4.28 An effective policy and operational response to sustainability risks and opportunities requires performance measurement and its linkage to performance incentives. Having a good performance measurement system allows the issuer to benchmark performance against stated objectives and facilitates comparison over time and across entities. Clearly linking sustainability risks and opportunities with strategy, other organisational risks, operational indicators, performance measures and performance incentives not only enhances understanding but provides an engine for improvement, innovation and accountability.
+4.29 A clear description of the issuer’s substantive response to ESG risks and opportunities, with a focus on its policies, practices and performance against targets, will bolster investors’ confidence in the Board and management.
+Sustainability reporting framework
+
+4.30 The issuer should select a sustainability reporting framework which is appropriate for and suited to its industry and business model, and explain its choice. In doing so, the issuer should place importance on using a globally-recognised framework for its wider acceptance in an increasingly global marketplace. The issuer can be more easily understood and compared with its peers in Singapore as well as in other jurisdictions across the world. The issuer should exercise considerable caution if it chooses to deviate from generally-accepted frameworks.
+4.31 Among the well-known and globally-recognised sustainability reporting frameworks, the Global Reporting Initiative (“GRI”) Sustainability Reporting Guidelines set out generic sustainability factors and general principles and indicators that an issuer can use to report sustainability policies, practices, performance and targets. The International Integrated Reporting Council's (“IIRC”) Framework (“<IR>”) also sets out a general framework for reporting. An issuer using <IR> should consider ESG factors when determining their material factors for inclusion in the integrated report. The issuer may also consider referring to the Sustainability Accounting Standards Board's (“SASB”) standards which adopt an industry-specific approach to material ESG factors. IIRC and SASB have merged to form the Value Reporting Foundation. More than one sustainability reporting framework may be chosen as relevant to the issuer's business.
+4.32 For climate-related disclosures, the issuer should provide such disclosures consistent with the TCFD recommendations. Some issuers have used the Science Based Targets initiative to guide their GHG emissions reduction targets.
+4.33 The issuer is expected to follow the chosen framework(s) from year to year and build up its knowledge and understanding of how to report effectively. In turn, it can expect to be building up investors' and stakeholders' understanding, leading to increased confidence. In the absence of regulatory changes, only major changes in business strategy and/or model are likely to require change in sustainability reporting framework. This does not preclude examination of framework relevance from time to time.
+Time horizons used in the sustainability report
+
+4.34 In making its sustainability report, the issuer should consider whether it would be useful to report matters for their relevance in the short, medium and long term. Accordingly, sustainability policies, practices, performance and targets would be considered along the same time horizons. The time horizons should be internally consistent with those used for strategic planning and financial reporting (e.g. useful life of assets, impairment testing etc.). Where they are not consistent, the reasons for the inconsistency should be disclosed. Typically the short-term is considered less than one year for banking and financial instruments. For the medium term, the issuer may wish to take reference from their typical planning horizon, investment cycle or plant renewal or other considerations relevant to its business. The long-term should be a useful time horizon over which expectations can be formed and efforts planned.
+Stakeholder engagement
+
+4.35 Stakeholder engagement is integral to any business and would be conducted regularly. The issuer should consider ESG factors in their engagement with stakeholders, not just with investors, but also customers, staff, suppliers, regulators, local communities and others in the value chain. The issuer should monitor carefully its communication with stakeholders so as to avoid any information asymmetry as it may lead to unfair trading in the securities market.
+Group and investment holding company reporting
+
+4.36 Where holding companies and operating subsidiaries are both listed and have to undertake sustainability reporting, the operating entities can report on the ESG factors within their scope of operations. If the ESG factors are also material to the holding company, the holding company may make reference in its sustainability report to the sustainability reports of the operating subsidiaries. If the holding company has material investee companies which are not subsidiaries, its sustainability report should include the selection and management of these investee companies.
+5. Internal Reviews and External Assurance
+
+5.1 Internal reviews and external assurance increase stakeholder confidence in the accuracy and reliability of the sustainability information disclosed.
+5.2 These procedures over sustainability disclosures should be aligned with the issuer’s existing internal review or external assurance frameworks for other management information, such as financial information or production data.
+5.3 An internal review of the sustainability reporting process builds on the issuer’s existing governance structure, buttressed by adequate and effective internal controls and risk management systems. The internal audit function conducts the internal review, and may involve relevant functions, such as risk management, sustainability or other specialist functions. The identified processes relating to sustainability reporting should be incorporated into the internal audit plan, which should cover key aspects of the sustainability report; the review may take place over an audit cycle, which may span one or a few years in accordance with risk-based planning, as approved by the Audit Committee. The expectations of the Board, management and other stakeholders should be considered as part of the prioritisation. The internal review should be conducted in accordance with the International Standards for the Professional Practice of Internal Auditing issued by The Institute of Internal Auditors.
+5.4 An issuer whose sustainability reporting has already matured after several annual exercises would want to undertake external assurance by independent professional bodies to add credibility to the information disclosed and analysis undertaken. The issuer is encouraged to consider independent external assurance on selected important aspects of its sustainability report even in its initial years, expanding coverage in succeeding years.
+5.5 External assurance involves the engagement of a third party. The scope of the assurance may include a materiality assessment, and cover different aspects of the sustainability disclosures, for example:
+ 
+(a) data and its associated data collection process;
+(b) narratives;
+(c) compliance with the specified sustainability reporting framework;
+(d) process to identify sustainability information reported; and
+(e) compliance with the Listing Rules.
+5.6 External assurance should be performed in accordance with recognised assurance standards, for example the International Standard on Assurance Engagements (ISAE) 3000, the Singapore Standards on Assurance Engagement (SSAE) 3000, the AA 1000 Assurance Standards or the ISO.
+5.7 An issuer that has conducted external assurance should disclose, in the sustainability report, that external assurance has been conducted, including the scope covered, the identity of the external assurer, the standards used and key findings.
+6. Form and Frequency of Sustainability Reporting
+
+6.1 The issuer should report on sustainability at least once a year. The issuer's sustainability disclosure may be done in its annual report. The inclusion of sustainability risks and opportunities with the businesses' other risks and strategy in the same document presents advantages to the user. Sustainability reports contained within annual reports would observe annual report deadlines. Alternatively, if more appropriate for the circumstances of the issuer, the issuer may include a summary in its annual report and issue a full standalone sustainability report within 4 months of the end of the financial year, or where the issuer has conducted external assurance on the sustainability report, within 5 months of the end of the financial year.
+6.2 In either case, the issuer should make available its sustainability reports on SGXNet and on its company website. After a few years of sustainability reporting, the issuer may wish to maintain static information, such as, policies and historical sustainability information, on its website while presenting the current year's changes as well as performance in the annual sustainability report.
+6.3 To provide sufficient time for preparation, an issuer in its first year of reporting may report within 12 months of the end of its financial year.
+7. Phased Approach
+
+7.1 For the first year of sustainability reporting, the issuer should have at least the assessment of material ESG factors, policies and/or practices to address the factors; but if their reporting is lacking in qualitative or quantitative descriptions, they need only state progressive targets for reaching maturity of reporting and do their best to meet them in subsequent years. Compliance with the TCFD recommendations may also take place progressively.
+7.2 An example of a phased implementation approach is illustrated in the table below:
+ 
+Illustration of Possible Phased Approach
+
+Primary Components	Adoption
+Year 1	Year 2	Year 3
+Material ESG factors	Addressed most critical factors	Reviewed factor assessment and added factors which have become material and removed existing factors which are no longer material	Reviewed factor assessment and added factors which have become material and removed existing factors which are no longer material
+Material ESG factors would be dependent on current business strategy, market conditions, stakeholder concerns etc., therefore the number of material ESG factors may vary year-on-year.
+Climate-related disclosures consistent with the TCFD recommendations	Described the governance structures, including Board oversight and management’s role
+
+Identified the climate-related risks and opportunities
+
+Described the processes for identifying and managing climate-related risks
+
+Impacts in qualitative terms
+
+Scope 1 and Scope 2 GHG emissions	Metrics used for assessment
+
+Impacts in more quantitative terms
+
+Scope 3 GHG emissions
+
+Targets in qualitative terms
+
+Conducted qualitative scenario analysis	Scenario analysis with more quantitative outcomes
+
+Targets in quantitative terms
+Policies, practices and performance	Minimal description of how issuer manages material factors
+
+No previous targets for comparison of performance
+
+One metric per factor
+
+Plans for improved reporting in future	Description includes specific policies, practices per material factor
+
+More quantitative metrics and qualitative description per factor
+
+Comparison against previously disclosed qualitative commitments and targets with explanation of overachievement and shortfall	Description includes specific policies, practices per material factor
+
+Qualitative and quantitative description per factor
+
+Comparison against previously disclosed targets and commitments with explanation of overachievement and shortfall
+Targets	Qualitative commitments if no quantitative targets	Short and long term qualitative targets and some quantitative targets	Short and long term qualitative and quantitative targets
+
+Include peer/sector benchmarks
+
+Targets linked to management performance incentives
+Sustainability reporting framework	GRI
+
+TCFD	GRI
+
+TCFD	GRI
+
+TCFD
+Board statement and associated governance structure for sustainability practices	Complied	Complied	Complied
+8. Glossary
+
+ESG factors	Environmental, social and governance factors that affects the issuer's performance and prospects. Also referred to as sustainability issues, or sustainability risks and opportunities. Does not mean philanthropy or other charitable activities.
+Sustainability reporting	The publication of information on material ESG factors in a comprehensive and strategic manner.
+Materiality	In relation to ESG factors, the most important ESG risks and opportunities that will act as barriers or enablers to achieving business goals in short, medium and long term. The omission or misstatement of these risks or opportunities could influence the decisions of investors.

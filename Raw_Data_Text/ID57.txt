@@ -1,0 +1,671 @@
+DTR 7.2 Corporate governance statements
+DTR 7.2.1R27/07/2018
+RP
+An issuer to which this section applies must include a corporate governance statement in its directors’ report. That statement must be included as a specific section of the directors’ report and must contain at least the information set out in DTR 7.2.2 R to DTR 7.2.7 R and, where applicable, DTR 7.2.8AR and DTR 7.2.10 R.
+
+DTR 7.2.2R29/01/2016
+RP
+The corporate governance statement must contain a reference to the following, where applicable:
+
+(1) the corporate governance code to which the issuer is subject;
+(2) the corporate governance code which the issuer may have voluntarily decided to apply; and
+(3) all relevant information about the corporate governance practices applied over and above the requirements of national law.
+[Note: article 20(1)(a) first paragraph of the Accounting Directive]
+
+DTR 7.2.3R29/01/2016
+RP
+(1) An issuer which is complying with DTR 7.2.2 R (1) or DTR 7.2.2 R (2) must:
+(a) state in its directors’ report where the relevant corporate governance code is publicly available; and
+(b) where it departs from that corporate governance code, explain which parts of the corporate governance code it departs from and the reasons for doing so.
+(2) Where DTR 7.2.2 R (3) applies, the issuer must make details of its corporate governance practices publicly available and state in its directors’ report where they can be found.
+(3) If an issuer has decided not to refer to any provisions of a corporate governance code referred to under DTR 7.2.2 R (1) and DTR 7.2.2 R (2), it must explain its reasons for that decision.
+[Note: article 20(1)(a) second paragraph and article 20(1)(b) of the Accounting Directive]
+
+DTR 7.2.4G06/08/2010
+RP
+A listed company which complies with LR 9.8.6R (6) (the comply or explain rule in relation to theUK Corporate Governance Code) will satisfy the requirements of DTR 7.2.2 R and DTR 7.2.3 R.
+
+DTR 7.2.5R29/01/2016
+RP
+The corporate governance statement must contain a description of the main features of the issuer's internal control and risk management systems in relation to the financial reporting process.
+
+[Note: article 20(1)(c) of the Accounting Directive]
+
+DTR 7.2.6R01/01/2021
+RP
+The corporate governance statement must contain the information required by paragraph 13(2)(c), (d), (f), (h) and (i) of Schedule 7 to the Large and Medium-sized Companies and Groups (Accounts and Reports) Regulations 2008 (SI 2008/410) (information about share capital) where the issuer is subject to the requirements of that paragraph.
+
+[Note: article 20(1)(d) of the Accounting Directive]
+
+DTR 7.2.7R29/01/2016
+RP
+The corporate governance statement must contain a description of the composition and operation of the issuer's administrative, management and supervisory bodies and their committees.
+
+[Note: article 20(1)(f) of the Accounting Directive]
+
+DTR 7.2.8G13/12/2019
+RP
+In the FCA's view, the information specified in Provisions 14, 20, 23, 26, 35 and 41 of the UK Corporate Governance Code and paragraph 63 of the ‘Guidance on Board Effectiveness’ published by the Financial Reporting Council in July 2018 will satisfy the requirements of DTR 7.2.7 R, except as regards a description of the composition of the issuer’s administrative, management and supervisory bodies and their committees.
+
+DTR 7.2.8AR20/04/2022
+RP
+(1) The corporate governance statement must contain a description of:
+(a) the diversity policy applied to the issuer’s administrative, management and supervisory bodies and the remuneration, audit and nomination committees of those bodies with regard to aspects such as, for instance, age, gender, ethnicity, sexual orientation, disability or educational, professional and socio-economic backgrounds;
+(b) the objectives of the diversity policy in (a);
+(c) how the diversity policy in (a) has been implemented; and
+(d) the results in the reporting period.
+(2) If no diversity policy is applied by the issuer, the corporate governance statement must contain an explanation as to why this is the case.
+[Note: article 20(1)(g) of the Accounting Directive]
+
+DTR 7.2.8BG04/11/2016
+RP
+DTR 7.2.8AR does not apply to an issuer which qualifies as a small or medium company under DTR 1B.1.7R.
+
+DTR 7.2.8CG20/04/2022
+For the purposes of the description in DTR 7.2.8AR(1)(d), the issuer may, where it considers appropriate, include numerical data on the diversity of the members of the bodies and committees referred to in DTR 7.2.8AR(1)(a).
+
+DTR 7.2.9R27/07/2018
+RP
+An issuer may elect that, instead of including its corporate governance statement in its directors’ report, the information required by DTR 7.2.1 R to DTR 7.2.8AR may be set out in:
+
+(1) a separate report published together with and in the same manner as its annual report; or
+(2) a document publicly available on the issuer's website to which reference is made in the directors’ report.
+Under (1) or (2), the corporate governance statement must contain the information required by DTR 7.2.6R or a reference to the directors’ report where that information is made available.
+
+[Note: article 20(2) of the Accounting Directive]
+
+DTR 7.2.10R29/01/2016
+RP
+Subject to DTR 7.2.11 R, an issuer which is required to prepare a group directors’ report within the meaning of section 415(2) of the Companies Act 2006 must include in that report a description of the main features of the group’s internal control and risk management systems in relation to the financial reporting process for the undertakings included in the consolidation, taken as a whole. In the event that the issuer presents its own annual report and its consolidated annual report as a single report, this information must be included in the corporate governance statement required by DTR 7.2.1 R.
+
+[Note: article 29(2)(b) of the Accounting Directive]
+
+DTR 7.2.11R29/01/2016
+RP
+(1) An issuer that elects to include its corporate governance statement in a separate report as permitted by DTR 7.2.9R(1) must provide the information required by DTR 7.2.10R in that report.
+(2) An issuer that elects to include its corporate governance statement in a document publicly available on the issuer's website to which reference is made in the directors’ report as permitted by DTR 7.2.9R(2) must provide the information required by DTR 7.2.10R in that document.
+
+Reporting on the Code
+The 2018 Code focuses on the application of the Principles. The Listing
+Rules require companies to make a statement of how they have applied
+the Principles, in a manner that would enable shareholders to evaluate
+how the Principles have been applied. The ability of investors to evaluate
+the approach to governance is important. Reporting should cover the
+application of the Principles in the context of the particular circumstances
+of the company and how the board has set the company’s purpose and
+strategy, met objectives and achieved outcomes through the decisions it
+has taken.
+It is important to report meaningfully when discussing the application of
+the Principles and to avoid boilerplate reporting. The focus should be on
+how these have been applied, articulating what action has been taken
+and the resulting outcomes. High-quality reporting will include signposting
+and cross-referencing to those parts of the annual report that describe
+how the Principles have been applied. This will help investors with their
+evaluation of company practices.
+The effective application of the Principles should be supported by
+high-quality reporting on the Provisions. These operate on a ‘comply or
+explain’ basis and companies should avoid a ‘tick-box approach’. An
+alternative to complying with a Provision may be justified in particular
+circumstances based on a range of factors, including the size, complexity,
+history and ownership structure of a company. Explanations should set
+out the background, provide a clear rationale for the action the company
+is taking, and explain the impact that the action has had. Where a
+departure from a Provision is intended to be limited in time, the explanation
+should indicate when the company expects to conform to the Provision.
+Explanations are a positive opportunity to communicate, not an onerous
+obligation.
+In line with their responsibilities under the UK Stewardship Code,
+investors should engage constructively and discuss with the company
+any departures from recommended practice. In their consideration
+of explanations, investors and their advisors should pay due regard
+to a company’s individual circumstances. While they have every right
+to challenge explanations if they are unconvincing, these must not be
+evaluated in a mechanistic way. Investors and their advisors should also
+give companies sufficient time to respond to enquiries about corporate
+governance.
+3 UK Corporate Governance Code 2018
+Corporate governance reporting should also relate coherently to other
+parts of the annual report – particularly the Strategic Report and other
+complementary information – so that shareholders can effectively assess
+the quality of the company’s governance arrangements, and the board’s
+activities and contributions. This should include providing information that
+enables shareholders to assess how the directors have performed their
+duty under section 172 of the Companies Act 2006 (the Act) to promote
+the success of the company. Nothing in this Code overrides or is intended
+as an interpretation of the statutory statement of directors’ duties in the
+Act.
+The Code is also supported by the Guidance on Board Effectiveness (the
+Guidance). We encourage boards and companies to use this to support
+their activities. The Guidance does not set out the ‘right way’ to apply
+the Code. It is intended to stimulate thinking on how boards can carry
+out their role most effectively. The Guidance is designed to help boards
+with their actions and decisions when reporting on the application of the
+Code’s Principles. The board should also take into account the Financial
+Reporting Council’s Guidance on Audit Committees and Guidance on
+Risk Management, Internal Control and Related Financial and Business
+Reporting.
+Application
+The Code is applicable to all companies with a premium listing, whether
+incorporated in the UK or elsewhere. The new Code applies to accounting
+periods beginning on or after 1 January 2019.
+For parent companies with a premium listing, the board should ensure that
+there is adequate co-operation within the group to enable it to discharge
+its governance responsibilities under the Code effectively. This includes
+the communication of the parent company’s purpose, values and strategy.
+Externally managed investment companies (which typically have a different
+board and company structure that may affect the relevance of particular
+Principles) may wish to use the Association of Investment Companies’
+Corporate Governance Code to meet their obligations under the Code.
+In addition, the Association of Financial Mutuals produces an annotated
+version of the Code for mutual insurers to use.
+
+CONTENTS
+Introduction 1
+1 Board Leadership and Company Purpose 4
+2 Division of Responsibilities 6
+3 Composition, Succession and Evaluation 8
+4 Audit, Risk and Internal Control 10
+5 Remuneration 13
+1 Guidance on Board Effectiveness 2018
+
+1 BOARD LEADERSHIP
+AND COMPANY PURPOSE
+Principles
+A. A successful company is led by an effective and entrepreneurial board, whose role is to
+promote the long-term sustainable success of the company, generating value for shareholders
+and contributing to wider society.
+B. The board should establish the company’s purpose, values and strategy, and satisfy itself that
+these and its culture are aligned. All directors must act with integrity, lead by example and
+promote the desired culture.
+C. The board should ensure that the necessary resources are in place for the company to meet
+its objectives and measure performance against them. The board should also establish a
+framework of prudent and effective controls, which enable risk to be assessed and managed.
+D. In order for the company to meet its responsibilities to shareholders and stakeholders, the
+board should ensure effective engagement with, and encourage participation from, these
+parties.
+E. The board should ensure that workforce policies and practices are consistent with the
+company’s values and support its long-term sustainable success. The workforce should be
+able to raise any matters of concern.
+Provisions
+1. The board should assess the basis on which the company generates
+and preserves value over the long-term. It should describe in the
+annual report how opportunities and risks to the future success of the
+business have been considered and addressed, the sustainability of
+the company’s business model and how its governance contributes
+to the delivery of its strategy.
+2. The board should assess and monitor culture. Where it is not satisfied
+that policy, practices or behaviour throughout the business are
+aligned with the company’s purpose, values and strategy, it should
+seek assurance that management has taken corrective action. The
+annual report should explain the board’s activities and any action
+taken. In addition, it should include an explanation of the company’s
+approach to investing in and rewarding its workforce.
+3. In addition to formal general meetings, the chair should seek
+regular engagement with major shareholders in order to understand
+their views on governance and performance against the strategy.
+Committee chairs should seek engagement with shareholders on
+significant matters related to their areas of responsibility. The chair
+should ensure that the board as a whole has a clear understanding
+of the views of shareholders.
+5 UK Corporate Governance Code 2018
+4. When 20 per cent or more of votes have been cast against the board
+recommendation for a resolution, the company should explain, when
+announcing voting results, what actions it intends to take to consult
+shareholders in order to understand the reasons behind the result. An
+update on the views received from shareholders and actions taken
+should be published no later than six months after the shareholder
+meeting. The board should then provide a final summary in the annual
+report and, if applicable, in the explanatory notes to resolutions at the
+next shareholder meeting, on what impact the feedback has had on
+the decisions the board has taken and any actions or resolutions
+now proposed.1
+5. The board should understand the views of the company’s other key
+stakeholders and describe in the annual report how their interests
+and the matters set out in section 172 of the Companies Act 2006
+have been considered in board discussions and decision-making.2
+The board should keep engagement mechanisms under review so
+that they remain effective.
+For engagement with the workforce,3
+ one or a combination of the
+following methods should be used:
+• a director appointed from the workforce;
+• a formal workforce advisory panel;
+• a designated non-executive director.
+If the board has not chosen one or more of these methods, it
+should explain what alternative arrangements are in place and why it
+considers that they are effective.
+6. There should be a means for the workforce to raise concerns in
+confidence and – if they wish – anonymously. The board should
+routinely review this and the reports arising from its operation. It
+should ensure that arrangements are in place for the proportionate
+and independent investigation of such matters and for follow-up
+action.
+7. The board should take action to identify and manage conflicts of
+interest, including those resulting from significant shareholdings, and
+ensure that the influence of third parties does not compromise or
+override independent judgement.
+8. Where directors have concerns about the operation of the board
+or the management of the company that cannot be resolved, their
+concerns should be recorded in the board minutes. On resignation,
+a non-executive director should provide a written statement to the
+chair, for circulation to the board, if they have any such concerns.
+1 Details of significant votes against and related
+company updates are available on the Public Register
+maintained by The Investment Association – www.
+theinvestmentassociation.org/publicregister.html
+2
+ The Companies (Miscellaneous Reporting)
+Regulations 2018 require directors to explain how
+they have had regard to various matters in performing
+their duty to promote the success of the company in
+section 172 of the Companies Act 2006. The Financial
+Reporting Council’s Guidance on the Strategic Report
+supports reporting on the legislative requirement.
+3
+ See the Guidance on Board Effectiveness Section 1
+for a description of ‘workforce’ in this context.
+Financial Reporting Council 6
+2 DIVISION OF RESPONSIBILITIES
+Provisions
+9. The chair should be independent on appointment when assessed
+against the circumstances set out in Provision 10. The roles of chair
+and chief executive should not be exercised by the same individual.
+A chief executive should not become chair of the same company.
+If, exceptionally, this is proposed by the board, major shareholders
+should be consulted ahead of appointment. The board should set
+out its reasons to all shareholders at the time of the appointment and
+also publish these on the company website.
+10. The board should identify in the annual report each non-executive
+director it considers to be independent. Circumstances which are
+likely to impair, or could appear to impair, a non-executive director’s
+independence include, but are not limited to, whether a director:
+• is or has been an employee of the company or group within the
+last five years;
+• has, or has had within the last three years, a material business
+relationship with the company, either directly or as a partner,
+shareholder, director or senior employee of a body that has such
+a relationship with the company;
+• has received or receives additional remuneration from the company
+apart from a director’s fee, participates in the company’s share
+option or a performance-related pay scheme, or is a member of
+the company’s pension scheme;
+Principles
+F. The chair leads the board and is responsible for its overall effectiveness in directing the company.
+They should demonstrate objective judgement throughout their tenure and promote a culture
+of openness and debate. In addition, the chair facilitates constructive board relations and the
+effective contribution of all non-executive directors, and ensures that directors receive accurate,
+timely and clear information.
+G. The board should include an appropriate combination of executive and non-executive (and,
+in particular, independent non-executive) directors, such that no one individual or small
+group of individuals dominates the board’s decision-making. There should be a clear division
+of responsibilities between the leadership of the board and the executive leadership of the
+company’s business.
+H. Non-executive directors should have sufficient time to meet their board responsibilities. They
+should provide constructive challenge, strategic guidance, offer specialist advice and hold
+management to account.
+I. The board, supported by the company secretary, should ensure that it has the policies, processes,
+information, time and resources it needs in order to function effectively and efficiently.
+7 UK Corporate Governance Code 2018
+• has close family ties with any of the company’s advisers, directors
+or senior employees;
+• holds cross-directorships or has significant links with other
+directors through involvement in other companies or bodies;
+• represents a significant shareholder; or
+• has served on the board for more than nine years from the date of
+their first appointment.
+Where any of these or other relevant circumstances apply, and
+the board nonetheless considers that the non-executive director is
+independent, a clear explanation should be provided.
+11. At least half the board, excluding the chair, should be non-executive
+directors whom the board considers to be independent.
+12. The board should appoint one of the independent non-executive
+directors to be the senior independent director to provide a sounding
+board for the chair and serve as an intermediary for the other
+directors and shareholders. Led by the senior independent director,
+the non-executive directors should meet without the chair present
+at least annually to appraise the chair’s performance, and on other
+occasions as necessary.
+13. Non-executive directors have a prime role in appointing and removing
+executive directors. Non-executive directors should scrutinise and
+hold to account the performance of management and individual
+executive directors against agreed performance objectives. The
+chair should hold meetings with the non-executive directors without
+the executive directors present.
+14. The responsibilities of the chair, chief executive, senior independent
+director, board and committees should be clear, set out in writing,
+agreed by the board and made publicly available. The annual
+report should set out the number of meetings of the board and its
+committees, and the individual attendance by directors.
+15. When making new appointments, the board should take into account
+other demands on directors’ time. Prior to appointment, significant
+commitments should be disclosed with an indication of the time
+involved. Additional external appointments should not be undertaken
+without prior approval of the board, with the reasons for permitting
+significant appointments explained in the annual report. Full-time
+executive directors should not take on more than one non-executive
+directorship in a FTSE 100 company or other significant appointment.
+16. All directors should have access to the advice of the company
+secretary, who is responsible for advising the board on all governance
+matters. Both the appointment and removal of the company secretary
+should be a matter for the whole board.
+Financial Reporting Council 8
+3 COMPOSITION, SUCCESSION
+AND EVALUATION
+Provisions
+17. The board should establish a nomination committee to lead the
+process for appointments, ensure plans are in place for orderly
+succession to both the board and senior management positions,
+and oversee the development of a diverse pipeline for succession.
+A majority of members of the committee should be independent
+non-executive directors. The chair of the board should not chair the
+committee when it is dealing with the appointment of their successor.
+18. All directors should be subject to annual re-election. The board
+should set out in the papers accompanying the resolutions to elect
+each director the specific reasons why their contribution is, and
+continues to be, important to the company’s long-term sustainable
+success.
+19. The chair should not remain in post beyond nine years from the date of
+their first appointment to the board. To facilitate effective succession
+planning and the development of a diverse board, this period can
+be extended for a limited time, particularly in those cases where the
+chair was an existing non-executive director on appointment. A clear
+explanation should be provided.
+20. Open advertising and/or an external search consultancy should
+generally be used for the appointment of the chair and non-executive
+directors. If an external search consultancy is engaged it should be
+identified in the annual report alongside a statement about any other
+connection it has with the company or individual directors.
+4
+ The definition of ‘senior management’ for this
+purpose should be the executive committee or the
+first layer of management below board level, including
+the company secretary.
+5
+ Which protect against discrimination for those with
+protected characteristics within the meaning of the
+Equalities Act 2010.
+Principles
+J. Appointments to the board should be subject to a formal, rigorous and transparent procedure,
+and an effective succession plan should be maintained for board and senior management.4
+Both appointments and succession plans should be based on merit and objective criteria5
+and, within this context, should promote diversity of gender, social and ethnic backgrounds,
+cognitive and personal strengths.
+K. The board and its committees should have a combination of skills, experience and knowledge.
+Consideration should be given to the length of service of the board as a whole and membership
+regularly refreshed.
+L. Annual evaluation of the board should consider its composition, diversity and how effectively
+members work together to achieve objectives. Individual evaluation should demonstrate
+whether each director continues to contribute effectively.
+9 UK Corporate Governance Code 2018
+21. There should be a formal and rigorous annual evaluation of the
+performance of the board, its committees, the chair and individual
+directors. The chair should consider having a regular externally
+facilitated board evaluation. In FTSE 350 companies this should
+happen at least every three years. The external evaluator should be
+identified in the annual report and a statement made about any other
+connection it has with the company or individual directors.
+22. The chair should act on the results of the evaluation by recognising
+the strengths and addressing any weaknesses of the board. Each
+director should engage with the process and take appropriate action
+when development needs have been identified.
+23. The annual report should describe the work of the nomination
+committee, including:
+• the process used in relation to appointments, its approach to
+succession planning and how both support developing a diverse
+pipeline;
+• how the board evaluation has been conducted, the nature and
+extent of an external evaluator’s contact with the board and
+individual directors, the outcomes and actions taken, and how it
+has or will influence board composition;
+• the policy on diversity and inclusion, its objectives and linkage to
+company strategy, how it has been implemented and progress on
+achieving the objectives; and
+• the gender balance of those in the senior management6
+ and their
+direct reports.
+6
+ See footnote 4.
+Financial Reporting Council 10
+4 AUDIT, RISK AND INTERNAL
+CONTROL
+Provisions
+24. The board should establish an audit committee of independent
+non-executive directors, with a minimum membership of three, or in
+the case of smaller companies, two.8
+ The chair of the board should
+not be a member. The board should satisfy itself that at least one
+member has recent and relevant financial experience. The committee
+as a whole shall have competence relevant to the sector in which the
+company operates.
+25. The main roles and responsibilities of the audit committee should
+include:
+• monitoring the integrity of the financial statements of the company
+and any formal announcements relating to the company’s
+financial performance, and reviewing significant financial reporting
+judgements contained in them;
+• providing advice (where requested by the board) on whether the
+annual report and accounts, taken as a whole, is fair, balanced
+and understandable, and provides the information necessary for
+shareholders to assess the company’s position and performance,
+business model and strategy;
+• reviewing the company’s internal financial controls and internal
+control and risk management systems, unless expressly addressed
+by a separate board risk committee composed of independent
+non-executive directors, or by the board itself;
+• monitoring and reviewing the effectiveness of the company’s
+internal audit function or, where there is not one, considering
+annually whether there is a need for one and making a
+recommendation to the board;
+Principles
+M. The board should establish formal and transparent policies and procedures to ensure the
+independence and effectiveness of internal and external audit functions and satisfy itself on the
+integrity of financial and narrative statements.7
+N. The board should present a fair, balanced and understandable assessment of the company’s
+position and prospects.
+O. The board should establish procedures to manage risk, oversee the internal control framework,
+and determine the nature and extent of the principal risks the company is willing to take in order
+to achieve its long-term strategic objectives.
+7
+ The board’s responsibility to present a fair, balanced
+and understandable assessment extends to interim
+and other price-sensitive public records and reports
+to regulators, as well as to information required to be
+presented by statutory instruments.
+8
+ A smaller company is one that is below the FTSE 350
+throughout the year immediately prior to the reporting
+year.
+11 UK Corporate Governance Code 2018
+• conducting the tender process and making recommendations to
+the board, about the appointment, reappointment and removal of
+the external auditor, and approving the remuneration and terms of
+engagement of the external auditor;
+• reviewing and monitoring the external auditor’s independence and
+objectivity;
+• reviewing the effectiveness of the external audit process, taking
+into consideration relevant UK professional and regulatory
+requirements;
+• developing and implementing policy on the engagement of the
+external auditor to supply non-audit services, ensuring there is
+prior approval of non-audit services, considering the impact this
+may have on independence, taking into account the relevant
+regulations and ethical guidance in this regard, and reporting to
+the board on any improvement or action required; and
+• reporting to the board on how it has discharged its responsibilities.
+26. The annual report should describe the work of the audit committee,
+including:
+• the significant issues that the audit committee considered relating
+to the financial statements, and how these issues were addressed;
+• an explanation of how it has assessed the independence and
+effectiveness of the external audit process and the approach
+taken to the appointment or reappointment of the external auditor,
+information on the length of tenure of the current audit firm, when a
+tender was last conducted and advance notice of any retendering
+plans;
+• in the case of a board not accepting the audit committee’s
+recommendation on the external auditor appointment,
+reappointment or removal, a statement from the audit committee
+explaining its recommendation and the reasons why the board
+has taken a different position (this should also be supplied in any
+papers recommending appointment or reappointment);
+• where there is no internal audit function, an explanation for the
+absence, how internal assurance is achieved, and how this affects
+the work of external audit; and
+• an explanation of how auditor independence and objectivity are
+safeguarded, if the external auditor provides non-audit services.
+27. The directors should explain in the annual report their responsibility
+for preparing the annual report and accounts, and state that they
+consider the annual report and accounts, taken as a whole, is
+fair, balanced and understandable, and provides the information
+necessary for shareholders to assess the company’s position,
+performance, business model and strategy.
+Financial Reporting Council 12
+28. The board should carry out a robust assessment of the company’s
+emerging and principal risks.9
+ The board should confirm in the
+annual report that it has completed this assessment, including a
+description of its principal risks, what procedures are in place to
+identify emerging risks, and an explanation of how these are being
+managed or mitigated.
+29. The board should monitor the company’s risk management and
+internal control systems and, at least annually, carry out a review of
+their effectiveness and report on that review in the annual report. The
+monitoring and review should cover all material controls, including
+financial, operational and compliance controls.
+30. In annual and half-yearly financial statements, the board should
+state whether it considers it appropriate to adopt the going concern
+basis of accounting in preparing them, and identify any material
+uncertainties to the company’s ability to continue to do so over a
+period of at least twelve months from the date of approval of the
+financial statements.
+31. Taking account of the company’s current position and principal risks,
+the board should explain in the annual report how it has assessed
+the prospects of the company, over what period it has done so and
+why it considers that period to be appropriate. The board should
+state whether it has a reasonable expectation that the company will
+be able to continue in operation and meet its liabilities as they fall
+due over the period of their assessment, drawing attention to any
+qualifications or assumptions as necessary.
+9
+ Principal risks should include, but are not necessarily
+limited to, those that could result in events or
+circumstances that might threaten the company’s
+business model, future performance, solvency or
+liquidity and reputation. In deciding which risks
+are principal risks companies should consider the
+potential impact and probability of the related events
+or circumstances, and the timescale over which they
+may occur.
+13 UK Corporate Governance Code 2018
+5 REMUNERATION
+Provisions
+32. The board should establish a remuneration committee of independent
+non-executive directors, with a minimum membership of three,
+or in the case of smaller companies, two.11 In addition, the chair
+of the board can only be a member if they were independent on
+appointment and cannot chair the committee. Before appointment
+as chair of the remuneration committee, the appointee should have
+served on a remuneration committee for at least 12 months.
+33. The remuneration committee should have delegated responsibility
+for determining the policy for executive director remuneration and
+setting remuneration for the chair, executive directors and senior
+management.12 It should review workforce13 remuneration and
+related policies and the alignment of incentives and rewards with
+culture, taking these into account when setting the policy for
+executive director remuneration.
+34. The remuneration of non-executive directors should be determined
+in accordance with the Articles of Association or, alternatively, by the
+board. Levels of remuneration for the chair and all non-executive
+directors should reflect the time commitment and responsibilities
+of the role. Remuneration for all non-executive directors should not
+include share options or other performance-related elements.
+35. Where a remuneration consultant is appointed, this should be the
+responsibility of the remuneration committee. The consultant should
+be identified in the annual report alongside a statement about any
+other connection it has with the company or individual directors.
+Independent judgement should be exercised when evaluating
+the advice of external third parties and when receiving views from
+executive directors and senior management.14
+10 See footnote 4.
+Principles
+P. Remuneration policies and practices should be designed to support strategy and
+promote long-term sustainable success. Executive remuneration should be aligned to company
+purpose and values, and be clearly linked to the successful delivery of the company’s long-term
+strategy.
+Q. A formal and transparent procedure for developing policy on executive remuneration and
+determining director and senior management10 remuneration should be established. No director
+should be involved in deciding their own remuneration outcome.
+R. Directors should exercise independent judgement and discretion when authorising remuneration
+outcomes, taking account of company and individual performance, and wider circumstances.
+11 See footnote 8.
+12 See footnote 4.
+13 See the Guidance on Board Effectiveness Section 5
+for a description of ‘workforce’ in this context.
+14 See footnote 4.
+Financial Reporting Council 14
+36. Remuneration schemes should promote long-term shareholdings by
+executive directors that support alignment with long-term shareholder
+interests. Share awards granted for this purpose should be released
+for sale on a phased basis and be subject to a total vesting and
+holding period of five years or more. The remuneration committee
+should develop a formal policy for post-employment shareholding
+requirements encompassing both unvested and vested shares.
+37. Remuneration schemes and policies should enable the use of
+discretion to override formulaic outcomes. They should also include
+provisions that would enable the company to recover and/or withhold
+sums or share awards and specify the circumstances in which it
+would be appropriate to do so.
+38. Only basic salary should be pensionable. The pension contribution
+rates for executive directors, or payments in lieu, should be aligned
+with those available to the workforce. The pension consequences
+and associated costs of basic salary increases and any other changes
+in pensionable remuneration, or contribution rates, particularly for
+directors close to retirement, should be carefully considered when
+compared with workforce arrangements.
+39. Notice or contract periods should be one year or less. If it is
+necessary to offer longer periods to new directors recruited from
+outside the company, such periods should reduce to one year or less
+after the initial period. The remuneration committee should ensure
+compensation commitments in directors’ terms of appointment do
+not reward poor performance. They should be robust in reducing
+compensation to reflect departing directors’ obligations to mitigate
+loss.
+40. When determining executive director remuneration policy and
+practices, the remuneration committee should address the following:
+• clarity – remuneration arrangements should be transparent
+and promote effective engagement with shareholders and the
+workforce;
+• simplicity – remuneration structures should avoid complexity and
+their rationale and operation should be easy to understand;
+• risk – remuneration arrangements should ensure reputational and
+other risks from excessive rewards, and behavioural risks that
+can arise from target-based incentive plans, are identified and
+mitigated;
+• predictability – the range of possible values of rewards to individual
+directors and any other limits or discretions should be identified
+and explained at the time of approving the policy;
+15 UK Corporate Governance Code 2018
+• proportionality – the link between individual awards, the delivery
+of strategy and the long-term performance of the company should
+be clear. Outcomes should not reward poor performance; and
+• alignment to culture – incentive schemes should drive behaviours
+consistent with company purpose, values and strategy.
+41. There should be a description of the work of the remuneration
+committee in the annual report, including:
+• an explanation of the strategic rationale for executive directors’
+remuneration policies, structures and any performance metrics;
+• reasons why the remuneration is appropriate using internal and
+external measures, including pay ratios and pay gaps;
+• a description, with examples, of how the remuneration committee
+has addressed the factors in Provision 40;
+• whether the remuneration policy operated as intended in terms of
+company performance and quantum, and, if not, what changes
+are necessary;
+• what engagement has taken place with shareholders and the
+impact this has had on remuneration policy and outcomes;
+• what engagement with the workforce has taken place to explain
+how executive remuneration aligns with wider company pay policy;
+and
+• to what extent discretion has been applied to remuneration
+outcomes and the reasons why.
+

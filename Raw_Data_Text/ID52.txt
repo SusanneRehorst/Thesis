@@ -1,0 +1,2598 @@
+Johannesburg Stock Exchange
+www.jse.co.za let’s connect
+In support of Supported by
+Leading the way for
+a better tomorrow
+JSE Climate Change
+Disclosure Guidance
+Draft open for public comment from
+9 December 2021 - 28 February 2022
+List of boxes, tables and figures
+Boxes
+Tips on conducting a scenario analysis 19
+IPCC, IEA and NGFS scenarios 21
+Benchmarking climate transition readiness with TPI 27
+Setting Science Based Targets 31
+Tables
+Table 1.1: TCFD recommendations and Supporting Recommended Disclosures 12
+Table 5.1: Additional resources for TCFD implementation 38
+Figures
+Figure 2.1: Climate-related risks, opportunities, and financial impact 16
+Figure 2.2: Double Materiality Perspective 18
+Figure 3.1: Overview of GHG Protocol scopes and emissions across the value chain 30
+Executive summary 3
+A message from the JSE Group CEO 4
+Introduction 6
+Chapter 1: Climate disclosure – Setting the stage 8
+1.1 Key trends 10
+1.2 What is the TCFD? 13
+1.3 How to get started 13
+1.4 Differential reporting 13
+1.5 The intended audience for this guidance 13
+Chapter 2: Risks and opportunities 14
+2.1 Climate opportunities 16
+2.2 Climate risks 17
+2.3 Climate governance 17
+2.4 Materiality assessment 18
+2.5 Scenario analysis 19
+2.6 Just transition 22
+Chapter 3: Disclosure content 26
+3.1 Investor-useful information 26
+3.2 Reporting on opportunities and use of taxonomies 26
+3.3 Carbon emission reporting 26
+3.4 Setting targets 28
+Chapter 4: Disclosure presentation and validation 32
+4.1 Frameworks for disclosure 34
+4.2 Data verification and assurance 34
+4.3 Location and timing of climate-related disclosure 35
+Chapter 5: Education and resources 36
+5.1 Resources for updating scientific knowledge 38
+Annex 1: TCFD checklist 41
+Annex 2: Alignment of recommended disclosures with other frameworks 47
+Annex 3: Recent studies on potential aggregated financial impacts of climate change 47
+Annex 4: Acknowledgements 52
+Contents
+JSE Limited Climate Disclosure Guidance 2021 1
+2 JSE Limited Climate Disclosure Guidance 2021
+Climate-related risks and the expected transition to a
+low-carbon economy affect all economic sectors and
+industries and therefore financial markets are
+increasingly pricing these risks as well as looking to
+identify and measure new investment opportunities.
+Globally, investors are recognising this and are demanding
+higher quality, consistent data to inform their investment
+strategies and decisions. This requires a dramatic
+improvement in climate-related disclosures globally.
+Where companies are already advancing on this topic,
+with unprecedented support for climate action including
+setting science-based targets and net zero emissions
+commitments, they require support to make sure that
+this is being effectively communicated to investors. To
+help issuers integrate and communicate climate-related
+information in alignment with current best practices, the
+following three stage process is proposed:
+Step 1 – Disclosure diagnosis and context: The first
+step to ensuring that climate-related issues are sufficiently
+addressed by your organisation, is understanding the
+relevance of climate change and taking stock of your
+current disclosure practices. To help issuers understand
+the key climate-related issues for their business, this
+guidance provides a basic overview of the evolution of
+climate-related disclosures and the current financial,
+political and legal landscape (see Chapters 1 and 5).
+In order to help issuers evaluate their current disclosure,
+this guidance also provides a checklist (Annex 1) which
+helps issuers determine whether or not they are providing
+sufficient information to investors on this topic.
+Step 2 – Integration of climate-related risks and
+opportunities: The second step for organisations that
+have recognised the need for action on climate, is to
+integrate climate-related aspects into their risk
+Executive summary
+assessment and strategy development processes
+see Chapter 2). Climate change poses both risks and
+opportunities to all organisations. This integration should
+be done from the top of the organisation and should
+filter down through policies, processes and strategy.
+Step 3 – Disclosure of climate-related practices and
+data: The third step is communicating the organisation’s
+understanding through its disclosure of climate-related
+practices, strategy and objectives to investors and
+stakeholders (see Chapters 3 and 4). The Financial
+Stability Board (FSB) established the Task Force for
+Climate-Related Financial Disclosures to develop
+recommendations for more effective climate-related
+disclosures. Through this Task Force, the FSB aimed to
+identify disclosures that could promote more informed
+investment, credit, and insurance underwriting decisions
+and, in turn, enable stakeholders to better understand
+the concentrations of carbon-related assets in the
+financial sector and the financial system’s exposures
+to climate-related risks. This includes a growing focus
+on whether the climate targets a company is setting
+are aligned with a climate trajectory towards net zero
+emissions before 2050.
+This three stage cyclical process can and should be
+undertaken by any company, regardless of size or
+sector. It is recognised that each company is at a
+unique phase of its reporting practice evolution and this
+guidance aims to help all companies, even those with
+limited reporting experience or limited resources. It is
+recommended that all issuers perform each of these
+steps, however the depth and detail of each stage of
+the process may vary.
+By 1992 at the Rio Earth Summit, it was already established that “human
+influence on the climate system is clear and growing, with impacts
+observed across all continents and oceans”.1 Since then, the scientific
+and economic understanding of the impacts and risks of climate change
+has grown substantially.
+1 IPCC, Synthesis Report. Contribution of Working Groups I, II and III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change,
+2014.
+JSE Limited Climate Disclosure Guidance 2021 3
+A message from the
+JSE Group CEO
+The capital markets environment
+has shifted considerably over this
+period in response to changes
+and developments in the trading
+and regulatory sphere. Sustainable
+development is rapidly becoming
+a defining feature of the global
+economy and financial markets
+will reflect this.
+There is a growing expectation of business to play a
+role in Investor interest in environmental, social and
+governance (ESG) issues continues to grow, placing
+business front and centre in driving the shift towards
+stakeholder capitalism. Within this, there is an exciting
+opportunity for stock exchanges to play a leading role.
+The JSE recognises the need to create an enabling
+environment for better disclosure practices to thrive. As a
+business, ESG principles are closely aligned with our
+corporate objectives to grow shared prosperity.
+The exchange has long been recognised for its pioneering
+role in promoting strong governance and sustainability/
+ESG disclosure globally, through such initiatives as its
+progressive listings requirements incorporating the King
+Codes. The 2004 SRI Index (the first such index owned by
+an exchange and the first of its kind in emerging markets).
+It is a signatory to the UN-backed Principles for
+Responsible Investment, a member and past chair of
+the Sustainability Working Group of the World Federation
+of Exchanges, and is a founding member of the
+Sustainable Stock Exchanges Initiative. More recently,
+we took on the role of co-chair of the SSE Committee on
+Climate Disclosure Guidance, as well as co-chair of the
+Global Investors for Sustainable Development Alliance
+(GISD), and member of the Net Zero Service Providers
+Alliance (NZSPA).
+Over the course of its 134-year
+history, the JSE has evolved and
+developed in tandem with the
+market that it supports.
+Dr. Leila Fourie
+Group CEO
+4 JSE Limited Climate Disclosure Guidance 2021
+The SSE (2015) and WFE (2018) have both produced
+“model” ESG Guidance for exchanges to adapt to their
+context to help local issuers improve their disclosure.
+While the JSE is considered to have held existing
+requirements for sustainability/ESG disclosure through its
+links to the King Codes on corporate governance, no
+detailed guidance to assist listed companies on
+sustainability/ESG reporting has previously been issued.
+This document succeeds in laying out the wide range of
+benefits to sustainability/ESG disclosure guidance.
+We recognise the need for clear guidance that:
+1. helps local companies to navigate the ESG
+landscape;
+2. reflects South Africa’s unique sustainability
+challenges;
+3. assists in driving improved ESG performance,
+accountability, and business leadership; and
+4. contributes to enhanced transparency and
+consistency.
+In response to the rapidly evolving landscape of
+sustainability standards and frameworks, this guidance
+provides JSE-listed issuers with guidelines specifically
+tailored to the South African context, whilst being fully
+cognisant of global best practice. It is intended that this
+Disclosure Guidance will serve as an umbrella for
+sub-topic guidance as needed, with the first such
+guidance on Climate Disclosure, to be released at the
+same time.
+The JSE Sustainability Disclosure Guidance is aligned
+with, and draws on, the most influential global initiatives
+on sustainability/ESG and climate change disclosure
+– including the GRI Sustainability Reporting Standards,
+the Taskforce on Climate-related Financial Disclosures
+(TCFD) recommendations, the IFRS Foundation’s ISSB
+prototypes, and the Value Reporting Foundation’s
+Integrated Reporting Framework – as well as an extensive
+range of other frameworks and standards (Annex 1) and
+the ESG guidance of various peer exchanges.
+This Disclosure Guidance is not intended to replace any of
+these global initiatives, but rather seeks to help companies
+navigate the landscape of reporting standards without
+being onerous, and to provide explicitly for the South
+African context. This guidance document takes into
+account the many hundreds of ESG metrics currently
+available and highlights those metrics that are generally
+well-established, universal, industry-agnostic and that we
+believe to be material in the South African context.
+It is our hope that this set of guidance documents will be
+a valuable resource and tool to all our listed companies
+regardless of size or sector and we look forward to
+receiving your comments and feedback as we refine this
+work in preparation for the final document to be published
+in 2022.
+I would like to thank our Chief Sustainability Officer,
+Shameela Soobramoney, and Jonathon Hanks from
+Incite, and his team, for their work in supporting this
+guidance note. I would also like to thank the International
+Finance Corporation (IFC) for their support of this project
+through partial sponsorship as well as through technical
+expert input via their global network.
+I look forward to the consultation process and to receiving
+your valuable inputs for this important endeavour.
+Dr. Leila Fourie
+Group CEO
+3 International Financial Reporting Standards and the International Sustainability Standards Board
+JSE Guidance and Requirements: Understanding the distinction
+This paper is issued as a guidance tool that may be used by issuers on a voluntary basis to:
+y assist local companies to navigate the global ESG landscape;
+y provide for South Africa’s specific ESG challenges;
+y improve the quality of ESG information available to enable more informed investment decisions;
+y drive improved ESG performance, accountability, and business leadership.
+The paper does not constitute disclosure or reporting obligations for issuers pursuant to the provisions of
+the JSE Listings Requirements.
+JSE Limited Climate Disclosure Guidance 2021 5
+Introduction
+The estimated financial impacts related to climate
+change have led investors, policy makers and financial
+service providers to request additional data from issuers
+to effectively assess and price risks in the market.
+South Africa’s National Climate Change Response
+White Paper, 2011 recognised that the corporate sector
+has a fundamental role to play in the country’s response
+to climate change and that private sector funding would
+play an important role in achieving national climate
+change goals. Treasury has also recognised that improved
+disclosure of environmental and social performance is
+necessary for efficient capital allocation and the pricing
+of risk and that strengthening the resilience of the
+financial systems depends on integrating environmental
+and social factors into risk management systems.4
+As noted by the Sustainable Stock Exchange (SSE)
+initiative, stock exchanges are in a unique position to
+advance climate disclosure by providing guidance
+to issuers and the wider markets. The Johannesburg
+Stock Exchange (JSE) plays a leading role in the SSE
+initiative, which brings together various UN agencies,
+the UN Global Compact and the UNEP Finance Initiative
+and the Principles of Responsible Investment (PRI).
+In June 2021, the SSE released a Model Guidance on
+Climate Disclosure to support stock exchanges to guide
+issuers on climate-related disclosures.
+While climate change is often seen as a defining obstacle among
+sustainability issues, the consequences of it can amplify other sustainability
+issues, such as inequality, poverty and food availability, water and resource
+scarcity. Not addressing it can carry a far greater cost than dealing with
+it today.
+This Guidance, which is based on the core principles set
+out in the SSE Model Guidance, consists of five chapters:
+y Chapter 1: Climate Disclosure – setting the stage
+y Chapter 2: Risks and opportunities
+y Chapter 3: Disclosure content
+y Chapter 4: Disclosure presentation and validation
+y Chapter 5: Education and resources
+The Guidance builds on the Task Force for ClimateRelated Financial Disclosures (TCFD), which released
+its recommendations in 2017, enhancing them with
+additional guidance in 2021. While numerous organisations
+are already utilizing the TCFD recommendations, the
+JSE believes that this Climate Disclosure Guidance is
+relevant in addition to the TCFD. In particular, the
+Guidance provides local context relating to recent policy
+and regulatory developments such as those contained
+in the King IV Guidance Paper on Responsibilities of
+Governing Bodies in Responding to Climate Change. As
+discussed below, the King IV Guidance Paper includes
+important differences to the TCFD recommendations
+that are important to consider particularly in light of the
+increasing urgent need for climate action.
+The Guidance complements the JSE’s Sustainability
+Disclosure Guidance, which provides an overarching
+approach to disclosure on environmental, social and
+governance issues, including climate change.
+4 National Treasury, Financing a Sustainable Economy: Technical Paper, 2021.
+6 JSE Limited Climate Disclosure Guidance 2021
+01
+02
+03
+04
+05
+Climate Disclosure
+– Setting the stage
+The first step to ensuring that
+climate-related issues are sufficiently
+addressed by your organisation is
+recognising the changing landscape
+and identifying your organisation’s
+current progress.
+Risks and
+opportunities
+The second step for organisations
+thathave recognised the need for
+action on climate is to integrate
+climate-related risks and opportunities
+into their governance, strategy and risk
+management processes.
+Disclosure
+content
+The third step for organisations that
+have recognised the need for action
+on climate is to communicate their
+action and intentions through
+climate-related disclosures.
+Disclosure presentation
+and validation
+Issuers have several frameworks or
+formats to present the information
+recommended for disclosure by
+the TCFD.
+Education
+and resources
+This guidance acts as a starting
+point for all issuers to evaluate
+and update their current disclosure
+practices to ensure their resilience
+to climate-related issues.
+JSE Limited Climate Disclosure Guidance 2021 7
+Climate Disclosure –
+Setting the stage
+01
+The first step to ensuring that climaterelated issues are sufficiently addressed
+by your organisation is recognising the
+changing landscape and identifying your
+organisation’s current progress.
+8 JSE Limited Climate Disclosure Guidance
+Climate change science is
+constantly growing and issuers
+are encouraged to continually
+update their knowledge on this
+topic. This chapter provides an
+overview of key trends, and
+chapter 5 provides further
+resources to help stay up-to-date
+on this topic.
+JSE Limited Climate Disclosure Guidance 9
+1.1 Key trends
+There are three key trends that indicate a need for
+accelerated action on climate change, namely a rapid
+change in investment trends, new policy and regulation
+integrating climate-related disclosures, and increased
+legal and reputational risks related to climate.
+Changing investment trends
+Studies (see Annex 3) suggest that climate-related
+financial risks are not just limited to fossil fuel or high
+carbon sectors but exist across industries and asset
+classes. As a result, both investors and issuers are
+adapting an increasingly long-term outlook for more
+efficient and risk-adjusted allocation of capital and need
+to set out their strategies in response to this economic
+transition.
+Investors and asset managers are increasingly shifting
+their investments towards companies that are better
+positioned on climate change and often assume poor
+corporate disclosure will mean a company is poorly
+prepared for the climate transition. As a result,
+investments are being diverted away from those
+companies seen to have poor disclosure on their
+climate-related strategies and risk-management and
+towards those seen as leaders. There is also a high
+level of coordination between investors in both
+measuring companies’ climate performance and
+interlinked engagement with companies on climate
+action. These trends are taking place in both active and
+passive (index) funds.
+Impending changes to policy and
+regulation
+A 2019 whitepaper7 written by the PRI highlighted the
+dramatic increase in attention paid by financial policy
+makers to sustainability issues in recent years. The
+PRI’s Responsible Investment Regulation Map found
+over 730 hard and soft law policy revisions across
+approximately 500 policy instruments within the world’s
+50 largest economies to support, encourage or require
+investors to consider long-term value drivers, including
+ESG factors. This trend has only accelerated, with the
+2021 TCFD status report indicating a number of
+governments beginning to embed the recommendations
+in policy and guidance and moving toward requiring
+TCFD disclosures through legislation and regulation.
+More recently, in November 2021, the IFRS Foundation
+Trustees’ Technical Readiness Working Group (TRWG),
+which was formed to undertake preparatory work for
+the formation of a new International Sustainability
+Standards Board (ISSB), published a Climate-related
+Disclosures Prototype.8 The ISSB is expected to consult
+publicly on a climate-related financial disclosure
+standard when it starts its work, but this Guidance
+draws on the Prototype in order to align with emerging
+standards as far as possible.
+In South Africa, changes to policy and regulation that
+address sustainability issues in the financial sector
+include:
+y The 2011 amendment to Regulation 28 of the
+Pension Fund Act, 1956 that requires “appropriate
+consideration to any factor which may materially
+affect the sustainable long-term performance of a
+fund’s assets, including factors of an environmental,
+social and governance character.” 9
+y The Financial Sector Conduct Authority’s (FSCA)
+Guidance Notice 1 of 2019 on the Sustainability of
+Investments and Assets in the Context of a
+Retirement Fund’s Investment Policy Statement,
+which provide guidance on the FSCA’s expectations
+for compliance with Regulation 28, and disclosure
+and reporting requirements for retirement funds on
+sustainability factors. 10
+Markets need to prepare themselves for changes to
+policy and regulation globally to ensure stability and
+resiliency of financial markets. Issuers and investors
+can be prepared for regulatory changes aligned with
+ambitious climate-related policy goals and in doing so
+will gain competitive advantage and strategic
+opportunities.
+Legal and reputational risks
+Both issuers and investors are increasingly cognizant of
+the legal and reputational risks related to the failure to
+act on climate change. As of January 2020, the total
+number of climate change legal cases filed globally
+reached approximately 1,444 for the year, continuing an
+upward trend of such cases.11 The most recent climate
+change litigation update by Norton Rose Fulbright
+notes “the growing demand from consumers for
+environmentally sustainable goods and services is
+prompting ever increasing scrutiny from consumer
+advocates and regulators into misleading and
+fraudulent corporate climate claims or commitments.”
+While litigation can indeed be a reputational risk as well,
+reputational risks associated with climate change are
+also on the rise. In the climate change context,
+McKinsey & Company define reputation risk as “the
+7 PRI, Taking stock: Sustainable finance policy engagement and policy influence, 2019.
+8 IFRS Technical Readiness Working Group, Climate-related Disclosures Prototype, 2021.
+9 National Treasury, Amendment of Regulation 28 of the Pension Funds Act, 2011.
+10 FSCA, Guidance Notice 1 of 2019 on the Sustainability of Investments and Assets in the Context of a Retirement Fund’s Investment Policy Statement, 2019.
+11 Norton Rose Fulbright, Climate change litigation update, 2020.
+10 JSE Limited Climate Disclosure Guidance 2021
+probability of profitability loss following a business’s
+activities or positions that the public considers harmful.”
+A damaged reputation can for example, impact sales,
+through consumer boycotts or local community
+protests. Knock on effects include damage to its
+investor relationships, and adjusting opinions of
+potential future employees.
+Further, not only are customers and civil society
+pushing for climate action from companies, but so are
+shareholders. Shareholder resolutions are increasingly
+addressing climate-related topics and putting pressure
+on issuers to make significant changes to business
+strategies and operations.
+Recent developments in South Africa
+As in other jurisdictions, the pace and scale of South
+Africa’s response to climate change has accelerated in
+recent years. Significant developments include:
+y The publication of National Treasury’s Financing a
+Sustainable Economy: Technical Paper in October
+2021. The Paper identifies “the need to develop or
+adopt additional methodologies…to include
+specifically the identification, management and
+disclosure of climate-related risks” as one of four
+“immediate practical priorities and focus areas for the
+South African financial sector”.12
+12 National Treasury, Financing a Sustainable Economy: Technical Paper, 2021.
+JSE Limited Climate Disclosure Guidance 2021 11
+y The establishment of the Presidential Climate
+Commission in 2020 to provide independent expert
+advice on the country’s climate change response and
+facilitate a common vision for a net-zero and climate
+resilient economy and society by 2050.
+y The July 2021 release of the King IV Guidance Paper
+on Responsibilities of Governing Bodies in Responding
+to Climate Change to support boards and other
+governing bodies in their response to climate change.13
+y The introduction of the National Climate Change Bill
+to parliament in October 2021. The Bill aims to provide
+a coordinated and integrated response to climate
+change and its impacts by, among other things,
+setting a national greenhouse gas (GHG) trajectory
+and setting carbon budgets for high emitters.
+y The introduction of the carbon tax, which came into
+effect on 1 June 2019 after President Cyril Ramaphosa
+signed the Carbon Tax Act into law. The tax had an
+introductory base rate of R120 per ton of CO2
+equivalent before various allowances were taken into
+consideration.
+y The submission of the updated Nationally Determined
+Contribution (NDC) under the Paris Agreement in
+September 2021 that sets a new target range of
+398-510 Mt CO2 equivalent for 2025 and 350–420 Mt
+CO2 equivalent for 2030. This is compared to the
+target range of 398–614 Mt CO2 equivalent for 2025
+and 2030. Whereas the initial NDC expected
+emissions to decline from 2035, the updated NDC
+expects emissions to decline from 2025.
+y The release of a draft South African Green Finance
+Taxonomy in June 2021, which provides a catalogue
+of assets, projects and sectors that can be defined as
+“green” in accordance with international best practice
+and national priorities.
+y The development of a working draft of a document
+outlining Principles and Guidance for Minimum
+Disclosure of Climate Related Risks and Opportunities,
+which is expected to be released shortly. It aims to
+guide reporters and create a platform for building a
+common understanding between regulators and
+industry on disclosure.14
+Table 1.1 TCFD recommendations and Supporting Recommended Disclosures
+ Governance Strategy Risk Management Metrics and Targets
+Disclose the organisation’s
+governance around climaterelated risks and opportunities.
+Disclose the actual and
+potential impacts of climaterelated risks and opportunities
+on the organisation’s
+businesses, strategy, and
+financial planning where such
+information is material
+Disclose how the organisation
+identifies, assesses, and
+manages climate-related risks.
+Disclose the metrics and
+targets used to assess and
+manage relevant climaterelated risks and opportunities
+where such information is
+material.
+Recommended Disclosures Recommended Disclosures Recommended Disclosures Recommended Disclosures
+a. Describe the board’s
+oversight of climate-related
+risks and opportunities.
+b. Describe management’s role
+in assessing and managing
+climate-related risks and
+opportunities.
+a. Describe the climate-related
+risks and opportunities the
+organisation has identified
+over the short, medium, and
+long term.
+b. Describe the impact of
+climate-related risks and
+opportunities on the
+organisation’s businesses,
+strategy, and financial
+planning.
+c. Describe the resilience of the
+organisation’s strategy,
+taking into consideration
+different climate-related
+scenarios, including a 2°C or
+lower scenario.
+a. Describe the organisation’s
+processes for identifying and
+assessing climate-related
+risks.
+b. Describe the organisation’s
+processes for managing
+climate-related risks.
+c. Describe how processes for
+identifying, assessing, and
+managing climate-related
+risks are integrated into the
+organisation’s overall
+risk management.
+a. Disclose the metrics used by
+the organisation to assess
+climate-related risks and
+opportunities in line with its
+strategy and risk
+management process.
+b. Disclose Scope 1, Scope 2,
+and, if appropriate, Scope 3
+greenhouse gas (GHG)
+emissions, and the related
+risks.
+c. Describe the targets used by
+the organisation to manage
+climate-related risks and
+opportunities and
+performance against targets.
+Source: Page 15 of the TCFD recommendations, 2021
+13 Institute of Directors, King IV Guidance Paper: Responsibilities of Governing Bodies in Responding to Climate Change, 2021
+14 Climate Risk Forum, Draft Principles and Guidance for Minimum Disclosure of Climate Related Risks and Opportunities, 2021
+12 JSE Limited Climate Disclosure Guidance 2021
+1.2 What is the TCFD?
+The Financial Stability Board (FSB) established the Task
+Force for Climate-Related Financial Disclosures (TCFD)
+in 2015 to develop recommendations for more effective
+climate-related disclosures to support informed capital
+allocation.
+The TCFD’s recommendations, which were released in
+2017 and enhanced in 2021, are structured around four
+thematic areas (Table 1.1) that represent core elements
+of how organisations operate: governance, strategy,
+risk management, and metrics and targets. The four
+thematic areas are intended to interlink and inform each
+other, and therefore issuers will also find an overlapping
+of information between these four categories. The
+TCFD recommendations are also incorporated into
+IFRS’ draft Climate-related Disclosures Prototype.
+Since the publication of these milestone recommendations,
+the TCFD has issued four status reports, most recently
+in October 2021, describing the alignment of companies’
+reporting with the TCFD recommendations. The number
+of organisations expressing support for the TCFD has
+grown significantly, spanning across 89 countries.
+Financial institutions responsible for assets of more than
+US$194 trillion, including the largest asset managers
+and asset owners in the world, support the TCFD.
+On the corporate side, support for TCFD has grown
+to include companies representing more than
+US$25 trillion in market capitalization. There were
+21 South African TCFD supporters as of October 2021,
+half of which declared their support in 2021 suggesting
+a growing trend. Local supporters include several of
+the largest asset managers and several of the largest
+listed companies.
+1.3 How to get started
+To get started in evaluating the climate-resiliency of
+your organisation, issuers may wish to use the TCFD
+Checklist found in Annex 1, which is based on the
+recommended disclosures of the TCFD. Issuers can use
+this checklist to self-diagnose their published information
+and determine whether an investor could or could not
+answer the questions listed in the checklist. Where
+issuers establish that sufficient information is provided
+in their current disclosures to answer a question on the
+checklist, they may wish to indicate where that information
+can be found, using the checklist as a map for easy
+identification of TCFD-recommended information. If it is
+determined that report users cannot answer a question
+on the checklist using publicly available information,
+issuers should consider including additional information
+in their public disclosures. This guide will help issuers
+determine what information will help investors and other
+users of reports answer the questions on the TCFD
+Checklist, help identify where issuers may wish to
+disclose this information, and how they may wish
+to present it.
+1.4 Differential reporting
+Climate risk is relevant for companies of all sizes and
+sectors but the depth and detail of reporting that
+investors expect will not be the same for all companies.
+There is a growing expectation from investors that
+larger companies and especially those in industries that
+are highly exposed to the risks of climate change (both
+physical and/or transition) such as extractives, energy,
+agriculture, steel, cement, tourism and travel will provide
+more detailed disclosures. In these cases the TCFD
+Checklist should be used to ensure that all disclosure
+recommendations are met. However, smaller companies
+in less vulnerable industries and/or those with fewer
+resources available for reporting procedures, may wish
+to use the results of the checklist exercise to map a
+plan for future disclosures. Progress can be disclosed
+so that investors are aware of the issuer’s plans.
+Issuers that chose to map a plan towards full disclosure
+may wish to use an existing staged process (see Box
+3.1: Benchmarking climate transition readiness with the
+Transition Pathway Initiative (TPI)). It is important to
+note, however, that a staged approach should only be
+considered when limited resources do not permit an
+organisation to integrate all the recommendations of
+the TCFD from the start. Issuers in climate-vulnerable
+industries should consider either immediate alignment
+or an accelerated progression (within 1–2 years).
+1.5 The intended
+audience for this guidance
+The primary objective of this guidance is to support
+JSE-listed companies in considering how they can
+integrate the TCFD recommendations into their disclosure
+processes in conjunction with the King IV Guidance
+Paper on Responsibilities of Governing Bodies in
+Responding to Climate Change.15 The starting point
+for this guidance is that all companies regardless of
+sector need to consider and disclose information on
+how the impact of climate change and the economic
+transition to net zero will impact their business and
+how their business will impact on the wider
+environment and society.
+In accordance with the King IV Report on Corporate
+Governance for South Africa, 2016, a stakeholderinclusive approach is encouraged where the governing
+body “balances the needs, interests and expectations of
+material stakeholders in the best interests of the
+organisation over time”.16
+15 Institute of Directors, King IV Guidance Paper: Responsibilities of Governing Bodies in Responding to Climate Change, 2021
+16 Institute of Directors, King IV Report on Corporate Governance for South Africa, 2016, p41
+JSE Limited Climate Disclosure Guidance 2021 13
+Risks and
+opportunities
+02
+The second step for organisations that
+have recognised the need for action on
+climate is to integrate climate-related
+risks and opportunities into their
+governance, strategy and risk
+management processes.
+14 JSE Limited Climate Disclosure Guidance
+In order to do this, it is important
+that the board and senior-level
+management recognise the climaterelated risks and opportunities that
+are relevant to their organisation,
+their industry, their supply chain and
+their geographic location.
+To help organisations with this task, this
+chapter identifies key climate-related risks and
+opportunities, as well as providing guidance on
+practices used to evaluate the risk and
+opportunities most relevant to an organisation.
+While many organisations will already be
+considering various opportunities and risks
+associated with climate change, the TCFD
+recommendations offer a framework for these
+risks and opportunities that enables global
+consistency. The Task Force’s
+recommendations serve to encourage
+organisations to evaluate and disclose, as part
+of their annual financial filing preparation and
+reporting processes, the climate-related risks
+and opportunities that are most pertinent to
+their business activities. The risks and
+opportunities recommended for consideration
+by the TCFD are those which have a financial
+impact and should therefore also be reflected
+in the organisation’s financial statements
+(Figure 2.1).
+JSE Limited Climate Disclosure Guidance 15
+The TCFD approach of addressing risks and opportunities
+is closely aligned to that set out in the King IV Guidance
+Paper on Responsibilities of Governing Bodies in
+Responding to Climate Change, which states that “climate
+risk governance should encompass both the potential
+positive and negative effects of the same risks on the
+achievement of organisational objectives.”17 However,
+as explored further in 2.4 Materiality assessment below,
+the King IV Guidance Paper also recommends that
+organisations consider and report on their impact on
+the wider environment and society, not just those that
+have a financial impact on the organisation.
+2.1 Climate opportunities
+Efforts to mitigate and adapt to climate change can
+and are producing substantial opportunities for
+organisations and their investors. In fact, the financial
+impact of climate opportunities may outweigh climate
+risks. In a 2019 study by CDP18, it was found that 225
+of the world’s 500 largest companies reported climaterelated opportunities representing potential financial
+impacts of over US$2.1 trillion - more than twice the
+financial impact estimation from climate risks
+(US$970 billion). Additionally, the report found that
+more than half of all reporting companies in the study
+identified potential opportunities that could have a
+substantive or strategic impact on their business.
+Climate-related opportunities may come through the
+implementation of new resource efficiency and cost
+savings programs, the adoption of low-emission energy
+sources, the development of new products and
+services, access to new markets, and building resilience
+along the supply chain. TCFD identified several areas of
+opportunity (see Figure 2.1 for an overview) that
+organisations should assess and evaluate.
+In the same way that organisations identify potential
+negative impacts associated with climate risks, the
+financial impact of new climate opportunities should be
+identified and reflected in disclosures. Companies
+should disclose the governance structures and
+strategies developed to identify and assess climaterelated opportunities such as cost savings strategies or
+product development to meet new market demands.
+These opportunities should also be measured for
+financial impact and appear in disclosures of metrics
+and targets.
+2.1.1 Financing opportunities
+Increasingly, the financial sector is creating new
+opportunities when climate-related data is made
+available. The growth of the green bonds market is an
+example of these growing financing opportunities in
+“green” that issuers can take advantage of. The green
+Figure 2.1 - Climate-related risks, opportunities, and financial impact
+Policy and Legal Resource Efficiency
+Transition Risks Opportunities
+Physical Risks
+Technology Energy Source
+Market
+Strategic Planning
+Risk Management
+Financial Impact (R)
+Cash Flow
+Statement
+Products/Services
+Acute
+Revenues Assets and Liabilities
+Reputation Resilience
+Chronic
+Expenditures Capital and Financing
+Risks Opportunities
+Income
+Statement
+Balance
+Sheet
+Source: Page 9 of the TCFD recommendations, 2021
+17 Institute of Directors, King IV Guidance Paper: Responsibilities of Governing Bodies in Responding to Climate Change, 2021.
+18 CBI, Record $269.5bn green issuance for 2020: Late surge sees pandemic year pip 2019 total by $3bn, 2021.
+16 JSE Limited Climate Disclosure Guidance 2021
+bond market continues to reach new records quarter
+after quarter. For example, in 2020 the Climate Bonds
+Initiative noted 60% average annual growth in green
+bond issuance since 201519 with a cumulative
+US$1 trillion milestone20 reached in December 2020
+and a doubling of issuance in the first half of 2021
+compared to the same period of 2020.21 Transition
+finance, which supports high emitting companies shift
+towards a climate-neutral or climate-positive position, is
+another emerging trend.
+These shifting dynamics are also evident in global stock
+markets and therefore important for issuers to provide
+relevant disclosure on. Non-financial sector organisations
+should evaluate what new opportunities for financing
+related to climate-alignment exist (such as green
+bonds). Financial sector organisations can address this
+opportunity from a product-opportunity perspective.
+There remains a significant financing gap in South
+Africa. An International Finance Corporation (IFC) study
+estimated that R8.9 trillion in investment would be
+needed between 2015 and 2030 to fund South Africa’s
+commitments under the Paris Agreement. This
+translates to around R600 billion each year, whereas a
+2021 report by the Climate Policy Initiative, Bertha
+Centre & GreenCape tracked climate finance of only
+R62 billion in 2017 and 2018.22
+2.2 Climate risks
+The Task Force in its work evaluating risks related to
+climate found two key categories of risk that report
+preparers should be considering:
+1. Risks related to the transition to a lower-carbon
+economy; and
+2. Risks related to the physical impacts of climate
+change.
+Within a scenario of climate transition, companies may
+face risks relating to policy and legal changes, new or
+obsolete technologies, changing market behaviours and
+reputational risks. These risks have been found to
+impact a company financially through both its income
+statement, revenues and expenditures, its balance
+sheet and through its assets, liabilities, capital and
+financing. Examples of these risks were identified by
+the Task Force (see Figure 2.1 for an overview) and
+may be used to initiate a risk-assessment in order to
+identify potential climate-related risks threatening your
+company. A materiality analysis (see section 2.4 of this
+chapter) can and should be conducted to illustrate how
+materiality is determined and what risks are determined
+to financially impact an organisation.
+While climate change is a global challenge, it also has
+unique local implications. Whether an issuer is
+operating in one or many countries, they should
+consider both global and domestic risks confronting
+their operations. Within the markets where we operate,
+there are also specific risks and opportunities that
+companies should consider when conducting initial risk
+and opportunity analysis.
+2.3 Climate governance
+A key aspect of ensuring that climate-related
+risks and opportunities are sufficiently
+integrated into an issuer’s internal processes is through
+its governance mechanisms. Users of climate-related
+financial disclosures are interested in understanding
+the role an organisation’s board plays in overseeing
+climate-related issues as well as management’s role in
+assessing and managing those issues. Such information
+supports evaluations of whether climate-related issues
+receive appropriate board and management attention.
+While good governance should intrinsically include
+climate governance, since climate data can be both
+new and complex, boards may require additional
+mechanisms to grapple with the scientific, macroeconomic and political uncertainty of climate change.
+In addition to the other guidance and requirements
+provided by the JSE on corporate governance
+requirements and best practices, including the JSE’s
+Sustainability Disclosure Guidance, issuers should
+consider to what extent their current corporate
+governance accounts for and takes into consideration
+climate-related risks and opportunities. The Task Force
+considers governance, as well as risk management,
+to be essential information required by investors to
+assess an organisation’s financial and operating results.
+As such, the recommended disclosures pertaining to
+risk management and governance are recommended
+to be disclosed in the annual financial filings of all
+listed companies.
+The King IV Report on Corporate Governance for South
+Africa 2016 recommends that organisations should
+take responsibility for the environmental impacts of
+their activities and acknowledges climate change as
+among the challenges testing the leadership of
+organisations. The King IV Guidance Paper on
+Responsibilities of Governing Bodies in Responding to
+Climate Change highlights how the relevant King IV
+principles can be applied in the context of responding to
+climate change.
+19 CBI, Record $269.5bn green issuance for 2020: Late surge sees pandemic year pip 2019 total by $3bn, 2021.
+20 CBI, $1Trillion Mark Reached in Global Cumulative Green Issuance: Climate Bonds Data Intelligence Reports: Latest Figures, 2020.
+21 CBI, Sustainable Debt Market: Summary H1 2021, 2021.
+22 Climate Policy Initiative, Bertha Centre & Green Cape. South African Climate Finance Landscape 2020, 2021
+JSE Limited Climate Disclosure Guidance 2021 17
+The main principles in the King IV Guidance Paper are
+summarised as follows:23
+y “Organisations are exposed to risks arising from climate
+change, particularly physical risk and transition risk.
+How the organisation experiences these risks depends
+on firstly, how these risks materialise and secondly,
+what actions are taken to mitigate them. Physical risk
+arises from the impacts of climate change. The
+response from Governing Bodies will mitigate or
+potentially lessen the risks, but the risks arise regardless.
+Transition risk arises outside the organisation.
+y Governing Bodies have a critical role to play in
+responding to climate change which is an imperative
+and no longer optional.
+y Governing Bodies must ensure that business strategy
+and decision-making include a broader, integrated
+consideration of social, economic, and environmental
+(including climate change) performance and impacts.
+This incorporates an assessment of externalities (see
+below), as well as determining risks and opportunities
+for both the short and long term.
+y Insofar as environmental and climate change reporting
+and performance is concerned, Governing Bodies
+should consider the principle of ‘externalities’. In simple
+terms, externalities refer to societal costs not included
+in the cost of production resulting in costs that do not
+reflect the true impact on society or the environment.
+y While accountability remains with the Governing Body,
+responsibility for the management and monitoring of
+risk and impact must be delegated to management
+with defined indicators and targets to measure and
+assess performance.
+y Governing Bodies should make every effort to mitigate
+their organisations’ contribution to climate change
+(reduce the organisation’s impact on the drivers of
+climate change).
+y The Governing Body should ensure that the
+organisation is transparent about its response to
+climate change and disclose quantitative and
+qualitative information which could affect a user’s
+decisions, irrespective of whether a common
+reporting framework exists or not.”
+2.4 Materiality assessment
+The Task Force recommendations are based
+on the belief that climate-related issues are or
+ could be material for many organisations, and its
+recommendations should be useful to organisations in
+complying more effectively with existing disclosure
+obligations. It also notes, however, that climate-related
+risk is a non-diversifiable risk that affects nearly all
+industries, and therefore many investors believe it
+requires special attention.
+The TCFD recommendations primarily relate to
+information deemed “financially material”. The JSE
+Climate Disclosure Guidance supports the
+recommendation of the King IV Guidance Paper on
+Responsibilities of Governing Bodies in Responding to
+Climate Change that governing bodies recognise the
+concept of double materiality, which considers both the
+impact on enterprise value and the organisation’s
+impact on wider environment and society (see Figure
+2.2). This is also in alignment with the JSE’s
+Sustainability Guidance document.
+It is noted that over time materiality will change and
+that time horizons impact whether or not information is
+relevant to a decision. The Task Force encourages
+organisations where climate-related issues could be
+material in the future to begin disclosing climate-related
+Figure 2.2 – Double Materiality Perspective
+OPPORTUNITY for company, climate and society if
+company contributes to climate mitigation/adaption
+RISK of negative impact on climate
+RISK of negative impact on company:
+acute and chronical physical risks
+RISK of negative
+impact on company:
+transition risk
+Policy
+Legal
+Technology
+Market
+Reputation
+SOCIETY
+RESPONSE
+TCFD and JSE
+perspective:
+risks and
+impacts ON
+the company COMPANY
+JSE perspective:
+company impacts
+on climate
+CLIMATE
+Source: Adapted from EU Guidelines on reporting climate-related information
+23 Institute of Directors, King IV Guidance Paper: Responsibilities of Governing Bodies in Responding to Climate Change, 2021.
+18 JSE Limited Climate Disclosure Guidance 2021
+financial information outside financial filings to
+facilitate the incorporation of such information into
+financial filings once climate-related issues are
+determined to be material. A materiality matrix can
+be used to illustrate how a company has considered
+climate-related matters.
+Companies who do not find climate-related risks
+or opportunities material to their organisation are
+encouraged to report the means by which they came
+to this conclusion, and the time horizon used.
+2.5 Scenario analysis
+The TCFD recommends conducting a
+scenario analysis (see box 1.1) to help identify and
+effectively assess the potential implications of a
+range of plausible future conditions due to the
+uncertainty of climate-related changes. Scenarios
+are hypothetical constructs that consider how the
+future might look if certain trends continue or
+certain conditions are met. Scenario analysis is not
+an exercise in forecasts, predictions or sensitivity
+analyses, but rather in evaluating resilience to
+different possible future scenarios. For example,
+while governments have agreed upon the target
+of limiting global average temperature rise to well
+below 2ºC, and preferably to 1.5 ºC, above
+pre-industrial levels, corporations should consider
+the impact on their business in the scenario that
+this target is met, or not. This analysis can be
+qualitative, relying on descriptive, written narratives,
+or quantitative, relying on numerical data and
+models, or a combination of both.
+While climate change can impact organisations
+both today and in the future, the implications often
+vary over time in severity and conditions. A scenario
+analysis is a method for developing strategic plans
+that are more flexible or robust and has become
+a useful tool for businesses to understand the
+strategic implications of climate-related risks and
+opportunities. While this is an important step to the
+TCFD, it is also often the stage for which companies
+have the least experience. It is important to note,
+that while the initial process of developing a scenario
+analysis may be challenging, it pays dividends in the
+years ahead. After the first analysis, only adjustments
+will be needed on a yearly basis; revisiting the
+whole process is less often required.
+TIPS ON CONDUCTING
+A SCENARIO ANALYSIS
+The Centre for Climate and Energy Solutions
+(C2ES) launched a report in 2018 that identifies
+best practices companies are employing when they
+conduct a TCFD recommended scenario analysis.
+They include:
+y Make use of publicly available scenarios and
+leverage them by customizing corporate
+scenario exercises around company-specific
+risks and opportunities. Stakeholders are
+familiar with the parameters and assumptions in
+publicly available scenarios, but companies need
+to explain how the scenarios were modified and
+used to stress test their particular portfolio and
+circumstances.
+y Focus scenario exercises and disclosures on a
+few key variables associated with long-term
+climate-related risks and opportunities that
+could have a material impact on the business.
+Stakeholders want to understand how companies
+manage the uncertainty and long-term risks of
+climate change. A scenario analysis is not
+intended to be a predictive exercise, nor an
+exhaustive one. Rather, it provides an opportunity
+to evaluate potential strategies compatible under
+a range of outcomes to make companies more
+financially resilient.
+y Use a range of scenarios when conducting a
+scenario-based risk analysis, including those
+that do not meet 2ºC. Exploring a broad range of
+futures and testing those against a company’s
+strategy will help illustrate financial resilience
+under a variety of climate-related outcomes.
+Beyond assessing the risks and opportunities
+related to an energy transition, companies
+should also consider the physical impacts of
+climate change and analyse them along the
+entire value chain.
+y Scenario exercises should be reviewed on a
+regular basis as part of a strategic management
+process. Outcomes from scenario exercises are
+unlikely to change significantly from year to year
+if assumptions and inputs remain stable, but
+companies should regularly monitor signposts
+that might indicate a potential need to change
+strategy or positioning on a regular basis.
+Source: Center for Climate and Energy Solutions (C2ES) report
+titled “Using Scenarios to Assess and Report Climate-Related
+Financial Risk” (2018)
+JSE Limited Climate Disclosure Guidance 2021 19
+Organisations have numerous resources available to
+them, including the TCFD’s Guidance on Scenario Analysis
+for Non-Financial Companies (2020), the TCFD’s
+Knowledge Hub, among others (see section 5.1 of
+Chapter 5). For example, the TCFD’s guidance on
+scenario analysis provides a detailed step-by-step
+guide on how to conduct a scenario analysis and
+provides a detailed analysis on available scenarios and
+models. The same guidance also provides a list of key
+messages that organisations should understand about
+scenario analysis. If issuers have not worked on a
+scenario analysis before, they may wish to use the
+many resources available through the TCFD.
+To conduct a scenario analysis, companies may wish
+to follow the following (simplified) three stage process:
+1. Identify appropriate scenarios – Each organisation
+has the choice of using “out-of-the-box” scenarios or
+developing their own. In either case, it should choose
+the scenarios that align with the organisation’s
+underlying assumptions and the key risks and
+opportunities of its sector or industry. The scenarios
+used should be clearly explained. It is also important
+that organisations recognise the importance of
+consistent and comparable disclosures and therefore
+existing scenarios will help ensure consistency with
+scientific data underpinning the exercise. Scenarios
+aim to evaluate a company’s resilience to what
+‘may’ happen, therefore, more than one scenario
+will help identify resilience in the various possible
+futures.
+2. Set the boundaries of your scenario analysis
+– Before analysing the impact of climate-change in
+the scenarios chosen, organisations may wish to
+set boundaries to their analysis. This simple process
+determines how far your analysis will extend. While
+smaller organisations may feel that an analysis of
+the direct operations sufficiently covers the
+climate-related risks and opportunities within each
+scenario, given that many significant impacts and
+vulnerabilities are found in the supply chain, it will
+be beneficial for most larger companies and all
+financial-sector companies to expand their analysis
+beyond their headquarters. Boundaries may be set
+for financial institutions to include their portfolio,
+and all large organisations should consider
+including their supply chain and customers.
+3. Analyse both transitional and physical risks within
+the scenarios chosen – Once the scenarios are
+chosen and boundaries are set, the organisation
+undergoes an exercise of evaluating its physical and
+transitional risks. This exercise can also be used to
+identify the opportunities that may appear within
+the scenario. Mapping the severity and likelihood of
+the risks enables the organisation to develop a
+strategic plan for future scenarios.
+2.5.1 Scenario selection
+When conducting a scenario analysis for the first time,
+organisations have a plethora of resources to help
+develop in-house scenarios or to make use of publicly
+available scenarios. Publicly available scenarios may be
+used as they are, be adapted, or used to help create an
+in-house scenario, or combined scenarios. However, it
+is important to remember that investors require
+consistent and comparable disclosure.
+There are a number of publicly available scenarios
+which organisations can use to conduct a scenario
+analysis or to act as guidance for developing in-house
+scenarios, such as the Intergovernmental Panel on
+Climate Change (IPCC), the International Energy Agency
+(IEA) and the Network for Greening Financial System
+(NGFS) scenarios (see box 2.1). While the aforementioned
+scenarios are the most prominent and widely used
+scenarios in the public domain, other organisations,
+such as the International Renewable Energy Agency,
+and the Deep Decarbonization Pathways Project (DDPP)
+among others, have published their own scenarios,
+which provide a different narrative and outlook to those
+listed above. Some of these groups have taken a specific
+focus, such as using 100% renewable energy, or built a
+regional specific model that takes a deeper look into the
+energy mix for specific countries (such as the DDPP).
+Organisations should choose scenarios that best align
+with their own underlying assumptions in managing
+climate risks and opportunities and should also align
+with the country’s Nationally Determined Contributions
+(NDCs) under the Paris Agreement. NDCs are refreshed
+every five years in accordance with the Paris Agreement.
+The sum of all countries’ NDCs, however, fail to achieve
+a 2°C temperature goal, so companies using NDCs as
+another basis of scenarios should understand both
+NDC pathways and limitations.
+South Africa formally ratified the Paris Agreement in
+November 2016. Its NDC was updated in September
+2021 with a new target range of 398–510 Mt CO2
+equivalent for 2025 and 350-420 Mt CO2 equivalent for
+2030. This is compared to the target range of 398–
+614 Mt CO2 equivalent for 2025 and 2030. Whereas the
+initial NDC expected emissions to decline from 2035,
+the updated NDC expects emissions to decline from
+2025. Climate Action Tracker rated South Africa’s initial
+NDC as “insufficient”, which means that warming would
+reach over 2°C and up to 3°C if all countries were to
+follow this approach. The Climate Action Tracker
+assessment of the updated NDC is still pending, but in
+July 2021, Climate Action Tracker noted that the
+Presidential Climate Commission’s recommendation,
+which was subsequently adopted in the updated NDC,
+was close to 1.5°C compatible.
+24 Climate Action Tracker, South Africa’s Presidential climate commission recommends stronger mitigation target range for updated NDC: close to 1.5°C
+compatible, 2021.
+20 JSE Limited Climate Disclosure Guidance 2021
+IPCC, IEA AND NGFS SCENARIOS
+Intergovernmental Panel on Climate Change (IPCC)
+The IPCC has developed a new basis for the construction of comparable scenarios across research and
+modelling groups — Representative Concentration Pathways (RCPs) and Shared Socioeconomic Pathways
+(SSPs). RCPs are “emissions scenarios” that include time series of emissions and concentrations of the
+full suite of greenhouse gases, aerosols, and chemically active gases, as well as land use/land cover.
+RCPs are used to develop climate projections by informing physical climate system models; these models,
+in turn, project how the physical climate may change under different levels of radiative forcing driven by
+greenhouse gas concentrations. SSPs were developed to complement the RCPs with varying
+socioeconomic challenges to adaptation and mitigation. The combination of SSP-based “socioeconomic
+scenarios” and RCP-based climate projections provides an integrative framework for climate impact and
+policy analysis. The following table outlines the RCPs:
+Mean Temperature and Full Range Associated with Each RCP
+Scenario
+Atmospheric carbon
+dioxide concentrations
+in 2100
+Temperature increase
+to 2081–2100 relative to a
+1850–1900 baseline
+Global mean sea level rise
+for 2081–2100 relative to a
+1986–2005 baseline
+Average Likely range Average Likely range
+RCP2.6 421ppm 1.6°C 0.9–2.3°C 0.40m 0.26–0.55m
+RCP4.5 538ppm 2.4°C 1.7–3.2°C 0.47m 0.32–0.63m
+RCP6.0 670ppm 2.8°C 2.0–3.7°C 0.48m 0.33–0.63m
+RCP8.5 936ppm 4.3°C 3.2–5.4°C 0.63m 0.45–0.82m
+The SSPs describe five alternative socioeconomic futures over the course of the 21st century assuming
+no explicit policies to mitigate or adapt to climate change, as follows:
+y sustainable development (SSP1);
+y middle-of-the-road development (SSP2);
+y regional rivalry (SSP3);
+y inequality (SSP4); and
+y fossil–fuelled development (SSP5).
+International Energy Agency (IEA)
+In contrast to the IPCC approach, the IEA focuses on energy and emission scenarios. The IEA’s World
+Energy Model runs three main scenarios describing the future energy mix:
+y Current Policies Scenario (CPS): This scenario considers policies that are in place at the preceding year
+of publication (i.e., mid-2019 for the 2019 World Energy Outlook), without any additional government
+policy intervention.
+y Stated Policies Scenario (SPS): This scenario is designed to explore all policies enacted in the preceding
+year, plus the policies that have been firmly communicated or committed to by national authorities. The
+SPS scenario assumes that there is a slow implementation of these policies, based on the IEA’s
+assessment of the many political, institutional, and societal barriers that exist to a rapid transition.
+y Sustainable Development Scenario (SDS): This scenario assumes the world is successful in achieving
+Sustainable Development Goals by 2030. The SDS holds the temperature rise to below 1.8°C with a 66%
+probability without reliance on global net-negative CO2 emissions.
+JSE Limited Climate Disclosure Guidance 2021 21
+In addition to the NDC, South Africa’s Long-term
+Adaptation Scenarios, which were released in 2013,
+present a range of possible future climate conditions
+over three time periods: 2015–2030, 2040–2060 and
+2080–2100 that can be considered.25
+2.5.2 Simplified approach for first time
+scenarios
+For those companies starting a scenario analysis for
+the first time, the steps and guidelines available may
+seem overwhelming and daunting. Choosing existing
+scenarios, or using aspects of existing scenarios, are
+often the easiest way to begin a scenario analysis,
+and after scenarios are chosen the process may
+become much more clear. As an important aspect of
+the TCFD recommendations, companies should always
+choose a simplified scenario over no scenario. In order
+to simplify the process, companies can ask themselves
+three key questions:
+y Would the business be profitable if countries were
+successful in achieving the goals of the Paris
+Agreement and there is an orderly transition to a
+low-carbon economy?
+y Would the business be profitable if there is an
+abrupt and disorderly transition as countries belatedly
+catch up on climate goals?
+y Would the business be profitable if there is a failure
+to transition?
+2.6 Just transition
+South Africa, which is the world’s 12th largest GHG
+emitter26, is highly exposed to the risks resulting from
+the transition to a low emission economy due to its
+reliance on fossil fuels, including coal-fired power and
+related mining activity. The Paris Agreement incorporated
+the notion of a “just transition”, which originated in the
+labour movement, to signal the importance of minimising
+the negative impacts and maximising the positive
+opportunities for communities and workers as part of
+the shift toward a low emission economy. Given the
+importance of the just transition to South Africa, it will
+be critical for issuers to pay increasing attention to the
+related risks and opportunities.
+In mid-2021, the TCFD undertook a public consultation
+on its Proposed Guidance on Climate-related Metrics,
+Targets, and Transition Plans and the associated
+IPCC, IEA AND NGFS SCENARIOS continued
+In May 2021, the IEA released a new Net Zero Emissions by 2050 Scenario (NZE) based on
+detailed modelling of the energy sector. The NZE looks to hold energy‐related and industrial process
+CO2 emissions to 2030 in line with reductions in 1.5°C scenarios.
+The Network for Greening Financial System (NGFS) Scenario
+The Network for Greening the Financial System (NGFS), a group of over 80 central banks, including the
+South African Reserve Bank, focused on addressing climate risks, worked with an academic consortium
+from the Potsdam Institute, IIASA, University of Maryland, Climate Analytics and the Swiss Federal Institute
+of Technology (ETHZ). It set out 3 reference scenarios and 5 additional scenarios that cover a comprehensive
+range of transition pathways and climate outcomes, meeting the needs of the financial sector. The scenarios
+include multiple IAMs (REMIND, GCAM, and MESSAGE), climate models (on the physical risk side) and
+macro models (added in phase II) to provide more complete macro pathways. NGFS consulted the wider
+scientific and financial communities to ensure the scenarios are robust, effective, and usable, and will
+continue to evolve the scenarios, increasing sectoral and geographic granularity of emissions/energy data,
+and adding more climatic events, regulatory policy indicators, and macro variables.
+As central banks and supervisors globally will likely ask the institutions they supervise to use these
+scenarios, who in turn could make the same request upon their corporate clients, there will likely be a net
+efficiency to the financial system using these scenarios and working with NGFS to ensure their robustness
+and usefulness.
+Sources: UN SSE, with data from the TCFD Technical Supplement titled “The use of scenario analysis in disclosure of climate-related risks
+and opportunities” and the NGFS website.
+25 Department of Environmental Affairs, Long Term Adaptation Scenarios for South Africa, 2013.
+26 Global Carbon Atlas, 2019.
+22 JSE Limited Climate Disclosure Guidance 2021
+Measuring Portfolio Alignment: Technical Supplement.
+Similarly, the IFRS’ Climate-related Disclosures Prototype
+calls for the disclosure of information that allows users
+to understand the impact of climate-related risks and
+opportunities on management’s strategy, including its
+transition plans. Specific requirements include disclosure
+of how climate-related targets will be achieved, the
+resources required, assumptions regarding the use
+of offsets, and the direct and indirect mitigation and
+adaption efforts being undertaken.27
+Issuers should be cognisant of these developments It is
+also recommended that they incorporate disclosure of
+related social issues into their TCFD reporting to reflect
+the importance of these dynamics in the local context.
+Some recommended metrics are as follows:
+y Does the issuer have a just transition plan that
+commits to stakeholder engagement with workers
+and communities?
+y How many engagements have been undertaken with
+affected parties by group, geography etc?
+y How many workers in the past year have been
+retrained/retrenched/compensated due to their
+decarbonisation plans?
+y How do lobbying activities and those of associations
+and membership group align with the objectives of
+the Paris Agreement?
+y How is executive remuneration aligned to the
+transition plan?
+y Do climate scenarios include impacts on workers and
+communities?
+y How much capital or expenditure is deployed toward
+climate adaptation or climate mitigation projects?
+27 IFRS Technical Readiness Working Group, Climate-related Disclosures Prototype, 2021, p9.
+JSE Limited Climate Disclosure Guidance 2021 23
+Disclosure content
+03
+The third step for organisations that
+have recognised the need for action
+on climate is to communicate their
+action and intentions through climaterelated disclosures.
+24 JSE Limited Climate Disclosure Guidance
+The TCFD recommendations for
+disclosure are the current best
+practice in determining what
+information relating to climate
+should be reported on. Many
+companies may already be reporting
+on some or all of the recommended
+disclosures, but should ensure that
+this information is accessible and
+easy to find.
+Report preparers can initially use the TCFD
+Checklist (Annex 1) as a means of taking stock
+of where this information can be found, and
+provide it as a map in their TCFD or climaterelated reporting. The recommended
+disclosure content within the TCFD
+publications has also been mapped with most
+major reporting frameworks (Annex 2). Further
+discussion on frameworks can be found in
+Chapter 4 of this guidance.
+JSE Limited Climate Disclosure Guidance 25
+3.1 Investor-useful
+information
+Investors want to understand how a company is
+positioning itself strategically in light of its climaterelated risks and opportunities. They frequently indicate
+that climate-related risks and opportunities have a
+significant impact on their investment decisions. In a
+2019 TCFD survey, investors rated information on the
+resiliency of a company’s strategy and how its strategy
+might be affected by or changed to address potential
+climate related issues, as very useful.28 In the 2021
+TCFD consultation, 90% of investors indicated that
+it would be helpful for report preparers to disclose
+climate-related impacts on financial performance and
+financial position.29
+Companies reporting on climate should be aware that
+investors are looking for information that gives them
+confidence that companies understand climate-related
+issues, how they impact the business and what action
+they are taking as a result. According to the King IV
+Report, the board should ensure that reports allow
+stakeholders to make informed assessments of
+performance and the prospects over the short-,
+medium- and long-term.
+Many investors with diversified portfolios are also
+asking for consistent data across all companies they
+invest in to be able to apply consistent methodologies
+to inform the level of investment they are making in
+each company. Therefore in order to ensure that the
+efforts put in by report preparers have the desired
+impact in informing shareholders of the climateresiliency of their company, information should be
+shared in a standardised format and include the
+content that investors are looking for.
+3.2 Reporting on opportunities
+and use of taxonomies
+TCFD recommends that where relevant, organisations
+should provide climate-related opportunity metrics such
+as revenue from products and services designed for a
+lower-carbon economy. Some of the opportunities
+created by the climate transition impact financial
+statements primarily through cost reductions and
+efficiency creation, such as resource efficiency and
+energy sources. Opportunities that the corporation is
+taking advantage of should be reported to investors not
+only to indicate a strategic alignment with climateresiliency but also to indicate expected future savings
+or efficiency increases. Other opportunities, however,
+also provide new revenue to the business, often referred
+to as “green revenues”. By introducing new products or
+services, or accessing new markets, organisations may
+tap into new revenue streams that are climate-aligned.
+Reporting on climate-related opportunities will often
+mean breaking down the revenues associated with
+certain activity segments that enable climate mitigation
+or adaptation.
+One significant challenge in reporting opportunities is
+defining which product and service categories to
+identify. A solution for this can be found in the growing
+development of green and sustainable finance
+“taxonomies” by various regulators. The EU has been
+pioneering in this regard, while a draft South African
+Green Finance Taxonomy was released in June 2021.
+The green finance taxonomy provides a catalogue of
+assets, projects and sectors that can be defined as
+“green” in accordance with international best practice
+and national priorities. Benefits to the financial sector
+include greater clarity and certainty in selecting and
+issuing green financial instruments and greater
+regulatory support.
+3.3 Carbon emission reporting
+Carbon reporting standardises into one metric the
+combined climate impact in CO2 equivalent units for the
+measurement of the release of all gases linked to the
+greenhouse effect and climate change. Also referred to
+as carbon footprinting, this activity measures what
+amount of these gases an organisation is responsible
+for through a system which classifies emissions as
+scope 1, 2 or 3, depending on the source of the
+emissions (Figure 3.1). As per the GHG Protocol
+Corporate Accounting and Reporting Standard,30 scope
+1, 2 and 3 emissions can be broadly understood as:
+y Scope 1 (Direct GHG emissions): Emissions that
+occur from sources that are owned or co ntrolled
+by the company. For example, emissions from
+combustion in owned or controlled boilers, furnaces,
+vehicles, etc.; emissions from chemical production in
+owned or controlled process equipment.
+y Scope 2 (Electricity indirect GHG emissions):
+Emissions from the generation of purchased
+electricity, steam, heat and cooling consumed by the
+company. Purchased electricity is defined as electricity
+that is purchased or otherwise brought into the
+organisational boundary of the company. Scope 2
+emissions physically occur at the facility where
+electricity is generated.
+y Scope 3 (Other indirect GHG emissions): Emissions
+that are a consequence of the activities of the company,
+but occur from sources not owned or controlled by
+the company. Some examples of scope 3 activities
+are extraction and production of purchased materials;
+28 See Table A5-5 in Appendix 5 in the 2020 TCFD Status Report.
+29 TCFD, 2021 Status Report.
+30 The Greenhouse Gas Protocol, A Corporate Accounting and Reporting Standard (revised edition), 2004.
+26 JSE Limited Climate Disclosure Guidance 2021
+BENCHMARKING CLIMATE TRANSITION
+READINESS WITH TPI
+Source: SSE initiative, with data from The Transition Pathway Initiative website and the Climate Action 100+ website.
+The Transition Pathway Initiative (TPI) is a global initiative led by asset owners and supported by asset
+managers. Aimed at investors and free to use, it assesses companies’ preparedness for the transition to a
+low-carbon economy, supporting efforts to address climate change. Through robust and independent
+research, the tool aims to empower investors to assess the alignment of their portfolios with the goals of
+the Paris Agreement and to drive real world emission reductions through actions.
+Using publicly disclosed company information, the TPI does the following assessments:
+y Evaluates and tracks the quality of companies’ management of their greenhouse gas emissions and of
+risks and opportunities related to the low-carbon transition;
+y Evaluates how companies’ planned or expected future carbon performance compares to international
+targets and national pledges made as part of the Paris Agreement;
+y Publishes online the results of this analysis through a publicly-available tool hosted by its academic
+partner, the Grantham Research Institute on Climate Change and the Environment at the London School
+of Economics and Political Science (LSE).
+y The TPI complements existing initiatives and frameworks, by aligning with prevailing disclosure
+initiatives and with investors’ climate change and sustainability expectations. It is also being aligned
+with the requirements of the TCFD and is used for the disclosure assessment of the Climate Action
+100+ Net Zero Company Benchmark - an assessment of the world’s largest corporate greenhouse gas
+emitters on their progress in the transition to the net zero future.
+How investors can use the TPI
+Investors are using the TPI for a broad range of activities, including ESG integration, active ownership,
+informing proxy voting, exclusions, product creation due diligence, and demonstrating commitment to
+environmental sustainability.
+How listed companies can use the TPI
+Companies can use the analysis already conducted by TPI on their own company, or if they have not been
+evaluated by TPI, they can use the analysis of a competitor or similar industry analysis to determine the
+baseline scenario analysis. Additionally, companies are also using TPI for other ESG-related exercises
+such as helping suppliers to align climate policies across a global value chain.
+transportation of purchased fuels; business travel
+and employee commuting, and use of sold products
+and services. For stock exchanges, scope 3
+emissions will include business travel (emissions
+of means of transport).
+GHG emission calculation is now an integral part of
+many corporations’ reporting, and is used to set targets,
+identify opportunities and show progress. Many reporting
+frameworks provide guidance on reporting and measuring
+GHG emissions, such as SASB’s Implementation
+Supplement which provides an overview of SASB’s
+approach to GHG emissions and related topics in the
+SASB Standards. It also offers guidance for reporting
+entities that wish to disclose Scope 1, 2, or 3 emissions.
+GHG Protocol (Figure 3.1) has been widely adopted by
+many companies to measure GHG emissions and has
+been referenced by many standards and frameworks
+including TCFD, the Global Reporting Initiative (GRI), the
+Carbon Disclosure Project (CDP) and the Sustainability
+Accounting Standards Board (SASB).
+JSE Limited Climate Disclosure Guidance 2021 27
+3.4 Setting targets
+To achieve climate-resilient markets and net-zero
+emissions issuers will need to set both attainable and
+impact-driven targets, based on widely understood and
+accepted definitions. The TCFD recommends that
+organisations describe their climate-related targets
+such as those related to GHG emissions, water usage,
+energy usage, etc. in line with the anticipated regulatory
+requirements or market constraints. It also
+recommends that, where relevant, the internal carbon
+price that is used to measure impact and set targets be
+disclosed. While some JSE-listed companies use the
+carbon tax to determine an internal carbon price, the
+current tax rate is significantly below the level estimated
+to be required in order to achieve the goals of the Paris
+Agreement.
+Organisations should also align their climate-related
+targets with other goals such as efficiency or financial
+goals, financial loss tolerance, avoidance of GHG
+emissions through the entire product life cycle, or net
+revenue goals for products and services designed for a
+lower-carbon economy. A major and growing focus for
+many companies and investors is in the setting of
+emissions targets that are aligned with the trajectory
+towards net zero emissions before 2050, which
+according to the scientific community, is needed to
+BENCHMARKING CLIMATE TRANSITION
+READINESS WITH TPI continued
+The TPI’s 4 level staircase can also be used to help companies chart a pathway of constant progression
+and set objectives for their climate-related disclosure journey.
+TPI’s four levels of TCFD alignment
+Company explicitly
+recognises climate change
+as a significant issue for the
+business
+Company has a policy (or
+equivalent) commitment to
+action on climate change
+Company has set energy
+efficiency or relative or
+absolute GHG emission
+reduction targets
+Company has published
+info on its Scope 1 & 2 GHG
+emissions
+Company has nominated
+a board member or board
+committee with explicit
+responsibility for oversight
+of the climate change policy
+Company has set
+quantitative targets for
+reducing Scope 1 & 2 GHG
+emissions (relative or
+absolute)
+Company reports on its
+Scope 3 GHG emissions
+Company has had its Scope
+1 & 2 GHG emissions data
+verified
+Company has reduced its
+Scope 1 & 2 GHG emissions
+over the past 3 years
+Company provides
+information on the business
+costs associated with
+climate change
+Company has set long-term
+quantitative targets (>5
+years) for reducing its GHG
+emissions
+Company has incorporated
+ESG issues into executive
+remuneration
+LEVEL 1
+ACKNOWLEDGEMENT
+LEVEL 2
+BUILDING CAPACITY
+LEVEL 3
+INTEGRATED INTO
+OPERATIONAL
+DECISION MAKING
+LEVEL 4
+STRATEGIC
+ASSESSMENT
+Source: Page 4 of Transition Pathway Initiative’s report “How can investors use the transition pathway initiative? Version 1.0–11 January 2016”
+28 JSE Limited Climate Disclosure Guidance 2021
+JSE Limited Climate Disclosure Guidance 2021 29
+achieve keeping global average temperature increases
+below 1.5°C. To ensure that targets align with climatescience, resources such as the Science Based Targets
+initiative (SBTi - see box 3.2) can be consulted or used
+to validate the process.
+It is important that common definitions are used when
+setting climate-related targets. First and foremost,
+issuers should always refer to the relevant law and
+guidance provided by their regulatory authority, using
+this guidance as a supplement to legal requirements.
+Climate data can also be available in pre or post issuance
+documents of bond issuers. Investors are interested in
+consistency across companies as well as within
+companies. Trend lines, or proof of progress are more
+useful than static targets or long-off objectives.
+Therefore, companies should endeavour to show how
+they have progressed over time on the climate-related
+targets chosen. Whether providing historical data to
+show this trendline or setting up new programs to
+collect this data moving forward, it is important to set
+targets that can be measured progressively and that
+allow to monitor progress and update information on
+climate-related science, and investor and reporting
+requirements.
+TCFD and global data vendors recommend providing
+the following details when describing targets:
+1. Definition of target, and if an emissions reduction
+target is set, which scopes (1,2 and 3) are covered.
+2. Whether there are absolute and intensity-based
+targets. For the intensity-based targets, include the
+details of the denominator used and its associated
+changes over the equivalent time.
+3. Time frames over which the target applies.
+4. Base year from which progress is measured.
+5. Whether there has or will be use of offsets in
+achieving the target, with associated details.
+6. Details regarding how and why the specific target/s
+were determined.
+7. Key performance indicators used to assess
+progress against target.
+Linking these targets to remuneration should also be
+considered. The King IV Guidance Paper proposes that
+remuneration should be linked to the performance of
+sustainability and ESG targets, including those relating
+to climate change.
+Figure 3.1: Overview of GHG Protocol scopes and emissions across the value chain
+Scope 2
+INDIRECT
+Scope 1
+DIRECT
+Upstream activities Reporting company Downstream activities
+CO2 CH4 SF N4O HFC 6 S PFCS
+Scope 3
+INDIRECT
+Scope 3
+INDIRECT
+Purchased goods
+and services
+Capital goods
+Fuel and energy
+related activities
+Transportation
+and distribution
+Purchased electricity,
+steam, heating and
+cooling for own use
+Transportation
+and distribution
+Processing of
+sold products
+Use of sold
+products
+End-of-life treatment of sold products
+Leased
+assets
+Franchises
+Investments
+Waste generated in
+operations Business
+travel
+Employee
+commuting
+Leased assets
+Company
+facilities
+Company
+vehicles
+Source: Greenhouse Gas Protocol, Corporate Value Chain (Scope 3) Accounting and Reporting Standard, 2011
+30 JSE Limited Climate Disclosure Guidance 2021
+3.4.1 Targeting net-zero emissions
+A number of public and private organisations globally
+have begun committing to decreasing or offsetting all
+scope 1, 2 and 3 emissions to achieve what’s referred
+to as “net-zero emissions”. Recognising the importance
+of keeping global warming to 1.5°C, companies are
+increasingly adopting net-zero climate targets. Achieving
+net-zero emissions means that your organisation either
+emits no greenhouse gas emissions or offsets its
+emissions, for example, through actions such as tree
+planting or employing technologies that can capture
+carbon before it is released into the air.
+SETTING SCIENCE BASED TARGETS
+The Science Based Targets initiative (SBTi) is a collaboration between CDP, the United Nations
+Global Compact (UNGC), World Resources Institute (WRI), and the World Wide Fund for Nature (WWF)
+ and one of the We Mean Business Coalition commitments. Central to SBTi’s mission is ensuring that
+companies have the tools they need to set targets in line with climate science, recognising that the
+science itself is nuanced and dynamic. Due to the complexity of the science, the SBTi plays an important
+role by conducting in-depth research and analysis, as well as consulting with scientists and sustainability
+professionals, in order to develop science-based targets (SBT) and setting methods that are transparent,
+robust, and actionable.
+Methods endorsed by the SBTi are instructive frameworks that may be used by companies to set
+emissions reduction targets consistent with the best available climate science. These methods are
+constructed from three main elements: a greenhouse gas budget, a set of emission scenarios, and an
+allocation approach. The SBTi’s procedure for developing a method begins with determining a
+representative set of emissions scenarios that are considered plausible, responsible, objective, and
+consistent and that are aligned with specific temperature goals (1.5˚C - 2˚C of global warming). In general,
+SBTi scenarios must not exceed the GHG budget associated with the temperature goal prior to reaching
+global net-zero emissions, in addition to meeting other criteria. An allocation approach is used to translate
+the resulting global or sector-specific emissions pathway into practical requirements that align company
+emissions with the pathway.
+The Science Based Targets initiative has also developed methodologies to support net-zero targets. In
+2019 SBTi launched a process to develop the first science-based global standard for corporate net-zero
+targets, to ensure that companies’ net-zero targets translate into action that is consistent with achieving a
+net-zero world by no later than 2050. In July 2021, in response to the increasing urgency for climate
+action, SBTi launched a new strategy that increased the minimum target ambition from “well below 2°C’ to
+‘1.5°C’ above pre-industrial levels.
+Source: SSE initiative, with data from the Science Based Targets initiative website – www.sciencebasedtargets.org
+Many countries have announced the timeline for
+achieving carbon neutrality since 2019 and started
+to explore the pathways in achieving the goal. South
+Africa’s Low-Emission Development Strategy, which
+was released in February 2020, initiated the country’s
+path to “ultimately moving towards a goal of net zero
+carbon emissions by 2050.” Work is now underway under
+the auspices of the Presidential Climate Commission to
+realise this vision. Such national goals will influence the
+actions and decision-making process for financial
+institutions and listed companies. Therefore, the timeline,
+goals, and pathways to achieve carbon reduction for
+each individual company, including the models and
+tools used, would be relevant for disclosure.
+JSE Limited Climate Disclosure Guidance 2021 31
+Disclosure presentation
+and validation
+04
+Issuers have several frameworks or
+formats to present the information
+recommended for disclosure by the
+TCFD.
+32 JSE Limited Climate Disclosure Guidance 2021
+By using the TCFD Checklist (Annex 1),
+together with the guidance in previous
+chapters, issuers should now have
+an idea of what information they are
+already disclosing and what disclosures
+they are missing.
+This chapter of the guidance helps issuers to
+align TCFD recommendations with disclosure
+frameworks to enhance efficiency, as well as
+providing guidance on how and where to disclose
+climate-related data.
+JSE Limited Climate Disclosure Guidance 2021 33
+4.1 Frameworks
+for disclosure
+Issuers should aim to follow the JSE Sustainability
+Disclosure Guidance’s key principles for useful ESG
+data and an effective ESG report to ensure they achieve
+high-quality and decision-useful disclosures that enable
+users to understand the impact of climate change on
+organisations.
+y Accuracy: The organisation should report
+information that is correct and sufficiently detailed to
+allow an assessment of the organisation’s impacts.
+y Balance: The organisation should report information
+in an unbiased way and provide a fair representation
+of the organisation’s negative and positive impacts.
+y Clarity: The organisation should present information
+in a way that is accessible and understandable.
+y Comparability: The organisation should select,
+compile, and report information consistently to
+enable an analysis of changes in the organisation’s
+impacts over time and an analysis of these impacts
+relative to those of other organisations.
+y Completeness: The organisation should provide
+sufficient information to enable an assessment of the
+organisation’s impacts during the reporting period.
+y Material: in terms of enterprise value and/or impact
+on society and the environment. The reporting
+organisation should disclose sustainability/ESG
+information that is reasonably capable of making
+ a difference to the conclusions drawn by:
+− providers of finance concerning the ability of the
+organisation to create long term value for the
+organisation (the focus of the integrated report);
+and
+− stakeholders more broadly concerning the
+organisation’s most significant impacts on the
+economy, environment, and people, including
+impacts on their human rights (the focus of
+additional disclosure such as a sustainability or
+ESG report)
+y Stakeholder inclusive: The reporting organisation
+should identify its stakeholders and explain how it
+has responded to their reasonable expectations and
+interests.
+y Sustainability context: recognising critical
+environmental thresholds and social pressures
+The organisation should report information about its
+impacts in the wider context of sustainable
+development.
+y Timeliness: The organisation should disclose
+information on a regular schedule and make it
+available in time for information users to make
+decisions.
+y Verifiability: The organisation should gather, record,
+compile, and analyse information in such a way
+that the information can be examined to establish
+its quality.
+While companies have several frameworks at their
+disposal for disclosing climate, as well as social and
+corporate governance information, most, if not all,
+have now been mapped and aligned to the TCFD
+recommendations to ensure consistency and efficiency.
+It has been recognised that consistency among
+reporting frameworks is essential to ensure information
+provided by companies is decision useful. To this end,
+several initiatives have been launched to ensure
+consistency among reporting frameworks. In 2020, the
+CDP, CDSB, GRI, IIRC and SASB released a statement of
+intent that presented a summary of alignment discussions
+and a commitment towards working together towards
+a comprehensive corporate reporting system.32
+To help map issuers’ current disclosure formats to
+the TCFD, Annex 2 indicates alignment of indicators
+between main reporting frameworks, including the
+IFRS’ Climate-related Disclosures Prototype, to the
+TCFD. If issuers already report using GRI and CDP, for
+example, they can use Annex 2 as a cross-reference
+when completing the TCFD Checklist (Annex 2),
+and may wish to include this in their map of TCFD
+information. Issuers are encouraged to use the metrics
+recommended by the TCFD to ensure consistency
+throughout the market and globally. The JSE
+Sustainability Disclosure Guidance also includes a set
+of suggested metrics that address climate change that
+are aligned with this document.
+4.2 Data verification
+and assurance
+Information disclosed in external reports should follow
+internal assurance procedures to ensure the data is
+accurate, appropriate, and reliable. Issuers may
+consider engaging external consultants to undertake
+assurance procedures to improve the credibility of their
+data with third party audit and external support may be
+essential if the capacity does not exist internally. As
+climate-related disclosures become more common and
+are included in mainstream financial filings, the
+governance process should be similar to those used for
+existing public financial disclosures and should
+therefore include a review by the chief financial officer
+and audit committee or equivalents.
+32 CDP, CDSB, GRI, IIRC and SASB, Statement of Intent to Work Together Towards Comprehensive Corporate Reporting.
+34 JSE Limited Climate Disclosure Guidance 2021
+An internal assurance process can ensure accurate and
+better data, leading to better decision-making and
+performance for the issuer. This process can be
+undertaken using the existing internal audit, risk and
+data control verification systems already developed for
+mainstream financial reporting processes. If internal
+systems are not currently sufficient for the task, a
+company may decide that it is in its long-term best
+interest to invest in building capacity in this area. This
+information is often reported by the company in the
+governance section of the TCFD recommendations.
+In addition to internal assurance procedures, an
+external audit can add trust, credibility and recognition
+to the organisation’s reporting practices. Accounting,
+engineering and specialist service firms are the most
+common third-party assurance providers. In order to
+decide the type and level of assurance, it is important
+for companies to consider recommended standards for
+assurance within their sector, as well as stakeholder
+expectations. Additional resources on assurance
+procedures can be found in Table 5.1.
+The King IV Guidance Paper on Responsibilities of
+Governing Bodies in Responding to Climate Change
+notes that assurance should contribute to consistent
+and reliable reporting and that the presentation of
+climate change information should “ultimately meet the
+requirements of being auditable or capable of being
+subject to assurance being expressed thereon.”34
+4.3 Location and timing of
+climate-related disclosure
+The purpose of disclosing climate-related information
+is that investors and other market participants and
+stakeholders can access and use the information
+provided by issuers for their own internal decisionmaking processes. Information determined to be
+financially material (see section 2.4 of Chapter 2) and
+legally required, will be disclosed within organisations’
+mainstream financial filings. Both primary accounting
+standard setting bodies, the International Accounting
+Standards board (IASB) and the Financial Accounting
+Standards Board (FASB) have issued standards to
+address risks and uncertainties affecting companies.
+The International Accounting Standard (IAS) 37
+“Provisions, Contingent Liabilities and Contingent
+Assets” and the Accounting Standards Codification
+(ASC) 450 “Contingencies” both provide guidance on
+how to account for and disclose contingencies such as
+those discussed in this guidance. In addition, IAS 36
+“Impairment of Assets” and ASC 360 “Long-lived Asset
+Impairment” provide additional guidance on long-lived
+assets that may be impacted by climate-change.
+The TCFD recommends that organisations provide
+climate-related financial disclosures in mainstream
+financial filings. Similarly, the suggested practices in the
+King IV Guidance Paper on Responsibilities of
+Governing Bodies in Responding to Climate Change is
+that climate risk impacts on governance, the business
+model, strategy, risk management, and performance
+and prospects are disclosed in the Annual Report and
+Integrated Report, not in a separate Sustainability
+Report, and that the Climate Disclosure Guidance in the
+financial statements are consistent with those in other
+reports. The JSE supports the TCFD’s recommendation
+and the King IV suggested practices.
+It is recognised, however, that some climate-related
+information may not be compatible with the current
+reporting requirements or deemed financially material.
+When this is the case, organisations may wish to
+disclose certain elements in other official company
+reports that are issued at least on an annual basis and
+are widely distributed and available to investors and
+other stakeholders. The reports should be subject to
+internal governance processes that are the same or
+substantially similar to those used for financial
+reporting. Ideally, climate data and financial data should
+be reported at the same point in time and cover the
+same reporting boundaries and time periods to aid
+comparison and analysis.
+34 Institute of Directors, King IV Guidance Paper: Responsibilities of Governing Bodies in Responding to Climate Change, 2021.
+JSE Limited Climate Disclosure Guidance 2021 35
+Education
+and resources
+05
+This guidance acts as a starting point
+for all issuers to evaluate and update
+their current disclosure practices to
+ensure their resilience to climaterelated issues.
+36 JSE Limited Climate Disclosure Guidance 2021
+It provides three important stages of
+disclosure and a diagnostic TCFD
+Checklist to help issuers begin their
+journey to climate-resiliency. It is
+essential, however, that issuers see
+this as an ongoing journey and aim to
+improve upon and update knowledge
+on this topic on an ongoing basis.
+This chapter provides issuers with a series of
+resources they can use to continually update
+their climate-related knowledge and know-how,
+as well as to support those report-preparers
+looking to deepen their climate-related
+disclosure.
+JSE Limited Climate Disclosure Guidance 2021 37
+5.1 Resources for updating scientific knowledge
+There are a number of resources available for organisations to maintain up-to-date information on this constantly
+evolving topic. As both the science behind climate-related issues as well as the reporting requirements evolve and grow,
+organisations should ensure they are working with the most up-to-date information. To do this, a number of resources
+are available, through the TCFD as well as many other financial service providers, NGOs, UN agencies, and local and
+international organisations.
+To further assist in your disclosure journey, the following resources (Table 5.1) can help those companies that wish to
+delve deeper or access specific resources on a particular stage of this journey. For additional resources, all capital
+market stakeholders are encouraged to access the TCFD knowledge hub at tcfdhub.org
+Table 5.1 Additional resources for TCFD implementation
+Related section of this Guidance Author Title
+1 – Setting the Stage International Energy Agency (IEA) Energy Technology Perspectives 2017
+1.4 – Differential Reporting A4S (Accounting for Sustainability) TCFD Top Tips for Finance Teams
+1.4 – Differential Reporting A4S (Accounting for Sustainability) Maturity Map for TCFD
+2.1 – Climate Opportunities International Energy Agency (IEA) ETP Clean Energy Technology Guide
+2.1.1 – Financing Opportunities FTSE Russell (LSEG) Sustainable Bond Market at a Glance
+2.1.1 – Financing Opportunities Climate Bonds Initiative (CBI) Guidance and Data on the Green Bond
+Market Globally
+2.1.1 – Financing Opportunities FTSE Russell (LSEG) Case Study: Smart Beta meets Smart
+Sustainability
+2.2 – Climate Risks TCFD TCFD Guidance on Risk Management
+Integration and Disclosure
+2.2 – Climate Risks SASB & CDSB Climate Risk: from Principles to Practice
+2.2 – Climate Risks S&P Trucost Interplay of Transition and Physical Risk
+Report
+2.3 – Climate Governance CDSB Webinar: Directors Duties and Liabilities
+around Climate Risk
+2.3 – Climate Governance King IV Guidance Paper: Responsibilities of
+Governing Bodies in Responding to
+Climate Change
+2.4 – Materiality Assessment CDSB Materiality and TCFD
+2.4 – Materiality Assessment SASB Materiality Map
+2.4 – Materiality Assessment Integrated Reporting <IR> Materiality background paper for <IR>
+2.5 – Scenario Analysis TCFD Scenario Analysis and Climate-Related
+Issues
+2.5 – Scenario Analysis TCFD TCFD Guidance on Scenario Analysis for
+Non-Financial Companies
+2.5 – Scenario Analysis C2ES Using Scenarios to Assess and Report
+Climate-Related Financial Risk
+2.5 – Scenario Analysis UNFCCC NDC Registry
+38 JSE Limited Climate Disclosure Guidance 2021
+Related section of this Guidance Author Title
+2.5 – Scenario Analysis IPCC IPCC Emission Scenarios
+2.5 – Scenario Analysis International Energy Agency (IEA) IEA Scenarios
+2.5 – Scenario Analysis International Renewable Energy
+Agency (IRENA) IRENA Scenarios
+2.5 – Scenario Analysis International Institute for Applied
+Systems Analysis (IIASA)
+Shared Socioeconomic Pathways (SSP)
+Database
+2.6 – Just transition CDP Climate Transition Plans
+2.6 – Just transition TCFD Guidance on Metrics, Targets, and
+Transition Plans
+3.1 – Investor useful
+information
+Transition Pathway Initiative (TPI)
+The TPI Tool
+3.1 – Investor useful
+information
+Portfolio Alignment Team Measuring Portfolio Alignment Assessing
+the Position of Companies and Portfolios
+on the Path to Net Zero
+3.2 – Reporting on opportunities
+and use of taxonomies
+National Treasury Draft South African Green Finance
+Taxonomy
+3.2 – Reporting on opportunities
+and use of taxonomies
+European Commission
+EU taxonomy for sustainable activities
+3.3 – Setting Targets Science Based Targets initiative
+(SBTi) Sector Guidance
+3.3 – Setting Targets International Energy Agency (IEA) Achieving Net-zero Emissions by 2050
+- World Energy Outlook 2020
+3.3 – Setting Targets TCFD Guidance on Metrics, Targets, and
+Transition Plans
+3.3 – Carbon emission reporting The Greenhouse Gas Protocol A Corporate Accounting and Reporting
+Standard (revised edition)
+3.3 – Carbon emission reporting SASB SASB Implementation Supplement –
+Greenhouse Gas Emissions and SASB
+Standards
+3.4 – Setting Targets Science Based Targets initiative
+(SBTi) Sector Guidance
+3.4 – Setting Targets International Energy Agency (IEA) Achieving Net-zero Emissions by 2050
+- World Energy Outlook 2020
+4.1 – Frameworks for Disclosure Corporate Reporting Dialogue Driving Alignment in Climate-related
+Reporting
+4.1 – Frameworks for Disclosure CDSB, TCFD Knowledge Hub Alignment with Other Frameworks
+4.1 – Frameworks for Disclosure CDP CDP Technical Note on the TCFD
+4.1 – Frameworks for Disclosure European Commission Guidelines on Reporting Climate-related
+Information
+4.1 – Frameworks for Disclosure IFRS Climate-related Disclosures Prototype
+JSE Limited Climate Disclosure Guidance 2021 39
+Related section of this Guidance Author Title
+4.2 – Data Verification
+and Assurance
+Chartered Accountants in England
+and Wales (ICAEW) and the WBCSD
+A Buyer’s Guide to Assurance on
+Non-financial Information
+4.2 – Data Verification
+and Assurance
+CDSB CDSB Position Paper: Positions on
+Relevance & Materiality, Organisational
+Boundaries and Assurance
+All TCFD Hub
+Case Studies on How Organisations are
+using the TCFD Recommendations
+All Bloomberg
+A guide to the Task Force on climaterelated disclosures
+All CDSB and SASB TCFD Good Practice Handbook
+All CDSB and SASB TCFD Implementation Guide
+All CPA Canada
+Enhancing Climate-related Disclosure by
+Cities: A Guide to Adopting the
+Recommendations of the Task Force on
+Climate-related Financial Disclosures
+(TCFD)
+All TCFD
+Implementing the Recommendations of
+the Task Force on Climate-related
+Financial Disclosures (2021)
+All A4S (Accounting for Sustainability)
+Numerous Case Studies on Applying
+TCFD
+All
+South Africa Climate Risk Steering
+Group
+South Africa Sustainable Finance
+Initiative
+All Trade & Industrial Policy Strategies Just Transition Knowledge Portal
+All Presidential Climate Commission Just Transition Framework
+All Department of Environmental Affairs Climate Change Information Portal
+Source: UN SSE with additional South Africa–relevant resources
+40 JSE Limited Climate Disclosure Guidance 2021
+Annex 1: TCFD Checklist
+The TCFD recommendations give companies a list of disclosures that
+should be included in mainstream financial reports when deemed
+financially material.
+As such, all of the recommendations in the below checklist should ideally be found in the company’s mainstream
+financial filings. Potentially further detail may be provided in supplementary reports including sustainability reports. If
+information is not provided then an explanation outlining the rationale for not covering it would be helpful. Issuers are
+encouraged to use this checklist to determine whether or not the information recommended for disclosure by the
+TCFD can be found in their current reporting content. The checklist was compiled by the SSE initiative using the
+TCFD recommendations to help issuers diagnose their current reporting and create a path towards full alignment
+with TCFD recommendations.
+Issuers can use this checklist to determine whether the informational needs of investors pertaining to climate are
+addressed by current disclosures. Where sufficient data to answer a question is not currently available in public
+reports, report preparers should focus on ensuring this information is added to their disclosure content. Where the
+issuer determines insufficient financial materiality to deem including this information in the mainstream financial
+filings, the report preparers should explain at a minimum how this decision was made and what time horizons were
+being used in supplemental reports such as a sustainability report. Where sufficient data is provided in public reports
+to answer a question, report preparers are encouraged to also indicate where it can be accessed within their current
+disclosure so that it is easy to find. This checklist can therefore be used as a map for investors looking for the
+following data.
+TCFD Checklist
+Does current disclosure answer the question?
+Location
+of data
+GOVERNANCE
+(a) Board oversight of climate-related risks and opportunities
+ALL Are board and/or board committees (e.g., audit, risk, or other committees)
+informed about climate-related issues?
+y Does the company recognise climate change as a relevant risk and/or
+opportunity for the business?
+y Is there a board member or committee with explicit responsibility for oversight
+of the climate change policy?
+ALL Do board and/or board committees consider climate-related issues when
+reviewing and guiding:
+y major plans of action,
+y risk management policies,
+y business plans,
+y annual budgets,
+y strategy,
+y performance objective, monitoring implementation and performance, and
+y overseeing major capital expenditures, acquisitions, and divestitures.
+ALL How does the board monitor and oversee progress against goals and targets for
+addressing climate-related issues?
+JSE Limited Climate Disclosure Guidance 2021 41
+Does current disclosure answer the question?
+Location
+of data
+(b) Management’s role in assessing and managing climate-related risks and opportunities
+ALL Does the organisation have assigned climate-related responsibilities to
+management-level positions or committees? If so, how do such management
+positions or committees report to the board or a committee of the board and do
+those responsibilities include assessing and/or managing climate-related issues?
+ALL How are managers informed about climate-related issues?
+ALL How do managers monitor climate-related issues?
+STRATEGY
+(a) Identification of climate-related risks and opportunities over the short, medium, and long term.
+ALL How does the organisation define short-, medium-, and long-term time horizons?
+Does this take into consideration the useful life of the organisation’s assets or
+infrastructure and the fact that climate-related issues often manifest themselves
+over the medium and longer terms?
+ALL What specific climate-related issues that could have a material financial impact
+on the organisation have been identified for each time horizon (short, medium,
+and long term)?
+y Is this consistent with climate change policy and positions taken by trade
+associations of which the organisation is a member?
+ALL Is a materiality analysis used to determine which risks and opportunities could
+have a material financial impact on the organisation?
+ALL Is a scenario analysis used to determine which risks and opportunities could
+have a material financial impact on the organisation?
+ALL Are risks and opportunities considered by sector and/or geography?
+(b) The impact of climate-related risks and opportunities on the organisation’s businesses,
+strategy, and financial planning
+ALL How do climate-related risks and opportunities impact on businesses and
+strategy in the following areas:
+y Products and services,
+y Supply chain and/or value chain,
+y Adaptation and mitigation activities,
+y Investment in research and development,
+y Operations (including types of operations and location of facilities).
+ALL What are the time period(s) used, and how are climate-related risks and
+opportunities prioritized as inputs into the financial planning process?
+Insurance How do potential impacts of climate-related risks and opportunities influence
+client, cedent, or broker selection?
+Insurance Are specific climate-related products or competencies under development, such
+as insurance of green infrastructure, specialty climate-related risk advisory
+services, and climate-related client engagement?
+Asset Owners How are climate-related risks and opportunities factored into relevant investment
+strategies?
+42 JSE Limited Climate Disclosure Guidance 2021
+Does current disclosure answer the question?
+Location
+of data
+Asset Managers How are climate-related risks and opportunities factored into relevant products
+and investment strategies?
+Asset Managers How might the transition to a lower-carbon economy affect each product or
+investment strategy?
+Non Financial
+Orgs
+How are climate-related risks and opportunities integrated into current decision
+making and future strategy formulation through (where applicable):
+y research and development (R&D) and adoption of new technology;
+y existing and committed future activities such as investments, restructuring,
+write-downs, or impairment of assets;
+y critical planning assumptions around legacy assets, for example, strategies to
+lower carbon-, energy-, and/or water-intensive operations;
+y how GHG emissions, energy, and water issues, if applicable, are considered in
+capital planning and allocation; this could include a discussion of major
+acquisitions and divestments, joint-ventures, and investments in technology,
+innovation, and new business areas in light of changing climate-related risks
+and opportunities; and/or
+y the organisation’s flexibility in positioning/repositioning capital to address
+emerging climate-related risks and opportunities.
+(c) The organisation’s strategy resilience, taking into consideration different climate-related
+scenarios, including a 2°C or lower scenario (ideally 1.5°C).
+ALL Has the organisation conducted a scenario analysis that evaluates how resilient
+their strategies are to climate-related risks and opportunities?
+ALL Does the analysis include a 2°C or lower scenario (ideally 1.5°C)?
+ALL What time horizons are considered in the organisation’s climate-related scenario
+analysis?
+ALL How will climate-related risks and opportunities (as listed in table 1 and 2 or the
+TCFD recommendations) affect the organisation’s strategies, and how may
+strategies change to address potential climate-related risks and opportunities?
+Insurance Is a climate-related scenario analysis conducted for underwriting activities? If so,
+what scenario and what time frame is used?
+Asset Owners How are climate-related scenarios used to inform investments in specific
+assets?
+Non Financial
+Org’s
+Where an organisation has more than one billion U.S. dollar equivalent (USDE) in
+annual revenue, is a more robust scenario analysis conducted? This should
+include assessing the resilience of strategies against a range of climate-related
+scenarios, including a 2°C or lower scenario and, where relevant to the
+organisation, scenarios consistent with increased physical climate-related risks
+and the implications of different policy assumptions, macro-economic trends,
+energy pathways, and technology assumptions used in publicly available
+climate-related scenarios.
+JSE Limited Climate Disclosure Guidance 2021 43
+Does current disclosure answer the question?
+Location
+of data
+RISK MANAGEMENT
+(a) Climate-related risk management processes
+ALL How does the organisation determine the relative significance of climate-related
+risks in relation to other risks?
+ALL Are existing and emerging regulatory requirements related to climate change
+(e.g., limits on emissions) considered a risk by the organisation?
+ALL How is the potential size and scope of identified climate-related risks
+determined?
+ALL How does the organisation define or classify risk and risk-related terms? (Is a
+taxonomy used?)
+Insurance How are climate-related risks on re-/insurance portfolios identified and assessed
+(by geography, business division, or product segments)? Does this assessment
+include the following:
+y physical risks from changing frequencies and intensities of weather-related
+perils;
+y transition risks resulting from a reduction in insurable interest due to a decline
+in value, changing energy costs, or implementation of carbon regulation; and/
+or
+y liability risks that could intensify due to a possible increase in litigation?
+Asset Owner +
+Managers
+What engagement activities are undertaken with investee companies to
+encourage better disclosure and practices related to climate-related risks to
+improve data availability and asset owners’ ability to assess climate-related
+risks?
+Asset Manager How are climate-related risks identified and materiality assessed for each
+product or investment strategy? What resources and tools are used in the
+process?
+Non-Financial
+Org’s
+What key metrics related to GHG emissions, energy, water, land use, and, if
+relevant, investments in climate adaptation and mitigation that address potential
+financial aspects of shifting demand, expenditures, asset valuation, and cost of
+financing are used? (Have the illustrative examples in the TCFD Implementation
+Guide tables 3-6 been taken into consideration?)
+(b) Managing climate-related risks.
+ALL How are decisions to mitigate, transfer, accept, or control climate-related risks
+made?
+ALL How is materiality determined for the risks listed in table 1 of the TCFD
+recommendations?
+Insurance What key tools or instruments, such as risk models, are used to manage
+climate-related risks in relation to product development and pricing?
+Insurance What are the range of climate-related events considered and how are the risks
+generated by the rising propensity and severity of such events managed?
+Asset Owner How is the positioning of the total portfolio considered with respect to the
+transition to a lower-carbon energy supply, production, and use?
+Asset Manager How are material climate-related risks managed for each product or investment
+strategy?
+44 JSE Limited Climate Disclosure Guidance 2021
+Does current disclosure answer the question?
+Location
+of data
+(c) Processes for identifying, assessing, and managing climate-related risks are integrated into the
+organisation’s overall risk management.
+ALL How are climate-related risks integrated into their overall risk management?
+METRICS AND TARGETS
+(a) Metrics used to assess climate-related risks and opportunities in line with its strategy and risk
+management process
+ALL What are the key metrics used to measure and manage the climate-related risks
+and opportunities found in table 1 and 2 of the TCFD recommendations?
+ALL Where climate-related issues are material, are related performance metrics
+incorporated into remuneration policies?
+ALL What internal carbon prices are used for measuring impact and setting targets?
+ALL What climate-related opportunity metrics such as revenue from products and
+services designed for a lower-carbon economy are used?
+Banks To what extent is lending and other financial intermediary business activity
+aligned with a well below 2°C scenario?
+Insurance What is the aggregated risk exposure to weather-related catastrophes of the
+organisation’s property business (i.e., annual aggregated expected losses from
+weather-related catastrophes) by relevant jurisdiction?
+Insurance To what extent are insurance underwriting activities aligned with a well below
+2°C scenario?”
+Asset Owner What metrics are used to assess climate-related risks and opportunities in
+individual funds or investment strategies, and how do these metrics change over
+time?
+Asset Manager What metrics are used to assess climate-related risks and opportunities in each
+product or investment strategy, and how do these metrics change over time?
+Asset Owner +
+Managers
+To what extent are assets owned or managed or funds and investment
+strategies, where relevant, aligned with a well below 2°C scenario?
+(b) Scope 1, Scope 2, and, if appropriate, Scope 3 greenhouse gas (GHG) emissions, and the
+related risks.
+ALL What are the Scope 1 and Scope 2 GHG emissions and, if appropriate, Scope 3
+GHG emissions and the related risks of the organisation, according to GHG
+Protocol methodology?
+y Are Scope 3 emissions deemed materially relevant, and how was this
+determined
+y Are GHG emissions data externally verified?
+ALL What are the historic GHG emissions and trends?
+Banks What are the GHG emissions for lending and other financial intermediary
+business activities where data and methodologies allow for calculation?
+Insurance What is the weighted average carbon intensity or GHG emissions associated
+with commercial property and speciality lines of business, where data and
+methodologies allow for calculation?
+JSE Limited Climate Disclosure Guidance 2021 45
+Does current disclosure answer the question?
+Location
+of data
+Asset Owner What is the weighted average carbon intensity, where data are available or can
+be reasonably estimated, for each fund or investment strategy?
+Asset Manager What is the weighted average carbon intensity, where data are available or can
+be reasonably estimated, for each product or investment strategy?
+Asset Owner +
+Managers
+What are the GHG emissions for assets owned or under management, where
+data and methodologies allow for calculation?
+(c) Targets used to manage climate-related risks and opportunities and performance
+ALL What are the key climate-related targets such as those related to GHG
+emissions, water usage, energy usage, etc. in line with anticipated regulatory
+requirements or market constraints or other goals?
+y What are the long-term quantitative targets for reducing GHG emissions?
+y What interim targets have been set?
+y Are targets consistent with cross-industry, climate-related metric categories?
+ALL Does the organisation have climate-related targets pertaining to:
+y efficiency or financial goals,
+y financial loss tolerances,
+y avoided GHG emissions through the entire product life cycle, or
+y net revenue goals for products and services designed for a lower-carbon
+economy?
+ALL Are climate-related targets absolute or intensity based?
+ALL What time frames are applied to each climate-related target?
+ALL What is the base year used for each climate-related target?
+ALL What key performance indicators are used to assess progress against each
+climate-related target?
+Source: SSE initiative, adapted from TCFD recommendations
+46 JSE Limited Climate Disclosure Guidance 2021
+Annex 2: Alignment of
+recommended disclosures
+with other frameworks
+GOVERNANCE RECOMMENDED DISCLOSURES
+Describe the board’s
+oversight of climate-related
+risks and opportunities.
+EU NFRD 3.2 (Table 2)
+G20/OECD Principles of Corporate Governance 5.a.4, 5.a.9, 6.a, 6.d.1, 6.d.2,
+6.d.3, 6.d.4, 6.d.7, 6.e.2, 6.f
+CDP Climate Change Questionnaire 2021 C1.1b
+GRI 102: General Disclosures 102-18, 102-19. 102-20,
+102-26, 102-27, 102-29,
+102-31, 102-32
+CDSB Climate Change Reporting Framework 4.16, 4.17
+CDSB Framework for Reporting Environmental
+Information and Natural Capital
+REQ-03
+International Integrated Reporting Framework 3.4, 3.41, 4.8, 4.9
+IFRS Climate-related Disclosures Prototype 4a-f
+Describe management’s role
+in assessing and managing
+risks and opportunities.
+EU NFRD 3.2 (Table 2)
+GRI 102: General Disclosures 102-29, 102-31, 102-32
+CDP Climate Change Questionnaire 2021 C1.2, C1.2a
+CDSB Climate Change Reporting Framework 2.8, 2.9, 4.12, 4.13, 4.16, 4.17
+CDSB Framework for Reporting Environmental
+Information and Natural Capital
+REQ-01, REQ-03
+IFRS Climate-related Disclosures Prototype 4(g)
+JSE Limited Climate Disclosure Guidance 2021 47
+STRATEGY RECOMMENDED DISCLOSURES
+Describe the climate-related
+risks and opportunities the
+organisation has identified
+over the short, medium,
+and long term.
+EU NFRD 3.4 (Table 4)
+G20/OECD Principles of Corporate Governance 5.a.7, 5.a.8
+CDP Climate Change Questionnaire 2021 C2.1a, C2.3, C2.4, C2.4a
+CDSB Climate Change Reporting Framework 4.6, 4.9, 4.10, 4.11, 4.14
+CDSB Framework for Reporting Environmental
+Information & Natural Capital
+REQ-02, REQ-06
+GRI 102: General Disclosures 102-15
+International Integrated Reporting Framework 3.5, 3.17, 4.6, 4.7, 4.23, 4.24,
+4.25, 4.26
+IFRS Climate-related Disclosures Prototype 5, 6
+Describe the impact of
+climate-related risks and
+opportunities on the
+organisation’s businesses,
+strategy, and financial
+planning.
+EU NFRD 3.1 (Table 1)
+G20/OECD Principles of Corporate Governance 5.a.2, 5.a.7, 5.a.8
+CDP Climate Change Questionnaire 2021 C2.3a, C2.4a, C3.1, C3.2a, C3.3,
+C3.4, C3.4a, C-FS3.7, C-FS3.7a,
+GRI 201: Economic Performance 201-2
+CDSB Climate Change Reporting Framework 2.8, 2.9, 2.10, 4.6, 4.7, 4.9, 4.10,
+4.11, 4.12, 4.13, 4.14
+CDSB Framework for Reporting Environmental
+Information & Natural Capital
+REQ-01, REQ-02, REQ-06
+International Integrated Reporting Framework 3.3, 3.5, 3.39, 4.12, 4.23, 4.28,
+4.29, 4.34, 4.35, 4.37
+IFRS Climate-related Disclosures Prototype 7, 8, 9
+Describe the resilience of
+the organisation’s strategy,
+taking into consideration
+different climate-related
+scenarios, including a 2°C
+or lower scenario.
+EU NFRD 3.1 (Table 1)
+CDP Climate Change Questionnaire 2021 C3.2, C3.2a
+CDSB Climate Change Reporting Framework 4.7
+IFRS Climate-related Disclosures Prototype 10
+48 JSE Limited Climate Disclosure Guidance 2021
+RISK MANAGEMENT RECOMMENDED DISCLOSURES
+Describe the organisation’s
+processes for identifying and
+assessing climate-related
+risks.
+EU NFRD 3.4 (Table 4)
+G20/OECD Principles of Corporate Governance 5.a.2, 5.a.7
+CDP Climate Change Questionnaire 2021 C2.1, C2.2, C2.2a, CFS2.2b,
+C-FS2.2c, C-FS2.2f
+GRI 201: Economic Performance 201-2
+CDSB Climate Change Reporting Framework 4.6, 4.7, 4.8, 4.9, 4.11
+CDSB Framework for Reporting Environmental
+Information & Natural Capital
+REQ-01, REQ-02, REQ-03
+IFRS Climate-related Disclosures Prototype 11a-b
+Describe the organisation’s
+processes for managing
+climate-related risks.
+EU NFRD 3.4 (Table 4)
+G20/OECD Principles of Corporate Governance 5.a.2, 5.a.7
+CDP Climate Change Questionnaire 2021 C2.1, C2.2, CFS2.2f
+CDSB Climate Change Reporting Framework 4.12, 4.13, 4.16, 4.17
+CDSB Framework for Reporting Environmental
+Information & Natural Capital
+REQ-01, REQ-02, REQ-03
+International Integrated Reporting Framework 4.23, 4.24, 4.25, 4.26, 4.40,
+4.41, 4.42
+IFRS Climate-related Disclosures Prototype 11c
+Describe how processes for
+identifying, assessing, and
+managing climate-related
+risks are integrated into the
+organisation’s overall risk
+management.
+EU NFRD 3.4 (Table 4)
+G20/OECD Principles of Corporate Governance 5.a.2, 5.a.7 6.d.1, 6.f
+CDP Climate Change Questionnaire 2021 C2.1, C2.2
+CDSB Climate Change Reporting Framework 4.6, 4.7
+CDSB Framework for Reporting Environmental
+Information & Natural Capital
+REQ-01, REQ-02, REQ-03,
+REQ-06
+International Integrated Reporting Framework 2.7, 2.8, 2.9
+IFRS Climate-related Disclosures Prototype 11d
+JSE Limited Climate Disclosure Guidance 2021 49
+METRICS AND TARGETS RECOMMENDED DISCLOSURES
+Disclose the metrics used
+by the organisation to assess
+climate-related risks and
+opportunities in line with
+its strategy and risk
+management process.
+EU NFRD 3.5
+G20/OECD Principles Of Corporate Governance 6.d.1, 6.d.7
+CDP Climate Change Questionnaire 2021 C1.3, C4.2, C4.2a, C4.2b, C4.5,
+C9.1
+GRI 102: General Disclosures 102-30
+CDSB Climate Change Reporting Framework 2.36, 2.37, 2.38, 4.14, 4.15
+CDSB Framework for Reporting Environmental
+Information & Natural Capital
+REQ-01, REQ-04, REQ-05,
+REQ-06
+International Integrated Reporting Framework 3.52, 3.53, 4.30, 4.31, 4.32,
+4.38, 4.53
+IFRS Climate-related Disclosures Prototype 12, 13
+Disclose Scope 1, Scope 2,
+and, if appropriate, Scope 3
+greenhouse gas (GHG)
+emissions, and the related
+risks.
+EU NFRD 3.3 (Table 3)
+CDP Climate Change Questionnaire 2021 C5.1, C6.1, C6.3, C6.5, C7.1,
+C7.9, C-FS14.1, C-FS14.1a,
+C-FS14.1b, C-FS14.1c
+GRI 102: General Disclosures 102-29, 102-30
+GRI 201: Economic Performance 201-2
+CDSB Climate Change Reporting Framework 4.19.1, 4.19.2, 4.29, 4.30, 4.31,
+4.32, 4.33
+CDSB Framework for Reporting Environmental
+Information & Natural Capital
+REQ-04, REQ-05
+IFRS Climate-related Disclosures Prototype 13a, 14
+Describe the targets used by
+the organisation to manage
+climate-related risks and
+opportunities and
+performance against targets.
+EU NFRD 3.3 (Table 3)
+CDP Climate Change Questionnaire 2021 C4.1, C4.1a, C4.1b, C4.1c, C4.2,
+C4.2a, C4.2b,
+CDSB Climate Change Reporting Framework 4.12, 4.13, 4.14, 4.15
+CDSB Framework for Reporting Environmental
+Information & Natural Capital
+REQ-01
+International Integrated Reporting Framework 4.53, 4.60, 4.61, 4.62
+IFRS Climate-related Disclosures Prototype 15
+Source: SSE initiative, compiled from TCFD Hub, CDP, IFRS and the European Commission

@@ -1,0 +1,330 @@
+New York Stock Exchange ESG Guidance:
+Best Practices for Sustainability Reporting
+Get Started
+STEP 1
+Identifying the right approach for your company
+STEP 2
+Identifying stakeholders and evaluating engagement
+STEP 3
+Assessing materiality
+STEP 4
+Establishing governance
+STEP 5
+Integrating ESG into business strategy
+STEP 6
+Telling your story
+STEP 7
+Reporting frameworks and standards
+STEP 8
+ESG research and ratings
+Introduction
+Corporations and their stakeholders are increasingly focusing on ESG and sustainability issues, including how companies manage environmental, social and governance (ESG) risks and opportunities, and how those actions contribute to their ability to generate returns over the long term, retain and attract employees and customers, and thrive in their communities.
+
+One sign of the heightened focus on ESG issues is the growth in support for the United Nations Principles for Responsible Investment (PRI). The PRI was launched at the New York Stock Exchange in 2006. It encourages signatories (asset owners, asset managers and service providers) to incorporate ESG factors into their investment decision making processes. Since the launch, the number of signatories globally has grown from less than 100 to over 3,000, representing assets under management of over $103 trillion.
+1
+The size of investment products claiming to consider ESG factors has also grown dramatically.
+2
+ The Global Sustainable Investment Alliance (GSIA) estimates that at the end of 2018, assets invested using sustainability approaches totaled over $30 trillion, of which just over 50% was in public equity.
+3
+ By the end of 2019, in the U.S. alone, sustainably-managed assets had grown to over $17 trillion – a 42% increase on the previous year.
+4
+
+Different types of sustainable investing
+5
+
+Negative/exclusionary screening: The exclusion of companies, sectors or countries from the permissible investment universe if involved in certain activities e.g. controversial weapons, human rights abuses.
+Positive/best-in-class screening: Selecting companies from a defined investment universe based on their relative ESG performance.
+Norms-based screening: Screening of investments according to their compliance with international standards and norms e.g. the United Nations Global Compact.
+ESG integration: The explicit incorporation of ESG risks and opportunities into traditional financial analysis and investment decisions.
+Sustainability-themed investing: Investing with a specific emphasis on one or more sustainable development themes e.g. gender equality or climate change.
+Impact investing: The desire to achieve positive environmental and social impact in addition to financial return.
+Corporate engagement and shareholder action: Investing to facilitate engagement with company management on ESG issues. Voting on or proposing ESG-linked shareholder resolutions.
+Other stakeholders, such as employees and customers, are also interested in companies’ sustainability performance and management of ESG risks and opportunities. Research suggests that suppliers and vendors are making purchasing decisions, employees are making decisions about where to work, and consumers are making decisions about what products to buy, based on the information provided about companies’ approaches to ESG.
+
+A broad range of companies recognize the increased interest in sustainability and have already embedded relevant ESG considerations into their strategy, risk management, and governance, and many are already reporting on their ESG practices and progress. Many more are beginning this journey. As ESG investing becomes more mainstream, and stakeholders increasingly focus on ESG performance, more companies will benefit from demonstrating how they consider these issues.
+
+The best practices below aim to help companies navigate the world of reporting and disclosure. They are not mandatory, nor intended to replace existing disclosure frameworks and standards. Rather, our aim is to facilitate companies moving forward on their ESG disclosure by:
+
+Highlighting key elements of good quality reporting.
+Drawing attention to useful resources, including those provided by the NYSE.
+The target audience for these best practices include those individuals in reporting organizations who are responsible for ESG governance and oversight, strategy and risk management, reporting, and communications with various stakeholders (including the investment community).
+
+greenhouse
+
+Steps to getting started: An Overview
+Just as financial reporting is not the end goal for the company, but a way of communicating the financial results of its various activities, sustainability reporting or ESG disclosure should be understood as a way of communicating how the company is managing ESG issues. The disclosure is an output and is aimed at meeting stakeholder demands for transparency and accountability. The process of reporting can also contribute to improving a company’s understanding of its own ESG risks and opportunities, creating a virtuous circle of improvement.
+
+While these best practices are aimed primarily at the reporting/disclosure part of the ESG value chain, it touches upon other aspects that are relevant for high-quality reporting.
+
+There is growing evidence that companies that effectively manage material ESG risks and opportunities are more resilient during times of volatility and uncertainty, and financially outperform their peers over the long run.
+6
+ These benefits, together with increased regulatory focus on ESG issues (such as climate change), and the increase in investors incorporating relevant ESG issues into their investment decisions, means that management of and reporting on ESG issues that are tied to the company’s ability to create value is likely to rise in importance.
+7
+Before a company can begin to think about reporting on its ESG performance, it needs to determine which ESG issues are relevant to it and how these issues fit into its overall business strategy. Some companies conduct a formal assessment of these issues, either by external discussions with shareholders and other stakeholders, or internally by looking at ESG issues already on the board’s agenda or included in the company’s business plan or risk management program. Companies should be able to answer the question: how do the specific ESG issues that the company has chosen to focus on contribute to its short-term financial performance and/or long-term value creation?
+
+Deforestation – a practical example:
+
+In November 2020, the United Kingdom proposed new legislation banning the sale of commodities grown on land that had been illegally cleared.
+8
+ Under the law, affected companies would incur the costs associated with compliance including (potentially) the need to restructure supply chains.
+
+Importantly, concerns about deforestation are not new. These issues have been raised by environmental campaigners for decades and more recently moved up the regulatory and investor agenda,
+9
+ driven by an understanding of the links between deforestation and climate change and the dangers posed by biodiversity loss. Companies that produce or purchase commodities (such as soy, beef, cocoa, palm oil) and are typically associated with deforestation may face regulatory changes, pressure from investors or other stakeholders. After evaluating these increased risks, some companies have introduced their own measures to enhance product traceability. Some may even have gone as far as to invest (where possible) in certification of commodities to provide greater assurance that these are not associated with unsustainable agricultural practices. These companies that are effectively managing deforestation risks will arguably have a competitive advantage over those that may be simply reacting to legislative changes - in this case, a link from an ESG lens to strategy can produce a directly measurable benefit.
+
+Find out more: 
+Ceres Investor Guide to Deforestation and Climate Change
+Companies new to ESG reporting may wish to begin by examining what issues their peers are focused on - reviewing reporting and disclosures from both peers as well as companies upstream and downstream in the supply chain. Some companies may find they are already focusing on and managing relevant ESG issues because of existing regulatory requirements or an understanding of how these issues impact their performance, e.g. cybersecurity. For many organizations, there may be just a few topics that are of high importance.
+
+ESG: What does it mean? Is it all about climate change?
+
+Despite the attention that issues like climate change receive, there is a range of ESG issues that can contribute to company value creation or destruction. Some examples are set out below. More details can be found in leading disclosure standards and frameworks discussed later in this guidance.
+
+emissions leaf icon
+Environmental:
+
+Waste
+Energy
+Emissions
+Biodiversity
+Water
+people icon
+Social:
+
+Employee relations and development
+Diversity and inclusion
+Occupational health and safety
+Community relations
+Human rights
+Forced labor
+Privacy
+Data security
+stairs inside box icon
+Governance:
+
+Board oversight
+Board diversity
+Risk management
+Shareholder rights
+Anti-corruption
+Political lobbying
+Executive pay
+Tax strategy
+
+Current state of ESG messaging
+
+Reporting is how your company communicates to your various stakeholders what it is doing. Whether your company is engaged in an active ESG program or not, reviewing your existing disclosures in the context of how peers communicate, including messaging in SEC filings and your proxy statement, is a worthwhile exercise. With each company’s reporting, watch for a) which issues the company is focused on, and b) how and why each company believes these are relevant. Many companies are doing great things with respect to their ESG strategy but do not get full credit for their efforts because they do not clearly or effectively communicate what they are doing in a manner digestible by stakeholders. A good reporting strategy will help ensure that your stakeholders acknowledge your company’s ESG efforts.
+Interview
+ + 
+Podcast
+ with Brian Matt on what investors really want
+
+There is a growing consensus that a company’s ability to generate shareholder returns over the long run is at least in part dependent on its relationships with key stakeholder groups -- e.g. customers, employees, suppliers and the communities in which you operate. More broadly, it also suggests a way of thinking about how those returns are generated – delivering value to customers, with due regard for the environment; fostering an inclusive and motivated workforce, dignity and respect in the workplace, fair and ethical treatment of suppliers, and support for and from the communities in which the company operates.
+
+Identifying your key stakeholders: Deciding who your company’s stakeholders are is an important step in developing and implementing an ESG strategy. Some of your stakeholders will be obvious – such as investors, employees and customers. Others can be more challenging to identify. One commonly-used framework, the GRI Standards (see section 7 for further details), provide some guidance in this regard, suggesting: “Stakeholders are … entities or individuals that can reasonably be expected to be significantly affected by the reporting organization’s activities, products, or services; or whose actions can reasonably be expected to affect the ability of the organization to implement its strategies or achieve its objectives”.
+10
+
+Other stakeholders companies may consider:
+
+Employees
+Suppliers (direct and further up the supply chain)
+Regulators, particularly of the industry that your company operates in
+Civil society organizations
+Communities in which your company operates
+These lists are not exhaustive, and each company should apply its unique perspective to determine who its most relevant stakeholders are.
+
+Measuring current engagement: Once your stakeholders have been identified, the next step is to ensure the company has mechanisms in place for stakeholder engagement. One primary purpose of stakeholder engagement is to identify how stakeholders think about the company and its conduct as it relates to their interests. In addition, this engagement can help the company identify key ESG issues that are likely to impact your company’s performance directly or indirectly and to appropriately manage stakeholder expectations and concerns.
+
+Your company may already conduct some level of proactive stakeholder engagement, which can help your company identify new opportunities and enable more effective risk management. It can also build trust. It may not be possible to keep all stakeholders happy all of the time, but if stakeholders feel their perspectives are considered and that they have avenues to raise concerns, then it may make trade-offs more palatable.
+
+Tools for stakeholder engagement include:
+
+Regular investor outreach
+Surveys
+Interviews
+Media (including social media) monitoring
+Focus-group discussions
+Townhalls
+The concepts of stakeholder identification and engagement are not new. For example, many companies, having identified employees and customers as key stakeholders, already do employee and/or customer satisfaction surveys. Applying an ESG lens to this inquiry may simply expand the scope of stakeholders that are considered and the nature of the conversations that are held.
+
+Stakeholders and ESG reporting: Identifying the company’s key stakeholders allows the company to make informed decisions about what to report and where to report it, allowing you to present information in a way that is most relevant to each audience. Second, some users of ESG reporting are interested in understanding who your company thinks its key stakeholders are and how you are managing those stakeholder relationships. Finally, displaying how the company performs with respect to metrics relevant to these stakeholders can help build trust.
+
+As the company progresses in the ESG process, it will likely seek to revisit its stakeholder engagement program periodically as it seeks to both communicate its approach to issues as well as listen for new emerging issues.
+The concept of materiality is often used in an SEC reporting context to identify what information companies should disclose, and traditional definitions of materiality tend to focus on investors as the primary users of reported information. However, a similar concept of materiality might reasonably be applied to determining which ESG issues should be presented to a broader set of relevant stakeholders. In essence, materiality is a lens or filter that allows your company to determine the ESG issues on which your stakeholders focus. Of note, the Corporate Reporting Dialogue (CRD) suggests that ”(m)aterial information is that, which is reasonably capable of making a difference to the proper evaluation of the issue at hand.”
+11
+ This perspective encompasses a range of stakeholders and is aligned with the idea of broad stakeholder accountability.
+
+It is therefore important to decide how you define materiality for your purposes when reviewing the issues that are relevant for your ESG program. Some definitions focus solely on issues that are deemed to be financially material i.e. to focus on the ESG issues that impact your financial performance. Others also consider the impacts that your company has on society and the environment. Some use the term “double materiality” to describe the idea that companies consider both the ESG issues that impact your company as well as your company’s impact on society/the environment. Still others suggest this distinction is a moot argument as company value creation can only be understood in the context of its operating environment and the impacts it has.
+
+Regardless of whether your company is focused solely on financial risk and opportunity or impact more broadly, the other key input to your materiality determination is the perspective of key stakeholders. As discussed in the previous section, your company’s stakeholders can have a significant impact on your ability to generate returns. Stakeholders also provide valuable insights to your company’s impacts (both positive and negative) which your management team may not be fully aware.
+
+A materiality map or matrix is a useful tool for representing how your company has gone about evaluating and prioritizing the company’s salient issues. Typically conceived on a grid (e.g. importance to stakeholders, measured alongside importance to business success or importance to stakeholders and significance of environmental, social and economic impacts
+12
+), it allows users to plot the topics according to their importance. It also provides insight into why the company has chosen specific issue areas on which to focus.
+
+
+Note: this exercise is not intended to reflect whether your company believes an issue is important in general terms. Rather, it is aimed at assisting you in prioritizing among possible ESG issue areas and enabling you to focus on those that are most important, as well as an external signal to stakeholders on how your business applies its focus.
+
+Some companies conduct this type of assessment on their own, while others may choose to work with a consultant. You may wish to refer to resources such as the SASB Materiality Map® to assist you in identifying potential issues for companies operating in the same sector. You should also keep in mind that what is material will change over time due to changes in your company itself (e.g. through an acquisition or launch of new product line), policy/regulatory changes and/or changes in stakeholder expectations – that it is “flexible, time-variant, and context-driven.”
+13
+ The process of assessing the company’s key issues is an ongoing one, rather than something that is done at a single point in time.
+Governance can be understood as “the system by which companies are directed and controlled.”
+14
+ It includes the oversight structures and processes that set company objectives, measure progress and evaluate results. Strong governance of ESG issues and ESG reporting is key to the efficacy of ESG programs and credibility of ESG reporting. More importantly, good governance of ESG requires that ESG statements have clearly-defined owners to provide accountability and allocate clear responsibility for various aspects of the strategy. Examples of good practices in ESG governance include:
+
+Describing your governance framework, e.g. Board oversight of relevant ESG issues, in your company’s ESG reporting
+Allocating to one or more committees of the Board clear responsibility for oversight of important ESG issues
+Having a robust process in place to identify ESG risks faced by the company
+Knowing how the company will measure success internally before disclosing externally
+Ensuring that ESG disclosures are accurate by treating them with similar levels of caution to those applied to financial disclosures
+Putting in place internal controls to measure, monitor, and internally verify ESG-related performance as well as disclosure controls
+Building a data collection process that’s of sufficient quality for external review assurance (whether or not the company chooses to seek such)
+Board oversight
+
+The Board of Directors is ultimately responsible for overseeing the company’s strategy, risk management and corporate reporting. One of the ways in which companies can demonstrate commitment to ESG and meaningful ESG reporting is by having Board-level oversight of relevant aspects of ESG. This oversight may include Board consideration of feedback received from stakeholder engagement exercises, and endorsement and review of progress against the company’s ESG strategy. No matter what, a clear line of oversight should be evident to any external viewer - whether the entire board or specific committees have that set of responsibilities should be clearly disclosed.
+
+The Board may also stipulate the inclusion of key performance indicators related to achievement of ESG targets (such as emissions reductions or energy use improvements) in assessing management performance.
+With governance in place, the company can now look at areas where it can build an ESG lens into reviewing risks and opportunities.
+
+Management committees / working groups
+
+Below the board level, responsibility for design, implementation and monitoring of the company’s ESG strategy should be clearly allocated by senior management. Depending on the nature of the strategy and the identified ESG focus areas, responsibility may be spread across various divisions in the company (e.g. HR will be responsible for diversity, while Compliance may be responsible for whistle-blower and anti-corruption measures).
+
+It may be desirable to have a dedicated multidisciplinary sustainability team responsible for:
+
+Coordinating across divisions/departments/teams to ensure that agreed ESG focus areas are being implemented and monitored and discuss potential approaches to ESG issues
+Conducting ongoing review of broader sustainability developments and conducting initial research and recommendations regarding their relevance for your company
+Managing your company’s ESG reporting process
+Working with the investor relations team to engage with institutional investors and answer investor inquiries with respect to ESG issues
+Responding (or providing input to responses) to ESG-specific queries from various stakeholder groups
+Responding to ratings-agency and ESG index surveys and questionnaires
+Note that the best structure will vary depending on the issues involved as well as the company’s business lines - especially when it comes to areas where ESG presents business opportunities, integration of ESG is not just a risk management exercise.
+Having identified the company’s stakeholders, determined the key ESG issues, and established governance and operational practices, you should be ready to begin your reporting process. Your ESG reporting is the company’s opportunity to tell its story. To effectively articulate the company’s story, you should consider setting out:
+
+The core issues that your company is focused on
+How and why the company has chosen those specific issues
+The measurements and KPIs that you’re using to view progress on these key issues (contextualized where possible)
+Any targets your company has in place in relation to those issues and what processes are in place to track and measure progress against those targets, as well as what governance structures and processes are in place to ensure oversight of ESG issues
+Companies that provide this disclosure are likely to be more convincing than those that produce a long list of ESG metrics that appear unconnected to the company and how it operates. In adopting a more focused approach, your company can demonstrate that it has a strong handle on the ESG issues and is committed to managing them effectively. A concise, well-thought thorough description can be as compelling as, if not more so than, a lengthy publication with extensive disclosures across a range of topics. While this awareness is relevant for all companies, it should be particularly reassuring for smaller companies or companies who are new to ESG and ESG reporting.
+
+Your company may also want to think about where and how you communicate relevant ESG information, depending on the audience. If your company chooses to provide focused disclosure for different stakeholder groups, be careful to ensure consistency across your disclosures (e.g. differences in diversity rates can be attributed to a metric that is regulatorily defined in a particular jurisdiction in one way, while the company, for its own purposes, uses another that it believes is more relevant).
+
+Ongoing stakeholder engagement
+
+Companies should look to formally refresh the materiality process and the message for two-way stakeholder engagement as their stories evolve. Keep in mind your stakeholders may face their own changing demands for information. As one example, as of 2021, European asset managers face new regulations with respect to reporting on the ESG characteristics of their portfolio companies. These “second-order” effects may flow downstream to the issuers of securities in these portfolios, who may face disclosure demands in line with these regulations. For each stakeholder group, listening for the changes in the issues and topics mentioned, as well as sharing feedback formally within the company, should become a standard process.
+High-quality reporting relies on the disclosure of accurate, balanced and comparable information that provides genuine insights. What this means in practice is the following:
+
+Accurate: Users of the information need to know that they can rely on it and that it provides an honest view of your company’s performance on your material ESG issues. Accuracy requires both ensuring that the data underpinning the disclosures is correct and being transparent about how the numbers were computed. Even when companies have systems in place to measure and record data, the actual data points may vary depending on the scope of what is being measured, when it is measured and the component inputs to the measurement.
+Being accurate is easy – or is it?
+
+Let’s take something very simple that, on the face of it, should be relatively straightforward to measure: employee gender diversity. While it seems easy to count the number of men and women in the organization, the number that one comes up with may vary depending on:
+
+The definition of an employee: only full-time employees or also part-time employees? What if a company operates in multiple jurisdictions and employee definitions differ across jurisdictions?
+The scope of the measurement: if the reporting entity is a group, does it cover all employees of all companies in the group, or only some companies?
+The point at which the measurement is done: end of the calendar year? Financial year?
+Of course, this evaluation is before you get into questions of reporting by employment category (management level, employment category, etc.).
+Webinar
+ – Hear from the heads of GRI and SASB how they are working together to streamline reporting
+
+Webinar
+ – See what NRG Energy learned getting started with SASB reporting
+
+Interview
+ – Read how traditional ratings services like S&P are approaching ESG
+
+Interview
+ – Find out how you can weigh in on GRI’s standards
+
+Interview
+ – Learn how SASB can fit into your ESG strategy
+Balanced: There is a natural tendency to focus ESG reporting on positive performance (e.g. reduction in fatality rates) and underplay poor performance (e.g. increasing carbon emissions). ESG reporting is not simply a marketing function showing the positive aspects of a company. Stakeholders would rather see that a company understands what the core issues are and is taking steps to address them, than be presented with an overly optimistic picture.
+Comparable: Information presented should be comparable (or consistent) from one reporting period to the next. The users of your ESG reporting are likely not just interested in your company’s performance at a point in time but also in how the company performs over time. This objective is much more challenging if the methods for how the information is collected, calculated, and presented, changes. In cases where it is necessary to make changes to reported information, these changes should be disclosed, as changes to the presentation of financial information is disclosed. Globally-recognized standards and frameworks, such as those provided by the Global Reporting Initiative (GRI) and the Sustainability Standards Accounting Board (SASB) (discussed in more detail below), may provide guidance for companies to consider for many core ESG disclosure topics.
+
+The notion of comparability is sometimes also used to refer to the ability to compare ESG performance across companies in the same sector or industry. Companies may wish to review the types of metrics on which their peers report or refer to sector-specific standards such as the SASB Standards or those created by industry-specific bodies. Ultimately, the company should make its own determination of which metrics to consider (as referenced in Section 3, above).
+Contextualized: Most ESG data does not exist in a vacuum but needs to be properly contextualized to be understood. Some of this context may come from relative performance of the company (with reference to other companies in the sector or to historic performance). Context can also derive from a company’s operating locations and broader understanding of so-called sustainability thresholds and the local legal structure. For example, if you’re reporting water usage, it should be reported with reference to how water usage affects your business strategy, as well as to local water availability and sustainable water use practices.
+Navigating the disclosure landscape
+
+Many companies choose to align their sustainability reporting with one or more ESG frameworks. The sheer number of ESG frameworks and standards can make ESG disclosure seem overwhelming. The best way for companies to navigate this landscape is to figure out what would yield the most meaningful and useful disclosure for the company and its key stakeholders. This analysis requires understanding:
+
+The nuances between different disclosure frameworks/standards
+Which frameworks / standards best enable your company to tell your story to your different stakeholders
+Which rankings and ratings matter to the people that matter to your company
+A framework is a set of principles and guidance for “how” a report is structured. Standards provide specific, replicable and detailed requirements for “what” should be reported for each relevant topic.
+
+Aligning your disclosures with one or more frameworks or standards should be a deliberate decision - and based on your materiality assessment above as well as stakeholder feedback. Some stakeholder groups have publicly endorsed specific reporting standards - make sure you’re aware of these in your decision-making process.
+
+The list below is an overview of some of the most widely-used or -referenced reporting frameworks as well as some more recent standards. It is not comprehensive nor should it be read as recommending one set of standards over another - and note that each standard references the stakeholder groups it is designed to be relevant to.
+
+Global Reporting Initiative (GRI)
+
+The 
+GRI Standards
+ provide a framework and set of supporting standards covering a wide range of sustainability topics. The GRI Standards consist of the so-called Universal Standards and 34 topic-specific standards. The Universal Standards cover disclosures about the organization’s specific context, such as its governance, management systems, reporting practices, products, services, stakeholder engagement and management approach. Each of the Topic Standards specifies a combination of qualitative and quantitative information to be disclosed.
+
+Companies are not required to report on all topics covered by the GRI Standards. Rather, companies using the GRI Standards are expected to identify and prioritize the topics that reflect their most significant economic, environmental and social impacts or that would substantively influence the assessments and decisions of stakeholders. Companies can either report using the GRI Standards as a complete system or use them to report on selected topics.
+
+GRI Standards are multi-stakeholder in focus and can be relevant for a range of users anywhere from investors to governments to civil society.
+
+Sustainability Accounting Standards Board (SASB)
+
+The 
+SASB Standards
+ are focused on the subset of sustainability-related risks and opportunities most likely to affect a company’s financial condition (e.g. its balance sheet), operating performance (e.g. its income statement) or risk profile (e.g. its market valuation and cost of capital).
+
+SASB publishes standards for 77 industries across 11 sectors. set of standards identifies the subset of sustainability issues SASB believes are reasonably likely to impact financial performance of the typical company in an industry. Companies are encouraged to refer to the relevant SASB standards for their industry but ultimately it is up to the reporting company to determine which specific sustainability topics and metrics are financially material for its business.
+
+Given SASB’s stated focus on financial materiality as defined by the U.S. Supreme Court and the SEC, investors are the primary audience for SASB reporting.
+
+Task Force on Climate-related Financial Disclosures (TCFD)
+
+The 
+TCFD Recommendations
+ provide a framework for climate-related financial disclosures, with the objective of enabling users to understand how reporting organizations assess climate-related risks and opportunities. The framework is structured around four thematic areas: governance, strategy, risk management, and metrics and targets, with high-level recommended disclosures under each of these. The TCFD encourages reporting companies to undertake and report on the results of climate scenario analysis as part of their strategy and risk management processes. While the TCFD offers guidance around the type of information that should be disclosed, it is principles-based, and does not prescribe the specific metrics that should be used for such disclosure. Standard setters such as GRI, SASB and others have done work around 
+mapping
+ their standards to the TCFD.
+
+Given the focus on ”decision-useful, climate-related information,” investors, lenders, and insurance underwriters are the primary audience for TCFD reporting; to date, several national governments have relied on them for regulatory requirements as well.
+
+World Economic Forum – International Business Council (WEF-IBC)
+
+The 
+WEF-IBC Stakeholder Capitalism Metrics and Disclosures
+ are comprised of a set of 21 core ESG metrics and 34 recommended disclosures organized into the categories of Principles of Governance, Planet, People and Prosperity. The proposed metrics and disclosures are largely drawn from existing standards (such as GRI, SASB, TCFD and others) with the stated intent of “supporting convergence” among existing standard setters. The WEF-IBC encourages IBC members (and others), regardless of sector or country of operation, to report on these metrics in their mainstream annual reports, if material, on a “comply or explain” basis.
+
+The disclosures are aimed at a range of stakeholders.
+In addition to reporting frameworks and standards, there are also third-party research firms that collect ESG information on companies for the purposes of scoring ESG performance. This information is used by investors to inform their investment decision making (though many investors also conduct their own analysis). Some research firms collect information directly from companies, using surveys or questionnaires. Others rely on publicly-available information (though may still ask the company to verify the collected information) while still others use some combination of public information and questionnaires. Different firms use different methodologies (though there is some overlap among them), which makes it challenging from a resource and cost perspective to address all of these. Companies should decide for themselves which ESG data providers/rankers/raters are most relevant for them and their key stakeholders and allocate their efforts accordingly.
+
+Note that several ratings are administered by, or connected to, companies that construct indices for investment purposes. Therefore, consider which ESG indices are of highest interest to your company when determining which ratings to focus on.
+
+MSCI
+
+MSCI ESG Research
+ is based entirely on publicly-available information collated from assorted academic and NGO datasets, company disclosures and media/news sources. Companies that are selected for assessment are typically those companies that are included in the MSCI indices. Companies are not required to verify the information that is collected but are notified at various stages of the ratings update process, giving them an opportunity to engage, and request corrections, if they wish to do so.
+
+Sustainalytics
+
+Like MSCI, 
+Sustainalytics
+ relies on publicly-available information for its company ESG assessments. Companies are sent a draft of their ESG report covering all assessed indicators for review and feedback before it is published. Sustainalytics is owned by the investment research firm Morningstar.
+
+S&P ESG / Corporate Sustainability Assessment
+
+The data collected in the 
+S&P Corporate Sustainability Assessment
+ are used as inputs for assorted S&P ESG and Dow Jones Sustainability Indices, compiling the SAM Sustainability Yearbook and calculating S&P Global ESG scores (among other uses). Participation is by invitation and requires the completion of a questionnaire. In addition to possible index inclusion, companies can also see how they perform relative others in their industry. Companies that don’t complete the questionnaire may be nonetheless be rated regardless based on publicly-available information.
+
+Moody’s / Vigeo Eiris
+
+Vigeo Eiris
+ offers a wide range of ESG products to the investment community, including assessments of a company’s ESG practices as well as a view of alignment with the UN Sustainable Development Goals and UN Global Compact, a measure of sustainable goods and services, as well as controversies data. Information is gathered from public-domain sources, but companies can engage with the organization to make sure their publicly-sourced information is accurately captured. Moody’s owns a controlling stake in Vigeo Eiris.
+Conclusion
+ESG reporting and disclosure is an opportunity for companies to tell their own ESG story. High-quality ESG reporting builds trust with shareholders and key stakeholders and demonstrates that a company understands how ESG issues affect its ability to create long-term value.
+
+Reporting should be an output, not an end in itself. It should reflect what your company is doing to manage your ESG risks and opportunities.
+
+ESG disclosure is most compelling when your company explains:
+
+Why you have focused on the issues that you have (stakeholder engagement, materiality)
+What your company is doing about those issues (strategy, measurement, targets)
+What oversight your company has in place to make sure you stay on track (governance)
+The best report is not the longest one but the one that demonstrates focus and understanding of the issues.

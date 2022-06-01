@@ -1,0 +1,272 @@
+Appendix 27 Environmental, Social and Governance Reporting Guide
+ 		Versions
+(4 versions)
+	 
+View Current PDF
+Part A: Introduction
+
+The Guide
+
+1.   	This Guide comprises two levels of disclosure obligations: (a) mandatory disclosure requirements; and (b) “comply or explain” provisions.
+ 
+2.   	Mandatory disclosure requirements are set out in Part B of this Guide. An issuer must include such information for the period covered by the ESG report.
+ 
+3.   	“Comply or explain” provisions are set out in Part C of this Guide. An issuer must report on the “comply or explain” provisions of this Guide. If the issuer does not report on one or more of these provisions, it must provide considered reasons in its ESG report. For guidance on the “comply or explain” approach, issuers may refer to the “What is “comply or explain”?” section of the Corporate Governance Code in Appendix 14 of the Main Board Listing Rules.
+ 
+4.   	(1)   	An issuer must publish its ESG report on an annual basis and regarding the same period covered in its annual report. An ESG report may be presented as information in the issuer’s annual report or in a separate report. Regardless of the format adopted, the ESG report must be published on the Exchange’s website and the issuer’s website.
+ 
+   	(2)   	Where the ESG report does not form part of the issuer’s annual report:
+ 
+(a)   	To the extent permitted under all applicable laws and regulations and the issuer’s own constitutional documents, an issuer is not required to provide the ESG report in printed form to its shareholders irrespective of whether such shareholders have elected to receive the issuer’s corporate communication electronically or otherwise under rule 2.07A.
+ 
+(b)   	The issuer must notify the intended recipient of:
+ 
+(i)   	the presence of the ESG report on the website;
+ 
+(ii)   	the address of the website;
+ 
+(iii)   	the place on the website where it may be accessed; and
+ 
+(iv)   	how to access the ESG report.
+ 
+(c)   	Notwithstanding the above, the issuer shall promptly provide a shareholder with an ESG report in printed form upon its specific request.
+ 
+(d)   	The issuer shall publish the ESG report at the same time as the publication of the annual report.
+ 
+Overall Approach
+
+5.   	This Guide is organised into two ESG subject areas (“Subject Areas”): Environmental (Subject Area A) and Social (Subject Area B). Corporate governance is addressed separately in the Corporate Governance Code.
+ 
+6.   	Each Subject Area has various aspects (“Aspects”). Each Aspect sets out general disclosures (“General Disclosures”) and key performance indicators (“KPIs”) for issuers to report on in order to demonstrate how they have performed.
+ 
+7.   	In addition to the “comply or explain” matters set out in this Guide, the Exchange encourages an issuer to identify and disclose additional ESG issues and KPIs that reflect the issuer’s significant environmental and social impacts; or substantially influence the assessments and decisions of stakeholders. In assessing these matters, the issuer should engage stakeholders on an ongoing basis in order to understand their views and better meet their expectations.
+ 
+8.   	This Guide is not comprehensive and the issuer may refer to existing international ESG reporting guidance for its relevant industry or sector. The issuer may adopt international ESG reporting guidance so long as it includes comparable disclosure provisions to the “comply or explain” provisions set out in this Guide.
+ 
+9.   	The issuer may seek independent assurance to strengthen the credibility of the ESG information disclosed. Where independent assurance is obtained, the issuer should describe the level, scope and processes adopted for the assurance given clearly in the ESG report.
+ 
+10.   	The board has overall responsibility for an issuer’s ESG strategy and reporting.
+ 
+Reporting Principles
+
+11.   	The following Reporting Principles underpin the preparation of an ESG report, informing the content of the report and how information is presented. An issuer should follow these Reporting Principles in the preparation of an ESG report:
+ 
+(1)   	Materiality: The threshold at which ESG issues determined by the board are sufficiently important to investors and other stakeholders that they should be reported.
+ 
+(2)   	Quantitative: KPIs in respect of historical data need to be measurable. The issuer should set targets (which may be actual numerical figures or directional, forward-looking statements) to reduce a particular impact. In this way the effectiveness of ESG policies and management systems can be evaluated and validated. Quantitative information should be accompanied by a narrative, explaining its purpose, impacts, and giving comparative data where appropriate.
+ 
+(3)   	Balance: The ESG report should provide an unbiased picture of the issuer’s performance. The report should avoid selections, omissions, or presentation formats that may inappropriately influence a decision or judgment by the report reader.
+ 
+(4)   	Consistency: The issuer should use consistent methodologies to allow for meaningful comparisons of ESG data over time.
+ 
+Complementing ESG discussions in the Business Review Section of the Directors’ Report
+
+12.   	Pursuant to paragraph 28(2)(d) of Appendix 16 of the Main Board Listing Rules, an issuer’s directors’ report for a financial year must contain a business review in accordance with Schedule 5 to the Companies Ordinance. The business review must include, to the extent necessary for an understanding of the development, performance or position of the issuer’s business:
+ 
+(i)   	a discussion of the issuer’s environmental policies and performance;
+ 
+(ii)   	a discussion of the issuer’s compliance with the relevant laws and regulations that have a significant impact on the issuer; and
+ 
+(iii)   	an account of the issuer’s key relationships with its employees, customers and suppliers and others that have a significant impact on the issuer and on which the issuer’s success depends.
+This Guide should complement the content requirements of the directors’ report, as it calls for issuers to disclose information in respect of specific ESG areas.
+ 
+Part B: Mandatory Disclosure Requirements
+
+Governance Structure
+
+13.   	A statement from the board containing the following elements:
+ 
+(i)   	a disclosure of the board’s oversight of ESG issues;
+ 
+(ii)   	the board’s ESG management approach and strategy, including the process used to evaluate, prioritise and manage material ESG-related issues (including risks to the issuer’s businesses); and
+ 
+(iii)   	how the board reviews progress made against ESG-related goals and targets with an explanation of how they relate to the issuer’s businesses.
+ 
+Reporting Principles
+
+14.   	A description of, or an explanation on, the application of the following Reporting Principles in the preparation of the ESG report:
+ 
+Materiality: The ESG report should disclose: (i) the process to identify and the criteria for the selection of material ESG factors; (ii) if a stakeholder engagement is conducted, a description of significant stakeholders identified, and the process and results of the issuer’s stakeholder engagement.
+ 
+Quantitative: Information on the standards, methodologies, assumptions and/or calculation tools used, and source of conversion factors used, for the reporting of emissions/energy consumption (where applicable) should be disclosed.
+ 
+Consistency: The issuer should disclose in the ESG report any changes to the methods or KPIs used, or any other relevant factors affecting a meaningful comparison.
+ 
+Reporting Boundary
+
+15.   	A narrative explaining the reporting boundaries of the ESG report and describing the process used to identify which entities or operations are included in the ESG report. If there is a change in the scope, the issuer should explain the difference and reason for the change.
+ 
+Part C: “Comply or explain” Provisions
+
+Subject Areas, Aspects, General Disclosures and KPIs
+A. Environmental
+Aspect A1:
+Emissions	General Disclosure
+
+Information on:
+ 
+(a)   	the policies; and
+ 
+(b)   	compliance with relevant laws and regulations that have a significant impact on the issuer
+relating to air and greenhouse gas emissions, discharges into water and land, and generation of hazardous and non-hazardous waste.
+
+Note:     	Air emissions include NOx, SOx, and other pollutants regulated under national laws and regulations.
+
+Greenhouse gases include carbon dioxide, methane, nitrous oxide, hydrofluorocarbons, perfluorocarbons and sulphur hexafluoride.
+
+Hazardous wastes are those defined by national regulations.
+ 
+KPI A1.1	The types of emissions and respective emissions data.
+ 
+KPI A1.2	Direct (Scope 1) and energy indirect (Scope 2) greenhouse gas emissions (in tonnes) and, where appropriate, intensity (e.g. per unit of production volume, per facility).
+ 
+KPI A1.3	Total hazardous waste produced (in tonnes) and, where appropriate, intensity (e.g. per unit of production volume, per facility).
+ 
+KPI A1.4	Total non-hazardous waste produced (in tonnes) and, where appropriate, intensity (e.g. per unit of production volume, per facility).
+ 
+KPI A1.5	Description of emission target(s) set and steps taken to achieve them.
+ 
+KPI A1.6	Description of how hazardous and non-hazardous wastes are handled, and a description of reduction target(s) set and steps taken to achieve them.
+ 
+Aspect A2:
+Use of Resources	General Disclosure
+
+Policies on the efficient use of resources, including energy, water and other raw materials.
+
+Note: Resources may be used in production, in storage, transportation, in buildings, electronic equipment, etc.
+ 
+KPI A2.1	Direct and/or indirect energy consumption by type (e.g. electricity, gas or oil) in total (kWh in '000s) and intensity (e.g. per unit of production volume, per facility).
+ 
+KPI A2.2	Water consumption in total and intensity (e.g. per unit of production volume, per facility).
+ 
+KPI A2.3	Description of energy use efficiency target(s) set and steps taken to achieve them.
+ 
+KPI A2.4	Description of whether there is any issue in sourcing water that is fit for purpose, water efficiency target(s) set and steps taken to achieve them.
+ 
+KPI A2.5	Total packaging material used for finished products (in tonnes) and, if applicable, with reference to per unit produced.
+ 
+Aspect A3:
+The Environment and Natural Resources	General Disclosure
+
+Policies on minimising the issuer's significant impacts on the environment and natural resources.
+ 
+KPI A3.1	Description of the significant impacts of activities on the environment and natural resources and the actions taken to manage them.
+ 
+Aspect A4:
+Climate Change	General Disclosure
+
+Policies on identification and mitigation of significant climate-related issues which have impacted, and those which may impact, the issuer.
+ 
+KPI A4.1	Description of the significant climate-related issues which have impacted, and those which may impact, the issuer, and the actions taken to manage them.
+ 
+B. Social
+Employment and Labour Practices
+Aspect B1:
+Employment	General Disclosure
+Information on:
+
+(a)   	the policies; and
+ 
+(b)   	compliance with relevant laws and regulations that have a significant impact on the issuer
+relating to compensation and dismissal, recruitment and promotion, working hours, rest periods, equal opportunity, diversity, anti-discrimination, and other benefits and welfare.
+
+KPI B1.1	Total workforce by gender, employment type (for example, full- or part-time), age group and geographical region.
+ 
+KPI B1.2	Employee turnover rate by gender, age group and geographical region.
+ 
+Aspect B2:
+Health and Safety	General Disclosure
+Information on:
+
+(a)   	the policies; and
+ 
+(b)   	compliance with relevant laws and regulations that have a significant impact on the issuer
+relating to providing a safe working environment and protecting employees from occupational hazards.
+
+KPI B2.1	Number and rate of work-related fatalities occurred in each of the past three years including the reporting year.
+ 
+KPI B2.2	Lost days due to work injury.
+ 
+KPI B2.3	Description of occupational health and safety measures adopted, and how they are implemented and monitored.
+ 
+Aspect B3:
+Development and Training	General Disclosure
+
+Policies on improving employees' knowledge and skills for discharging duties at work. Description of training activities.
+
+Note: Training refers to vocational training. It may include internal and external courses paid by the employer.
+ 
+KPI B3.1	The percentage of employees trained by gender and employee category (e.g. senior management, middle management).
+ 
+KPI B3.2	The average training hours completed per employee by gender and employee category.
+ 
+Aspect B4:
+Labour Standards	General Disclosure
+Information on:
+
+(a)   	the policies; and
+ 
+(b)   	compliance with relevant laws and regulations that have a significant impact on the issuer
+relating to preventing child and forced labour.
+
+KPI B4.1	Description of measures to review employment practices to avoid child and forced labour.
+ 
+KPI B4.2	Description of steps taken to eliminate such practices when discovered.
+ 
+Operating Practices
+Aspect B5:
+Supply Chain Management	General Disclosure
+
+Policies on managing environmental and social risks of the supply chain.
+ 
+KPI B5.1	Number of suppliers by geographical region.
+ 
+KPI B5.2	Description of practices relating to engaging suppliers, number of suppliers where the practices are being implemented, and how they are implemented and monitored.
+ 
+KPI B5.3	Description of practices used to identify environmental and social risks along the supply chain, and how they are implemented and monitored.
+ 
+KPI B5.4	Description of practices used to promote environmentally preferable products and services when selecting suppliers, and how they are implemented and monitored.
+ 
+Aspect B6:
+Product Responsibility	General Disclosure
+Information on:
+
+(a)   	the policies; and
+ 
+(b)   	compliance with relevant laws and regulations that have a significant impact on the issuer
+relating to health and safety, advertising, labelling and privacy matters relating to products and services provided and methods of redress.
+
+KPI B6.1	Percentage of total products sold or shipped subject to recalls for safety and health reasons.
+ 
+KPI B6.2	Number of products and service related complaints received and how they are dealt with.
+ 
+KPI B6.3	Description of practices relating to observing and protecting intellectual property rights.
+ 
+KPI B6.4	Description of quality assurance process and recall procedures.
+ 
+KPI B6.5	Description of consumer data protection and privacy policies, and how they are implemented and monitored.
+ 
+Aspect B7:
+Anti-corruption	General Disclosure
+Information on:
+
+(a)   	the policies; and
+ 
+(b)   	compliance with relevant laws and regulations that have a significant impact on the issuer
+relating to bribery, extortion, fraud and money laundering.
+
+KPI B7.1	Number of concluded legal cases regarding corrupt practices brought against the issuer or its employees during the reporting period and the outcomes of the cases.
+ 
+KPI B7.2	Description of preventive measures and whistle-blowing procedures, and how they are implemented and monitored.
+ 
+KPI B7.3	Description of anti-corruption training provided to directors and staff.
+ 
+Community
+Aspect B8:
+Community Investment	General Disclosure
+
+Policies on community engagement to understand the needs of the communities where the issuer operates and to ensure its activities take into consideration the communities' interests.
+ 
+KPI B8.1	Focus areas of contribution (e.g. education, environmental concerns, labour needs, health, culture, sport).
+ 
+KPI B8.2	Resources contributed (e.g. money or time) to the focus area.

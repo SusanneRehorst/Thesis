@@ -1,0 +1,597 @@
+CSA Staff Notice 51-358
+Reporting of Climate Change-related Risks
+August 1, 2019
+Executive summary
+The focus on climate change-related issues in Canada and internationally has grown rapidly in
+recent years. In order to make informed investment and voting decisions, investors, particularly
+institutional investors, are seeking improved disclosure on the material risks, opportunities,
+financial impacts and governance processes related to climate change.
+Securities legislation in Canada requires reporting issuers1
+(issuers) to disclose the material risks
+affecting their business and, where practicable, the financial impacts of such risks.
+2
+ Although
+climate change-related risks are expected to be more pervasive than some other types of risk, they
+can be difficult to assess and quantify as they may be subject to greater uncertainty.
+We recognize that, while disclosure of material climate change-related risks is important for
+investors to make informed investment decisions, this disclosure presents challenges and other
+potential burdens for all issuers, especially smaller issuers with more limited resources. The key
+objective of this notice is to provide issuers, particularly smaller issuers, with guidance as to how
+they might approach preparing disclosures of material climate change-related risks. In particular,
+the guidance contained in this notice is primarily focused on issuers’ disclosure obligations as they
+relate to the MD&A and AIF. For purposes of those forms, information is likely material if a
+reasonable investor’s decision whether to buy, sell or hold securities in an issuer would likely be
+influenced or changed if the information in question was omitted or misstated. Securities legislation
+imposes a different test for materiality in certain other contexts, and issuers should consider the
+applicable test when preparing disclosure in respect of climate change-related information or other
+information.
+In addition to addressing regulatory requirements, these disclosures provide issuers with an
+opportunity to inform investors about the sustainability of their business model and to provide
+insights into how they are mitigating and adapting to these risks.
+This notice does not create any new legal requirements or modify existing ones. It reinforces and
+expands upon the guidance provided in CSA Staff Notice 51-333 Environmental Reporting
+Guidance (SN 51-333) and should be read in conjunction with SN 51-333, which continues to
+
+1
+In this notice, references to reporting issuers refer to reporting issuers other than investment funds.
+2 See section 5.2 of Form 51-102F2 Annual Information Form (the AIF or Form 51-102F2) and section 1.4(g) of
+Form 51-102F1 Management’s Discussion and Analysis (the MD&A or Form 51-102F1).
+-2-
+provide guidance to issuers on existing continuous disclosure requirements relating to a broad range
+of environmental matters, including climate change.
+Staff of the Canadian Securities Administrators (Staff or we) encourage boards of directors
+(boards) and senior management (management) of issuers to review this notice as it:
+• provides an overview of the responsibilities of boards and management relating to risk
+identification and disclosure;
+• outlines relevant factors to consider in assessing the materiality of climate change-related
+risks;
+• provides examples of some of the types of climate change-related risks to which issuers may
+be exposed;
+• includes questions for boards and management to consider in the climate change context;
+and
+• provides an overview of the disclosure requirements if an issuer chooses to disclose
+forward-looking climate change-related information.
+Why this guidance?
+Climate change-related risks are a mainstream business issue. Issuers should consider these risks
+as part of their ongoing risk management and disclosure processes and they must disclose any such
+risks that are material to their business. Like other business risks, the materiality of climate changerelated risks varies among industry sectors and issuers within those sectors.
+This notice has been motivated by three key factors:
+• Increased investor interest – Over the past several years, many investors, particularly
+institutional investors, have become increasingly focused on climate change-related risks
+and have expressed concerns that they are receiving insufficient disclosure of these risks
+from issuers. Securities regulators have a role to play in assisting issuers in their efforts to
+provide investors with the material information they reasonably need to make informed
+investment and voting decisions.
+• Room for improvement in disclosure – Based on our reviews of the disclosure of a sample
+of TSX-listed issuers, we noted variations in disclosure practices.3 Of the 78 issuers we
+reviewed, 22% provided boilerplate disclosure on climate change-related risks and another
+
+3 The detailed results of our review are summarized in CSA Staff Notice 51-354 Report on Climate change-related
+Disclosure Project (SN 51-354).
+-3-
+22% provided no disclosure at all. The disclosures lacked comparability among issuers and
+in some instances omitted information necessary to provide sufficient context for the
+disclosure.
+• Domestic and global developments – We have observed growing interest by stakeholders,
+including Canadian issuers and institutional investors, in voluntary disclosure frameworks,
+such as the Climate Risk Technical Bulletin published by the Sustainability Accounting
+Standard Board (SASB) published in October 2016 (the SASB Framework), and the final
+recommendations of the Financial Stability Board’s Task Force on Climate-related
+Financial Disclosures (TCFD) published in June 2017 (the TCFD Recommendations).
+The TCFD Recommendations contemplate voluntary disclosure in four areas: governance,
+strategy, risk management and metrics and targets. We have also noted a number of global
+and domestic initiatives since the publication of SN 51-354 which acknowledge the
+importance of climate change-related risks.
+4
+This guidance is intended to assist issuers, including their boards and management, to identify
+material climate change-related risks and to improve their disclosure of such risks. Disclosure of
+climate change-related risks provides an opportunity for issuers to explain to existing and potential
+investors how they are adapting their business model to any material risks that they are facing and
+to address questions regarding the sustainability of the business model.
+What are the roles and responsibilities of the board and management?
+The board (including, for some responsibilities, its audit committee) has a role in strategic
+planning, risk oversight and the review and approval of an issuer’s annual and interim regulatory
+filings.
+• Strategic planning – The board should adopt a strategic planning process and approve a
+strategic plan which takes into account, among other things, the opportunities and risks of
+the business.5
+• Risk oversight – The board should adopt a written mandate explicitly acknowledging its
+responsibility for, among other things, identification of the principal risks of the issuer’s
+
+4
+In Canada, the Bank of Canada has recently issued a report which identifies climate change as one of the
+vulnerabilities in the Canadian financial system and the Government of Canada’s Expert Panel on Sustainable
+Finance has published its final report which includes recommendations on issues related to sustainable finance,
+including climate change-related disclosure. Internationally, the International Organization of Securities
+Commissions recently published a statement on disclosure of environmental, social and governance matters by
+issuers and there are many ongoing policy initiatives focused on climate change and capital markets, such as the
+ongoing work of the TCFD and the Central Banks’ and Supervisors’ Network for Greening the Financial System.
+5 See paragraph 3.4(b) of National Policy 58-201 Corporate Governance Guidelines (NP 58-201).
+Why this
+Guidance?
+Board and
+Management Materiality
+Climte
+Changerelated Risks
+Voluntary
+Disclosure
+Forwardlooking
+Information
+-4-
+business and ensuring the implementation of appropriate systems to manage these business
+risks.6
+• Review and approval of disclosure –
+o The audit committee is required to review an issuer’s financial statements and
+MD&A before the issuer publicly discloses this information. The audit committee
+must be satisfied that adequate procedures are in place for the review of the issuer’s
+public disclosure of financial information extracted or derived from the issuer’s
+financial statements (other than the issuer’s financial statements, MD&A and annual
+and interim earnings press releases) and must periodically assess the adequacy of
+those procedures.
+7
+o The board must approve the annual and interim financial statements and MD&A.
+The board may delegate approval of interim financial statements and MD&A to its
+audit committee.8
+Management also has a key role to play in risk management and the preparation of the issuer’s
+annual and interim regulatory filings.
+• Risk management – It is management’s responsibility to implement systems to manage
+business risks.
+• Preparation and certification of disclosure –
+o Management is responsible for preparing the issuer’s annual and interim regulatory
+filings.
+o Certifying officers9 must certify, among other things, that the issuer’s financial
+statements and the other financial information included in the issuer’s MD&A and
+AIF, if applicable, fairly present, in all material respects, the issuer’s financial
+condition, financial performance and cash flows.10
+Why is this relevant in the context of climate change-related risks?
+Climate change-related risks and their potential financial impacts are mainstream business issues.
+However, they may differ from many other business risks because their impacts may be uncertain
+and are expected to develop over time. Despite the potential uncertainties and longer time horizon
+associated with climate change-related risks, boards and management should take appropriate steps
+to understand and assess the materiality of these risks to their business. This assessment should
+
+6 See paragraph 3.4(c) of NP 58-201.
+7 See subsections 2.3(5) and 2.3(6) of National Instrument 52-110 Audit Committees.
+8 See sections 4.5 and 5.5 of National Instrument 51-102 Continuous Disclosure Obligations (NI 51-102).
+9 The term “certifying officers” has the meaning given to it in National Instrument 52-109 Certification of Disclosure
+in Issuers’ Annual and Interim Filings (NI 52-109) and generally means the CEO and CFO.
+10 See Part 2 of NI 52-109.
+-5-
+extend to a broad spectrum of potential climate change-related risks over the short-, medium- and
+long-term.
+What does this mean for boards and management?
+We encourage the board and management to assess their expertise with respect to sector specific
+climate change-related risks. This will enable them to ask the right questions about climate changerelated risks and opportunities, and make informed decisions about both risk management and
+disclosure.
+In preparing and approving risk disclosure, we encourage the board and management to avoid vague
+or boilerplate disclosure. Relevant, clear and understandable entity-specific disclosure will help
+investors understand how the issuer’s business is specifically affected by all material risks resulting
+from climate change. This risk disclosure should provide context for investors about how the board
+and management assess climate change-related risks.
+Below are select questions for boards and management to help inform their consideration of
+material climate change-related risks.11 Discussion and analysis of the following questions may be
+helpful in evaluating and preparing appropriate climate change-related risk disclosures.
+Select questions for boards
+• Is the board provided with appropriate orientation and information to help members
+understand sector specific climate change-related issues?
+• Has the board been provided sufficient information, including management’s
+materiality assessments in respect of the issuer’s climate change-related risks, to
+appropriately oversee and consider management’s assessment of these risks?
+• Is the board comfortable with the methodology used by management to capture the
+nature of climate change-related risks and assess the materiality of such risks?
+• Is the board aware of how their investors are factoring climate change-related risks
+into their investment and voting decisions?
+• Is oversight and management of climate change-related risks and opportunities
+integrated into the issuer’s strategic plan, and if so, to what extent?
+• Has the board considered the effectiveness of the disclosure controls and procedures in
+place in relation to climate change-related risks?
+
+11 These questions have been derived from the Engagement Guide for Asset Owners & Asset Managers published by
+SASB and CPA Canada’s Climate Change Briefing: Questions for Directors to Ask.
+-6-
+Select questions for management
+• Does management have, or have access to, the appropriate expertise to understand and
+manage material climate change-related risks that may affect the issuer?
+• Has management appropriately considered how each of the different categories of
+climate change-related risks may affect the issuer (e.g., physical and transition risks)?
+• Has management considered which business divisions or units have responsibility for
+identifying, disclosing and managing material climate change-related risks and what
+their reporting lines are to senior management? To what extent are these
+responsibilities integrated with mainstream business processes and decision-making?
+• Is management aware of current climate change-related litigation which may pose a
+litigation threat to the issuer now or in the future?
+• Has management implemented effective systems, procedures and controls to gather
+reliable and timely climate change-related information for purposes of management
+analysis, decision-making and disclosure to investors, regulators and other
+stakeholders?
+• Has management appropriately assessed the current and future financial impacts of
+material climate change-related risks on the issuer’s assets, liabilities, revenues,
+expenses and cash flows over the short, medium and long-term?
+• Do the issuer’s regulatory filings contain the required disclosures in respect of material
+climate change-related risks? Is this disclosure boilerplate or entity-specific?
+Why is materiality important?
+Materiality is the determining factor in any assessment of whether information is required to be
+disclosed in an issuer’s continuous disclosure. Only material information needs to be included in
+an issuer’s AIF and MD&A. For purposes of those forms, information is likely material if a
+reasonable investor’s decision whether to buy, sell or hold securities in an issuer would likely be
+influenced or changed if the information in question was omitted or misstated. Securities legislation
+imposes a different test for materiality in certain other contexts, and issuers should consider the
+applicable test when preparing disclosure in respect of climate change-related information or other
+information. Issuers can also find guidance on assessing materiality in National Policy 51-201
+Disclosure Standards and section 2.1 of SN 51-333.
+Why this
+Guidance?
+Board and
+Management Materiality
+Climte
+Changerelated Risks
+Voluntary
+Disclosure
+Forwardlooking
+Information
+-7-
+The disclosure regime set out in NI 51-102 requires issuers to report matters that are material to the
+issuer. Omitting or misstating material information in an issuer’s required continuous disclosure
+documents can lead to the board, management, and the issuer itself facing potential risks including
+litigation, enforcement, or other regulatory actions (e.g., refiling of continuous disclosure
+documents).
+Under NI 52-109, certifying officers of a TSX-listed or other issuer which is not a venture issuer12
+are required to certify, among other things, that they are responsible for establishing and
+maintaining disclosure controls and procedures. Management of such issuers should have controls
+and procedures in place to ensure climate change-related information is accumulated and
+communicated to management to allow timely decisions regarding required disclosure, including
+materiality assessments. Securities legislation also contains general prohibitions against making
+statements that a person or company knows (or reasonably ought to know) are materially misleading
+or untrue. Misrepresentations in a continuous disclosure document also include an omission to state
+a material fact that is required to be stated or is necessary to be stated in order for that statement not
+to be misleading.
+What are the guiding principles for determining materiality?
+Many issuers, including those in non-carbon intensive industries, are or will be exposed to climate
+change-related risks, though these risks will affect issuers in different industries, and different
+issuers within the same industry, in different ways. The key question for an issuer is whether a
+particular climate change-related risk under consideration is material and requires disclosure. We
+generally consider information to be material if a reasonable investor’s decision whether or not to
+buy, sell, or hold securities of the issuer would likely be influenced or changed if the information
+was omitted or misstated.
+13
+The following guiding principles, derived from SN 51-333, are intended to serve as a general guide
+and not an exhaustive list of the factors to be considered when making materiality determinations.
+No new materiality obligations or principles are created by this notice. These guiding principles are
+not meant as legal or other advice as to whether a particular risk, including climate change-related
+risk, is material for a particular issuer.
+• No bright-line test – There is no uniform quantitative threshold at which a particular type of
+information becomes material. The materiality of certain information may vary between
+industries and even between issuers within an industry according to their particular
+circumstances. An event that is “significant” or “major” for a smaller issuer may not be
+material to a larger issuer. In our view, issuers should consider both quantitative and
+qualitative factors in determining materiality.
+• Context – Materiality depends on the nature and amount of the item judged in the particular
+circumstances of its omission or misstatement. Some facts are material on their own. When
+one or more facts do not appear to be material on their own, materiality must be considered
+
+12 The term “venture issuer” has the meaning given to it in NI 52-109.
+13 See Part 1(f) of Form 51-102F1 and Part 1(e) of Form 51-102F2.
+-8-
+in light of all the facts available. An issuer should not “lose sight of the forest for the trees”
+by assessing the materiality of individual facts piecemeal.
+• Timing – Determining whether information is material is a dynamic process that depends
+on the prevailing relevant conditions at the time of reporting. In assessing materiality, an
+issuer should consider whether the impact of an environmental matter might reasonably be
+expected to grow over time, in which case early disclosure of the matter might be important
+to reasonable investors. This would be particularly relevant where the issuer is in an industry
+with a longer operation or investment cycle or where new technologies are going to be
+required.
+• Trends, demands, commitments, events and uncertainties – Generally, the time horizon of
+a known trend, demand, commitment, event or uncertainty may be relevant to an issuer's
+assessment of materiality. As with other types of disclosure, materiality in cases of a known
+environmental trend, demand, commitment, event or uncertainty turns on an analysis of:
+o the probability that the trend, demand, commitment, event or uncertainty will occur,
+and
+o the anticipated magnitude of its effect.
+What are the specific considerations for determining materiality in the context of climate
+change-related risk?
+We acknowledge that materiality assessments in relation to climate change-related risks may be
+more difficult than those in relation to other risks due to the evolving understanding of these risks,
+the potential difficulty in quantifying these risks, and, in some cases, the longer time horizon for
+certain of these risks to materially impact an issuer’s business. Despite these challenges and
+uncertainties, the disclosure issuers provide should reflect a thoughtful assessment of the
+information available as to the materiality of certain risks affecting their business and the impact of
+such risks. We encourage issuers to carefully consider if they have any material exposure to climate
+change-related risks – most industries and issuers have some exposure to these types of risks, even
+if they are not directly involved in a carbon-intensive industry. We encourage issuers to undertake
+an analysis before concluding they have no material exposure to climate change-related risks.
+An assessment of materiality in relation to climate change-related risks may require issuers to adapt
+their existing approaches to risk assessments in order to better understand the potential impacts of
+climate change-related risks and their materiality. In some cases, this may involve adjusting their
+approaches to consider the longer time horizon associated with and how to effectively quantify
+these types of risks.
+Issuers are reminded that there are resources to assist them in making their materiality assessments
+in this area. For example, the SASB Framework found that 72 out of 79 “sustainable industry
+classification” industries are significantly affected in some way by climate change-related risk.
+14 If
+
+14 More information regarding SASB’s ongoing work in this area, including the SASB Framework and SASB’s
+Materiality Map, can be found at https://www.sasb.org/standards-overview/materiality-map/.
+-9-
+appropriate, issuers may consider benchmarking their climate change-related disclosure against
+their peers when determining their materiality assessments.
+Timing
+An issuer should not limit its materiality assessment to near-term risks. If an issuer concludes that
+a climate change-related matter would likely influence or change a reasonable investor’s decision
+whether or not to buy, sell, or hold securities of the issuer, we expect it to be disclosed, even if the
+matter may only crystallize over the medium- or long-term or if there is uncertainty whether it will
+actually occur. The timing of realization of the risk and the uncertainty of it occurring may impact
+the analysis of whether the matter is material but not whether it needs to be considered and analyzed
+as to materiality. Even if the likelihood of the risk occurring diminishes the materiality of the
+matter, issuers should still consider whether it is appropriate to disclose the matter as a risk factor.
+Measurement
+As part of a materiality assessment, issuers should not only consider the existence of material
+climate change-related risks, but also, where practicable, quantify and disclose the potential
+financial and other impact(s) of such risks, including their magnitude and timing.
+In certain instances, securities legislation may require the quantification of these types of risks. For
+example, Item 5.1(1)(k) of Form 51-102F2 requires an issuer to disclose the financial and
+operational effects of environmental protection requirements in the current financial year and the
+expected effect in future years.
+In other cases, issuers should consider how to effectively measure and quantify climate changerelated risks as part of their broader risk assessment process. While acknowledging that the precise
+impacts of climate change-related risks may be difficult to quantify or measure, we are of the view
+that issuers should consider both quantitative and qualitative factors in making their materiality
+assessments and may consider using assumptions and estimates which have a reasonable basis and
+are within a reasonable range. External resources and benchmarking against industry peers may
+also be appropriate in this regard.
+Where to disclose material information about climate change-related risks?
+In general, issuers should disclose material information relating to climate change-related risks in
+an AIF (risk factors relating to the issuer and its business that would be most likely to influence an
+investor’s decision to purchase the issuer’s securities) and MD&A (analysis of the issuer’s
+operations for the most recently completed financial year, including commitments, events, risks, or
+uncertainties that the issuer reasonably believes will materially affect its future performance).
+-10-
+What are potential climate change-related risks and why is their disclosure important?
+Disclosure of climate change-related risks and opportunities provides investors with insights into
+the sustainability of the issuer’s business model.
+Climate change-related risks can generally be grouped into the categories shown in the diagram
+below. The risks and their impact may occur over the short-, medium- or long-term.
+Physical Risks15
+Physical risks resulting from climate change can be event-driven (acute) or longer-term shifts
+(chronic) in climate patterns. Physical risks may have financial implications for organizations, such
+as direct damage to assets and indirect impacts from supply chain disruption. Issuers’ financial
+performance may also be affected by changes in water availability, sourcing, and quality; food
+security; and extreme temperature changes affecting their premises, operations, supply chain,
+transport needs, and employee safety.
+Acute physical risks refer to those that are event-driven, including increased severity of extreme
+weather events, such as cyclones, hurricanes, or floods. Chronic physical risks refer to longer-term
+shifts in climate patterns (e.g., sustained higher temperatures) that may cause sea level rise or
+chronic heat waves.
+
+15 Derived from the TCFD Recommendations.
+Why this
+Guidance?
+Board and
+Management Materiality
+Climte
+Changerelated Risks
+Voluntary
+Disclosure
+Forwardlooking
+Information
+Physical
+Acute
+Chronic
+Transition
+Reputational
+Market
+Regulatory
+Policy
+Legal
+Technology
+Time Horizon
+Short-term
+Long-term
+Climate Change-related Risks
+-11-
+Transition Risks
+16
+Transition risks include reputational, market, regulatory, policy, legal and technology-related risks.
+These risks may have a shorter to longer term impact.
+• Reputational risks arise from changing internal and external stakeholder perceptions related
+to the way that an issuer is viewed as contributing to (or hindering) a transition to a lowcarbon economy.
+• Market risks arise from shifts in supply and demand for certain commodities, products and
+services as climate change-related impacts are increasingly considered in decision making.
+• Regulatory risks arise from increased regulation of climate change-related matters, for
+example increased costs of greenhouse gas (GHG) emissions, enhanced disclosure
+requirements or regulatory action as a result of non-compliance with existing climate
+change-related disclosure requirements.
+• Policy risks arise from policy actions that attempt to constrain actions that contribute to
+climate change or policy actions that seek to promote adaptation to climate change, such as
+carbon-pricing mechanisms, incentives for the adoption of lower emission sources of energy
+and energy-efficient solutions and the promotion of more sustainable land-use practices.
+• Legal risks arise from exposure to legal action resulting from a variety of factors including,
+for example, failure to appropriately address climate change-related risks and insufficient
+disclosure of material risks.
+• Technology risks arise from the introduction of new technology which displaces old systems
+and disrupts some part of the economic system and include the costs associated with
+investing in lower emission technologies and substituting products and services with lower
+emission alternatives.
+Opportunities17
+Efforts to mitigate and adapt to climate change also produce opportunities for issuers. These include
+resource efficiency and cost savings, the enhancement of existing processes or adoption of lowemission energy sources, the development of new products and services, access to new markets,
+and building resilience along the supply chain.
+
+16 Derived from SN 51-333 and the TCFD Recommendations.
+17 Derived from the TCFD Recommendations.
+-12-
+How can climate change-related risks affect an issuer’s business?
+The climate change-related risks that an issuer is exposed to may have a variety of financial impacts
+on its business.
+The following chart, while not an exhaustive list, outlines some categories of risks that may be
+associated with climate change and gives examples of risks that may fit into each category18 and
+the potential financial impacts on an issuer’s business of those risks. We encourage issuers to
+carefully consider whether other climate change-related risks may apply in their particular
+circumstances and the impacts of those risks on their business.
+
+18 In developing examples of climate change-related risks, we have referred to SN 51-333, SN 51-354, and a variety
+of international initiatives including the TCFD Recommendations, the SASB Framework, survey results published by
+the Carbon Disclosure Project and the Global Standards for Sustainability Reporting published by the Global
+Reporting Initiative.
+-13-
+Risks
+Physical Risks
+• Acute
+• Chronic
+Transition Risks
+• Reputational
+• Market
+• Regulatory
+• Policy
+• Legal
+• Technology
+Potential Impacts on
+Operations and Business
+Impacts of Physical Risks
+• damage to assets
+• supply chain and operational
+disruptions
+• availability and quality of water
+• availability of insurance and
+financing
+Impacts of Transition Risks
+• increased costs in a variety of
+areas, including GHG emissions
+• restrictions on licenses
+• increased regulation and
+litigation
+• shifts in customer perceptions
+and preferences
+• stigmatization of the issuer's
+market sector or industry
+• increased shareholder concern or
+negative shareholder feedback
+Potential Financial Impacts
+Balance Sheet
+Assets
+valuation/impairment
+stranded assets
+Liabilities
+contingent liabilities
+legal claims
+regulatory sanctions or penalties
+reclamation liabilities
+Income Statement
+Decreased revenue due to:
+decreased demand
+regulatory restrictions
+supply chain and operational
+interruptions
+Increased expenses due to:
+higher costs (water, energy,
+insurance, cost of capital, capital
+expenditures)
+legal claims, penalties, fin
+regulatory costs (carbon tax)
+Climate Change-related Risks and Potential Risks
+-14-
+Questions for management in assessing the materiality of climate change-related risks and
+impacts
+In assessing the materiality of climate change-related risks, an issuer’s management should
+consider the above-noted categories of risk as well as any other categories of risk that may be
+applicable to the issuer’s specific business or industry sector. Below are select questions for
+management to consider when assessing the extent to which applicable categories of climate
+change-related risks affect their issuer.
+Select Questions for Climate Change-Related Risk Assessments
+19
+Physical Risk
+• What is the issuer's exposure to the potential effects of extreme weather events?
+• How does the issuer ensure the reliability and resilience of its networks and services to
+the impact of severe weather events?
+• What is the exposure of the issuer's properties to risks, such as flooding or fires?
+• What are the major risks associated with the issuer's water use, particularly in water
+stressed regions?
+• What is the issuer's exposure to supply chain disruption climate change-related risks?
+Transition Risk
+• What is the issuer's exposure to emissions-limiting regulations? How does the
+geography of the issuer's operations factor into this analysis?
+• How does the issuer incorporate emissions regulations and climate change
+considerations into its asset valuations?
+• How does pricing and demand for the issuer’s product/services and/or climate change
+regulation impact capital expenditure strategy for exploration and development of
+assets?
+• What are the issuer's largest risks associated with environmental compliance, disposal
+and recycling costs, increased capex requirements, etc.?
+• How does the issuer limit and manage risks associated with air emissions of pollutants
+in or near areas of dense population?
+
+19 In developing examples of questions management should ask themselves when assessing climate change-related
+risks, we have referred to the TCFD Recommendations.
+-15-
+• What water quality permits, standards, and regulations apply to the issuer? How does
+the issuer work to maintain compliance with these requirements?
+• How is the issuer managing energy consumption and related price and supply risks?
+Voluntary disclosure
+In addition to the disclosure required by securities legislation, issuers may choose to voluntarily
+disclose climate change-related information in their continuous disclosure or in other publications
+such as sustainability reports, survey responses, corporate citizenship reports, carbon disclosure
+surveys and information published on an issuer’s website and social media posts. If issuers provide
+such voluntary disclosure, there may be certain additional requirements and factors to consider.
+Voluntary disclosure can provide useful information to investors outside of issuers’ regulatory
+filings and should be prepared with the same rigour as the issuer’s regulatory filings. Issuers should
+consider the following:
+• Material information in regulatory filings – Material information required to be disclosed
+under securities legislation must be disclosed in regulatory filings. It is not sufficient for
+this information to be contained only in voluntary disclosure. Boards and management
+should ensure that the materiality of information contained in any voluntary disclosure is
+assessed and, if the information is material, it must be disclosed in the issuer’s regulatory
+filings. In addition, voluntary disclosure should be consistent with the information included
+in continuous disclosure filings.
+• No misrepresentations – Voluntary disclosure should not contain any misrepresentations.
+Voluntary disclosure may also be subject to the provisions in securities legislation
+regarding civil liability for secondary market disclosure. Boards and management should
+have a robust process for reviewing voluntary disclosure prior to its public release to ensure
+that the information is reliable and accurate.
+• Obscuring of material information – Voluntary disclosure should not obscure material
+information.
+Why this
+Guidance?
+Board and
+Management Materiality
+Climte
+Changerelated Risks
+Voluntary
+Disclosure
+Forwardlooking
+Information
+-16-
+Forward-looking information
+Issuers may choose to include certain forward-looking information (FLI) in their continuous
+disclosure or in voluntary disclosure. FLI related to climate change could include, for example, a
+target to reduce GHG emissions or disclosure of an issuer’s assessment of the potential business
+implications of climate change-related risks and opportunities under various scenarios.
+If an issuer discloses FLI, they must comply with the requirements set out in Part 4A, Part 4B and
+section 5.8 of NI 51-102. Those requirements include:
+• identifying the information as FLI,
+• providing cautionary language,
+• stating the material factors or assumptions used to develop the FLI, and
+• updating certain previously disclosed FLI and describing the issuer’s policy for updating
+FLI.
+Guidance on those requirements can be found in Part 4A of Companion Policy 51-102CP
+Continuous Disclosure Obligations and CSA Staff Notice 51-330 Guidance Regarding the
+Application of Forward-Looking Information Requirements under NI 51-102 Continuous
+Disclosure Obligations.
+The FLI requirements do not relieve issuers from disclosing material climate change-related risks
+even if they are expected to occur or crystallize over a longer time frame.
+Conclusion
+This notice is intended solely as an educational tool for issuers to support their compliance with
+their existing obligation to disclose material climate change-related risks. Investors, particularly
+institutional investors, are increasingly seeking entity-specific information regarding these risks.
+When issuers disclose better risk information, issuers and investors can better assess climate
+change-related risk and investors can make better informed decisions.
+We will continue to monitor disclosure of climate change-related matters as part of our ongoing
+continuous disclosure review program.
+Why this
+Guidance?
+Board and
+Management Materiality
+Climte
+Changerelated Risks
+Voluntary
+Disclosure
+Forwardlooking
+Information

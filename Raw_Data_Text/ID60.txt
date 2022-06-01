@@ -1,0 +1,494 @@
+The Companies (Miscellaneous Reporting) Regulations 2018
+
+PART 3
+Amendments to the Large and Medium-sized Companies and Groups (Accounts and Reports) Regulations 2008
+7.  The Large and Medium-sized Companies and Groups (Accounts and Reports) Regulations 2008(6) are amended in accordance with regulations 8 to 19.
+
+Amendment of regulation 10
+8.  In paragraph (2) of regulation 10 (directors’ report)—
+
+(a)for “Part 4 relates to the involvement of employees in the affairs, policy and performance of the company” substitute—“Part 4 relates to the engagement by the company with employees, suppliers, customers and others”,
+(b)after “publicly traded companies” omit “and”,
+(c)after “emissions” insert—“, andPart 8 relates to the statement of corporate governance arrangements.”
+Amendment of regulation 14
+9.—(1) Regulation 14 (review) is amended as follows.
+
+(2) In paragraph (1), for sub-paragraph (a) substitute—
+
+“(a)carry out a review, respectively, of the provisions of these Regulations to which amendments have been made by—
+(i)Part 6 of the Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (“the 2016 Regulations”), and
+(ii)Part 3 of the Companies (Miscellaneous Reporting) Regulations 2018, and”.
+(3) In paragraph (1)(b)—
+
+(a)for “the review” substitute “each review”, and
+(b)before “report” insert “separate”.
+(4) In paragraph (3) after “review” insert “under paragraph (1)(a)(i)”.
+
+(5) In paragraph (4) for “this regulation” substitute “paragraph (1)(a)(i)”.
+
+(6) After paragraph (4), insert—
+
+“(4A) The first report under paragraph (1)(a)(ii) must be published before the end of the period of 5 years beginning with the date on which Part 3 of the Companies (Miscellaneous Reporting) Regulations 2018 comes into force.”
+
+(7) In paragraph (5) for “this regulation” substitute “paragraphs (1)(a)(i) and (ii) respectively”.
+
+Amendment of Schedule 5
+10.—(1) Schedule 5 (information about benefits of directors) is amended as follows.
+
+(2) For paragraph 13(1) substitute—
+
+“13.—(1) In this Schedule—
+
+“pension scheme” means a retirement benefits scheme within the meaning given by section 150(1) of the Finance Act 2004(7) which is—
+(a)one in which the company participates, or
+(b)one to which the company paid a contribution during the financial year; and
+“retirement benefits” means relevant benefits within the meaning given by section 393B of the Income Tax (Earnings and Pensions) Act 2003(8) read as if subsection (2) were omitted.”
+Amendment of Schedule 7
+11.  Schedule 7 (matters to be dealt with in directors’ report) is amended in accordance with regulations 12 to 14.
+
+12.  In paragraph 10—
+
+(a)in sub-paragraph (1), omit “in each week”, and
+(b)for sub-paragraph (2), substitute—
+“(2) The average number of persons employed by the company in the year is determined as follows—
+
+(a)find for each month in the financial year the number of persons employed under contracts of service by the company in that month (whether throughout the month or not),
+(b)add together the monthly totals, and
+(c)divide by the number of months in the financial year.”
+13.  For Part 4 (employee involvement) substitute—
+
+“PART 4
+Engagement with employees, suppliers, customers and others
+Engagement with employees
+11.—(1) Unless the company is exempted under paragraph 11A, the directors’ report for a financial year must contain a statement—
+
+(a)describing the action that has been taken during the financial year to introduce, maintain or develop arrangements aimed at—
+(i)providing employees systematically with information on matters of concern to them as employees,
+(ii)consulting employees or their representatives on a regular basis so that the views of employees can be taken into account in making decisions which are likely to affect their interests,
+(iii)encouraging the involvement of employees in the company’s performance through an employees’ share scheme or by some other means, and
+(iv)achieving a common awareness on the part of all employees of the financial and economic factors affecting the performance of the company, and
+(b)summarising—
+(i)how the directors have engaged with employees, and
+(ii)how the directors have had regard to employee interests, and the effect of that regard, including on the principal decisions taken by the company during the financial year.
+(2) Nothing in sub-paragraph (1)(b) requires the disclosure of information about impending developments or matters in the course of negotiation if the disclosure would, in the opinion of the directors, be seriously prejudicial to the interests of the company.
+
+(3) In sub-paragraph (1) “employee” does not include a person employed to work wholly or mainly outside the United Kingdom.
+
+11A.—(1) A company is exempted under this paragraph—
+
+(a)in relation to its first financial year if the qualifying condition is met in that year;
+(b)in relation to a subsequent financial year—
+(i)if the qualifying condition is met in that year and was also met in relation to the preceding financial year;
+(ii)if—
+(aa)the qualifying condition is met in that year, and
+(bb)the company was exempted in relation to the preceding financial year, or
+(iii)if—
+(aa)the qualifying condition was met in the preceding financial year, and
+(bb)the company was exempted in relation to the preceding financial year.
+(2) The qualifying condition is met by a company in a year in which the average number of persons employed by the company during the financial year is not more than 250.
+
+(3) The average number of persons employed by the company in the year is determined as follows—
+
+(a)find for each month in the financial year the number of persons employed under contracts of service by the company in that month (whether throughout the month or not),
+(b)add together the monthly totals, and
+(c)divide by the number of months in the financial year.
+(4) Where the company is a parent company the average number of persons employed by the company refers to the number within the group.
+
+(5) In this paragraph no regard is to be had to a person employed to work wholly or mainly outside the United Kingdom.
+
+Engagement with suppliers, customers and others in a business relationship with the company
+11B.—(1) Unless the company is exempted under paragraph 11C, the directors’ report for the financial year must contain a statement summarising how the directors have had regard to the need to foster the company’s business relationships with suppliers, customers and others, and the effect of that regard, including on the principal decisions taken by the company during the financial year.
+
+(2) Nothing in sub-paragraph (1) requires the disclosure of information about impending developments or matters in the course of negotiation if the disclosure would, in the opinion of the directors, be seriously prejudicial to the interests of the company.
+
+11C.—(1) A company is exempted under this paragraph—
+
+(a)in relation to its first financial year if the qualifying conditions are met in that year;
+(b)in relation to a subsequent financial year—
+(i)if the qualifying conditions are met in that year and were also met in relation to the preceding financial year;
+(ii)if—
+(aa)the qualifying conditions are met in that year, and
+(bb)the company was exempted in relation to the preceding financial year, or
+(iii)if—
+(aa)the qualifying conditions were met in the preceding financial year, and
+(bb)the company was exempted in relation to the preceding financial year.
+(2) The qualifying conditions are met by a company in a year in which it satisfies two or more of the following requirements—
+
+1	Turnover	not more than £36 million
+2	Balance sheet total	not more than £18 million
+3	Number of employees	not more than 250
+(3) In sub-paragraph (2)—
+
+(a)for a period that is a company’s financial year but is not in fact a year the figure for turnover must be proportionately adjusted,
+(b)the balance sheet total means the aggregate of the amounts shown as assets in the company’s balance sheet,
+(c)the number of employees means the average number of persons employed by the company in the year, determined as follows—
+(i)find for each month in the financial year the number of persons employed under contracts of service by the company in that month (whether throughout the month or not),
+(ii)add together the monthly totals, and
+(iii)divide by the number of months in the financial year.”
+14.  After Part 7 (disclosures concerning greenhouse gas emissions) insert—
+
+“PART 8
+Statement of corporate governance arrangements
+21.  This Part of this Schedule applies to the directors’ report for a financial year unless the company is exempted under paragraph 22.
+
+22.  A company is exempted under this paragraph if—
+
+(a)it is required to provide a corporate governance statement(9),
+(b)it is a community interest company within the meaning of section 26 of the Companies (Audit, Investigations and Community Enterprise) Act 2004(10), or
+(c)it is a charitable company within the meaning of section 193 of the Charities Act 2011(11).
+23.—(1) The directors’ report for a company’s first financial year must include a statement of its corporate governance arrangements in accordance with paragraph 26 if the qualifying conditions are met in that year.
+
+(2) In relation to any subsequent financial year, the directors’ report must include a statement of the company’s corporate governance arrangements—
+
+(a)if the qualifying conditions are met in that year and were also met in relation to the preceding financial year;
+(b)if—
+(i)the qualifying conditions are met in that year, and
+(ii)the directors’ report was required to provide a statement of the company’s corporate governance arrangements in relation to the preceding financial year, or
+(c)if—
+(i)the qualifying conditions were met in the preceding financial year, and
+(ii)the directors’ report was required to provide a statement of the company’s corporate governance arrangements in relation to the preceding financial year.
+(3) The qualifying conditions are met by a company in a year in which it satisfies either or both of the following requirements—
+
+(a)it has more than 2000 employees;
+(b)it has—
+(i)a turnover of more than £200 million, and
+(ii)a balance sheet total of more than £2 billion.
+24.  In paragraph 23(3)—
+
+(a)for a period that is a company’s financial year but is not in fact a year, the figure for turnover must be proportionately adjusted,
+(b)the balance sheet total means the aggregate of the amounts shown as assets in the company’s balance sheet, and
+(c)the number of employees means the average number of persons employed by the company in the year, determined as follows—
+(i)find for each month in the financial year the number of persons employed under contracts of service by the company in that month (whether throughout the month or not),
+(ii)add together the monthly totals, and
+(iii)divide by the number of months in the financial year.
+25.  In this Part—
+
+“corporate governance”, in relation to a company, means—
+(a)the nature, constitution or functions of the organs of the company,
+(b)the manner in which organs of the company conduct themselves,
+(c)the requirements imposed on organs of the company,
+(d)the relationship between different organs of the company, and
+(e)the relationship between the organs of the company and the members of the company, and
+“corporate governance code” means a code of practice on corporate governance.
+26.—(1) The directors’ report must include a statement (a “statement of corporate governance arrangements”) which states—
+
+(a)which corporate governance code, if any, the company applied in the financial year,
+(b)how the company applied any corporate governance code reported under sub-paragraph (a), and
+(c)if the company departed from any corporate governance code reported under sub-paragraph (a), the respects in which it did so, and its reasons for so departing.
+(2) If the company has not applied any corporate governance code for the financial year, the statement of corporate governance arrangements must explain the reasons for that decision, and explain what arrangements for corporate governance were applied for that year.
+
+27.—(1) This paragraph applies if—
+
+(a)a company is required by this Part to include a statement of corporate governance arrangements in its directors’ report for a financial year, and
+(b)the company is an unquoted company in relation to that financial year.
+(2) The company must ensure that the statement of corporate governance arrangements—
+
+(a)is made available on a website, and
+(b)remains so available until—
+(i)the statement of corporate governance arrangements for the company’s next financial year is made available in accordance with this paragraph, or
+(ii)if the obligation under this paragraph to make a statement of corporate governance arrangements available does not arise in relation to the company’s next financial year, the end of the company’s next financial year.
+(3) Sub-paragraph (2) applies whether a company’s statement of corporate governance arrangements is located in the directors’ report, or in the strategic report as permitted by section 414C(11) of the 2006 Act.
+
+(4) The statement of corporate governance arrangements must be made available on a website that—
+
+(a)is maintained by or on behalf of the company, and
+(b)identifies the company in question.
+(5) Access to the statement of corporate governance arrangements made available on the website under sub-paragraph (2), and the ability to obtain a hard copy of the statement from the website, must not be—
+
+(a)conditional on the payment of a fee, or
+(b)otherwise restricted, except so far as necessary to comply with any enactment or regulatory requirement (in the United Kingdom or elsewhere).
+(6) The statement of corporate governance arrangements—
+
+(a)must be made available on a website as soon as reasonably practicable, and
+(b)must be kept available throughout the period specified in sub-paragraph (2)(b)(i) or (as the case may be) (ii).
+(7) A failure to make the statement of corporate governance arrangements available on a website throughout the period specified in sub-paragraph (2)(b)(i) or (as the case may be) (ii) is disregarded if—
+
+(a)the statement is made available on the website for part of that period, and
+(b)the failure is wholly attributable to circumstances that it would not be reasonable to have expected the company to prevent or avoid.
+(8) In the event of default in complying with this paragraph, an offence is committed by every officer of the company who is in default.
+
+(9) A person guilty of an offence under sub-paragraph (8) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.”
+
+Amendment of Schedule 8
+15.  Schedule 8 (quoted companies: directors’ remuneration report) is amended in accordance with regulations 16 to 19.
+
+16.  In Part 2 (annual statement)(12), after paragraph 3(a) insert—
+
+“(aa)any discretion which has been exercised in the award of directors’ remuneration; ”.
+17.  In Part 3 (annual report on remuneration)—
+
+(a)In paragraph 12 (additional requirements in respect of the single total figure table)—
+(i)after sub-paragraph (3)(c) insert—
+“(ca)the amount of the award or, where this is not ascertainable, an estimate of the amount of the award, that is attributable to share price appreciation;”, and
+(ii)in sub-paragraph (3)(d) for “and how the resulting level of award was determined” substitute “, how the resulting level of award was determined and whether the discretion has been exercised as a result of share price appreciation or depreciation.”;
+(b)After paragraph 19 insert—
+“Pay ratio information in relation to the total remuneration of the director undertaking the role of chief executive officer
+19A.—(1) If paragraph 19B applies to the company for the relevant financial year the directors’ remuneration report must contain pay ratio information specified in paragraphs 19C to 19G.
+
+(2) Where the company is a parent company, the pay ratio information must relate to the group and not the company, and references in paragraphs 19C, 19D and 19G to the company’s UK employees should be read as references to the UK employees of all the companies within the group.
+
+Requirement to provide pay ratio information
+19B.—(1) This paragraph applies to a company—
+
+(a)in relation to its first financial year if the qualifying condition is met in that year;
+(b)in relation to a subsequent financial year—
+(i)if the qualifying condition is met in that year and was also met in relation to the preceding financial year,
+(ii)if—
+(aa)the qualifying condition is met in that year, and
+(bb)the paragraph applied to the company in the preceding financial year, or
+(iii)if—
+(aa)the qualifying condition was met in the preceding financial year, and
+(bb)the paragraph applied to the company in the preceding financial year.
+(2) The qualifying condition is met by a company in a year in which the average number of UK employees of the company is more than 250.
+
+(3) The average number of UK employees of the company is determined as follows—
+
+(a)find for each month in the financial year the number of UK employees in that month (whether employed throughout the month or not),
+(b)add together the monthly totals, and
+(c)divide by the number of months in the financial year.
+(4) Where the company is a parent company the average number of UK employees refers to the number of UK employees within the group.
+
+Pay ratios table
+19C.—(1) The directors’ remuneration report must set out in the form of the table in sub-paragraph (2) (“pay ratios table”) the following information for the relevant financial year—
+
+(a)in the first column, the year in which that financial year ends,
+(b)in the second column, the method set out in paragraph 19D used by the company to determine Y25, Y50 and Y75, and
+(c)in subsequent columns, the specified ratios (“pay ratios”).
+(2) The form of the pay ratios table is—
+
+Pay ratios table
+Year	Method	25th percentile pay ratio	Median pay ratio	75th percentile pay ratio
+[year]	[Option A, B or C]	(X/Y25):1	(X/Y50):1	(X/Y75):1
+Where—X is the remuneration of the director undertaking the role of chief executive officer (“CEO”), using the total for the CEO in the single total figure table. Where more than one person has undertaken the role of CEO in the relevant financial year, X means the total remuneration in the single total figure table paid to persons in relation to the period those persons were undertaking the role of CEO in the relevant financial year;Y25 is the pay and benefits figure relating to P25;Y50 is the pay and benefits figure relating to P50;Y75 is the pay and benefits figure relating to P75.
+(3) In this paragraph and paragraphs 19D to 19G—
+
+“P25” is a UK employee whose pay and benefits are on the 25th percentile of pay and benefits of the company’s UK employees for the relevant financial year;“P50” is a UK employee whose pay and benefits are on the 50th percentile of pay and benefits of the company’s UK employees for the relevant financial year;“P75” is a UK employee whose pay and benefits are on the 75th percentile of pay and benefits of the company’s UK employees for the relevant financial year;“pay and benefits” of a UK employee means the employee’s full-time equivalent pay and benefits, calculating the applicable components in paragraph 7(1)(a) to (e) by reference to paragraph 10, save that in paragraph 7(1)(a) “salary” means “wages and salary”.
+(4) If the relevant financial year is not the first financial year in which the requirement in sub-paragraph (1) applied to the company, the pay ratios table must also show, in separate rows, information for earlier financial years in accordance with sub-paragraphs (5) and (6).
+
+(5) The earlier financial years for which information must be shown under sub-paragraph (4) are—
+
+(a)the first financial year in which the requirement in sub-paragraph (1) applied to the company and every subsequent financial year before the relevant financial year, or
+(b)if the application of paragraph (a) would require the company to show information in respect of more than nine earlier financial years, the nine financial years immediately preceding the relevant financial year.
+(6) The information required to be shown by sub-paragraph (4) is—
+
+(a)for a financial year in which the requirement in sub-paragraph (1) applied to the company, the information that was required by that sub-paragraph to be included in the pay ratios table in respect of that financial year;
+(b)for a financial year in which that requirement did not apply, the year of that financial year and the statement “The company was exempt from reporting pay ratios for this financial year”.
+Pay ratios methods
+19D.—(1) The company must choose one of the methods set out in sub-paragraph (2) to determine the Y25, Y50 and Y75 figures to use in the pay ratios for the relevant financial year, but for a subsequent financial year may choose to use a different one of those methods.
+
+(2) The methods for determining Y25, Y50 and Y75 are—
+
+(a)“Option A” set out in sub-paragraph (3),
+(b)“Option B” set out in sub-paragraph (4), or
+(c)“Option C” set out in sub-paragraph (5).
+(3) Under Option A the company must calculate the pay and benefits of all its UK employees for the relevant financial year in order to identify P25, P50 and P75, and use the pay and benefits figures for those UK employees as Y25, Y50 and Y75.
+
+(4) Under Option B the company must determine Y25, Y50 and Y75 as follows—
+
+(a)as a starting point, use the most recent hourly rate gender pay gap information for all UK employees of the company to identify three UK employees as the best equivalents of P25, P50 and P75,
+(b)use available data for the relevant financial year for the best equivalents to calculate the pay and benefits figures for each for the relevant financial year, and
+(c)make any necessary adjustment to the pay and benefit figures to ensure that the best equivalents are reasonably representative of P25, P50 and P75 for the relevant financial year.
+(5) Under Option C the company may determine Y25, Y50 and Y75 as follows—
+
+(a)as a starting point, use data other than, or in addition to, gender pay gap information to identify three UK employees as the best equivalents of P25, P50 and P75, and in so doing—
+(i)the company must not use data that relates to any year prior to the preceding financial year, and
+(ii)if the company has gender pay gap information available, it must not use data that is less up to date than the gender pay gap information,
+(b)use available data for the relevant financial year for the best equivalents to calculate the pay and benefits for each in relation to the relevant financial year, and
+(c)make any necessary adjustment to the pay and benefit figures to ensure that the best equivalents are reasonably representative of P25, P50 and P75 for the relevant financial year.
+(6) When using any of the options, the company may—
+
+(a)determine Y25, Y50 and Y75 with reference to a day no earlier than three months before the last day of the relevant financial year, using a projected calculation of the salary component of pay and benefits;
+(b)omit any component other than salary from pay and benefits to determine Y25, Y50 and Y75, provided the company includes in its report a statement required by paragraph 19E(f);
+(c)calculate any component of pay and benefits, other than salary, using a different methodology than that set out in paragraph 10 to determine Y25, Y50 and Y75, provided the company includes in its report a statement required by paragraph 19E(g).
+(7) When using Option B or C, if the company does not have the data available for any component of pay and benefits corresponding to paragraph 7(1)(b) to (e), the company may use a reasonable estimate of that component to determine Y25, Y50 and Y75.
+
+(8) In this paragraph gender pay gap information means the most recent data collected in accordance with the Equality Act 2010 (Gender Pay Gap Information) Regulations 2017(13).
+
+Additional requirements in respect of the pay ratios table
+19E.  The directors’ remuneration report must set out the following information after the pay ratios table—
+
+(a)an explanation of why the company chose Option A, B or C as the preferred method for calculating the pay ratio for the relevant financial year,
+(b)if the company was required to report pay ratio information in the preceding financial year, and the company then used a different option to determine Y25, Y50 and Y75, an explanation for the change,
+(c)the day by reference to which the company determined Y25, Y50 and Y75,
+(d)where the company has used Option B—
+(i)a brief explanation of how the best equivalents are reasonably representative of P25, P50 and P75, and
+(ii)whether, and if so how, it has relied on the use of estimates or adjustments,
+(e)where the company has used Option C—
+(i)the methodology used for estimating the best equivalents, describing any estimates, adjustments, or material assumptions, and
+(ii)a brief explanation of how the best equivalents are reasonably representative of P25, P50 and P75,
+(f)where the company has omitted any component from pay and benefits in reliance on paragraph 19D(6)(b), the component omitted and the reason for the omission, and if the company omitted any component in the previous financial year, whether the company has continued to omit that component,
+(g)where the company has used a different methodology from that set out in paragraph 10 to calculate a component of pay and benefits, a description of the different methodology and why the methodology in paragraph 10 was not used,
+(h)a brief explanation of any assumptions or statistical modelling used to determine full-time equivalent remuneration.
+19F.  The directors’ remuneration report must set out the following figures for each of Y25, Y50, and Y75 after the information required by paragraph 19E—
+
+(a)total pay and benefits, and
+(b)the salary component of total pay and benefits.
+19G.  The directors’ remuneration report must set out a summary for the relevant financial year after the information required by paragraph 19F, explaining—
+
+(a)any reduction or increase in the relevant financial year’s pay ratios compared to the pay ratios of the preceding financial year (if the company recorded pay ratio information for that financial year),
+(b)whether a reduction or an increase in a pay ratio is attributable to a change in—
+(i)the remuneration of the CEO, or the pay and benefits of the company’s UK employees taken as a whole;
+(ii)the company’s employment models (including any increase in the proportion of the company’s employees employed to work wholly or mainly outside the UK, and any increase in the proportion of the company’s workforce that is not employed by the company under contracts of service);
+(iii)the use of a different option to calculate Y25, Y50 and Y75,
+(c)any trend in the median pay ratio over the period of financial years covered by the pay ratios table, and
+(d)whether, and if so why, the company believes the median pay ratio for the relevant financial year is consistent with the pay, reward and progression policies for the company’s UK employees taken as a whole.”
+18.  In Part 4 (directors’ remuneration policy), after paragraph 35 insert—
+
+“35A.  The directors’ remuneration report must, in respect of each person who is a director (other than a director who is not performing an executive function)—
+
+(a)set out for performance targets or measures relating to more than one financial year, an indication of the maximum remuneration receivable assuming company share price appreciation of 50% during the relevant performance period, and
+(b)provide a short description of the basis of the calculation reported under sub-paragraph (a).”
+19.  In Part 7 (interpretation and supplementary), paragraph 44(1), insert at the appropriate place—
+
+““UK employee” means a person employed under a contract of service by the company, other than a person employed to work wholly or mainly outside the United Kingdom;”
+PART 4
+Amendments to the Community Interest Companies Regulations 2005
+20.  The Community Interest Company Regulations 2005(14) are amended in accordance with regulations 21 to 23.
+
+Amendment of regulation 2
+21.  In regulation 2 insert at the appropriate place—
+
+““quoted company” has the meaning given by section 385 of the 2006 Act;”.
+Amendment of regulation 26
+22.  In regulation 26 (general - community interest company report)—
+
+(a)in paragraph (1) for sub-paragraph (c) substitute—
+“(c)directors’ remuneration information.”, and
+(b)after paragraph (1) insert—
+“(1A) In paragraph (1)(c) “directors’ remuneration information” means—
+
+(a)in the case of a company to which the Small Companies and Groups (Accounts and Directors’ Report) Regulations 2008(15) apply, the information specified in Schedule 4A to these Regulations;
+(b)in the case of a company to which the Large and Medium-sized Companies and Groups (Accounts and Reports) Regulations 2008 apply, the information specified in Schedule 5 to those Regulations, save that the information specified in Part 2 of that Schedule need only be given in the case of a company which is not a quoted company.”
+Amendment to Schedules
+23.  After Schedule 4, insert Schedule 4A as set out in the Schedule to these Regulations.
+
+SCHEDULE 4A
+INFORMATION ABOUT DIRECTORS’ BENEFITS
+PART 1
+INFORMATION REQUIRED TO BE DISCLOSED
+Total amount of directors’ remuneration etc.
+1.—(1) There must be shown the overall total of the following amounts—
+
+(a)the amount of remuneration paid to or receivable by directors in respect of qualifying services,
+(b)the amount of money paid to or receivable by directors, and the net value of assets (other than money, share options or shares) received or receivable by directors, under long term incentive schemes in respect of qualifying services, and
+(c)the value of any company contributions—
+(i)paid, or treated as paid, to a pension scheme in respect of directors’ qualifying services, and
+(ii)by reference to which the rate or amount of any money purchase benefits that may become payable will be calculated.
+(2) There must be shown the number of directors (if any) to whom retirement benefits are accruing in respect of qualifying services—
+
+(a)under money purchase schemes, and
+(b)under defined benefit schemes.
+Payments for loss of office
+2.—(1) There must be shown the aggregate amount of any payments for loss of office.
+
+(2) “Payment for loss of office” has the same meaning as in section 215 of the 2006 Act.
+
+Sums paid to third parties in respect of directors’ services
+3.—(1) There must be shown the aggregate amount of any consideration paid to or receivable by third parties for making available the services of any person—
+
+(a)as a director of the company, or
+(b)while director of the company—
+(i)as director of any of its subsidiary undertakings, or
+(ii)otherwise in connection with the management of the affairs of the company or any of its subsidiary undertakings.
+(2) In sub-paragraph (1)—
+
+(a)the reference to consideration includes benefits otherwise than in cash, and
+(b)in relation to such consideration the reference to its amount is to the estimated money value of the benefit.
+The nature of any such consideration must be disclosed.
+
+(3) For the purposes of this paragraph a “third party” means a person other than—
+
+(a)the director, a person connected with the director, or body corporate controlled by the director, or
+(b)the company or any of its subsidiary undertakings.
+PART 2
+SUPPLEMENTARY PROVISIONS
+General nature of obligations
+4.—(1) This Schedule requires information to be given only so far as it is contained in the company’s books and papers or the company has the right to obtain it from the persons concerned.
+
+(2) For the purposes of this Schedule information is treated as shown if it is capable of being readily ascertained from other information which is shown.
+
+Provisions as to amounts to be shown
+5.—(1) The following provisions apply with respect to the amounts to be shown under this Schedule.
+
+(2) The amount in each case includes all relevant sums, whether paid by or receivable from the company, any of the company’s subsidiary undertakings or any other person.
+
+(3) References to amounts paid to or receivable by a person include amounts paid to or receivable by a person connected with that person or a body corporate controlled by the person (but not so as to require an amount to be counted twice).
+
+(4) Except as otherwise provided, the amounts to be shown for any financial year are—
+
+(a)the sums receivable in respect of that year (whenever paid), or
+(b)in the case of sums not receivable in respect of a period, the sums paid during that year.
+(5) Sums paid by way of expenses allowance that are charged to United Kingdom income tax after the end of the relevant financial year must be shown in a note to the first accounts in which it is practicable to show them and must be distinguished from the amounts to be shown apart from this provision.
+
+(6) Where it is necessary to do so for the purpose of making any distinction required in complying with this Schedule, the directors may apportion payments between the matters in respect of which they have been paid or are receivable in such manner as they think appropriate.
+
+Exclusion of sums liable to be accounted for to company etc.
+6.—(1) The amounts to be shown under this Schedule do not include any sums that are to be accounted for—
+
+(a)to the company or any of its subsidiary undertakings, or
+(b)by virtue of sections 219 and 222(3) of the 2006 Act (payments in connection with share transfers: duty to account), to persons who sold their shares as a result of the offer made.
+(2) Where—
+
+(a)any such sums are not shown in a note to the accounts for the relevant financial year on the ground that the person receiving them is liable to account for them, and
+(b)the liability is afterwards wholly or partly released or is not enforced within a period of two years,
+those sums, to the extent to which the liability is released or not enforced, must be shown in a note to the first accounts in which it is practicable to show them and must be distinguished from the amounts to be shown apart from this provision.
+
+Meaning of “remuneration”
+7.—(1) In this Schedule “remuneration” of a director includes—
+
+(a)salary, fees and bonuses, sums paid by way of expenses allowance (so far as they are chargeable to United Kingdom income tax), and
+(b)subject to sub-paragraph (2), the estimated money value of any other benefits received by the director otherwise than in cash.
+(2) The expression “remuneration” does not include—
+
+(a)the value of any share options granted to a director or the amount of any gains made on the exercise of any such options,
+(b)any company contributions paid, or treated as paid, in respect of the director under any pension scheme or any benefits to which the director is entitled under any such scheme, or
+(c)any money or other assets paid to or received or receivable by the director under any long term incentive scheme.
+Meaning of “long term incentive scheme”
+8.—(1) In this Schedule “long term incentive scheme” means an agreement or arrangement—
+
+(a)under which money or other assets may become receivable by a director, and
+(b)which includes one or more qualifying conditions with respect to service or performance which cannot be fulfilled within a single financial year.
+(2) For this purpose the following must be disregarded—
+
+(a)bonuses the amount of which falls to be determined by reference to service or performance within a single financial year,
+(b)compensation for loss of office, payments for breach of contract and other termination payments, and
+(c)retirement benefits.
+Meaning of “shares” and “share option” and related expressions
+9.  In this Schedule—
+
+(a)“shares” means shares (whether allotted or not) in the company, or any undertaking which is a group undertaking in relation to the company, and includes a share warrant as defined by section 779(1) of the 2006 Act, and
+(b)“share option” means a right to acquire shares.
+Meaning of “pension scheme” and related expressions
+10.—(1) In this Schedule—
+
+“pension scheme” means a retirement benefits scheme within the meaning given by section 150(1) of the Finance Act 2004 which is—
+(a)one in which the company participates, or
+(b)one to which the company paid a contribution during the financial year, and
+“retirement benefits” means relevant benefits within the meaning given by section 393B of the Income Tax (Earnings and Pensions) Act 2003 read as if subsection (2) were omitted.
+(2) In this Schedule, “company contributions”, in relation to a pension scheme and a director, means any payments (including insurance premiums) made, or treated as made, to the scheme in respect of the director by a person other than the director.
+
+(3) In this Schedule, in relation to a director—
+
+“defined benefits” means retirement benefits payable under a pension scheme that are not money purchase benefits,“defined benefit scheme” means a pension scheme that is not a money purchase scheme,“money purchase benefits” means retirement benefits payable under a pension scheme the rate or amount of which is calculated by reference to payments made, or treated as made, by the director or by any other person in respect of the director and which are not average salary benefits, and“money purchase scheme” means a pension scheme under which all of the benefits that may become payable to or in respect of the director are money purchase benefits.
+(4) Where a pension scheme provides for any benefits that may become payable to or in respect of any director to be whichever are the greater of—
+
+(a)money purchase benefits as determined by or under the scheme, and
+(b)defined benefits as so determined,
+the company may assume for the purposes of this paragraph that those benefits will be money purchase benefits, or defined benefits, according to whichever appears more likely at the end of the financial year.
+
+(5) For the purpose of determining whether a pension scheme is a money purchase or defined benefit scheme, any death in service benefits provided for by the scheme are to be disregarded.
+
+References to subsidiary undertakings
+11.—(1) Any reference in this Schedule to a subsidiary undertaking of the company, in relation to a person who is or was, while a director of the company, a director also, by virtue of the company’s nomination (direct or indirect) of any other undertaking, includes that undertaking, whether or not it is or was in fact a subsidiary undertaking of the company.
+
+(2) Any reference to a subsidiary undertaking of the company—
+
+(a)for the purposes of paragraph 1 (remuneration etc.) is to an undertaking which is a subsidiary undertaking at the time the services were rendered, and
+(b)for the purposes of paragraph 2 (compensation for loss of office) is to a subsidiary undertaking immediately before the loss of office as director.
+Other minor definitions
+12.—(1) In this Schedule—
+
+“net value”, in relation to any assets received or receivable by a director, means value after deducting any money paid or other value given by the director in respect of those assets;“qualifying services”, in relation to any person, means the person’s services as a director of the company, and that person’s services while director of the company—
+(a)as director of any of its subsidiary undertakings, or
+(b)otherwise in connection with the management of the affairs of the company or any of its subsidiary undertakings.
+(2) For the purposes of this Schedule, remuneration paid or receivable or share options granted in respect of a person’s accepting office as a director are treated as emoluments paid or receivable or share options granted in respect of the person’s services as a director.”

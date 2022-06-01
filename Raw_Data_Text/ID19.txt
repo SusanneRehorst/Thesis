@@ -1,0 +1,417 @@
+Article 1
+Amendments to Directive 2013/34/EU
+
+Directive 2013/34/EU is amended as follows:
+
+(1)in Article 1, the following paragraph 3 is added:
+
+‘3.    The coordination measures prescribed by Articles 19a, 19d, 29a, 30 and 33, Article 34(1), second subparagraph, point (aa), paragraphs 2 and 3 of Article 34, and Article 51 of this Directive shall also apply to the laws, regulations and administrative provisions of the Member States relating to the following undertakings regardless of their legal form:
+
+(a)    insurance undertakings within the meaning of Article 2(1) of Council Directive 91/674/EEC*1;
+
+(b)    credit institutions as defined in Article 4(1), point (1), of Regulation (EU) No 575/2013 of the European Parliament and of the Council*2.
+
+Member States may choose not to apply the coordination measures referred to in the first subparagraph to the undertakings listed in Article 2(5), points (2) to (23), of Directive 2013/36/EU of the European Parliament and of the Council*3.
+
+
+
+*1Council Directive 91/674/EEC of 19 December 1991 on the annual accounts of insurance undertakings ( OJ L 374, 31.12.1991, p. 7).
+
+*2Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1).
+
+*3Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338).’;
+
+(2)in Article 2, the following points (17) to (20) are added:
+
+‘(17) ‘sustainability matters’ means sustainability factors as defined in Article 2, point (24) of Regulation (EU) 2019/2088 of the European Parliament and of the Council*4, and governance factors;
+
+(18) ‘sustainability reporting’ means reporting information related to sustainability matters in accordance with Articles 19a, 19d and 29a of this Directive;
+
+(19) ’intangibles’ means non-physical resources that contribute to the undertaking’s value creation;
+
+(20) ‘independent assurance services provider’ means a conformity assessment body accredited in accordance with Regulation (EC) No 765/2008 of the European Parliament and of the Council*5 for the specific conformity assessment activity referred to in Article 34(1), second subparagraph, point (aa) of this Directive.
+
+
+*4Regulation (EU) 2019/2088 of the European Parliament and of the Council of 27 November 2019 on sustainability‐related disclosures in the financial services sector (OJ L 317, 9.12.2019, p. 1).
+
+*5Regulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation (EEC) No 339/93 (OJ L 218, 13.8.2008, p. 30).’;
+
+(3)Article 19a is replaced by the following:
+
+‘Article 19a
+
+Sustainability Reporting
+
+1.    Large undertakings and, as of 1 January 2026, small and medium-sized undertakings which are undertakings referred to in Article 2, point (1), point (a), shall include in the management report information necessary to understand the undertaking’s impacts on sustainability matters, and information necessary to understand how sustainability matters affect the undertaking’s development, performance and position.
+
+2.    The information referred to in paragraph 1 shall contain in particular:
+
+(a)    a brief description of the undertaking's business model and strategy, including:
+
+(i)    the resilience of the undertaking's business model and strategy to risks related to sustainability matters;
+
+(ii)    the opportunities for the undertaking related to sustainability matters;
+
+(iii)    the plans of the undertaking to ensure that its business model and strategy are compatible with the transition to a sustainable economy and with the limiting of global warming to 1.5 °C in line with the Paris Agreement;
+
+(iv)    how the undertaking’s business model and strategy take account of the interests of the undertaking’s stakeholders and of the impacts of the undertaking on sustainability matters;
+
+(v)    how the undertaking’s strategy has been implemented with regard to sustainability matters;
+
+(b)    a description of the targets related to sustainability matters set by the undertaking and of the progress the undertaking has made towards achieving those targets;
+
+(c)    a description of the role of the administrative, management and supervisory bodies with regard to sustainability matters;
+
+(d)    a description of the undertaking’s policies in relation to sustainability matters;
+
+(e)    a description of:
+
+(i)    the due diligence process implemented with regard to sustainability matters;
+
+(ii)    the principal actual or potential adverse impacts connected with the undertaking’s value chain, including its own operations, its products and services, its business relationships and its supply chain;
+
+(iii)    any actions taken, and the result of such actions, to prevent, mitigate or remediate actual or potential adverse impacts;
+
+(f)    a description of the principal risks to the undertaking related to sustainability matters, including the undertaking’s principal dependencies on such matters, and how the undertaking manages those risks;
+
+(g)    indicators relevant to the disclosures referred to in points (a) to (f).
+
+Undertakings shall also disclose information on intangibles, including information on intellectual, human, and social and relationship capital.
+
+Undertakings shall report the process carried out to identify the information that they have included in the management report in accordance with paragraph 1 and in this process they shall take account of short, medium and long-term horizons.
+
+3.    The information referred to in paragraphs 1 and 2 shall contain forward-looking and retrospective information, and qualitative and quantitative information.
+
+Where appropriate, the information referred to in paragraphs 1 and 2 shall contain information about the undertaking’s value chain, including the undertaking’s own operations, products and services, its business relationships and its supply chain.
+
+Where appropriate, the information referred to in paragraphs 1 and 2 shall also contain references to, and additional explanations of, other information included in the management report in accordance with Article 19 and amounts reported in the annual financial statements.
+
+Member States may allow information relating to impending developments or matters in the course of negotiation to be omitted in exceptional cases where, in the duly justified opinion of the members of the administrative, management and supervisory bodies, acting within the competences assigned to them by national law and having collective responsibility for that opinion, the disclosure of such information would be seriously prejudicial to the commercial position of the undertaking, provided that such omission does not prevent a fair and balanced understanding of the undertaking's development, performance, position and impact of its activity.
+
+4.    Undertakings shall report the information referred to in paragraphs 1 to 3 in accordance with the sustainability reporting standards referred to in Article 19b.
+
+5.    By way of derogation from Article 19a, paragraphs 1 to 4, small and medium sized undertakings referred to in Article 2, point (1), point (a), may report in accordance with the sustainability reporting standards for small and medium sized undertakings referred to in Article 19c.
+
+6.    Undertakings that comply with the requirements set out in paragraphs 1 to 4 shall be deemed to have complied with the requirement set out in the third subparagraph of Article 19(1).
+
+7.    An undertaking which is a subsidiary undertaking shall be exempted from the obligations set out in paragraphs 1 to 4 if that undertaking and its subsidiary undertakings are included in the consolidated management report of a parent undertaking, drawn up in accordance with Articles 29 and 29a. An undertaking that is a subsidiary undertaking from a parent undertaking that is established in a third country shall also be exempted from the obligations set out in paragraphs 1 to 4 where that undertaking and its subsidiary undertakings are included in the consolidated management report of that parent undertaking and where the consolidated management report is drawn up in a manner that may be considered equivalent, in accordance with the relevant implementing measures adopted pursuant to Article 23(4), point (i), of Directive 2004/109/EC of the European Parliament and of the Council*6, to the manner required by the sustainability reporting standards referred to in Article 19b of this Directive.
+
+The consolidated management report of the parent undertaking referred to in subparagraph 1 shall be published in accordance with Article 30, in the manner prescribed by the law of the Member State by which the undertaking that is exempted from the obligations set out in paragraphs 1 to 4 is governed.
+
+The Member State by which the undertaking that is exempted from the obligations set out in paragraphs 1 to 4 is governed, may require that the consolidated management report referred to in the first subparagraph of this paragraph is published in an official language of the Member State or in a language customary in the sphere of international finance, and that any necessary translation into those languages is certified.
+
+The management report of an undertaking that is exempted from the obligations set out in paragraphs 1 to 4 shall contain all of the following information:
+
+(a)    the name and registered office of the parent undertaking that reports information at group level in accordance with Articles 29 and 29a, or in a manner that may be considered equivalent, in accordance with the implementing measures adopted pursuant to Article 23(4), point (i) of Directive 2004/109/EC, to the manner required by the sustainability reporting standards referred to in Article 19b;
+
+(b)    the fact that the undertaking is exempted from the obligations set out in paragraphs 1 to 4 of this Article.
+
+
+
+*6Directive 2004/109/EC of the European Parliament and of the Council of 15 December 2004 on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market and amending Directive 2001/34/EC (OJ L 390, 31.12.2004, p. 38).’;
+
+(4)the following Articles 19b, 19c and 19d are inserted:
+
+‘Article 19b
+
+Sustainability reporting standards
+
+1.    The Commission shall adopt delegated acts in accordance with Article 49 to provide for sustainability reporting standards. Those sustainability reporting standards shall specify the information that undertakings are to report in accordance with Articles 19a and 29a and, where relevant, shall specify the structure in which that information shall be reported. In particular:
+
+(a)by 31 October 2022, the Commission shall adopt delegated acts specifying the information that undertakings are to report in accordance with paragraphs 1 and 2 of Article 19a, and at least specifying information corresponding to the needs of financial market participants subject to the disclosure obligations of Regulation (EU) 2019/2088.
+
+(b)by 31 October 2023, the Commission shall adopt delegated acts specifying:
+
+(i)    complementary information that undertakings shall report with regard to the sustainability matters and reporting areas listed in Article 19a(2), where necessary;
+
+(ii)    information that undertakings shall report that is specific to the sector in which they operate.
+
+The Commission shall, at least every three years after its date of application, review any delegated act adopted pursuant to this Article, taking into consideration the technical advice of the European Financial Reporting Advisory Group (EFRAG), and where necessary shall amend such delegated act to take into account relevant developments, including developments with regard to international standards.
+
+2.    The sustainability reporting standards referred to in paragraph 1 shall require that the information to be reported is understandable, relevant, representative, verifiable, comparable, and is represented in a faithful manner.
+
+The sustainability reporting standards shall, taking into account the subject matter of a particular standard:
+
+(a)    specify the information that undertakings are to disclose about environmental factors, including information about:
+
+(i)    climate change mitigation;
+
+(ii)    climate change adaptation;
+
+(iii)    water and marine resources;
+
+(iv)    resource use and circular economy;
+
+(v)    pollution;
+
+(vi)    biodiversity and ecosystems;
+
+(b)    specify the information that undertakings are to disclose about social factors, including information about:
+
+(i)    equal opportunities for all, including gender equality and equal pay for equal work, training and skills development, and employment and inclusion of people with disabilities;
+
+(ii)    working conditions, including secure and adaptable employment, wages, social dialogue, collective bargaining and the involvement of workers, work-life balance, and a healthy, safe and well-adapted work environment;
+
+(iii)    respect for the human rights, fundamental freedoms, democratic principles and standards established in the International Bill of Human Rights and other core UN human rights conventions, the International Labour Organization’s Declaration on Fundamental Principles and Rights at Work and the ILO fundamental conventions and the Charter of Fundamental Rights of the European Union.
+
+(c)    specify the information that undertakings are to disclose about governance factors, including information about:
+
+(i)    the role of the undertaking’s administrative, management and supervisory bodies, including with regard to sustainability matters, and their composition;
+
+(ii)    business ethics and corporate culture, including anti-corruption and anti-bribery;
+
+(iii)    political engagements of the undertaking, including its lobbying activities;
+
+(iv)    the management and quality of relationships with business partners, including payment practices;
+
+(v)    the undertaking’s internal control and risk management systems, including in relation to the undertaking’s reporting process.
+
+3.    When adopting delegated acts pursuant to paragraph 1, the Commission shall take account of:
+
+(a)the work of global standard-setting initiatives for sustainability reporting, and existing standards and frameworks for natural capital accounting, responsible business conduct, corporate social responsibility, and sustainable development;
+
+(b)the information that financial market participants need to comply with their disclosure obligations laid down in Regulation (EU) 2019/2088 and the delegated acts adopted pursuant to that Regulation;
+
+(c)the criteria set out in the delegated acts adopted pursuant to Regulation (EU) 2020/852*7;
+
+(d)the disclosure requirements applicable to benchmarks administrators in the benchmark statement and in the benchmark methodology and the minimum standards for the construction of EU Climate Transition Benchmarks and EU Paris-aligned Benchmarks in accordance with Commission Delegated Regulations (EU) 2020/1816*8, (EU) 2020/1817*9 and (EU) 2020/1818*10;
+
+(e)the disclosures specified in the implementing acts adopted pursuant to Article 434a of Regulation (EU) No 575/2013*11;
+
+(f)Commission Recommendation 2013/179/EU*12;
+
+(g)Directive 2003/87/EC of the European Parliament and of the Council*13;
+
+(h)Regulation (EC) No 1221/2009 of the European Parliament and of the Council*14.
+
+
+
+*7Regulation (EU) 2020/852 of the European Parliament and of the Council of 18 June 2020 on the establishment of a framework to facilitate sustainable investment, and amending Regulation (EU) 2019/2088 (OJ L 198, 22.6.2020, p. 13).
+
+*8Commission Delegated Regulation (EU) 2020/1816 of 17 July 2020 supplementing Regulation (EU) 2016/1011 of the European Parliament and of the Council as regards the explanation in the benchmark statement of how environmental, social and governance factors are reflected in each benchmark provided and published (OJ L 406, 3.12.2020, p. 1).
+
+*9Commission Delegated Regulation (EU) 2020/1817 of 17 July 2020 supplementing Regulation (EU) 2016/1011 of the European Parliament and of the Council as regards the minimum content of the explanation on how environmental, social and governance factors are reflected in the benchmark methodology (OJ L 406, 3.12.2020, p. 12).
+
+*10Commission Delegated Regulation (EU) 2020/1818 of 17 July 2020 supplementing Regulation (EU) 2016/1011 of the European Parliament and of the Council as regards minimum standards for EU Climate Transition Benchmarks and EU Paris-aligned Benchmarks (OJ L 406, 3.12.2020, p. 17).
+
+*11Commission Implementing Regulation laying down implementing technical standards with regard to public disclosures by institutions of the information referred to in Titles II and III of Part Eight of Regulation (EU) No 575/2013 of the European Parliament and of the Council (C(2021)1595)
+
+*12Commission Recommendation 2013/179/EU of 9 April 2013 on the use of common methods to measure and communicate the life cycle environmental performance of products and organisations (OJ L 124, 4.5.2013, p. 1).
+
+*13Directive 2003/87/EC of the European Parliament and of the Council of 13 October 2003 establishing a scheme for greenhouse gas emission allowance trading within the Community and amending Council Directive 96/61/EC (OJ L 275, 25.10.2003, p. 32).
+
+*14Regulation (EC) No 1221/2009 of the European Parliament and of the Council of 25 November 2009 on the voluntary participation by organisations in a Community eco-management and audit scheme (EMAS), repealing Regulation (EC) No 761/2001 and Commission Decisions 2001/681/EC and 2006/193/EC (OJ L 342, 22.12.2009, p. 1).
+
+Article 19c
+
+Sustainability reporting standards for SMEs
+
+The Commission shall adopt delegated acts in accordance with Article 49 to provide for sustainability reporting standards proportionate to the capacities and characteristics of small and medium-sized undertakings. Those sustainability reporting standards shall specify which information referred to in Articles 19a and 29a small and medium-sized undertakings referred to in Article 2, point (1)(a) shall report. They shall take into account the criteria set out in Article 19b, paragraphs 2 and 3. They shall also, where relevant, specify the structure in which that information shall be reported.
+
+The Commission shall adopt those delegated acts at the latest by 31 October 2023.
+
+Article 19d
+
+Single electronic reporting format
+
+1.    Undertakings subject to Article 19a shall prepare their financial statements and their management report in a single electronic reporting format in accordance with Article 3 of Commission Delegated Regulation (EU) 2019/815*15 and shall mark-up their sustainability reporting, including the disclosures laid down in Article 8 of Regulation (EU) 2020/852, in accordance with that Delegated Regulation.
+
+2.    Undertakings subject to Article 29a shall prepare their consolidated financial statements and their consolidated management report in a single electronic reporting format in accordance with Article 3 of Delegated Regulation (EU) 2019/815 and shall mark-up sustainability reporting, including the disclosures laid down in Article 8 of Regulation (EU) 2020/852.
+
+
+
+*15Commission Delegated Regulation (EU) 2019/815 of 17 December 2018 supplementing Directive 2004/109/EC of the European Parliament and of the Council with regard to regulatory technical standards on the specification of a single electronic reporting format (OJ L 143, 29.5.2019, p. 1).;’
+
+(5)Article 20(1) is amended as follows:
+
+(a)point (g) is replaced by the following:
+
+‘(g) a description of the diversity policy applied in relation to the undertaking's administrative, management and supervisory bodies with regard to gender and other aspects such as, age, or educational and professional backgrounds, the objectives of that diversity policy, how it has been implemented and the results in the reporting period. If no such policy is applied, the statement shall contain an explanation as to why this is the case.’;
+
+(b)the following subparagraph is added:
+
+‘Undertakings subject to Article 19a may comply with the obligation laid down in points (c), (f) and (g) of the first subparagraph of this Article where they include the information required under those points as part of their sustainability reporting.’;
+
+(6)Article 23 is amended as follows:
+
+(a)in paragraph 4, point (b) is replaced by the following:
+
+‘(b) the consolidated financial statements referred to in point (a) and the consolidated management report of the larger body of undertakings are drawn up by the parent undertaking of that body, in accordance with the law of the Member State by which that parent undertaking is governed, in accordance with this Directive, with the exception of the requirements laid down in Article 29a, or in accordance with international accounting standards adopted in accordance with Regulation (EC) No 1606/2002;’;
+
+(b)in paragraph 8, point (b)(i) is replaced by the following:
+
+‘(i)    in accordance with this Directive, with the exception of the requirements laid down in Article 29a,’;
+
+(c)in paragraph 8, (b)(iii) is replaced by the following:
+
+‘(iii)    in a manner equivalent to consolidated financial statements and consolidated management reports drawn up in accordance with this Directive, with the exception of the requirements laid down in Article 29a, or’;
+
+(7)Article 29a is replaced by the following:
+
+‘Article 29a
+
+Consolidated sustainability reporting
+
+1.    Parent undertakings of a large group shall include in the consolidated management report information necessary to understand the group's impacts on sustainability matters, and information necessary to understand how sustainability matters affect the group's development, performance and position.
+
+2.    The information referred to in paragraph 1 shall contain in particular:
+
+(a)    a brief description of the group's business model and strategy, including:
+
+(i)    the resilience of the group's business model and strategy to risks related to sustainability matters;
+
+(ii)    the opportunities for the group related to sustainability matters;
+
+(iii)    the plans of the group to ensure that the group’s business model and strategy compatible with the transition to a sustainable economy and with the limiting of global warming to 1.5 °C in line with the Paris Agreement;
+
+(iv)    how the group’s business model and strategy take account of the interests of the group’s stakeholders and of the impacts of the group on sustainability matters;
+
+(v)    how the group’s strategy has been implemented with regard to sustainability matters;
+
+(b)    a description of the targets related to sustainability matters set by the group and of the progress of the undertaking towards achieving them;
+
+(c)    a description of the role of the administrative, management and supervisory bodies with regard to sustainability matters;
+
+(d)    a description of the group’s policies in relation to sustainability matters;
+
+(e)    a description of:
+
+(i)    the due diligence process implemented with regard to sustainability matters;
+
+(ii)    the principal actual or potential adverse impacts connected with the group’s value chain, including its own operations, its products and services, its business relationships and its supply chain;
+
+(iii)    any actions taken, and the result of such actions, to prevent, mitigate or remediate actual or potential adverse impacts;
+
+(f)    a description of the principal risks to the group related to sustainability matters, including the group’s principal dependencies on such factors, and how the group manages those risks;
+
+(g)    indicators relevant to the relevant to the disclosures referred to in points (a) to (f).
+
+Parent undertakings shall also report information on intangibles, including information on intellectual, human, and social and relationship capital.
+
+Parent undertakings shall describe the process carried out to identify the information that they have included in the consolidated management report in accordance with this Article.
+
+3.    The information referred to in paragraphs 1 and 2 shall contain forward-looking information and information about past performance, and qualitative and quantitative information. This information shall take into account short, medium and long-term time horizons, where appropriate.
+
+The information referred to in paragraphs 1 and 2 shall include information about the group’s value chain, including its own operations, its products and services, its business relationships and its supply chain, where appropriate.
+
+The information referred to in paragraphs 1 and 2 shall also, where appropriate, include references to, and additional explanations of, other information included in the consolidated management report in accordance with Article 29 of this Directive and amounts reported in the consolidated financial statements.
+
+Member States may allow information relating to impending developments or matters in the course of negotiation to be omitted in exceptional cases where, in the duly justified opinion of the members of the administrative, management and supervisory bodies, acting within the competences assigned to them by national law and having collective responsibility for that opinion, the disclosure of such information would be seriously prejudicial to the commercial position of the group, provided that such omission does not prevent a fair and balanced understanding of the group's development, performance, position and impact of its activity.
+
+4.    Parent undertakings shall report the information referred to in paragraphs 1 to 3 in accordance with the sustainability reporting standards referred to in Article 19b.
+
+5.    By way of derogation from Article 29a, paragraphs 1-4, parent undertakings that are small and medium sized undertakings referred to in Article 2, point (1), point (a), may report in accordance with the sustainability reporting standards for small and medium sized undertakings referred to in Article 19c.
+
+6.    A parent undertaking that complies with the requirements set out in paragraphs 1 to 4 shall be deemed to have complied with the requirements set out in the third subparagraph of Article19(1), Article 19a and Article 29.
+
+7.    A parent undertaking which is also a subsidiary undertaking shall be exempted from the obligation set out in paragraphs 1 to 4 if that exempted parent undertaking and its subsidiaries are included in the consolidated management report of another undertaking, drawn up in accordance with Article 29 and this Article. A parent undertaking that is a subsidiary undertaking from a parent undertaking that is established in a third country shall also be exempted from the obligations set out in paragraphs 1 to 4 where that undertaking and its subsidiary undertakings are included in the consolidated management report of that parent undertaking and where the consolidated management report is drawn up in a manner that may be considered equivalent, in accordance with the relevant implementing measures adopted pursuant to Article 23(4)(i) of Directive 2004/109/EC, to the manner required by the sustainability reporting standards referred to in Article 19b of this Directive.
+
+The consolidated management report of the parent undertaking referred to in subparagraph 1 shall be published in accordance with Article 30, in the manner prescribed by the law of the Member State by which the parent undertaking that is exempted from the obligations set out in paragraphs 1 to 4 is governed.
+
+The Member State by which the parent undertaking that is exempted from the obligations set out in paragraphs 1 to 4 is governed may require that the consolidated management report referred to in in the first subparagraph of this paragraph is published in its official language or in a language customary in the sphere of international finance, and that any necessary translation into those languages is certified.
+
+The consolidated management report of a parent undertaking that is exempted from the obligations set out in paragraphs 1 to 4 shall contain all of the following information:
+
+(a)    the name and registered office of the parent undertaking that reports information at group level in accordance with Articles 29 and this Article, or in a manner that may be considered equivalent, in accordance with the relevant implementing measures adopted pursuant to Article 23(4)(i) of Directive 2004/109/EC, to the manner required by the sustainability standards adopted pursuant to Article 19b;
+
+(b)    the fact that the undertaking is exempted from the obligations set out in paragraphs 1 to 4 of this Article.’;
+
+(8)Article 30 is amended as follows:
+
+(a)paragraph 1 is replaced by the following:
+
+‘1. Member States shall ensure that undertakings publish within a reasonable period of time, which shall not exceed 12 months after the balance sheet date, the duly approved annual financial statements and the management report in the format prescribed by Article 19d of this Directive where applicable, together with the opinions and statement submitted by the statutory auditor or audit firm referred to in Article 34 of this Directive, as laid down by the laws of each Member State in accordance with Chapter 3 of Directive (EU) 2017/1132 of the European Parliament and of the Council*16.’
+
+‘Where an independent assurance services provider gives the opinion referred to in point (aa) of Article 34(1), this opinion shall be published together with the reports referred to in the first subparagraph.
+
+Member States may, however, exempt undertakings from the obligation to publish the management report where a copy of all or part of any such report can be easily obtained upon request at a price not exceeding its administrative cost.’
+
+‘The exemption laid down in the third subparagraph shall not apply to undertakings subject to Articles 19a and 29a.’;
+
+
+
+*16Directive (EU) 2017/1132 of the European Parliament and of the Council of 14 June 2017 relating to certain aspects of company law (OJ L 169, 30.6.2017, p. 46).
+
+(b)the following paragraph 1a is inserted:
+
+‘1a. Member States shall ensure that management reports containing sustainability reporting drawn up by undertakings subject to Articles 19a and 29a are also made available to the relevant officially appointed mechanism referred to in Article 21(2) of Directive 2004/109/EC without delay following their publication.
+
+Where the undertaking drawing up the management report is not subject to Directive 2004/109/EC, the relevant officially appointed mechanism shall be one of the officially appointed mechanisms of the Member State where the undertaking has its registered office.’;
+
+(9)in Article 33, paragraph 1 is replaced by the following:
+
+‘1. Member States shall ensure that the members of the administrative, management and supervisory bodies of an undertaking, acting within the competences assigned to them by national law, have collective responsibility for ensuring that the following documents are drawn up and published in accordance with the requirements of this Directive and, where applicable, with the international accounting standards adopted in accordance with Regulation (EC) No 1606/2002, with Delegated Regulation 2019/815, with the sustainability reporting standards referred to in Article 19b of this Directive, and with the requirements of Article 19d of this Directive:
+
+(a) the annual financial statements, the management report and the corporate governance statement when provided separately;
+
+(b) the consolidated financial statements, the consolidated management reports and the consolidated corporate governance statement when provided separately.’;
+
+(10)Article 34 is amended as follows:
+
+(a)in paragraph 1, the second subparagraph is amended as follows:
+
+(i)point (a)(ii) is replaced by the following:
+
+‘(ii)    whether the management report has been prepared in accordance with the applicable legal requirements, excluding the requirements on sustainability reporting laid down in Article 19a;’;
+
+(ii)the following point (aa) is inserted:
+
+‘(aa)    where applicable, express an opinion based on a limited assurance engagement as regards the compliance of the sustainability reporting with the requirements of this Directive, including the compliance of the sustainability reporting with the reporting standards adopted pursuant to Article 19b, the process carried out by the undertaking to identify the information reported pursuant to those reporting standards, and the compliance with the requirement to mark-up sustainability reporting in accordance with Article 19d, and as regards the compliance with the reporting requirements of Article 8 of Regulation (EU) 2020/852.’;
+
+(b)paragraph 3 is replaced by the following:
+
+‘3. Member States may allow an independent assurance services provider to express the opinion referred to in paragraph 1, second subparagraph, point (aa), provided that it is subject to requirements that are consistent with those set out in Directive 2006/43/EC as regards the assurance of sustainability reporting as defined in Article 2(1), point (r) of that Directive.
+
+(11)Article 49 is amended as follows:
+
+(a)paragraphs 2 and 3 are replaced by the following:
+
+‘2. The power to adopt delegated acts referred to in Article 1(2), Article 3(13), Article 46(2), Article 19b and Article 19c shall be conferred on the Commission for an indeterminate period of time.
+
+3. The delegation of power referred to in Article 1(2), Article 3(13), Article 46(2), Article 19b and Article 19c may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of that decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.’;
+
+(b)the following paragraph 3a is inserted:
+
+‘3a. When adopting delegated acts pursuant to Articles 19b and 19c, the Commission shall take into consideration technical advice from EFRAG, provided such advice has been developed with proper due process, public oversight and transparency and with the expertise of relevant stakeholders, and is accompanied by cost-benefit analyses that include analyses of the impacts of the technical advice on sustainability matters.
+
+The Commission shall consult the Member State Expert Group on Sustainable Finance referred to in Article 24 of Regulation (EU) 2020/852 on the technical advice provided by EFRAG prior to the adoption of the delegated acts referred to in Articles 19b and 19c.
+
+The Commission shall request the opinion of the European Securities and Markets Authority on the technical advice provided by EFRAG, in particular with regard to its consistency with Regulation (EU) 2019/2088 and its delegated acts. The European Securities and Markets Authority shall provide its opinion within two months from the date of receipt of the request from the Commission.
+
+The Commission shall also consult the European Banking Authority, the European Insurance and Occupational Pensions Authority, the European Environment Agency, the European Union Agency for Fundamental Rights, the European Central Bank, the Committee of European Auditing Oversight Bodies and the Platform on Sustainable Finance established pursuant to Article 20 of Regulation (EU) 2020/852 on the technical advice provided by EFRAG prior to the adoption of delegated acts referred to in Articles 19b and 19c. Where any of those bodies decide to submit an opinion, they shall do so within two months from the date of being consulted by the Commission.’;
+
+(c)paragraph 5 is replaced by the following:
+
+‘5. A delegated act adopted pursuant to Article 1(2), Article 3(13), Article 46(2), Article 19b and Article 19c shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or the Council.’
+
+(12)Article 51 is replaced by the following:
+
+‘Article 51
+
+Penalties
+
+1.    Without prejudice to paragraph 2, Member States shall provide for penalties applicable to infringements of the national provisions adopted in accordance with this Directive and shall take all the measures necessary to ensure that those penalties are enforced. The penalties provided for shall be effective, proportionate and dissuasive.’
+
+2.    In case of a breach of the national provisions transposing Articles 19a, 19d and 29a, Member States shall provide for at least the following administrative measures and sanctions:
+
+(a) a public statement indicating the natural person or the legal entity responsible and the nature of the infringement;
+
+(b) an order requiring the natural person or the legal entity responsible to cease the conduct constituting the infringement and to desist from any repetition of that conduct;
+
+(c) administrative pecuniary sanctions.
+
+3.    Member States shall ensure that, when determining the type and level of penalties, administrative sanctions or measures referred to in paragraph 2, all relevant circumstances are taken into account, including:
+
+(a)    the gravity and the duration of the breach;
+
+(b)    the degree of responsibility of the natural person or legal entity responsible;
+
+(c)    the financial strength of the natural person or legal entity responsible;
+
+(d)    the importance of profits gained or losses avoided by the natural person or legal entity responsible, in so far as such profits or losses can be determined;
+
+(e)    the losses sustained by third parties as a result of the breach, in so far as those losses can be determined;
+
+(f)    the level of cooperation of the natural person or legal entity responsible with the competent authority;
+
+(g)    previous infringements by the natural person or legal entity responsible.’.

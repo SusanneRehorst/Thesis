@@ -1,0 +1,634 @@
+ART 3
+DIRECTORS’ REPORT
+Directors’ report
+10.—(1) The report which the directors of a company are required to prepare under section 415
+of the 2006 Act (duty to prepare directors’ report) must disclose the matters specified in Schedule 7
+to these Regulations.
+(2) In Schedule 7—
+Part 1 relates to matters of a general nature, including changes in asset values and contributions
+for political and charitable purposes,
+Part 2 relates to the acquisition by a company of its own shares or a charge on them,
+4
+Document Generated: 2022-01-26
+Status: This is the original version (as it was originally made).
+Part 3 relates to the employment, training and advancement of disabled persons,
+Part 4 relates to the involvement of employees in the affairs, policy and performance of the
+company, and
+Part 5 relates to the company’s policy and practice on the payment of creditors.
+PART 4
+DIRECTORS’ REMUNERATION REPORT
+Directors’ remuneration report (quoted companies)
+11.—(1) The remuneration report which the directors of a quoted company are required to prepare
+under section 420 of the 2006 Act (duty to prepare directors’ remuneration report) must contain the
+information specified in Schedule 8 to these Regulations, and must comply with any requirement of
+that Schedule as to how information is to be set out in the report.
+(2) In Schedule 8—
+Part 1 is introductory,
+Part 2 relates to information about remuneration committees, performance related
+remuneration, consideration of conditions elsewhere in company and group and liabilities in
+respect of directors’ contracts,
+Part 3 relates to detailed information about directors’ remuneration (information included
+under Part 3 is required to be reported on by the auditor (see subsection (3)), and
+Part 4 contains interpretative and supplementary provisions.
+(3) For the purposes of section 497 in Part 16 of the 2006 Act (auditor’s report on auditable part
+of directors’ remuneration report), “the auditable part” of a directors’ remuneration report is the part
+containing the information required by Part 3 of Schedule 8 to these Regulations.
+
+SCHEDULE 7 Regulation 10
+MATTERS TO BE DEALT WITH IN DIRECTORS’ REPORT
+PART 1
+MATTERS OF A GENERAL NATURE
+Introduction
+1. In addition to the information required by section 416 of the 2006 Act, the directors’ report
+must contain the following information.
+Asset values
+2.—(1) If, in the case of such of the fixed assets of the company as consist in interests in land, their
+market value (as at the end of the financial year) differs substantially from the amount at which they
+are included in the balance sheet, and the difference is, in the directors’ opinion, of such significance
+as to require that the attention of members of the company or of holders of its debentures should be
+drawn to it, the report must indicate the difference with such degree of precision as is practicable.
+(2) In relation to a group directors’ report sub-paragraph (1) has effect as if the reference to the
+fixed assets of the company was a reference to the fixed assets of the company and of its subsidiary
+undertakings included in the consolidation.
+Political donations and expenditure
+3.—(1) If—
+(a) the company (not being the wholly-owned subsidiary of a company incorporated in the
+United Kingdom) has in the financial year—
+(i) made any political donation to any political party or other political organisation,
+(ii) made any political donation to any independent election candidate, or
+142
+Document Generated: 2022-01-26
+Status: This is the original version (as it was originally made).
+(iii) incurred any political expenditure, and
+(b) the amount of the donation or expenditure, or (as the case may be) the aggregate amount
+of all donations and expenditure falling within paragraph (a), exceeded £2000,
+the directors’ report for the year must contain the following particulars.
+(2) Those particulars are—
+(a) as respects donations falling within sub-paragraph (1)(a)(i) or (ii)—
+(i) the name of each political party, other political organisation or independent election
+candidate to whom any such donation has been made, and
+(ii) the total amount given to that party, organisation or candidate by way of such
+donations in the financial year; and
+(b) as respects expenditure falling within sub-paragraph (1)(a)(iii), the total amount incurred
+by way of such expenditure in the financial year.
+(3) If—
+(a) at the end of the financial year the company has subsidiaries which have, in that year,
+made any donations or incurred any such expenditure as is mentioned in sub-paragraph (1)
+(a), and
+(b) it is not itself the wholly-owned subsidiary of a company incorporated in the United
+Kingdom,
+the directors’ report for the year is not, by virtue of sub-paragraph (1), required to contain the
+particulars specified in sub-paragraph (2).
+But, if the total amount of any such donations or expenditure (or both) made or incurred in that year
+by the company and the subsidiaries between them exceeds £2000, the directors’ report for the year
+must contain those particulars in relation to each body by whom any such donation or expenditure
+has been made or incurred.
+(4) Any expression used in this paragraph which is also used in Part 14 of the 2006 Act (control
+of political donations and expenditure) has the same meaning as in that Part.
+4.—(1) If the company (not being the wholly-owned subsidiary of a company incorporated in
+the United Kingdom) has in the financial year made any contribution to a non-EU political party,
+the directors’ report for the year must contain—
+(a) a statement of the amount of the contribution, or
+(b) (if it has made two or more such contributions in the year) a statement of the total amount
+of the contributions.
+(2) If—
+(a) at the end of the financial year the company hassubsidiaries which have, in that year, made
+any such contributions as are mentioned in sub-paragraph (1), and
+(b) it is not itself the wholly-owned subsidiary of a company incorporated in the United
+Kingdom,
+the directors’ report for the year is not, by virtue of sub-paragraph (1), required to contain any such
+statement as is there mentioned, but it must instead contain a statement of the total amount of the
+contributions made in the year by the company and the subsidiaries between them.
+(3) In this paragraph, “contribution”, in relation to an organisation, means—
+(a) any gift of money to the organisation (whether made directly or indirectly);
+(b) any subscription or other fee paid for affiliation to, or membership of, the organisation; or
+143
+Document Generated: 2022-01-26
+Status: This is the original version (as it was originally made).
+(c) any money spent (otherwise than by the organisation or a person acting on its behalf) in
+paying any expenses incurred directly or indirectly by the organisation.
+(4) In this paragraph, “non-EU political party” means any political party which carries on, or
+proposes to carry on, its activities wholly outside the member States.
+Charitable donations
+5.—(1) If—
+(a) the company (not being the wholly-owned subsidiary of a company incorporated in the
+United Kingdom) has in the financial year given money for charitable purposes, and
+(b) the money given exceeded £2000 in amount,
+the directors’ report for the year must contain, in the case of each of the purposes for which money
+has been given, a statement of the amount of money given for that purpose.
+(2) If—
+(a) at the end of the financial year the company has subsidiaries which have, in that year,
+given money for charitable purposes, and
+(b) it is not itself the wholly owned subsidiary of a company incorporated in the United
+Kingdom,
+sub-paragraph (1) does not apply to the company.
+But, if the amount given in that year for charitable purposes by the company and the subsidiaries
+between them exceeds £2000, the directors’ report for the year must contain, in the case of each of
+the purposes for which money has been given by the company and the subsidiaries between them,
+a statement of the amount of money given for that purpose.
+(3) Money given for charitable purposes to a person who, when it was given, was ordinarily
+resident outside the United Kingdom is to be left out of account for the purposes of this paragraph.
+(4) For the purposes of this paragraph, “charitable purposes” means purposes which are
+exclusively charitable, and as respects Scotland a purpose is charitable if it is listed in section 7(2)
+of the Charities and Trustee Investment (Scotland) Act 2005(30).
+Financial instruments
+6.—(1) In relation to the use of financial instruments by a company, the directors’ report must
+contain an indication of—
+(a) the financial risk management objectives and policies of the company, including the policy
+for hedging each major type of forecasted transaction for which hedge accounting is used,
+and
+(b) the exposure of the company to price risk, credit risk, liquidity risk and cash flow risk,
+unless such information is not material for the assessment of the assets, liabilities, financial position
+and profit or loss of the company.
+(2) In relation to a group directors’ report sub-paragraph (1) has effect as if the references
+to the company were references to the company and its subsidiary undertakings included in the
+consolidation.
+(3) In sub-paragraph (1) the expressions “hedge accounting”, “price risk”, “credit risk”, “liquidity
+risk” and “cash flow risk” have the same meaning as they have in Council Directive 78/660/EEC
+(30) 2005 asp 10.
+144
+Document Generated: 2022-01-26
+Status: This is the original version (as it was originally made).
+on the annual accounts of certain types of companies, and in Council Directive 83/349/EEC on
+consolidated accounts(31).
+Miscellaneous
+7.—(1) The directors’ report must contain—
+(a) particulars of any important events affecting the company which have occurred since the
+end of the financial year,
+(b) an indication of likely future developments in the business of the company,
+(c) an indication of the activities (if any) of the company in the field of research and
+development, and
+(d) (unless the company is an unlimited company) an indication of the existence of branches
+(as defined in section 1046(3) of the 2006 Act) of the company outside the United
+Kingdom.
+(2) In relation to a group directors’ report paragraphs (a), (b) and (c) of sub-paragraph (1)
+have effect as if the references to the company were references to the company and its subsidiary
+undertakings included in the consolidation.
+
+PART 3
+DISCLOSURE CONCERNING EMPLOYMENT ETC. OF DISABLED PERSONS
+10.—(1) This Part of this Schedule applies to the directors’ report where the average number of
+persons employed by the company in each week during the financial year exceeded 250.
+(2) That average number is the quotient derived by dividing, by the number of weeks in the
+financial year, the number derived by ascertaining, in relation to each of those weeks, the number of
+persons who, under contracts of service, were employed in the week (whether throughout it or not)
+by the company, and adding up the numbers ascertained.
+(3) The directors’ report must in that case contain a statement describing such policy as the
+company has applied during the financial year—
+(a) for giving full and fair consideration to applications for employment by the company made
+by disabled persons, having regard to their particular aptitudes and abilities,
+(b) for continuing the employment of, and for arranging appropriate training for, employees
+of the company who have become disabled persons during the period when they were
+employed by the company, and
+(c) otherwise for the training, career development and promotion of disabled persons
+employed by the company.
+(4) In this Part—
+(36) Section 150 is prospectively repealed by the 2006 Act.
+(37) Article 160 is prospectively repealed by the 2006 Act.
+146
+Document Generated: 2022-01-26
+Status: This is the original version (as it was originally made).
+(a) “employment” means employment other than employment to work wholly or mainly
+outside the United Kingdom, and “employed” and “employee” are to be construed
+accordingly; and
+(b) “disabled person” means the same as in the Disability Discrimination Act 1995(38).
+PART 4
+EMPLOYEE INVOLVEMENT
+11.—(1) This Part of this Schedule applies to the directors’ report where the average number of
+persons employed by the company in each week during the financial year exceeded 250.
+(2) That average number is the quotient derived by dividing, by the number of weeks in the
+financial year, the number derived by ascertaining, in relation to each of those weeks, the number of
+persons who, under contracts of service, were employed in the week (whether throughout it or not)
+by the company, and adding up the numbers ascertained.
+(3) The directors’ report must in that case contain a statement describing the action that has been
+taken during the financial year to introduce, maintain or develop arrangements aimed at—
+(a) providing employees systematically with information on matters of concern to them as
+employees,
+(b) consulting employees or their representatives on a regular basis so that the views of
+employees can be taken into account in making decisions which are likely to affect their
+interests,
+(c) encouraging the involvement of employees in the company’s performance through an
+employees’ share scheme or by some other means,
+(d) achieving a common awareness on the part of all employees of the financial and economic
+factors affecting the performance of the company.
+(4) In sub-paragraph (3) “employee” does not include a person employed to work wholly or
+mainly outside the United Kingdom; and for the purposes of sub-paragraph (2) no regard is to be
+had to such a person.
+PART 5
+POLICY AND PRACTICE ON PAYMENT OF CREDITORS
+12.—(1) This Part of this Schedule applies to the directors’ report for a financial year if—
+(a) the company was at any time within the year a public company, or
+(b) the company did not qualify as small or medium-sized in relation to the year by virtue of
+section 382 or 465 of the 2006 Act and was at any time within the year a member of a
+group of which the parent company was a public company.
+(2) The report must state, with respect to the next following financial year—
+(a) whether in respect of some or all of its suppliers it is the company’s policy to follow any
+code or standard on payment practice and, if so, the name of the code or standard and the
+place where information about, and copies of, the code or standard can be obtained,
+(b) whether in respect of some or all of its suppliers it is the company’s policy—
+(38) 1995 c.50.
+147
+Document Generated: 2022-01-26
+Status: This is the original version (as it was originally made).
+(i) to settle the terms of payment with those suppliers when agreeing the terms of each
+transaction,
+(ii) to ensure that those suppliers are made aware of the terms of payment, and
+(iii) to abide by the terms of payment,
+(c) where the company’s policy is not as mentioned in paragraph (a) or (b) in respect of some
+or all of its suppliers, what its policy is with respect to the payment of those suppliers;
+and if the company’s policy is different for different suppliers or classes of suppliers, the report must
+identify the suppliers to which the different policies apply.
+In this sub-paragraph references to the company’s suppliers are references to persons who are or
+may become its suppliers.
+(3) The report must also state the number of days which bears to the number of days in the
+financial year the same proportion as X bears to Y where—
+X = the aggregate of the amounts which were owed to trade creditors at the end of the year; and
+Y = the aggregate of the amounts in which the company was invoiced by suppliers during the
+year.
+(4) For the purposes of sub-paragraphs (2) and (3) a person is a supplier of the company at any
+time if—
+(a) at that time, he is owed an amount in respect of goods or services supplied, and
+(b) that amount would be included under the heading corresponding to item E.4 (trade
+creditors) in format 1 if—
+(i) the company’s accounts fell to be prepared as at that time,
+(ii) those accounts were prepared in accordance with Schedule 1 to these Regulations,
+and
+(iii) that format were adopted.
+(5) For the purpose of sub-paragraph (3), the aggregate of the amounts which at the end of the
+financial year were owed to trade creditors is taken to be—
+(a) where in the company’s accounts format 1 of the balance sheet formats set out in Part
+1 of Schedule 1 to these Regulations is adopted, the amount shown under the heading
+corresponding to item E.4 (trade creditors) in that format,
+(b) where format 2 is adopted, the amount which, under the heading corresponding to item
+C.4 (trade creditors) in that format, is shown as falling due within one year, and
+(c) where the company’s accounts are prepared in accordance with Schedule 2 or 3 to these
+Regulations or the company’s accounts are IAS accounts, the amount which would be
+shown under the heading corresponding to item E.4 (trade creditors) in format 1 if the
+company’s accounts were prepared in accordance with Schedule 1 and that format were
+adopted.
+
+SCHEDULE 8 Regulation 11
+QUOTED COMPANIES: DIRECTORS’ REMUNERATION REPORT
+PART 1
+INTRODUCTORY
+1.—(1) In the directors’ remuneration report for a financial year (“the relevant financial year”)
+there must be shown the information specified in Parts 2 and 3.
+(2) Information required to be shown in the report for or in respect of a particular person must
+be shown in the report in a manner that links the information to that person identified by name.
+PART 2
+INFORMATION NOT SUBJECT TO AUDIT
+Consideration by the directors of matters relating to directors’ remuneration
+2.—(1) If a committee of the company’s directors has considered mattersrelating to the directors’
+remuneration for the relevant financial year, the directors’ remuneration report must—
+(a) name each director who was a member of the committee at any time when the committee
+was considering any such matter;
+(39) O.J. No. L142, 30.4.2004, p.12.
+150
+Document Generated: 2022-01-26
+Status: This is the original version (as it was originally made).
+(b) name any person who provided to the committee advice, or services, that materially
+assisted the committee in their consideration of any such matter;
+(c) in the case of any person named under paragraph (b), who is not a director of the company,
+state—
+(i) the nature of any other services that that person has provided to the company during
+the relevant financial year; and
+(ii) whether that person was appointed by the committee.
+(2) In sub-paragraph (1)(b) “person” includes (in particular) any director of the company who
+does not fall within sub-paragraph (1)(a).
+Statement of company’s policy on directors’ remuneration
+3.—(1) The directors’ remuneration report must contain a statement of the company’s policy on
+directors’ remuneration for the following financial year and for financial years subsequent to that.
+(2) The policy statement must include—
+(a) for each director, a detailed summary of any performance conditions to which any
+entitlement of the director—
+(i) to share options, or
+(ii) under a long term incentive scheme,
+is subject;
+(b) an explanation as to why any such performance conditions were chosen;
+(c) a summary of the methods to be used in assessing whether any such performance
+conditions are met and an explanation as to why those methods were chosen;
+(d) if any such performance condition involves any comparison with factors external to the
+company—
+(i) a summary of the factors to be used in making each such comparison, and
+(ii) if any of the factors relates to the performance of another company, of two or more
+other companies or of an index on which the securities of a company or companies
+are listed, the identity of that company, of each of those companies or of the index;
+(e) a description of, and an explanation for, any significant amendment proposed to be made
+to the terms and conditions of any entitlement of a director to share options or under a
+long term incentive scheme; and
+(f) if any entitlement of a director to share options, or under a long term incentive scheme, is
+not subject to performance conditions, an explanation as to why that is the case.
+(3) The policy statement must, in respect of each director’s terms and conditions relating to
+remuneration, explain the relative importance of those elements which are, and those which are not,
+related to performance.
+(4) The policy statement must summarise, and explain, the company’s policy on—
+(a) the duration of contracts with directors, and
+(b) notice periods, and termination payments, under such contracts.
+(5) In sub-paragraphs (2) and (3), references to a director are to any person who serves as a
+director of the company at any time in the period beginning with the end of the relevant financial
+year and ending with the date on which the directors’ remuneration report is laid before the company
+in general meeting.
+151
+Document Generated: 2022-01-26
+Status: This is the original version (as it was originally made).
+Statement of consideration of conditions elsewhere in company and group
+4. The directors’ remuneration report must contain a statement of how pay and employment
+conditions of employees of the company and of other undertakings within the same group as
+the company were taken into account when determining directors’ remuneration for the relevant
+financial year.
+Performance graph
+5.—(1) The directors’ remuneration report must—
+(a) contain a line graph that shows for each of—
+(i) a holding of shares of that class of the company’s equity share capital whose listing,
+or admission to dealing, has resulted in the company falling within the definition of
+“quoted company”, and
+(ii) a hypothetical holding of shares made up of shares of the same kinds and number as
+those by reference to which a broad equity market index is calculated,
+a line drawn by joining up points plotted to represent, for each of the financial years in the
+relevant period, the total shareholder return on that holding; and
+(b) state the name of the index selected for the purposes of the graph and set out the reasons
+for selecting that index.
+(2) For the purposes of sub-paragraphs (1) and (4), “relevant period” means the five financial
+years of which the last is the relevant financial year.
+(3) Where the relevant financial year—
+(a) is the company’s second, third or fourth financial year, sub-paragraph (2) has effect with
+the substitution of “two”, “three” or “four” (as the case may be) for “five”; and
+(b) is the company’s first financial year, “relevant period”, for the purposes of sub-paragraphs
+(1) and (4), means the relevant financial year.
+(4) For the purposes of sub-paragraph (1), the “total shareholder return” for a relevant period on
+a holding of shares must be calculated using a fair method that—
+(a) takes as its starting point the percentage change over the period in the market price of the
+holding;
+(b) involves making—
+(i) the assumptions specified in sub-paragraph (5) as to reinvestment of income, and
+(ii) the assumption specified in sub-paragraph (7) as to the funding of liabilities, and
+(c) makes provision for any replacement of shares in the holding by shares of a different
+description;
+and the same method must be used for each of the holdings mentioned in sub-paragraph (1).
+(5) The assumptions as to reinvestment of income are—
+(a) that any benefit in the form of shares of the same kind as those in the holding is added to
+the holding at the time the benefit becomes receivable; and
+(b) that any benefit in cash, and an amount equal to the value of any benefit not in cash and
+not falling within paragraph (a), is applied at the time the benefit becomes receivable in
+the purchase at their market price of shares of the same kind as those in the holding and
+that the shares purchased are added to the holding at that time.
+(6) In sub-paragraph (5) “benefit” means any benefit (including, in particular, any dividend)
+receivable in respect of any shares in the holding by the holder from the company of whose share
+capital the shares form part.
+152
+Document Generated: 2022-01-26
+Status: This is the original version (as it was originally made).
+(7) The assumption as to the funding of liabilities is that, where the holder has a liability to the
+company of whose capital the shares in the holding form part, shares are sold from the holding—
+(a) immediately before the time by which the liability is due to be satisfied, and
+(b) in such numbers that, at the time of the sale, the market price of the shares sold equals the
+amount of the liability in respect of the shares in the holding that are not being sold.
+(8) In sub-paragraph (7) “liability” means a liability arising in respect of any shares in the holding
+or from the exercise of a right attached to any of those shares.
+Service contracts
+6.—(1) The directors’ remuneration report must contain, in respect of the contract of service or
+contract for services of each person who has served as a director of the company at any time during
+the relevant financial year, the following information—
+(a) the date of the contract, the unexpired term and the details of any notice periods;
+(b) any provision for compensation payable upon early termination of the contract; and
+(c) such details of other provisions in the contract as are necessary to enable members of the
+company to estimate the liability of the company in the event of early termination of the
+contract.
+(2) The directors’ remuneration report must contain an explanation for any significant award
+made to a person in the circumstances described in paragraph 15.
+PART 3
+INFORMATION SUBJECT TO AUDIT
+Amount of each director’s emoluments and compensation in the relevant financial year
+7.—(1) The directors’ remuneration report must for the relevant financial year show, for each
+person who has served as a director of the company at any time during that year, each of the
+following—
+(a) the total amount of salary and fees paid to or receivable by the person in respect of
+qualifying services;
+(b) the total amount of bonuses so paid or receivable;
+(c) the total amount of sums paid by way of expenses allowance that are—
+(i) chargeable to United Kingdom income tax (or would be if the person were an
+individual), and
+(ii) paid to or receivable by the person in respect of qualifying services;
+(d) the total amount of—
+(i) any compensation for loss of office paid to or receivable by the person, and
+(ii) any other payments paid to or receivable by the person in connection with the
+termination of qualifying services;
+(e) the total estimated value of any benefits received by the person otherwise than in cash
+that—
+(i) do not fall within any of paragraphs (a) to (d) or paragraphs 8 to 12,
+(ii) are emoluments of the person, and
+(iii) are received by the person in respect of qualifying services; and
+153
+Document Generated: 2022-01-26
+Status: This is the original version (as it was originally made).
+(f) the amount that is the total of the sums mentioned in paragraphs (a) to (e).
+(2) The directors’ remuneration report must show, for each person who has served as a director
+of the company at any time during the relevant financial year, the amount that for the financial year
+preceding the relevant financial year is the total of the sums mentioned in paragraphs (a) to (e) of
+sub-paragraph (1).
+(3) The directors’ remuneration report must also state the nature of any element of a remuneration
+package which is not cash.
+(4) The information required by sub-paragraphs (1) and (2) must be presented in tabular form.
+Share options
+8.—(1) The directors’ remuneration report must contain, in respect of each person who has served
+as a director of the company at any time in the relevant financial year, the information specified in
+paragraph 9.
+(2) Sub-paragraph (1) is subject to paragraph 10 (aggregation of information to avoid excessively
+lengthy reports).
+(3) The information specified in sub-paragraphs (a) to (c) of paragraph 9 must be presented in
+tabular form in the report.
+(4) In paragraph 9 “share option”, in relation to a person, means a share option granted in respect
+of qualifying services of the person.
+9. The information required by sub-paragraph (1) of paragraph 8 in respect of such a person as
+is mentioned in that sub-paragraph is—
+(a) the number of shares that are subject to a share option—
+(i) at the beginning of the relevant financial year or, if later, on the date of the
+appointment of the person as a director of the company, and
+(ii) at the end of the relevant financial year or, if earlier, on the cessation of the person’s
+appointment as a director of the company,
+in each case differentiating between share options having different terms and conditions;
+(b) information identifying those share options that have been awarded in the relevant
+financial year, those that have been exercised in that year, those that in that year have
+expired unexercised and those whose terms and conditions have been varied in that year;
+(c) for each share option that is unexpired at any time in the relevant financial year—
+(i) the price paid, if any, for its award,
+(ii) the exercise price,
+(iii) the date from which the option may be exercised, and
+(iv) the date on which the option expires;
+(d) a description of any variation made in the relevant financial year in the terms and
+conditions of a share option;
+(e) a summary of any performance criteria upon which the award or exercise of a share option
+is conditional, including a description of any variation made in such performance criteria
+during the relevant financial year;
+(f) for each share option that has been exercised during the relevant financial year, the market
+price of the shares, in relation to which it is exercised, at the time of exercise; and
+(g) for each share option that is unexpired at the end of the relevant financial year—
+(i) the market price at the end of that year, and
+154
+Document Generated: 2022-01-26
+Status: This is the original version (as it was originally made).
+(ii) the highest and lowest market prices during that year,
+of each share that is subject to the option.
+10.—(1) If, in the opinion of the directors of the company, disclosure in accordance with
+paragraphs 8 and 9 would result in a disclosure of excessive length then, (subject to sub-paragraphs
+(2) and (3))—
+(a) information disclosed for a person under paragraph 9(a) need not differentiate between
+share options having different terms and conditions;
+(b) for the purposes of disclosure in respect of a person under paragraph 9(c)(i) and (ii) and (g),
+share options may be aggregated and (instead of disclosing prices for each share option)
+disclosure may be made of weighted average prices of aggregations of share options;
+(c) for the purposes of disclosure in respect of a person under paragraph 9(c)(iii) and (iv),
+share options may be aggregated and (instead of disclosing dates for each share option)
+disclosure may be made of ranges of dates for aggregation of share options.
+(2) Sub-paragraph (1)(b) and (c) does not permit the aggregation of—
+(a) share options in respect of shares whose market price at the end of the relevant financial
+year is below the option exercise price, with
+(b) share options in respect of shares whose market price at the end of the relevant financial
+year is equal to, or exceeds, the option exercise price.
+(3) Sub-paragraph (1) does not apply (and accordingly, full disclosure must be made in
+accordance with paragraphs 8 and 9) in respect of share options that during the relevant financial
+year have been awarded or exercised or had their terms and conditions varied.
+Long term incentive schemes
+11.—(1) The directors’ remuneration report must contain, in respect of each person who has
+served as a director of the company at any time in the relevant financial year, the information
+specified in paragraph 12.
+(2) Sub-paragraph (1) does not require the report to contain share option details that are contained
+in the report in compliance with paragraphs 8 to 10.
+(3) The information specified in paragraph 12 must be presented in tabular form in the report.
+(4) For the purposes of paragraph 12—
+(a) “scheme interest”, in relation to a person, means an interest under a long term incentive
+scheme that is an interest in respect of which assets may become receivable under the
+scheme in respect of qualifying services of the person; and
+(b) such an interest “vests” at the earliest time when—
+(i) it has been ascertained that the qualifying conditions have been fulfilled, and
+(ii) the nature and quantity of the assets receivable under the scheme in respect of the
+interest have been ascertained.
+(5) In this Schedule “long term incentive scheme” means any agreement or arrangement under
+which money or other assets may become receivable by a person and which includes one or more
+qualifying conditions with respect to service or performance that cannot be fulfilled within a single
+financial year, and for this purpose the following must be disregarded, namely—
+(a) any bonus the amount of which falls to be determined by reference to service or
+performance within a single financial year;
+(b) compensation in respect of loss of office, payments for breach of contract and other
+termination payments; and
+155
+Document Generated: 2022-01-26
+Status: This is the original version (as it was originally made).
+(c) retirement benefits.
+12.—(1) The information required by sub-paragraph (1) of paragraph 11 in respect of such a
+person as is mentioned in that sub-paragraph is—
+(a) details of the scheme interests that the person has at the beginning of the relevant financial
+year or if later on the date of the appointment of the person as a director of the company;
+(b) details of the scheme interests awarded to the person during the relevant financial year;
+(c) details of the scheme interests that the person has at the end of the relevant financial year
+or if earlier on the cessation of the person’s appointment as a director of the company;
+(d) for each scheme interest within paragraphs (a) to (c)—
+(i) the end of the period over which the qualifying conditions for that interest have
+to be fulfilled (or if there are different periods for different conditions, the end of
+whichever of those periods ends last); and
+(ii) a description of any variation made in the terms and conditions of the scheme
+interests during the relevant financial year; and
+(e) for each scheme interest that has vested in the relevant financial year—
+(i) the relevant details (see sub-paragraph (3)) of any shares,
+(ii) the amount of any money, and
+(iii) the value of any other assets,
+that have become receivable in respect of the interest.
+(2) The details that sub-paragraph (1)(b) requires of a scheme interest awarded during the relevant
+financial year include, if shares may become receivable in respect of the interest, the following—
+(a) the number of those shares;
+(b) the market price of each of those shares when the scheme interest was awarded; and
+(c) details of qualifying conditions that are conditions with respect to performance.
+(3) In sub-paragraph (1)(e)(i) “the relevant details”, in relation to any shares that have become
+receivable in respect of a scheme interest, means—
+(a) the number of those shares;
+(b) the date on which the scheme interest was awarded;
+(c) the market price of each of those shares when the scheme interest was awarded;
+(d) the market price of each of those shares when the scheme interest vested; and
+(e) details of qualifying conditions that were conditions with respect to performance.
+Pensions
+13.—(1) The directors’ remuneration report must, for each person who has served as a director
+of the company at any time during the relevant financial year, contain the information in respect of
+pensions that is specified in sub-paragraphs (2) and (3).
+(2) Where the person has rights under a pension scheme that is a defined benefit scheme in
+relation to the person and any of those rights are rights to which he has become entitled in respect
+of qualifying services of his—
+(a) details—
+(i) of any changes during the relevant financial year in the person’s accrued benefits
+under the scheme, and
+(ii) of the person’s accrued benefits under the scheme as at the end of that year;
+156
+Document Generated: 2022-01-26
+Status: This is the original version (as it was originally made).
+(b) the transfer value, calculated in a manner consistent with “Retirement Benefit Schemes
+– Transfer Values (GN 11)” published by the Institute of Actuaries and the Faculty of
+Actuaries and dated 6th April 2001, of the person’s accrued benefits under the scheme at
+the end of the relevant financial year;
+(c) the transfer value of the person’s accrued benefits under the scheme that in compliance
+with paragraph (b) was contained in the directors’ remuneration report for the previous
+financial year or, if there was no such report or no such value was contained in that report,
+the transfer value, calculated in such a manner as is mentioned in paragraph (b), of the
+person’s accrued benefits under the scheme at the beginning of the relevant financial year;
+(d) the amount obtained by subtracting—
+(i) the transfer value of the person’s accrued benefits under the scheme that is required
+to be contained in the report by paragraph (c), from
+(ii) the transfer value of those benefits that is required to be contained in the report by
+paragraph (b),
+and then subtracting from the result of that calculation the amount of any contributions made to the
+scheme by the person in the relevant financial year.
+(3) Where—
+(a) the person has rights under a pension scheme that is a money purchase scheme in relation
+to the person, and
+(b) any of those rights are rights to which he has become entitled in respect of qualifying
+services of his,
+details of any contribution to the scheme in respect of the person that is paid or payable by the
+company for the relevant financial year or paid by the company in that year for another financial year.
+Excess retirement benefits of directors and past directors
+14.—(1) Subject to sub-paragraph (3), the directors’ remuneration report must show in respect
+of each person who has served as a director of the company—
+(a) at any time during the relevant financial year, or
+(b) at any time before the beginning of that year,
+the amount of so much of retirement benefits paid to or receivable by the person under pension
+schemes as is in excess of the retirement benefits to which he was entitled on the date on which the
+benefits first became payable or 31st March 1997, whichever is the later.
+(2) In subsection (1) “retirement benefits” means retirement benefits to which the person became
+entitled in respect of qualifying services of his.
+(3) Amounts paid or receivable under a pension scheme need not be included in an amount
+required to be shown under sub-paragraph (1) if—
+(a) the funding of the scheme was such that the amounts were or, as the case may be, could
+have been paid without recourse to additional contributions; and
+(b) amounts were paid to or receivable by all pensioner members of the scheme on the same
+basis;
+and in this sub-paragraph “pensioner member”, in relation to a pension scheme, means any person
+who is entitled to the present payment of retirement benefits under the scheme.
+(4) In this paragraph—
+(a) references to retirement benefits include benefits otherwise than in cash; and
+157
+Document Generated: 2022-01-26
+Status: This is the original version (as it was originally made).
+(b) in relation to so much of retirement benefits as consists of a benefit otherwise than in cash,
+references to their amount are to the estimated money value of the benefit,
+and the nature of any such benefit must also be shown in the report.
+Compensation for past directors
+15. The directors’ remuneration report must contain details of any significant award made in the
+relevant financial year to any person who was not a director of the company at the time the award
+was made but had previously been a director of the company, including (in particular) compensation
+in respect of loss of office and pensions but excluding any sums which have already been shown in
+the report under paragraph 7(1)(d).
+Sums paid to third parties in respect of a director’s services
+16.—(1) The directors’ remuneration report must show, in respect of each person who served as
+a director of the company at any time during the relevant financial year, the aggregate amount of any
+consideration paid to or receivable by third parties for making available the services of the person—
+(a) as a director of the company, or
+(b) while director of the company—
+(i) as director of any of its subsidiary undertakings, or
+(ii) as director of any other undertaking of which he was (while director of the company)
+a director by virtue of the company’s nomination (direct or indirect), or
+(iii) otherwise in connection with the management of the affairs of the company or any
+such other undertaking.
+(2) The reference to consideration includes benefits otherwise than in cash; and in relation to
+such consideration the reference to its amount is to the estimated money value of the benefit.
+The nature of any such consideration must be shown in the report.
+(3) The reference to third parties is to persons other than—
+(a) the person himself or a person connected with him or a body corporate controlled by him,
+and
+(b) the company or any such other undertaking as is mentioned in sub-paragraph (1)(b)(ii).

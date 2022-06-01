@@ -1,0 +1,734 @@
+Form 51-102F1
+Management’s Discussion & Analysis
+Table of Contents
+PART 1 GENERAL PROVISIONS
+(a) What is MD&A?
+(b) Date of Information
+(c) Use of “Company”
+(d) Explain Your Analysis
+(e) Focus on Material Information
+(f) What is Material?
+(g) Venture Issuers Without Significant Revenue
+(h) Reverse Takeover Transactions
+(i) [Repealed]
+(j) Resource Issuers
+(k) Numbering and Headings
+(l) Omitting Information
+(m) Defined Terms
+(n) Plain Language
+(o) Available Prior Period Information
+(p) Use of “Financial Condition”
+PART 2 CONTENT OF MD&A
+Item 1 Annual MD&A
+1.1 Date
+1.2 Overall Performance
+1.3 Selected Annual Information
+1.4 Discussion of Operations
+1.5 Summary of Quarterly Results
+1.6 Liquidity
+1.7 Capital Resources
+1.8 Off-Balance Sheet Arrangements
+1.9 Transactions Between Related Parties
+1.10 Fourth Quarter
+1.11 Proposed Transactions
+1.12 Critical Accounting Estimates
+1.13 Changes in Accounting Policies including Initial Adoption
+1.14 Financial Instruments and Other Instruments
+1.15 Other MD&A Requirements
+Item 2 Interim MD&A
+2.1 Date
+2.2 Interim MD&A
+2.3 Other Interim MD&A Requirements
+1
+Form 51-102F1
+Management’s Discussion & Analysis
+PART 1 GENERAL PROVISIONS
+(a) What is MD&A?
+MD&A is a narrative explanation, through the eyes of management, of how
+your company performed during the period covered by the financial
+statements, and of your company’s financial condition and future prospects.
+MD&A complements and supplements your financial statements, but does not
+form part of your financial statements.
+Your objective when preparing the MD&A should be to improve your
+company’s overall financial disclosure by giving a balanced discussion of
+your company’s financial performance and financial condition including,
+without limitation, such considerations as liquidity and capital resources -
+openly reporting bad news as well as good news. Your MD&A should
+• help current and prospective investors understand what the financial
+statements show and do not show;
+• discuss material information that may not be fully reflected in the
+financial statements, such as contingent liabilities, defaults under debt,
+off-balance sheet financing arrangements, or other contractual
+obligations;
+• discuss important trends and risks that have affected the financial
+statements, and trends and risks that are reasonably likely to affect
+them in the future; and
+• provide information about the quality, and potential variability, of your
+company’s profit or loss and cash flow, to assist investors in
+determining if past performance is indicative of future performance.
+(b) Date of Information
+In preparing the MD&A, you must take into account information available up
+to the date of the MD&A. If the date of the MD&A is not the date it is filed,
+you must ensure the disclosure in the MD&A is current so that it will not be
+misleading when it is filed.
+(c) Use of “Company”
+Wherever this Form uses the word “company”, the term includes other types
+of business organizations such as partnerships, trusts and other unincorporated
+2
+business entities.
+(d) Explain Your Analysis
+Explain the nature of, and reasons for, changes in your company’s
+performance. Do not simply disclose the amount of change in a financial
+statement item from period to period. Avoid using boilerplate language. Your
+discussion should assist the reader to understand trends, events, transactions
+and expenditures.
+(e) Focus on Material Information
+Focus your MD&A on material information. You do not need to disclose
+information that is not material. Exercise your judgment when determining
+whether information is material.
+(f) What is Material?
+Would a reasonable investor’s decision whether or not to buy, sell or hold
+securities in your company likely be influenced or changed if the information
+in question was omitted or misstated? If so, the information is likely material.
+(g) Venture Issuers
+If your company is a venture issuer, you have the option of meeting the
+requirement to provide interim MD&A under section 2.2 by instead providing
+quarterly highlights disclosure. Refer to Companion Policy 51-102CP for
+guidance on quarterly highlights.
+If your company is a venture issuer without significant revenue from
+operations, in your MD&A including any quarterly highlights, focus your
+discussion and analysis of financial performance on expenditures and progress
+towards achieving your business objectives and milestones.
+(h) Reverse Takeover Transactions
+If an acquisition is a reverse takeover, the MD&A should be based on the
+reverse takeover acquirer’s financial statements.
+(i) [Repealed]
+(j) Resource Issuers
+If your company has mineral projects, your disclosure must comply with
+National Instrument 43-101 Standards of Disclosure for Mineral Projects,
+including the requirement that all scientific and technical disclosure be based
+3
+on a technical report or other information prepared by or under the supervision
+of a qualified person.
+If your company has oil and gas activities, your disclosure must comply with
+National Instrument 51-101 Standards of Disclosure for Oil and Gas
+Activities.
+(k) Numbering and Headings
+The numbering, headings and ordering of items included in this Form are
+guidelines only. You do not need to include the headings or numbering or
+follow the order of items in this Form. Disclosure provided in response to any
+item need not be repeated elsewhere.
+(l) Omitting Information
+You do not need to respond to any item in this Form that is inapplicable.
+(m) Defined Terms
+If a term is used but not defined in this Form, refer to Part 1 of National
+Instrument 51-102 and to National Instrument 14-101 Definitions. If a term is
+used in this Form and is defined in both the securities statute of the local
+jurisdiction and in National Instrument 51-102, refer to section 1.4 of
+Companion Policy 51-102CP for further guidance.
+This Form also uses accounting terms that are defined or used in Canadian
+GAAP applicable to publicly accountable enterprises. For further guidance,
+see subsections 1.4(7) and (8) of Companion Policy 51-102CP.
+(n) Plain Language
+Write the MD&A so that readers are able to understand it. Refer to the plain
+language principles listed in section 1.5 of Companion Policy 51-102CP for
+further guidance. If you use technical terms, explain them in a clear and
+concise manner.
+(o) Available Prior Period Information
+If you have not presented comparative financial information in your financial
+statements, in your MD&A you must provide prior period information relating
+to financial performance that is available.
+(p) Use of “Financial Condition”
+This Form uses the term “financial condition”. Financial condition reflects the
+4
+overall health of the company and includes your company’s financial position
+(as shown on the statement of financial position) and other factors that may
+affect your company’s liquidity, capital resources and solvency.
+PART 2 CONTENT OF MD&A
+Item 1 Annual MD&A
+1.1 Date
+Specify the date of your MD&A. The date of the MD&A must be no earlier
+than the date of the auditor’s report on the annual financial statements for your
+company’s most recently completed financial year.
+1.2 Overall Performance
+Provide an analysis of your company’s financial condition, financial
+performance and cash flows. Discuss known trends, demands, commitments,
+events or uncertainties that are reasonably likely to have an effect on your
+company’s business. Compare your company’s performance in the most
+recently completed financial year to the prior year’s performance. Your
+analysis should address at least the following:
+(a) operating segments that are reportable segments as those terms are
+described in the issuer’s GAAP;
+(b) other parts of your business if
+(i) they have a disproportionate effect on revenue, profit or loss or
+cash needs; or
+(ii) there are any legal or other restrictions on the flow of funds
+from one part of your company’s business to another;
+(c) industry and economic factors affecting your company’s performance;
+(d) why changes have occurred or expected changes have not occurred in
+your company’s financial condition and financial performance; and
+(e) the effect of discontinued operations on current operations.
+INSTRUCTIONS
+(i) When explaining changes in your company’s financial condition and results,
+include an analysis of the effect on your continuing operations of any acquisition,
+disposition, write-off, abandonment or other similar transaction.
+5
+(ii) A discussion of financial condition should include important trends and risks that
+have affected the financial statements, and trends and risks that are reasonably
+likely to affect them in the future.
+(iii) Include information for a period longer than two financial years if it will help the
+reader to better understand a trend.
+1.3 Selected Annual Information
+(1) Provide the following financial data derived from your company’s annual
+financial statements for each of the three most recently completed financial
+years:
+(a) total revenue;
+(b) profit or loss from continuing operations attributable to owners of the
+parent, in total and on a per-share and diluted per-share basis;
+(c) profit or loss attributable to owners of the parent, in total and on a pershare and diluted per-share basis;
+(d) total assets;
+(e) total non-current financial liabilities; and
+(f) distributions or cash dividends declared per-share for each class of
+share.
+(2) Discuss the factors that have caused period to period variations including
+discontinued operations, changes in accounting policies, significant
+acquisitions or dispositions and changes in the direction of your business, and
+any other information your company believes would enhance an
+understanding of, and would highlight trends in, financial position and
+financial performance.
+INSTRUCTIONS
+(i) For each of the three most recently completed financial years, indicate the
+accounting principles that the financial data has been prepared in accordance
+with, the presentation currency and the functional currency if different from the
+presentation currency.
+(ii) If the financial data provided was not prepared in accordance with the same
+accounting principles for all three years, focus the discussion on the important
+trends and risks that have affected the business.
+6
+1.4 Discussion of Operations
+Discuss your analysis of your company’s operations for the most recently
+completed financial year, including
+(a) total revenue by reportable segment, including any changes in such
+amounts caused by selling prices, volume or quantity of goods or
+services being sold, or the introduction of new products or services;
+(b) any other significant factors that caused changes in total revenue;
+(c) cost of sales or gross profit;
+(d) for issuers that have significant projects that have not yet generated
+revenue, describe each project, including your company’s plan for the
+project and the status of the project relative to that plan, and
+expenditures made and how these relate to anticipated timing and costs
+to take the project to the next stage of the project plan;
+(e) for resource issuers with producing mines or mines under
+development, identify any milestone, including, without limitation,
+mine expansion plans, productivity improvements, plans to develop a
+new deposit, or production decisions, and whether the milestone is
+based on a technical report filed under National Instrument 43-101
+Standards of Disclosure for Mineral Projects;
+(f) factors that caused a change in the relationship between costs and
+revenue, including changes in costs of labour or materials, price
+changes or inventory adjustments;
+(g) commitments, events, risks or uncertainties that you reasonably
+believe will materially affect your company’s future performance
+including total revenue and profit or loss from continuing operations
+attributable to owners of the parent;
+(h) effect of inflation and specific price changes on your company’s total
+revenue and on profit or loss from continuing operations attributable to
+owners of the parent;
+(i) a comparison in tabular form of disclosure you previously made about
+how your company was going to use proceeds (other than working
+capital) from any financing, an explanation of variances and the
+impact of the variances, if any, on your company’s ability to achieve
+its business objectives and milestones; and
+7
+(j) unusual or infrequent events or transactions.
+INSTRUCTION
+Your discussion under paragraph 1.4(d) should include
+(i) whether or not you plan to expend additional funds on the project; and
+(ii) any factors that have affected the value of the project(s) such as change in
+commodity prices, land use or political or environmental issues.
+1.5 Summary of Quarterly Results
+Provide the following information in summary form, derived from your
+company’s financial statements, for each of the eight most recently completed
+quarters:
+(a) total revenue;
+(b) profit or loss from continuing operations attributable to owners of the
+parent, in total and on a per-share and diluted per-share basis; and
+(c) profit or loss attributable to owners of the parent, in total and on a pershare and diluted per-share basis.
+Discuss the factors that have caused variations over the quarters necessary to
+understand general trends that have developed and the seasonality of the
+business.
+INSTRUCTIONS
+(i) In the case of the annual MD&A, your most recently completed quarter is the
+quarter that ended on the last day of your most recently completed financial year.
+(ii) You do not have to provide information for a quarter prior to your company
+becoming a reporting issuer if your company has not prepared financial
+statements for those quarters.
+(iii) For sections 1.2, 1.3, 1.4 and 1.5 consider identifying, discussing and analyzing
+the following factors:
+(A) changes in customer buying patterns, including changes due to new
+technologies and changes in demographics;
+(B) changes in selling practices, including changes due to new distribution
+arrangements or a reorganization of a direct sales force;
+8
+(C) changes in competition, including an assessment of the issuer’s resources,
+strengths and weaknesses relative to those of its competitors;
+(D) the effect of exchange rates;
+(E) changes in pricing of inputs, constraints on supply, order backlog, or
+other input-related matters;
+(F) changes in production capacity, including changes due to plant closures
+and work stoppages;
+(G) changes in volume of discounts granted to customers, volumes of returns
+and allowances, excise and other taxes or other amounts reflected on a net
+basis against revenue;
+(H) changes in the terms and conditions of service contracts;
+(I) the progress in achieving previously announced milestones;
+(J) for resource issuers with producing mines, identify changes to cash flows
+caused by changes in production throughput, head-grade, cut-off grade,
+metallurgical recovery and any expectation of future changes; and
+(K) if you have an equity investee that is significant to your company, the
+nature of the investment and significance to your company.
+(iv) For each of the eight most recently completed quarters, indicate the accounting
+principles that the financial data has been prepared in accordance with, the
+presentation currency and the functional currency if different from the
+presentation currency.
+(v) If the financial data provided was not prepared in accordance with the same
+accounting principles for all eight quarters, focus the discussion on the important
+trends and risks that have affected the business.
+1.6 Liquidity
+Provide an analysis of your company’s liquidity, including
+(a) its ability to generate sufficient amounts of cash and cash equivalents,
+in the short term and the long term, to maintain your company’s
+capacity, to meet your company’s planned growth or to fund
+development activities;
+(b) trends or expected fluctuations in your company’s liquidity, taking into
+9
+account demands, commitments, events or uncertainties;
+(c) its working capital requirements;
+(d) liquidity risks associated with financial instruments;
+(e) if your company has or expects to have a working capital deficiency,
+discuss its ability to meet obligations as they become due and how you
+expect it to remedy the deficiency;
+(f) statement of financial position conditions or profit or loss attributable
+to owners of the parent or cash flow items that may affect your
+company’s liquidity;
+(g) legal or practical restrictions on the ability of subsidiaries to transfer
+funds to your company and the effect these restrictions have had or
+may have on the ability of your company to meet its obligations; and
+(h) defaults or arrears or significant risk of defaults or arrears on
+(i) distributions or dividend payments, lease payments, interest or
+principal payment on debt;
+(ii) debt covenants; and
+(iii) redemption or retraction or sinking fund payments,
+and how your company intends to cure the default or arrears or address the
+risk.
+INSTRUCTIONS
+(i) In discussing your company’s ability to generate sufficient amounts of cash and
+cash equivalents you should describe sources of funding and the circumstances
+that could affect those sources that are reasonably likely to occur. Examples of
+circumstances that could affect liquidity are market or commodity price changes,
+economic downturns, defaults on guarantees and contractions of operations.
+(ii) In discussing trends or expected fluctuations in your company’s liquidity and
+liquidity risks associated with financial instruments you should discuss
+(A) provisions in debt, lease or other arrangements that could trigger an
+additional funding requirement or early payment. Examples of such
+situations are provisions linked to credit rating, profit or loss, cash flows
+or share price; and
+10
+(B) circumstances that could impair your company’s ability to undertake
+transaction considered essential to operations. Examples of such
+circumstances are the inability to maintain investment grade credit rating,
+earnings per-share, cash flow or share price.
+(iii) In discussing your company’s working capital requirements you should discuss
+situations where your company must maintain significant inventory to meet
+customers’ delivery requirements or any situations involving extended payment
+terms.
+(iv) In discussing your company’s statement of financial position conditions or profit
+or loss or cash flow items you should present a summary, in tabular form, of
+contractual obligations including payments due for each of the next five years and
+thereafter. The summary and table do not have to be provided if your company is
+a venture issuer. An example of a table that can be adapted to your company’s
+particular circumstances follows:
+Payments Due by Period
+Contractual
+Obligations Total
+Less than
+1 year
+1 - 3
+years
+4 - 5
+years
+After
+5 years
+Debt
+Finance Lease
+Obligations
+Operating Leases
+Purchase Obligations1
+Other Obligations2
+Total Contractual
+Obligations
+_____________
+1 “Purchase Obligation” means an agreement to purchase goods or services that is
+enforceable and legally binding on your company that specifies all significant
+terms, including: fixed or minimum quantities to be purchased; fixed, minimum
+or variable price provisions; and the approximate timing of the transaction.
+2 “Other Obligations” means other financial liabilities reflected on your company’s
+statement of financial position.
+The tabular presentation may be accompanied by footnotes to describe provisions that
+create, increase or accelerate obligations, or other details to the extent necessary for an
+understanding of the timing and amount of your company’s specified contractual
+obligations.
+1.7 Capital Resources
+Provide an analysis of your company’s capital resources, including
+11
+(a) commitments for capital expenditures as of the date of your company’s
+financial statements including
+(i) the amount, nature and purpose of these commitments;
+(ii) the expected source of funds to meet these commitments; and
+(iii) expenditures not yet committed but required to maintain your
+company’s capacity, to meet your company’s planned growth
+or to fund development activities;
+(b) known trends or expected fluctuations in your company’s capital
+resources, including expected changes in the mix and relative cost of
+these resources; and
+(c) sources of financing that your company has arranged but not yet used.
+INSTRUCTIONS
+(i) Capital resources are financing resources available to your company and include
+debt, equity and any other financing arrangements that you reasonably consider
+will provide financial resources to your company.
+(ii) In discussing your company’s commitments you should discuss any exploration
+and development, or research and development expenditures required to maintain
+properties or agreements in good standing.
+1.8 Off-Balance Sheet Arrangements
+Discuss any off-balance sheet arrangements that have, or are reasonably likely
+to have, a current or future effect on the financial performance or financial
+condition of your company including, without limitation, such considerations
+as liquidity and capital resources.
+In your discussion of off-balance sheet arrangements you should discuss their
+business purpose and activities, their economic substance, risks associated
+with the arrangements, and the key terms and conditions associated with any
+commitments. Your discussion should include
+(a) a description of the other contracting party(ies);
+(b) the effects of terminating the arrangement;
+(c) the amounts receivable or payable, revenue, expenses and cash flows
+resulting from the arrangement;
+12
+(d) the nature and amounts of any other obligations or liabilities arising
+from the arrangement that could require your company to provide
+funding under the arrangement and the triggering events or
+circumstances that could cause them to arise; and
+(e) any known event, commitment, trend or uncertainty that may affect the
+availability or benefits of the arrangement (including any termination)
+and the course of action that management has taken, or proposes to
+take, in response to any such circumstances.
+INSTRUCTIONS
+(i) Off-balance sheet arrangements include any contractual arrangement with an
+entity not reported on a consolidated basis with your company, under which your
+company has
+(A) any obligation under certain guarantee contracts;
+(B) a retained or contingent interest in assets transferred to an unconsolidated
+entity or similar arrangement that serves as credit, liquidity or market risk
+support to that entity for the assets;
+(C) any obligation under certain derivative instruments; or
+(D) any obligation held by your company in an unconsolidated entity that
+provides financing, liquidity, market risk or credit risk support to your
+company, or engages in leasing, hedging activities or, research and
+development services with your company.
+(ii) Contingent liabilities arising out of litigation, arbitration or regulatory actions
+are not considered to be off-balance sheet arrangements.
+(iii) Disclosure of off-balance sheet arrangements should cover the most recently
+completed financial year. However, the discussion should address changes from
+the previous year where such discussion is necessary to understand the
+disclosure.
+(iv) The discussion need not repeat information provided in the notes to the financial
+statements if the discussion clearly cross-references to specific information in the
+relevant notes and integrates the substance of the notes into the discussion in a
+manner that explains the significance of the information not included in the
+MD&A.
+13
+1.9 Transactions Between Related Parties
+Discuss all transactions between related parties as defined by the issuer’s
+GAAP.
+INSTRUCTION
+In discussing your company’s transactions between related parties, your discussion
+should include both qualitative and quantitative characteristics that are necessary for an
+understanding of the transactions’ business purpose and economic substance. You should
+discuss
+(A) the relationship and identify the related person or entities;
+(B) the business purpose of the transaction;
+(C) the recorded amount of the transaction and describe the measurement basis used;
+and
+(D) any ongoing contractual or other commitments resulting from the transaction.
+1.10 Fourth Quarter
+Discuss and analyze fourth quarter events or items that affected your
+company’s financial condition, financial performance or cash flows, year-end
+and other adjustments, seasonal aspects of your company’s business and
+dispositions of business segments. If your company has filed separate MD&A
+for its fourth quarter, you may satisfy this requirement by incorporating that
+MD&A by reference.
+1.11 Proposed Transactions
+Discuss the expected effect on financial condition, financial performance and
+cash flows of any proposed asset or business acquisition or disposition if your
+company’s board of directors, or senior management who believe that
+confirmation of the decision by the board is probable, have decided to proceed
+with the transaction. Include the status of any required shareholder or
+regulatory approvals.
+INSTRUCTION
+You do not have to disclose this information if, under section 7.1 of National Instrument
+51-102, your company has filed a Form 51-102F3 Material Change Report regarding the
+transaction on a confidential basis and the report remains confidential.
+14
+1.12 Critical Accounting Estimates
+If your company is not a venture issuer, provide an analysis of your
+company’s critical accounting estimates. Your analysis should
+(a) identify and describe each critical accounting estimate used by your
+company including
+(i) a description of the accounting estimate;
+(ii) the methodology used in determining the critical accounting
+estimate;
+(iii) the assumptions underlying the accounting estimate that relate
+to matters highly uncertain at the time the estimate was made;
+(iv) any known trends, commitments, events or uncertainties that
+you reasonably believe will materially affect the methodology
+or the assumptions described; and
+(v) if applicable, why the accounting estimate is reasonably likely
+to change from period to period and have a material impact on
+the financial presentation;
+(b) explain the significance of the accounting estimate to your company’s
+financial position, changes in financial position and financial
+performance and identify the financial statement line items affected by
+the accounting estimate;
+(c) [Repealed]
+(d) discuss changes made to critical accounting estimates during the past
+two financial years including the reasons for the change and the
+quantitative effect on your company’s overall financial performance
+and financial statement line items; and
+(e) identify the reportable segments of your company’s business that the
+accounting estimate affects and discuss the accounting estimate on a
+reportable segment basis, if your company operates in more than one
+reportable segment.
+INSTRUCTIONS
+(i) An accounting estimate is a critical accounting estimate only if
+(A) it requires your company to make assumptions about matters that are
+15
+highly uncertain at the time the accounting estimate is made; and
+(B) different estimates that your company could have used in the current
+period, or changes in the accounting estimate that are reasonably likely to
+occur from period to period, would have a material impact on your
+company’s financial condition, changes in financial condition or financial
+performance.
+(ii) As part of your description of each critical accounting estimate, in addition to
+qualitative disclosure, you should provide quantitative disclosure when
+quantitative information is reasonably available and would provide material
+information for investors. Similarly, in your discussion of assumptions underlying
+an accounting estimate that relates to matters highly uncertain at the time the
+estimate was made, you should provide quantitative disclosure when it is
+reasonably available and it would provide material information for investors. For
+example, quantitative information may include a sensitivity analysis or disclosure
+of the upper and lower ends of the range of estimates from which the recorded
+estimate was selected.
+1.13 Changes in Accounting Policies including Initial Adoption
+Discuss and analyze any changes in your company’s accounting policies,
+including
+(a) for any accounting policies that you have adopted or expect to adopt
+subsequent to the end of your most recently completed financial year,
+including changes you have made or expect to make voluntarily and
+those due to a change in an accounting standard or a new accounting
+standard that you do not have to adopt until a future date, you should
+(i) describe the new standard, the date you are required to adopt it
+and, if determined, the date you plan to adopt it;
+(ii) disclose the methods of adoption permitted by the accounting
+standard and the method you expect to use;
+(iii) discuss the expected effect on your company’s financial
+statements, or if applicable, state that you cannot reasonably
+estimate the effect; and
+(iv) discuss the potential effect on your business, for example
+technical violations or default of debt covenants or changes in
+business practices; and
+(b) for any accounting policies that you have initially adopted during the
+most recently completed financial year, you should
+16
+(i) describe the events or transactions that gave rise to the initial
+adoption of an accounting policy;
+(ii) describe the accounting policy that has been adopted and the
+method of applying that policy;
+(iii) discuss the effect resulting from the initial adoption of the
+accounting policy on your company’s financial position,
+changes in financial position and financial performance;
+(iv) if your company is permitted a choice among acceptable
+accounting policies,
+(A) state that you made a choice among acceptable
+alternatives;
+(B) identify the alternatives;
+(C) describe why you made the choice that you did; and
+(D) discuss the effect, where material, on your company’s
+financial position, changes in financial position and
+financial performance under the alternatives not chosen;
+and
+(v) if no accounting literature exists that covers the accounting for
+the events or transactions giving rise to your initial adoption of
+the accounting policy, explain your decision regarding which
+accounting policy to use and the method of applying that
+policy.
+INSTRUCTION
+You do not have to present the discussion under paragraph 1.13(b) for the initial
+adoption of accounting policies resulting from the adoption of new accounting standards.
+1.14 Financial Instruments and Other Instruments
+For financial instruments and other instruments,
+(a) discuss the nature and extent of your company’s use of, including
+relationships among, the instruments and the business purposes that
+they serve;
+(b) describe and analyze the risks associated with the instruments;
+17
+(c) describe how you manage the risks in paragraph (b), including a
+discussion of the objectives, general strategies and instruments used to
+manage the risks, including any hedging activities;
+(d) disclose the financial statement classification and amounts of income,
+expenses, gains and losses associated with the instrument; and
+(e) discuss the significant assumptions made in determining the fair value
+of financial instruments, the total amount and financial statement
+classification of the change in fair value of financial instruments
+recognized in profit or loss for the period, and the total amount and
+financial statement classification of deferred or unrecognized gains
+and losses on financial instruments.
+INSTRUCTIONS
+(i) “Other instruments” are instruments that may be settled by the delivery of nonfinancial assets. A commodity futures contract is an example of an instrument that
+may be settled by delivery of non-financial assets.
+(ii) Your discussion under paragraph 1.14(a) should enhance a reader’s
+understanding of the significance of recognized and unrecognized instruments on
+your company’s financial position, financial performance and cash flows. The
+information should also assist a reader in assessing the amounts, timing, and
+certainty of future cash flows associated with those instruments. Also discuss the
+relationship between liability and equity components of convertible debt
+instruments.
+(iii) For purposes of paragraph 1.14(c), if your company is exposed to significant
+price, credit or liquidity risks, consider providing a sensitivity analysis or tabular
+information to help readers assess the degree of exposure. For example, an
+analysis of the effect of a hypothetical change in the prevailing level of interest or
+currency rates on the fair value of financial instruments and future profit or loss
+and cash flows may be useful in describing your company’s exposure to price
+risk.
+(iv) For purposes of paragraph 1.14(d), disclose and explain the revenue, expenses,
+gains and losses from hedging activities separately from other activities.
+1.15 Other MD&A Requirements
+(a) Your MD&A must disclose that additional information relating to your
+company, including your company’s AIF if your company files an
+AIF, is on SEDAR at www.sedar.com.
+18
+(b) Your MD&A must also provide the information required in the
+following sections of National Instrument 51-102, if applicable:
+(i) Section 5.3 – Additional Disclosure for Venture Issuers
+without Significant Revenue;
+(ii) Section 5.4 – Disclosure of Outstanding Share Data; and
+(iii) Section 5.7 – Additional Disclosure for Reporting Issuers with
+Significant Equity Investees.
+(c) Your MD&A must include the MD&A disclosure required by National
+Instrument 52-109 Certification of Disclosure in Issuers’ Annual and
+Interim Filings and, as applicable, Form 52-109F1 Certification of
+Annual Filings – Full Certificate, Form 52-109F1R Certification of
+Refiled Annual Filings, or Form 52-109F1 AIF Certification of Annual
+Filings in Connection with Voluntarily Filed AIF.
+Item 2 Interim MD&A
+2.1 Date
+Specify the date of your interim MD&A.
+2.2 Interim MD&A
+Interim MD&A must update your company’s annual MD&A for all disclosure
+required by Item 1 except section 1.3. This disclosure must include
+(a) a discussion of your analysis of
+(i) current quarter and year-to-date results including a comparison
+of financial performance to the corresponding periods in the
+previous year;
+(i.i) a comparison of cash flows to the corresponding period in the
+previous year;
+(ii) changes in financial performance and elements of profit or loss
+attributable to owners of the parent that are not related to
+ongoing business operations;
+(iii) any seasonal aspects of your company’s business that affect its
+financial position, financial performance or cash flows; and
+(b) a comparison of your company’s interim financial condition to your
+19
+company’s financial condition as at the most recently completed
+financial year-end.
+INSTRUCTION
+(i) If the first MD&A you file in this Form (your first MD&A) is an interim MD&A,
+you must provide all the disclosure called for in Item 1 in your first MD&A. Base
+the disclosure, except the disclosure for section 1.3, on your interim financial
+report. Since you do not have to update the disclosure required in section 1.3 in
+your interim MD&A, your first MD&A will provide disclosure under section 1.3
+based on your annual financial statements. Your subsequent interim MD&A for
+that year will update your first interim MD&A.
+(ii) For the purposes of paragraph 2.2(b), you may assume the reader has access to
+your annual MD&A or your first MD&A. You do not have to duplicate the
+discussion and analysis of financial condition in your annual MD&A or your first
+MD&A. For example, if economic and industry factors are substantially
+unchanged you may make a statement to this effect.
+(iii) For the purposes of subparagraph 2.2(a)(i), you should generally give
+prominence to the current quarter.
+(iv) In discussing your company’s statement of financial position conditions or profit
+or loss or cash flow items for an interim period, you do not have to present a
+summary, in tabular form, of all known contractual obligations contemplated
+under section 1.6. Instead, you should disclose material changes in the specified
+contractual obligations during the interim period.
+(v) Interim MD&A prepared in accordance with Item 2 is not required for your
+company’s fourth quarter as relevant fourth quarter content will be contained in
+your company’s annual MD&A prepared in accordance with Item 1 (see section
+1.10).
+(vi) In your interim MD&A, update the summary of quarterly results in section 1.5 by
+providing summary information for the eight most recently completed quarters.
+(vii) Your annual MD&A may not include all the information in Item 1 if you were a
+venture issuer as at the end of your last financial year. If you ceased to be a
+venture issuer during your interim period, you do not have to restate the MD&A
+you previously filed. Instead, provide the disclosure for the additional sections in
+Item 1 that you were exempt from as a venture issuer in the next interim MD&A
+you file. Base your disclosure for those sections on your interim financial report.
+2.2.1 Quarterly Highlights
+If your company is a venture issuer, you have the option of meeting the
+20
+requirement to provide interim MD&A under section 2.2 by instead providing
+a short discussion of all material information about your company’s
+operations, liquidity and capital resources. Include in your discussion:
+• an analysis of your company’s financial condition, financial
+performance and cash flows and any significant factors that have
+caused period to period variations in those measures;
+• known trends, risks or demands;
+• major operating milestones;
+• commitments, expected or unexpected events, or uncertainties that
+have materially affected your company’s operations, liquidity and
+capital resources in the interim period or are reasonably likely to have
+a material effect going forward;
+• any significant changes from disclosure previously made about how
+the company was going to use proceeds from any financing and an
+explanation of variances;
+• any significant transactions between related parties that occurred in the
+interim period.
+INSTRUCTIONS
+(i) If the first MD&A you file in this Form (your first MD&A) is an interim MD&A,
+you cannot use quarterly highlights. Rather, you must provide all the disclosure
+called for in Item 1 in your first MD&A. Base the disclosure, except the disclosure
+for section 1.3, on your interim financial report. Since you do not have to update
+the disclosure required in section 1.3 in your interim MD&A, your first MD&A
+will provide disclosure under section 1.3 based on your annual financial
+statements.
+(ii) Provide a short, focused discussion that gives a balanced and accurate picture of
+the company’s business activities during the interim period. The purpose of the
+quarterly highlights reporting is to provide a brief narrative update about the
+business activities, financial condition, financial performance and cash flow of
+the company. While summaries are to be clear and concise, they are subject to the
+normal prohibitions against false and misleading statements.
+(iii) Quarterly highlights prepared in accordance with section 2.2.1 are not required
+for your company’s fourth quarter as relevant fourth quarter content will be
+contained in your company’s annual MD&A prepared in accordance with Item 1
+(see section 1.10).
+21
+(iv) You must title your quarterly highlights “Interim MD&A – Quarterly Highlights”.
+(v) If there was a change to the company’s accounting policies during the interim
+period, include a description of the material effects resulting from the change.
+2.2.2 Quarterly Highlights - Transition
+Section 2.2.1 applies to an issuer in respect of a financial year beginning on or
+after July 1, 2015.
+2.3 Other Interim MD&A Requirements
+Your interim MD&A must include the interim MD&A disclosure required by
+National Instrument 52-109 Certification of Disclosure in Issuers’ Annual and
+Interim Filings and, as applicable, Form 52-109F2 Certification of Interim
+Filings – Full Certificate or Form 52-109F2R Certification of Refiled Interim
+Filings.

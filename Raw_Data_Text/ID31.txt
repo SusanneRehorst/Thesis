@@ -1,0 +1,2085 @@
+MINISTRY OF CORPORATE AFFAIRS
+Government of India
+National Guidelines
+on responsible
+Business conduct
+
+1
+Technical support provided by
+National Guidelines
+on
+Responsible Business Conduct
+
+National Guidelines on Responsible Business Conduct 3
+Message: Hon’ble Prime Minister, Government of India 5
+Foreword: Union Minister of Finance and Corporate Affairs 6
+Description and Explanation of Terms 7
+Chapter 1: Introduction 11
+Chapter 2: Core Elements 14
+ANNEXURES 29
+Annexure 1: Guidance on Adoption of NGRBC 30
+Annexure 2: Guidance for Micro, Small and Medium Enterprises 35
+Annexure 3: Business Responsibility Reporting Framework 38
+Annexure 4: SDGs Mapped Against NGRBC Principles 50
+Annexure 5: Business Case Matrix 52
+Annexure 6: Guidance for Businesses on Using the BRRF as a SelfAssessment Tool 53
+Annexure 7: Indian Laws Principles (Indicative) 55
+Annexure 8: Resources 59
+Table of Contents
+
+National Guidelines on Responsible Business Conduct 7
+Some of the key terms used in this document are
+described here. These descriptions are only indicative.
+They have been selected based on a review of Indian
+and international definitions, and their applicability
+in the context of these Guidelines.
+Accountable: Being responsible and answerable for
+their actions, willing to explain them to others, and
+taking ownership of all repercussions if so required.
+Circular Economy: This is an alternative to a
+traditional linear economy (make, use, dispose), in
+which resources are used for as long as possible, the
+maximum value is extracted from them whilst in use,
+after which products and materials are recovered
+and regenerated at the end of each service life. The
+idea of a circular economy is called circularity. It is
+also referred to as “cradle-to-cradle”.
+Collective Bargaining: Negotiating between
+the employees’ organization and employer’s
+oorganization; management in good faith with
+a view to agree on terms and conditions of work
+and / or settlement of disputes and grievances of
+employees represented by a representative body of
+employees
+Complicity: Refers to involvement of the business in
+violations of any of the Principles and Core Elements
+by third parties connected with its operations. It is
+generally made up of the following:
+•	 An action or omission (failure to act) by a business,
+or individual representing a business, that ‘helps’
+(facilitates, legitimize, assists, encourages, etc.)
+another, in some way, to perpetrate a violation;
+•	 The business was or should have been aware
+that its action or omission could provide such
+help;
+•	 Complicity may be direct, beneficial or silent.
+Consumer: A person or business that buys
+products or services for personal use, resale or use
+in production and manufacture. It also includes the
+user of the product or service other than the buyer.
+Corporate Social Responsibility (CSR): Corporate
+Social Responsibility (CSR) means and includes but
+is not limited to (i) Projects or programs relating
+to activities specified in Schedule VII of the Indian
+Companies Act 2013; or (ii) Projects or programs
+relating to activities undertaken by the board of
+directors of a company (Board) in pursuance of
+recommendations of the CSR Committee of the
+Board as per declared CSR Policy of the company,
+subject to the condition that such policy will cover
+subjects enumerated in Schedule VII of the Act.
+Disclosure: An organization’s practice of reporting
+to all stakeholders on its economic, environmental
+and social impacts. It also presents the organization’s
+values and governance model and demonstrates
+the link between its strategy and its commitment to
+sustainable development.
+Discrimination: Unjust or prejudicial treatment of
+people, especially on the grounds of, but not limited
+to, caste, creed, sex, race, ethnicity, age, colour,
+religion, disability, socio-economic status or sexual
+orientation.
+Diversity: An understanding that every individual
+is unique and therefore embracing and respecting
+the differences on account of, but not limited
+to, caste, creed, sex, race, ethnicity, age, colour,
+religion, disability, socio-economic status or sexual
+orientation.
+Employee: A person employed, directly or by or
+through any agency (including a contractor), whether
+for remuneration or not, for carrying out activities of
+the organization or any part thereof, incidental to or
+Description and
+Explanation of Terms
+8 National Guidelines on Responsible Business Conduct
+connected with those activities, in pursuance of the
+organization’s stated objectives. It would also include
+those who undertake these activities outside of the
+business’s premises including their own homes.
+Equity: An approach which recognizes the need,
+plans and delivers a fair and equivalent opportunity
+across stakeholders to engage gainfully from their
+interactions with the business.
+Ethical: Individual or collective behaviour that is in
+accordance with accepted written and / or unwritten
+codes of principles and values that govern decisions,
+actions and conduct within a business in the context
+of a particular situation and is consistent with
+accepted norms of behaviour.
+Fair Living Wages: A wage sufficient for a family to
+meet its basic needs and which provides some ability
+to deal with emergencies.
+Freedom of Association: Workers and employers,
+without distinction whatsoever, have the right
+to establish and, subject only to the rules of the
+organization concerned, to join organizations of their
+own choosing without previous authorization.
+Governance: Relates to “how” an organization makes
+decisions, how it operates to achieve its objectives
+and how stakeholders have their say in the processes.
+Governance Structure: The formalized individual
+or group of individuals charged with the ultimate
+responsibility of oversight of a business. This would
+refer to the equivalent of the Board for companies,
+the partners for partnership firms and the owner of
+the business for sole proprietorships.
+Grievance Redressal Mechanism: Mechanism
+for any stakeholder individually or collectively to
+raise and resolve reasonable concerns affecting
+them without impeding access to other judicial or
+administrative remedies. The mechanism should be:
+•	 Clear, transparent and have independent
+governance structures
+•	 Accessible
+•	 Predictable
+•	 Equitable
+•	 Based on dialogue and mediation
+Harassment: Wide range of offensive behaviour
+that is unwanted by the recipient and which the
+perpetuator knows or ought to know is threatening
+or disturbing.
+Intellectual Property (IP): Refers to creations of
+the mind, such as inventions, literary, musical and
+artistic works, and symbols, names, images, and
+designs used in commerce, for which the IP owners
+are granted certain exclusive rights under the
+corresponding national IP laws. Common types of IP
+include patents (inventions), copyrights, trademarks,
+industrial designs, software, geographic indications
+and trade secrets, etc.
+Involuntary Labour: All work or service that
+is extracted under the menace of penalty. Also
+includes terms such as forced labour, bonded labour
+and modern slavery.
+Participation of Workers: Situation where
+workers are involved in some way in the decisionmaking process of a business organization. Worker
+participation can take many forms. There might be
+a consultative council in the company where trade
+unions and management meet regularly to discuss
+points of mutual interest. Workers can be organized
+in quality circles and meet regularly in small groups
+to discuss ways in which their work could be better
+organized.
+Precautionary Principle: When human activities
+may lead to morally unacceptable harm that
+is scientifically plausible but uncertain, actions
+shall be taken to avoid or diminish that harm.
+Morally unacceptable harm refers to that which
+may threaten human health, or is seriously and
+effectively irreversible or inequitable to present or
+future generations, or imposed without sufficient
+consideration of the human rights of those affected.
+Product: Any good and / or service produced for
+introduction to trade or commerce, possessing
+intrinsic value and capable of delivery to a consumer
+in tangible form, intangible form or a combination
+thereof.
+Product Life Cycle: This refers to all the stages of
+a product from extraction or acquisition of raw
+materials through manufacturing and processing,
+distribution and transportation, use and reuse,
+recycling and disposal. In the case of services, it
+refers to all activities and processes from the design
+to delivery.
+National Guidelines on Responsible Business Conduct 9
+Stakeholder: Individual or group concerned or
+interested with or impacted by the activities of the
+businesses and vice-versa, now or in the future.
+Typically, stakeholders of a business include, but is
+not limited to, its investors/shareholders, employees
+(and their families), customers, communities,
+value chain members and other business partners,
+regulators, civil society actors, and media.
+Sustainability: The outcome achieved by balancing
+the social, environmental and economic impacts of
+business. It is the process that ensures that business
+goals are pursued without compromising any of the
+three elements.
+Sustainable: Being aligned with the tenet of meeting
+the needs of the present without compromising the
+ability of future generations to meet their own needs.
+Traditional Knowledge: This refers to any indigenous
+technical, ecological, scientific, medical or cultural
+knowledge which is not necessarily documented
+but is in use by or generally known to communities.
+Typical examples include antiseptic properties of
+neem, turmeric, etc.
+Transparent: Being open about decisions and
+activities that affect society, the environment and
+the economy, and the willingness of businesses to
+communicate information in clear, accurate, honest,
+timely and complete manner.
+Value Chain: Refers to both the supply chain as well
+as the value created by the distribution channel for
+end-use customers. It also includes business partners
+and those employed by value chain partners who
+may work out of their own premises.
+Vulnerable and Marginalized Groups: Group of
+individuals who are unable to realize their rights or
+enjoy opportunities due to adverse physical, mental,
+social, economic, cultural, political, geographic or
+health circumstances. These groups in India can be
+identified on the basis, inter alia, of the following:
+•	 Gender and transgender (women, girls et al.)
+•	 Age (children, elderly et al.)
+•	 Descent/identity/ethnicity (caste, religion,
+scheduled castes, scheduled tribes, et al.)
+•	 Occupation (displaced, landless small / marginal
+farmers, migrant workers, et al.)
+•	 Persons with disability
+•	 Political or religious beliefs
+Workplace: Place(s) where activities of the
+organization are carried out in pursuance of its stated
+objectives.
+Work-life balance: Broad concept including proper
+balancing of “work” (career and ambition) on one
+hand and “life” (pleasure, leisure, family and spiritual
+development) on the other. Related, though broader,
+terms include “lifestyle balance” and “life balance”.
+Chapter 1:
+Introduction
+National Guidelines on Responsible Business Conduct 11
+The Ministry of Corporate Affairs (MCA), Government
+of India, released a set of guidelines in 2011 called
+the National Voluntary Guidelines on the Social,
+Environmental and Economic Responsibilities of
+Business (NVGs). This was expected to provide
+guidance to businesses on what constitutes
+responsible business conduct. In order to align the
+NVGs with the Sustainable Development Goals
+(SDGs) and the ‘Respect’ pillar of the United Nations
+Guiding Principles (UNGP) the process of revision
+of NVGs was started in 2015. After, revision and
+updation, the new principles are called the National
+Guidelines on Responsible Business Conduct
+(NGRBC). As with the NVGs, the NGRBC has been
+designed to assist businesses to perform above and
+beyond the requirements of regulatory compliance.
+Mandate & Rationale
+The primary rationale for the update is to capture
+key national and international developments in
+the sustainable development agenda and business
+responsibility field that have occurred since the
+release of the NVGs in 2011. Some of the key drivers
+of the NGRBC are given below:
+1) The UN Guiding Principles for Business and
+Human Rights (UNGPs): Through its resolution
+17/4 of 16 June 2011, the UN Human Rights
+Council endorsed the Guiding Principles on
+Business and Human Rights: Implementing the
+United Nations ‘Protect, Respect and Remedy’
+Framework. The UNGPs are grounded in
+recognition of, a) the State’s existing obligations
+to respect, protect and fulfil human rights and
+fundamental freedoms; b) the requirement of
+business enterprises to respect human rights,
+and c) the need for access to effective remedy
+for those who are affected by adverse businessrelated human rights impacts or abuse. Since
+their release, the UNGPs have become the
+authoritative global standard for Business and
+Human Rights. In further support of the UNGPs,
+the UN Human Rights Council established
+the UN Working Group (UNWG) and tasked it
+with facilitating the global dissemination and
+implementation of the UNGPs. The UNWG has
+strongly encouraged all States to develop a
+National Action Plan (NAP) as part of the States’
+responsibility to disseminate and implement the
+UNGPs.
+2) UN Sustainable Development Goals (SDGs):
+In September 2015, the UN General Assembly
+adopted the 2030 Agenda for Sustainable
+Development which established seventeen
+Sustainable Development Goals (SDGs),
+comprising targets and indicators, as well as
+follow-up and review mechanisms. Significantly,
+the SDGs recognize the role of business as a major
+driver for economic growth and infrastructure,
+whilst explicitly calling for businesses to act
+in accordance with the UNGPs. The SDGs are
+mapped against the NGRBC in Annexure 4.
+3) Paris Agreement on Climate Change (2015):
+This is an agreement under the United Nations
+Framework for Climate Change (UNFCC) reached
+in December 2015, in which countries have
+committed to take steps to combat climate
+change and adapt to its effects. India ratified
+the agreement on 2nd October 2016,and
+its commitments are called the National
+Determined Contributions (NDCs). The Paris
+Agreement also constitutes SDG 13.
+4) Core Conventions 138 and 182 on Child Labour
+by the International Labour Organization
+(ILO): India, in June 2017, ratified ILO Core
+Conventions 138 (minimum age of employment
+of children) and ILO Core Convention 182 (worst
+forms of child labour).
+5) Annual Business Responsibility Reports
+(ABRRs): In 2012, the Securities Exchange Board
+of India (SEBI) amended the Listing Agreement
+for companies listed in the stock exchanges in
+India, and mandated the submission of an ABBRs
+by the top 100 listed companies. The ABRR is
+based on the Business Reporting Framework
+of the NVGs, and SEBI has since extended this
+requirement to the top 500 listed companies.
+6) Companies’ Act 2013: Notified in the Gazette
+of India on 30 August 2013, Section 135 of
+the Companies Act 2013 requires companies
+to undertake Corporate Social Responsibility
+(CSR) initiatives in communities, and has since,
+provided additional rules and guidance on the
+areas and target groups of such interventions
+in consistency with national socio-economic
+priorities.
+Applicability
+The NGRBC are designed to be used by all businesses,
+irrespective of their ownership, size, sector, structure
+or location. It is expected that all businesses investing
+or operating in India, including foreign multinational
+corporations (MNCs) will follow these guidelines.
+Correspondingly, the NGRBC also provide a useful
+12 National Guidelines on Responsible Business Conduct
+framework for guiding Indian MNCs in their overseas
+operations, in addition to aligning with applicable
+local national standards and norms governing
+responsible business conduct.
+Furthermore, the NGRBC reiterate the need to
+encourage businesses to ensure that not only do they
+follow these guidelines in business contexts directly
+within their control or influence, but that they also
+encourage and support their suppliers, vendors,
+distributors, partners and other collaborators to
+follow them.
+Responsibility for Adoption
+Whereas the NVGs made several references to
+the critical role of the governance structure and
+companies’ leadership in ensuring adoption and
+review of the guidelines, the NGRBC has taken this
+requirement a step further by identifying specific
+aspects of each Principle as part of the duty and
+responsibility of the highest governance structure
+of the business to oversee the implementation and
+adherence to these guidelines in their business.
+While the highest governance structure, in the
+case of companies and corporations is the Board,
+the responsibility for adoption of the NGRBC in
+proprietorships, partnerships, and other types of
+business is assumed in the present context to rest with
+the owner/s, partner/s, and/or, any other structure
+responsible for the highest level of decision-making
+and governance functions in the business.
+It is worthwhile to emphasize that all Principles of
+the NGRBC are equally important, inter-related, interdependent and non-divisible, and businesses should
+adopt them to demonstrate their commitment to
+being a responsible business, and accrue the full
+benefits of sustainable business strategies.
+Content and Structure
+The NGRBC consist of two chapters and an expanded
+set of annexures. While the Principles have been
+updated, they have retained the articulation and
+description of those in the NVGs. The connected
+Core Elements enhance the operationalization of
+each Principle. The details in the annexures provide
+practical guidance to businesses on the adoption
+and implementation of these guidelines. Keeping the
+importance of Micro, Small and Medium Enterprises
+(MSMEs) in view, the business case for adoption of
+NGRBC by the MSMEs is given in Annexure 2.
+An updated Business Responsibility Reporting
+Framework (BRRF) has been included for reporting
+of actions taken by businesses vis-à-vis the Principles
+and Core Elements. The BRRF is meant to serve
+as an internal tool for companies to assess where
+they are in their journey of responsible business
+conduct and identify opportunities for improvement.
+Guidance on how this framework may be used by
+businesses is included as an annexure. Additionally,
+the BRRF can serve as a framework for regulators
+to develop disclosure formats (e.g. Annual Business
+Responsibility Report (ABRR) mandated by the
+Securities and Exchange Bureau of India (SEBI) based
+on NVGs).
+The last part of the NGRBC contains a set of useful
+references and resources which businesses may
+consult as part of their implementation efforts.
+National Guidelines on Responsible Business Conduct 13
+This chapter contains the nine thematic pillars of
+business responsibility which are called Principles.
+Each Principle is introduced as a statement and
+followed by a narration of the essential aspects of
+the Principle, referred to as the brief description.
+A reading of each Principle and brief description
+should provide a clear idea of the essential spirit and
+intent of the Principle.
+Each Principle is accompanied by a set of
+requirements and actions that are essential to the
+operationalization of the Principle, referred to as the
+Core Elements. The information sought in Annexure 3
+of the Guidelines (Business Responsibility Reporting
+Framework) is derived from the Core Elements.
+The Principles are interdependent, interrelated and
+non-divisible, and businesses are urged to address
+them holistically. Annexure 1 of the Guidelines
+provides guidance to all businesses on the adoption
+and implementation of the Principles. Furthermore,
+businesses impact different stakeholders in different
+ways. Therefore, while applying these principles,
+businesses need to be sensitive to characteristics,
+such as caste, creed, sex, race, ethnicity, age, colour,
+religion, disability, socio-economic status or sexual
+orientation. Though this has not been specifically
+mentioned in the Principles and Core Elements,
+businesses are expected to keep this in mind. Most
+importantly, the ultimate responsibility for adoption
+of the Principles rests with the highest governance
+structure of the business.
+Chapter 2:
+Principles and
+Core Elements
+Principle 1:
+Businesses should conduct
+and govern themselves with
+integrity, and in a manner that
+is ethical, transparent, and
+accountable.
+National Guidelines on Responsible Business Conduct 15
+Brief Description
+This Principle recognizes that ethical behaviour
+in all operations, functions and processes, is
+the cornerstone of businesses guiding their
+governance of economic, social and environmental
+responsibilities.
+The Principle emphasizes that disclosures on business
+decisions and actions that impact stakeholders
+form the fundamental basis of operationalizing
+responsible business conduct and should be
+accessible to all relevant stakeholders.
+It recognizes that businesses are an integral part of
+society and that they will hold themselves accountable
+for the effective adoption, implementation, and the
+making of disclosures on their performance with
+respect to the Core Elements of these Guidelines.
+The Principle further emphasizes that the governance
+structure of the business should ensure this, in line
+with SDG 16.
+Core Elements
+1. The governance structure should develop and
+put in place structures, policies and procedures
+that promote this Principle, prevent its
+contravention and effect prompt and fair action
+against any transgressions.
+2. The Governance Structure should ensure
+that the Principles of these Guidelines are
+understood, adopted and implemented
+throughout the operations of their business.
+3. The Governance Structure should also promote
+the adoption of this Principle across the value
+chain of their business.
+4. The Governance Structure should disclose and
+communicate transparently and enable access
+to information about the policies, procedures,
+performance (financial and non-financial), and
+decisions of their enterprise, that impact their
+stakeholders, especially those that are most at
+risk to business impacts and communities that
+are vulnerable and marginalized.
+5. The Governance Structure should take
+responsibility for meeting all its statutory
+obligations in line with the spirit of the law,
+enabling fair competition and ensuring it treats
+all its stakeholders in an equitable manner.
+6. The Governance Structure should ensure that
+the business avoids complicity with the actions
+of any third party that violates any of the
+Principles contained in these Guidelines.
+7. The Governance Structure should put in place
+appropriate structures, policies and procedures
+to address conflicts of interest involving its
+members, employees and business partners.
+8. The Governance Structure should put in place
+appropriate structures, codes, policies, and
+procedures to ensure that the business does not
+engage in illegal and abusive practices, bribery
+and corruption, and ensure timely and fair
+action in case such transgressions are detected.
+9. The Governance Structure should ensure that
+the business contributes to public finances by
+timely and complete payment of all applicable
+taxes in the letter and spirit of the laws and
+regulations governing such payments.
+16 National Guidelines on Responsible Business Conduct
+Principle 2:
+Businesses should
+provide goods and
+services in a manner that
+is sustainable and safe.
+National Guidelines on Responsible Business Conduct 17
+Brief Description
+This Principle recognizes the proposition of SDG 12,
+that sustainable production and consumption are
+interrelated, contribute to enhancing the quality of
+life and towards protecting and preserving earth’s
+natural resources.
+The Principle further emphasizes that businesses
+should focus on safety and resource-efficiency in the
+design and manufacture of their products, and use
+their products in a manner that creates value while
+minimizing and mitigating its adverse impacts on
+the environment and society through all stages of
+its life cycle, from design to final disposal. Over time,
+businesses should embrace the idea of circularity in
+all its operations.
+In order to do so, the Principle encourages businesses
+to understand all material sustainability issues across
+their product life cycle and value chain.
+Core Elements
+1. Businesses should, in designing, producing and
+making available goods and services, endeavour
+to ensure that resource-efficient and low-carbon
+processes and technologies are deployed to
+minimize adverse environmental and social
+impacts.
+2. Businesses should provide stakeholders across
+the value chain with adequate information
+about environmental and social issues and
+impacts across product life cycle from design to
+disposal. This may be done through appropriate
+and relevant tools such as certifications, labels,
+ratings and other communication and disclosure
+platforms including reports, websites, etc.
+3. Businesses should increasingly take responsibility
+for the safe collection, reuse and recycling of their
+products at life so as to build a circular economy
+as a part of the notion of extended producer
+responsibility that is increasingly becoming a
+part of regulation in India and globally.
+Principle 3:
+Businesses should
+respect and promote
+the well-being of all
+employees, including
+those in their value
+chains.
+National Guidelines on Responsible Business Conduct 19
+and provide access to appropriate grievance
+redressal mechanisms.
+4. Businesses should not use child labour, coercive
+or forced labour, or any form of involuntary
+labour, paid or unpaid.
+5. Businesses should put systems and processes in
+place to support the work-life balance of all its
+employees.
+6. Businesses should ensure fair, timely and
+transparent payment of statutory wages of all its
+employees, including contract and casual labour
+without discrimination.
+7. Businesses should aspire to pay fair living wages
+to meet basic needs and economic security of all
+employees, including casual and contract labour.
+8. Businesses should provide a workplace
+“environment that is safe, hygienic, accessible
+to the” - there is no space between the words
+differently abled and which upholds the dignity
+of the employees. Businesses should engage and
+consult with their employees on this provision.
+9. Businesses should ensure continuous
+upgradation of skill and competence of all
+employees by providing access to necessary
+learning opportunities, on an equal and nondiscriminatory basis. They should promote
+career development through human resource
+interventions.
+10. Businesses should create systems and practices
+to ensure a humane workplace free from,
+violence and harassment (including sexual
+harassment); a workplace where employees feel
+safe and secure, with adequate provisions for
+grievance redressal.
+Brief Description
+This Principle encompasses all policies and practices
+relating to the equity, dignity and well-being, and
+provision of decent work (as indicated in SDG 8), of all
+employees engaged within a business or in its value
+chain, without any discrimination and in a way that
+promotes diversity. The principle recognizes that the
+well-being of an employee also includes the wellbeing of her/his family.
+Core Elements
+1. The Governance Structure should ensure
+that the business complies with all regulatory
+requirements pertaining to its employees, and
+that there are systems and processes in place to
+enable this to be done by its value chain partners.
+2. Businesses should ensure equal opportunities
+at the time of recruitment, during the course
+of employment, and at the time of separation
+without any discrimination.
+3. Businesses should promote and respect the
+right to freedom of association, participation
+of workers, and collective bargaining of all
+employees including contract and casual labour,
+Principle 4:
+Businesses should
+respect the interests of
+and be responsive to all its
+stakeholders.
+National Guidelines on Responsible Business Conduct 21
+Core Elements
+1. Governance Structures should ensure that the
+business acknowledges, assumes responsibility,
+and is transparent about the impact of their
+policies, decisions, products and associated
+operations on all stakeholders, and the natural
+environment.
+2. Businesses should develop systems, processes
+and mechanisms to identify its stakeholders,
+understand their expectations and concerns,
+define the purpose and scope of the engagement,
+consult with them in developing policies and
+processes that impact them, and commit
+to resolving any differences and redressing
+grievances in a just, fair and constructive manner.
+3. Businesses should enable all stakeholders to
+benefit fairly from the value generated by the
+businesses, and any conflicts or differences
+arising from the impact of business operations
+or the sharing of the value generated by the
+businesses should be resolved in a just, fair and
+equitable manner.
+Brief Description
+This Principle recognizes that businesses operate in
+an eco-system comprising a number of stakeholders,
+beyond shareholders and investors, and that
+their activities impact natural resources, habitats,
+communities and the environment.
+The Principle acknowledges that it is the responsibility
+of businesses to ensure that the interests of all
+stakeholders, especially those who may be vulnerable
+and marginalized, are protected.
+The Principle further recognizes that businesses have
+a responsibility to maximize the positive impacts
+and minimize and mitigate the adverse impacts of
+its products, operations, and practices on all their
+stakeholders.
+22 National Guidelines on Responsible Business Conduct
+Principle 5:
+Businesses should
+respect and
+promote human
+rights.
+National Guidelines on Responsible Business Conduct 23
+Brief Description
+This Principle recognizes that human rights are rights
+inherent to all human beings, and that everyone,
+individually or collectively, is entitled to these rights,
+without discrimination. It further recognizes that
+human rights are inherent, inalienable, interrelated,
+interdependent and indivisible.
+The Principle is inspired, informed and guided by
+the Constitution of India and the International Bill of
+Rights and recognizes the primacy of the State’s duty
+to protect and fulfil human rights.
+The Principle is further informed and guided by the
+UN Guiding Principles on Business and Human Rights
+in its articulation of the responsibility of businesses to
+respect human rights. It affirms that the responsibility
+of businesses to respect human rights requires that
+it avoids causing or contributing to adverse human
+rights impacts, and that it addresses such impacts
+when they occur. The Principle urges businesses to
+be especially responsive to such persons, individually
+or collectively, who are most vulnerable to, or at risk
+of, such adverse human rights impacts.
+Core Elements
+1. The Governance Structure should ensure that
+the business undertakes to make its employees
+aware of the human rights content of the
+Constitution of India, relevant national laws and
+policies, and the International Bill of Human
+Rights and their application to businesses as
+outlined in the United Nations Guiding Principles
+for Business and Human Rights. It should further
+ensure that the responsibility for addressing
+such impacts is assigned to the appropriate level
+and function within the business.
+2. The Governance Structure should ensure that
+the business has in place such policies, structures
+and procedures that demonstrate respect for the
+human rights of all stakeholders impacted by its
+business. This includes carrying out human rights
+due diligence to identify, prevent, mitigate and
+account for how they address adverse human
+rights impacts.
+3. The Governance Structure should ensure that
+their business, where it is causing, contributing
+or otherwise linked to adverse human rights
+impacts, takes corrective actions to address such
+impacts.
+4. Businesses should promote the awareness and
+realization of human rights across its value chain.
+5. Businesses should ensure that all individuals
+and groups whose human rights are impacted
+by them have access to effective grievance
+redressal mechanisms.
+24 National Guidelines on Responsible Business Conduct
+Principle 6:
+Businesses should
+respect and make efforts
+to protect and restore the
+environment.
+National Guidelines on Responsible Business Conduct 25
+Brief Description
+This Principle recognizes that environmental
+responsibility is a prerequisite for sustainable
+economic growth and for the well-being of society.
+The Principle emphasizes that environmental issues
+are interconnected at the local, regional and global
+levels, which makes it imperative for businesses to
+address issues like pollution, biodiversity conservation,
+sustainable use of natural resources and climate
+change (mitigation, adaptation and resilience) in a
+just, comprehensive and systematic manner. These are
+aligned with SDGs 11, 13, 14 and 15.
+The Principle encourages businesses to assess
+environment impacts of its products and operations
+and take steps to minimize and mitigate its adverse
+impacts where these cannot be avoided.
+The Principle encourages businesses to adopt
+environmental practices and processes that minimize
+or eliminate the adverse impacts of its operations
+and across the value chain.
+The Principle encourages businesses to follow the
+Precautionary Principle in all its actions.
+Core Elements
+1. The Governance Structure should ensure that
+the business formulates appropriate policies,
+procedures and structures to assess, measure
+and address its adverse impacts on the
+environment at all its locations, at all stages of its
+life cycle from establishment to closure. Special
+care should be taken where these impacts occur
+in eco-sensitive areas.
+2. Businesses should develop appropriate
+strategies for sustainable and efficient use of
+natural resources and manufactured materials,
+giving due consideration to expectations and
+concerns of all stakeholders.
+3. Businesses should define measurable key
+performance indicators and targets to monitor
+their performance on environmental aspects
+such as water, air, land-use, forest, energy,
+materials, waste, biodiversity, built environment
+and so on.
+4. Businesses should focus on addressing climate
+change through development of both mitigation
+and adaptation measures, and build climate
+resilience and in line with India’s Nationally
+Determined Contributions to the Paris Climate
+Change Agreement and the National/State
+Action Plans on Climate Change.
+5. Businesses should learn from industry best
+practices for promoting reduction, reuse,
+recycling and recovery of material and resources,
+and encourage and motivate its stakeholders,
+particularly consumers and business partners, to
+do the same.
+6. Businesses should seek to improve their
+environmental performance by adopting
+innovative, resource-efficient and low-carbon
+technologies and solutions resulting in lower
+resource footprint, lesser material consumption
+and more positive impact on environment,
+economy and society.
+26 National Guidelines on Responsible Business Conduct
+Principle 7:
+Businesses, when engaging
+in influencing public and
+regulatory policy, should
+do so in a manner that is
+responsible and transparent.
+National Guidelines on Responsible Business Conduct 27
+Brief Description
+This Principle recognizes that businesses operate
+within specified national and international legislative
+and policy frameworks, which guide their growth
+and also provide for certain desirable restrictions and
+boundaries.
+The Principle recognizes the legitimacy of businesses
+to engage with governments for redressal of a
+grievance or for influencing public policy.
+The Principle emphasizes that public policy advocacy
+must expand public good.
+Core Elements
+1. The Governance Structure should ensure that
+its advocacy positions are consistent with the
+Principles contained in these Guidelines and
+publicly disclosed.
+2. Businesses should, to the extent possible,
+undertake policy advocacy through trade and
+industry chambers and associations, and other
+similar collective platforms.
+3. Businesses should ensure that its policy advocacy
+positions promote fair competition and respect
+for human rights.
+28 National Guidelines on Responsible Business Conduct
+Principle 8:
+Businesses should promote
+inclusive growth and equitable
+development.
+National Guidelines on Responsible Business Conduct 29
+Brief Description
+This Principle recognizes the challenges of social and
+economic development faced by India, and builds
+upon the national and local development agenda as
+articulated in government policies and priorities. This
+is particularly significant in zones affected by social
+disharmony and low human development.
+The Principle recognizes the value of the energy and
+enterprise of businesses and encourages them to
+innovate and contribute to the overall development
+of the country with a specific focus on disadvantaged,
+vulnerable and marginalized communities, as
+articulated in Section 135 of the Companies Act,
+2013.
+The Principle also emphasizes the need for
+collaboration amongst businesses, government
+agencies and civil society in furthering this
+development agenda in line with SDG 17.
+The Principle reiterates that business success,
+inclusive growth and equitable development are
+interdependent.
+Core Elements
+1. The Governance Structure shall ensure that
+the business takes appropriate actions to
+minimize any adverse impacts that it has on
+social, cultural and economic aspects of society
+including arising from land acquisition and use,
+construction of facilities and operations.
+2. Businesses should assess, measure and
+understand their impact on social, and economic
+development, and respond through appropriate
+action to minimize and mitigate its negative
+impacts on society.
+3. Businesses should innovate and invest in
+products, technologies and processes that
+promote the well-being of all segments of
+society, including vulnerable and marginalized
+groups.
+4. Businesses should respond to national and
+local development priorities and understand
+the needs and concerns of local communities,
+particularly vulnerable and marginalised
+groups and in regions that are underdeveloped,
+while designing and implementing their CSR
+programmes.
+5. Businesses should make efforts to minimize the
+negative impacts of displacement of people
+and disruption of livelihoods through their
+business operations and where displacement is
+unavoidable, this process must be undertaken
+in a humane, participative, informed and
+transparent manner, where just and fair
+compensation is paid to those impacted.
+6. Businesses should respect all forms of intellectual
+property and traditional knowledge and make
+efforts to ensure that benefits derived from their
+knowledge are shared equitably.
+30 National Guidelines on Responsible Business Conduct
+Principle 9:
+Businesses should
+engage with and provide
+value to their consumers
+in a responsible manner.
+National Guidelines on Responsible Business Conduct 31
+Brief Description
+This Principle is based on the fact that the basic aim
+of a business entity is to provide goods and services
+to its consumers that are safe to use, and in a manner
+that creates value for both. .
+The Principle recognizes that consumers have the
+freedom of choice in the selection and usage of
+goods and services, and that the enterprises will
+strive to make available products that are safe,
+competitively priced, easy to use and safe to dispose
+of, for the benefit of their consumers.
+The Principle also recognizes that businesses
+should play a key role, along with other relevant
+stakeholders, in mitigating the adverse impacts that
+excessive consumption of its products may have on
+the overall well-being of individuals, society and our
+planet, in line with SDG 12.
+Core Elements
+1. Governance Structures should ensure that the
+business minimizes and mitigates any adverse
+impact of its goods and services on consumers,
+the natural environment and society at large.
+2. Businesses should ensure that they do not restrict
+the freedom of choice and free competition in
+any manner while designing, promoting and
+selling their products.
+3. Businesses should disclose all information
+accurately, through labelling and other means,
+including the risks to the individual, to society,
+and to the planet, from the use of the products,
+so that the consumers can exercise their freedom
+to consume in a responsible manner.
+4. Businesses should manage consumer data in a
+way that does not infringe upon their right to
+privacy.
+5. Businesses should make consumers aware of,
+and provide information and guidance to them
+on, safe and responsible usage and disposal of
+their products (including reuse and recycling),
+and to eliminate over-consumption.
+6. Businesses should promote and advertise their
+products in ways that do not mislead or confuse
+the consumers or violate any of the Principles in
+these Guidelines.
+7. Businesses should provide appropriate grievance
+redressal mechanisms that are transparent and
+accessible, to address consumer concerns and
+feedback.
+8. Businesses that provide essential services, e.g..
+utilities, should enable universal access, including
+to those whose services have been discontinued
+for any reason, in a non-discriminatory and
+responsible manner.
+32 National Guidelines on Responsible Business Conduct
+ANNEXURES
+National Guidelines on Responsible Business Conduct 33
+What does adoption mean?
+The Principles and Core Elements contained in the
+NGRBC are designed to enable businesses to conduct
+themselves responsibly. Therefore, adopting these
+guidelines refers to the integration of the Principles
+and Core Elements into the core business strategy
+and operations of an enterprise including its value
+chain.
+So, how will the Governance Structure of a business
+know whether it has successfully integrated these
+NGRBC? Here are some indicators:
+•	 It should have in place, policies and guidance that
+are approved at the highest level and cover all the
+Principles.
+•	 The key performance indicators of the business
+should incorporate all the Principles of the NGRBC
+and those Core Elements that significantly impact
+or are impacted by the business.
+•	 The operating procedures of the business should
+also cover those Core Elements that significantly
+impact or are impacted by the business.
+The Business Responsibility Reporting Framework
+(BRRF) provided in Annexure 3 of these guidelines
+is designed as an internal tool to help businesses
+determine how well aligned they are to the NGRBC.
+Key Enablers
+Experience suggests that there are some key enablers
+of businesses that help them successfully integrate
+sustainability principles into their core processes.
+These include:
+•	 Leadership commitment: The Governance
+Structure of the business (Board in the case of
+companies, owner(s)/partner(s) in other forms)
+needs to be convinced that the success of the
+business depends upon adopting the NGRBC. The
+Chairman/CEO/Owner-Manager needs to play
+a proactive role in convincing the Governance
+Structure, which is most effectively done by
+demonstrating the business benefit of being
+responsible.
+•	 Employee engagement: The employees too
+must be convinced of the need to be
+responsible. Again, the Governance Structure
+and top management must communicate
+this to all employees so that the Principles are
+fully understood across the organization and
+comprehensively implemented.
+•	 Stakeholder engagement: Recognizing that
+all stakeholders play a crucial role in a business’s
+success, the top management of the company
+must map out its stakeholders and proactively
+engage and build strong relationships with them
+on a consistent and continuous basis.
+•	 Disclosure and reporting: In addition to
+engaging with stakeholders including employees,
+the proactive public disclosure by companies of
+their impact on society and the environment is
+also essential.
+The Business Case for Adoption
+That businesses are expected to conduct
+themselves responsibly is an essential component
+of the social contract between businesses
+and society. Increasingly, businesses are also
+recognizing that responsible business conduct
+provides benefits to both the business and society
+in the short term as well as in the long term. To help
+businesses determine these benefits, they may use
+a tool called the Business Case Matrix, provided in
+Annexure 5. Every business can develop such a
+matrix, in its own context, for each Core Element,
+and thus determine which of them are a relatively
+higher priority to the business. However, as stated
+earlier, the Principles detailed in these guidelines
+are interdependent, interrelated and nondivisible, and responsible businesses are expected
+to adhere to all the Principles and Core Elements.
+Annexure 1:
+Guidance on Adoption of NGRBC
+34 National Guidelines on Responsible Business Conduct
+The Adoption Process
+The flowchart given below summarizes the process
+businesses may follow to adopt the NGRBC and
+integrate them with the core business.
+Some of the key steps are described in greater detail
+below,
+•	 Prioritizing the Core Elements: The first step
+is that the business must identify those Core
+Elements that are priority. As a rule of thumb, it is
+highly likely that each Principle will have at least
+one Core Element which is of higher priority for
+the business. In order to do this prioritization, a
+business must map all the Core Elements against:
+1. Vision, mission and values: Those that
+align with or contribute to these must be
+considered priority.
+2. Business success factors: These are
+typically articulated in the business strategy.
+3. Material sustainability issues: Many
+businesses conduct a materiality analysis to
+determine the environment and social issues
+that are of high concern to its stakeholders
+(ideally based on detailed stakeholder
+engagements) and have a high impact on
+business (based on detailed internal analysis
+on key business success factors). The Core
+Elements that align with or contribute to these
+material sustainability issues must be treated
+as high priority. In cases where the business
+has not undertaken its own materiality
+assessment, it should go by suggestions
+found in globally accepted guidelines.
+4. Legal and voluntary compliances: Every
+business must know the specific laws and
+regulations, current and emerging, which
+pertain to each of the Core Elements. It is
+stressed that compliance with the laws and
+regulations of the land is non-negotiable. It
+may also be noted that those businesses that
+are part of a supply chain are also subject to
+codes and standards that their buyers may
+require them to comply with.
+•	 Integrating Prioritized Core Elements into Core
+Business: All the prioritized Core Elements must
+then be integrated into core business strategy. In
+order to do this, the business must:
+1. Review its current policies and guidelines
+to ensure that they cover all the prioritized
+Core Elements. Where there are gaps, these
+must be revised.
+2. In the case of those Core Elements where
+the Governance Structure has a role in
+ensuring implementation, these policies
+and guidelines must be endorsed by the
+Governance Structure.
+•	 Vision, mission and values
+•	 Business success factors
+•	 Material sustainability issues
+•	 Laws, regulations, global covenants and good practices
+•	 Map current policies, processes, guidelines vis-a-vis prioritized Core Elements
+•	 Develop new policies where there are gaps (in consultation with stakeholders)
+•	 Get policies endorsed by the Governance Structure
+•	 Determine performance level for each prioritized Core Element
+•	 Two performance levels suggested in the Guidelines: Essential and Leadership
+•	 Select indicators for each prioritized Core Element that reflects the ambition
+•	 Set targets for each indicator / issue
+Prioritize
+Core
+Elements
+Review and
+develop
+policies
+Determine
+Ambition
+Set Targets
+National Guidelines on Responsible Business Conduct 35
+3. The business must determine what its
+ambition is for each prioritized Core
+Element, i.e. the performance level it wishes
+to achieve for each. As mentioned earlier,
+the base performance has to be compliance
+with the law or regulation, but a business
+may decide to be more ambitious and
+take a leadership position by setting itself
+a higher performance target. Annexure 3
+discusses this in greater details and suggests
+two performance levels – Essential and
+Leadership.
+4. Annexure 3 outlines the performance
+indicators for relevant Core Elements at
+these two levels – Essential and Leadership.
+Businesses may select the indicators for their
+prioritized Core Elements that reflect their
+ambition and set 3-5 year targets.
+Covering Value Chains
+Value chains, encompassing all upstream sourcing
+channels and downstream distribution channels, are
+an integral part of all businesses, have a definitive
+role in their success, and feature in their core
+strategies. While integrating the NGRBC into their
+core strategies and operations, businesses should
+specifically encourage their adoption by their value
+chain partners. Responsible businesses should be
+well placed to understand the social, environment
+and economic impact their value chain partners have
+on their own enterprise as well as on the external
+world.
+Suggested steps for this include:
+•	 Mapping the value chain: Businesses should
+create a map of their direct (or Tier 1) value chain
+partners and also cover, to the extent feasible,
+indirect members of the value chain who
+transact with the Tier 1 value chain partners. A
+value chain map, which traces the key activities
+involved in bringing a product from key inputs
+to the consumer, should be created for all major
+products of a business and requires collaboration
+among all functions within the business which
+work on the specific products. This should
+provide visibility of physical locations, resource
+dependencies, contractual/compliance
+status, financial status and storage/logistics
+arrangements for value chain partners as well
+as any interdependencies between the partners.
+The map will enable the business to ascertain
+specific sustainability risks or opportunities
+that may reside in its value chain which may be
+different from those faced by the business itself.
+•	 Prioritizing Core Elements for value chain
+partners: Using the value chain map and as part
+of the materiality assessment referred to earlier
+in this annexure, businesses should prioritize
+the Core Elements which are important for their
+value chain partners to align themselves with.
+This is best done in consultation with their major
+Tier 1 partners so that ownership is built from
+the beginning.
+•	 Setting policy frameworks: Businesses
+should have in place, policies and guidelines
+that facilitate adoption of the NGRBC across
+their value chain partners. These policies and
+guidelines, where required, should be endorsed
+by the Governance Structure of the business.
+Again, this will be most effective when done in
+consultation with their Tier 1 partners.
+•	 Establishing engagement processes: The
+prioritized Core Elements should be embedded
+in processes for all points of engagement
+with value chain partners including diligence,
+selection, monitoring, periodic engagement,
+feedback, and recognition of good practice.
+Such processes are an effective means to build
+actions around the prioritized Core Elements,
+signal the business’ responsible intent, can be
+used to incentivize integration of sustainability
+principles across the value chain and, in the long
+term, will enhance security of supply for the
+business through a stronger relationship with
+their partners.
+•	 Cascading responsibility: Businesses should
+recognize that their value chains partners, direct
+and indirect, will range from large multinational
+corporations to Micro, Small and Medium
+Enterprises (further details on the role of MSMEs
+in value chains are provided in Annexure 2),
+who will have differentiated capacities and
+considerations while adopting the Principles
+and Core Elements. Businesses should guide
+and support them in their efforts to adopt these
+guidelines including collaborating with other
+businesses. Businesses should also support their
+Tier 1 partners to cascade this process to the
+subsequent tiers in the value chain.
+36 National Guidelines on Responsible Business Conduct
+Significance of MSMEs for NGRBC
+MSMEs contribute significantly to the GDP,
+employment and social equity of India. They are the
+2nd largest employer, after agriculture, employing
+an estimated 100 million people which is almost ten
+times that of the employment in the government
+and large private sector put together. MSMEs are
+present in almost all economic activities, ranging
+from crafts to services and high-end industrial
+activities. The product range spreads across sectors
+including handicrafts, handlooms, textiles, garments,
+leather, plastics, engineering, IT & IT enabled services,
+hospitality, tourism, health care and several others. In
+terms of markets, these enterprises are connected
+with rural markets to global value chains. Together
+they contribute to 37% of industrial output, 40% of
+manufactured exports and 37.54% of the GDP for
+2012-13 (Annual report of Ministry of MSME, Govt. of
+India, 2015-16), with a considerable multiplier effect
+on the economy.
+Another remarkable feature of the MSMEs in India is
+that almost two-third of them are naturally organized
+around approximately 6000 geographic clusters, as a
+part of local, regional, national and global value chains.
+These clusters in groups of contiguous villages, blocks
+or districts are known for a range of crafts, industrial
+products or services.
+MSMEs are, therefore, not a residual segment but a
+very significant component of the larger social and
+economic system, interconnected with a variety
+of stakeholders. Hence, for the NGRBC to succeed,
+widespread buy-in and adoption by the MSME sector
+is necessary.
+Classification of MSMEs
+The Indian MSME sector can be broadly categorized
+into two types:
+1. MSMEs organized around local and regional value
+chains: These comprise a large number of very
+small enterprises and is estimated to contribute
+between half to two-thirds of the total MSME
+output. However, their share has been shrinking
+over the years making way for integration across
+national and global value chains.
+2. MSMEs that are part of national & global value
+chains: These can be further broken into three
+distinct although not mutually exclusive subgroups:
+a. Global value chains linked: This group
+accounts for increasing exposure of MSMEs
+to the global business environment since
+the 1990s. Those in product categories like
+garments, sports goods, furniture, chocolates,
+beverages and other food products are well
+exposed to individual and collective buyer
+standards across environment, labour and
+other issues, and are hence reasonably in
+tune with various responsible business
+guidelines, codes and standards.
+b. Vendors/suppliers for large buyers with
+domestic base: The MSMEs in this group are
+linked across several sectors where global
+players have significant manufacturing or
+sourcing base in India, such as automobiles,
+engineering goods, aerospace, defence,
+railways and large retail companies. There
+is also a wide range of MSME suppliers for
+public procurement supplying to railways,
+engineering companies, power sector
+companies and a wide range of government
+services across hospitals, schools, etc.
+c. Emerging high growth start-ups: The
+phenomenon of technology-based high
+growth start-ups is beginning to surge.
+This is significant not only for the growth
+of individual enterprises but also with their
+power to disrupt the way classical brickand-mortar enterprises function. With a
+more positive socio-economic environment
+for spawning start-ups with support from
+academic institutions, private funding
+for risk capital, and government support,
+this group is fast emerging as a significant
+one. To illustrate there are technologybased aggregators of MSMEs that include
+independent taxi operators, e-commerce
+platforms and credit facilitators. These
+entrepreneurs have joined the bandwagon
+of globally integrated Indian MSMEs.
+The Business Case for MSMEs to adopt the NGRBC
+There is no doubt that smaller businesses have fewer
+resources and abilities to adhere to multiple laws,
+
+Annexure 3:
+Business Responsibility
+Reporting Framework
+National Guidelines on Responsible Business Conduct 39
+SECTION A: GENERAL DISCLOSURES
+Company details
+1. Name of the Company:
+2. Year of registration:
+3. Corporate Identity Number (CIN) of the Company
+(if applicable):
+4. Corporate address, telephone, email and
+website:
+Products/services
+5. Sector(s) that the business is engaged in
+(industrial activity code):
+6. Goods manufactured/services provided (top
+three by revenue):
+7. Brands (top five by respective share of market)
+owned and percentage of revenue contributed:
+Operations
+8. Location of plants (in case of manufacturing
+businesses)
+a. National (Districts and states – top five by
+employee strength):
+b. International (Country – top three by
+employee strength)):
+9. Location of major offices (in case of service
+businesses)
+a. National (Districts and states – top five by
+employee strength):
+b. International (Country – top three by
+employee strength)):
+Employees
+10. Number of permanent employees:
+11. Contractual employees (seasonal, non-seasonal):
+12. Temporary employees:
+13. Percentage of women:
+a. On the Governance Structure:
+b. In top management, i.e. business and
+function heads;
+Associate entities
+14. Names of subsidiary / associate companies;
+15. Details of Trust/Society/Section 8 company to
+further its CSR agenda:
+a. Names;
+b. Organization form (Trust, Society, Company)
+and year of establishment;
+c. Main objects/purpose;
+d. Amounts and sources of funds received in
+the reporting year;
+16. Contact details of Nodal Officer for this report
+(name, designation, email id, phone number).
+SECTION B: MANAGEMENT AND PROCESS
+DISCLOSURES
+This section is aimed at helping businesses
+demonstrate the structures, policies and processes
+put in place towards adopting the Principles and
+Core Elements.
+Disclosure Questions P 1 P 2 P 3 P 4 P5 P 6 P 7 P8 P9
+Policy and management processes
+1. Names of the policy / policies that covers each Principle
+2. Core Elements related to the Principle that the policy/
+policies cover
+3. Policy/ policies relating to each principle that has been
+translated into guidelines and procedures
+4. Extent to which manpower, planning and financial
+resources have been allocated for the implementation
+of the policy/ policies relating to each Principle
+5. National and International codes and standards
+adopted mapped to various Principles
+Governance, leadership and oversight
+6. Names of the above policies that have been approved
+by the Board/top management
+7. Name of the specified committee(s) of the Board/
+Director/Officer and processes to oversee the
+implementation of the policy/ policies
+8. The process for board/ top management to review
+performance against the above policies and
+incorporating inputs (100 words)
+40 National Guidelines on Responsible Business Conduct
+Disclosure Questions P 1 P 2 P 3 P 4 P5 P 6 P 7 P8 P9
+9. Process for board/ top management to review
+compliance with statutory requirements of relevance
+to the Principles and rectify any non-compliances (100
+words)
+10. Frequency of the reviews of the business’s alignment
+with the Principles and Core Elements conducted by
+the board/ top management
+Stakeholder Engagement
+11. Description of the process to identify your business’s
+key stakeholders (100 words)
+12. Description of the process to engage with your
+stakeholders on the Principles (100 words)
+13. Description of the processes to identify groups that are
+vulnerable and marginalized stakeholders (100 words).
+14. Description of the processes to identify issues related
+to inclusion and impact of adopting the Principles on
+vulnerable and marginalized stakeholders (100 words).
+Communications
+15. Description of process to communicate to stakeholders,
+the impact of your policies, procedures, decisions and
+performance that impact them (100 words)
+16. Description of how the business communicates the
+results of stakeholder engagement in the public
+domain (100 words)
+17. Description of the process of communicating
+performance against these Guidelines to relevant
+stakeholders (100 words)
+18. Note on how disclosures and reporting helped in
+improving business performance / strategy (50 words)
+If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be stated:
+Questions P 1 P2 P3 P4 P5 P6 P7 P8 P9
+The company has not understood the Principles
+The company is not at a stage where it finds
+itself in a position to formulate and implement
+the policies on specified Principles
+The company does not have financial or
+manpower resources available for the task
+It is planned to be done within next 6 months
+It is planned to be done within next 12 months
+Any other reason (please specify)
+SECTION C: PRINCIPLE-WISE PERFORMANCE DISCLOSURE
+This section is aimed at helping businesses demonstrate their performance in integrating the Principles and
+Core Elements with key processes and decisions. The information sought is categorized as “Essential” and
+“Leadership”. While the Essential level is expected from every business that has adopted these Guidelines,
+the Leadership level is expected of businesses which aspire to progress to a higher level in their quest to be
+socially, environmentally, and ethically responsible.
+National Guidelines on Responsible Business Conduct 41
+PRINCIPLE 1
+Essential Indicators Leadership Indicators
+1. Month/year of last review by Governance
+Structure/ top management of performance
+of the business across the Principles and Core
+Elements of the Guidelines?
+2. % Coverage of leadership team by awareness
+programmes on the Guidelines:
+a. In reporting year
+b. Total to date
+3. % of suppliers and distributors (by value), in
+the year:
+a. Covered by awareness programmes for the
+Guidelines?
+b. Had responsible/sustainable business
+policies in place?
+4. Number of meetings/ dialogues with minority
+shareholders that were organized in the year?
+5. Number of complaints received on any aspect
+of the NGRBC in the year from:
+a. Shareholders/investors
+b. Lenders
+6. Number of the above complaints pending
+resolution at close of year?
+7. Value of non-disputed fines / penalties
+imposed on your business by regulatory and
+judicial institutions in the year?
+8. Number of complaints / cases of corruption
+and conflicts of interest that were registered in
+the year?
+9. Details of unmet obligations (fiscal, social,
+etc.) arising out of any benefits or concessions
+provided by the central, state, or local
+governments (100 words).
+1. % coverage of all employees by awareness
+programmes for the Guidelines:
+a. In reporting year
+b. Total to date
+2. % of suppliers and distributors (by value)
+covered by social and environmental audits:
+a. In reporting year
+b. Total to date
+3. Was report on responsible business conduct
+made, in the year:
+a. As per mandatory/global reporting
+frameworks.
+b. Available in the public domain.
+c. Assured by a third party
+4. Details of non-disputed fines/penalties
+imposed on your business by regulatory and
+judicial institutions in the year available in public
+domain.
+5. Provide examples (up to three) of corrective
+action taken on the above fines/penalties
+imposed.
+6. Provide examples (up to three) of corrective
+action taken on the complaints / cases of
+corruption and conflicts of interest to prevent
+recurrence.
+PRINCIPLE 2
+Essential Indicators Leadership Indicators
+1. List top three goods /services (revenue in the
+year) which incorporate environmental and social
+concerns, risks, and/or opportunities in their design.
+2. Details of investments in specific technologies to
+improve the environmental and social impacts (top
+three by value).
+3. % of input material and services (by value), in the
+year, sourced from suppliers adhering to internal or
+external sustainability standards / codes / policies /
+labels.
+4. % of total raw material consumed in the year (by
+value) that consisted of material that was recycled or
+reused (provide details in 50 words):
+a. <5%
+b. between 5% and 25%,
+c. > 25%.
+5. Describe the process in place to safely collect,
+reuse, recycle and dispose of your products at end-oflife (100 words)
+1. For goods and services that incorporated
+environmental and social concerns, give details of:
+a. Resource use (energy, water, raw material)
+per unit produced in the year.
+b. Reduction in resource use covering
+sourcing, production, and distribution in
+the year.
+c. Sustainability standards/codes/ labels
+adhered to.
+d. Product life cycle assessment completed.
+2. Information on the impacts of your products across
+the value chain communicated to:
+a. To which stakeholder groups?
+b. By which channels for each group?
+c. At what frequency?
+3. Provide examples (up to three) on how the
+feedback received from stakeholders is used for
+improvements?
+42 National Guidelines on Responsible Business Conduct
+PRINCIPLE 3
+Essential Indicators Leadership Indicators
+1. Complaints received on cases arising out of
+discrimination:
+a. Number received in the year
+2. Number of the above complaints pending
+resolution at end of the ear?
+3. % of permanent employees who are members
+of the employee association(s) recognized by
+the management?
+4. % of your establishments / value chain that
+has been audited in the year for:
+a. Child labour
+b. Forced/involuntary labour
+5. Number of cases of child labour in your
+establishments/ value chains identified to date:
+a. Resolved
+b. Pending resolution
+6. Number of cases of forced / involuntary
+labour identified to date:
+a. Resolved
+b. Pending resolution
+7. % of your employees that were paid above the
+legal minimum wage in the last year?
+8. Ratio of the highest salary paid to the
+lowest salary paid amongst your permanent
+employees?
+9. Number of cases of delay in payment of
+wages during the year:
+a. Resolved
+b. Pending resolution
+10. Number of complaints related to harassment
+to date:
+a. Resolved
+b. Pending resolution
+11. Number of the following occurred during the
+year:
+a. Accidents at the workplace
+b. Fatalities caused
+c. Disability caused
+12. % of employees (all categories) trained on
+health and safety issues and measures:
+a. In the year
+b. Total to date
+13. % of employees provided training and skill
+upgradation:
+a. In the year
+b. Total to date
+1. Categories of employees (list up to three)
+supported by affirmative action, and has there
+been any change from the previous year?
+2. % of non-permanent employees that are
+linked to any standing platform/association
+3. % of children identified as employed in your
+establishments / value chain that have been
+remediated:
+a. In reporting year
+b. Total to date
+4. % of forced/involuntary labour identified in
+your establishments / supply remediated:
+a. In reporting year
+b. Total to date
+5. % of your suppliers (by value) that paid
+minimum wages to their employees last year
+6. Examples of steps taken (up to three)
+to prevent adverse consequences to the
+complainant in the case of harassment cases.
+7. % of supply chain partners (by value) that
+were assessed for adherence to health and
+safety practices.
+8. % of accident-affected persons integrated
+back into employment.
+9. Describe the work-life balance issues (up to
+three) that were brought up by employees (100
+words).
+10. Examples (up to three) of identified work-life
+balance topics that have been implemented.
+National Guidelines on Responsible Business Conduct 43
+PRINCIPLE 4
+Essential Indicators Leadership Indicators
+1. List stakeholder groups that have been
+identified as key to your business?
+2. Positions / departments / functions
+responsible for engagement with each
+stakeholder category identified above?
+3. Number of stakeholder groups that were
+formally engaged on environment and social
+issues in the last year?
+4. % of input material and services (by value),
+in the year, that were procured from local and
+small vendors / producers?
+1. Frequency of engagement with each
+stakeholder group?
+2. Examples (up to three) of how the business has
+incorporated inputs from stakeholders.
+3. List of the vulnerable and marginalized
+groups in each stakeholder group.
+4. Examples of decisions and actions taken
+by the business to address the interests of
+vulnerable/marginalized groups.
+PRINCIPLE 5
+Essential Indicators Leadership Indicators
+1. % of employees that have been provided
+training on human rights issues:
+a. In the year
+b. Total to date
+2. Employee categories that are covered by
+the human rights policies of the business –
+Permanent/Contract/Casual.
+3. Number of business agreements and
+contracts with third party partners that were
+reviewed in the year, to avoid complicity with
+adverse human rights impacts in the previous
+year.
+4. Stakeholders groups governed by the
+grievance committee for human rights issues.
+5. Number of stakeholders that reported
+human rights related grievances and/or
+complaints:
+a. Received in the year
+b. Pending resolution
+1. % of contractual employees and value
+chain partners that have been made aware /
+provided training on human rights issues:
+a. In the year
+b. Total to date
+2. External stakeholder groups and
+representatives that are covered by the human
+rights policies of the business?
+3. Stakeholder groups that have been made
+aware of the grievance mechanisms for
+human rights issues:
+a. During the year
+b. Total to date
+4. List (up to three) corrective actions taken to
+eliminate complicity with adverse human rights
+impacts in the last year.
+5. Provide (up to two) examples of a business
+process being modified / introduced as a
+result of addressing human rights grievances/
+complaints.
+6. Provide details of the scope and coverage of
+any human rights due-diligence conducted
+during the year.
+44 National Guidelines on Responsible Business Conduct
+PRINCIPLE 6
+Essential Indicators Leadership Indicators
+1. Material risks of potential or actual adverse
+impacts upon the environment and
+communities by the business:
+a. Identified in the year
+b. Mitigation and adaptation measures put in
+place for the above environmental risks?
+2. Good practices (up to three) in reduction,
+recycling, and reuse initiatives that contributed
+to lowering the adverse environmental footprint
+of your business activities.
+3. Examples of any collective action by your
+business with other businesses / NGOs /
+government agencies / international partners /
+development institutions undertaken to address
+any of the environmental risks opportunities
+identified above.
+4. Details of any adverse orders in respect of any
+show cause / legal notices from CPCB/NGT/SPCB
+received during the year.
+1. Information on environmental impact
+assessments undertaken in the year:
+a. Have the results been communicated in the
+public domain?
+b. Provide details of any actions taken to
+mitigate any negative social impacts.
+2. Risk management strategies and measures for
+each material environmental risk identified for
+the business:
+a. Details of measures (100 words).
+b. Targets and achievement values.
+3. Details of your specific contribution to
+India’s Nationally Determined Contributions
+(submitted at UNFCCC COP21 in 2015)
+4. New businesses-products-services created
+to address the material environmental risks
+identified:
+a. Information on businesses created (100
+words)
+b. % of revenue contributed by these
+5. Details of good practices cited in reduction,
+recycling, and reuse initiatives benchmarked
+against industry best practice (100 words).
+PRINCIPLE 7
+Essential Indicators Leadership Indicators
+1. Review public policy advocacy positions by
+the governance structure for consistency with
+Principles of these Guidelines:
+a. Frequency
+b. Month/year of last review.
+2. Names of trade and industry chambers and
+associations that you are a member/affiliate of.
+3. Details of any adverse orders received from
+regulatory authorities for anti-competitive
+conduct by your business.
+1. The public policy positions available in the
+public domain.
+2. Examples (up to three) of any policy changes
+in the past year as a result of your advocacy
+efforts.
+3. Details of corrective action for anticompetitive conduct, taken by the business
+based on adverse orders from regulatory
+authorities.
+4. Monetary contributions (if any) that have been
+made to political parties.
+National Guidelines on Responsible Business Conduct 45
+PRINCIPLE 8
+Essential Indicators Leadership Indicators
+1. Social impact assessments of your business
+operations conducted:
+a. Number completed in the year?
+b. Number conducted by an independent external
+agency.
+2. Examples of products, technologies, processes
+or programmes (up to three) that contribute to
+the benefit of the vulnerable and marginalized
+sections of society
+3. With respect to projects during the year for which
+R&R is applicable:
+a. Number of persons that were affected displaced
+by these projects?
+b. Gross amount paid out to project-affected and
+displaced persons?
+4. Grievances / complaints received from local
+community:
+a. Number received during the year
+b. Number pending resolution
+5. Details of investments (top three by value) in regions
+which are underdeveloped (100 words).
+6. Examples of goods and services up to 3) that
+incorporate local traditional knowledge.
+7. Details of adverse orders or judgments in
+intellectual property rights disputes related to
+traditional knowledge during the year (100 words).
+8. Summary of the key themes covered by CSR
+initiatives (as per Section 135 of Companies Act 2013)
+or linked to the CSR Policy of the business (up to 100
+words).
+1. With respect to these social impact assessments:
+a. Results made available in the public domain
+b. Details of any actions taken to mitigate any
+negative social impacts (100 words).
+2. Numbers benefitting from such beneficial products,
+technologies or processes.
+3. With respect to projects during the year for which
+R&R is applicable:
+a. Was the R&R package developed in consultation
+with project-affected people?
+b. Information on gross amounts, maid available in
+the public domain
+4. Channels/platforms used to communicate
+information regarding resolution of grievances /
+complaints from communities.
+5. Examples (up to three) of economic and social value
+addition in these underdeveloped regions (100
+words).
+6. Examples where benefits of this local traditional
+knowledge being used by the business are shared
+with the community.
+7. Number of beneficiaries covered under your CSR
+projects (as per Section 135 of Companies Act 2013),
+disaggregated by the vulnerable and marginalized
+group categories.
+8. Examples of how the impact of your community
+initiatives contribute to local and national
+development indicators?
+PRINCIPLE 9
+Essential Indicators Leadership Indicators
+1. Examples (up to three) where adverse impacts of
+goods and services of your business have been raised
+in public domain.
+2. % by value of goods and services of the business that
+carry information about:
+a. Environmental and social parameters relevant to
+the product.
+b. Safe and responsible usage.
+3. Number of consumer complaints in respect of data
+privacy:
+a. Received during the year.
+b. Pending resolution.
+4. Number of consumer complaints in respect of
+advertising:
+a. Received during the year.
+b. Pending resolution.
+5. Number of consumer complaints in respect of
+delivery of essential services:
+a. Received during the year.
+b. Pending resolution.
+1. Corrective actions taken on adverse impacts of
+goods and services of your business:
+a. Details (100 words).
+b. Communicated in the public domain.
+2. List of national-international product labels /
+certifications being used by the business.
+3. Channels platforms where information on goods
+and services of the business can be accessed.
+4. Steps taken to inform and educate vulnerable
+and marginalized consumers about safe and
+responsible usage of products (100 words).
+5. On complaints received in respect of data privacy
+and advertising, indicate what corrective actions
+were taken to ensure that these do not get repeated
+(100 words).
+6. Processes in place to inform consumers of any risk of
+disruption/discontinuation of essential services (100
+words).
+Signature of the designated official responsible for this report.
+Sd/-
+Name: Designation:
+Address:
+Telephone number:
+Email id:
+-----------------
+46 National Guidelines on Responsible Business Conduct
+Annexure 4:
+SDGs Mapped Against NGRBC
+The chart demonstrates the alignment between the SDGs and relevant Principles of the NGRBC. It may be
+noted that this is indicative.
+National Guidelines on Responsible Business Conduct 47
+The Business Case Matrix (BCM) is designed as a tool to map the business benefits of integrating these
+Guidelines. The BCM here highlights some significant benefits which may accrue to businesses from integrating
+the Principles from these Guidelines. This is not exhaustive and it is critical for each business to assess the
+benefits in their respective contexts.
+Principle
+Revenue
+growth and
+market access
+Cost savings and
+productivity Access to capital
+Risk
+management/
+license to
+operate
+Human capital
+Brand
+value/
+reputation
+1. Integrity,
+Ethics,
+transparency,
+accountability
+New customers;
+Business partner
+of choice
+Good governance
+practices are
+attractive to
+investors, banks,
+financial markets
+Positively seen
+by communities,
+NGOs, local
+governments,
+regulators
+Attract and
+retain quality
+employees
+Positively
+seen by
+customers,
+regulators,
+media
+2. Safe and
+sustainable
+goods and
+services
+New customers;
+Customer loyalty
+Efficiency gains in
+supply chain and
+production
+Lower risk
+perception is
+attractive to
+investors and
+lenders
+Reduced risk
+of action from
+regulators
+and consumer
+activists
+Attract and
+retain quality
+employees
+Enhanced
+brand value
+3. Well-being of
+employees
+Increased
+productivity; high
+morale; reduced
+absenteeism
+Improved labour
+relations leading
+to less disruptions
+Attract and
+retain quality
+employees
+Employer of
+choice
+4. Respect and
+responsiveness to all
+stakeholders
+New customers;
+Customer loyalty
+Efficiency
+gains across
+procurement,
+production
+distribution, aftersales
+Good governance
+practices are
+attractive to
+investors and
+banks
+Positively seen
+by stakeholders
+- communities,
+NGOs,
+governments,
+regulators
+Attract and
+retain quality
+employees
+Positively
+seen by
+customers,
+regulators,
+media
+5. Respect and
+promote
+Human rights
+Access to
+international
+capital and
+developed
+country markets
+Enhanced
+productivity
+Good governance
+practices are
+attractive to
+investors, banks,
+financial markets
+Positively seen
+by communities
+and NGOs; Lower
+risk of noncompliance
+Attract and
+retain quality
+employees
+Positively
+seen by
+customers,
+regulators,
+media
+6. Respect,
+protect and
+restore the
+Environment
+Business partner
+of choice,
+especially for
+sustainabilityoriented buyers
+Lower operating
+costs in the long
+term; less danger
+of“externalities”
+emerging as
+liabilities.
+Lower risk
+perception is
+attractive to
+investors, banks,
+financial markets
+Positively seen
+by communities,
+NGOs,
+governments,
+regulators; Lower
+risk of noncompliance
+Attract and
+retain quality
+employees
+Positively
+seen by
+customers,
+regulators,
+media
+7. Responsible
+and
+transparent
+policy
+advocacy
+Positively seen
+by governments,
+regulators, NGOs
+Positively
+seen by
+customers,
+regulators,
+media
+8. Promote
+inclusive
+growth and
+equitable
+development
+Potential
+for market
+expansion and
+acquisition of
+new customers
+Lower costs of
+ensuring business
+continuity
+Lower risk
+perception is
+attractive to
+investors and
+lenders
+Enhanced
+governmental
+support to
+initiatives;
+improved
+relations with
+communities
+Potential source
+of trained
+employees
+Positively
+seen by
+customers,
+regulators,
+media
+9. Provide value
+to consumer
+responsibly
+New customers;
+Customer loyalty
+Growth prospects
+attractive to
+investors
+Lower risk of
+consumer action
+Talent will be
+drawn towards
+growing firm
+Customers
+perceive
+brand
+and firm
+favourably
+

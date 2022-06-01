@@ -1,0 +1,2304 @@
+ESG Reporting Guidelines
+Guide for issuers
+May 2021
+ESG R
+epo
+rtin
+g Guid
+elines
+2
+
+
+Contents
+Abbreviations and acronyms 6
+Part 1 What is ESG and why should a company report on it? 7
+1 Introduction 8
+1.1. Background 8
+1.2. Purpose of the Guidelines 8
+1.3. Evolution of ESG reporting in Poland 8
+1.4. Regulatory context 9
+1.4.1. Poland 9
+1.4.2. EU sustainable finance regulatory framework 11
+2 ESG – what it is and why it matters 13
+2.1. ESG and sustainability 13
+2.2. The business case for ESG 14
+2.3. Attracting capital - ESG in the financial sector 15
+2.4. Increasing regulatory and societal pressure 15
+3 ESG Reporting – key considerations 17
+3.1. Reporting formats 17
+3.2. Reporting standards and frameworks 18
+3.3. The importance of decision-useful climate reporting 18
+Part 2 How can a company report on ESG? 20
+4 Key characteristics of investor-oriented ESG reporting 21
+5 Step-by-step approach to report on ESG 22
+5.1. Materiality: What is relevant to investors and other stakeholders? 23
+5.2. Assess whether and how you comply with minimum safeguards 24
+5.3. Indicators selection process 24
+5.3.1. Minimum disclosures (indicators in blue) 25
+5.3.2. Sector-specific disclosures (indicators in green) 26
+6 Metrics for ESG reporting 28
+6.1. Green revenue in line with the EU Taxonomy 28
+6.2. Sustainability governance 29
+6.3. Environmental indicators 30
+6.4. Social indicators 36
+6.5. Governance indicators 41
+Part 3 Annexes 46
+Annex A: Main international reporting Guidelines and frameworks 47
+Annex B: EU regulations 48
+Annex C: Reference list 49
+Annex D: Relevance to investors of the ESG Reporting Guidelines 50
+ESG Reporting Guidelines 6
+Abbreviations and acronyms
+CAPEX Capital expenditures NFRD Non-Financial Reporting Directive
+CDSB Climate Disclosure Standards Board OECD Organisation for Economic Co-operation and
+Development
+CEE Central Eastern Europe OPEX Operational expenditures
+CO2 Carbon dioxide PRI Principles for Responsible Investment
+CO2 e Carbon dioxide equivalent SASB Sustainability Accounting Standards Board
+CSR Corporate Social Responsibility SDGs Sustainable Development Goals
+CSRD Corporate Sustainability Reporting
+Directive SEC U.S. Securities and Exchange Commission
+DPSN2021 Dobre Praktyki Spółek Notowanych na
+GPW 2021 SFDR Sustainability Finance Disclosure Regulation
+EBRD European Bank for Reconstruction and
+Development SME Small Medium Enterprises
+ESG Environmental, Social and Governance SSE Sustainable Stock Exchanges
+EU European Union TCFD Task Force on Climate-related Financial Disclosures
+EU-ETS European Union Emissions Trading
+System TSC Technical screening criteria
+GHG Greenhouse gases WEF World Economic Forum
+GRI Global Reporting Initiative WSE / GPW Warsaw Stock Exchange
+IIRC International Integrated Reporting
+Council
+Part 1
+What is ESG and why
+should a company
+report on it?
+ESG Reporting Guidelines 8
+1.1. Background
+The international business community is increasingly addressing
+environmental, social and governance issues to meet sustainability
+challenges. This is in part driven by changing shareholder
+demands, a broader shift among capital providers, regulation,
+societal debates and reputational concerns. However, it is also
+driven by new business opportunities that are emerging, such as
+alternative product and market combinations, better access to
+talent and anticipation of changes in consumer behaviours.
+The sustainability agenda is gaining momentum in Poland as
+well. The introduction of the European Union (EU) Non-Financial
+Reporting Directive (NFRD) and its transposition into Polish law in
+2017 has further increased companies’ awareness. However, while
+an increasing number of companies are defining their business
+case for ESG reporting, the breadth, depth, and consistency of
+reported information varies.
+These Guidelines are the result of an extensive, collaborative
+process. They are tailored to the specific needs of the Polish
+capital market and business community. There is a consensus
+that ESG reporting is part of a broader drive towards a more
+sustainable economy. To inform their investment decisions,
+investors are looking for robust data on long term value creation
+as well as short term material ESG risks. They want companies
+to be responsible and accountable as they increasingly recognise
+that effective ESG management of companies is a reflection of
+operational excellence. An ESG report is by no means a standalone product. Consistent and effective ESG reporting helps
+build the sustainability profile of the company. The sustainability
+business case that drives operational choices and target-setting
+across functions is a process of continuous improvement that
+is reflected in ESG reporting. By providing these Guidelines on
+sustainability reporting, WSE joins a group of 56 stock exchanges
+globally that have published ESG reporting guidance for their listed
+companies.1
+1.2. Purpose of the Guidelines
+These Guidelines are not a new standard, they do not replace
+legal obligations, nor do they introduce new indicators. Rather the
+Guidelines as presented in this document aim to help companies
+listed on the Polish stock exchange enhance their ESG reporting
+practices. It is a roadmap based on international references such
+as the NFRD, the Sustainable Finance Disclosure Regulation
+(SFDR) and the Taxonomy Regulation at the EU level, and the
+Task Force on Climate-related Financial Disclosure (TCFD)
+recommendations at the global level.
+These Guidelines aim to contribute to better, more consistent,
+comparable and reliable sustainability reporting in a way that
+meets local and global market needs. It is a roadmap that builds
+on internationally accepted reporting metrics and provides
+companies with a practical tool for setting up a focused reporting
+capacity. Companies that have little or no experience in ESG
+reporting will appreciate the support and guidance that these
+Guidelines offer. Yet, companies that are more advanced in ESG
+reporting may use these Guidelines to confirm that their reporting
+matches international best practice. These Guidelines could be
+used as a reference for non-listed companies.
+On a macro-level, these Guidelines will further strengthen the Polish
+capital markets and the business community in a global perspective.
+International investors are demanding more clarity from companies
+on their ESG performance. The dialogue between investors and
+companies will intensify and the quality of ESG reporting will impact
+the access to capital to a greater extent. Thus, these Guidelines will
+inform the transition towards a more sustainable economy and raise
+the investment’s attractiveness of the region.
+These Guidelines cover the why, what and how of ESG reporting.
+However, ESG reporting is a complex topic and there is no
+one-size-fits-all approach. By developing their business case
+and understanding the needs of their stakeholders, companies,
+regardless of their maturity in ESG reporting, must navigate this
+complex territory and find solutions that work for them also in
+view of their activity and business model. WSE is offering training
+materials that will support its clients and other companies in raising
+the quality of their ESG reporting, thus making ESG disclosure an
+opportunity for issuers and other companies.
+1.3. Evolution of ESG reporting in
+Poland
+ESG reporting in Poland is not a novel concept. Many companies
+have been publishing sustainability reports for many years.
+The chart below (Figure 1) summarises how the concept of
+sustainability reporting has evolved over time in line with emerging
+regulations and companies’ increasing awareness of ESG risks
+1 Introduction
+1 56 of the 103 Stock Exchanges tracked by the Sustainable Stock Exchange Initiative, https://sseinitiative.org/esg-disclosure
+[last checked on April 21st 2021]
+ESG Reporting Guidelines 9
+and opportunities.
+The transposition of the Non-Financial Reporting Directive into
+Polish law was a tipping point for sustainability reporting in Poland
+and had a positive impact on the availability of ESG data published
+by the companies. It is worth highlighting, that following the
+introduction of NFRD, a local reporting standard - the Non-financial
+Information Standard (SIN) was developed to help companies
+fulfil reporting obligations instituted by the NFRD.2
+ The initiative
+was coordinated by the Fundacja Standardów Raportowania and
+Polish Association of Listed Companies.
+In parallel, Warsaw Stock Exchange has been promoting
+transparency in the Polish capital market and encouraging
+companies to consistently improve sustainability reporting, not
+least through the introduction of the RESPECT Index in 2009 – the
+first sustainability index in the Central and Eastern (CEE) region.
+The index was subsequently replaced by the WIG-ESG index,
+which became an underlying instrument for exchange-traded
+products.
+1.4. Regulatory context
+The Guidelines are aligned with the current EU and Polish
+legislation.
+1.4.1. Poland
+The Non-Financial Reporting Directive (Accounting Act)
+The main policy document governing the disclosure of ESG
+information in Poland is the Accounting Act transposing the
+provisions of the EU Non-financial Reporting Directive (Directive
+2014/95/EU).3
+ Accordingly, large public interest entities that
+have more than 500 employees and meet at least one of two
+specific criteria related to total balance sheet and net turnover
+are required to disclose material ESG information as part of their
+annual reporting. Disclosure should be done with respect to four
+sustainability areas: environment, social and employee issues,
+human rights and bribery and corruption. It should cover relevant
+policies, risk management processes and KPIs and the description
+of the company business model.
+Companies have the option to disclose required ESG information
+either as part of the Management Report (in which case it should
+Launch
+of the
+RESPECT
+index
+Launch
+of the
+WIG-ESG
+index
+Revision
+of the corporate
+governance
+principles
+2017
+2018
+2019
+2009 2020
+Revision
+of the corporate
+governance
+principles
+2016
+Transposition
+of NFRD
+into the
+Polish law
+Publication
+of SIN
+CSR ERA
+— disclosure focused on good
+practices
+— no clear link between sustainability
+efforts and business strategy
+— ESG risks and opportunities rarely
+addressed
+— limited reporting on climate-related
+matters
+— lack of visible progress over time
+EMERGENCE OF ESG REPORTING
+— integration of ESG considerations
+into business strategy and financial
+planning
+— reporting on climate change
+improving
+— more quantitative ESG metrics
+disclosed
+TRANSITION PERIOD
+Companies in scope of the NFRD had to
+report non-financial information for the
+first time in 2018
+Figure 1 Evolution of sustainability reporting in Poland
+2 Non-financial Information Standard consists of the main document and five supplementary annexes. They can be downloaded at:
+https://standardy.org.pl/sin/ or https://www.seg.org.pl/pl/standard-informacji-niefinansowych-sin
+3 Official Journal of the European Union. Directive 2014/95/EU of the European Parliament and of the Council of 22 October 2014 amending Directive
+2013/34/EU as regards disclosure of non-financial and diversity information by certain large undertakings and groups (Publ. 15 November 2014).
+https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32014L0095
+ESG Reporting Guidelines 10
+be called “Oświadczenie na temat informacji niefinansowych”)
+or as a stand-alone non-financial information statement
+(“Sprawozdanie na temat informacji niefinansowych”). In the latter
+case, the statement can also be in the form of a sustainability
+report.
+As shown in the Figure 2, NFRD has also introduced additional
+disclosure obligations for diversity issues. These have been
+regulated by the Regulation of the Minister of Finance (from May
+25th, 2016) on current and periodic disclosures. Accordingly, large
+listed companies that meet at least two of three specific criteria
+related to number of employees, total balance sheet or turnover
+should provide information on their diversity policy in relation to
+the management and supervisory bodies. Disclosures should be
+made in the corporate governance statement (“Oświadczenie o
+stosowaniu zasad ładu korporacyjnego”).
+If the company does not have a policy for diversity issues or other
+sustainability aspects specified in the NFRD, it should disclose
+this fact in accordance with the comply or explain principle.
+Companies required by the directive to prepare a non-financial
+information statement are obliged to disclose information on their
+business model, principal risks and KPIs even in the absence of
+relevant policies.
+Non-binding guidelines supplementing NFRD
+To guide corporate ESG disclosure, the European Commission has
+published two non-binding documents supplementing the NFRD:
+— Guidelines on non-financial reporting (2017)5
+— Guidelines on non-financial reporting: Supplement on reporting
+climate-related information (2019)6
+ integrating the TCFD
+recommendations
+Companies should consult those guidelines as part of their ESG
+disclosure process.
+To help companies comply with the
+NFRD disclosure obligations, indicators
+outlined in Part 2 of the Guidelines have
+been aligned with the sustainability topics
+specified in the directive. They also
+consider the supplementary non-binding
+Guidelines on Reporting Climate-related
+Information, which integrate the TCFD
+recommendations.
+Figure 2 Transposition of the Non-Financial Reporting Directive4
+DISCLOSURE OBLIGATIONS UNDER NFRD
+NON-FINANCIAL STATEMENT DIVERSITY POLICY
+WHO
+> 500 employees
+Meets one of the following criteria:
++
+Meets one of the following criteria: > 250 employees
+total balance sheet > PLN 85 mln total balance sheet > PLN 85 mln
+net turnover > PLN 170 mln net turnover > PLN 170 mln
+WHAT
+— Business model
+— Principal risks (incl. due diligence)
+— Policies regarding: environmental, social and employee
+matters, human rights, and bribery and corruption
+— KPIs
+— Diversity policy with respect to the governing bodies
+covering aspects such as: age, gender, geographical
+diversity as well as educational and professional
+background
+WHERE
+Management report or separate document Corporate governance statement
+4 Please note that the criteria may vary for the capital groups
+5 Official Journal of the European Union. Communication from the Commission — Guidelines on non-financial reporting (methodology for reporting
+non-financial information) C/2017/4234 (Publ. 5 July 2019). https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52017XC0705(01)
+6 Official Journal of the European Union. Communication from the Commission — Guidelines on non-financial reporting: Supplement on reporting
+climate-related information C/2019/4490 (Publ. 20 June 2019). https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52019XC0620%2801%29
+ESG Reporting Guidelines 11
+Corporate governance principles for companies listed on
+WSE
+Another important document that concerns companies listed on
+WSE and recommends disclosure of certain ESG information is
+the amended “Good Practices of Companies Listed on the WSE
+2021” („Dobre Praktyki Spółek Notowanych na GPW 2021” or
+DPSN2021).7
+ The code, which is in force since 2002, outlines a list
+of corporate governance principles for companies to observe, in
+line with the comply or explain principle.
+With respect to the ESG information, Section 1.3 and 1.4 of the
+DPSN2021 recommend companies to consider ESG issues as
+part of the business strategy and planning and provide disclosure
+especially on climate-related risks and related KPIs. Companies
+should also disclose the employee pay gap ratio and inform
+whether actions have been taken to eliminate gender inequalities.
+The indicators outlined in Part 2 of the
+Guidelines are aligned with the amended
+corporate governance principles for
+diversity and broader sustainability issues
+mentioned above.
+1.4.2. EU sustainable finance regulatory
+framework
+In recent years the European Commission has adopted new
+strategies and regulations to address climate and broader
+sustainability risks and opportunities. They include the revision of
+the NFRD as well as the EU Taxonomy Regulation and the SFDR
+(Taxonomy Regulation: Regulation 2020/8528
+; SFDR: Regulation
+2019/2088). The first two will have a direct implication for the
+companies’ ESG reporting obligations. The SFDR targets financial
+market participants. However, it will affect companies through
+increased investor demand for detailed ESG disclosure. See Annex
+B for a comprehensive overview of regulatory frameworks for ESG
+disclosure at EU level.
+Corporate Sustainability Reporting Directive
+The NFRD is currently being revised by the European Commission
+to enhance the consistency of sustainability reporting requirements
+with the broader legal framework on sustainable finance (see
+Annex C) including the SFDR and the Taxonomy regulation. In April
+2021, the European Commission published a legislative proposal
+for a Corporate Sustainability Reporting Directive (CSRD) that
+should apply to companies for the financial years starting on or
+after 1 January 2023, assuming agreement between EU Member
+States and the European Parliament during the first half of 2022.9
+The Commission proposes to:
+— Extend the scope of the reporting requirements to all
+large companies and to all companies (including non-EU
+companies) with securities listed on EU regulated markets
+(except listed micro-companies). Listed SMEs will be subject
+to a 3-year phase-in and a simpler reporting regime.
+— Detail the information companies should publish in their
+management reports and require them to report on strategy,
+targets, indicators, the role of the board and management,
+its principal adverse impacts, intangibles, and the process for
+identifying the information that has to be reported. Companies
+under scope would be required to use EU sustainability
+reporting standards. The first set of standards (to be adopted
+by the Commission by October 2022) will cover information
+about sustainability factors and reporting areas. By October
+2023, a second set of standards should detail complementary
+information and provide details on required sector-specific
+reporting. The CSRD will embrace the concept of double
+materiality (see 5.1) in its reporting approach.
+— Align the Sustainability Reporting Standards with other
+mandatory EU sustainability reporting standards such as the
+EU Taxonomy and the SFDR.
+— Facilitate digitalisation by requiring companies to prepare
+financial statements and management report in a single
+electronic reporting and machine-readable format (digital
+tagging).
+— Require and facilitate external assurance of the
+companies’ sustainability reporting.
+The proposal for revision of the NFRD and the upcoming
+delegated acts due in 2022 and 2023 demonstrate that the
+requirements and expectations for ESG reporting are developing
+and the EU legislative framework is progressing accordingly.
+EU Taxonomy
+The EU Taxonomy is a classification system to define
+environmentally sustainable activities. It imposes certain disclosure
+obligations for financial market participants under the scope of
+the SFDR and companies under the scope of the NFRD. These
+disclosure obligations will apply to companies for two of the six
+environmentally sustainable economic activities from January 1st
+2022, and for all six from January 1st 2023.
+— The EU Taxonomy requires companies such as large public
+interest entities as defined by the NFRD, to disclose whether
+and to what extent their economic activities are aligned with
+the EU Taxonomy. Companies must disclose the proportion of
+their turnover, capital expenditures (CAPEX) and operational
+expenditures (OPEX) that are aligned with the EU Taxonomy.
+7 Warsaw Stock Exchange. Good Practices of Companies Listed on the WSE 2021 / Dobre Praktyki Spółek Notowanych na GPW 2021 (DPSN2021). (Publ.
+2021). https://www.gpw.pl/pub/GPW/pdf/Uch_13_1834_2021_DPSN2021.pdf
+8 Official Journal of the European Union. Regulation (EU) 2020/852 of the European Parliament and of the Council of 18 June 2020 on the establishment of a
+framework to facilitate sustainable investment, and amending Regulation (EU) 2019/2088 (Publ. 18 June 2020).
+https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020R0852
+9 Proposal for a Directive of the European Parliament and of the Council. Amending Directive 2013/34/EU, Directive 2004/109/EC, Directive 2006/43/EC and
+Regulation (EU) No 537/2014, as regards corporate sustainability reporting (Publ. 21 April 2021)
+https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021PC0189
+ESG Reporting Guidelines 12
+— The EU Taxonomy requires financial market participants
+offering “environmental” or “sustainable” financial products
+and services in the EU to disclosure how and to what extent
+the economic activities are in line with the EU Taxonomy. This
+includes the type of environmental objectives it contributes to
+and the share of investments (such as turnover, CAPEX and
+OPEX) associated with Taxonomy-aligned activities.
+The Technical screening criteria (“TSC”) explain what it means
+to contribute or harm one of the environmental objectives. To
+be aligned with the EU Taxonomy, companies will have to follow
+the three-fold assessment as shown in Figure 3. Consequently,
+they should disclose whether they substantially contribute to at
+least one of the six environmental objectives, that they do not
+significantly harm any other and whether and to what extent they
+comply with the minimum safeguards. This assessment will allow
+companies to report on the financial metrics mentioned above
+(turnover, CAPEX, OPEX).
+The indicators outlined in Part 2 of the
+Guidelines have been selected to help
+companies towards compliance with
+the Taxonomy regulations on minimum
+safeguards. Additionally, and in line with
+the EU Taxonomy (article 8), a “green
+revenue indicator” has been included for
+companies to disclose whether and to what
+extent their economic activities qualify
+as environmentally sustainable under the
+regulation.
+Sustainable Finance Disclosure Regulation (SFDR)
+The SFDR aims to prevent greenwashing and increase market
+transparency for financial market participants and financial
+advisers.10 It introduces a set of disclosure requirements around
+integration of ESG risks in the investment processes, which are
+legally binding since March 2021.
+The SFDR entails two levels of disclosure for both financial market
+participants11 and financial advisers:
+— The firm level: disclosure on the principal adverse impact and
+sustainability risk as well as the firm’s remuneration policy (on
+the firm’s website)
+— The product level: disclosure on the products principal adverse
+impacts, sustainability risks (in pre-contractual disclosures and
+in periodic reports for financial market participants only)
+Although the SFDR does not apply to non-financial companies, it
+will impact them due to new reporting requirements from financial
+market participants.
+Figure 3 Methodology assessment of the EU Taxonomy
+Climate change mitigation
+Climate change adaptation
+Sustainable use and protection of water and marine resources
+Transition to a circular economy
+Pollution prevention and control
+Protection and restoration of biodiversity and ecosystems
+1
+2
+3
+4
+5
+6
+TO BE ALIGNED WITH THE EU TAXONOMY, AN ECONOMIC ACTIVITY MUST:
+Substantially contribute
+to at least one of the
+six environmental objectives
+Do no significant harm
+to any other objective
+Comply with
+Minimum Safeguards
+10 Official Journal of the European Union. Regulation (EU) 2019/2088 of the European Parliament and of the Council of 27 November 2019 on sustainability
+related disclosures in the financial services sector (publ. 27 November 2019).
+https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R2088&from=EN
+11 Financial market participants are defined in Article 2 of the SFDR
+ESG Reporting Guidelines 13
+2 ESG – what it is and why it matters
+It is in every company’s interest to adequately address
+environmental, social, and governance risks and opportunities.
+Material ESG risks just like any other corporate risks may become
+important and even detrimental to the company. The costs to
+repair damages can be higher than preventative measures and
+proactive ESG risk management. Evidence shows that companies
+that fully integrate ESG, that are accountable to stakeholders
+and transparent, are better positioned for long-term success.
+The financial sector is mainstreaming ESG, and its integration in
+finance is expected to accelerate further. This chapter provides an
+overview of how ESG affects issuers and other companies.
+2.1. ESG and sustainability
+While the term ESG is commonly used among investors, the
+term sustainability is more common among companies. Although
+subtle nuances exist, for the purpose of these Guidelines, both
+terms are seen as encompassing the broad set of environmental,
+social and governance considerations. The term Corporate Social
+Responsibility (CSR) has been avoided as it is often interpreted
+to only cover aspects of the social dimension and be related to
+philanthropic activities.
+Environmental, social, and corporate governance criteria are
+often used by investors to screen potential investments. These
+three criteria are essential in measuring the sustainability and
+societal impact of a company. Environmental factors include
+the contribution a company makes to climate change through
+greenhouse gas emissions, along with waste management, energy
+efficiency and the eventual impact on the natural environment and
+the biodiversity.
+Social factors refer to how humans are affected by a company and
+its activities – as employees, clients, suppliers, and communities –
+and how humans and society in turn may affect the company. This
+includes but is not limited to labour relations, health and safety,
+diversity and inclusion matters, and fundamental human rights.
+Governance is the internal system of practices, controls, and
+procedures a company adopts in order to govern itself, make
+effective decisions, comply with the law, and meet the needs of
+external stakeholders. Every company requires sound corporate
+governance, adapted to its size and its business model, ambition
+and priorities.
+Figure 4 Examples of ESG issues
+— Climate change
+— Water stress
+— Biodiversity
+— Land use
+— Raw materials
+— Pollution and waste
+— Labour management
+— Occupational health and safety
+— Employee training
+— Human rights
+— Community relations
+— Product governance
+— Corporate governance
+— Business ethics
+— Anti-corruption
+— Responsible tax
+— Privacy and data security
+ENVIRONMENT SOCIAL GOVERNANCE
+ESG Reporting Guidelines 14
+While ESG factors are at times called “non-financial” or “extrafinancial”, a more accurate description is that they vary in terms of
+how easy it is to convert them into financial impacts. For example,
+more efficient use of resources can be directly linked to the cost of
+raw material, energy and related savings.
+It may be more challenging to estimate the financial impacts for
+other factors, nonetheless, they are relevant and even vital for
+different stakeholders. For example, investors as well as regulators
+demand sound corporate governance, which include strong antibribery and corruption management, and independent directors
+on the board of a company. Another matter is health and safety
+and good working conditions, which has a direct bearing on a
+company’s license to operate, its reputation and the motivation of
+its workforce. Hence, it is important to consider which ESG topics
+are most relevant to a company and starting to measure, manage
+and report on these.
+2.2. The business case for ESG
+The value driver model of the UN Global Compact and the
+Principles for Responsible Investment (PRI) (Figure 5) is a tool for
+communicating the business value of sustainability.12 Linking three
+categories of sustainability drivers (growth, productivity and risk
+management) to return on capital and key business metrics helps
+disprove the myth that business success and ESG management
+are not aligned. Business and investors are likely to speak the
+same language when ESG is captured in a model like this.
+Risk management
+As the value driver model explains, integrating ESG in risk
+management is an important step on a sustainability journey. A
+negative ESG business case in the sense of losing value because
+of avoidable risks is well understood by many boards. How
+may ESG impact the company’s value chain? What material
+sustainability issues may hit operation, or reputation? Physical
+and transition risks13 linked to climate change are ever more
+material. For example, the World Economic Forum’s (WEF) Global
+Risks Report 2021 rates climate change related risks as very
+significant.14 Other environmental risks, such as natural resources
+crises and biodiversity loss and societal risks, like the erosion
+of social cohesion erosion dominate the global risk landscape,
+according to the WEF’s research. How do these risks impact
+operations and license to operate? Being aware of ESG risks
+and handling these adequately is a fundamental part of running
+a business and pursuing operational excellence. Mapping and
+prioritising ESG risks, for example by filling out a materiality matrix,
+and managing this over time is of great importance (see part two
+of this report).
+Productivity
+The value model also describes that ESG offers opportunities to
+increase productivity, doing more with less. Increasing efficiency
+in, for example, the use of raw material and other resources such
+as energy and water management is good for both the planet and
+a company’s financial bottom line. As employees are a vital part
+of the equation, it is important to recognise the impact of ESG
+on labour markets. A vast majority (around 70%) of millennials
+say they prefer working in a company with a strong sustainability
+agenda15. Companies may want to consider whether this poses a
+risk or an opportunity to their productivity.
+Figure 5 The UN Global Compact value driver model
+— New markets & Geographies
+— New customers & market share
+— Product & service innovation
+— Long-term strategy
+Revenue growth from
+sustainability-enhanced
+or advanced
+products & services
+Total cost saving +
+avoidance from
+sustainability-related
+initiatives
+Measurable reduction
+in exposure to
+sustainability-related
+risks to revenue
+and reputation
+— Operational efficiency
+— Human capital management
+— Reputation pricing power
+— Operational & regulatory risk
+— Reputational risk
+— Supply chain risk
+— Leadership & adaptability
+Return on
+Equity or Capital
+Risk
+Management
+Productivity
+Growth
+12 PRI and UN Global Compact. The value driver model: a tool for communicating the business value of sustainability. Report (publ. 2014).
+https://www.unglobalcompact.org/library/811
+13 Physical and transition risks as defined in section 6.3 of these Guidelines (indicator E-M3 Climate risks and opportunities)
+14 World Economic Forum: The Global Risks Report 2021 (publ. 2021). http://reports.weforum.org/global-risks-report-2021/
+15 Governance & Accountability Institute, Millennials Really Do Want To Work for Environmentally-Sustainable Companies, According to a New Survey of
+Large Company Employees (publ. 23 February 2019), https://www.ga-institute.com/newsletter/press-release/article/millennials-really-do-want-to-work-forenvironmentally-sustainable-companies-according-to-a-new-su.html
+ESG Reporting Guidelines 15
+Growth
+ESG can drive top line growth in both business-to-consumer and
+business-to-business markets. Research suggests that 79% of
+consumers are changing their purchase preferences based on
+social responsibility, inclusiveness, or environmental impact.16
+Moreover, COVID-19 has increased consumer awareness and
+commitment to buying sustainably: 67% of consumers said that
+they will be more cautious about the scarcity of natural resources
+due to the COVID-19 crisis, and 65% said that they would be
+more mindful about the impact of their overall consumption in the
+“new normal.” Some companies even claim that their sustainable
+brands grow faster than other parts of their business.17
+In business-to-business markets, ESG management is more
+prominent. One reason is that as businesses are increasingly
+committed to reducing their footprint, they are looking for solutions
+across their value chains that contribute to that goal. As part of
+their formal purchasing policies, they can manage this reduction
+of footprint and reduce reputational risk as well. Suppliers that are
+best positioned to meet these demands will create a competitive
+advantage.
+The drivers of the ESG business case may have different weights
+from one sector to another, but they are equally applicable for
+large cap or small cap businesses. Long-term value creation by
+leveraging ESG potential will be key to define success in business.
+2.3. Attracting capital - ESG in the
+financial sector
+Over the last decade, sustainability has gained weight in the
+financial sector. The sector is shifting away from the short-term
+investment approach that maximises financial returns towards
+a long-term value creation model that optimises financial, social
+and environmental value subject to risk. Investors, lenders,
+insurers and other financial players alike are becoming aware
+that corporate financial statements alone are not necessarily
+sufficient in determining the company’s risk profile and potential. It
+is acknowledged that both a company’s balance sheet and profit
+and loss account can be impacted by ESG factors. Good ESG
+management quality reflects operational excellence. Investors and
+other providers of financial services have recognised that ESG has
+a significant impact on the value creation of an organisation. The
+environmental and social risks a company may face, and the way
+in which these risks are managed can deter providers of capital
+and raise the cost of capital. As ESG is also integrated in other
+financial instruments (e.g. loans, green bonds, insurance, etc.) the
+financial sector is leading the mainstreaming of ESG.
+The need for issuers to respond to this demand for ESG
+information is clear. By disclosing the data investors seek, issuers
+can provide reassurance that they are effectively managing
+business risks and identifying opportunities.
+Principles for Responsible Investment
+(PRI)
+The PRI were established by 100 investment
+institutions in 2006. It outlines six voluntary
+and aspirational investment principles to
+incorporate ESG issues into investment
+practice.
+In 2010 PRI had 800 signatories with USD 22
+trillion AUM. In the ten years that followed,
+the collective AUM represented by PRI
+signatories increased by 370% to US$103.4
+trillion, and the number of signatories
+increased to a total of 3,038 signatories as
+of 31 March 2020.
+From an issuer perspective, good ESG
+reporting is thus an advantage in attracting
+capital from these investors.
+16 Capgemini Research Institute. How sustainability is changing consumer preferences. Research report (publ. 8 July 2020).
+https://www.us.sogeti.com/explore/news/research-how-sustainability-is-changing-consumer-preferences/
+17 Unilever. Brands with purpose grow – and here’s the proof. Featured article (publ. 11 June 2019).
+https://www.unilever.com/news/news-and-features/Feature-article/2019/brands-with-purpose-grow-and-here-is-the-proof.html
+ESG Reporting Guidelines 16
+2.4. Increasing regulatory and societal
+pressure
+Companies need to comply with local, national and international
+regulation and standards as a baseline for their ESG agenda.
+This may relate to a broad set of topics, ranging from waste
+management to pollution and energy efficiency as well as human
+rights and labour responsibility. The European Union has an
+ambitious ‘green agenda’ to adapt its economy and society to the
+sustainability challenges our world is facing. By being a frontrunner, it aims to capture the opportunities that a green economy
+will offer in terms of jobs, prosperity and well-being (within the
+limits of the earth’s carrying capacity).
+The number of global ESG regulations is increasing (Figure 6).18
+Across the world’s 50 largest economies, there have been over
+730 hard and soft-law policy revisions, across some 500 policy
+instruments, which support, encourage or require investors to
+consider long-term value drivers, including ESG factors. Regarding
+the legislative framework in the European Union, the European
+Financial Reporting Advisory Group (EFRAG) recently confirmed
+the “strong need and support for a significant step forward in
+sustainability reporting in the EU, including the adoption of robust
+standards […] there is a pressing need to foster greater relevance,
+comparability and reliability of sustainability reporting through a
+combination of legislative and regulatory provisions”.19
+Rather than taking a minimum-compliance approach, issuers
+could consider the regulatory requirements as an opportunity to
+enhance their reporting to investors. Moving beyond the areas
+covered in regulation and toward identifying your business’ most
+material ESG themes and the underlying indicators based on
+global standards makes a difference relative to a merely regulation
+compliant ESG reporting. Only then a company will be able to
+produce ESG reporting that aligns closely with its own material
+issues, and that enables a richer data flow and dialogue with
+investors to take place.
+It is not only via formal legislation and soft law that sustainability
+is being nudged. Societal expectations about sustainable
+development are becoming more explicit. A report by Cambridge
+University captures it well: “The slow pace and reactive nature of
+regulation means that society cannot rely solely on governments
+and policymakers to effectively navigate these challenges. There is
+growing public expectation that businesses must step up and take
+responsibility for delivering positive outcomes for society and the
+environment.”20
+Interest groups are confronting companies and governments
+with the impact of their actions. Social media allow for swift
+communication on issues and incidents. Oil spillages, low paid
+factory workers in developing countries, and melting glaciers all
+find their way to the screens of citizens around the world. NGOs
+launch public campaigns against companies, but also take
+multinationals to court.
+Figure 6 Responsible investment regulatory and soft-law development
+1972
+0
+100
+50
+150
+500
+550
+400
+300
+200
+250
+350
+450
+1976 1980 1984 1988 1992 1996 2000 2004 2008 2012 2016 2020
+Number of responsible investment-related policy instruments over time
+across the world’s 50 largest economies
+18 PRI: Taking stock: Sustainable finance policy engagement and policy influence. White paper (publ. 2019).
+https://www.unpri.org/Uploads/c/j/u/pripolicywhitepapertakingstockfinal_335442.pdf
+19 European Financial Reporting Advisory Group. Proposals for a relevant and dynamic EU sustainability reporting standard-setting. Report (publ. February
+2021). https://www.efrag.org/Assets/Download?assetUrl=%2Fsites%2Fwebpublishing%2FSiteAssets%2FEFRAG%2520PTF-NFRS_MAIN_REPORT.pdf
+20 Cambridge University, Institute for Sustainability leadership. Rewiring leadership: The future we want, the leadership we need. (Publ. 2018)
+https://www.cisl.cam.ac.uk/resources/publication-pdfs/rewiring-leadership.pdf
+ESG Reporting Guidelines 17
+3 ESG Reporting
+– key considerations
+When selecting the approach for sustainability reporting,
+companies should consider the needs and expectations of their
+stakeholders in terms of content, format and granularity of data.
+This chapter provides an overview of key considerations to help
+companies navigate this process.
+3.1. Reporting formats
+Companies can choose the reporting format that best suits their
+needs provided it meets the relevant legal requirements. The
+overview below presents different options companies can follow.
+Annual report
+It is increasingly common that companies discuss key ESG
+issues within their annual reports. However, reporting may be
+limited to a few ESG topics and metrics to match the style and
+structure of the financial reporting. Additional information can be
+provided separately through the corporate website and/or more
+comprehensive stand-alone sustainability report. Best practice
+stipulates that such information is properly referenced in the annual
+report. Companies under the scope of NFRD may publish ESG
+information as part of the management report or as a stand-alone
+non-financial information statement.
+Stand-alone sustainability report
+This approach is among the most frequently used among
+companies internationally as it allows all sustainability information
+to be gathered in one dedicated document. Publishing stand-alone
+sustainability report gives companies flexibility to present ESG data
+in whichever way suits them best. Issuers falling under the scope
+of the NFRD have the option to either publish a standalone nonfinancial information statement covering the ESG topics required
+by the directive or issue a fully-fledged sustainability report. In the
+latter case, companies may decide to include a reference table
+linking content of the report to the disclosure topics required by
+the NFRD to allow users to easily find relevant information. The
+Global Reporting Initiative (GRI) offers guidance for the reporting
+process and deliverables. However, the option of issuing a standalone sustainability report will disappear under the current CSRD
+proposal as all information would have to be disclosed in the
+company’s management report.
+While it is possible to publish sustainability reports up to 6 months
+after the publication of the annual report, it is best practice to
+publish them at the same time to allow the user to read them
+together as a complete package of information. It is also best
+practice to ensure that the information reported in the stand-alone
+sustainability report is consistent and comparable with the annual
+report, for example by ensuring that it covers the same period.
+Integrated report
+Integrated reporting combines financial and sustainability reporting
+in a single document. It shows how the company strategy and
+value creation model is linked to the ESG performance. For that
+reason, it is mostly used by companies with advanced ESG
+management systems. This approach has been promoted by the
+International Integrated Reporting Council (IIRC).
+Figure 7 Reporting formats
+ANNUAL REPORT + ESG SUSTAINABILITY REPORT
+Focus on information
+material for understanding
+of enterprise value
+Stand-alone report
+covering sustainability
+information only
+INTEGRATED REPORT
+Financial and sustainability
+information integrated
+in one document
+ESG Reporting Guidelines 18
+3.2. Reporting standards and frameworks
+Companies are encouraged to disclose ESG information in accordance with internationally accepted reporting standards and frameworks,
+which also constitute important points of reference for the forthcoming proposed EU standards. Figure 8 presents some of the most
+commonly used frameworks.
+GRI IIRC SASB
+USERS All companies Public companies Public companies in the US
+AUDIENCE Various stakeholders Investors Investors
+PURPOSE
+To help companies and other
+organisations communicate their
+impact on the economy, environment
+and the society.
+To help companies explain how they
+create value in the short, medium
+and long-term both in financial and
+non-financial terms through integrated
+reporting.
+To help companies listed in the
+US disclose material sustainability
+information in the US Securities and
+Exchange Commision (SEC) filings.
+SCOPE
+Sustainability reporting standards
+providing companies with guidance
+on reporting specific metrics within
+the following areas:
+— General disclosure
+— Economic
+— Environmental
+— Social
+Principle-based framework that
+focuses on six capitals essential to
+the value creation process: financial,
+manufactured, intellectual, human,
+social and relationship, and natural.
+Sustainability accounting standards
+covering the following areas:
+— Environment
+— Social capital
+— Human capital
+— Business model and innovation
+— Leadership and governance
+SECTORAL
+GUIDANCE
+Some sector-specific guidance
+provided No Yes
+ALIGNMENT
+WITH NFRD Yes No No
+In November 2020, the SASB and IIRC has announced plans to merge
+into one organisation – the Value Reporting Foundation, which will focus on
+creating a comprehensive reporting framework.
+3.3. The importance of decision-useful
+climate reporting
+Over recent years climate change has become the number one
+ESG theme as it poses significant risks and opportunities for
+businesses, investors, economies and societies alike. Regulations
+increasingly ask financial market participants to evaluate climaterelated risk and opportunities and integrate them in the investment
+management process. The demand for meaningful climate-related
+corporate disclosure is following suit.
+To address financial markets’ needs for increased and consistent
+climate reporting, in 2015 the Financial Stability Board established
+the TCFD. In 2017 TCFD presented a framework to help
+companies disclose information on their approach for managing
+climate-related risks and opportunities. It focuses on four key
+areas: governance, strategy, risk management, as well as targets
+and metrics, outlined in the table below.
+Figure 8 Major international reporting frameworks
+ESG Reporting Guidelines 19
+GOVERNANCE
+Disclose the organisation’s governance
+around climate-related risks and
+opportunities.
+a. Describe the organisation’s governance around climate-related risks and
+opportunities.
+b. Describe management’s role in assessing and managing climate-related
+risks and opportunities.
+STRATEGY
+Disclose the actual and potential
+impacts of climate-related risks and
+opportunities on the organisation’s
+businesses, strategy, and financial
+planning where such information is
+material.
+a. Describe the climate-related risks and opportunities the organisation has
+identified over the short, medium, and long term.
+b. Describe the impact of climate-related risks and opportunities on the
+organisation’s businesses, strategy, and financial planning.
+c. Describe the resilience of the organisation’s strategy, taking into
+consideration different climate-related scenarios, including a 2°C or lower
+scenario.
+RISK MANAGEMENT
+Disclose how the organisation
+identifies, assesses, and manages
+climate-related risks.
+a. Describe the organisation’s processes for identifying and assessing climaterelated risks.
+b. Describe the organisation’s processes for managing climate-related risks.
+c. Describe how processes for identifying, assessing, and managing climaterelated risks are integrated into the organisation’s overall risk management.
+METRICS AND TARGETS
+Disclose the metrics and targets
+used to assess and manage relevant
+climate-related risks and opportunities
+where such information is material.
+a. Disclose the metrics used by the organisation to assess climate-related risks
+and opportunities in line with its strategy and risk management process.
+b. Disclose Scope 1, Scope 2 and, if appropriate, Scope 3 greenhouse gas
+(GHG) emissions and the related risks.
+c. Describe the targets used by the organisation to manage climate-related
+risks and opportunities and performance against targets.
+Figure 9 TCFD Recommendations 21
+While the TCFD recommendations remain a voluntary, marketled initiative, regulators are taking steps to encourage its broader
+adoption. The EU Commission’s Non-Binding Guidelines on
+Reporting Climate-Related Information, which supplements
+the Non-Financial Reporting Directive, refer to the TCFD
+recommendations as “widely recognised authoritative guidance on
+the reporting of financially material climate-related information.”22
+The Commission’s proposal for a Corporate Sustainability
+Reporting Directive embeds the concepts of the TCFD more
+clearly into EU legislation. Combined with the proposed EU
+standards, it would in effect make the TCFD mandatory.
+Other frameworks that facilitate disclosure of climate-related
+information include CDP and the Climate Disclosure Standards
+Board (CDSB) Framework:
+— CDP allows companies to disclose detailed information
+on their climate change impacts through standardised
+questionnaires, which are subsequently scored by the CDP to
+help drive environmental leadership;
+— The CDSB Framework helps companies provide investors
+with disclosure on environmental matters and related risks and
+opportunities in their annual reports.
+21 TCFD. Recommendations of the Task Force on Climate-related Financial Disclosures. Final report (publ. June 2017).
+https://www.fsb-tcfd.org/recommendations/
+22 Official Journal of the European Union. Communication from the Commission — Guidelines on non-financial reporting: Supplement on reporting climaterelated information C/2019/4490 (Publ. 20 June 2019). [Page 4]
+https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52019XC0620%2801%29
+ESG Reporting Guidelines 20
+Part 2
+How can
+a company
+report on ESG?
+ESG Reporting Guidelines 21
+CORPORATE GOVERNANCE AND OPERATIONAL EXECUTION
+ESG reporting should be understood as part of the corporate business cycle, not as a stand-alone product.
+Sound corporate governance that drives the ambition to integrate ESG in core processes, taking responsibility
+and being accountable for that are the foundation of the transition towards more sustainable operations. An
+ESG report, built on the presented characteristics, reflects on the process of continuous improvement of the
+company.
+4 Key characteristics of
+investor-oriented ESG reporting
+As ESG disclosure is increasingly demanded by analysts and capital market participants, it is important for issuers to respond to these
+information needs accordingly. Decision-useful ESG disclosure has several key characteristics. It should be:
+Materiality is perhaps the single most
+important factor to consider when
+preparing ESG disclosures. Applying a
+rigorous materiality process helps identify
+relevant ESG issues and prioritise them
+according to the likelihood and magnitude
+of their potential impact on company
+operations. Section 5.1 provides further
+details.
+Disclosure should be objective and
+balanced, including both positive
+and negative developments. Any
+misstatements or omissions of material
+information should be avoided.
+Companies should explain the scope and
+boundaries of the reported information,
+especially when certain information
+pertains only to some (but not all) of its
+activities or subsidiaries.
+Generic, “boiler-plate” disclosure is of
+limited use to investors and analysts.
+Disclosure on material ESG issues should
+be aligned with strategic information
+necessary for investment decisionmaking, such as description of relevant
+risks and opportunities as well as a
+process for managing them. It is also
+important for the disclosure to be forwardlooking, such as linking quantitative ESG
+metrics and targets to the company
+strategy.
+ESG reporting should be presented in
+a clear and concise manner and for a
+specific period, usually a given reporting
+year. Reporting excessive or irrelevant
+information can lead to the confusion and
+obscure key messages.
+Prioritising quantitative data facilitates
+peer comparison by investors and
+analysts. Reported KPIs should be linked
+to the company business strategy and
+present the company’s performance in
+key ESG areas. A narrative description
+providing additional context is also
+important and helps explain the numbers
+and how the company is progressing.
+External assurance of reported data helps
+to increase its credibility, allowing for more
+effective integration by investors.
+Material Objective Strategic and
+forward-looking
+Verifiable Comparable
+and reliable
+Clear
+and concise
+ESG Reporting Guidelines 22
+5 Step-by-step approach to report on
+ESG
+1. IDENTIFY PURPOSE & AUDIENCE 2. CONDUCT A MATERIALITY ASSESSMENT
+As a first step, it is helpful for a company to identify who is
+the audience targeted with this report and what do they
+want to know. To do so, the company should consider:
+– What is the purpose of this reporting exercise?
+– Who do we target with this report and what are
+ their needs?
+Based on the targeted audience, a company can define
+which information is material to report (section 5.1)
+To be in line with the EU taxonomy, issuers are to disclose whether
+ and how they comply with minimum safeguards (section 5.2)
+Content of the report
+– brief description of the business model
+– description of policies & processes
+– description of policies’ outcomes
+– principal ESG risks and implications
+– KPIs, analysis and implications of the results
+– describe compliance with min. safeguards
+– report on green revenue
+3. ASSESS COMPLIANCE WITH MINIMUM SAFEGUARDS
+4. SELECT THE RELEVANT INDICATORS TO REPORT ON
+5. ANALYSE DATA AND BUILD YOUR REPORT
+NFRD
+EU TAXONOMY
+Comply or explain
+If material information
+is not reported,
+explain why
+Align with minimum
+disclosure
+requirements
+Consider additional
+sector specific risks
+and opportunities
+Tailor set of KPIs
+to your Company
+- Heatmap (p. 27)
+- Metrics (Chap. 6)
+TOOLBOX 1 2 3
+Figure 10 Step-by-step approach to report on ESG
+Chapter 5 presents a step-by-step guide to help companies decide which information to disclose. It introduces the concept of materiality,
+minimum safeguards and minimum disclosure metrics. Additional sector-specific disclosures that companies could consider including in
+their ESG reporting are also discussed in this chapter.
+ESG Reporting Guidelines 23
+5.1. Materiality: What is relevant to investors and other stakeholders?
+The concept of materiality is commonly used in the context of financial accounting and disclosure. In essence it defines which information
+is decision-useful and, as stated in the Non-Financial Reporting Directive, necessary for the “understanding of the company’s development,
+performance and impact of its activities.”23
+It is important to note that the definition of materiality by the NFRD implies a double materiality perspective, by connecting financial
+materiality with environmental and social materiality. As such, ESG disclosures should be driven by actual and potential ESG risks and
+opportunities that can have material implications for the company’s financial and operational performance as well as the consideration of its
+external impact on the society and environment. The graph below summarises the double materiality perspective introduced by the NFRD.
+Materiality is specific to the company, its context and stakeholders. When deciding which issues and information are material, companies
+may consider the following:
+— Business model and company-specific circumstances. Company business strategy, goals and values as well as principal risks
+within its value chain are important factors to assess.
+— Sector-specific issues. Companies within the same industry are likely to face similar ESG risks and opportunities. Benchmarking
+against peers and competitors can thus help to identify relevant issues. SASB Standards can also provide useful input for companies as
+they conduct their materiality assessments.
+— Stakeholder expectations. Proactive engagement with internal and external stakeholders (including investors) can help to better
+understand their interests and needs.
+MATERIALITY
+Defines which information is decision useful and necessary for ...
+FINANCIAL ENVIRONMENTAL & SOCIAL
+“understanding of the company’s
+development, performance... ... and impact of its activity”
+IMPACT IMPACT
+RISK
+Company Environment
+& Society
+Primary audience: investors Primary audience: stakeholders, investors
+Company Environment
+& Society
+Figure 11 Double Materiality Perspective24
+23 Official Journal of the European Union. Communication from the Commission — Guidelines on non-financial reporting: Supplement on reporting climaterelated information C/2019/4490 (Publ. 20 June 2019). https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52019XC0620%2801%29
+24 Adapted from the EU Commission. fficial Journal of the European Union. Communication from the Commission — Guidelines on non-financial reporting:
+Supplement on reporting climate-related information C/2019/4490 (Publ. 20 June 2019).
+https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52019XC0620%2801%29
+ESG Reporting Guidelines 24
+5.2. Assess whether and how you comply with minimum safeguards
+To be in line with the EU Taxonomy, issuers should disclose whether and to what extent they comply with minimum safeguards such as:
+— The Organisation for Economic Co-operation and Development (OECD) Guidelines for Multinational Enterprises25: A
+set of recommendations for responsible business conduct in a global context. Recommendations cover a variety of topics (such as
+human rights; employment and industrial relations; environment; bribery; consumer interests; science and technology; competition and
+taxation).
+— The UN Guiding Principles on Business and Human rights26: Guiding principles covering the corporate responsibility to respect
+human rights.
+— The eight fundamental conventions of the International Labour Organisation27: Legal instruments covering subjects that are
+considered fundamental principles and rights at work such as freedom of association and right to collective bargaining; the elimination
+of all forms of forced or compulsory labour; the effective abolition of child labour; and the elimination of discrimination in respect of
+employment and occupation.
+— The International Bill of Human Rights28: It consists of the five core human rights treaties of the United Nations.
+5.3. Indicators selection process
+Not all ESG issues are equally relevant to all businesses. Deciding what ESG metrics to report can be a difficult task, especially for
+companies which have yet to build capacity in the ESG reporting area. A two-step approach consisting of minimum disclosures and
+additional sector-specific disclosures will help to level companies’ performance and increase availability and consistency of data. More
+importantly, by focusing on a smaller but carefully considered pool of indicators companies will be able to better prioritise key issues in line
+with the current and anticipated regulatory developments, and key risk and opportunities relevant to their sector.
+The chart below (Figure 12) presents a simple step-by-step process a company may follow to select a set of metrics and KPIs to report on.
+Align with minimum
+disclosure requirements
+Consider additional sector
+specific risks and opportunities
+Tailor set of KPIs
+to your Company
+1 2 3
+Figure 12 Indicator selection process
+Minimum and sector-specific disclosures are defined in line with the existing and potential regulatory requirements. In addition, they also
+consider the relevance to investors and other stakeholders, existing disclosure practices, and finally the potential of an issue to affect the
+company performance and financial condition.
+It is important to emphasise that this process is provided merely as an illustration. More advanced companies may prefer to conduct their
+own materiality assessment supported by stakeholder consultation to determine which ESG issues are material.
+25 OECD. Guidelines for Multinational Enterprises. (Publ. 2011) http://www.oecd.org/daf/inv/mne/48004323.pdf
+26 United Nations, Human Rights – Office of the High Commissioner. Guiding principle on business and human rights. (Publ. 2011).
+https://www.ohchr.org/documents/publications/guidingprinciplesbusinesshr_en.pdf
+27 ILO. Fundamental Conventions.
+https://www.ilo.org/global/standards/introduction-to-international-labour-standards/conventions-and-recommendations/lang--en/index.htm
+28 United Nations, Human Rights – Office of the High Commissioner. The international bill of human rights. (Publ. 10 December 1948).
+https://www.ohchr.org/documents/publications/compilation1.1en.pdf
+ESG Reporting Guidelines 25
+After conducting its materiality assessment and having selected themes to report on, a company can start reporting against selected
+metrics. Chapter 6 defines those metrics theme by theme. The metrics are presented as per Table 1.
+Code Indicator name Unit
+ EU legislation Other frameworks
+NFRD SFDR GRI SASB Other
+Minimum disclosures (applicable to all sectors)
+S-M1 Board Diversity Percentage (%) • • 405-1 • -
+S-M2 Gender Pay Gap Ratio Percentage (%) • • 405-2 • DPSN2021
+Table 1 An example of how metrics are presented in Chapter 6
+An indicator is introduced with its unit. As a reference, the GRI code that covers the indicator is specified (although those may differ in
+certain circumstances). The table also tells whether an indicator is in line with EU legislation such as the NFRD and other frameworks (e.g.
+SASB, CDP, TFCD etc.). The EU legislation framework is further defined in annex B.
+To guide a company’s interpretation and selection of relevant metrics, each metric has an ID code. Figure 13 details how a metric’s ID code
+is built. It is composed of two letters and one number. The first letter depends on the high-level category of the indicator: environmental,
+social or governance. The second letter tells whether the indicator is considered minimum or sector-specific disclosure.
+Figure 13 Definition of the Indicator ID
+CATEGORY APPLICABILITY NUMBER
+ENVIROMENTAL
+SOCIAL
+GOVERNANCE
+M Minimum disclosure 1;2-n
+S Sector specific disclosure 1;2-n
+M Minimum disclosure 1;2-n
+S Sector specific disclosure 1;2-n
+M Minimum disclosure 1;2-n
+S Sector specific disclosure 1;2-n
+5.3.1. Minimum disclosures (Blue ID Indicator in Chapter 6)
+As a first step a list of minimum disclosures that every company should consider regardless of its business model or sector-specific
+characteristics is identified. The metrics proposed in Table 2 cover key areas under the NFRD, namely environment; social and employee
+issues; human rights; and bribery and corruption. They are also aligned with the NFRD’s diversity provisions and the ESG disclosure
+requirements included in the updated WSE’s corporate governance code.
+ESG Reporting Guidelines 26
+Environmental (E) Social (S) Governance (G)
+Sustainability Governance
+E-M1 GHG Emissions S-M1 Board Diversity G-M1 Board Composition
+E-M2 Energy Consumption S-M2 Gender Pay Gap G-M2 Business Ethics Policy
+E-M3 Climate Risks & Opportunities S-M3 Employee Turnover G-M3 Anti-Corruption Policy
+S-M4 Freedom of Association and
+Collective Bargaining G-M4 Whistle-Blower Mechanism
+S-M5 Human Rights Policy
+S-M6 Human Rights Due Diligence
+Table 2 Minimum disclosures metrics
+5.3.2. Sector-specific disclosures (Green ID indicator in Chapter 6)
+The 13 minimum disclosures are supplemented with a list of sector-specific disclosures. These are issues that are likely to be relevant to
+some companies based on the sector they operate in and the ESG risks and opportunities common to that sector. To help identify material
+ESG themes per sector, a simplified heatmap has been provided below. As can be observed in the map, some sectors are exposed to a
+larger number of ESG risks and opportunities than others. For example, a company from the extractives sector might need to consider a
+wider range of issues than a technology company. Hence, the company’s ESG disclosure should reflect that.
+The heatmap is based on the SASB materiality map as well as other industry-specific considerations. As such, it does not represent an
+exhaustive list of all relevant topics. It should therefore be used as a guidance, and not an absolute suggestion.
+ESG Reporting Guidelines 27
+HEATMAP - Guidance to select sector specific themes
+Indicators per theme
+Consumer goods
+Healthcare
+Financials
+Industrials
+Extractives
+Utilities
+Technology &
+communication
+Trade & services
+Environmental
+Climate Change
+E-M1 GHG Emissions • • • • • • • •
+E-M2 Energy Consumption • • • • • • • •
+E-M3 Climate Risks & Opportunities • • • • • • • •
+E-S1 Emissions Intensity • • • • • • • •
+E-S2 Emissions Management • • • • • • • •
+Natural Resources
+E-S3 Water Consumption • • • • • • • •
+E-S4 Water Management • • • • • • • •
+E-S5 Impact on Biodiversity • • • • • • • •
+Waste and pollution
+E-S6 Waste Management • • • • • • • •
+Social
+Diversity
+S-M1 Board Diversity • • • • • • • •
+S-M2 Gender Pay Gap • • • • • • • •
+Working conditions
+S-M3 Employee Turnover • • • • • • • •
+S-M4 Freedom of Association and
+Collective Bargaining • • • • • • • •
+S-S1 Employee Health and Safety • • • • • • • •
+Human Rights
+S-M5 Human Rights Policy • • • • • • • •
+S-M6 Human Rights Due Diligence • • • • • • • •
+Governance
+Corporate Governance
+G-M1 Board Composition • • • • • • • •
+Business Integrity
+G-M2 Business Ethics Standards • • • • • • • •
+G-M3 Anti-corruption Policy • • • • • • • •
+G-M4 Whistle-blower Mechanism • • • • • • • •
+Data Security & Privacy
+G-S1 Data Security Policy • • • • • • • •
+For each sector, the heatmap specifies which topics and corresponding metrics should be considered in addition to the minimum
+disclosures. The different levels of relevance are indicated by the following colour codes:
+Relevance as shown in the heatmap: • Minimum disclosures | • Likely to be relevant | • Less likely to be relevant
+ESG Reporting Guidelines 28
+6 Metrics for ESG reporting
+Chapter 6 gathers a set of metrics in line with existing reporting frameworks including:
+— green revenue in line with the EU Taxonomy (section 6.1)
+— sustainability governance (section 6.2)
+— environmental indicators (section 6.3)
+— social indicators (section 6.4)
+— governance indicators (section 6.5)
+6.1. Green revenue in line with the EU Taxonomy
+Identifying and measuring a company’s exposure to green products and services is challenging in multiple ways. The EU Taxonomy is useful
+in assessing associated revenues from “environmental” activities by providing a threefold assessment (see figure 3). According to the EU
+Taxonomy (article 8), companies that are under the scope of the NFRD shall include in their non-financial statement or consolidated nonfinancial statement information how and to what extent the undertaking’s activities are associated with economic activities that qualify as
+environmentally sustainable.
+By requiring companies to disclose to what extent their activities contribute to environmental objectives, the EU Taxonomy will over time
+generate greater volumes of data about sustainable economic activities. This facilitates more sophisticated analysis helping investors to
+anticipate and respond to emerging trends in the green economy.
+Definition:
+Green revenue is defined as a company’s revenue associated to sustainable products and services in line with the EU Taxonomy.
+What should be disclosed?
+To disclose whether and to what extent their economic activities are aligned with the EU Taxonomy, companies under the scope of the
+NFRD shall disclose both of the following:
+— The proportion of their turnover derived from products or services associated with economic activities that qualify as environmentally
+sustainable according to the EU Taxonomy.
+— The proportion of their capital expenditure and the proportion of their operating expenditure related to assets or processes associated
+with economic activities that qualify as environmentally sustainable according to the EU Taxonomy.
+The Commission will specify the content and the presentation of the information to be disclosed including the methodology to be used to
+report on the above by means of a delegated act (to be adopted by 1 June 2021).
+6.2. Sustainability governance
+Providing a clear overview of how ESG issues are embedded and managed within an organisation is a cornerstone of effective sustainability
+communication. A description of the business model and the sustainability framework is thus essential for stakeholders to gauge a
+company’s preparedness to respond to sustainability challenges and opportunities over time.
+BUSINESS
+MODEL
+ROLES AND
+RESPONSIBILITIES
+POLICIES, STRATEGIES
+AND GOALS
+RISK
+MANAGEMENT
+ESG Reporting Guidelines 29
+Business model
+The way the company operates and creates value over time provides an important context to understand its exposure to sustainability
+issues.
+As such, the companies may choose to provide information about the following:
+— activities, products and services
+— markets of operation
+— size (i.e. workforce, business locations, revenue, etc.)
+— organisational structure (i.e. ownership and legal form)
+Companies in scope of the NFRD are required to provide a description of their business model.
+Roles and responsibilities
+Assigning roles and responsibilities for sustainability matters is paramount for effective implementation of sustainability-related policies,
+strategies and goals as well as the management of the sustainability reporting process. It also helps to increase accountability and can serve
+as a yardstick by which the leadership commitment to sustainability is measured.
+The chart below (Figure 14) provides an overview of how this structure can be set up and what are some important considerations.
+Figure 14 Sustainability governance
+– Is this ‘highest’ governance body including ESG in its supervisory responsibilities?
+– Is sustainability discussed periodically in board meetings?
+– Is there a dedicated sustainability committee (similar in structure and
+function to a risk management or remuneration committee?
+– Who is the responsible board member for development and implementation
+of sustainability-related strategies, polices and targets?
+– What is the scope of the sustainability related work of this executive?
+– Is the sustainability performance of the board included in its remuneration (bonus) system?
+– Is there a dedicated sustainability/ESG department in the organization?
+– What is the scope of the sustainability related work of this department?
+– Is this department responsible for the sustainability reporting process?
+– How is sustainability integrated in the work of functional departments
+and line management?
+– Are there specific targets and KPIs?
+– Are these part of the remuneration (bonus) system?
+SUPERVISORY
+BOARD
+FUNCTIONAL
+DEPARTMENTS
+LINE MANAGEMENT
+SUSTAINABILITY
+DEPARTMENT
+ESG Reporting Guidelines 30
+Under TCFD recommendations companies should also provide information on governance around climaterelated issues. See section 3.3 fore more details.
+Sustainability-related policies, strategies and goals
+Integrating sustainability considerations into overall business strategy and planning helps to show where priorities are in the organisation and
+which direction it is heading.
+Sustainability strategy outlines the company’s sustainability ambitions along with the actions and deadlines for achieving them. It should be
+bolstered by specific policies and action plans for their implementation.
+Companies in scope of the NFRD are required to disclose policies related to environmental, social and employee
+matters, human rights, and bribery and corruption. Comply or explain principle applies.
+Risk management
+Embedding environmental and social risks into company overall risk management processes helps to further anchor sustainability in
+business operations and strategic decision-making. It is important to consider risks within the company’s own operations as well its supply
+chain. Companies should consider environmental and social risks through the implementation of due diligence processes of the principal or
+potential adverse impacts. These risks may apply to a company’s operations, its products and services, its business relationships, and its
+supply chains.
+Companies in scope of the NFRD are required to disclose their principal risks and relevant due diligence
+process.
+6.3. Environmental indicators
+Environmental indicators cover issues that arise from, or impact the natural environment. Companies can decide to report all indicators or
+select those that are most relevant to their business operations.
+Climate Change
+Climate change has emerged as the biggest environmental challenge of our times, posing significant risks and opportunities for businesses
+and investors alike. As the momentum around necessary climate action continues to build with new regulatory measures entering into force,
+the demand for climate-related information and metrics is expected to follow suit.
+Relevance to investors / issuers
+Investors want to understand whether companies:
+— might be negatively impacted by tightening carbon regulations (i.e. carbon pricing) for example through regulatory fines or the stranded
+assets risks
+— consider physical risks of climate change as part of business continuity/resilience planning
+— are transition-ready and have aligned their strategies and investment plans with the requirements of the Paris Agreement and the lowcarbon economy
+— pursue climate-related opportunities such as investments in innovative technologies or new products or services
+ESG Reporting Guidelines 31
+Recommended disclosures:
+Code Indicator name Unit
+EU legislation Other frameworks
+NFRD SFDR TCFD GRI Other
+Minimum disclosures (applicable to all sectors)
+E-M1 GHG Emissions Tons carbon dioxide
+(CO2
+) equivalent • • • 305 CDP C6
+E-M2 Energy Consumption MWh • • • 302 CDP C8
+E-M3 Climate Risks & Opportunities Description • - • 102 CDP C2
+Sector-specific disclosures*
+E-S1 Emission Intensity Tons CO2 /unit of
+activity • • • 305 CDP C6
+E-S2 Emission Management Description • - • 305 CDP C4
+* companies with significant exposure to climate change risks (i.e. those in high impact climate sectors) should consider fully aligning their
+disclosures with the TCFD recommendations. However, as a minimum, companies are advised to provide information on the additional
+sector-specific disclosures suggested in the table above.
+Climate change KPIs
+Minimum Disclosures
+E M1
+Climate change
+GHG Emissions
+Definition:
+These definitions are aligned with those of the GHG Protocol.
+GHG emissions are understood as total direct and indirect emissions. They should be further categorised into Scope 1, Scope 2 and Scope
+3 emissions (if relevant) as follows:
+Scope 1 Emissions
+Direct emissions from owned or controlled sources, including: stationery combustion (fuels and heating sources), mobile combustion
+(vehicles), fugitive emissions (resulting from refrigeration or air conditioning leakages), and process emissions from industrial processes.
+Scope 2 Emissions
+Indirect emissions from purchased or acquired electricity, heat or steam.
+Scope 3 Emissions*
+Other indirect emissions that occur in the value chain of reporting company both “upstream” and “downstream” of its operations
+*It should be noted that reporting on Scope 3 Emissions under SFDR will be applicable from 1 January 2023. Hence, companies shall start
+preparations for disclosure of such data.
+What should be disclosed?
+— Methods and assumptions used for calculation of the emissions.
+— Scope 1, Scope 2 and Scope 3 (if relevant) emissions for the last three reporting years to facilitate performance assessment over time.
+— Explanation of significant changes in performance (whether negative or positive), if relevant.
+* It is recommended to use internationally recognised standards for the corporate accounting and reporting of GHG emissions such as the
+GHG Protocol or the ISO 14064-1:2018 standard.
+ESG Reporting Guidelines 32
+E M2
+Climate change
+Energy Consumption
+Definition:
+Energy consumption is the total amount of energy consumed within an organisation. It comprises purchased and self-generated energy
+sources.
+What should be disclosed?
+— Methods and assumptions used for calculation of the energy consumption.
+— Total amount of energy consumed within the organisation (in MWh).
+— Percentage (%) of energy consumed by type of energy (i.e. renewable and non-renewable energy sources).
+E M3
+Climate change
+Climate risks and opportunities
+Definition:
+This indicator and related definitions are aligned with the TCFD recommendations.
+Climate-related risks are understood as any potential negative impact resulting from climate change. They can be divided into two types of
+risks:
+Transition risks Physical risks
+Risks associated with the transition to a lower-carbon economy,
+including: Physical impacts of climate change, including
+— policy and legal risks (e.g. risks stemming from current and
+emerging regulations; litigation risks)
+— technology risks (e.g. investments in climate-firendly
+technology)
+— market risks (e.g. changing consumer behaviour, increased
+cost of raw materials)
+— reputational risks
+— acute risks (driven by extreme weather events, such as
+droughts, floods or fires)
+— chronic risks (resulting from long-term shifts in climate patterns,
+such as temperature rise or sea-level rise)
+Climate-related opportunities, on the other hand, are understood as any potential positive impacts resulting from climate change. Examples
+can include:
+— potential efficiency gains and cost-savings
+— development of new products or services
+— development of innovative technologies
+What should be disclosed?
+— Processes for identifying and evaluating climate-related risks (including what types of risks are considered the most relevant, their
+likelihood, time horizon and potential impact).
+— Process in place to manage identified risks.
+— Identified climate-related opportunities along with the strategy to realise them (unless deemed commercially sensitive).
+— Whether and how the company integrates climate-related risks and opportunities into business strategy and financial planning.
+Additional considerations and resources
+— Make reference to the TCFD, if possible.
+— Inform your stakeholders if you have responded to the CDP questionnaire.
+See also: Climate Disclosure Standards Board (CDSB) website, TCFD Knowledge Hub, and CDP resources
+ESG Reporting Guidelines 33
+Climate change KPIs
+Sector-specific Disclosures
+E S1
+Climate change
+Emission Intensity
+Definition:
+Emission intensity is the ratio of GHG emissions per unit of economic activity.
+Different approaches to calculate this metric may apply. For example, under the SFDR, emission intensity should be calculated as total
+Scope 1, 2 and 3 GHG emission per €M revenues. Different methods may be used by companies falling under the European Union
+Emissions Trading System (EU-ETS).29
+What should be disclosed?
+— Methods and assumptions used for calculation.
+— Ratio of total GHG emissions divided by a unit of economic activity.
+It is recommended that companies in carbon-intensive sectors, depending on their business operations, use output of production to
+normalise their GHG emissions. For example:
+— Electric utilities: tonnes of CO2
+e per MWh of electricity generated
+— Cement: tonnes of CO2
+e per tonne of cementitious product.
+E S2
+Climate change
+Emission Management
+Definition:
+Emission management is a process an organisation follows to manage and mitigate their GHG emissions. It should include an explicit
+strategy for how to reduce GHG emissions and time-bound targets for reducing GHG emissions.
+What should be disclosed?
+— Whether the company has implemented a strategy for GHG emission management and what are its key elements.
+— Whether the company has set a time-bound target to reduce it GHG emissions and/or other climate related targets (for example to
+increase renewable energy use).
+— Whether the company strategy and targets are aligned with the objectives of the Paris Agreement, to limit global warming to well below
+2°C above pre-industrial levels and pursue efforts to limit global warming to 1.5°C.
+Additional considerations and resources
+— If your disclosure is not yet fully aligned with the TCFD recommendations inform your stakeholders how you plan to address that in the
+next reporting cycles.
+See also:
+— Transition Pathway Initiative methodology and resources
+— Science-Based Targets Initiative website and resources
+29 The EU Emissions Trading System. https://ec.europa.eu/clima/policies/ets_en
+ESG Reporting Guidelines 34
+Natural Resources
+Certain companies by nature of their operations may have significant impacts on natural resources. Heightened risk of over-exploitation
+of natural resources can be a result of water-intensive operations (especially if they are located in water-stressed areas) or impact on
+biodiversity and wildlife habitat. Companies that do not manage those issues properly may face regulatory risks, reputational risks and/or
+community opposition.
+Recommended disclosures:
+Code Indicator name Unit
+EU legislation Other frameworks
+NFRD SFDR GRI SASB Other
+Sector-specific disclosures
+E-S3 Water Consumption m3 • - 303 • CDP Water
+E-S4 Water Management Description • • 102 • CDP Water
+E-S5 Biodiversity Impacts Description • • 304 • CDP Forest
+Natural Resources KPIS
+Minimum Disclosures
+E S3
+Natural Resources
+Water Consumption
+Definition:
+Water consumption is the total volume (in m3
+) of water consumed by the organisation.
+What should be disclosed?
+— Total amount of water consumed within the organisation (in m3
+).
+— Total amount of water recycled and reused as a percentage of total water withdrawn.
+E S4
+Natural Resourcese
+Water Management
+Definition:
+Water management is a process by which a company optimises its water consumption to reduce its impact on natural environment. It
+includes activities to reduce water use within operations, increase water circularity (through water reuse and recycling) and preserve water
+resources (through water stewardship efforts).
+What should be disclosed?
+— Whether the company has adopted and implemented a water management program and what it entails.
+— Companies with operations in water-stress areas should also disclose a process for identifying and mitigating water-related risks.
+ESG Reporting Guidelines 35
+E S5
+Natural Resources
+Biodiversity Impacts
+Definition:
+Biodiversity has been defined by the UN Convention on Biological Diversity as “the term given to the variety of life on Earth and the natural
+patterns it forms.”30 It includes species diversity as well as genetic and ecosystem diversity.
+Biodiversity loss is considered a serious environmental challenge. It arises due to destruction and fragmentation of habitats mainly by human
+activities, such as overexploitation of resources, land use changes (e.g. deforestation, urbanisation, intensive mono-culture), pollution and
+climate change.
+What should be disclosed?
+— Whether the company has an impact on biodiversity (both directly or indirectly through its supply chain) and what are the main drivers of
+this impact.
+— What policies are in place to conserve and restore biodiversity and combat deforestation, and whether they are applicable to suppliers.
+— What process is in place to manage and mitigate impacts on biodiversity, and whether it is applicable to supply chain.
+Additional considerations and resources
+— Inform your stakeholders if you have responded to the CDP Water or CDP Forest questionnaire
+See also:
+— CEO Water Mandate Corporate Reporting Guidelines
+— WRI Aqueduct water risk atlas tool
+Waste and Pollution
+The public, regulators and investors are increasingly scrutinising companies waste management practices. Proper management of
+hazardous waste as well as efforts to reduce, reuse and recycle waste materials are a particularly salient topic for companies with high levels
+of waste generated as mismanagement of this issue can lead to regulatory fines and reputational damage.
+Recommended disclosures:
+Code Indicator name Unit
+EU legislation Other frameworks
+NFRD SFDR GRI SASB Other
+Sector-specific disclosures
+E-S6 Waste Management Description,
+percentage (%) • • 306 • -
+30 The UN Convention on Biological Diversity. https://www.cbd.int/convention/
+ESG Reporting Guidelines 36
+Waste and Pollution
+Sector-specific Disclosures
+E S5
+Waste and Pollution
+Waste Management
+Definition:
+Waste management is a set of activities to monitor, manage and reduce (including reuse and recycle) waste produced by an organisation.
+What should be disclosed?
+— Total amount of hazardous and non-hazardous waste generated (in tonnes).
+— Waste by type of treatment (e.g. recycled, landfill) in percentage (%).
+— Narrative explaining what activities are undertaken to manage waste and ensure regulatory compliance.
+6.4. Social indicators
+Social indicators relate to the rights, well-being and interests of people and communities. Companies can decide to report all indicators or
+select those that are most relevant to their business operations.
+Diversity
+A growing body of evidence suggests that more diverse companies tend to perform better financially than their peer with less inclusive
+cultures.31 Gender diversity at the board level and in senior and middle management is thus often considered by fund managers in their
+investment process.
+Relevance to investors / issuers
+Investors are interested in companies that:
+— foster diversity (including gender diversity) at the board level and among its employees
+— develop and promote women into managerial and executive positions
+— are able to show progress on diversity efforts
+Recommended disclosure:
+Code Indicator name Unit
+EU legislation Other frameworks
+NFRD SFDR GRI SASB Other
+Minimum disclosures (applicable to all sectors)
+S-M1 Board Diversity Percentage (%) • • 405-1 • -
+S-M2 Gender Pay Gap Ratio Percentage (%) • • 405-2 • DPSN2021*
+* Dobre Praktyki Spółek Notowanych na GPW 2021 (Good Practices of Companies Listed on WSE 2021)
+31 S&P Global, Daniel J. Sandberg. When Women Lead, Firms Win. (Publ. 2019).
+https://www.spglobal.com/en/research-insights/featured/when-women-lead-firms-win
+ESG Reporting Guidelines 37
+Diversity KPIs
+Minimum Disclosures
+S M1
+Diversity
+Board Diversity32
+Definition:
+Board diversity aims to measure whether an organisations’ governance bodies are represented by people with varied characteristics,
+including gender but not limited to, in addition to skills and experience.
+What should be disclosed?
+Percentage of female board members in the management board and supervisory board.
+S M2
+Diversity
+Gender Pay Gap Ratio
+Definition:
+This definition is aligned with the one in the DPSN2021.
+Gender pay gap ratio is a difference between the average (gross) remuneration (including bonuses and other economic incentives) of men
+and women within an organisation.
+What should be disclosed?
+The gender pay gap ratio.
+To calculate gender pay gap ratio:
+— Divide the total annual pay for all full-time male employees by the total number of male full-time employees (A)
+— Divide the total annual pay for all full-time female employees by the total number of female full-time employees (B)
+— Calculate the gender pay gap ratio by using the following formula: (A – B) / B x 100
+The result of the formula tells how much more (or less) men earn than women on average in your organisation, and thus by how much
+women’s average salary would need to be raised (lowered) to equal that of men.
+Working Conditions
+Maintaining good working conditions is key to the sustainability of a business. This is especially the case for labour intensive businesses
+where productivity relies on employees’ commitment and satisfaction. Poor workforce management can impact productivity and eventually
+the profitability of a business.
+Relevance to investors / issuers
+Investors are interested in companies that:
+— recognise the value of its workforce and provide reasonable terms of employment
+— align with labour and certification standards
+— have a stable structure and operations
+— do not interfere or discourage workers from forming or joining workers’ organisations
+32 Board diversity is often considered a corporate governance issue. However, as it relates directly to the topic of gender diversity, it is included under Diversity
+theme.
+ESG Reporting Guidelines 38
+Recommended disclosures:
+Code Indicator name Unit
+EU legislation Other frameworks
+NFRD SFDR GRI SASB Other
+Minimum disclosures (applicable to all sectors)
+S-M3 Employee Turnover Percentage (%) • - 401-1 • -
+S-M4 Freedom of Association and
+Collective Bargaining
+Percentage (%),
+Description • - 102-41
+407 • -
+Sector-specific disclosures*
+S-S1 Employee Health and Safety Number (#),
+Description • - 403 • -
+* Companies with significant exposure to occupational accidents (e.g. extractives or infrastructure) should consider providing additional
+information on their approach to managing health and safety issues.
+Working conditions KPIs
+Minimum Disclosures
+S M3
+Working conditions
+Employee turnover
+Definition
+The employee turnover measures the proportion of employees that have left an organisation during the fiscal year. The employee turnover
+rate could be:
+— voluntary (when an employee actively chooses to leave such as resignation or retirement)
+— involuntary (when an employer chooses to end a contract and dismiss an employee such as layoff, retrenchment, or non-renewal of a
+contract due to an employee’s performance, behaviour or the company’s decision to downsize)
+High employee turnover may signal dissatisfaction with the work environment, compensation or workplace health or safety.
+What should be disclosed
+— The voluntary turnover rate (in percent).
+— The involuntary turnover rate (in percent).
+The turnover rate is calculated by dividing the number of employees that left the company during the fiscal year (voluntary or unvoluntary) by
+the average number of employees within the year.
+S M4
+Working conditions
+Freedom of association and collective bargaining
+Definition
+Collective bargaining and freedom of association is the right for workers to join workers’ organisations of their own choosing and to
+negotiate their terms of employment.
+ESG Reporting Guidelines 39
+What should be disclosed
+— The percentage of the active workforce covered by collective bargaining agreements. This is calculated as the number of active
+workforce employees covered by a collective bargaining agreement divided by the total number of active workforce members within the
+reporting year.
+— Measures taken by companies to support workers’ rights to exercise freedom of association and collective bargaining (both in their own
+operations and in their supply chain).
+Working conditions KPIs
+Sector-specific Disclosures
+S S1
+Working conditions
+Employee Health and Safety
+Definition
+Employee health and safety is a set of activities and procedures to prevent accidents and injuries in the workplace. Company performance
+on this issue is often measured by the following indicators:
+— total number of employee and contractor fatalities within a given period
+— total number of work-related injuries within a given period
+— lost-time incident rate (LTIR) - total number of incidents resulting in lost time from work, per measure of time (e.g. per 100,000 hours
+worked)
+What should be disclosed
+— Whether the company has implemented a health and safety management system, what percentage of its operations does it cover and
+what elements does it include.
+— Relevant performance indicators for the last three reporting years to facilitate performance assessment over time, broken down by fulltime and contractual employees.
+Human Rights
+Businesses have a responsibility to respect international human rights standards. Beyond ethical concerns, companies that do not evaluate
+and manage their human rights impacts may face reputational and regulatory risks and/or lose its social licence to operate.
+Relevance to investors / issuers
+Investors are interested in companies that:
+— understand its responsibility to respect human rights
+— embed human rights considerations into its operations and risk management process
+— actively manage human rights impacts both within own operations and supply chain
+Recommended disclosures:
+Code Indicator name Unit
+EU legislation Other frameworks
+NFRD SFDR GRI SASB Other
+Minimum Disclosures (applicable to all sectors)
+S-M5 Human Rights Policy Description • • 412-1 • -
+S-M6 Human Rights Due Diligence Description • • 412-1
+414 • -
+ESG Reporting Guidelines 40
+Human Rights KPIs
+Minimum Disclosures
+S M5
+Human Rights
+Human Rights Policy
+Definition
+Human rights policy is a formal document outlining the company’s position on human rights. It can have a stand-alone format or be
+integrated into a wider set of company standards such as a code of ethics or an employee/supplier code of conduct.
+What should be disclosed?
+— Whether the company has a human rights policy that extends to suppliers and business partners.
+It is recommended that the policy:
+— makes reference to internationally recognised human rights standards the company commits to respect (i.e. International Bill of Human
+Rights and ILO’s Declaration on Fundamental Principles and Rights at Work);
+— sets out the company’s expectations of its employees
+— sets out the company’s expectations of its suppliers and business partners
+— describes a process for its implementation
+— is communicated internally and externally
+S M6
+Human Rights
+Human Rights Due Diligence
+Definition
+Human rights due diligence is a set of activities to identify, mitigate and act on actual and potential risks of human rights violations.
+What should be disclosed?
+— Whether the company conducts human rights due diligence throughout its value chain to assess risk exposure to human rights issues,
+including child labour and forced labour.
+It is recommended that the company discloses whether its human rights due diligence includes:
+— identification of activities within own operations at risk of human rights violations
+— identification or mapping of suppliers/raw materials with high exposure to human rights risk
+— human rights risks assessment of new suppliers
+— incorporation of human rights provisions into procurement contracts
+— audit and monitoring of suppliers’ operations
+— corrective action in case of identified non-compliance
+Additional considerations and resources
+— UNGP Reporting Framework with implementation guidance (in Polish)
+— United Nations Global Compact, Guide on How to Develop a Human Rights Policy
+— World Benchmarking Alliance, Corporate Human Rights Benchmark Methodology
+ESG Reporting Guidelines 41
+6.5. Governance indicators
+Governance indicators cover issues relating to corporate governance and business ethics standards.
+Corporate Governance
+Corporate governance is a system of controls and procedures by which an organisation is operated. A company with strong corporate
+governance structures is defined by professional management, a well-structured board, and organised systems and processes. These in
+turn reduce and mitigate risks, and ensure decisions are aligned with the company’s and the shareholders’ interests. Weak governance
+performance can impact the risk exposures and the bottom line significantly, and thereby also the credit ratings, and the access to capital
+over time.
+Relevance to investors / issuers
+Investors favour companies that demonstrate good corporate governance, including:
+— a well-structured framework of policies and procedures
+— the protection and equitable treatment of all shareholders, including minority shareholders
+— a good understanding and management of stakeholders’ interests vis-à-vis the company
+— defined transparency and disclosure practices
+— clear responsibilities of the board addressing the role of the board, compliance matters, treatment of shareholders, the code of conduct,
+and the company’s objectives
+— a board structure that considers balance of skills and includes independent board members
+— transparent corporate governance and accounting practices
+Recommended disclosures:
+Code Indicator name Unit
+EU legislation Other frameworks
+NFRD SFDR GRI SASB Other
+Minimum disclosures (applicable to all sectors)
+G-M1 Board Composition Description - - GRI 102-22 - -
+Corporate Governance KPIs
+Minimum Disclosures
+G M1
+Corporate Governance
+Board Composition
+Definition
+Board composition refers to the characteristics of the company’s highest governance bodies i.e. the management board and the supervisory
+board. It covers qualifications and competences of board members, as well as their independence and tenure.
+What should be disclosed?
+— Short bio of each of the management and supervisory board members indicating competences, qualification and background.
+— Information whether a supervisory board member is independent or not.
+Additional considerations and resources
+For more guidance on corporate governance matters please refer to WSE’s corporate governance code “Good Practices of Companies
+Listed on WSE 2021”, and the G20 / OECD Principles of Corporate Governance
+ESG Reporting Guidelines 42
+Business Ethics Standards
+Business ethics refer to organizational principles that serve as guidelines for the way a business conducts itself and its operations. Business
+ethics standards define the extent to which companies conduct business ethically, and in line with applicable laws and accepted norms. It is
+a critical component of long-term value creation.
+Relevance to investors / issuers
+Investors are interested in companies that:
+— have embedded strong ethical standards in their everyday operations
+— regularly assess compliance with internal standards of conduct and take corrective actions accordingly
+— work to increase employee awareness of related topics and provide them with appropriate channels to raise concerns
+Recommended disclosures:
+Code Indicator name Unit
+EU legislation Other frameworks
+NFRD SFDR GRI SASB Other
+Minimum disclosures (applicable to all sectors)
+G-M2 Business Ethics Policy Description • • 102-16 • -
+G-M3 Anti-Corruption Policy Description • • 205 • -
+G-M4 Whistle-Blower Mechanism Description • • 102-17 • *
+* EU Whistleblower Protection Directive
+Business ethics standards KPIs
+Minimum Disclosure
+G M2
+Business ethics standards
+Business Ethics Policy
+Definition:
+A business ethics policy (also called code of conduct or code of ethics) is a formal document outlining standards of ethics and responsible
+business conduct to which the company commits itself. The policy clarifies the company’s values and principles and provides guidelines of
+behaviour for employees (and third parties).
+What should be disclosed?
+— Whether the company has a business ethics policy. The policy should be accessible internally and externally.
+G M3
+Business ethics standards
+Business Ethics Policy
+Definition:
+Anti-corruption policy is a formal document outlining the company’s position on bribery and corruption. It can have a stand-alone format or
+be integrated into a wider set of company standards of conduct such as a code of ethics or a code of conduct as described above.
+What should be disclosed?
+— Whether the company has an anti-corruption policy that extends to suppliers and business partners.
+ESG Reporting Guidelines 43
+It is recommended that the policy:
+— outlines the company position regarding bribery and corruption, conflict of interest and facilitation payments
+— defines what is understood by each of the terms above
+— provides a clear explanation and examples of what is acceptable and non‐acceptable behaviour
+— is communicated internally and externally
+G M4
+Business ethics standards
+Whistle-blower Procedure
+Definition:
+A whistle-blower procedure (also called grievance mechanism) is a system that enables reporting of suspected or actual violations of rules or
+misconduct. It can be internally operated by a company (e.g. a dedicated email) or managed by an independent third-party.
+What should be disclosed?
+— Whether the company has a whistle-blower procedure in place. The methods for reporting a violation or concern (e.g. dedicated email,
+reporting hotline, etc.) along with the process for handling of the report should also be disclosed.
+It is recommended that the whistle-blower procedure:
+— allows the reporting of violations anonymously and without fear of retaliation
+— is available to suppliers and third parties
+Data Security and Privacy
+Data privacy is about the rights of individuals such as employees, customers and partners with respect to their personal information. Data
+security focuses on protecting the personal data from any unauthorised third-party access.
+Relevance to investors / issuers
+Investors are interested in companies that:
+— comply with data privacy regulations
+— ensure end-customers’ and business-to-business customers’ privacy protection
+— limit data security risks and protects the company from related financial losses
+ Recommended disclosures:
+Code Indicator name Unit
+EU legislation Other frameworks
+NFRD SFDR GRI SASB Other
+Sector-specific disclosures
+G-S1 Data Security Policy Description - - 418 • -
+ESG Reporting Guidelines 44
+DATA SECURITY & PRIVACY KPIs
+Sector-specific Disclosures
+S S1
+Data security & privacy
+Data Security Policy
+Definition:
+Data security seeks to protect employees’, customers’ or partners’ data and prevent unauthorised access to it. Data security includes
+data privacy which is related to a proper handling of data (data collection, processing, storage and usage). A data security policy aims to
+implement, guide and monitor the secure handling of the company’s data.
+What should be disclosed?
+— Whether the company has a cyber and data security policy in place.
+A comprehensive data security policy:
+— details the scope of data protection
+— describes cyber and data security risk management arrangements like protocols, roles and responsibilities (for instance cyber/
+information security team), reporting and performance monitoring
+— outlines security protocols to ensure adequate protection from intrusions, data breaches, unauthorised access, malicious content and
+other attacks
+ESG Reporting Guidelines 45
+Overview of indicators
+Code Name Type Definition Unit Alignment
+Environmental
+Climate Change
+E-M1 GHG Emissions Quantitative Direct and indirect emissions (scope 1 , 2 and 3) resulting from company activities tCO2eq NFRD, SFDR, TCFD, GRI, CDP
+E-M2 Energy Consumption Quantitative Energy consumed (purchased and self-generated) within an organisation MWh NFRD, SFDR, TCFD, GRI, CDP
+E-M3 Climate Risks & Opportunities Qualitative Approach for identifying and managing climate-related risks and opportunities - NFRD, TCFD, GRI, CDP
+E-S1 Emissions Intensity Quantitative Ratio of CO2 emissions per unit of economic activity tCO2eq NFRD, SFDR, TCFD, GRI, CDP
+E-S2 Emissions Management Qualitative Process an organisation follows to manage and mitigate its GHG emissions - NFRD, TCFD, GRI, CDP
+Natural Resources
+E-S3 Water Consumption Quantitative Total volume of water consumed by the organisation m3 NFRD, GRI, SASB
+E-S4 Water Management Qualitative Process a company has implemented to optimise its water consumption - NFRD, SFDR. GRI, SASB
+E-S5 Biodiversity impacts Qualitative Any negative impact on biodiversity and process for managing and mitigating it - NFRD, SFDR, GRI, SASB
+Waste and Pollution
+E-S6 E-S6 Waste Management Qual. &
+Quant.
+Total amount of hazardous and non-hazardous waste generated
+Set of activities to monitor, manage and reduce waste produced by an organisation # NFRD, SFDR, GRI, SASB
+Social
+Diversity
+S-M1 Board Diversity Quantitative Proportion of board members by gender and by age group % NFRD, SFDR, GRI, SASB, WSE
+CG
+S-M2 Gender Pay Gap Quantitative Difference between the average gross remuneration of men and women within an
+organisation % NFRD, SFDR, GRI, SASB, WSE
+CG
+Working Conditions
+S-M3 Employee Turnover Quantitative Proportion of employees that have left an organisation during the fiscal year % NFRD, GRI, SASB
+S-M4 Freedom of Association and
+Collective Bargaining Quantitative Proportion of active workforce covered by collective bargaining agreements % NFRD, GRI, SASB
+S-S1 Employee Health and Safety Qual. &
+Quant.
+Set of activities and procedures a company has implemented to prevent accidents and
+injuries in the workplace # NFRD, GRI, SASB
+Human Rights
+S-M5 Human Rights Policy Qualitative Whether the company has a human rights policy in place and description - NFRD, SFDR, GRI, SASB
+S-M6 Human Rights Due Diligence Qualitative Set of activities to identify, mitigate and act upon actual and potential risks of human rights
+violation - NFRD, SFDR, GRI, SASB
+Governance
+Corporate governance
+G-M1 Board Composition Qualitative Information on characteristics of the company’s highest governance bodies - GRI
+Business Integrity
+G-M2 Business Ethics Standards Qualitative Whether the company has a business ethics policy in place and description - NFRD, SFDR, SASB
+G-M3 Anti-corruption Policy Qualitative Whether the company has an anti-corruption policy in place and description - NFRD, SFDR, GRI, SASB
+G-M4 Whistle-blower Mechanism Qualitative Whether the company has a whistle-blower procedure in place and description - NFRD, SFDR, SASB
+Privacy & Data Security
+G-S1 Data Security Policy Qualitative Whether the company has a cyber and data security policy in place and description - GRI, SASB
+ESG Reporting Guidelines 46
+Part 3
+Annexes
+ESG Reporting Guidelines 47
+Annex A: Main international reporting guidelines and frameworks
+Category Framework Description
+EU legislation
+SFDR
+The Sustainable Finance Disclosure Regulations introduces a set
+of disclosure requirements for financial market participants and financial
+advisers to prevent greenwashing and increase market transparency
+NFRD
+The Non-Financial Reporting Directive requires large companies to
+disclose non-financial and diversity information in their annual reports and
+on their website. Currently being revised, see proposal for a Corporate
+Sustainability Reporting Directive (CSRD)
+EU Taxonomy
+The EU Taxonomy aims to facilitate sustainable investment thanks to a
+classification system helping companies to define whether their economic
+activities are environmentally sustainable
+Reporting standards
+and frameworks
+GRI
+The Global Reporting Initiative helps any organisation (regardless
+of size, sector or location) to start reporting on their impacts on the
+economy, the society or the environment thanks to reporting guidance,
+information and support.
+SASB
+The Sustainability Accounting Standards Board sets standards to
+guide companies disclosing financial materiality sustainability information
+to their investors.
+IIRC
+The International Integrated Reporting Council helps organisation
+explains how they create financial and non-financial value through concise
+and integrated reporting.
+TCFD
+The Task Force on Climate-related Financial Disclosures seeks to
+improve and increase reporting of climate-related financial information to
+investors, lenders, insurers and other stakeholders.
+CDP CDP provides questionnaires and scores companies based on their
+journey through disclosure and towards environment leadership.
+CDSB
+The Climate Disclosure Standards Board Framework sets out an
+approach for reporting environmental and climate change information in
+mainstream reports, such as annual reports or integrated report.
+IFRS
+In 2021, the Trutees of the IFRS Foundation published two documents
+in relation to their project on sustainability reporting. It includes an
+Exposure Draft outlining the proposed targeted amendments to the IFRS
+Foundation to set IFRS sustainability standards.
+Reporting related
+ initiatives
+UNGC The UN Global Compact sets a set if 10 principles to help companies
+operating in ways that, at a minimum, meet fundamental responsibilities.
+SDG
+The Sustainable Development Goals are a set of 17 goals adopted
+by all UN member states in 2015, as part of the 2030 Agenda for
+Sustainable Development.
+ESG Reporting Guidelines 48
+Annex B: EU regulations
+NFRD (Directive 2014/95/EU)
+Who: Large companies with more than
+500 employees
+What: Require transparency on
+sustainability risks The revised version
+aims to strengthen foundations for
+sustainable investment
+Where: Non financial & governance
+statements with management report,
+website
+When: Revised version April 2021
+(Proposal for a Corporate Sustainability
+Reporting Directive)
+Under review or development
+supplement
+(1) EU taxonomy (Regulation (EU)
+2020/852)
+Who: Financial market participants
+(under SFDR scope) and large
+companies (under NFRD scope)
+What: Define environmentally
+sustainable economic activities through
+six environmental objectives
+Where: Periodic reports, pre-contractual
+disclosures and on websites
+When: 12 July 2020
+Published
+Covered topics
+THE EUROPEAN GREEN DEAL FINANCING SUSTAINABLE GROWTH ACTION PLAN
+(2) SFDR (Regulation (EU)
+2019/2088)
+Who: For financial market participants
+and investment advisers
+What: Disclosure on sustainability risks
+in investment decision-making process
+Where: Periodic reports, pre-contractual
+disclosures and on websites
+When: 10 March 2021
+Guidelines on
+non financial
+reporting
+— Not legally
+binding
+— Key
+principles &
+KPIs
+Environment
+Social &
+employment
+Human rights
+Anti corruption
+& bribery
+Board diversity
+Double
+materiality
+perspective*
+Climate
+related risks &
+opportunities
+Additional
+guidelines:
+Climate
+related
+— Not legally
+binding
+— Aligned with
+TCFD
+Technical Screening criteria
+— Criteria defining contribution to each
+objective
+— For CC mitigation & adaptation:
+January 2022
+— For the other four objectives:
+January 2023
+Regulatory Technical Standards
+(RTS)
+— Legally binding with the SFDR
+— Metrics, templates and
+methodologies
+— Publication date 2021
+Climate change mitigation & adaptation
+Use & protection of water and marine
+resources,
+Transition to a circular economy
+Pollution prevention & control
+Protection & restoration of biodiversity &
+ecosystems
+Climate, environment
+Social, employment
+Human rights
+Anti-corruption & bribery
+LEGEND:
+ESG Reporting Guidelines 49
+Annex C: Reference list
+EU legislation
+Non-financial Reporting Directive (NFRD) Directive 2014/95/EU
+(link)
+Corporate Sustainability Reporting Directive (revised NFRD) (link)
+Guidelines on non-financial reporting (2017) (link)
+Guidelines on non-financial reporting: Supplement on reporting
+climate-related information (2019) (link)
+Sustainable Finance Disclosure Regulation (SFDR) (link)
+EU Taxonomy Regulations and delegated acts (link)
+EU Whistle-blowers directive (link)
+Framework for Communication action in the field of water policy
+Directive 2000/60/EC (link)
+Assessment of the effects of public and private projects on the
+environment Directive 2011/92/EU (link)
+Polish legislation/supporting document
+Polish Accounting Act transposing Non-financial Reporting
+Directive (link)
+Regulation of the Minister of Finance (from May 25th, 2016) on
+current and periodic disclosures
+Ministry of Finance website for further information on the NFRD
+(link)
+Publication of RBF prepared in consultation with the Ministry of
+Finance on NFRD (link)
+Reporting standards and framework
+Standard Informacji Niefinansowej (SIN) with annexes (link)
+The Global Reporting Initiative (link)
+The Sustainability Accounting Standards Board (link)
+The International Integrated Reporting Council (link)
+The Task Force on Climate-related Financial Disclosures (link)
+CDP (link)
+Climate Disclosure Standards Board (link)
+Good practices and guidelines
+General guidelines
+Good Practices of Companies Listed on WSE 2021 (link)
+UN Guiding Principles Reporting Framework (link), in Polish
+OECD Guidelines for Multinational Enterprises (link)
+Environmental guidelines
+UN Convention on Biological Diversity (link)
+Transition Pathway Initiative (link)
+Science-Based Targets Initiative (link)
+CEO Water Mandate (link)
+WRI Aqueduct, water risk atlas tool (link)
+Social guidelines
+Guidelines principles on business and human rights (link)
+ILO Conventions and Recommendations (link)
+The International Bill of Human Rights (link)
+World Benchmarking Alliance, Corporate Human Rights
+Benchmark Methodology (link)
+United Nations Global Compact, Guide on How to Develop a
+Human Rights Policy (link)
+Corporate and Governance guidelines
+G20 / OECD Principles of Corporate Governance (link)
+Other
+UN Global Compact (link)
+World Economic Forum, Global Risks Report 2021 (link)
+World Economic Forum, Measuring Stakeholder Capitalism
+Towards Common Metrics and Consistent Reporting of
+Sustainable Value Creation, White Paper, 2020 (link)
+S&P Global, Daniel J. Sandberg, When Women Lead, Firms Win
+(link)
+EFRAG, Proposal for a relevant and dynamic EU sustainability
+reporting standard-setting (link)
+ESG Reporting Guidelines 50
+Context and Overview
+Background and investor objectives
+These ESG Reporting Guidelines support companies listed on
+the Polish stock exchange in their ESG reporting practices. They
+provide clarity on various ESG topics, how these may apply to
+different sectors, specific indicators to be used, and a step-bystep guide for the ESG reporting process. While the reporting
+companies benefit by better identifying, understanding and
+managing their ESG risks, investors can also derive value by better
+understanding the companies and their value potential.
+Investors seek to have as complete and good understanding as
+possible of companies, their performance, risk exposures, and
+future outlook. In addition to using financial analysis, ESG reporting
+can complement and improve the understanding of a company
+and its long-term potential value, either where there is a direct
+bearing on value at risk, or where it may be a broader reflection of
+general operational or managerial excellence.
+ESG factors covered
+The number of ESG topics can be overwhelming. To provide
+guidance, structure and priority to the ESG reporting, a limited
+number of ESG topics have been defined in these Guidelines.
+Furthermore, to make both the reporting for companies, and
+the ESG reporting analysis for investors better and easier, there
+is a defined set of minimum disclosure requirements. These are
+effectively independent from sector-specific ESG matters as
+illustrated in Table 3.
+ENVIRONMENTAL SOCIAL GOVERNANCE
+Sustainability Governance (overarching indicator)
+Climate Change Diversity Corporate Governance
+M GHG Emissions M Board Diversity M Board Composition
+M Energy Consumption M Gender Pay Gap Ratio Business Integrity
+M Climate Risks & Opportunities Working Conditions M Business Ethics Standards
+S Emission Intensity M Employee Turnover M Anti-corruption Policy
+S Emissions Management M Freedom of Association and
+Collective Bargaining M Whistle-blower Mechanism
+Natural Resources S Employee Health and Safety Data Security and Privacy
+S Water Consumption Human Rights S Data Security Policy
+S Water Management M Human Rights Policy
+S Biodiversity Impacts M Human Rights Due Diligence
+Waste and Pollution
+S Waste Management
+Green revenue indicator (to further align with taxonomy requirements)
+Table 3 Recommended ESG metrics
+Annex D: Relevance to investors of the ESG Reporting Guidelines
+However, just like when interpreting financial statements, ESG
+reporting and issues differ widely between different sectors. The
+health and safety aspects in industrials and manufacturing are
+obvious, just like data security and client information sensitivity
+in the health care and financial services sectors. For that reason,
+the Guidelines also contain an overview table – of benefit to
+companies and investors alike – to understand which additional
+ESG risks may be material or relevant to disclose for a particular
+company.
+Interpretation of disclosures
+First, investors should develop an understanding of which risks
+they consider material for a potential investment. If a prospective
+company leaves out reporting on supposedly core ESG matters,
+that should raise questions and potentially concerns. If the
+company on the other hand explains the reason for leaving it out,
+such concerns may then dissipate.
+ESG Reporting Guidelines 51
+Second, analysing corporate ESG reporting and performance
+should be done from a comparative angle – with other companies
+in the same or similar sectors, and within as well as outside the
+specific country or market.
+Third, the Guidelines are a support for the investment process
+and decision, but not a replacement for analysis and independent
+thought. In a similar vein, the primary data provided by the
+companies in their respective ESG reporting is an important source
+of information. However, while it complements the investor’s data
+to be analysed, it neither replaces nor is replaced by external ESG
+company specific data, ratios and information.
+Benefits for investors
+Asset owners and managers can have many different reasons for
+integrating sustainability and ESG data in their investment and
+portfolio management processes. For investors it is important to
+understand which reasons are the most relevant for them, and to
+integrate this data accordingly in their operations.
+I. Complying with fiduciary or regulatory requirements
+Regulations are on the increase: The NFRD came into place in
+Poland in 2017, and a revised version will be published during
+2021. Meanwhile the EU Taxonomy outlines disclosure obligations
+for financial market participants under the scope of the SFDR
+and companies under the scope of the NFRD, gaining full legal
+application by 2023. These and other developments are discussed
+in more detail in Chapter 1. Hence, investors will need to consider
+and disclose some ESG data stipulated in these regulations.
+II. Meeting client, market and other stakeholder demands
+Many investors view ESG risk management as essential to handle
+broader reputational risks – to new and existing clients, to local
+communities surrounding portfolio companies, and to clients of
+the portfolio companies’ products and services. Being aware of
+the risk exposures, comfortable with how they are handled by a
+company, and prepared in case a risk materialises is part of sound
+investment management.
+In addition, communicating such awareness may provide
+an advantage over other investors in attracting and retaining
+institutional and individual clients with increasingly higher demands
+on sustainability integration, such as institutionally specific climate
+targets, alignment with the Paris Agreement, and goals tied to the
+Sustainable Development Goals (SDG) 2030 Agenda.
+III. Complementing the financial analysis with ESG analysis
+ESG reporting can complement traditional financial analysis by
+providing a more comprehensive coverage of risk exposures.
+Climate resilience, regulatory risks and demands, reputational
+risks, supply chain operations and practices and other ESG topics
+do not form part of financial analysis, but they do have a potential
+to impact a company’s operations, profitability and value.
+In addition, the ESG reporting from companies reveals how they
+perceive their risk exposure – which are the material risks, how
+are they managed, and how are they performing. Just like other
+strategic and tactical analyses and decisions, the ESG reporting
+can complement an investor’s view of how well managed a
+company is.
+IV. Improving investment decisions
+While some ESG factors are difficult to quantify others are not. And
+regardless of whether they are quantified or not, those ESG factors
+that are deemed material in terms of their impact on a company
+need to be considered in investment decisions.
+For those factors that are either quantifiable, or whose impacts on
+a company may have financial repercussions could also impact
+valuations. This could happen via various channels like adjusted
+forecast financials (revenues, operating costs, capital expenditure),
+adjusted valuation models (discount rates, terminal values), and
+credit risk adjustments.
+Furthermore, taking these factors together across a portfolio may
+also lead to shifting of strategic and tactical asset allocations
+– either by taking the risks and related valuation impacts into
+account, or more proactively by including thematic or ESG
+objective tilts.
+V. Facilitating consistency and comparability across
+markets
+The increased amount of ESG reporting resulting from these
+Guidelines will improve data availability to investors. Furthermore,
+the alignment of the ESG indicators to be used and the setting
+of core/minimum reporting requirements will make reporting and
+performance comparisons between companies easier.
+This applies both to comparing companies in the Polish market
+and those in other markets since the ESG indicators are aligned
+with broadly established and recognised international standards.
+This includes alignment with NFRD on disclosures, with the TCFD
+recommendations on climate-related disclosure in particular, the
+integration of the EU Taxonomy requirements, and the SFDR ASI
+core indicators.

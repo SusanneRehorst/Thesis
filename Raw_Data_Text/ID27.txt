@@ -1,0 +1,848 @@
+HOW TO PREPARE
+AN ESG REPORT
+A Step-by-Step Guide to ESG Reporting
+March 2020
+Introduction
+Increasing demand for ESG information
+The Exchange’s role
+The value of an ESG strategy
+ESG reporting approach
+Understanding climate-related risks
+TCFD Recommendations
+Step-by-step guide to ESG reporting
+Step 1 Board and ESG working group
+Step 2 Understanding the requirements of the Guide
+Step 3 Reporting boundary
+Step 4 Materiality assessment
+Step 5 Target setting
+Step 6 Writing the ESG report
+ESG reporting flowchart
+Materiality table – by industry and aspect
+Appendices (hyperlink only)
+Appendix 1: Toolkit
+Appendix 2: Reporting Guidance on Environmental KPIs
+Appendix 3: Reporting Guidance on Social KPIs
+Appendix 4: Table of References to International Standards/
+Guidelines and Other Resources
+1
+1
+1
+2
+2
+3
+4
+6
+6
+7
+9
+9
+14
+16
+23
+24
+Contents
+1
+Introduction
+The landscape for ESG reporting is rapidly changing. Regulators, investors and other stakeholders are
+focused on corporate disclosures regarding certain climate-related and social issues.
+There is a need for a transition in our thinking and actions in this area. In this document, HKEX provides
+guidance to issuers on:
+(i) How to provide a more decision-useful report to investors, especially in light of the recommendations
+of the Task Force on Climate-related Financial Disclosures (TCFD Recommendations)1 ;
+(ii) The key steps for the preparation of an ESG report, from preparatory stage to the writing of the
+report;
+(iii) Issuers’ common pitfalls when preparing ESG reports; and
+(iv) Guidance on data collection methodologies and practical tips regarding the information required
+under each KPI in both “Environmental” and “Social” Subject Areas of the ESG Reporting Guide2.
+We will amend this document from time to time to ensure that it remains up to date.
+Increasing demand for ESG information
+Investors are becoming increasingly aware that corporate financial statements alone are not necessarily
+sufficient in determining the company’s access to capital, cost of capital, the likely environmental and
+social risks that it may face, and the way in which these risks are managed. Whilst in the past investors
+may have made decisions based largely on a company’s track record, they are increasingly looking to
+the future. ESG reporting reflects management strength and engenders investor confidence in the longterm prospects of the company.
+The Exchange’s role
+We play a key role in fostering market confidence and promoting good governance and disclosure.
+An “informed market” calls for disclosure of all information that might have a significant impact on
+a company or its business. ESG disclosure is crucial to ensuring that investors are given sufficient
+information to make properly informed investment decisions.
+HKEX also has a duty to continuously review and develop our regulatory framework, to make sure
+that it is up to date and is aligned with international best practice. Over time, we hope that these
+efforts will facilitate the development of a corporate culture in which ESG practices and reporting
+are fully integrated into daily business operations, leading to greater transparency, more resilient risk
+management processes and sustainable value creation.
+1 See Final Report: Recommendations of the Task Force on Climate-related Financial Disclosures (June 2017), Task
+Force on Climate-related Financial Disclosures (https://www.fsb-tcfd.org/wp-content/uploads/2017/06/FINALTCFD-Report-062817.pdf)
+2Appendix 27 to the Main Board Listing Rules or Appendix 20 to the GEM Listing Rules
+Introduction
+2
+The value of an ESG strategy
+The impact of ESG issues on financial risks can be minimised if there is a strategic approach that is
+forward-looking and reflects the long-term interests of the company.
+Therefore, it is important for companies to develop an ESG strategy to respond to and manage such
+risks. In particular, the board of directors should have oversight of and assume the overall responsibility
+for an issuer’s ESG matters and strategic direction.
+ESG reporting approach
+Recognising that there is no “one-size-fits-all” framework for ESG reporting, we have adopted a “comply
+or explain” approach to ESG reporting. That is, issuers are required to report on the provision, or provide
+considered reasons why information in respect of the provision has not been reported on.
+It is important for issuers to ascertain the ESG issues that are most material to them from the outset.
+For instance, if an Aspect/provision of the ESG Reporting Guide is considered not material to an issuer’s
+business, the issuer does not need to disclose but should explain in the ESG report that no disclosure
+is made because such Aspect/provision is not material to its business. Such explanation is sufficient to
+meet the “comply or explain” requirement.
+Introduction
+3
+Acute risks Chronic risks
+Acute physical risks refer to those that are
+event-driven, including increased severity
+of extreme weather events, such as super
+typhoons, floods, extreme temperature
+fluctuations.
+Chronic physical risks refer to longer-term
+shifts in climate patterns (e.g. sustained
+higher temperatures) that may cause sea
+level rise or chronic heat waves.
+Companies’ financial performance may also be affected by changes in water availability, sourcing and
+quality; food security; and extreme temperature changes affecting the company’s premises, operations,
+supply chain, transport needs, and employee safety.
+Transition risks
+Transitioning to a lower-carbon economy may entail extensive policy, legal, technological, and market
+changes to address mitigation and adaptation requirements related to climate change. Depending on
+the nature, speed, and focus of these changes, transition risks may pose varying levels of financial and
+reputational risk to companies.
+Understanding climate-related risks
+Climate change-related impacts present financial risks to many, if not all sectors, in which our issuers
+operate. As such, companies need to consider their actions today in light of how financial risks from
+climate change may evolve in the future. Under the framework provided by the TCFD Recommendations,
+financial risks from climate change can arise from two primary channels or “risk factors”: physical and
+transition3.
+Physical risks
+Physical risks resulting from climate change can be event driven (acute) or longer-term shifts (chronic)
+in climate patterns. Physical risks may have financial implications for companies, such as direct damage
+to assets and indirect impacts from supply chain disruption.
+3 Sources:
+Transition in thinking: The impact of climate change on the UK banking sector (September 2018), Bank of England.
+Final Report: Recommendations of the Task Force on Climate-related Financial Disclosures (June 2017), Task Force
+on Climate-related Financial Disclosures (https://www.fsb-tcfd.org/wp-content/uploads/2017/06/FINAL-TCFDReport-062817.pdf).
+Understanding climate-related risks
+4
+Policy and legal risks Technology risks
+Potential climate-related regulation and
+policy changes, such as the adoption of
+energy-efficiency requirements, as well as
+increased exposure to legal risks may impact
+operational costs and product demand.
+Development and use of emerging
+technologies may increase production and
+distribution costs, and reduce the company’s
+competitiveness.
+Market risks Reputation risks
+Supply and demand for certain commodities,
+products and services may change as
+climate-related risks and opportunities are
+increasingly taken into account.
+A company’s reputation may be impacted
+due to changing customer or community
+perceptions of said company’s contribution
+to or detraction from the transition to a
+lower-carbon economy.
+TCFD Recommendations
+Issuers may refer to the TCFD Recommendations for guidance on identifying and disclosing the potential
+financial impacts of climate-related risks and opportunities on their businesses.
+What are the TCFD Recommendations?
+The TCFD Recommendations focus on helping companies identify and disclose the potential financial
+impacts of climate-related risks and opportunities on their businesses under four thematic areas:
+• Governance - the company’s governance around climate-related risks and opportunities.
+• Strategy - the actual and potential impacts of climate-related risks and opportunities on the
+company’s businesses, strategy, and financial planning where such information is material.
+• Risk Management - how the company identifies, assesses, and manages climate-related risks.
+• Metrics and Targets - the metrics and targets used to assess and manage relevant climate-related
+risks and opportunities where such information is material.
+Understanding climate-related risks
+5
+Companies may include scenario analysis into their strategic planning and/or enterprise risk
+management processes by:
+• Identifying and defining a range of scenarios, including a 2°C scenario, that provide a reasonable
+diversity of potential future climate states.
+• Evaluating the potential resiliency of their strategic plans to a range of scenarios.
+• Using this assessment, enabling the identification of options for increasing the company’s
+strategic and business resiliency to plausible climate-related risks and opportunities through
+adjustments to strategic and financial plans.
+Tips
+Scenario analysis
+The purpose of scenario analysis4 is to explore alternatives that may significantly alter the basis of
+“business-as-usual” assumptions. The TCFD Recommendations advocate scenario analysis as an
+important and useful tool for companies to assess the potential business implications of climaterelated risks and opportunities, and for informing stakeholders about how companies are positioning
+themselves in light of these risks and opportunities.
+This kind of analysis will be helpful for issuers to improve disclosure of decision-useful, climate-related
+financial information.
+4 Learn more on the TCFD website about the use of scenario analysis in disclosure of climate-related risks and
+opportunities: https://www.tcfdhub.org/scenario-analysis/
+Understanding climate-related risks
+6
+Step-by-step guide to ESG reporting
+We have identified the following steps for the preparation of an ESG report, which will be further
+explained in this chapter:
+1. Board and ESG working group
+2. Understanding the requirements of the ESG Reporting Guide (Appendix 27 to the Main Board Listing
+Rules or Appendix 20 to the GEM Listing Rules)(as amended by the amendments set out in the
+Consultation Conclusions on “Review of the Environmental, Social and Governance Reporting Guide
+and related Listing Rules” published in December 2019) (Guide)
+3. Reporting boundary
+4. Materiality assessment, including stakeholder engagement
+5. Target setting
+6. Writing the ESG report
+Under the Listing Rules, issuers must issue an ESG report (whether as part of their annual reports or
+in separate ESG reports) on an annual basis and regarding the same period covered in their annual
+reports. The steps and procedures set out in this document and its appendices (Appendix 1: Toolkit,
+Appendix 2: Reporting guidance on Environmental KPIs, Appendix 3: Reporting guidance on Social KPIs
+and Appendix 4: Table of references to international standards/guidelines and other resources) are for
+general reference and guidance only. Each issuer is unique and, as such, should develop its own steps
+and procedures for ESG reporting in view of its specific circumstances.
+Issuers may also refer to HKEX’s dedicated ESG webpage for further resources and materials on ESG
+reporting.
+Step 1 Board and ESG working group
+Role of the board
+The board has a responsibility to oversee ESG issues, which are as important as other types of enterprise
+risks. It is essential for the board to assess the potential impacts of ESG issues on their company’s overall
+strategy, as these issues could have a material impact on the company’s ability to generate returns.
+The board has overall responsibility for an issuer’s ESG governance, which includes5:
+• evaluating and determining the issuers’ ESG-related risks and opportunities;
+• ensuring that appropriate and effective ESG risk management and internal control systems are in
+place;
+• setting the issuer’s ESG management approach, strategy, priorities and objectives;
+• reviewing the issuer’s performance periodically against ESG-related goals and targets; and
+• approving disclosures in the issuer’s ESG report.
+5 See paragraph 13 of the Guide.
+Step-by-step Guide to ESG Reporting
+7
+Board’s ESG oversight : A Seven Part Framework illustrates the steps a board can take to exercise
+its oversight of ESG issues.
+Tips
+ESG working group
+Issuers may establish an ESG working group, which reports to the board, comprising senior management
+and staff who have sufficient knowledge of current and emerging ESG matters as well as the issuer’s
+operations.
+The ESG working group should have clear terms of reference setting out:
+• Powers delegated to it by the board.
+• Authority to carry out various tasks (including internal and external materiality assessments).
+• Scope of its work (e.g. implementing the board’s strategy and policies, preparing the ESG report).
+• Cost and resource commitment from the issuer.
+Tips
+Step 2 Understanding the requirements of the Guide
+The ESG working group should understand the reporting requirements of the Guide, the issuer’s ESGrelated risks as determined by the board and the board’s ESG strategy.
+The issuer may consider adopting international ESG reporting guidance for its relevant industry or
+sector, so long as it includes comparable disclosure provisions to those set out in the Guide6.
+6 See paragraph 8 of the Guide.
+Appendix 4: Table of references to international standards/guidelines and other resources
+provides references to provisions of international standards/guidelines and other resources that
+may be useful in understanding the ESG topics covered by the Guide.
+A list of relevant international standards/guidelines can also be obtained via HKEX’s ESG
+Resources Hyperlinks.
+Tips
+ESG is a dynamic area that often requires a new way of looking at a mix of familiar and new topics. The
+board’s role in relation to ESG may require more deliberate consideration due to the newness and level
+of maturity of understanding of the topics involved. Directors may need to invest time and effort to
+upskill so they can meet their responsibilities.
+Step-by-step Guide to ESG Reporting
+8
+Identifying information gaps
+In respect of each disclosure requirement, the ESG working group should identify relevant sources of
+data, or develop a process by which relevant data will be collected in the future.
+For policies, ask the following questions:
+• Do we have any existing policies in the specific area? If not, is it necessary to develop such policies?
+• Who in the company is responsible for determining the policies and overseeing their implementation?
+For KPIs, ask the following questions:
+• What information or data do we need to report for this KPI?
+• Are there any gaps in the data and, if so, what do we need to do to generate the required data?
+• Use Appendix 1: Toolkit – identifying information gaps to identify information gaps.
+• Appendix 2: Reporting guidance on Environmental KPIs contains useful data collection
+methodologies and practical guidance on how to collect data and calculate information called
+for under each of the KPIs in “Subject Area A. Environmental” of the Guide.
+• Appendix 3: Reporting guidance on Social KPIs contains useful data collection methodologies
+and practical guidance on how to collect data and calculate information called for under each
+of the KPIs in “Subject Area B. Social” of the Guide.
+Seeking independent assurance
+Paragraph 9 of the Guide specifies that issuers may seek independent assurance to strengthen the
+credibility of ESG information disclosed. An issuer may choose to obtain external assurance for all or
+part of its ESG report, so long as the scope of assurance is clearly set out in the ESG report.
+When selecting an assurance provider, an issuer should consider whether the assurance provider:
+• is independent from the issuer and its controlling shareholders;
+• is demonstrably competent in both the subject matter and applicable assurance practices7 ; and
+• will issue a written report8 which includes:
+- an opinion or set of conclusions;
+- a description of the responsibilities of the report preparer and the assurance provider; and
+- a summary of the work performed, which explains the nature of the assurance conveyed by the
+assurance report.
+7 The Guide does not prescribe the assurance framework to be adopted. While a globally-accepted standard
+specifically for ESG reports is yet to be developed, issuers may refer to ISAE 3000, being the standard for assurance
+over non-financial information issued by the International Federation of Accountants, which comprises guidelines
+for the ethical behaviour, quality management and performance of an assurance engagement.
+8 For the avoidance of doubt, issuers are not required to disclose the text of this report in the ESG reports.
+Tips
+Step-by-step Guide to ESG Reporting
+9
+Step 3 Reporting boundary
+The reporting boundary is the scope of the ESG report, and an issuer should have its own criteria for
+determining the scope, depending on its own business and circumstances.
+There are different ways of determining what to include in the ESG report. Some issuers may prefer
+following the scope used in their annual reports. Some may apply a financial threshold (e.g. inclusion
+of subsidiaries or operations contributing to a certain percentage of the issuer group’s total revenue or
+more), or risk level (e.g. inclusion of operations exceeding a certain risk level despite being a non-major
+business sector of the issuer’s group). In some cases, issuers may adopt different scopes for different
+Aspects/provisions.
+Step 4 Materiality assessment
+“Materiality” is one of the keystone Reporting Principles for preparing a quality ESG report. In the Guide,
+materiality is defined as the threshold at which ESG issues are determined by the board to be sufficiently
+important to investors and other stakeholders that they should be disclosed.
+International standards / guidance (such as the GRI Standards and the TCFD Recommendations) and
+the Guide address many environmental and social issues, but not all of these issues are relevant to all
+companies. Depending on the industry, geographical location(s) of its operations and other factors9, an
+issuer may consider certain Aspects to be material to its business, whilst others are not.
+It is important for an issuer to ascertain which Aspects are material to its business and prioritise relevant
+content in its ESG report accordingly.
+Internal materiality assessment
+An internal materiality assessment should be conducted by senior managers and/or key employees.
+Issuers are encouraged not to outsource internal materiality assessment because members of staff have
+a better understanding of the issuer’s specific circumstances, and as a result may be in a better position
+to identify and prioritise material issues.
+When preparing to conduct an internal materiality assessment, an issuer could take into account:
+• Its overall mission and competitive strategy, corporate values, policies, strategies, operational
+management systems, impact assessments, goals, and targets, including its risk management
+framework, risk register and related studies/analyses.
+• Laws, regulations, international agreements, or voluntary agreements of strategic significance to the
+issuer.
+• Main topics and future challenges for the issuer’s sector, particularly taking into account relevant
+guidance and resources that are available.
+9 Issuers may also refer to the “double materiality perspective”, which involves considering the internal impacts
+related to ESG topics on the issuer’s development performance and position as well as its external impacts
+on economy, environment and society, as advocated by the European Union. For more information refer to
+European Union’s Guidelines on non-financial reporting: https://eurlex.europa.eu/legalcontent/EN/TXT/
+PDF/?uri=CELEX:52017XC0705(01)&from=EN
+Step-by-step Guide to ESG Reporting
+10
+10 https://materiality.sasb.org/
+11 For example, GRESB has developed a materiality scoring tool for infrastructure companies and asset operators
+(https://gresb.com/resources/#resources+s:materiality); and the Sustainable Apparel Coalition has developed the
+Higg Index suite of tools to evaluate companies and products in the apparel, footwear, and textile industry on social
+and environmental sustainability performance (https://apparelcoalition.org/the-higg-index/).
+12 https://www.bloomberg.com/impact/approach/materiality-assessment/
+13 https://www.cdsb.net/what-we-do/reporting-frameworks/environmental-information-natural-capital
+• Use Appendix 1: Toolkit – materiality and relevance to assess and determine the materiality of
+each provision of the Guide.
+• Refer to the materiality table at the end of this document for a sense-check on which topics
+are material for businesses in different sectors.
+External materiality assessment
+Stakeholder engagement is an important tool that issuers can use to identify, develop and achieve
+accountable and strategic responses to ESG issues. Since stakeholder engagement should be part of
+an issuer’s everyday operations, it is not necessary for an issuer to conduct stakeholder engagement
+specifically for the purpose of preparing its ESG report.
+Stakeholder engagement helps issuers to:
+• Understand stakeholders’ expectations, interests and information needs.
+• Be aware of the impact of the company’s business on the environment and society and vice versa.
+• Identify material ESG issues so as to mitigate risks and maximise opportunities.
+Tips
+Tips
+Issuers may refer to the Sustainability Accounting Standards Board’s Materiality Map®, an interactive
+tool for identifying and comparing disclosure topics across different industries and sectors10, or
+other international best practices for specific sectors11 . Additional resources are also available from
+Bloomberg12 and the Climate Disclosures Standards Board13.
+Step-by-step Guide to ESG Reporting
+Identifying stakeholders
+Stakeholders are entities or individuals that can reasonably be expected to:
+• be significantly affected by an issuer’s activities, products and services; and/or
+• whose actions can reasonably be expected to affect the ability of an issuer to successfully implement
+its strategies and achieve its objectives.
+11
+• Use Appendix 1: Toolkit – stakeholder influence – dependency matrix to identify key
+stakeholders (i.e. those in the top right-hand quadrant).
+Tips
+Step-by-step Guide to ESG Reporting
+Depending on the issuer’s business, industry and other factors, external stakeholders groups may
+include but are not limited to:
+• Investors/ shareholders/ members
+• Customers and potential customers
+• Suppliers/ business partners
+• Employees (e.g. in the context of the human resources department, employees would be their
+external stakeholders)
+• Government and regulators
+• NGOs and lobby groups
+• Local communities
+• Competitors/ peers
+• Experts and specialists (e.g. professional/industry associations and academia)
+To achieve long term success and sustainability, issuers should build successful relationships with
+stakeholders and maintain this engagement on an on-going basis.
+How to engage with stakeholders?
+When engaging with stakeholders, an issuer may consider taking the following steps:
+1. Generate a full and complete list of stakeholders by consulting various departments (e.g. corporate
+communications/public relations, human resources, investor relations, sales and marketing,
+procurement, legal, government relations, etc.).
+2. Reduce the list of stakeholders into a workable size. If the ESG working group does not have the
+resources to contact representatives from every stakeholder group, focus on key stakeholders only.
+12
+3. Decide on the most effective engagement methods, which may include:
+4. Engage with the key stakeholders to seek their views on material issues.
+Written
+comments /
+responses
+Round-table
+discussions
+Questionnaire/
+online
+engagement
+Focus groups Advisory
+committees
+Telephone
+discussions
+Meetings
+(personal
+or AGMs)
+Conferences
+Workshops
+5. Create an action plan to address the most important and relevant stakeholder concerns.
+• Use Appendix 1: Toolkit – stakeholder profile template and Appendix 1: Toolkit – stakeholder
+engagement plan to help with the stakeholder engagement process.
+• Use Appendix 1:Toolkit – post stakeholder engagement action plan to help create the action
+plan.
+Tips
+Tips
+Step-by-step Guide to ESG Reporting
+13
+Outcomes of a materiality assessment
+An issuer’s board has the ultimate responsibility of determining the threshold at which ESG issues are
+sufficiently important to investors and other stakeholders that they should be disclosed in the ESG
+report.
+In consideration of all “comply or explain” provisions, for ESG topics that are determined by the board to
+be material, the issuer should:
+• Disclose the required information; or
+• If it decides not to disclose the information, give considered reasons for this decision in the ESG report
+(please refer to Step 6D below for further guidance).
+Understanding the materiality matrix
+While not a requirement, a materiality matrix is a useful tool to graphically represent the outcomes of
+a materiality assessment. An issuer should identify the list of material ESG topics that are specific to its
+organisation and exercise judgement to determine the appropriate position of each topic on the matrix.
+The diagram below illustrates how the position of each ESG topic on the materiality matrix represents
+the board’s view of its relative importance to the issuer:
+Materiality matrix
+Quadrant II
+General Disclosures and KPIs
+identified as relevant for disclosure
+Quadrant I
+General Disclosures and KPIs
+identified as critical for disclosure
+Quadrant III
+General Disclosures and KPIs
+identified as not relevant for
+disclosure
+Quadrant IV
+General Disclosures and KPIs
+identified as relevant for disclosure
+0 1 2 3 4 5
+Not relevant Crucial
+Internal assessment (impact on business)
+5
+4
+3
+2
+1
+0
+External assessment
+(impact on stakeholders)
+Not relevant Crucial
+Step-by-step Guide to ESG Reporting
+14
+General Disclosures, KPIs and ESG factors that are placed within Quadrant I of the materiality matrix are
+considered critical for disclosure in the ESG report because they are highly material. ESG factors that
+have a high position on one axis but a lower position on the other axis (i.e. Quadrant II and Quadrant IV)
+may also be considered material.
+• Use Appendix 1:Toolkit – materiality matrix, a graph with (1) impact on stakeholders and
+(2) impact on business as the axes, to merge the results of internal and external materiality
+assessment.
+Note on “partially material” topics
+General Disclosures and KPIs under each Aspect call for information on various matters (e.g. Aspect
+B6 calls for information on “health and safety, advertising, labelling and privacy matters relating to
+products and services provided and methods of redress”). An issuer could determine that a particular
+“comply or explain” provision is partially material to its business (e.g. in respect of Aspect B6, “labelling”
+is not considered to be material because the issuer’s operations do not involve any packaged products).
+In which case, issuers should make note of the partial disclosure accordingly.
+Topics that are not material
+A “comply or explain” provision (or any part thereof) may not be material to the issuer if it has a low
+position on both axes of the materiality matrix (i.e. Quadrant III). In this case the issuer may:
+• Continue to disclose the required information; or
+• Opt not to disclose the information, in which case it should explain why with reference to the process
+and outcomes of its materiality assessment.
+Step 5 Target setting
+In accordance with the quantitative principle (paragraph 11 (2) of the Guide), issuers should set targets,
+which may be numerical figures or directional statements, to help reduce negative impacts and evaluate/
+validate the effectiveness of their ESG policies and management systems.
+How to set ESG targets
+One commonly accepted approach to target setting is using “S.M.A.R.T.”, which is a concept designed
+to ensure that targets are clear and attainable. Issuers should consider the following questions when
+setting “S.M.A.R.T.” targets:
+• Specific – What specifically do you want to achieve?
+• Measurable – How will you know when you have achieved the target?
+• Attainable – Is it something you have control over and can actually achieve?
+• Relevant – How applicable is the target to your business and does it align with existing strategies?
+• Time bound – By when do you want to achieve your goal?
+Tips
+Step-by-step Guide to ESG Reporting
+15
+Disclosure of ESG targets
+While issuers may set targets for all KPIs that are material to them, the Guide only expressly requires
+disclosure of targets for KPIs A1.5, A1.6, A2.3 and A2.4 on a “comply or explain” basis.
+Example disclosure of a S.M.A.R.T. target
+Below is an example of a S.M.A.R.T. target from a multinational retailer that sells clothing, home
+and food products:
+“Our goal is to become a zero-waste business.…By 2025, the 50 key raw materials used for our
+products will come from sources verified as respecting the integrity of ecosystems, the welfare of
+animals and the wellbeing of people and communities. This will cover over 80% of raw material
+usage by volume…”
+• Specific – it specifically states the desired outcome to become a zero-waste business.
+• Measurable – it can track and analyse how many materials are verified.
+• Attainable – the company has control over which suppliers they work with and can require
+product verification from their suppliers to meet this target.
+• Relevant – it applies to 80% of their material usage by volume.
+• Time bound – the company aims to achieve the target by 2025.
+Discussion on directional statements
+Targets may be actual numerical figures or directional, forward-looking statements. Depending on an
+issuer’s specific circumstances, its ESG targets may also feature a combination of numerical figures and
+directional statements.
+An example where directional statements may be relevant is when new initiatives are being launched,
+and the issuer is not yet sure what is possible and/or does not have a baseline of past performance. In
+line with the quantitative principle, when a directional target has previously been reported, an issuer
+may over time proceed to collect and disclose numerical data in order to evaluate its performance
+with respect to that target. The issuer may also revise such target to take into account quantitative
+information as it becomes available.
+Example of a directional statement
+“From this year onwards, all new build and major retrofit projects will meet relevant international
+sustainable building standards”
+In this example, the issuer may not know how many new build or retrofit projects are going to be
+undertaken. The issuer should provide additional contextual information about its approach to
+sustainable building standards, such as efforts to first meet local sustainable building standards
+(e.g. Hong Kong’s BEAM Plus certification program), in its ESG report.
+Step-by-step Guide to ESG Reporting
+16
+Step 6 Writing the ESG report
+The ESG report should include the following:
+A. A description of the issuer’s ESG governance;
+B. Explain the reporting boundary and describe the process used to determine the boundary;
+C. A description on how it applied certain Reporting Principles;
+D. Report on each of the “comply or explain” provisions;
+E. Independent assurance (optional); and
+F. Key messages that the issuer aims to convey to investors and other stakeholders.
+A. ESG governance
+It is mandatory for an ESG report to include a statement from the board providing a description of
+the following elements:
+Elements
+Board’s oversight of ESG issues
+Board’s ESG management approach
+and strategy, including process used to
+evaluate, prioritise and manage material
+ESG-related issues (including risks to the
+issuer’s businesses)
+How the board reviews progress made
+against ESG-related goals and targets,
+with explanation of how they relate to the
+issuer’s businesses
+Board’s overall vision and strategy in managing ESG
+issues in short-term, medium-term and long-term.
+If there is an ESG committee or ESG working group,
+disclose its structure and functions.
+Board’s views on performance against its targets,
+focusing on the board’s evaluation of progress rather
+than the targets themselves.
+Provide an outlook on the issuer’s main challenges
+and goals for the coming three to five years.
+Process for materiality assessment and how the board
+has determined the materiality of different ESG risks.
+Identify key ESG topics and strategic priorities in
+managing ESG issues for the short and medium-term.
+Information to be disclosed
+Step-by-step Guide to ESG Reporting
+17
+• In evaluating progress against ESG-related goals and targets, the board may take into account
+the following factors:
+‒ Internal or external auditing or verification
+‒ Measurement systems
+‒ External performance ratings
+‒ Benchmarking
+‒ Stakeholder feedback
+• Issuers may refer to international guidance on best-practice reporting about ESG governance
+and disclosures on management approach14.
+Tips
+14 GRI 102: General Disclosures: https://www.globalreporting.org/standards/media/1037/gri-102-generaldisclosures-2016.pdf (Disclosures 102-14, 102-18, 102-19, 102-20 and 102-21)
+GRI 103 Management Approach: https://www.globalreporting.org/standards/media/1038/gri-103-managementapproach-2016.pdf (Disclosure 103-3)
+B. Explain the reporting boundary and describe the process used to determine the boundary
+An issuer should explain the reporting boundaries of the ESG report. It should also describe the process
+used to identify which entities or operations are included in the ESG report. This allows readers to
+appreciate the scope of the ESG report and facilitates a more comprehensive understanding of the
+report contents. If there is a change in the scope, an issuer should explain the difference and reason for
+the change. If different scopes are adopted for different Aspects/provisions, it should also disclose such
+information in the report.
+An issuer may consolidate its description of entities, operations and/or business relationships according
+to relevant attributes, such as type, location, or size.
+In general, stakeholders may assume that an issuer’s ESG report covers all corporate entities included in
+its consolidated financial statements or equivalent documents for the same period. An issuer may consider
+disclosing and explaining in its ESG report any variation from this general rule to avoid confusion.
+Examples
+• “Our mandatory disclosures cover all entities listed in our financial statements, including all
+subsidiaries and associates with the exception of X and Y, which were acquired as part of our
+merger with Z during the reporting period.”
+• “The disclosures on Environmental Aspects in this report include operations over which we
+exercise full management control, namely the facilities and equipment owned/ controlled by
+our manufacturing and trading subsidiaries in regions X and Y as indicated on the following
+map.”
+• “For the purposes of this KPI, we define our supply chain as direct (tier 1) suppliers exceeding
+an average minimum spend value of $X/ annum over the past three years.”
+Step-by-step Guide to ESG Reporting
+18
+Reporting
+Principles Points to note
+Materiality • Describe how the issuer decided on its material issues and include a
+materiality matrix illustrating prioritisation of issues along internal and
+external dimensions.
+• Indicate whether any “comply or explain” provisions are not disclosed
+because they are not considered material for the issuer, and explain how
+the issuer has arrived at this determination.
+• Provide details of who and how often the issuer engaged with its
+stakeholders, as well as insights gained therefrom.
+Quantitative • This principle applies to all information in the report, not only to KPIs
+concerning emissions and energy consumption.
+• If well-established international standards are adopted in the preparation
+of specific KPIs, it is sufficient to provide a description or reference to the
+standards adopted without explaining the underlying methodologies or
+assumptions in detail.
+• Please refer to Appendix 2: Reporting guidance on Environmental KPIs and
+Appendix 3: Reporting guidance on Social KPIs for more information on
+application of this principle with respect to specific KPIs.
+Consistency • Include a statement to confirm no change from previous years in the
+way the ESG report has been prepared.
+• Alternatively, provide a description of any changes that may affect
+meaningful comparison with information provided in previous reports
+e.g. any change(s) in methodologies/calculation methods used.
+C. Application of certain Reporting Principles
+The Reporting Principles in the Guide underpin the preparation of every ESG report and as such, they
+should be followed without exception. Paragraph 14 of the Guide requires an issuer to explain its
+application of the “materiality”, “quantitative” and “consistency” principles.
+While issuers are not required to explain how the “balance” principle has been applied in the ESG report,
+issuers should nonetheless ensure that the ESG report provides an unbiased picture of the issuer’s ESG
+performance (i.e. disclosing both “positive” information (e.g. awards and achievements) and “negative”
+information (e.g. accidents, challenges or failures)).
+An issuer should take note of the following points when explaining its application of the relevant
+Reporting Principles:
+Step-by-step Guide to ESG Reporting
+19
+Reason for
+non-disclosure Points to note
+Not material Specify the reason(s) why this disclosure is considered to be not
+material
+Confidentiality
+constraints
+Describe the specific confidentiality constraints prohibiting this
+disclosure
+Specific legal prohibitions Describe the specific legal prohibitions
+Information not available Describe the specific steps being taken to obtain the information
+and the expected timeframe for doing so
+D. Report on each of the “comply or explain” provisions
+An issuer must either report on a “comply or explain” provision, or give considered explanation(s) as to
+why not. Failure to comply (i.e. disclose the required information) without explanation is a breach of the
+Listing Rules.
+Issuers are reminded that “explanation” is not a less preferred or secondary option. For instance, if a “comply
+or explain” provision is not material to an issuer, it may be better for the issuer to explain that no disclosure
+is made as such provision is not material to the issuer, instead of disclosing irrelevant information.
+An issuer should note the following points when explaining its reasons for not disclosing required
+information:
+The following sets out what the Exchange expects for disclosure on (i) policy; (ii) compliance with
+relevant laws and regulations that have a significant impact on the issuer; and (iii) KPIs (if any):
+a) Policies
+The issuer should provide a summary of its policies that cover the Aspect (with links to those that are
+publicly-available) containing relevant information, such as:
+• Date of issue and last review date
+• Range and location of entities covered
+• Person(s) or committee(s) responsible for approval and implementation
+• References to international standards and widely-recognised initiatives
+ e.g. relevant government schemes
+• Do NOT use generic statements such as “we have an anti-corruption policy” without further
+elaboration.
+Tips
+Step-by-step Guide to ESG Reporting
+20
+b) Information on compliance with relevant laws and regulations that have a significant impact on the
+issuer
+An issuer should consider whether there are laws and regulations in respect of that Aspect which
+may have a significant impact on the issuer.
+• If yes: (i) Specify the relevant laws and regulations; (ii) disclose their potential impact on the issuer;
+and (iii) disclose ways in which the issuer has ensured compliance with such laws and regulations.
+• If no: State that there are no laws and regulations that have a significant impact on the issuer.
+• Do NOT use blanket statements of compliance (e.g. “we have complied with all laws and
+regulations”) or absence of non-compliance (e.g. “we are not in breach of any applicable laws
+and regulations”).
+• Disclosure of certifications awarded by standard-setting organisations such as the International
+Organization for Standardization does NOT suffice as disclosure of compliance with local laws
+and regulations.
+Tips
+Example
+“Starting from 1 January 2018, China has implemented the “Environmental Protection Tax Law”,
+which is aimed at strengthening pollution control, protecting the environment, and regulating
+new tax targets enterprises and public institutions that discharge certain pollutants directly
+into the environment. The law requires these entities to pay tax for producing air and water
+pollutants, noise and solid wastes. Our tax liability is expected to increase by x% in view of this
+law, resulting in a reduction of our profit by y%.”
+Step-by-step Guide to ESG Reporting
+21
+c) Information on KPIs
+Disclose the information called for under the relevant KPI. The following KPIs are often overlooked
+or disclosed incorrectly:
+Issuers are reminded that they are required to report all Social KPIs on a “comply or explain” basis for
+financial years commencing on or after 1 July 2020.
+KPI Description Common pitfalls
+Aspect A1 - Emissions
+A1.3 Total hazardous waste produced
+(in tonnes) and, where appropriate,
+intensity (e.g. per unit of production
+volume, per facility).
+Immaterial ESG data disclosures when
+the issuers are not producing significant
+hazardous waste. Explanation should be
+provided if the KPI is not material.
+A.1.4 Total non-hazardous waste
+produced (in tonnes) and, where
+appropriate, intensity (e.g. per unit
+of production volume, per facility).
+Disclosure of total non-hazardous waste
+(or an explanation for absence of such
+disclosure) omitted.
+Aspect A2 - Use of Resources
+A.2.5 Total packaging material used for
+finished products (in tonnes) and,
+if applicable, with reference to per
+unit produced.
+Disclosure of total packaging material used
+(or an explanation for absence of such
+disclosure) omitted.
+Immaterial ESG data disclosures when the
+issuers’ products do not require significant
+packaging material. Explanation should be
+provided when the KPI is not material.
+Aspect A3 - The Environment and Natural Resources
+A.3.1 Description of the significant
+impacts of activities on the
+environment and natural resources
+and the actions taken to manage
+them.
+Confused KPI A.3.1 with “Policies on
+minimising the issuer’s significant impact
+on the environment and natural resources”
+and limiting disclosure to only energy saving
+policies such as “turning off lights to reduce
+electricity usage”.
+For KPI A.3.1, issuers should disclose (i) the
+significant impact of its business activities
+on the environmental and natural resources;
+and (ii) targeted actions taken to manage
+them.
+Step-by-step Guide to ESG Reporting
+22
+E. Independent assurance (optional)
+Where independent assurance is obtained, the issuer should clearly describe in the ESG report the level,
+scope and processes adopted for the assurance given. Issuers may decide whether to disclose the name
+of the assurance provider.
+F. Key messages that the issuer aims to convey to investors and other stakeholders
+The ESG report is an opportunity for an issuer to demonstrate the resilience and readiness of its business
+activities in relation to sustainable development. Through preparing an ESG report, issuers would be
+in a better position to identify both risks and opportunities arising from ESG issues relating to their
+operations.
+Issuers should use this opportunity to showcase their ability to look beyond the risks, and realise
+opportunities through innovation and value creation.
+• Keep report text simple, concise and to the point.
+• Provide explanations for data presented in graphs or charts.
+• Use pictures to emphasise or clarify points made in the text.
+• Include short case studies to highlight how the issuer has implemented ESG policies or
+practices.
+Tips
+Step-by-step Guide to ESG Reporting
+23
+SET UP AN ESG WORKING GROUP
+MATERIALITY ASSESSMENT
+• Conduct internal and external
+materiality assessments to decide
+which information to disclose
+• Conduct stakeholder engagement
+(optional)
+• Statement on ESG governance
+• Explanation of reporting boundary and
+description of process of determining
+the boundary
+• Explanation on the application of
+certain Reporting Principles
+• Reporting on each Aspect
+TARGET SETTING
+• Set targets which are specific, measurable, attainable, relevant and time-bound (S.M.A.R.T.)
+• Targets may be quantitative or directional
+Either report or explain reasons for not
+reporting
+If a provision is not reported on, consider using
+materiality/relevance as an explanation
+Toolkit:
+• Materiality and Relevance (to be completed for
+each stakeholder)
+• Materiality Matrix (overall)
+• Stakeholder Influence – Dependency Matrix
+• Stakeholder Profile
+• Stakeholder Engagement Plan
+• Post Stakeholder Engagement Action Plan
+Toolkit:
+• Identify Information Gaps
+MATERIAL NOT MATERIAL
+“Comply
+or Explain”
+provisions
+Description of independent assurance obtained (where applicable)
+Key message to investors and stakeholders
+ESG reporting flowchart
+• Understand ESG reporting requirements, ESG risks and the board’s ESG strategy
+• Set reporting boundary
+ESG reporting flowchart
+ESG REPORT WRITING
+24
+Materiality table – by industry and aspect
+This materiality table is for reference ONLY. An issuer should conduct its own materiality assessment to determine the materiality of each Aspect based on its own
+circumstances. Depending on an issuer’s own industry and sector, as well as its own business operations, materiality of an Aspect may be different from what is depicted
+in this table.
+Consumer
+Discretionary
+Consumer
+Staples Healthcare Energy Financials Industrials Information
+Technology Materials Properties &
+Construction
+Telecommunication Utilities
+A1 Emissions
+A2 Use of
+ Resources
+A3 The
+ Environment
+ and Natural
+ Resources
+A4 Climate Change
+B1 Employment
+B2 Health and
+ Safety
+B3 Development
+ and Training
+B4 Labour
+ Standards
+B5 Supply Chain
+ Management
+B6 Product
+ Responsibility
+B7 Anti-corruption
+B8 Community
+ Investment
+Very likely to be material to issuers in the industry
+Materiality table – by industry and aspect
+Notes:
+1) An issuer may find an Aspect to be material to its business or operations, but consider a KPI under such Aspect not to be material.
+2) Industries in the table have been classified in line with Hang Seng Industry Classification System, except that “Conglomerates” is not included since issuers from this industry may be
+engaged in businesses classified as other industries.
+Likely to be material to issuers in the industry.

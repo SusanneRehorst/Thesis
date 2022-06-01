@@ -1,0 +1,732 @@
+REGULATION (EU) 2020/852 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+of 18 June 2020
+on the establishment of a framework to facilitate sustainable investment, and amending Regulation
+
+CHAPTER I
+SUBJECT MATTER, SCOPE AND DEFINITIONS
+Article 1
+Subject matter and scope
+1. This Regulation establishes the criteria for determining whether an economic activity qualifies as environmentally
+sustainable for the purposes of establishing the degree to which an investment is environmentally sustainable.
+(
+65) Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments
+and amending Regulation (EU) No 648/2012 (OJ L 173, 12.6.2014, p. 84).
+(
+66) Regulation (EU) No 1286/2014 of the European Parliament and of the Council of 26 November 2014 on key information documents
+for packaged retail and insurance-based investment products (PRIIPs) (OJ L 352, 9.12.2014, p. 1).
+(
+67) Regulation (EU) 2019/1238 of the European Parliament and of the Council of 20 June 2019 on a pan-European Personal Pension
+Product (PEPP) (OJ L 198, 25.7.2019, p. 1).
+22.6.2020 EN Official Journal of the European Union L 198/25
+2. This Regulation applies to:
+(a) measures adopted by Member States or by the Union that set out requirements for financial market participants or
+issuers in respect of financial products or corporate bonds that are made available as environmentally sustainable;
+(b) financial market participants that make available financial products;
+(c) undertakings which are subject to the obligation to publish a non-financial statement or a consolidated non-financial
+statement pursuant to Article 19a or Article 29a of Directive 2013/34/EU of the European Parliament and of the
+Council (
+68), respectively.
+Article 2
+Definitions
+For the purposes of this Regulation, the following definitions apply:
+(1) ‘environmentally sustainable investment’ means an investment in one or several economic activities that qualify as
+environmentally sustainable under this Regulation;
+(2) ‘financial market participant’ means a financial market participant as defined in point (1) of Article 2 of Regulation
+(EU) 2019/2088 and includes a manufacturer of a pension product to which a Member State has decided to apply
+that Regulation in accordance with Article 16 of that Regulation;
+(3) ‘financial product’ means a financial product as defined in point (12) of Article 2 of Regulation (EU) 2019/2088;
+(4) ‘issuer’ means an issuer as defined in point (h) of Article 2 of Regulation (EU) 2017/1129 of the European Parliament
+and of the Council (
+69);
+(5) ‘climate change mitigation’ means the process of holding the increase in the global average temperature to well below
+2 °C and pursuing efforts to limit it to 1,5 °C above pre-industrial levels, as laid down in the Paris Agreement;
+(6) ‘climate change adaptation’ means the process of adjustment to actual and expected climate change and its impacts;
+(7) ‘greenhouse gas’ means a greenhouse gas listed in Annex I to Regulation (EU) No 525/2013 of the European
+Parliament and of the Council (
+70);
+(8) ‘waste hierarchy’ means the waste hierarchy as laid down in Article 4 of Directive 2008/98/EC;
+(9) ‘circular economy’ means an economic system whereby the value of products, materials and other resources in the
+economy is maintained for as long as possible, enhancing their efficient use in production and consumption, thereby
+reducing the environmental impact of their use, minimising waste and the release of hazardous substances at all stages
+of their life cycle, including through the application of the waste hierarchy;
+(10) ‘pollutant’ means a substance, vibration, heat, noise, light or other contaminant present in air, water or land which
+may be harmful to human health or the environment, which may result in damage to material property, or which
+may impair or interfere with amenities and other legitimate uses of the environment;
+(11) ‘soil’ means the top layer of the Earth’s crust situated between the bedrock and the surface, which is composed of
+mineral particles, organic matter, water, air and living organisms;
+(
+68) Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements,
+consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the
+European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC (OJ L 182, 29.6.2013, p. 19).
+(
+69) Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when
+securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (OJ L 168,
+30.6.2017, p. 12).
+(
+70) Regulation (EU) No 525/2013 of the European Parliament and of the Council of 21 May 2013 on a mechanism for monitoring and
+reporting greenhouse gas emissions and for reporting other information at national and Union level relevant to climate change and
+repealing Decision No 280/2004/EC (OJ L 165, 18.6.2013, p. 13).
+L 198/26 EN Official Journal of the European Union 22.6.2020
+(12) ‘pollution’ means:
+(a) the direct or indirect introduction of pollutants into air, water or land as a result of human activity;
+(b) in the context of the marine environment, pollution as defined in point 8 of Article 3 of Directive 2008/56/EC;
+(c) in the context of the water environment, pollution as defined in point 33 of Article 2 of Directive 2000/60/EC;
+(13) ‘ecosystem’ means a dynamic complex of plant, animal, and micro-organism communities and their non-living
+environment interacting as a functional unit;
+(14) ‘ecosystem services’ means the direct and indirect contributions of ecosystems to the economic, social, cultural and
+other benefits that people derive from those ecosystems;
+(15) ‘biodiversity’ means the variability among living organisms arising from all sources including terrestrial, marine and
+other aquatic ecosystems and the ecological complexes of which they are part and includes diversity within species,
+between species and of ecosystems;
+(16) ‘good condition’ means, in relation to an ecosystem, that the ecosystem is in good physical, chemical and biological
+condition or of a good physical, chemical and biological quality with self-reproduction or self-restoration capability,
+in which species composition, ecosystem structure and ecological functions are not impaired;
+(17) ‘energy efficiency’ means the more efficient use of energy at all the stages of the energy chain from production to final
+consumption;
+(18) ‘marine waters’ means marine waters as defined in point 1 of Article 3 of Directive 2008/56/EC;
+(19) ‘surface water’ means surface water as defined in point 1 of Article 2 of Directive 2000/60/EC;
+(20) ‘groundwater’ means groundwater as defined in point 2 of Article 2 of Directive 2000/60/EC;
+(21) ‘good environmental status’ means good environmental status as defined in point 5 of Article 3 of Directive
+2008/56/EC;
+(22) ‘good status’ means:
+(a) for surface water, having both ‘good ecological status’ as defined in point 22 of Article 2 of Directive 2000/60/EC
+and ‘good surface water chemical status’ as defined in point 24 of Article 2 of that Directive;
+(b) for groundwater, having both ‘good groundwater chemical status’ as defined in point 25 of Article 2 of Directive
+2000/60/EC and ‘good quantitative status’ as defined in point 28 of Article 2 of that Directive;
+(23) ‘good ecological potential’ means good ecological potential as defined in point 23 of Article 2 of Directive
+2000/60/EC.
+CHAPTER II
+ENVIRONMENTALLY SUSTAINABLE ECONOMIC ACTIVITIES
+Article 3
+Criteria for environmentally sustainable economic activities
+For the purposes of establishing the degree to which an investment is environmentally sustainable, an economic activity
+shall qualify as environmentally sustainable where that economic activity:
+(a) contributes substantially to one or more of the environmental objectives set out in Article 9 in accordance with Articles
+10 to 16;
+(b) does not significantly harm any of the environmental objectives set out in Article 9 in accordance with Article 17;
+(c) is carried out in compliance with the minimum safeguards laid down in Article 18; and
+(d) complies with technical screening criteria that have been established by the Commission in accordance with Article 10
+(3), 11(3), 12(2), 13(2), 14(2) or 15(2).
+22.6.2020 EN Official Journal of the European Union L 198/27
+Article 4
+Use of the criteria for environmentally sustainable economic activities in public measures, in standards and in
+labels
+Member States and the Union shall apply the criteria set out in Article 3 to determine whether an economic activity
+qualifies as environmentally sustainable for the purposes of any measure setting out requirements for financial market
+participants or issuers in respect of financial products or corporate bonds that are made available as environmentally
+sustainable.
+Article 5
+Transparency of environmentally sustainable investments in pre-contractual disclosures and in periodic reports
+Where a financial product as referred to in Article 9(1), (2) or (3) of Regulation (EU) 2019/2088 invests in an economic
+activity that contributes to an environmental objective within the meaning of point (17) of Article 2 of that Regulation,
+the information to be disclosed in accordance with Articles 6(3) and 11(2) of that Regulation shall include the following:
+(a) the information on the environmental objective or environmental objectives set out in Article 9 of this Regulation to
+which the investment underlying the financial product contributes; and
+(b) a description of how and to what extent the investments underlying the financial product are in economic activities that
+qualify as environmentally sustainable under Article 3 of this Regulation.
+The description referred to in point (b) of the first subparagraph of this Article shall specify the proportion of investments
+in environmentally sustainable economic activities selected for the financial product, including details on the proportions
+of enabling and transitional activities referred to in Article 16 and Article 10(2), respectively, as a percentage of all
+investments selected for the financial product.
+Article 6
+Transparency of financial products that promote environmental characteristics in pre-contractual disclosures and
+in periodic reports
+Where a financial product as referred to in Article 8(1) of Regulation (EU) 2019/2088 promotes environmental
+characteristics, Article 5 of this Regulation shall apply mutatis mutandis.
+The information to be disclosed in accordance with Articles 6(3) and 11(2) of Regulation (EU) 2019/2088 shall be
+accompanied by the following statement:
+‘The “do no significant harm” principle applies only to those investments underlying the financial product that take into
+account the EU criteria for environmentally sustainable economic activities.
+The investments underlying the remaining portion of this financial product do not take into account the EU criteria for
+environmentally sustainable economic activities.’.
+Article 7
+Transparency of other financial products in pre-contractual disclosures and in periodic reports
+Where a financial product is not subject to Article 8(1) or to Article 9(1), (2) or (3) of Regulation (EU) 2019/2088, the
+information to be disclosed in accordance with the provisions of sectoral legislation referred to in Articles 6(3) and 11(2)
+of that Regulation shall be accompanied by the following statement:
+‘The investments underlying this financial product do not take into account the EU criteria for environmentally sustainable
+economic activities.’.
+L 198/28 EN Official Journal of the European Union 22.6.2020
+Article 8
+Transparency of undertakings in non-financial statements
+1. Any undertaking which is subject to an obligation to publish non-financial information pursuant to Article 19a or
+Article 29a of Directive 2013/34/EU shall include in its non-financial statement or consolidated non-financial statement
+information on how and to what extent the undertaking’s activities are associated with economic activities that qualify as
+environmentally sustainable under Articles 3 and 9 of this Regulation.
+2. In particular, non-financial undertakings shall disclose the following:
+(a) the proportion of their turnover derived from products or services associated with economic activities that qualify as
+environmentally sustainable under Articles 3 and 9; and
+(b) the proportion of their capital expenditure and the proportion of their operating expenditure related to assets or
+processes associated with economic activities that qualify as environmentally sustainable under Articles 3 and 9.
+3. If an undertaking publishes non-financial information pursuant to Article 19a or Article 29a of Directive
+2013/34/EU in a separate report in accordance with Article 19a(4) or Article 29a(4) of that Directive, the information
+referred to in paragraphs 1 and 2 of this Article shall be published in that separate report.
+4. The Commission shall adopt a delegated act in accordance with Article 23 to supplement paragraphs 1 and 2 of this
+Article to specify the content and presentation of the information to be disclosed pursuant to those paragraphs, including
+the methodology to be used in order to comply with them, taking into account the specificities of both financial and nonfinancial undertakings and the technical screening criteria established pursuant to this Regulation. The Commission shall
+adopt that delegated act by 1 June 2021.
+Article 9
+Environmental objectives
+For the purposes of this Regulation, the following shall be environmental objectives:
+(a) climate change mitigation;
+(b) climate change adaptation;
+(c) the sustainable use and protection of water and marine resources;
+(d) the transition to a circular economy;
+(e) pollution prevention and control;
+(f) the protection and restoration of biodiversity and ecosystems.
+Article 10
+Substantial contribution to climate change mitigation
+1. An economic activity shall qualify as contributing substantially to climate change mitigation where that activity
+contributes substantially to the stabilisation of greenhouse gas concentrations in the atmosphere at a level which prevents
+dangerous anthropogenic interference with the climate system consistent with the long-term temperature goal of the Paris
+Agreement through the avoidance or reduction of greenhouse gas emissions or the increase of greenhouse gas removals,
+including through process innovations or product innovations, by:
+(a) generating, transmitting, storing, distributing or using renewable energy in line with Directive (EU) 2018/2001,
+including through using innovative technology with a potential for significant future savings or through necessary
+reinforcement or extension of the grid;
+(b) improving energy efficiency, except for power generation activities as referred to in Article 19(3);
+(c) increasing clean or climate-neutral mobility;
+22.6.2020 EN Official Journal of the European Union L 198/29
+(d) switching to the use of sustainably sourced renewable materials;
+(e) increasing the use of environmentally safe carbon capture and utilisation (CCU) and carbon capture and storage (CCS)
+technologies that deliver a net reduction in greenhouse gas emissions;
+(f) strengthening land carbon sinks, including through avoiding deforestation and forest degradation, restoration of
+forests, sustainable management and restoration of croplands, grasslands and wetlands, afforestation, and regenerative
+agriculture;
+(g) establishing energy infrastructure required for enabling the decarbonisation of energy systems;
+(h) producing clean and efficient fuels from renewable or carbon-neutral sources; or
+(i) enabling any of the activities listed in points (a) to (h) of this paragraph in accordance with Article 16.
+2. For the purposes of paragraph 1, an economic activity for which there is no technologically and economically feasible
+low-carbon alternative shall qualify as contributing substantially to climate change mitigation where it supports the
+transition to a climate-neutral economy consistent with a pathway to limit the temperature increase to 1,5 0
+C above preindustrial levels, including by phasing out greenhouse gas emissions, in particular emissions from solid fossil fuels, and
+where that activity:
+(a) has greenhouse gas emission levels that correspond to the best performance in the sector or industry;
+(b) does not hamper the development and deployment of low-carbon alternatives; and
+(c) does not lead to a lock-in of carbon-intensive assets, considering the economic lifetime of those assets.
+For the purpose of this paragraph and the establishment of technical screening criteria pursuant to Article 19, the
+Commission shall assess the potential contribution and feasibility of all relevant existing technologies.
+3. The Commission shall adopt a delegated act in accordance with Article 23 to:
+(a) supplement paragraphs 1 and 2 of this Article by establishing technical screening criteria for determining the
+conditions under which a specific economic activity qualifies as contributing substantially to climate change
+mitigation; and
+(b) supplement Article 17 by establishing, for each relevant environmental objective, technical screening criteria for
+determining whether an economic activity in respect of which technical screening criteria have been established
+pursuant to point (a) of this paragraph causes significant harm to one or more of those objectives.
+4. Prior to adopting the delegated act referred to in paragraph 3 of this Article, the Commission shall consult the
+Platform referred to in Article 20 regarding the technical screening criteria referred to in paragraph 3 of this Article.
+5. The Commission shall establish the technical screening criteria referred to in paragraph 3 of this Article in one
+delegated act, taking into account the requirements of Article 19.
+6. The Commission shall adopt the delegated act referred to in paragraph 3 by 31 December 2020, with a view to
+ensuring its application from 1 January 2022.
+Article 11
+Substantial contribution to climate change adaptation
+1. An economic activity shall qualify as contributing substantially to climate change adaptation where that activity:
+(a) includes adaptation solutions that either substantially reduce the risk of the adverse impact of the current climate and
+the expected future climate on that economic activity or substantially reduce that adverse impact, without increasing
+the risk of an adverse impact on people, nature or assets; or
+(b) provides adaptation solutions that, in addition to satisfying the conditions set out in Article 16, contribute substantially
+to preventing or reducing the risk of the adverse impact of the current climate and the expected future climate on
+people, nature or assets, without increasing the risk of an adverse impact on other people, nature or assets.
+L 198/30 EN Official Journal of the European Union 22.6.2020
+2. The adaptation solutions referred to in point (a) of paragraph 1 shall be assessed and ranked in order of priority using
+the best available climate projections and shall, at a minimum, prevent or reduce:
+(a) the location-specific and context-specific adverse impact of climate change on the economic activity; or
+(b) the potential adverse impact of climate change on the environment within which the economic activity takes place.
+3. The Commission shall adopt a delegated act in accordance with Article 23 to:
+(a) supplement paragraphs 1 and 2 of this Article by establishing technical screening criteria for determining the
+conditions under which a specific economic activity qualifies as contributing substantially to climate change
+adaptation; and
+(b) supplement Article 17 by establishing, for each relevant environmental objective, technical screening criteria for
+determining whether an economic activity in respect of which technical screening criteria have been established
+pursuant to point (a) of this paragraph causes significant harm to one or more of those objectives.
+4. Prior to adopting the delegated act referred to in paragraph 3 of this Article, the Commission shall consult the
+Platform referred to in Article 20 regarding the technical screening criteria referred to in paragraph 3 of this Article.
+5. The Commission shall establish the technical screening criteria referred to in paragraph 3 of this Article in one
+delegated act, taking into account the requirements of Article 19.
+6. The Commission shall adopt the delegated act referred to in paragraph 3 by 31 December 2020, with a view to
+ensuring its application from 1 January 2022.
+Article 12
+Substantial contribution to the sustainable use and protection of water and marine resources
+1. An economic activity shall qualify as contributing substantially to the sustainable use and protection of water and
+marine resources where that activity either contributes substantially to achieving the good status of bodies of water,
+including bodies of surface water and groundwater or to preventing the deterioration of bodies of water that already have
+good status, or contributes substantially to achieving the good environmental status of marine waters or to preventing the
+deterioration of marine waters that are already in good environmental status, by:
+(a) protecting the environment from the adverse effects of urban and industrial waste water discharges, including from
+contaminants of emerging concern such as pharmaceuticals and microplastics, for example by ensuring the adequate
+collection, treatment and discharge of urban and industrial waste waters;
+(b) protecting human health from the adverse impact of any contamination of water intended for human consumption by
+ensuring that it is free from any micro-organisms, parasites and substances that constitute a potential danger to human
+health as well as increasing people’s access to clean drinking water;
+(c) improving water management and efficiency, including by protecting and enhancing the status of aquatic ecosystems,
+by promoting the sustainable use of water through the long-term protection of available water resources, inter alia,
+through measures such as water reuse, by ensuring the progressive reduction of pollutant emissions into surface water
+and groundwater, by contributing to mitigating the effects of floods and droughts, or through any other activity that
+protects or improves the qualitative and quantitative status of water bodies;
+22.6.2020 EN Official Journal of the European Union L 198/31
+(d) ensuring the sustainable use of marine ecosystem services or contributing to the good environmental status of marine
+waters, including by protecting, preserving or restoring the marine environment and by preventing or reducing inputs
+in the marine environment; or
+(e) enabling any of the activities listed in points (a) to (d) of this paragraph in accordance with Article 16.
+2. The Commission shall adopt a delegated act in accordance with Article 23 to:
+(a) supplement paragraph 1 of this Article by establishing technical screening criteria for determining the conditions under
+which a specific economic activity qualifies as contributing substantially to sustainable use and protection of water and
+marine resources; and
+(b) supplement Article 17 by establishing, for each relevant environmental objective, technical screening criteria, for
+determining whether an economic activity in respect of which technical screening criteria have been established
+pursuant to point (a) of this paragraph causes significant harm to one or more of those objectives.
+3. Prior to adopting the delegated act referred to in paragraph 2 of this Article, the Commission shall consult the
+Platform referred to in Article 20 regarding the technical screening criteria referred to in paragraph 2 of this Article.
+4. The Commission shall establish the technical screening criteria referred to in paragraph 2 of this Article in one
+delegated act, taking into account the requirements of Article 19.
+5. The Commission shall adopt the delegated act referred to in paragraph 2 by 31 December 2021, with a view to
+ensuring its application from 1 January 2023.
+Article 13
+Substantial contribution to the transition to a circular economy
+1. An economic activity shall qualify as contributing substantially to the transition to a circular economy, including
+waste prevention, re-use and recycling, where that activity:
+(a) uses natural resources, including sustainably sourced bio-based and other raw materials, in production more efficiently,
+including by:
+(i) reducing the use of primary raw materials or increasing the use of by-products and secondary raw materials; or
+(ii) resource and energy efficiency measures;
+(b) increases the durability, reparability, upgradability or reusability of products, in particular in designing and
+manufacturing activities;
+(c) increases the recyclability of products, including the recyclability of individual materials contained in those products,
+inter alia, by substitution or reduced use of products and materials that are not recyclable, in particular in designing
+and manufacturing activities;
+(d) substantially reduces the content of hazardous substances and substitutes substances of very high concern in materials
+and products throughout their life cycle, in line with the objectives set out in Union law, including by replacing such
+substances with safer alternatives and ensuring traceability;
+(e) prolongs the use of products, including through reuse, design for longevity, repurposing, disassembly,
+remanufacturing, upgrades and repair, and sharing products;
+(f) increases the use of secondary raw materials and their quality, including by high-quality recycling of waste;
+(g) prevents or reduces waste generation, including the generation of waste from the extraction of minerals and waste from
+the construction and demolition of buildings;
+L 198/32 EN Official Journal of the European Union 22.6.2020
+(h) increases preparing for the re-use and recycling of waste;
+(i) increases the development of the waste management infrastructure needed for prevention, for preparing for re-use and
+for recycling, while ensuring that the recovered materials are recycled as high-quality secondary raw material input in
+production, thereby avoiding downcycling;
+(j) minimises the incineration of waste and avoids the disposal of waste, including landfilling, in accordance with the
+principles of the waste hierarchy;
+(k) avoids and reduces litter; or
+(l) enables any of the activities listed in points (a) to (k) of this paragraph in accordance with Article 16.
+2. The Commission shall adopt a delegated act in accordance with Article 23 to:
+(a) supplement paragraph 1 of this Article by establishing technical screening criteria for determining the conditions under
+which a specific economic activity qualifies as contributing substantially to the transition to a circular economy; and
+(b) supplement Article 17 by establishing, for each relevant environmental objective, technical screening criteria for
+determining whether an economic activity in respect of which technical screening criteria have established pursuant to
+point (a) of this paragraph causes significant harm to one or more of those objectives.
+3. Prior to adopting the delegated act referred to in paragraph 2 of this Article, the Commission shall consult the
+Platform referred to in Article 20 regarding the technical screening criteria referred to in paragraph 2 of this Article.
+4. The Commission shall establish the technical screening criteria referred to in paragraph 2 of this Article in one
+delegated act, taking into account the requirements of Article 19.
+5. The Commission shall adopt the delegated act referred to in paragraph 2 by 31 December 2021, with a view to
+ensuring its application from 1 January 2023.
+Article 14
+Substantial contribution to pollution prevention and control
+1. An economic activity shall qualify as contributing substantially to pollution prevention and control where that
+activity contributes substantially to environmental protection from pollution by:
+(a) preventing or, where that is not practicable, reducing pollutant emissions into air, water or land, other than greenhouse
+gasses;
+(b) improving levels of air, water or soil quality in the areas in which the economic activity takes place whilst minimising
+any adverse impact on, human health and the environment or the risk thereof;
+(c) preventing or minimising any adverse impact on human health and the environment of the production, use or disposal
+of chemicals;
+(d) cleaning up litter and other pollution; or
+(e) enabling any of the activities listed in points (a) to (d) of this paragraph in accordance with Article 16.
+2. The Commission shall adopt a delegated act in accordance with Article 23 to:
+(a) supplement paragraph 1 of this Article by establishing technical screening criteria for determining the conditions under
+which a specific economic activity qualifies as contributing substantially to pollution prevention and control; and
+(b) supplement Article 17 by establishing, for each relevant environmental objective, technical screening criteria for
+determining whether an economic activity in respect of which technical screening criteria have been established
+pursuant to point (a) of this paragraph causes significant harm to one or more of those objectives.
+22.6.2020 EN Official Journal of the European Union L 198/33
+3. Prior to adopting the delegated act referred to in paragraph 2 of this Article, the Commission shall consult the
+Platform referred to in Article 20 regarding the technical screening criteria referred to in paragraph 2 of this Article.
+4. The Commission shall establish the technical screening criteria referred to in paragraph 2 of this Article in one
+delegated act, taking into account the requirements of Article 19.
+5. The Commission shall adopt the delegated act referred to in paragraph 2 by 31 December 2021, with a view to
+ensuring its application from 1 January 2023.
+Article 15
+Substantial contribution to the protection and restoration of biodiversity and ecosystems
+1. An economic activity shall qualify as contributing substantially to the protection and restoration of biodiversity and
+ecosystems where that activity contributes substantially to protecting, conserving or restoring biodiversity or to achieving
+the good condition of ecosystems, or to protecting ecosystems that are already in good condition, through:
+(a) nature and biodiversity conservation, including achieving favourable conservation status of natural and semi-natural
+habitats and species, or preventing their deterioration where they already have favourable conservation status, and
+protecting and restoring terrestrial, marine and other aquatic ecosystems in order to improve their condition and
+enhance their capacity to provide ecosystem services;
+(b) sustainable land use and management, including adequate protection of soil biodiversity, land degradation neutrality
+and the remediation of contaminated sites;
+(c) sustainable agricultural practices, including those that contribute to enhancing biodiversity or to halting or preventing
+the degradation of soils and other ecosystems, deforestation and habitat loss;
+(d) sustainable forest management, including practices and uses of forests and forest land that contribute to enhancing
+biodiversity or to halting or preventing degradation of ecosystems, deforestation and habitat loss; or
+(e) enabling any of the activities listed in points (a) to (d) of this paragraph in accordance with Article 16.
+2. The Commission shall adopt a delegated act in accordance with Article 23 to:
+(a) supplement paragraph 1 of this Article by establishing technical screening criteria for determining the conditions under
+which a specific economic activity qualifies as contributing substantially to the protection and restoration of
+biodiversity and ecosystems; and
+(b) supplement Article 17 by establishing, for each relevant environmental objective, technical screening criteria for
+determining whether an economic activity in respect of which technical screening criteria have been established
+pursuant to point (a) of this paragraph causes significant harm to one or more of those objectives.
+3. Prior to adopting the delegated act referred to in paragraph 2 of this Article, the Commission shall consult the
+Platform referred to in Article 20 regarding the technical screening criteria referred to in paragraph 2 of this Article.
+4. The Commission shall establish the technical screening criteria referred to in paragraph 2 of this Article in one
+delegated act, taking into account the requirements of Article 19.
+5. The Commission shall adopt the delegated act referred to in paragraph 2 by 31 December 2021, with a view to
+ensuring its application from 1 January 2023.
+Article 16
+Enabling activities
+An economic activity shall qualify as contributing substantially to one or more of the environmental objectives set out in
+Article 9 by directly enabling other activities to make a substantial contribution to one or more of those objectives,
+provided that such economic activity:
+(a) does not lead to a lock-in of assets that undermine long-term environmental goals, considering the economic lifetime of
+those assets; and
+(b) has a substantial positive environmental impact, on the basis of life-cycle considerations.
+L 198/34 EN Official Journal of the European Union 22.6.2020
+Article 17
+Significant harm to environmental objectives
+1. For the purposes of point (b) of Article 3, taking into account the life cycle of the products and services provided by
+an economic activity, including evidence from existing life-cycle assessments, that economic activity shall be considered to
+significantly harm:
+(a) climate change mitigation, where that activity leads to significant greenhouse gas emissions;
+(b) climate change adaptation, where that activity leads to an increased adverse impact of the current climate and the
+expected future climate, on the activity itself or on people, nature or assets;
+(c) the sustainable use and protection of water and marine resources, where that activity is detrimental:
+(i) to the good status or the good ecological potential of bodies of water, including surface water and groundwater; or
+(ii) to the good environmental status of marine waters;
+(d) the circular economy, including waste prevention and recycling, where:
+(i) that activity leads to significant inefficiencies in the use of materials or in the direct or indirect use of natural
+resources such as non-renewable energy sources, raw materials, water and land at one or more stages of the life
+cycle of products, including in terms of durability, reparability, upgradability, reusability or recyclability of
+products;
+(ii) that activity leads to a significant increase in the generation, incineration or disposal of waste, with the exception
+of the incineration of non-recyclable hazardous waste; or
+(iii) the long-term disposal of waste may cause significant and long-term harm to the environment;
+(e) pollution prevention and control, where that activity leads to a significant increase in the emissions of pollutants into
+air, water or land, as compared with the situation before the activity started; or
+(f) the protection and restoration of biodiversity and ecosystems, where that activity is:
+(i) significantly detrimental to the good condition and resilience of ecosystems; or
+(ii) detrimental to the conservation status of habitats and species, including those of Union interest.
+2. When assessing an economic activity against the criteria set out in paragraph 1, both the environmental impact of the
+activity itself and the environmental impact of the products and services provided by that activity throughout their life cycle
+shall be taken into account, in particular by considering the production, use and end of life of those products and services.
+Article 18
+Minimum safeguards
+1. The minimum safeguards referred to in point (c) of Article 3 shall be procedures implemented by an undertaking that
+is carrying out an economic activity to ensure the alignment with the OECD Guidelines for Multinational Enterprises and
+the UN Guiding Principles on Business and Human Rights, including the principles and rights set out in the eight
+fundamental conventions identified in the Declaration of the International Labour Organisation on Fundamental Principles
+and Rights at Work and the International Bill of Human Rights.
+2. When implementing the procedures referred to in paragraph 1 of this Article, undertakings shall adhere to the
+principle of ‘do no significant harm’ referred to in point (17) of Article 2 of Regulation (EU) 2019/2088.
+22.6.2020 EN Official Journal of the European Union L 198/35
+Article 19
+Requirements for technical screening criteria
+1. The technical screening criteria established pursuant to Articles 10(3), 11(3), 12(2), 13(2), 14(2) and 15(2) shall:
+(a) identify the most relevant potential contributions to the given environmental objective while respecting the principle of
+technological neutrality, considering both the short- and long-term impact of a given economic activity;
+(b) specify the minimum requirements that need to be met to avoid significant harm to any of the relevant environmental
+objectives, considering both the short- and long-term impact of a given economic activity;
+(c) be quantitative and contain thresholds to the extent possible, and otherwise be qualitative;
+(d) where appropriate, build upon Union labelling and certification schemes, Union methodologies for assessing
+environmental footprint, and Union statistical classification systems, and take into account any relevant existing Union
+legislation;
+(e) where feasible, use sustainability indicators as referred to in Article 4(6) of Regulation (EU) 2019/2088;
+(f) be based on conclusive scientific evidence and the precautionary principle enshrined in Article 191 TFEU;
+(g) take into account the life cycle, including evidence from existing life-cycle assessments, by considering both the
+environmental impact of the economic activity itself and the environmental impact of the products and services
+provided by that economic activity, in particular by considering the production, use and end of life of those products
+and services;
+(h) take into account the nature and the scale of the economic activity, including:
+(i) whether it is an enabling activity as referred to in Article 16; or
+(ii) whether it is a transitional activity as referred to in Article 10(2);
+(i) take into account the potential market impact of the transition to a more sustainable economy, including the risk of
+certain assets becoming stranded as a result of such transition, as well as the risk of creating inconsistent incentives for
+investing sustainably;
+(j) cover all relevant economic activities within a specific sector and ensure that those activities are treated equally if they
+contribute equally towards the environmental objectives set out in Article 9 of this Regulation, to avoid distorting
+competition in the market; and
+(k) be easy to use and be set in a manner that facilitates the verification of their compliance.
+Where the economic activity belongs to one of the categories referred to in point (h), the technical screening criteria
+shall clearly indicate that fact.
+2. The technical screening criteria referred to in paragraph 1 shall also include criteria for activities related to the clean
+energy transition consistent with a pathway to limit the temperature increase to 1,5 0
+C above pre-industrial levels, in
+particular energy efficiency and renewable energy, to the extent that those activities substantially contribute to any of the
+environmental objectives.
+3. The technical screening criteria referred to in paragraph 1 shall ensure that power generation activities that use solid
+fossil fuels do not qualify as environmentally sustainable economic activities.
+4. The technical screening criteria referred to in paragraph 1 shall also include criteria for activities related to the switch
+to clean or climate-neutral mobility, including through modal shift, efficiency measures and alternative fuels, to the extent
+that those are substantially contributing to any of the environmental objectives.
+L 198/36 EN Official Journal of the European Union 22.6.2020
+5. The Commission shall regularly review the technical screening criteria referred to in paragraph 1 and, where
+appropriate, amend the delegated acts adopted in accordance with this Regulation in line with scientific and technological
+developments.
+In that context, before amending or replacing a delegated act, the Commission shall assess the implementation of those
+criteria taking into account the outcome of their application by financial market participants and their impact on capital
+markets, including on the channelling of investment into environmentally sustainable economic activities.
+To ensure that economic activities as referred to in Article 10(2) remain on a credible transition pathway consistent with a
+climate-neutral economy, the Commission shall review the technical screening criteria for those activities at least every
+three years and, where appropriate, amend the delegated act referred to in Article 10(3) in line with scientific and
+technological developments.
+Article 20
+Platform on Sustainable Finance
+1. The Commission shall establish a Platform on Sustainable Finance (the ‘Platform’). It shall be composed in a balanced
+manner of the following groups:
+(a) representatives of:
+(i) the European Environment Agency;
+(ii) the ESAs;
+(iii) the European Investment Bank and the European Investment Fund; and
+(iv) the European Union Agency for Fundamental Rights;
+(b) experts representing relevant private stakeholders, including financial and non-financial market participants and
+business sectors, representing relevant industries, and persons with accounting and reporting expertise;
+(c) experts representing civil society, including persons with expertise in the field of environmental, social, labour and
+governance issues;
+(d) experts appointed in a personal capacity, who have proven knowledge and experience in the areas covered by this
+Regulation;
+(e) experts representing academia, including universities, research institutes and other scientific organisations, including
+persons with global expertise.
+2. The Platform shall:
+(a) advise the Commission on the technical screening criteria referred to in Article 19, as well as on the possible need to
+update those criteria;
+(b) analyse the impact of the technical screening criteria in terms of potential costs and benefits of their application;
+(c) assist the Commission in analysing requests from stakeholders to develop or revise technical screening criteria for a
+given economic activity;
+(d) advise the Commission, where appropriate, on the possible role of sustainability accounting and reporting standards in
+supporting the application of the technical screening criteria;
+(e) monitor and regularly report to the Commission on trends at Union and Member State level regarding capital flows
+into sustainable investment;
+(f) advise the Commission on the possible need to develop further measures to improve data availability and quality;
+(g) advise the Commission on the usability of the technical screening criteria, taking into account the need to avoid undue
+administrative burdens;
+22.6.2020 EN Official Journal of the European Union L 198/37
+(h) advise the Commission on the possible need to amend this Regulation;
+(i) advise the Commission on the evaluation and development of sustainable finance policies, including with regard to
+policy coherence issues;
+(j) advise the Commission on addressing other sustainability objectives, including social objectives;
+(k) advise the Commission on the application of Article 18 and the possible need to supplement the requirements thereof.
+3. The Platform shall take into account the views of a wide range of stakeholders.
+4. The Platform shall be chaired by the Commission and constituted in accordance with the horizontal rules on the
+creation and operation of Commission expert groups. In that context the Commission may invite experts with specific
+expertise on an ad hoc basis.
+5. The Platform shall carry out its tasks in accordance with the principle of transparency. The Commission shall publish
+the minutes of the meetings of the Platform and other relevant documents on the Commission website.
+6. Where financial market participants consider that an economic activity which does not comply with the technical
+screening criteria established pursuant to this Regulation, or for which such technical screening criteria have not yet been
+established, should qualify as environmentally sustainable, they may inform the Platform thereof.
+Article 21
+Competent authorities
+1. Member States shall ensure that the competent authorities referred to in Article 14(1) of Regulation (EU) 2019/2088
+monitor the compliance of financial market participants with the requirements laid down in Articles 5, 6 and 7 of this
+Regulation. Member States shall ensure that their competent authorities have all the necessary supervisory and
+investigatory powers for the exercise of their functions under this Regulation.
+2. For the purposes of this Regulation, the competent authorities shall cooperate with each other and shall provide each
+other, without undue delay, with such information as is relevant for the purposes of carrying out their duties under this
+Regulation.
+Article 22
+Measures and penalties
+Member States shall lay down the rules on measures and penalties applicable to infringements of Articles 5, 6 and 7. The
+measures and penalties provided for shall be effective, proportionate and dissuasive.
+Article 23
+Exercise of the delegation
+1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+2. The power to adopt delegated acts referred to in Articles 8(4), 10(3), 11(3), 12(2), 13(2), 14(2) and 15(2) shall be
+conferred on the Commission for an indeterminate period from 12 July 2020.
+3. The delegations of powers referred to in Articles 8(4), 10(3), 11(3), 12(2), 13(2), 14(2) and 15(2) may be revoked at
+any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the
+power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of
+the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+L 198/38 EN Official Journal of the European Union 22.6.2020
+4. The Commission shall gather all necessary expertise, prior to the adoption and during the development of delegated
+acts, including through the consultation of the experts of the Member State Expert Group on Sustainable Finance referred
+to in Article 24. Before adopting a delegated act, the Commission shall act in accordance with the principles and
+procedures laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+5. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to
+the Council.
+6. A delegated act adopted pursuant to Article 8(4), 10(3), 11(3), 12(2), 13(2), 14(2) or 15(2) shall enter into force only
+if no objection has been expressed either by the European Parliament or by the Council within a period of four months of
+notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European
+Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by
+two months at the initiative of the European Parliament or of the Council.
+Article 24
+Member State Expert Group on Sustainable Finance
+1. A Member State Expert Group on Sustainable Finance (the ‘Member State Expert Group’) shall advise the Commission
+on the appropriateness of the technical screening criteria and the approach taken by the Platform regarding the
+development of those criteria in accordance with Article 19.
+2. The Commission shall inform the Member States through meetings of the Member State Expert Group to facilitate an
+exchange of views between the Member States and the Commission on a timely basis, in particular as regards the main
+output of the Platform, such as new technical screening criteria or material updates thereof, or draft reports.
+CHAPTER III
+FINAL PROVISIONS
+Article 25
+Amendments to Regulation (EU) 2019/2088
+Regulation (EU) 2019/2088 is amended as follows:
+(1) the following Article is inserted:
+‘Article 2a
+Principle of do no significant harm
+1. The European Supervisory Authorities established by Regulations (EU) No 1093/2010, (EU) No 1094/2010 and
+(EU) No 1095/2010 of the European Parliament and of the Council (collectively, the ‘ESAs’) shall, through the Joint
+Committee, develop draft regulatory technical standards to specify the details of the content and presentation of the
+information in relation to the principle of ‘do no significant harm’ referred to in point (17) of Article 2 of this
+Regulation consistent with the content, methodologies, and presentation in respect of the sustainability indicators in
+relation to the adverse impacts referred to in paragraphs 6 and 7 of Article 4 of this Regulation.
+2. The ESAs shall submit the draft regulatory technical standards referred to in paragraph 1 to the Commission by
+30 December 2020.
+3. Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical
+standards referred to in paragraph 1 of this Article in accordance with Articles 10 to 14 of Regulations (EU)
+No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010.’;
+22.6.2020 EN Official Journal of the European Union L 198/39
+(2) Article 8 is amended as follows:
+(a) the following paragraph is inserted:
+‘2a. Where financial market participants make available a financial product as referred to in Article 6 of
+Regulation (EU) 2020/852 of the European Parliament and of the Council (*), they shall include in the information
+to be disclosed pursuant to Article 6(1) and (3) of this Regulation the information required under Article 6 of
+Regulation (EU) 2020/852.
+_____________
+(*) Regulation (EU) 2020/852 of the European Parliament and of the Council of 18 June 2020 on the
+establishment of a framework to facilitate sustainable investment, and amending Regulation (EU) 2019/2088
+(OJ L 198, 22.6.2020, p. 13).’;
+(b) in paragraph 3, the first subparagraph is replaced by the following:
+‘3. The ESAs shall, through the Joint Committee, develop draft regulatory technical standards to specify the
+details of the content and presentation of the information to be disclosed pursuant to paragraphs 1 and 2 of this
+Article.’;
+(c) the following paragraph is added:
+‘4. The ESAs shall, through the Joint Committee, develop draft regulatory technical standards to specify the
+details of the content and presentation of the information referred to in paragraph 2a of this Article.
+When developing the draft regulatory technical standards referred to in the first subparagraph of this paragraph,
+the ESAs shall take into account the various types of financial products, their characteristics and the differences
+between them, as well as the objective that disclosures are to be accurate, fair, clear, not misleading, simple and
+concise and, where necessary to achieve that objective, shall develop draft amendments to the regulatory technical
+standards referred to in paragraph 3 of this Article. The draft regulatory technical standards shall take into account
+the respective dates of application set out in points (a) and (b) of Article 27(2) of Regulation (EU) 2020/852 in
+respect of the environmental objectives set out in Article 9 of that Regulation.
+The ESAs shall submit the draft regulatory technical standards referred to in the first subparagraph to the
+Commission:
+(a) in respect of the environmental objectives referred to in points (a) and (b) of Article 9 of Regulation (EU)
+2020/852, by 1 June 2021; and
+(b) in respect of the environmental objectives referred to in points (c) to (f) of Article 9 of Regulation (EU)
+2020/852, by 1 June 2022.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical
+standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of
+Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010.’;
+(3) Article 9 is amended as follows:
+(a) the following paragraph is inserted:
+‘4a. Financial market participants shall include in the information to be disclosed pursuant to Article 6(1)
+and (3) of this Regulation the information required under Article 5 of Regulation (EU) 2020/852.’;
+(b) in paragraph 5, the first subparagraph is replaced by the following:
+‘5. The ESAs shall, through the Joint Committee, develop draft regulatory technical standards to specify the
+details of the content and presentation of the information to be disclosed pursuant to paragraphs 1 to 4 of this
+Article.’;
+(c) the following paragraph is added:
+‘6. The ESAs shall, through the Joint Committee, develop draft regulatory technical standards to specify the
+details of the content and presentation of the information referred to in paragraph 4a of this Article.
+L 198/40 EN Official Journal of the European Union 22.6.2020
+When developing the draft regulatory technical standards referred to in the first subparagraph of this paragraph,
+the ESAs shall take into account the various types of financial products, their objectives as referred to in paragraph
+4a of this Article and the differences between them as well as the objective that disclosures are to be accurate, fair,
+clear, not misleading, simple and concise and, where necessary to achieve that objective, shall develop draft
+amendments to the regulatory technical standards referred to in paragraph 5 of this Article. The draft regulatory
+technical standards shall take into account the respective dates of application set out in points (a) and (b) of
+Article 27(2) of Regulation (EU) 2020/852 in respect of the environmental objectives set out in Article 9 of that
+Regulation.
+The ESAs shall submit the draft regulatory technical standards referred to in the first subparagraph to the
+Commission:
+(a) in respect of the environmental objectives referred to in points (a) and (b) of Article 9 of Regulation (EU)
+2020/852, by 1 June 2021; and
+(b) in respect of the environmental objectives referred to in points (c) to (f) of Article 9 of Regulation (EU)
+2020/852, by 1 June 2022.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical
+standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of
+Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010.’;
+(4) Article 11 is amended as follows:
+(a) in paragraph 1, the following points are added:
+‘(c) for a financial product subject to Article 5 of Regulation (EU) 2020/852, the information required under that
+Article;
+(d) for a financial product subject to Article 6 of Regulation (EU) 2020/852, the information required under that
+Article.’;
+(b) in paragraph 4, the first subparagraph is replaced by:
+‘4. The ESAs shall, through the Joint Committee, develop draft regulatory technical standards to specify the
+details of the content and presentation of the information referred to in points (a) and (b) of paragraph 1.’;
+(c) the following paragraph is added:
+‘5. The ESAs shall, through the Joint Committee, develop draft regulatory technical standards to specify the
+details of the content and presentation of the information referred to in points (c) and (d) of paragraph 1.
+When developing the draft regulatory technical standards referred to in the first subparagraph of this paragraph,
+the ESAs shall take into account the various types of financial products, their characteristics and objectives and the
+differences between them and, where necessary, shall develop draft amendments to the regulatory technical
+standards referred to in paragraph 4 of this Article. The draft regulatory technical standards shall take into account
+the respective dates of application set out in points (a) and (b) of Article 27(2) of Regulation (EU) 2020/852 in
+respect of the environmental objectives set out in Article 9 of that Regulation. The ESAs shall update the
+regulatory technical standards in the light of regulatory and technological developments.
+The ESAs shall submit the draft regulatory technical standards referred to in the first subparagraph to the
+Commission:
+(a) in respect of the environmental objectives referred to in points (a) and (b) of Article 9 of Regulation (EU)
+2020/852, by 1 June 2021; and
+(b) in respect of the environmental objectives referred to in points (c) to (f) of Article 9 of Regulation (EU)
+2020/852, by 1 June 2022.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical
+standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of
+Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010.’;
+22.6.2020 EN Official Journal of the European Union L 198/41
+(5) in Article 20, paragraph 3 is replaced by the following:
+‘3. By way of derogation from paragraph 2 of this Article:
+(a) Articles 4(6) and (7), 8(3), 9(5), 10(2), 11(4) and 13(2) shall apply from 29 December 2019;
+(b) Articles 2a, 8(4), 9(6) and 11(5) shall apply from 12 July 2020;
+(c) Articles 8(2a) and 9(4a) shall apply:
+(i) in respect of the environmental objectives referred to in points (a) and (b) of Article 9 of Regulation (EU)
+2020/852, from 1 January 2022; and
+(ii) in respect of the environmental objectives referred to in points (c) to (f) of Article 9 of Regulation (EU)
+2020/852, from 1 January 2023;
+(d) Article 11(1), (2) and (3) shall apply from 1 January 2022.’.
+Article 26
+Review
+1. By 13 July 2022, and subsequently every three years thereafter, the Commission shall publish a report on the
+application of this Regulation. That report shall evaluate the following:
+(a) the progress in implementing this Regulation with regard to the development of technical screening criteria for
+environmentally sustainable economic activities;
+(b) the possible need to revise and complement the criteria set out in Article 3 for an economic activity to qualify as
+environmentally sustainable;
+(c) the use of the definition of environmentally sustainable investment in Union law, and at Member State level, including
+the provisions required for setting up verification mechanisms of compliance with the criteria set out in this
+Regulation;
+(d) the effectiveness of the application of the technical screening criteria established pursuant to this Regulation in
+channelling private investments into environmentally sustainable economic activities and in particular as regards
+capital flows, including equity, into private enterprises and other legal entities, both through financial products
+covered by this Regulation and other financial products;
+(e) the access by financial market participants covered by this Regulation and by investors to reliable, timely and verifiable
+information and data regarding private enterprises and other legal entities, including investee companies within and
+outside the scope of this Regulation and, in both cases, as regards equity and debt capital, taking into account the
+associated administrative burden, as well as the procedures for the verification of the data that are necessary for the
+determination of the degree of alignment with the technical screening criteria and to ensure compliance with those
+procedures;
+(f) the application of Articles 21 and 22.
+2. By 31 December 2021, the Commission shall publish a report describing the provisions that would be required to
+extend the scope of this Regulation beyond environmentally sustainable economic activities and describing the provisions
+that would be required to cover:
+(a) economic activities that do not have a significant impact on environmental sustainability and economic activities that
+significantly harm environmental sustainability, as well as a review of the appropriateness of specific disclosure
+requirements related to transitional and enabling activities; and
+(b) other sustainability objectives, such as social objectives.
+3. By 13 July 2022, the Commission shall assess the effectiveness of the advisory procedures for the development of the
+technical screening criteria established under this Regulation.
+L 198/42 EN Official Journal of the European Union 22.6.2020
+Article 27
+Entry into force and application
+1. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the
+European Union.
+2. Articles 4, 5, 6 and 7 and Article 8(1), (2) and (3) shall apply:
+(a) in respect of the environmental objectives referred to in points (a) and (b) of Article 9 from 1 January 2022; and
+(b) in respect of the environmental objectives referred to in points (c) to (f) of Article 9 from 1 January 2023.
+3. Article 4 shall not apply to certificate-based tax incentive schemes that exist prior to the entry into force of this
+Regulation and that set out requirements for financial products that aim to finance sustainable projects.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 18 June 2020.
+For the European Parliament
+The President
+D. M. SASSOLI
+For the Council
+The President

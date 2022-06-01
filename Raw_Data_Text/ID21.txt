@@ -1,0 +1,2311 @@
+Finance your future. Made in Germany
+
+Communicating
+sustainability
+Seven recommendations for issuers.
+
+Contents.
+3		
+
+Introduction.
+
+4		
+
+Purpose of this guide.
+
+6		
+
+Rationale for corporate sustain­ability disclosure.
+
+7		
+
+Seven best practice recommendations.
+8		
+
+1. Picture the top-down approach.
+2. Consider stakeholder requirements.
+3. Provide material information.
+4. Focus on a “risk and return” approach
+
+11
+15
+18
+
+28
+
+ . Give preference to quantitative data
+5
+6. Refer to standards (international / national)
+7. Pay attention to presentational issues
+
+30
+
+Conclusion
+
+22
+26
+
+32
+Appendix 1:
+		
+	
+Rating / research agencies with a focus on sustainability
+35
+			
+
+Appendix 2:
+Sustainability (reporting) standards
+
+41
+			
+
+Appendix 3:
+Glossary
+
+Introduction
+
+Introduction
+The seven recommendations in this guide are designed to assist issuers of all
+sizes and sectors in integrating environmental, social and governance (ESG)
+information into effective capital market communication 1). There are no formal
+obligations associated with this guide. It is expressly not designed to constitute
+mandatory new procedures for capital market communication that apply to listed
+issuers on Deutsche Börse’s platforms. Instead, it should be seen as a useful
+tool in aligning the complex issue of sustainability with the concrete information
+requirements of investors /analysts by taking capacity constraints at corporate
+level into account.
+This guide describes the rationale for, and offers practical guidance for developing more comprehensive, investor-focused corporate reporting on a voluntary
+basis. The guide consolidates best practice in corporate sustainability disclosure
+as identified by national and international as well as mainstream and SRI
+investors. It will be regularly revised and updated by Deutsche Börse Group.
+This guide is a joint initiative of Deutsche Börse Group together with BVI (German
+Funds Association), Deutsches Aktieninstitut (German Equity Institute), DIRK
+(Association for Investor Relations in Germany) and DVFA (Society of Investment
+Professionals in Germany). The recommendation to prepare this guide was taken
+by the Issuer Markets Advisory Committee (IMAC) of Deutsche Börse Group.
+The IMAC is composed of issuers, investors, advisors and banks and advises
+Deutsche Börse in primary market-related issues.
+In its role as marketplace organiser, Deutsche Börse brings together issuers and
+investors on its platforms and strives to improve transparency and liquidity in
+capital markets. This initiative is designed to encourage and support issuers to
+incorporate sustainability information into their capital market communication.
+Deutsche Börse would like to thank all the organisations and individuals involved
+in the preparation of this guide for the in-depth dialogue, and in particular for the
+expertise and time they dedicated to this document. Specifically, this includes
+the contributions in the form of current market practices, examples and input to the
+seven recommendations provided by BVI, Deutsche Asset & Wealth Management,
+DIRK, DVFA, DZ BANK AG and SAP AG, as well as other well-known investors and
+experienced issuers of various sizes from a variety of sectors.
+
+1) C
+ apital market communication within this context has to be distinguished from information which has to be provided by listed companies pursuant to applicable reporting requirements and by mandatory disclosure obligations
+(such as ad hoc announcements).
+
+3
+
+4
+
+Purpose of this guide
+
+Purpose of this guide
+To provide practical, useful guidance
+This guide will help issuers address topics related to environmental, social and
+governance (ESG) issues in their capital market communication, as these aspects
+are among the factors influencing investment decisions today by institutional and
+retail investors. The guide consolidates the current practices of investors and
+issuers, and aims to provide guidance. It consists of useful recommendations as
+well as examples designed to enhance corporate communication and disclosure,
+reflecting the experiences and expertise of leading European investors in ensuring
+effective capital market communication.
+ESG information already available in the market has not yet been standardised.
+Issuers are assisted and guided in a structured way on how to approach the topic
+of sustainability when they incorporate it into their capital market communication.
+Reading this guide will also encourage issuers to focus and limit their ESG-related
+reporting to the content that is really material (“less is more”). This is because
+investors / analysts are not interested in too detailed or irrelevant information. The
+guide seeks to “navigate” the issuer through the complex process of identifying
+the content that is appropriate and relevant to their capital market communication.
+Nevertheless, despite the universal approach embodied by this guide, companies
+should bear in mind that the substance of their disclosures will depend on their
+industry or sector and on an individual analysis of the materiality of the information to their specific stakeholders. The recommendations are applicable across all
+capital markets. The best practice examples are a result of various discussions
+with involved investors. With its focus on capital market communication, this guide
+is specifically written with the investors’/ analysts’ perspective in mind.
+
+To facilitate voluntary reporting
+The guide is designed to support issuers in ensuring effective capital market
+communication – in this case as it affects corporate sustainability disclosure. It is
+not designed to constitute mandatory procedures for capital market communication that apply to listed issuers (no statement of compliance is required). However, it delivers sound reasons for voluntarily complementing financial disclosure
+to allow for a more holistic and thus robust assessment of corporate performance
+by institutional and retail investors in the equity and bond markets. The overall
+objectives are to increase confidence and trust in the company and to deliver additional arguments for an investment in the company.
+
+Purpose of this guide
+
+To complement existing standards
+The guide is also not intended to replace existing standards (codes, guidelines
+etc.) for managing or reporting sustainability performance. Rather, it should
+be treated as guidance that summarises demand-side requirements from investors / analysts, helps companies to use and benefit from existing national and
+­international standards and identifies suitable, company-specific ways of inte­
+grating relevant sustainability aspects into their reporting.
+
+To consider resources constraints at corporate level
+Small and medium-sized businesses in particular have limited capacity for investing in corporate reporting. As one of its major guiding principles, the guide therefore focuses on a cost-effective implementation approach that adds value. By
+consolidating internationally accepted reporting practices with respect to communicating sustainability to investors, the guide helps to prioritise and to identify
+key reporting issues, as well as to present the information in a manner that meets
+the needs of investors / analysts.
+To help reduce research effort on the issuer side, the appendix lists sustainability
+rating and research agencies as well as reporting standards that are often cited in
+sustainability reporting.
+
+Elements of good capital market communication
+Good capital market communication is made up
+of different elements with ESG communication
+being just one of them. The most important thing
+is that it is effective and provides investors with
+information that is to the point, accurate and
+allows them to make well-founded investment
+decisions. This applies to all topics, not just
+sustainability.
+
+ESG communication
+
+5
+
+6
+
+Rationale for corporate sustainability disclosure
+
+Rationale for corporate
+sustainability disclosure
+For some years, investors, analysts and service providers – such as rating agencies
+and research organisations – have been seeking a more comprehensive view of
+listed companies. There are external factors that influence enterprise value that may
+not be covered adequately by standard financial reporting. A reporting perspective
+that goes beyond “mere” financial factors – including environmental, social and
+governance (ESG) considerations – enables stakeholders to make more informed
+assessments about the ability of a company to create and sustain value.
+
+Rationale for corporate sustainability disclosure
+Financials
+
+Environmental aspects
+Social aspects
+Governance aspects
+
+Evaluation of
+opportunities and risks
+
+Informed assessment
+of the ability of a
+company to create and
+sustain value
+
+Source: Deutsches Aktieninstitut e.V.
+
+Although they are sometimes termed “non-financial” or “extra-financial” factors,
+ESG indicators may in fact have very strong economic implications, depending
+on the quality of the way they are managed:
+1.	C ompanies that identify and manage opportunities associated with sustainability
+may be better equipped to succeed in highly competitive markets. Integrating
+sustainability aspects can thus result in better strategies and organisational
+strengths, which may in turn translate into improved investment returns.
+2.	Sustainability management and reporting enables companies to identify risks
+from an integrated perspective and to develop appropriate mitigation strategies.
+If two potential investments can be expected to generate the same return,
+factoring sustainability aspects into the investment analysis serves as an additional filter that enables better risk protection.
+3.	A more comprehensive, interdisciplinary and interdepartmental perspective on
+management and reporting promotes innovation. Equally, it enhances cooperation within companies and raises awareness for the interrelatedness of societal
+and business needs.
+4.	C orporate sustainability disclosure enables investors / analysts to define the
+risk / return profile of a potential investment target more accurately. In an
+investment portfolio, leveraging opportunities while incurring limited risk may
+lead to a risk-adjusted above-average return.
+
+7
+
+Seven best practice recommendations
+
+Seven best practice recommendations
+The following seven recommendations for corporate sustainability reporting are
+designed to support companies in developing a more holistic, integrated corporate
+reporting with the objective of effective capital market communication. They are
+divided into two sections: the first four recommendations deal with disclosure
+content (what to report), while the other three recommendations refer to reporting
+principles (how to report).
+
+Disclosure content
+
++
+1. Picture the topdown approach
+
++
+2. Consider stakeholder
+requirements
+
++
+3. Provide material
+information
+
++
+4. Focus on a “risk and
+return” approach
+
+Reporting principles
+
++
+
+5. Give
+preference to
+quantitative data
+
+
+
+6. Refer to standards
+(international / national)
+
+
+
+7. Pay attention to
+presentational issues
+
+ESG communication
+
+8
+
+Recommendation 1: Picture the top-down approach
+
+1. Picture the top-down approach
+It is the leadership of senior management – the proverbial “tone at the top” – that
+really drives sustainability in companies.
+
+The board should show sustainability leadership
+It is the board’s responsibility to define and control key topics and key performance
+indicators (KPIs) that reflect the company’s economic, environmental, social and
+governance impacts. This means that senior management needs to set the sustainability agenda and make sure that line organisations understand and embrace
+the goals that have been set and the targets that have been agreed. A proof point
+may be whether a board member is able to explain sustainability data and their
+business implications in a one-on-one situation.
+
+Concentrate on a handful of key indicators
+In their reporting, companies should concentrate on a small number of management accounting / financial control measures. These should be relevant to management, linked to the corporate strategy and illustrate the impact of ESG drivers
+on the company’s financial results. They should also be backed up by a clear
+description. Consideration and / or prioritisation of the KPIs by management will
+highlight the company’s unique selling points.
+
+Recommendation 1: Picture the top-down approach.
+
+Example 1: mutual benefits to company and society.
+The following example is taken from the annual report of a DAX ® chemical
+company that produces superabsorbents for use in diapers.
+
+Superabsorbents for diapers
+Value for our company
+
+Value for the environment
+
+Around 30% growth in volumes in 2010 for
+superabsorbents used in premium modern diapers
+
+Up to 14% less energy consumption over the
+entire life cycle of the diapers
+
+In recent years there has been a clear global trend
+toward ever thinner premium diapers for babies.
+We have helped shape this trend by collaborating
+closely with our customers to develop tailor-made
+superabsorbents for the manufacture of these
+diapers. This enabled us to increase sales volumes
+of our superabsorbents for premium diapers by
+around 30% in 2010.
+
+Throughout the entire life cycle of a new premium
+diaper, energy consumption is reduced by up
+to 14% compared with older models, depending
+on the size of the diaper. This is mainly due to
+the reduction of energy-intensive components.
+In addition, our products help to simplify the
+manufacturing process of diapers – thus saving
+even more energy.
+
+Explain the link between non-financial data and financial performance
+With the emergence of integrated reporting (the intelligent combination of financial
+and sustainability reporting), companies are assessing the link between non-financial data (incl. ESG) and financial performance. The more companies focus on a
+small number of compelling linkages between financials and non-financials, and
+seek to describe how ESG drives value, the more fit-for-purpose ESG aspects
+will be for investors.
+
+9
+
+10
+
+Recommendation 1: Picture the top-down approach
+
+Example 2: explanation of connectivity between financial and
+non-financial information
+The following example is taken from the website of a DAX ® software provider
+and shows the connections between its non-financial and financial performance.
+
+Customer success is measured using the Net Promoter Score, i.e. the percentage of customers that are likely to recommend the company to friends
+or colleagues minus the percentage of customers that are unlikely to do so.
+The example illustrates the connection between customer success and oper­
+ating margin. The company expects that positive experience among its
+customers can significantly increase business with existing customers, as
+well as help attract new ones. Both results can lower the cost of sales,
+thereby increasing its operating margin.
+
+Recommendation 2: Consider stakeholder requirements
+
+2. Consider stakeholder requirements
+CSR and sustainability reporting cater for the needs of many stakeholders with
+differing requirements and expectations in terms of topics, as well as the format
+and granularity of data. As a subset of the general sustainability audience,
+investors and financial analysts are economic stakeholders with distinct needs
+and expectations:
+Investors / analysts are primarily interested in those ESG factors that are material,
+i.e. which have a significant impact on the company’s value.
+n	
+Materiality is defined in terms of risks (e.g. penalties, lawsuits, reputation) and
+opportunities (products, markets, geographies).
+n	
+The format and granularity of data need to take into account the specific use of
+information by investors. It should be similar in format, quality and presentation
+to financial data: a small number of material KPIs; if possible, quantified – and
+ideally monetised – in tabular format rather than in prose style.
+n 
+
+Analyse stakeholder interests
+An analysis of relevant stakeholders’ concerns and interests helps to explore stakeholder expectations and adapt to subsequent changes. Maintaining a dialogue
+and engagement with important stakeholders is critical for tracking those (changing) expectations. It enables a company to react in good time and to adapt its
+corporate strategy to the needs of society and changing values. Stakeholder
+dialogue also offers guidance for identifying the content of sustainability reporting. Investors’ needs regarding the type and content of information, including the
+way such information is disclosed, should be decisive; other stakeholders such
+as clients, regulators and representatives of civil society should also be taken into
+account, based on their relevant importance. Investors / analysts are interested
+in sustainability information in relation to the company’s financial reporting;
+sustainability information is useful for an investor only if it fits into other strategic
+information relevant for an investment decision, such as an assessment of risks
+and opportunities.
+
+11
+
+12
+
+Recommendation 2: Consider stakeholder requirements
+
+Example 3: stakeholder survey to involve investors in how KPIs are
+determined
+A large southern European energy provider has been asking international
+institutional investors and SRI rating agencies to participate in an online
+survey. The aim is to determine the ESG KPIs in a future integrated report.
+The survey is divided into four sections with only few questions in each of
+them relating to the following issues:
+A. Environmental
+Plants Load Factor / Environmental Compatibility / GHG Emissions /
+Recycling & General Waste / Water Consumption
+B. Social
+Employment / Diversity / Training / Health and Safety / Supplier Agree­ments / Impacts on Communities / Initiatives in Favour of Communities /
+Value Added by Stakeholder
+C. Governance
+Corporate Governance / Code of Ethics / Anti-competitive Behaviour /
+Non-compliance
+D. ESG Information in Corporate Website
+Four questions relating to the choice and placing of ESG indicators on
+the company’s website
+
+Make ESG information part of your capital market story
+Disclosure content should not just be available on demand. Integrating ESG data
+into general information can only add value for stakeholders if they are aware
+that this information exists. Hence, sustainability information should be an integral part of general corporate information communicated via established corporate
+communication channels. This should also include investor relations: investor
+relations officers should be aware of economic, environmental and social value
+drivers. In the future, investor relations will increasingly have the opportunity
+(but will also be faced with the task) of explaining a company’s capital market
+story using arguments from the field of ESG. This requires a reliable database,
+measurable goals and comparable figures.
+
+Recommendation 2: Consider stakeholder requirements
+
+Example 4: IR press release on an ESG topic
+The example shown below is an excerpt from a press release issued by the
+investor relations team of a DAX ® chemical company explaining the company’s
+ESG performance in the previous year. The company’s name has been
+­anonymised and substituted by “our company”:
+“Positive results in goals for environment, health and safety
+In 2012, our company reduced its greenhouse gas emissions by 31.7% per
+metric ton of sales product and increased its energy efficiency by 19.3%
+compared with baseline 2002. The number of work-related accidents dropped
+in the same period by 48%. The progress in environment, health and safety
+are documented in our annual report. […]”
+
+Serve information sources of stakeholders
+Information on a company’s sustainability profile should also be made available
+through public sources: Research and rating agencies use data to evaluate sustainability profiles. In particular, institutional investors buy sustainability data for
+their own evaluation tools. Thus, the more accurate and up-to-date the company
+profile is, the better investors / analysts will be informed about that company’s
+sustainability performance. Companies should therefore be familiar with the primary
+sources used by capital market relevant stakeholders to obtain sustainability information for their investment decisions. Companies should prioritise the sources and
+provide them with timely and accurate news about their sustainability performance.
+
+13
+
+14
+
+Recommendation 2: Consider stakeholder requirements
+
+Example 5: analysis of shareholder concerns at annual meetings
+Each year, the German Investment Fund Association publishes principles gov­
+erning the analysis of shareholder meetings (the German abbreviation is ALHV).
+The ALHV provide guidance on good corporate governance for the analysis
+of shareholder meetings. Hence, it serves as basis for investment companies
+to represent the investors’ interests at the annual shareholder meeting.
+­C ompanies may use the ALHV for the analysis of investors’ interests and
+amend their disclosures in addressing those interests.
+
+See list of rating agencies / research providers in Appendix 1.
+
+Recommendation 3: Provide material information
+
+3. Provide material information
+The materiality of the content is a key factor in reporting sustainability information.
+If the principle of materiality is ignored, there is a risk of reporting too much
+information on the one hand, or irrelevant information on the other. Both of these
+make it difficult for investors to draw conclusions from the reported data. This
+recommendation helps to define and recognise materiality 2).
+
+Define materiality for your company
+Material information in business reporting is defined as matters that may influence the assessment of the company’s ability to create and sustain value or
+that already do so. In financial reporting, information is considered material if
+its omission or misstatement could influence decisions by the users of financial
+statements. In sustainability reporting, this scope is extended to environmental,
+social, political, legal and commercial topics and indicators.
+The scope, weighting and granularity of reported topics may vary due to a company’s unique characteristics (e.g. its business model or operating environment),
+industry-specific trends, as well as the level of a company’s sustainability performance.
+
+Example 6: determining materiality
+The following example is fictitious to demonstrate the consistent application of
+the materiality principle.
+An oil and gas company would ignore the principle of materiality if its sustainability reporting was only about the diversity of its employees and its social
+investment, while omitting data and information about its environmental impact
+or health and safety issues. On the other hand, a software company, for
+example, needs to focus on the resource that is most important for its knowledge-based “production process”: its employees and its intellectual capital.
+
+2) German listed companies have to include non-financial performance indicators in the management report in case
+these are material for understanding of the course of business or the state of the company (sections 289 and 315
+of the Handelsgesetzbuch – German Commercial Code).
+
+15
+
+16
+
+Recommendation 3: Provide material information
+
+To identify material information in the wide range of topics and indicators available
+for ESG reporting, companies should consider the following criteria, among others:
+	What are the key value drivers of our business process?
+	What are the material issues for relevant stakeholders?
+n	
+What are the most important internal and external factors identified as having
+an impact on the company’s value creation – in both the short and the long term?
+Internal factors may include the company’s ability to respond to changing conditions; external ones may be political, market-related, environmental, social,
+technological, or legal.
+n
+n
+
+Once material topics have been identified, the task is then to prioritise them by
+the magnitude of their effect on the company and the likelihood of their occurrence,
+and to present them accordingly in the report. Information that is not material
+should therefore be omitted.
+
+Example 7: materiality matrix
+This “materiality matrix” of a DAX ® chemical and pharmaceutical company
+explains the relative importance of issues to external stakeholders and the
+company
+itself. It is the result of extensive surveys and discussions.
+
+To emphasise the interdependence of financial and non-financial information, a
+set of key performance indicators should be provided in a single document. It is
+important to demonstrate the linkages between a company’s corporate strategy,
+its governance model and its social, environmental and financial performance.
+In short, sustainability information should be an integral element of a company’s
+reporting, rather than a set of data and targets published / communicated separately from / not linked to the company’s core business.
+
+17
+
+18
+
+Recommendation 4: Focus on a “risk and return” approach
+
+4. Focus on a “risk and return” approach
+Company analysis by the investment community considers and relies not just on
+key financial data and economic merits, but also on the quality of ESG-related
+content. Companies should provide reliable information on material components
+of value creation (financial and non-financial), critical interdependencies between
+them and how those factors are integrated into the strategy, governance and
+operations of a company. Taking responsibility seriously requires understanding
+the risks and opportunities created by environmental, social and corporate
+governance issues.
+
+Communicate effective risk management and mitigation
+By paying attention to material issues for different stakeholders, companies are
+better equipped to foresee upcoming risks and to manage them when they occur.
+Managing risk – whether environmental, social, or operational – should be an integral element of business operations as a normal part of business and risk culture. Systems and policies should therefore be in place throughout all operations.
+Responsible business practices can enhance performance and reduce the cost of
+external funding. Vice versa, a negative ESG-related event could mean not just a
+sustained period of underperformance and higher costs of external funding, but
+may entail reputational damage, require changes in senior management and lead
+to increased regulatory activity – or even takeover.
+A company is acting responsibly when it is ready to measure and manage its impact on society and the environment. In addition, there are several links between
+good governance and a positive value performance: greater transparency enhances investors’ confidence and positively influences valuations. A responsible
+and results-based culture embraced by the top management as well as tighter
+supervision by the Board can help avoid a number of unfavourable strategic decisions such as overly expensive acquisitions, poor diversification, management
+short-termism etc.
+
+Recommendation 4: Focus on a “risk and return” approach
+
+Example 8: including ESG risks in general risk management
+The following example is excerpted from the report of a German MDAX
+construction company (the company name has been anonymised and
+substituted by “our company”):
+“Our company’s global business naturally involves risks. But only undetected
+and hence unmanaged risks pose a real potential threat. Risks include all
+developments that can negatively impact the attainment of qualitative and
+quantitative business goals, including sustainability targets. Our risk management system reduces this potential to a minimum through proactive risk control and therefore plays a major part in securing the company’s future and
+successful onward development as well as in enhancing our earning power.
+Risk management at our company encompasses all organizational processes
+and instruments designed to detect risks at an early stage as well as to develop
+and implement suitable countermeasures in time. Sustainability and risk
+management are therefore comparable, complementary concepts: We apply
+structured processes and deploy defined control tools and processes to
+prevent future threats to the company. […]”
+
+Communicate sustainability-related business opportunities
+Companies face a wide range of challenging business trends, e.g. scarcity of
+­natural resources, new regulations, impacts of innovation and new technologies
+etc. These require new solutions and hence innovative products and services
+that meet societal challenges and may therefore lay the basis for future growth.
+These sustainability-related innovations may represent unique selling propositions
+and should be communicated accordingly. Among other things, properly man­
+aging environmental, social and corporate governance issues strengthens a company’s industry positioning and return on capital. Sustainability practices are
+thus becoming crucial in order to stay competitive in the future.
+
+19
+
+20
+
+Recommendation 4: Focus on a “risk and return” approach
+
+Example 9: investing in research and development to anticipate and meet
+clients’ future needs
+The following example is excerpted from the website of a French environmental services company (the company name has been anonymised and
+substituted by “our company”):
+“Research is one of the mainstays of our company’s strategy. It enables the
+Group and its business units to offer innovative products and services to
+meet market expectations and to anticipate our clients’ future needs. In order
+to meet the main challenges of sustainable development, the Group relies,
+amongst others, on the work of its experts and researchers in the different
+research and development centres (R&D). In 2012 the Group filed 29 new
+patents and around 40 new trademarks. […]
+When R&D meets current and future challenges
+Besides the major risks related to health and the environment, the Group’s
+work in research aims at resolving issues related to sustainable development
+and at accompanying our clients in order to:
+	Fight against climate change, the Group intends to reduce greenhouse gas
+emissions, optimise energy resources and to develop renewable energy.
+n 
+Limit the impact of Group activities, on resources and biodiversity.
+n 
+Manage environmental impacts, the Group masters the techniques enabling
+the dispersion of odours to be measured and has the means to treat this.
+n 
+Protect and guarantee the safety of water, distributed to consumers by
+working side by side with health authorities.
+n	
+Optimise water resources, thanks to information technology (Smart Water)
+which represents one of the pathways to productivity and to major innovation for the Group’s businesses.”
+n
+
+Recommendation 4: Focus on a “risk and return” approach
+
+Highlight measures to reduce risks and leverage opportunities
+Responsible business practices not only facilitate risk reduction but also contribute
+positively to operational and share price performance. Actions undertaken to
+improve the performance of the company are therefore critical for assessing the
+potential increase in the returns of the company in the short, medium and long
+term. Examples of such measures include accommodating customer needs, increasing innovation in products, attracting and retaining skilled labour, increasing
+productivity, reducing negative impacts on the environment, securing limited key
+natural resources, having globally accepted ethical labour conditions along the
+value chain etc. Furthermore, policies, training programmes and activities directed
+at reducing risks – including an anti-corruption policy, whistle-blower programmes,
+good employee relations, monitoring the value chain for key environmental and
+social issues etc. – may lead to lower costs of debt and to higher credit ratings.
+All in all, higher performance, better returns, lower risks and lower cost of capital
+should lead to a higher company valuation and a better risk / return profile.
+Providers of capital assess the attractiveness of an investment based on the
+quality of management, which is by and large reflected in the quality of the
+company’s corporate disclosures. Hence, it is ultimately the responsibility of the
+company itself to highlight the financial value of its sustainability strategy. The
+better the quality of the information, the more easily it can be appreciated by
+the market, which in turn implies a more favourable risk-adjusted return on the
+company’s shares.
+
+21
+
+22
+
+Recommendation 5: Give preference to quantitative data
+
+5. Give preference to quantitative data
+All content should be presented in a way that meets investors’/ analysts’ requirements. Its structure must be clear and the organisation of the report must be
+comprehensive, e.g. by providing information in form of an executive summary,
+with key messages listed in a table or in bullet points.
+
+Complement KPIs with relevant context information
+Quantitative data is better than qualitative data because it can be compared with
+similar data from other organisations. If at all possible, sustainability-related data
+should be presented in the same format as traditional financial information. Issuers
+should therefore try to “simplify” reality in an effort to provide hard, objective,
+numerical data, bearing in mind that the language of the financial markets should
+be applied when discussing sustainability as an investment topic.
+Investors / analysts with a focus on sustainability appreciate well-arranged charts
+or tables indicating the company’s ESG performance. This should – if necessary –
+be accompanied by a narrative description of why certain KPIs increased or decreased, whether this is a good thing or a bad thing, and an indication of the expected future performance 3). Keep this narrative as short and simple as possible.
+Sometimes, working with qualitative information is unavoidable. However, if a
+qualitative narrative is used, it should always be supplemented by quantitative
+data, benchmarks and targets.
+
+Be as specific as possible
+The metrics that are regarded as being the most useful in corporate sustainability
+disclosures are those that quantify financial impact, measure business opportunities
+and risks, and are transparent about the calculation methodology. If a company
+is facing other issues that are more difficult to quantify, information on mitigation
+activities or actions designed to exploit new opportunities would also be an alternative way of improving disclosure.
+
+3) A
+ s with any forward-looking statement, issuers should thoroughly evaluate whether the inclusion of a disclaimer
+is necessary.
+
+Recommendation 5: Give preference to quantitative data
+
+Example 10: quantification of results
+The following example is excerpted from the sustainability report 2012 of a
+large US consumer goods company:
+“We have also made very strong progress over the past five years in improving
+the environmental profile of our operations. Our efforts have delivered absolute reductions in each one of our four footprints: 68 percent reduction in
+waste disposed, 14 percent reduction in water usage, 7 percent reduction in
+energy usage, and 5 percent reduction in direct CO 2 emissions. We have
+also achieved significant reductions on a production-adjusted basis (i.e., reduction per unit of production) in each of our footprints: 71 percent in waste,
+22 percent in water, 16 percent in energy, and 14 percent in direct CO 2
+emissions. Over the ten-year period of 2002–2012, we halved our environmental footprint on a production-adjusted basis, achieving a 74 percent
+reduction in waste, 58 percent in water, 52 percent in energy, and 54 percent in direct CO 2 emissions (Scope 1). All these operations results have
+led to nearly $1 billion in cost savings, representing an important contribution to our bottom line.”
+
+Provide monetary information on ESG performance, if possible
+Some sustainability initiatives represent a long-term investment on the part of a
+company and it may be difficult to measure their effects immediately in monetary
+terms. However, there is always a business case for sustainability. It can be explored by linking the ESG perspective to the financial (fundamental) perspective
+and vice versa. Whenever possible, explain how ESG performance and financial
+performance influence each other.
+
+23
+
+24
+
+Recommendation 5: Give preference to quantitative data
+
+Example 11: communicating the value of a green product range
+A DAX ® engineering company has the following to say about the financial
+value of its products with special environmental benefits:
+“Our Environmental Portfolio, which bundles products and solutions that
+contribute to environmental and climate protection, has captured an outstanding position on the technology market worldwide and is one of our
+strategic growth drivers. In fiscal 2012, the Portfolio generated revenue of
+€33.2 billion and made a substantial contribution to climate protection.
+At the same time, our ecofriendly products and solutions enabled customers
+worldwide to slash their CO 2 emissions by 332 million tons – an amount
+equal to some 41% of the CO 2 emissions generated in Germany in 2010.”
+
+Define specific measurable ESG targets
+In their annual reporting, companies should define measurable targets using both
+absolute data (e.g. total tons of CO 2 per year) as well as ratios (e.g. kilograms
+of CO 2 per passenger kilometre) for their material topics. Also targets link the ESG
+perspective with the economic dimension of sustainability (e.g. sustainabilityrelated products as a percentage of total sales). In general, sustainability targets
+should show a clear link to the optimisation of stakeholder value, while at the same
+time being consistent with the company’s long-term strategy. Ideally, appropriate
+sustainability metrics should be linked to management reward systems to increase
+the credibility of the targets.
+In reality, targets cannot always be achieved. Reporting should reflect both
+positive and negative aspects of an organisation’s sustainability performance
+to enable a complete assessment of its overall performance.
+
+Provide an outlook and talk about challenges and opportunities 4)
+Investors are interested not only in past performance but also in the future outlook,
+especially as regards expected industry trends and corporate strategies for facing
+upcoming challenges. Forward-looking sustainability metrics play a crucial role in
+
+4) G
+ erman listed companies have to report on expected developments and associated opportunities and risks in the
+(group’s) management report (sections 289 and 315 of the Handelsgesetzbuch, German Commercial Code).
+
+Recommendation 5: Give preference to quantitative data
+
+reporting. Investors expect companies to disclose information on how they plan to
+sustain and create mid- to long-term value with regard to their corporate strategy.
+As part of this exercise, companies should try to assess the impact of their industry
+and of market trends on the future of their sustainability performance.
+
+Example 12: presenting a strategy to reduce CO 2 emissions
+The following example describes the strategy to reduce emissions and cut fuel
+consumption and is taken from the website of a DAX ® automotive supplier
+(the company name has been anonymised and substituted by “our company”):
+Environment
+Reaching the goal of Zero Emissions in view of a changing climate, fewer
+fossil fuels and increasing individual mobility has become a must in environmental thinking. Our company is committed to reducing motor vehicle CO 2
+emissions even further. Delivering innovative, sustainable products to its
+customers worldwide, our company focuses on four major strategic thrusts
+in its objective to significantly reduce vehicle fuel consumption and thus
+carbon dioxide (CO 2) emissions:
+Our company brings together four strategies to reduce emissions and
+cut fuel consumption
+n	
+Continuous optimization of fuel and energy consumption, for example by
+reducing engine size with the help of turbocharging and direct-injection
+technology
+n 
+Electrification of the drive train and other vehicle functions through the
+development of hybrid and electric components and electric power steering
+n	
+Ergonomic, pro-active driver assistance systems and the use of navigational
+information by the various control units
+n	
+Weight-saving design through optimized manufacturing processes and
+­selection of materials, as illustrated by the example of our brake calipers
+and electronic braking systems
+
+Companies should also disclose the risks they face in meeting their sustainability
+targets. This should include a definition of the risks and the way risks are mitigated
+and managed.
+
+25
+
+26
+
+Recommendation 6: Refer to standards (international / national)
+
+6. Refer to standards (international /
+national)
+The seven recommendations in this guide are generally applicable to any existing
+standard as they substantiate the capital market perspective. Therefore, the
+guide describes how to use existing reporting standards / guidelines / frameworks
+more effectively.
+
+Build on widely acknowledged frameworks
+There is a variety of standards governing sustainability reporting available in the
+market and companies have to decide which one(s) match best to its company
+needs. As a consequence there currently is a certain lack of comparability. On the
+positive side, this means a lot of flexibility for companies. However, to facilitate
+assessment by investors, it is useful to build on internationally or nationally recognised standards to make reported KPIs comparable as far as possible.
+Using standards has one great advantage. They give companies initial guidance
+on which data should be published, based on a consensus that has been reached
+in years of discussions in international multi-stakeholder forums. Such a framework may serve as a helpful preparation / instruction to involve other departments /
+colleagues in developing a more holistic corporate reporting.
+
+Example 13: referring to a standard might also help to meet potential
+future legal requirements.
+The European Commission’s proposal of 16 April 2013 to publish a nonfinancial statement in the (group’s) annual report (in the strict sense
+the (group’s) management report) expressly sets out that publication of
+this statement – if based on an approved standard (comparable with the
+German Sustainability Code) – will be an acceptable substitute for the
+publication of a report if it contains all the information required by the EU.
+
+Recommendation 6: Refer to standards (international / national)
+
+Present material topics according to market usage
+Many investors and their service providers use their own assessment criteria and
+questionnaires. Hence, despite the existence of reporting standards, companies
+still have to formulate and publish their own KPIs that are relevant to their specific
+industry sector and corporate strategy. Even within standards, it is increasingly
+recognised that the materiality of information differs between industry sectors and
+that the disclosure of non-material information is – at least for investors / analysts –
+of no added value.
+A standard should therefore be seen as general guidance that should be thoroughly
+reviewed by a company to facilitate the identification and prioritisation of material
+topics as well as to decide on relevant KPIs and disclosure usage best reflecting
+its specific industry challenges and corporate strategy.
+Appendix 2 gives an overview of the most commonly used reporting standards
+and general sustainability frameworks.
+
+27
+
+28
+
+Recommendation 7: Pay attention to presentational issues
+
+7. Pay attention to presentational issues
+With regard to existing corporate reporting practice, a coherent (combined) presentation of financial and non-financial information instead of publishing a separate
+sustainability report seems to be an efficient solution as it offers the investor / analyst an extensive source of information.
+
+Forms of presentation
+After identifying the material sustainability aspects and the relevant indicators, as
+well as any contextual information that needs to be reported (e.g. benchmark data),
+the next question that arises is one of presentation. Investors and analysts who
+are focused on financial KPIs will prefer ESG data to be presented in a condensed
+format that is clearly arranged (table). Ideally, it should be provided simultaneously
+with the (standard) financial reporting highlighting the interdependencies 5).
+
+Example 14: tabular presentation of KPIs
+A DAX ® automotive company presents its key figures of the financial year in
+its sustainability report as follows:
+
+The key figures of financial year 2012
+
+Unit
+
+2012
+
+2011
+
+2010
+
+Corporate profile
+Revenue
+
+in millions of €
+
+114,297
+
+j
+
+106,540
+
+97,761
+
+Operating profit/EBIT
+
+in millions of €
+
+8,615
+
+l
+
+8,755
+
+7,274
+
+Result before taxes on income
+
+in millions of €
+
+7,718
+
+l
+
+8,449
+
+6,628
+
+Group net income
+
+in millions of €
+
+6,495
+
+j
+
+6,029
+
+Total vehicle sales
+
+in millions
+
+Unit sales
+Cars
+sales of
+of Mercedes-Benz
+cars
+Unit sales
+sales of
+of Daimler
+trucks Trucks
+sales of
+of Mercedes-Benz
+vans
+Unit sales
+Vans
+Unit sales
+sales of
+of Daimler
+buses Buses
+Contract volume
+volume of
+ofDaimler
+financialFinancial
+servicesServices
+
+in billions of €
+
+4,674
+
+2.2
+
+j
+
+2.1
+
+1.9
+
+1,451,569
+
+j
+
+1,381,416
+
+1,276,827
+
+461,954
+
+j
+
+425,756
+
+355,263
+
+252,418
+
+l
+
+264,193
+
+224,224
+
+32,088
+
+l
+
+39,741
+
+39,118
+
+80.0
+
+j
+
+71.7
+
+63.7
+
+Our employees
+275,087
+
+Number of employees (worldwide)
+
+j
+
+271,370
+
+260,100
+
+8,267
+
+l
+
+8,499
+
+8,841
+
+Average age of the workforce
+
+in years
+
+41.9
+
+R
+
+41.9
+
+41.9
+
+Personnel expenses (worldwide)
+
+in billions of €
+
+18.0
+
+j
+
+17.4
+
+16.5
+
+Average days of training and advanced development (per employee/year)
+
+in days
+
+4.0
+
+j
+
+3.8
+
+2.3
+
+Costs for training and advanced professional development
+
+in millions of €
+
+241.0
+
+j
+
+231.4
+
+201.6
+
+Sickness figures
+
+in percent
+
+5.4
+
+j
+
+5.3
+
+4.9
+
+Provisions for retirement benefits and healthcare
+
+in billions of €
+
+3.0
+
+l
+
+3.2
+
+4.3
+
+Research and development expenditure on environmental protection
+
+in millions of €
+
+2,369
+
+j
+
+2,159
+
+1,876
+
+CO2 emissions of the European fleet (vehicles from Mercedes-Benz Cars)
+
+in g CO2 /km
+
+140
+
+l
+
+150
+
+158
+
+Number of trainees (worldwide)
+
+5) U
+ nder
+theofname
+of Management
+Commentary many companies
+provide narrative reports,
+complement
+Proportion
+women (Daimler
+AG)
+in percent
+14.4 which
+13.9
+13.5the
+j
+Proportionstatements
+of women in Leveland
+4 management
+positions (Daimler
+AG)
+in percent
+13.8 j German
+12.9 listed
+12.4
+­financial
+allow company
+management
+to explain
+its objectives and strategies.
+compaWorkforce
+(worldwide)
+4.9 j
+4.2
+4.9
+nies
+have turnover
+to provide
+a mandatory management report (sectionsin percent
+289 and 315 of the Handelsgesetzbuch
+– German
+Proportion of part-time employees (Daimler AG)
+in percent
+7.1 j
+6.9
+6.4
+Commercial
+Code). DRS 20 transforms the general requirements
+into more detailed guidance
+on the
+management
+Accident frequency1
+number of cases
+16.3 j
+14.4
+15.0
+report content.
+
+Product responsibility
+
+Operations-related environmental protection (2012 figures are provisional)
+in GWh
+
+10,878
+
+j
+
+10,256
+
+10,114
+
+of which electricity
+
+in GWh
+
+4,865
+
+j
+
+4,590
+
+4,363
+
+of which natural gas
+
+in GWh
+
+4,397
+
+j
+
+4,108
+
+4,037
+
+CO2 emissions (total, scope 1 and 2)
+
+in 1,000 t
+
+3,165
+
+j
+
+3,148
+
+3,164
+
+CO2 emissions (total) per vehicle produced (Mercedes-Benz Cars)
+
+in kg/vehicle
+
+1,003
+
+l
+
+1,062
+
+1,235
+
+CO2 emissions (total) per vehicle produced (Daimler Trucks)
+
+in kg/vehicle
+
+2,701
+
+l
+
+2,708
+
+2,973
+
+CO2 emissions (total) per vehicle produced (Mercedes-Benz Vans)
+
+in kg/vehicle
+
+988
+
+j
+
+912
+
+1,070
+
+CO2 emissions (total) per vehicle produced (Daimler Buses)
+
+in kg/vehicle
+
+2,499
+
+j
+
+2,245
+
+2,299
+
+Solvents (VOC), total
+
+in t
+
+6,462
+
+j
+
+6,342
+
+5,504
+
+Solvents (VOC) per vehicle produced (Mercedes-Benz Cars)
+
+in kg/vehicle
+
+1.04
+
+j
+
+1.02
+
+0.97
+
+Solvents (VOC) per vehicle produced (Daimler Trucks)
+
+in kg/vehicle
+
+8.16
+
+l
+
+8.25
+
+Solvents (VOC) per vehicle produced (Mercedes-Benz Vans)
+
+in kg/vehicle
+
+3.78
+
+j
+
+3.60
+
+3.68
+
+Solvents (VOC) per vehicle produced (Daimler Buses)
+
+in kg/vehicle
+
+9.43
+
+j
+
+8.56
+
+14.91
+
+Waste (recovery rate)
+
+in percent
+
+93
+
+R
+
+93
+
+91
+
+Energy consumption (total)
+
+7.75
+
+Recommendation 7: Pay attention to presentational issues
+
+Explain changes in the selection or development of KPIs
+It is essential for companies to demonstrate the application of a clear and consistent methodology to any type of corporate reporting (financial, sustainability,
+integrated). KPIs should be defined, compiled and reported consistently. They
+should help stakeholders to analyse changes in sustainability performance over
+time and enable an assessment relative to the company’s peers.
+However, if a methodology is refined, changes should be presented so that
+investors can still draw comparisons with previous years, i.e. companies should
+restate – where possible – current disclosures alongside historical data (or vice
+versa). Likewise, if a company is introducing new KPIs or discontinuing old ones,
+it should disclose the reasons for this and illustrate the benefit for stakeholders.
+
+Example 15: new definition of a KPI
+This is how a DAX ® engineering company explains the revised use of a KPI
+in comparison to the previous year:
+“We have recently refined the methodology employed to determine our energy
+efficiency. We now use a single KPI which incorporates weighted calculations
+of the primary energy input for all of the energy sources used at our sites.
+This KPI takes into account the amount of energy used to extract, convert and
+distribute the fuels consumed. Fossil energy sources receive a higher primary
+energy factor than renewable energy sources. Our sites can accordingly increase their energy efficiency and reduce the impact on natural resources of
+their energy demands by strategically adjusting their choice of energy sources.”
+
+29
+
+30
+
+Conclusion
+
+Conclusion
+Material ESG aspects in capital market communication are part and parcel of
+today’s investment decisions. This is because a more comprehensive picture of
+a company on the one hand helps evaluate its current risk profile and indicates
+how it is prepared to mitigate future risks. On the other hand, actively communicating sustainability-related key figures and business opportunities, as well as
+how these translate into unique selling propositions, raises awareness of corporate strengths and competitiveness.
+It allows investors and analysts to gain a more accurate and robust assessment
+of a company and its risk and return profile. Furthermore, it delivers additional
+­arguments to invest in that company and increases confidence and trust. Sustainability disclosure tends to become a major principle for state-of-the-art corporate
+communication, providing for a well-balanced capital market story.
+The seven recommendations, including the best practice examples, illustrate
+an approach that aims to achieve more holistic corporate reporting, using limited
+resources, that will effectively meet the needs of the capital markets.
+The challenge is:
+	to identify a small number of KPIs that are relevant for management and
+evaluation purposes;
+n	
+ideally, to present them using quantitative metrics, providing relevant context,
+illustrating interdependencies between financial data and ESG information,
+as well as with the financial reporting; and
+n	
+to systematically omit information that is not material (and that would merely
+obscure key messages and / or confuse investors and analysts).
+n
+
+The Guide is designed to help issuers provide investors and analysts with this
+­information efficiently and effectively and, by doing so, to enable better-informed
+investment decisions.
+
+Conclusion
+
+Appendices
+
+31
+
+32
+
+Appendix 1
+
+Appendix 1:
+Rating / research agencies with a focus on
+sustainability
+The following, non-exhaustive list of rating agencies
+and information providers has been compiled from
+current public sources and is subject to change and
+regular updates. It is classified alphabetically in
+three categories.
+
+Inrate
+	E stablished in 1990 in Switzerland
+n	
+C overs 2,700 equities and 200 bond issuers
+n	
+O ffers sustainability and climate change assessments, portfolio analysis, company screening and
+engagement services
+n 
+inrate.com
+n
+
+a) International ESG rating agencies
+EIRIS (German partner: imug GmbH)
+n	
+Established in 1992
+n	
+imug in Hanover is responsible for ESG research
+about German, Swiss and Austrian companies.
+imug is one of seven global partners of EIRIS, a
+UK-based independent, not-for-profit organisation
+providing responsible investment services.
+n	
+EIRIS manages an Ethical Portfolio Manager (EPM).
+This is a web-based database, providing research
+on 3,200 listed companies to clients.
+n	
+It enables company screening based on more than
+80 ESG criteria that can be freely chosen.
+n	
+It is the basis for the FTSE4Good Index.
+n
+eiris.org and imug.de
+GMI Ratings
+n	
+E stablished in 2010 in Portland, Maine (USA),
+through the merger of Audit Integrity, The Corporate
+Library, and GovernanceMetrics International
+n	
+ESG ratings evaluate the sustainable investment
+value of public corporations based on 150 risk
+factors in six categories.
+n	
+Accounting and Governance Risk (AGR) ratings
+reflect accounting and governance practices statistically associated with an elevated risk of securities
+class action litigation, financial restatements and
+SEC enforcement actions – published on approximately 18,000 companies and expressed in
+two ways (score ranking and category ranking).
+n	
+gmiratings.com
+
+MSCI
+n	
+Established in 1968
+n	
+Leading provider of investment decision support
+tools to investors globally
+n	
+MSCI ESG Research provides ratings and analysis
+of environmental, social and governance-related
+business practices, including corporate risk and
+opportunity ratings, government ratings, and controversy assessments.
+n	
+MSCI offers ESG Indices, including the Barclays
+MSCI ESG Fixed Income Indices, based on in-house
+ESG research and expertise. The MSCI ACWI
+ESG Index includes large and mid-cap stocks from
+both developed and emerging markets.
+n	
+msci.com
+oekom research AG
+n	
+E stablished in 1993
+n	
+Today one of the leading ESG rating agencies
+n	
+oekom assesses the social and environmental
+­performance of companies and countries, using
+100 social and environmental criteria specified
+for each industry.
+n	
+Calculates the Global Challenges Index
+n
+o ekom-research.com
+
+Appendix 1
+
+RobecoSAM
+(formerly SAM Sustainable Asset Management)
+n	
+Established in 1995 in Switzerland
+n	
+A member of the Dutch asset manager Robeco
+since 2007
+n	
+RobecoSAM is an investment specialist focused
+­exclusively on Sustainability Investing. Its Corporate
+Sustainability Assessment (CSA) looks at financially
+material as well as non-financial factors to identify
+the companies that are best able to address future
+sustainability opportunities and challenges. The CSA
+analyses around 2.500 companies per annum.
+n	
+Provides the research for the S&P Dow Jones
+Sustainability Index (DJSI) series
+n	
+robecosam.com
+Sustainalytics
+n	
+Established in 1992 in the Netherlands
+n	
+Sustainalytics is a leading provider of sustainability
+research and analysis, serving more than 200 investors and financial institutions around the world.
+n	
+Supports investors in developing and implementing
+responsible investment strategies, provides ESG
+factors
+n	
+In Germany, provides a biennial DAX ® ranking on
+sustainability
+n	
+sustainalytics.com
+Vigeo
+n	
+E stablished in 2002 in France
+n	
+Has expertise in the assessment of the practices
+and performance of companies and organisations
+on ESG issues
+n	
+Ratings based on 38 analysis criteria divided into
+six distinct fields (human resources, human rights,
+environment, business behaviour, corporate governance and community involvement). Based on this,
+the Euronext Vigeo Europe 120 selects the 120 bestrated companies in Europe on the basis of Vigeo’s
+CSR ratings.
+n	
+vigeo.com
+
+b) Non-financial data providers
+Bloomberg
+	ESG products aim at enabling investors across a
+range of asset classes to understand the risks and
+opportunities associated with potential invest­
+ments or counterparties.
+n	
+The company provides more than 120 indicators
+for approximately 5,000 listed companies.
+n	
+bloomberg.com
+n
+
+RepRisk
+n 	
+RepRisk systematically collects and analyses facts,
+criticism and controversies about companies and
+projects worldwide, and offers information on activities related to human rights violations, poor
+working conditions, corruption, and environmental
+destruction.
+n	
+Information on over 38,800 companies, 8,800 projects, 5,600 NGOs and 4,800 governmental bodies.
+n	
+reprisk.com
+ThomsonReuters
+n	
+ThomsonReuters provides ESG research data originally developed by Asset4 (taken over in 2009).
+n	
+Global coverage of more than 4,000 companies
+n	
+thomsonreuters.com / esg-research-data /
+
+33
+
+34
+
+Appendix 1
+
+c) Specialised agencies
+
+Trucost
+	Established in 2000 in England
+n	
+Today a leading provider of comprehensive natural
+capital data
+n	
+Specialises in quantitative and financial measurements of corporate environmental performance and
+disclosure
+n	
+Issues covered include greenhouse emissions, water use, land use, waste disposal, land / air / water
+pollutants.
+n	
+Where companies do not disclose environmental
+metrics, Trucost completes data gaps with advanced econometric modelling.
+n	
+trucost.com / environmental _ data
+n
+
+CDP
+n	
+Established in 2000 (as “Carbon Disclosure Project”)
+n	
+Collects and publishes annual analysis reports
+­regarding information on management and risks
+and opportunities, as well as quantitative data
+on greenhouse gas emissions, energy and water
+use, and forest related commodities
+n	
+CDP Climate Change Program: CDP acts on behalf
+of 722 institutional investors with US$84 trillion of
+assets that get access to the data.
+n	
+Best scoring companies form the Climate Performance Leadership Index (CPLI).
+n	
+cdp.net
+EthiFinance
+n	
+Established in 2003 in France
+n	
+An independent non-financial research agency;
+supports both investors and companies (listed or
+not) in the definition of their SRI Policy and in
+the integration of ESG concerns into their asset
+management
+n	
+ethifinance.com
+
+Appendix 2
+
+Appendix 2:
+Sustainability (reporting) standards
+The following standards are classified in alphabetical
+order by the organisations that developed them or by
+their actual name. This does not indicate any prioritisation or level of standardisation.
+
+1. DVFA / EFFAS: KPIs for ESG
+The Society of Investment Professionals (DVFA) in
+Germany and its coun-terpart in Brussels, the European Federation of Financial Analysts Societies
+(EFFAS), have established a framework based on
+the pillars of environmental, social, governance and
+long-term viability. The latter category clearly indicates the interest of investors in the impact of ESG
+on long-term corporate performance. DVFA / EFFAS
+have established generic KPIs considered to be relevant across all industries, and have also developed
+industry-specific ESG KPIs. Within each pillar, there
+are several categories; each category is a “parent”
+for which there is a “child” relationship with at least
+one KPI. The approach defines clear-cut and measurable indicators that represent the expectations
+of investment professionals. So that ESG can be used
+as a basis for analysis by investment professionals,
+the “KPIs for ESG 3.0” specify certain minimum
+requirements for the sustainability management of
+individual companies and for the quality of sustainability reporting.
+
+2. German Sustainability Code
+The German Sustainability Code is a national standard
+that is divided into four parts: strategy, process management, environment and society. It is less demanding than the comprehensive option of the Global
+Reporting Initiative (GRI) or the EFFAS Level III. It can
+therefore be used to enable full compliance with a
+standard, but it does not demand the same level of
+reporting capacity that would be necessary to implement one of the other reporting levels mentioned
+above. The recommendations of the German Sustainability Code refer to the GRI Guidelines or EFFAS in
+order to facilitate the use of the standard. If a company
+already uses GRI or EFFAS, the German Sustainability
+Code will facilitate transfer of the data. However,
+reporting should only be based on one of the two
+standards.
+The statement of compliance discloses whether the
+recommendations of the German Sustainability Code
+have been complied with. The statement (“comply
+or explain”) should be kept brief and should contain
+a link to the corresponding passages within the published reference documents, if applicable. It is not
+sufficient to merely state the name of the document
+(e.g. “see sustainability report”).
+The webside provides a template for the statement of
+compliance with the German Sustainability Code.
+
+effas-esg.com / ?page _ id=206
+deutscher-nachhaltigkeitskodex.de
+
+35
+
+36
+
+Appendix 2
+
+3. Global Reporting Initiative (GRI): sustainability
+reporting guidelines
+The Global Reporting Initiative (GRI) is a non-profit
+organisation that develops guidance for sustainability
+reporting in cooperation with companies, industry
+associations and non-governmental organisations.
+The 4th generation of the guidelines is referred to as
+“G4” and contains two parts. The first part, “Reporting Principles and Standard Disclosures”, contains
+criteria to be applied by an organisation in preparing
+its sustainability report “in accordance” with the
+guidelines. It also includes definitions of key terms.
+The second part, the “Implementation Manual”,
+contains explanations of how to apply the reporting
+principles, how to prepare the information to be
+disclosed and how to interpret the various concepts
+in the guidelines. It also includes references to other
+sources, a glossary and general reporting notes.
+Organisations should consult the “Implementation
+Manual” when preparing a sustainability report.
+The guidelines contain precise specifications on what
+to report. Reporting is expected to comply with the
+following two categories of principles:
+Principles for defining report content:
+	Stakeholder inclusiveness: the organisation should
+identify its stakeholders and explain how it has
+responded to their expectations and interests.
+n	
+Sustainability context: the report should present the
+organisation’s performance in the wider context of
+sustainability.
+n	
+Materiality: the report should cover aspects that
+reflect the organisation’s significant economic,
+environmental and social impacts or substantively
+influence the assessments and decisions of stakeholders.
+n
+
+n
+
+	C ompleteness: the report should include coverage
+of material aspects and their boundaries, sufficient
+to reflect economic, environmental and social
+impacts and to enable stakeholders to assess the
+organisation’s performance in the reporting period.
+
+Principles for defining report quality:
+	Balance: the report should reflect positive and
+negative aspects of the organisation’s perfor­
+mance to enable a reasoned assessment of overall
+performance.
+n	
+C omparability: the organisation should select,
+compile and report information consistently.
+The reported information should be presented in
+a manner that enables stakeholders to analyse
+changes in the organisation’s performance over
+time and that could support analysis relative to
+other organisations.
+n	
+Accuracy: the reported information should be
+sufficiently accurate and detailed for stakeholders
+to assess the organisation’s performance.
+n	
+Timeliness: the organisation should report on a
+regular schedule so that information is available in
+time for stakeholders to make informed decisions.
+n	
+Clarity: the organisation should make information
+available in a manner that is understandable and
+accessible to stakeholders using the report.
+n	
+Reliability: the organisation should gather, record,
+compile, analyse, and disclose information and
+processes used in the preparation of a report in a
+way that they can be subject to examination and
+that establishes the quality and materiality of the
+information.
+n
+
+The individual information must then be categorised.
+
+Appendix 2
+
+230
+
+Overviews
+
+GRI and Global Compact Index
+
+BASF Report 2012
+
+GRI and Global Compact Index
+The complete GRI Index with core and additional indicators as well as the ten principles of the Global Compact can be found at
+basf.com/gri_gc_e
+Example
+16: GRI Index (excerpt)
+
+Global
+Compact
+Principles
+
+GRI Indicator
+
+Subject
+
+Page
+
+Strategy and profile
+1–10
+
+1.1
+
+Chief executive statement
+
+8–9
+
+1.2
+
+Description of key impacts, risks and opportunities
+
+20–31, 35–36, 38–40, 45–47, 80, 84–93, 98, 100,
+107–115, 119–121
+
+2.1–2.10
+
+Organizational profile, structure, markets
+
+Cover, 5, 13–16, 18–19, 24, 30–31, 35–39, 44, 48–52,
+56–60, 64–70, 73, 75–76, 80–81, 84–86, 90–91,
+100–101, 116–122, 124, 163, 168, 226
+
+3.1–3.4
+
+Report profile
+
+Cover, 4–5
+
+3.5–3.13
+
+Report scope and boundary, assurance
+
+Cover, 4–6, 19, 27–28, 55, 145, 230
+
+1–10
+
+4.1–4.7
+
+Corporate governance
+
+8–11, 15, 22, 27, 41–42, 124–126, 129–138, 205–206
+
+1–10
+
+4.8–4.13
+
+Guidelines and policies, codes of conduct, commitments to
+external initiatives
+
+4–6, 14, 20–29, 39–44, 84, 92–100, 104–106, 108,
+112, 114–115, 124, 127, 129
+
+4.14–4.17
+
+Stakeholder engagement
+
+5, 15, 20, 27–30, 32, 38–42, 44, 84–85, 90–93, 95–99,
+102, 104–105, 114–115, 129
+
+Direct economic value generated and distributed
+
+12–14, 16, 23–24, 26, 31, 35–36, 39–40, 42, 44,
+48–53, 55–58, 61, 64, 66, 68, 71, 75–77, 80–82, 87,
+90–91, 145–150, 175, 177, 205–206
+
+Economic performance
+1,4,6,7
+
+EC1
+
+7,8,9
+
+6
+
+18–24, 26, 48–57, 107–115, 143–208
+
+Management approach
+
+EC2
+
+Financial implications due to climate change
+
+27, 29, 31,103, 110
+
+EC3
+
+Coverage of benefit plan obligations
+
+40, 42, 156–157, 187–191
+
+EC6
+
+Local suppliers
+
+92
+
+EC7
+
+Local hiring
+
+24,41
+
+EC8
+
+Development and impact of investments for public benefit
+
+27–28, 39–40, 44
+
+Environmental performance
+
+The extent to which
+a company has followed the
+18, 20–23, 25, 27–29, 84, 92–106, 127, 129
+recommendations 18,
+of20,the
+GRI
+is102,
+mapped
+in the “GRI
+36, 68,
+92–93,
+104–106
+18, 25, report
+31–34, 36, 75,
+81, 100–103,
+105–106
+Index”. However, two
+levels
+must
+be distin25, 81, 104–105
+guished. Companies
+must choose between the “Core”
+29, 81, 84–85, 93, 103
+option – containing
+the essential elements of a sus18, 20, 25, 33–34, 36, 64, 75, 93, 101–102, 106
+tainability report –104–105
+and the “Comprehensive” option,
+106 “Core” option by requiring addiwhich builds on the
+8
+EN23
+Spills
+25, 104
+tional Standard Disclosures
+on the organisation’s
+7,8,9
+EN26–EN27
+Products and services
+22, 29, 31–36, 64, 75, 84, 93–95, 97, 100–101,
+103–106governance, and ethics and
+strategy and analysis,
+The “Specific Standard Disclosures” are classified
+integrity. In addition,
+in three categories:
+EN28 Economic, Environmental
+Compliance and
+196 the organisation is required
+7,8,9 The Social
+EN29,category
+EN30
+Transport and
+environmental protection
+expenditures
+29, performance
+31–32, 94–95, 98–100, 103,
+105–106
+to communicate
+its
+more
+extensively
+Social.
+is further divided
+into
+Social performance
+by reporting all indicators related to identified
+the four sub-categories of (1) Labour Practices and
+Labor practice and labor quality
+material aspects. 20–25, 28, 39–43, 96–97, 129
+Decent
+Work, (2)
+Human Rights, (3) Society and (4)
+1,3,6
+Management approach
+Product
+The report on allEmployment
+these areas
+1,3,6 Responsibility.
+LA1–LA5
+30, 39–43, 115, 177–178
+1
+Occupational
+health and safety
+25, 40–41, 43, 94–98
+should
+start by LA7–LA8
+explaining the management
+approach
+globalreporting.org
+LA10–LA11
+Training and education
+24, 26–27, 40–41, 95–96, 129
+and specifying the indicators, as well as explaining
+1,6
+LA13
+Composition of governance bodies
+24, 40–41
+their1,6materialityLA14
+or relevance to the business.
+Equal employment
+22, 24, 41–43
+The 7,8,9
+“General Standard
+Disclosures” are applicable
+Management approach
+to all8,9organisations
+preparing sustainability
+reports
+EN1–EN2
+Materials
+used
+and 8,9
+are dividedEN3–EN7
+into seven parts for (1)Energy
+strategy
+EN8–EN10
+and 8,9
+analysis, (2)
+organisational profile, Water
+(3) identified
+8
+EN11–EN15
+Biodiversity
+material
+aspectsEN16–EN20
+and boundaries, (4) stakeholder
+7,8,9
+Emissions
+engagement,
+(5)EN21
+report profile, (6) governance
+8
+Wastewater and
+8
+EN22
+Waste
+(7) ethics
+and integrity.
+
+6
+
+LA15
+
+Maternity leave
+
+41
+
+37
+
+38
+
+Appendix 2
+
+4. International Integrated Reporting Committee
+(IIRC)
+Integrated Reporting – the combination of financial and
+sustainability reporting in one process and one document – is an important future option for companies
+with advanced strategies and management systems.
+In 2011, the International Integrated Reporting Council (IIRC) was formed with the purpose of developing
+a guideline framework for Integrated Reporting that
+would be suitable for international legal implementation in the medium term. The IIRC is a global coalition
+of regulators, investors, companies, standard-setters,
+the accounting profession and NGOs. The framework
+is intended to underpin and accelerate the evolution
+of corporate reporting, reflecting developments in
+financial, governance, management commentary and
+sustainability reporting.
+A first draft of this framework was released in
+April 2013, with a final version expected for December 2013. This framework encourages companies
+to report their strategies and annual performance
+along an innovative concept of “capitals” – apart from
+financial capital, companies should also report on
+their manufactured, human, intellectual, natural and
+social capitals and the relationships between them,
+and promote understanding of their interdependencies.
+theiirc.org
+
+5. Sustainability Accounting Standards Board
+The Sustainability Accounting Standards Board (SASB)
+is a San Francisco (USA) based non-profit organisation incorporated in July 2011. The organisation establishes industry-based sustainability standards for the
+recognition and disclosure of material ESG impacts by
+companies traded on U.S. exchanges. SASB provides
+standardised processes for determining materiality of
+issues within each industry and industry-specific per­
+formance metrics to comparing and benchmarking the
+peer performance within an industry. SASB’s approach
+to industry-specific issues and disclosure of minimum
+performance standards differentiates it from existing
+sustainability frameworks. The Board is accredited
+by the American National Standards Institute (ANSI)
+to establish sustainability accounting standards.
+SASB aims to develop particular standards for several
+industry sectors. A standard reference for the financial
+industry will be released on 5 November 2013 in a
+provisional version.
+sasb.org
+
+6. United Nations Global Compact
+The UN Global Compact (UNGC) is a strategic policy
+initiative for businesses that are committed to aligning
+their operations and strategies with sustainability and
+corporate citizenship. It consists of a framework of
+ten principles in four areas that are derived from universally accepted UN norms. Signing up to the UNGC
+involves an explicit commitment to these principles
+by the Chief Executive Officer (CEO) or equivalent.
+
+Appendix 2
+
+These principles are:
+Human rights
+n	
+Principle 1: Businesses should support and respect
+the protection of internationally proclaimed human
+rights, and
+n	
+Principle 2: make sure that they are not complicit
+in human rights abuses.
+Labour
+	Principle 3: Businesses should uphold the freedom
+of association and the effective recognition of the
+right to collective bargaining,
+n	
+Principle 4: the elimination of all forms of forced
+and compulsory labour,
+n	
+Principle 5: the effective abolition of child labour,
+and
+n	
+Principle 6: the elimination of discrimination in
+respect of employment and occupation.
+n
+
+Environment
+	Principle 7: Businesses should support a precautionary approach to environmental challenges,
+n	
+Principle 8: undertake initiatives to promote greater
+environmental responsibility, and
+n	
+Principle 9: encourage the development and diffusion
+of environmentally friendly technologies.
+n
+
+Anti-corruption
+	Principle 10: Businesses should work against corruption in all its forms, including extortion and bribery.
+
+n
+
+The Global Compact recommends creating awareness
+for these principles at management level and among
+employees when implementing the ten principles.
+
+Companies wishing to join the Global Compact must
+deliver an annual progress report on their ongoing
+implementation of the Ten Principles (“Communication on progress – COP”). The COP states which
+measures have been selected, as well as the state of
+their implementation within the four areas mentioned
+above. They must be described and assessed, and
+the explanation of the progress that has been made
+must also be published online.
+There are three implementation levels for the UNGC,
+depending on the quality of the COP. The lowest is
+the “GC Learner” category, designed for companies
+which do not (yet) meet all requirements. A company
+reaches the “GC Active” level when a minimum
+number of requirements have been met. The “GC
+Advanced” level is accorded to companies that aim
+for peak performance. They report on the implementation of established governance and management
+procedures in the areas described above. Companies
+may also opt on a voluntary basis for the “Blueprint
+for Corporate Sustainability Leadership”, which
+requires an even higher degree of detail by reporting
+in line with a comprehensive “Corporate Action Plan”.
+Both the Blueprint and the “UN Global Compact
+Management Model” may also be used merely for
+guidance purposes.
+Signatories to the UN Global Compact who also
+publish a GRI-oriented report may combine the COP
+with the GRI report. Assistance on how to do this
+is provided in a document entitled “Making the
+Connection”. The second part of GRI G4 explains
+how GRI and UNGC are interconnected. GRI reporting also helps achieve the “GC Advanced Level”
+of the Global Compact.
+g lobalreporting.org / resourcelibrary / GRI-UNGCMaking-The-Connection.pdf
+unglobalcompact.org / index.html
+
+39
+
+40
+
+Appendix 2
+
+7. Additional standards and guidelines
+a) ISO 26000
+Developed by the International Organization for
+Standardization (ISO), ISO 26000 provides guidance
+rather than requirements, so no certification to the
+standard is possible, unlike most other ISO standards.
+Instead, it helps clarify what social responsibility
+for an organisation is, helps translate principles into
+effective actions and shares best practices relating
+to social responsibility globally. It is aimed at all
+types of organisations regardless of their activity,
+size, or location.
+The standard was launched in 2010 following five
+years of negotiations between many different stakeholders across the globe. Representatives from
+government, NGOs, industry, consumer groups and
+labour organisations from around the world were
+involved in its development, so it represents an international consensus.
+iso.org/iso/home/standards/iso26000.htm
+b) OECD Guidelines for Multinational Enterprises
+The OECD Guidelines are recommended procedures
+of the 34 OECD member states as well as ten other
+states with internationally active companies. They
+are not a reporting standard, but rather a multilateral
+agreement signed by the Federal Republic of Germany
+
+that is therefore binding for all German companies,
+and specifically for export-oriented companies. As
+such, it is possible to lodge a complaint against a
+company for violating the OECD Guidelines with the
+“National Contact Points (NCPs)” – in Germany this
+is the Federal Ministry of Economics and Technology.
+The Guidelines refer to principles of public disclosure, the upholding of human rights, the quality
+of employment and industrial relations, protection
+of the environment, the fight against bribery and
+corruption, protection of consumer interests as
+well as fair standards in science and technology,
+competition and taxation.
+oecd.org / daf / inv / mne /
+bmwi.de / DE / Themen / Aussenwirtschaft /
+nationale-kontaktstelle-oecd-leitsaetze,did=
+429920.html
+
+Appendix 3
+
+Appendix 3:
+Glossary
+Capital market communication
+
+KPI
+
+Umbrella term for all forms of communication used
+by the investor relations team of an issuer at a stock
+exchange encompassing annual and quarterly reports,
+investor presentations, ad hoc news, roadshows etc.
+regardless of whether they are required by government
+regulation or not. Within the context of this guide the
+term relates to non-regulated ESG information.
+
+Key performance indicators help decision makers to
+define and measure progress toward business goals.
+The purpose is to translate complex measures into a
+simple indicator that allows stakeholders to assess
+the current performance and conditions.
+
+SRI
+Capital market story
+Line of argumentation towards (potential) investors,
+outlining the reasons for investing in a particular
+company from the perspective of the issuer; as “equity story” the term is limited to shares (equities).
+
+ESG
+E = environmental; S = social; G = governance –
+dimensions of corporate performance that may not
+be recognised in standard financial analysis. Though
+typically non-financial, the management of ESG
+issues does have financial consequences depending
+on the quality of their management. The environmental
+dimension deals with the judicious use of resources
+(e.g. energy, water, raw materials, biodiversity) and
+their side effects such as CO 2 emissions. The social
+dimension covers aspects such as labour practices
+and product responsibility as it affects production
+costs, sales and reputation. The governance dimension includes good corporate governance (e.g. compliance, risk management, cooperation between
+management and supervisory boards or executive
+and non-executive directors).
+
+Socially Responsible Investing / Socially Responsible
+Investments, also sometimes “Sustainable & Responsible Investments”. SRI investments have different
+concepts, but all examine the ESG performance of
+a company in one way or another. The market for
+SRI has been growing dynamically in many countries,
+particularly in France, Switzerland, the United
+Kingdom, Scandinavia and the United States, and
+Germany albeit to a lesser extent. There is particular
+demand from institutional investors with a longterm focus such as pension funds.
+
+Sustainability
+The reconciliation of environmental, social and economic demands in such a way that none of the three
+dimensions is achieved to the disadvantage of another.
+This equilibrium is designed to create and ensure
+long-term prosperity. A business interpretation of the
+sustainability concept is the ability to create and maintain growth in the long term by considering environmental and social factors alongside economic ones.
+

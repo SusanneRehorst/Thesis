@@ -1,0 +1,168 @@
+Companies Act 2013 Section 134 135
+(3) There shall be attached to statements laid before a company in general meeting, a report by its
+Board of Directors, which shall include—
+(a) the extract of the annual return as provided under sub-section (3) of section 92;
+(b) number of meetings of the Board;
+(c) Directors‘ Responsibility Statement;
+1
+[(ca) details in respect of frauds reported by auditors under sub-section (12) of section 143 other
+than those which are reportable to the Central Government;]
+(d) a statement on declaration given by independent directors under sub-section (6) of section
+149;
+(e) in case of a company covered under sub-section (1) of section 178, company‘s policy on
+directors‘ appointment and remuneration including criteria for determining qualifications, positive
+attributes, independence of a director and other matters provided under sub-section (3) of section 178;
+(f) explanations or comments by the Board on every qualification, reservation or adverse remark
+or disclaimer made—
+(i) by the auditor in his report; and
+(ii) by the company secretary in practice in his secretarial audit report;
+(g) particulars of loans, guarantees or investments under section 186;
+(h) particulars of contracts or arrangements with related parties referred to in sub-section (1) of
+section 188 in the prescribed form;
+(i) the state of the company‘s affairs;
+(j) the amounts, if any, which it proposes to carry to any reserves;
+(k) the amount, if any, which it recommends should be paid by way of dividend;
+(l) material changes and commitments, if any, affecting the financial position of the company
+which have occurred between the end of the financial year of the company to which the financial
+statements relate and the date of the report;
+(m) the conservation of energy, technology absorption, foreign exchange earnings and outgo, in
+such manner as may be prescribed;
+
+1. Ins. by Act 21 of 2015, s. 12 (w.e.f. 29-5-2015).
+86
+(n) a statement indicating development and implementation of a risk management policy for the
+company including identification therein of elements of risk, if any, which in the opinion of the Board
+may threaten the existence of the company;
+(o) the details about the policy developed and implemented by the company on corporate social
+responsibility initiatives taken during the year;
+(p) in case of a listed company and every other public company having such paid-up share capital
+as may be prescribed, a statement indicating the manner in which formal annual evaluation has been
+made by the Board of its own performance and that of its committees and individual directors;
+(q) such other matters as may be prescribed.
+(4) The report of the Board of Directors to be attached to the financial statement under this section
+shall, in case of a One Person Company, mean a report containing explanations or comments by the
+Board on every qualification, reservation or adverse remark or disclaimer made by the auditor in his
+report.
+(5) The Directors‘ Responsibility Statement referred to in clause (c) of sub-section (3) shall state
+that—
+(a) in the preparation of the annual accounts, the applicable accounting standards had been
+followed along with proper explanation relating to material departures;
+(b) the directors had selected such accounting policies and applied them consistently and made
+judgments and estimates that are reasonable and prudent so as to give a true and fair view of the state
+of affairs of the company at the end of the financial year and of the profit and loss of the company for
+that period;
+(c) the directors had taken proper and sufficient care for the maintenance of adequate accounting
+records in accordance with the provisions of this Act for safeguarding the assets of the company and
+for preventing and detecting fraud and other irregularities;
+(d) the directors had prepared the annual accounts on a going concern basis; and
+(e) the directors, in the case of a listed company, had laid down internal financial controls to be
+followed by the company and that such internal financial controls are adequate and were operating
+effectively.
+Explanation.—For the purposes of this clause, the term ―internal financial controls‖ means the
+policies and procedures adopted by the company for ensuring the orderly and efficient conduct of its
+business, including adherence to company‘s policies, the safeguarding of its assets, the prevention
+and detection of frauds and errors, the accuracy and completeness of the accounting records, and the
+timely preparation of reliable financial information;
+(f) the directors had devised proper systems to ensure compliance with the provisions of all
+applicable laws and that such systems were adequate and operating effectively.
+(6) The Board‘s report and any annexures thereto under sub-section (3) shall be signed by its
+chairperson of the company if he is authorised by the Board and where he is not so authorised, shall be
+signed by at least two directors, one of whom shall be a managing director, or by the director where there
+is one director.
+(7) A signed copy of every financial statement, including consolidated financial statement, if any,
+shall be issued, circulated or published along with a copy each of—
+(a) any notes annexed to or forming part of such financial statement;
+(b) the auditor‘s report; and
+(c) the Board‘s report referred to in sub-section (3).
+(8) If a company contravenes the provisions of this section, the company shall be punishable with fine
+which shall not be less than fifty thousand rupees but which may extend to twenty-five lakh rupees and
+87
+every officer of the company who is in default shall be punishable with imprisonment for a term which
+may extend to three years or with fine which shall not be less than fifty thousand rupees but which may
+extend to five lakh rupees, or with both.
+135. Corporate Social Responsibility.— (1) Every company having net worth of rupees five
+hundred crore or more, or turnover of rupees one thousand crore or more or a net profit of rupees five
+crore or more during any financial year shall constitute a Corporate Social Responsibility Committee of
+the Board consisting of three or more directors, out of which at least one director shall be an independent
+director.
+(2) The Board's report under sub-section (3) of section 134 shall disclose the composition of the
+Corporate Social Responsibility Committee.
+(3) The Corporate Social Responsibility Committee shall,—
+(a) formulate and recommend to the Board, a Corporate Social Responsibility Policy which shall
+indicate the activities to be undertaken by the company as specified in Schedule VII;
+(b) recommend the amount of expenditure to be incurred on the activities referred to in clause (a);
+and
+(c) monitor the Corporate Social Responsibility Policy of the company from time to time.
+(4) The Board of every company referred to in sub-section (1) shall,—
+(a) after taking into account the recommendations made by the Corporate Social Responsibility
+Committee, approve the Corporate Social Responsibility Policy for the company and disclose
+contents of such Policy in its report and also place it on the company's website, if any, in such manner
+as may be prescribed; and
+(b) ensure that the activities as are included in Corporate Social Responsibility Policy of the
+company are undertaken by the company.
+(5) The Board of every company referred to in sub-section (1), shall ensure that the company spends,
+in every financial year, at least two per cent. of the average net profits of the company made during the
+three immediately preceding financial years, in pursuance of its Corporate Social Responsibility Policy:
+Provided that the company shall give preference to the local area and areas around it where it
+operates, for spending the amount earmarked for Corporate Social Responsibility activities:
+Provided further that if the company fails to spend such amount, the Board shall, in its report made
+under clause (o) of sub-section (3) of section 134, specify the reasons for not spending the amount.
+Explanation.—For the purposes of this section ―average net profit‖ shall be calculated in accordance
+with the provisions of section 198.
+
+(12) Every listed company shall disclose in the Board‘s report, the ratio of the remuneration of each
+director to the median employee‘s remuneration and such other details as may be prescribed.
+
+(14) Subject to the provisions of this section, any director who is in receipt of any commission from
+the company and who is a managing or whole-time director of the company shall not be disqualified from
+receiving any remuneration or commission from any holding company or subsidiary company of such
+company subject to its disclosure by the company in the Board‘s report.
+
+[(12) Notwithstanding anything contained in this section, if an auditor of a company, in the course of
+the performance of his duties as auditor, has reason to believe that an offence involving fraud is being or
+has been committed against the company by officers or employees of the company, he shall immediately
+report the matter to the Central Government within such time and in such manner as may be prescribed.]
+
+Provided further that the companies, whose auditors have reported frauds under this sub-section to the audit committee or
+the Board but not reported to the Central Government, shall disclose the details about such frauds in the Board‘s report in such
+manner as may be prescribed.
+
+(3) The Nomination and Remuneration Committee shall formulate the criteria for determining
+qualifications, positive attributes and independence of a director and recommend to the Board a policy,
+relating to the remuneration for the directors, key managerial personnel and other employees.
+
+(6) An independent director in relation to a company, means a director other than a managing director
+or a whole-time director or a nominee director,—
+(a) who, in the opinion of the Board, is a person of integrity and possesses relevant expertise and
+experience;
+(b) (i) who is or was not a promoter of the company or its holding, subsidiary or associate
+company;
+(ii) who is not related to promoters or directors in the company, its holding, subsidiary or
+associate company;
+(c) who has or had no pecuniary relationship with the company, its holding, subsidiary or
+associate company, or their promoters, or directors, during the two immediately preceding financial
+years or during the current financial year;
+(d) none of whose relatives has or had pecuniary relationship or transaction with the company, its
+holding, subsidiary or associate company, or their promoters, or directors, amounting to two per cent.
+or more of its gross turnover or total income or fifty lakh rupees or such higher amount as may be
+prescribed, whichever is lower, during the two immediately preceding financial years or during the
+current financial year;
+(e) who, neither himself nor any of his relatives—
+(i) holds or has held the position of a key managerial personnel or is or has been employee of
+the company or its holding, subsidiary or associate company in any of the three financial years
+immediately preceding the financial year in which he is proposed to be appointed;
+(ii) is or has been an employee or proprietor or a partner, in any of the three financial years
+immediately preceding the financial year in which he is proposed to be appointed, of—
+99
+(A) a firm of auditors or company secretaries in practice or cost auditors of the company
+or its holding, subsidiary or associate company; or
+(B) any legal or a consulting firm that has or had any transaction with the company, its
+holding, subsidiary or associate company amounting to ten per cent. or more of the gross
+turnover of such firm;
+(iii) holds together with his relatives two per cent. or more of the total voting power of the
+company; or
+(iv) is a Chief Executive or director, by whatever name called, of any nonprofit organisation
+that receives twenty-five per cent. or more of its receipts from the company, any of its promoters,
+directors or its holding, subsidiary or associate company or that holds two per cent. or more of the
+total voting power of the company; or
+(f) who possesses such other qualifications as may be prescribed.

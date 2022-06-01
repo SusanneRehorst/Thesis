@@ -1,0 +1,1321 @@
+This document is an unofficial consolidation of all amendments to Form 51-102F6 Statement of Executive
+Compensation. effective June 30, 2015. This document is for reference purposes only. The unofficial
+consolidation of the form is not an official statement of the law.
+Form 51-102F6
+Statement of Executive Compensation
+Table of Contents
+Item 1 General Provisions
+1.1 Objective
+1.2 Definitions
+1.3 Preparing the form
+Item 2 Compensation Discussion and Analysis
+2.1 Compensation discussion and analysis
+2.2 Performance graph
+2.3 Share-based and option-based awards
+2.4 Compensation governance
+Item 3 Summary Compensation Table
+3.1 Summary compensation table
+3.2 Narrative discussion
+3.3 [Repealed]
+3.4 Officers who also act as directors
+Item 4 Incentive Plan Awards
+4.1 Outstanding share-based awards and option-based awards
+4.2 Incentive plan awards – value vested or earned during the year
+4.3 Narrative discussion
+Item 5 Pension Plan Benefits
+5.1 Defined benefit plans table
+5.2 Defined contribution plans table
+5.3 Narrative discussion
+5.4 Deferred compensation plans
+Item 6 Termination and Change of Control Benefits
+6.1 Termination and change of control benefits
+Item 7 Director Compensation
+7.1 Director compensation table
+7.2 Narrative discussion
+7.3 Share-based awards, option-based awards and non-equity incentive
+plan compensation
+Item 8 Companies Reporting in the United States
+8.1 Companies reporting in the United States
+Item 9 Effective Date and Transition
+9.1 Effective date
+9.2 Transition
+1
+Form 51-102F6
+Statement of Executive Compensation
+ITEM 1 – GENERAL PROVISIONS
+1.1 Objective
+All direct and indirect compensation provided to certain executive officers and
+directors for, or in connection with, services they have provided to the company
+or a subsidiary of the company must be disclosed in this form.
+The objective of this disclosure is to communicate the compensation the company
+paid, made payable, awarded, granted, gave or otherwise provided to each NEO
+and director for the financial year, and the decision-making process relating to
+compensation. This disclosure will provide insight into executive compensation as
+a key aspect of the overall stewardship and governance of the company and will
+help investors understand how decisions about executive compensation are made.
+A company’s executive compensation disclosure under this form must satisfy this
+objective and subsections 9.3.1(1) or 11.6(1) of the Instrument.
+1.2 Definitions
+If a term is used in this form but is not defined in this section, refer to subsection
+1.1(1) of the Instrument or to National Instrument 14-101 Definitions.
+In this form,
+“CEO” means an individual who acted as chief executive officer of the company,
+or acted in a similar capacity, for any part of the most recently completed
+financial year;
+“CFO” means an individual who acted as chief financial officer of the company,
+or acted in a similar capacity, for any part of the most recently completed
+financial year;
+“closing market price” means the price at which the company’s security was last
+sold, on the applicable date,
+(a) in the security’s principal marketplace in Canada, or
+(b) if the security is not listed or quoted on a marketplace in Canada, in the
+security’s principal marketplace;
+“company” includes other types of business organizations such as partnerships,
+trusts and other unincorporated business entities;
+2
+“equity incentive plan” means an incentive plan, or portion of an incentive plan,
+under which awards are granted and that falls within the scope of IFRS 2 Sharebased Payment;
+“external management company” includes a subsidiary, affiliate or associate of
+the external management company;
+“grant date” means a date determined for financial statement reporting purposes
+under IFRS 2 Share-based Payment;
+“incentive plan” means any plan providing compensation that depends on
+achieving certain performance goals or similar conditions within a specified
+period;
+“incentive plan award” means compensation awarded, earned, paid, or payable
+under an incentive plan;
+“NEO” or “named executive officer” means each of the following individuals:
+(a) a CEO;
+(b) a CFO;
+(c) each of the three most highly compensated executive officers of the
+company, including any of its subsidiaries, or the three most highly
+compensated individuals acting in a similar capacity, other than the CEO
+and CFO, at the end of the most recently completed financial year whose
+total compensation was, individually, more than $150,000, as determined
+in accordance with subsection 1.3(6), for that financial year; and
+(d) each individual who would be an NEO under paragraph (c) but for the fact
+that the individual was neither an executive officer of the company or its
+subsidiaries, nor acting in a similar capacity, at the end of that financial
+year;
+“non-equity incentive plan” means an incentive plan or portion of an incentive
+plan that is not an equity incentive plan;
+“option-based award” means an award under an equity incentive plan of options,
+including, for greater certainty, share options, share appreciation rights, and
+similar instruments that have option-like features;
+“plan” includes any plan, contract, authorization, or arrangement, whether or not
+set out in any formal document, where cash, securities, similar instruments or any
+other property may be received, whether for one or more persons;
+3
+“replacement grant” means an option that a reasonable person would consider to
+be granted in relation to a prior or potential cancellation of an option;
+“repricing” means, in relation to an option, adjusting or amending the exercise or
+base price of the option, but excludes any adjustment or amendment that equally
+affects all holders of the class of securities underlying the option and occurs
+through the operation of a formula or mechanism in, or applicable to, the option;
+“share-based award” means an award under an equity incentive plan of equitybased instruments that do not have option-like features, including, for greater
+certainty, common shares, restricted shares, restricted share units, deferred share
+units, phantom shares, phantom share units, common share equivalent units, and
+stock.
+1.3 Preparing the form
+(1) All compensation to be included
+(a) When completing this form, the company must disclose all compensation
+paid, payable, awarded, granted, given, or otherwise provided, directly or
+indirectly, by the company, or a subsidiary of the company, to each NEO
+and director, in any capacity, including, for greater certainty, all plan and
+non-plan compensation, direct and indirect pay, remuneration, economic
+or financial award, reward, benefit, gift or perquisite paid, payable,
+awarded, granted, given, or otherwise provided to the NEO or director for
+services provided and for services to be provided, directly or indirectly, to
+the company or a subsidiary of the company.
+(b) Despite paragraph (a), in respect of the Canada Pension Plan, similar
+government plans, and group life, health, hospitalization, medical
+reimbursement and relocation plans that do not discriminate in scope,
+terms or operation and are generally available to all salaried employees,
+the company is not required to disclose as compensation
+(i) any contributions or premiums paid or payable by the company on
+behalf of an NEO, or of a director, under these plans, and
+(ii) any cash, securities, similar instruments or any other property
+received by an NEO, or by a director, under these plans.
+(c) For greater certainty, the plans described in paragraph (b) include plans
+that provide for such benefits after retirement.
+4
+(d) If an item of compensation is not specifically mentioned or described in
+this form, it is to be disclosed in column (h) (“All other compensation”) of
+the summary compensation table in section 3.1.
+(2) Departures from format
+(a) Although the required disclosure must be made in accordance with this
+form, the disclosure may
+(i) omit a table, column of a table, or other prescribed information, if
+it does not apply, and
+(ii) add a table, column, or other information if
+(A) necessary to satisfy the objective in section 1.1, and
+(B) to a reasonable person, the table, column, or other
+information does not detract from the prescribed
+information in the summary compensation table in section
+3.1.
+(b) Despite paragraph (a), a company must not add a column in the summary
+compensation table in section 3.1.
+(3) Information for full financial year
+If an NEO acted in that capacity for the company during part of the financial year
+for which disclosure is required in the summary compensation table, provide
+details of all of the compensation that the NEO received from the company for
+that financial year. This includes compensation the NEO earned in any other
+position with the company during the financial year.
+Do not annualize compensation in a table for any part of a year when an NEO was
+not in the service of the company. Annualized compensation may be disclosed in
+a footnote.
+(4) External management companies
+(a) If one or more individuals acting as an NEO of the company are not
+employees of the company, disclose the names of those individuals.
+(b) If an external management company employs or retains one or more
+individuals acting as NEOs or directors of the company and the company
+has entered into an understanding, arrangement or agreement with the
+external management company to provide executive management services
+to the company directly or indirectly, disclose any compensation that:
+5
+(i) the company paid directly to an individual employed, or retained
+by the external management company, who is acting as an NEO or
+director of the company; and
+(ii) the external management company paid to the individual that is
+attributable to the services they provided to the company directly
+or indirectly.
+(c) If an external management company provides the company’s executive
+management services and also provides executive management services to
+another company, disclose the entire compensation the external
+management company paid to the individual acting as an NEO or director,
+or acting in a similar capacity, in connection with services the external
+management company provided to the company, or the parent or a
+subsidiary of the company. If the management company allocates the
+compensation paid to an NEO or director, disclose the basis or
+methodology used to allocate this compensation.
+Commentary
+An NEO may be employed by an external management company and provide
+services to the company under an understanding, arrangement or agreement. In
+this case, references in this form to the CEO or CFO are references to the
+individuals who performed similar functions to that of the CEO or CFO. They are
+generally the same individuals who signed and filed annual and interim
+certificates to comply with National Instrument 52-109 Certification of Disclosure
+in Issuers’ Annual and Interim Filings.
+(5) Director and NEO compensation
+Disclose any compensation awarded to, earned by, paid to, or payable to each
+director and NEO, in any capacity with respect to the company. Compensation to
+directors and NEOs must include all compensation from the company and its
+subsidiaries.
+Disclose any compensation awarded to, earned by, paid to, or payable to, an NEO,
+or director, in any capacity with respect to the company, by another person or
+company.
+(6) Determining if an individual is an NEO
+For the purpose of calculating total compensation awarded to, earned by, paid to,
+or payable to an individual under paragraph (c) of the definition of NEO,
+6
+(a) use the total compensation that would be reported under column (i) of the
+summary compensation table required by section 3.1 for each executive
+officer, as if that executive officer were an NEO for the company’s most
+recently completed financial year, and
+(b) exclude from the calculation,
+(i) any compensation that would be reported under column (g) of the
+summary compensation table required by section 3.1,
+(ii) any incremental payments, payables, and benefits to an executive
+officer that are triggered by, or result from, a scenario listed in
+section 6.1 that occurred during the most recently completed
+financial year, and
+(iii) any cash compensation that relates to foreign assignments that is
+specifically intended to offset the impact of a higher cost of living
+in the foreign location, and is not otherwise related to the duties the
+executive officer performs for the company.
+Commentary
+The $150,000 threshold in paragraph (c) of the definition of NEO only applies
+when determining who is an NEO in a company’s most recently completed
+financial year. If an individual is an NEO in the most recently completed financial
+year, disclosure of compensation in prior years must be provided if otherwise
+required by this form even if total compensation in a prior year is less than
+$150,000 in that year.
+(7) Compensation to associates
+Disclose any awards, earnings, payments, or payables to an associate of an NEO,
+or of a director, as a result of compensation awarded to, earned by, paid to, or
+payable to the NEO or the director, in any capacity with respect to the company.
+(8) New reporting issuers
+(a) Subject to paragraph (b) and subsection 3.1(1), disclose information in the
+summary compensation table for the three most recently completed
+financial years since the company became a reporting issuer.
+(b) Do not provide information for a completed financial year if the company
+was not a reporting issuer at any time during the most recently completed
+financial year, unless the company became a reporting issuer as a result of
+a restructuring transaction.
+7
+(c) If the company was not a reporting issuer at any time during the most
+recently completed financial year and the company is completing the form
+because it is preparing a prospectus, discuss all significant elements of the
+compensation to be awarded to, earned by, paid to, or payable to NEOs of
+the company once it becomes a reporting issuer, to the extent this
+compensation has been determined.
+Commentary
+1. Unless otherwise specified, information required to be disclosed under
+this form may be prepared in accordance with the accounting principles
+the company uses to prepare its financial statements, as permitted by
+National Instrument 52-107 Acceptable Accounting Principles and
+Auditing Standards.
+2. The definition of “director” under securities legislation includes an
+individual who acts in a capacity similar to that of a director.
+(9) Currencies
+Companies must report amounts required by this form in Canadian dollars or in
+the same currency that the company uses for its financial statements. A company
+must use the same currency in the tables in sections 3.1, 4.1, 4.2, 5.1, 5.2 and 7.1
+of this form.
+If compensation awarded to, earned by, paid to, or payable to an NEO was in a
+currency other than the currency reported in the prescribed tables of this form,
+state the currency in which compensation was awarded, earned, paid, or payable,
+disclose the currency exchange rate and describe the methodology used to
+translate the compensation into Canadian dollars or the currency that the company
+uses in its financial statements.
+(10) Plain language
+Information required to be disclosed under this form must be clear, concise, and
+presented in such a way that it provides a reasonable person an understanding of
+(a) how decisions about NEO and director compensation are made, and
+(b) how specific NEO and director compensation relates to the overall
+stewardship and governance of the company.
+Commentary
+Refer to the plain language principles listed in section 1.5 of Companion Policy
+51-102CP Continuous Disclosure Obligations for further guidance.
+8
+ITEM 2 – COMPENSATION DISCUSSION AND ANALYSIS
+2.1 Compensation discussion and analysis
+(1) Describe and explain all significant elements of compensation awarded to, earned
+by, paid to, or payable to NEOs for the most recently completed financial year.
+Include the following:
+(a) the objectives of any compensation program or strategy;
+(b) what the compensation program is designed to reward;
+(c) each element of compensation;
+(d) why the company chooses to pay each element;
+(e) how the company determines the amount (and, where applicable, the
+formula) for each element; and
+(f) how each element of compensation and the company’s decisions about
+that element fit into the company’s overall compensation objectives and
+affect decisions about other elements.
+(2) If applicable, describe any new actions, decisions or policies that were made after
+the end of the most recently completed financial year that could affect a
+reasonable person’s understanding of an NEO’s compensation for the most
+recently completed financial year.
+(3) If applicable, clearly state the benchmark and explain its components, including
+the companies included in the benchmark group and the selection criteria.
+(4) If applicable, disclose performance goals or similar conditions that are based on
+objective, identifiable measures, such as the company’s share price or earnings
+per share. If performance goals or similar conditions are subjective, the company
+may describe the performance goal or similar condition without providing specific
+measures.
+If the company discloses performance goals or similar conditions that are nonGAAP financial measures, explain how the company calculates these
+performance goals or similar conditions from its financial statements.
+Exemption
+The company is not required to disclose performance goals or similar conditions
+in respect of specific quantitative or qualitative performance-related factors if a
+9
+reasonable person would consider that disclosing them would seriously prejudice
+the company’s interests.
+For the purposes of this exemption, a company’s interests are not considered to be
+seriously prejudiced solely by disclosing performance goals or similar conditions
+if those goals or conditions are based on broad corporate-level financial
+performance metrics which include earnings per share, revenue growth, and
+earnings before interest, taxes, depreciation and amortization.
+This exemption does not apply if it has publicly disclosed the performance goals
+or similar conditions.
+If the company is relying on this exemption, state this fact and explain why
+disclosing the performance goals or similar conditions would seriously prejudice
+the company’s interests.
+If the company does not disclose specific performance goals or similar conditions,
+state what percentage of the NEO’s total compensation relates to this undisclosed
+information and how difficult it could be for the NEO, or how likely it will be for
+the company, to achieve the undisclosed performance goal or similar condition.
+(5) Disclose whether or not the board of directors, or a committee of the board,
+considered the implications of the risks associated with the company’s
+compensation policies and practices. If the implications were considered, disclose
+the following:
+(a) the extent and nature of the board of directors’ or committee’s role in the
+risk oversight of the company’s compensation policies and practices;
+(b) any practices the company uses to identify and mitigate compensation
+policies and practices that could encourage an NEO or individual at a
+principal business unit or division to take inappropriate or excessive risks;
+(c) any identified risks arising from the company’s compensation policies and
+practices that are reasonably likely to have a material adverse effect on the
+company.
+(6) Disclose whether or not an NEO or director is permitted to purchase financial
+instruments, including, for greater certainty, prepaid variable forward contracts,
+equity swaps, collars, or units of exchange funds, that are designed to hedge or
+offset a decrease in market value of equity securities granted as compensation or
+held, directly or indirectly, by the NEO or director.
+10
+Commentary
+1. The information disclosed under section 2.1 will depend on the facts.
+Provide enough analysis to allow a reasonable person to understand the
+disclosure elsewhere in this form. Describe the significant principles
+underlying policies and explain the decisions relating to compensation
+provided to an NEO. Disclosure that merely describes the process for
+determining compensation or compensation already awarded, earned,
+paid, or payable is not adequate. The information contained in this section
+should give readers a sense of how compensation is tied to the NEO’s
+performance. Avoid boilerplate language.
+2. If the company’s process for determining executive compensation is very
+simple, for example, the company relies solely on board discussion
+without any formal objectives, criteria and analysis, then make this clear
+in the discussion.
+3. If the company used any benchmarking in determining compensation or
+any element of compensation, include the benchmark group and describe
+why the benchmark group and selection criteria are considered by the
+company to be relevant.
+4. The following are examples of items that will usually be significant
+elements of disclosure concerning compensation:
+• contractual or non-contractual arrangements, plans, process
+changes or any other matters that might cause the amounts
+disclosed for the most recently completed financial year to be
+misleading if used as an indicator of expected compensation levels
+in future periods;
+• the process for determining perquisites and personal benefits;
+• policies and decisions about the adjustment or recovery of awards,
+earnings, payments, or payables if the performance goal or similar
+condition on which they are based is restated or adjusted to reduce
+the award, earning, payment, or payable;
+• the basis for selecting events that trigger payment for any
+arrangement that provides for payment at, following or in
+connection with any termination or change of control;
+• any waiver or change to any specified performance goal or similar
+condition to payout for any amount, including whether the waiver
+or change applied to one or more specified NEOs or to all
+11
+compensation subject to the performance goal or similar
+condition;
+• whether the board of directors can exercise a discretion, either to
+award compensation absent attainment of the relevant
+performance goal or similar condition or to reduce or increase the
+size of any award or payout, including if they exercised discretion
+and whether it applied to one or more named executive officers;
+• whether the company will be making any significant changes to its
+compensation policies and practices in the next financial year;
+• the role of executive officers in determining executive
+compensation; and
+• performance goals or similar conditions in respect of specific
+quantitative or qualitative performance-related factors for NEOs.
+5. The following are examples of situations that could potentially encourage
+an executive officer to expose the company to inappropriate or excessive
+risks:
+• compensation policies and practices at a principal business unit of
+the company or a subsidiary of the company that are structured
+significantly differently than others within the company;
+• compensation policies and practices for certain executive officers
+that are structured significantly differently than other executive
+officers within the company;
+• compensation policies and practices that do not include effective
+risk management and regulatory compliance as part of the
+performance metrics used in determining compensation;
+• compensation policies and practices where the compensation
+expense to executive officers is a significant percentage of the
+company’s revenue;
+• compensation policies and practices that vary significantly from
+the overall compensation structure of the company;
+• compensation policies and practices where incentive plan awards
+are awarded upon accomplishment of a task while the risk to the
+company from that task extends over a significantly longer period
+of time;
+12
+• compensation policies and practices that contain performance
+goals or similar conditions that are heavily weighed to short-term
+rather than long-term objectives;
+• incentive plan awards that do not provide a maximum benefit or
+payout limit to executive officers.
+The examples above are not exhaustive and the situations to consider will
+vary depending upon the nature of the company’s business and the
+company’s compensation policies and practices.
+2.2 Performance graph
+(a) This section does not apply to
+(i) venture issuers,
+(ii) companies that have distributed only debt securities or nonconvertible, non-participating preferred securities to the public,
+and
+(iii) companies that were not reporting issuers in any jurisdiction in
+Canada for at least 12 calendar months before the end of their most
+recently completed financial year, other than companies that
+became new reporting issuers as a result of a restructuring
+transaction.
+(b) Provide a line graph showing the company’s cumulative total shareholder
+return over the five most recently completed financial years. Assume that
+$100 was invested on the first day of the five-year period. If the company
+has been a reporting issuer for less than five years, use the period that the
+company has been a reporting issuer.
+Compare this to the cumulative total return of at least one broad equity
+market index that, to a reasonable person, would be an appropriate
+reference point for the company’s return. If the company is included in the
+S&P/TSX Composite Total Return Index, use that index. In all cases,
+assume that dividends are reinvested.
+Discuss how the trend shown by this graph compares to the trend in the
+company’s compensation to executive officers reported under this form
+over the same period.
+13
+Commentary
+For section 2.2, companies may also include other relevant performance goals or
+similar conditions.
+2.3 Share-based and option-based awards
+Describe the process the company uses to grant share-based or option-based
+awards to executive officers. Include the role of the compensation committee and
+executive officers in setting or amending any equity incentive plan under which a
+share-based or option-based award is granted. State whether previous grants are
+taken into account when considering new grants.
+2.4 Compensation governance
+(1) Describe any policies and practices adopted by the board of directors to determine
+the compensation for the company’s directors and executive officers.
+(2) If the company has established a compensation committee
+(a) disclose the name of each committee member and, in respect of each
+member, state whether or not the member is independent or not
+independent;
+(b) disclose whether or not one or more of the committee members has any
+direct experience that is relevant to his or her responsibilities in executive
+compensation;
+(c) describe the skills and experience that enable the committee to make
+decisions on the suitability of the company’s compensation policies and
+practices; and
+(d) describe the responsibilities, powers and operation of the committee.
+(3) If a compensation consultant or advisor has, at any time since the company’s most
+recently completed financial year, been retained to assist the board of directors or
+the compensation committee in determining compensation for any of the
+company’s directors or executive officers
+(a) state the name of the consultant or advisor and a summary of the mandate
+the consultant or advisor has been given,
+(b) disclose when the consultant or advisor was originally retained,
+(c) if the consultant or advisor has provided any services to the company, or
+to its affiliated or subsidiary entities, or to any of its directors or members
+14
+of management, other than or in addition to compensation services
+provided for any of the company’s directors or executive officers,
+(i) state this fact and briefly describe the nature of the work, and
+(ii) disclose whether the board of directors or compensation committee
+must pre-approve other services the consultant or advisor, or any
+of its affiliates, provides to the company at the request of
+management, and
+(d) for each of the two most recently completed financial year, disclose,
+(i) under the caption "Executive Compensation-Related Fees", the
+aggregate fees billed by each consultant or advisor, or any of its
+affiliates, for services related to determining compensation for any
+of the company's directors and executive officers, and
+(ii) under the caption "All Other Fees", the aggregate fees billed for all
+other services provided by each consultant or advisor, or any of its
+affiliates, that are not reported under subparagraph (i) and include
+a description of the nature of the services comprising the fees
+disclosed under this category.
+Commentary
+For section 2.4, a director is independent if he or she would be independent
+within the meaning of section 1.4 of National Instrument 52-110 Audit
+Committees.
+ITEM 3 – SUMMARY COMPENSATION TABLE
+3.1 Summary compensation table
+(1) For each NEO in the most recently completed financial year, complete this table
+for each of the company’s three most recently completed financial years that end
+on or after December 31, 2008.
+15
+Name
+and
+principal
+position
+(a)
+Year
+(b)
+Salary
+($)
+(c)
+Sharebased
+awards
+($)
+(d)
+Optionbased
+awards
+($)
+(e)
+Non-equity
+incentive plan
+compensation
+($)
+(f)
+Pension
+value
+($)
+(g)
+All other
+compensation
+($)
+(h)
+Total
+compensation
+($)
+(i)
+Annual
+incentive
+plans
+(f1)
+Longterm
+incentive
+plans
+(f2)
+CEO
+CFO
+A
+B
+C
+Commentary
+Under subsection (1), a company is not required to disclose comparative period
+disclosure in accordance with the requirements of either Form 51-102F6
+Statement of Executive Compensation, which came into force on March 30, 2004,
+as amended, or this form, in respect of a financial year ending before December
+31, 2008.
+(2) In column (c), include the dollar value of cash and non-cash base salary an NEO
+earned during a financial year covered in the table (a covered financial year). If
+the company cannot calculate the amount of salary earned in a financial year,
+disclose this in a footnote, along with the reason why it cannot be determined.
+Restate the salary figure the next time the company prepares this form, and
+explain what portion of the restated figure represents an amount that the company
+could not previously calculate.
+(3) In column (d), disclose the dollar amount based on the fair value of the award on
+the grant date for a covered financial year.
+16
+(4) In column (e), disclose the dollar amount based on the fair value of the award on
+the grant date for a covered financial year. Include option-based awards both with
+or without tandem share appreciation rights.
+(5) For an award disclosed in column (d) or (e), in a narrative after the table,
+(a) describe the methodology used to calculate the fair value of the award on
+the grant date, disclose the key assumptions and estimates used for each
+calculation, and explain why the company chose that methodology, and
+(b) if the fair value of the award on the grant date is different from the fair
+value determined in accordance with IFRS 2 Share-based Payment
+(accounting fair value), state the amount of the difference and explain the
+reasons for the difference.
+Commentary
+1. This commentary applies to subsections (3), (4) and (5).
+2. The value disclosed in columns (d) and (e) of the summary compensation
+table should reflect what the company paid, made payable, awarded,
+granted, gave or otherwise provided as compensation on the grant date
+(fair value of the award) as set out in comment 3, below. This value might
+differ from the value reported in the issuer’s financial statements.
+3. While compensation practices vary, there are generally two approaches
+that boards of directors use when setting compensation. A board of
+directors may decide the value in securities of the company to be awarded
+or paid as compensation. Alternatively, a board of directors may decide
+the portion of the potential ownership of the company to be transferred as
+compensation. A fair value ascribed to the award will normally result
+from these approaches.
+A company may calculate this value either in accordance with a valuation
+methodology identified in IFRS 2 Share-based Payment or in accordance
+with another methodology set out in comment 5 below.
+4. In some cases, the fair value of the award disclosed in columns (d) and (e)
+might differ from the accounting fair value. For financial statement
+purposes, the accounting fair value amount is amortized over the service
+period to obtain an accounting cost (accounting compensation expense),
+adjusted at year end as required.
+5. While the most commonly used methodologies for calculating the value of
+most types of awards are the Black-Scholes-Merton model and the
+17
+binomial lattice model, companies may choose to use another valuation
+methodology if it produces a more meaningful and reasonable estimate of
+fair value.
+6. The summary compensation table requires disclosure of an amount even if
+the accounting compensation expense is zero. The amount disclosed in the
+table should reflect the fair value of the award following the principles
+described under comments 2 and 3, above.
+7. Column (d) includes common shares, restricted shares, restricted share
+units, deferred share units, phantom shares, phantom share units, common
+share equivalent units, stock, and similar instruments that do not have
+option-like features.
+(6) In column (e), include the incremental fair value if, at any time during the covered
+financial year, the company has adjusted, amended, cancelled, replaced or
+significantly modified the exercise price of options previously awarded to, earned
+by, paid to, or payable to, an NEO. The repricing or modification date must be
+determined in accordance with IFRS 2 Share-based Payment. The methodology
+used to calculate the incremental fair value must be the same methodology used to
+calculate the initial grant.
+This requirement does not apply to any repricing that equally affects all holders of
+the class of securities underlying the options and that occurs through a preexisting formula or mechanism in the plan or award that results in the periodic
+adjustment of the option exercise or base price, an antidilution provision in a plan
+or award, or a recapitalization or similar transaction.
+(7) Include a footnote to the table quantifying the incremental fair value of any
+adjusted, amended, cancelled, replaced or significantly modified options that are
+included in the table.
+(8) In column (f), include the dollar value of all amounts earned for services
+performed during the covered financial year that are related to awards under nonequity incentive plans and all earnings on any such outstanding awards.
+(a) If the relevant performance goal or similar condition was satisfied during a
+covered financial year (including for a single year in a plan with a multiyear performance goal or similar condition), report the amounts earned for
+that financial year, even if they are payable at a later date. The company is
+not required to report these amounts again in the summary compensation
+table when they are actually paid to an NEO.
+(b) Include a footnote describing and quantifying all amounts earned on nonequity incentive plan compensation, whether they were paid during the
+18
+financial year, were payable but deferred at the election of an NEO, or are
+payable by their terms at a later date.
+(c) Include any discretionary cash awards, earnings, payments, or payables
+that were not based on pre-determined performance goals or similar
+conditions that were communicated to an NEO. Report any performancebased plan awards that include pre-determined performance goals or
+similar conditions in column (f).
+(d) In column (f1), include annual non-equity incentive plan compensation,
+such as bonuses and discretionary amounts. For column (f1), annual nonequity incentive plan compensation relates only to a single financial year.
+In column (f2), include all non-equity incentive plan compensation related
+to a period longer than one year.
+(9) In column (g), include all compensation relating to defined benefit or defined
+contribution plans. These include service costs and other compensatory items
+such as plan changes and earnings that are different from the estimated earnings
+for defined benefit plans and above-market earnings for defined contribution
+plans.
+This disclosure relates to all plans that provide for the payment of pension plan
+benefits. Use the same amounts included in column (e) of the defined benefit plan
+table required by Item 5 for the covered financial year and the amounts included
+in column (c) of the defined contribution plan table as required by Item 5 for the
+covered financial year.
+(10) In column (h), include all other compensation not reported in any other column of
+this table. Column (h) must include, but is not limited to:
+(a) perquisites, including property or other personal benefits provided to an
+NEO that are not generally available to all employees, and that in
+aggregate are worth $50,000 or more, or are worth 10% or more of an
+NEO’s total salary for the financial year. Value these items on the basis of
+the aggregate incremental cost to the company and its subsidiaries.
+Describe in a footnote the methodology used for computing the aggregate
+incremental cost to the company.
+State the type and amount of each perquisite the value of which exceeds
+25% of the total value of perquisites reported for an NEO in a footnote to
+the table. Provide the footnote information for the most recently
+completed financial year only;
+(b) other post-retirement benefits such as health insurance or life insurance
+after retirement;
+19
+(c) all “gross-ups” or other amounts reimbursed during the covered financial
+year for the payment of taxes;
+(d) the incremental payments, payables, and benefits to an NEO that are
+triggered by, or result from, a scenario listed in section 6.1 that occurred
+before the end of the covered financial year;
+(e) the dollar value of any insurance premiums paid or payable by, or on
+behalf of, the company during the covered financial year for personal
+insurance for an NEO if the estate of the NEO is the beneficiary;
+(f) the dollar value of any dividends or other earnings paid or payable on
+share-based or option-based awards that were not factored into the fair
+value of the award on the grant date required to be reported in columns (d)
+and (e);
+(g) any compensation cost for any security that the NEO bought from the
+company or its subsidiaries at a discount from the market price of the
+security (through deferral of salary, bonus or otherwise). Calculate this
+cost at the date of purchase and in accordance with IFRS 2 Share-based
+Payment; and
+(h) above-market or preferential earnings on compensation that is deferred on
+a basis that is not tax exempt other than for defined contribution plans
+covered in the defined contribution plan table in Item 5. Above-market or
+preferential applies to non-registered plans and means a rate greater than
+the rate ordinarily paid by the company or its subsidiary on securities or
+other obligations having the same or similar features issued to third
+parties.
+(i) any company contribution to a personal savings plan like a registered
+retirement savings plan made on behalf of the NEO.
+Commentary
+1. Generally, there will be no incremental payments, payables, and benefits
+that are triggered by, or result from, a scenario described in section 6.1
+that occurred before the end of a covered financial year for compensation
+that has been reported in the summary compensation table for the most
+recently completed financial year or for a financial year before the most
+recently completed financial year.
+If the vesting or payout of the previously reported compensation is
+accelerated, or a performance goal or similar condition in respect of the
+previously reported compensation is waived, as a result of a scenario
+described in section 6.1, the incremental payments, payables, and benefits
+20
+should include the value of the accelerated benefit or of the waiver of the
+performance goal or similar condition.
+2. Generally, an item is not a perquisite if it is integrally and directly related
+to the performance of an executive officer’s duties. If something is
+necessary for a person to do his or her job, it is integrally and directly
+related to the job and is not a perquisite, even if it also provides some
+amount of personal benefit.
+If the company concludes that an item is not integrally and directly related
+to performing the job, it may be a perquisite if the item provides an NEO
+with any direct or indirect personal benefit. If it does provide a personal
+benefit, the item is a perquisite, whether or not it is provided for a
+business reason or for the company’s convenience, unless it is generally
+available on a non-discriminatory basis to all employees.
+Companies must conduct their own analysis of whether a particular item
+is a perquisite. The following are examples of things that are often
+considered perquisites or personal benefits. This list is not exhaustive:
+• Cars, car lease and car allowance;
+• Corporate aircraft or personal travel financed by the company;
+• Jewellery;
+• Clothing;
+• Artwork;
+• Housekeeping services;
+• Club membership;
+• Theatre tickets;
+• Financial assistance to provide education to children of executive
+officers;
+• Parking;
+• Personal financial or tax advice;
+• Security at personal residence or during personal travel; and
+21
+• Reimbursements of taxes owed with respect to perquisites or other
+personal benefit.
+(11) In column (i), include the dollar value of total compensation for the covered
+financial year. For each NEO, this is the sum of the amounts reported in columns
+(c) through (h).
+(12) Any deferred amounts must be included in the appropriate column for the covered
+financial year in which they are earned.
+(13) If an NEO elected to exchange any compensation awarded to, earned by, paid to,
+or payable to the NEO in a covered financial year under a program that allows the
+NEO to receive awards, earnings, payments, or payables in another form, the
+compensation the NEO elected to exchange must be reported as compensation in
+the column appropriate for the form of compensation exchanged: Do not report it
+in the form in which it was or will be received by the NEO. State in a footnote the
+form of awards, earnings, payments, or payables substituted for the compensation
+the NEO elected to exchange.
+3.2 Narrative discussion
+Describe and explain any significant factors necessary to understand the
+information disclosed in the summary compensation table required by section 3.1.
+Commentary
+The significant factors described in section 3.2 will vary depending on the
+circumstances of each award but may include:
+• the significant terms of each NEO’s employment agreement or
+arrangement;
+• any repricing or other significant changes to the terms of any share-based
+or option-based award program during the most recently completed
+financial year; and
+• the significant terms of any award reported in the summary compensation
+table, including a general description of the formula or criterion to be
+applied in determining the amounts payable and the vesting schedule. For
+example, if dividends will be paid on shares, state this, the applicable
+dividend rate and whether that rate is preferential.
+3.3 [Repealed]
+22
+3.4 Officers who also act as directors
+If an NEO is also a director who receives compensation for services as a director,
+include that compensation in the summary compensation table and include a
+footnote explaining which amounts relate to the director role. Do not provide
+disclosure for that NEO under Item 7.
+ITEM 4 – INCENTIVE PLAN AWARDS
+4.1 Outstanding share-based awards and option-based awards
+(1) Complete this table for each NEO for all awards outstanding at the end of the
+most recently completed financial year. This includes awards granted before the
+most recently completed financial year. For all awards in this table, disclose the
+awards that have been transferred at other than fair market value.
+Option-based Awards Share-based Awards
+Name
+(a)
+Number of
+securities
+underlying
+unexercised
+options
+(#)
+(b)
+Option
+exercise
+price
+($)
+(c)
+Option
+expiration
+date
+(d)
+Value of
+unexercised
+in-themoney
+options
+($)
+(e)
+Number
+of shares
+or units
+of shares
+that have
+not
+vested
+(#)
+(f)
+Market or
+payout
+value of
+share-based
+awards that
+have not
+vested
+($)
+(g)
+Market or
+payout
+value of
+vested
+share-based
+awards not
+paid out or
+distributed
+($)
+(h)
+CEO
+CFO
+A
+B
+C
+(2) In column (b), for each award, disclose the number of securities underlying
+unexercised options.
+(3) In column (c), disclose the exercise or base price for each option under each
+award reported in column (b). If the option was granted in a different currency
+than that reported in the table, include a footnote describing the currency and the
+exercise or base price.
+(4) In column (d), disclose the expiration date for each option under each award
+reported in column (b).
+(5) In column (e), disclose the aggregate dollar amount of in-the-money unexercised
+options held at the end of the year. Calculate this amount based on the difference
+23
+between the market value of the securities underlying the instruments at the end
+of the year, and the exercise or base price of the option.
+(6) In column (f), disclose the total number of shares or units that have not vested.
+(7) In column (g), disclose the aggregate market value or payout value of share-based
+awards that have not vested.
+If the share-based award provides only for a single payout on vesting, calculate
+this value based on that payout.
+If the share-based award provides for different payouts depending on the
+achievement of different performance goals or similar conditions, calculate this
+value based on the minimum payout. However, if the NEO achieved a
+performance goal or similar condition in a financial year covered by the sharebased award that on vesting could provide for a payout greater than the minimum
+payout, calculate this value based on the payout expected as a result of the NEO
+achieving this performance goal or similar condition.
+(8) In column (h), disclose the aggregate market value or payout value of vested
+share-based awards that have not yet been paid out or distributed.
+4.2 Incentive plan awards – value vested or earned during the year
+(1) Complete this table for each NEO for the most recently completed financial year.
+Name
+(a)
+Option-based awards – Value
+vested during the year
+($)
+(b)
+Share-based awards – Value
+vested during the year
+($)
+(c)
+Non-equity incentive plan
+compensation – Value
+earned during the year
+($)
+(d)
+CEO
+CFO
+A
+B
+C
+(2) In column (b), disclose the aggregate dollar value that would have been realized if
+the options under the option-based award had been exercised on the vesting date.
+Compute the dollar value that would have been realized by determining the
+difference between the market price of the underlying securities at exercise and
+the exercise or base price of the options under the option-based award on the
+vesting date. Do not include the value of any related payment or other
+consideration provided (or to be provided) by the company to or on behalf of an
+NEO.
+24
+(3) In column (c), disclose the aggregate dollar value realized upon vesting of sharebased awards. Compute the dollar value realized by multiplying the number of
+shares or units by the market value of the underlying shares on the vesting date.
+For any amount realized upon vesting for which receipt has been deferred, include
+a footnote that states the amount and the terms of the deferral.
+4.3 Narrative discussion
+Describe and explain the significant terms of all plan-based awards, including
+non-equity incentive plan awards, issued or vested, or under which options have
+been exercised, during the year, or outstanding at the year end, to the extent not
+already discussed under sections 2.1, 2.3 and 3.2. The company may aggregate
+information for different awards, if separate disclosure of each award is not
+necessary to communicate their significant terms.
+Commentary
+The items included in the narrative required by section 4.3 will vary depending on
+the terms of each plan, but may include:
+• the number of securities underlying each award or received on vesting or
+exercise;
+• general descriptions of formulae or criteria that are used to determine
+amounts payable;
+• exercise prices and expiry dates;
+• dividend rates on share-based awards;
+• whether awards are vested or unvested;
+• performance goals or similar conditions, or other significant conditions;
+• information on estimated future payouts for non-equity incentive plan
+awards (performance goals or similar conditions and maximum amounts);
+and
+• the closing market price on the grant date, if the exercise or base price is
+less than the closing market price of the underlying security on the grant
+date.
+25
+ITEM 5 – PENSION PLAN BENEFITS
+5.1 Defined benefit plans table
+(1) Complete this table for all pension plans that provide for payments or benefits at,
+following, or in connection with retirement, excluding defined contribution plans.
+For all disclosure in this table, use the same assumptions and methods used for
+financial statement reporting purposes under the accounting principles used to
+prepare the company’s financial statements, as permitted by National Instrument
+52-107 Acceptable Accounting Principles and Auditing Standards.
+Name
+(a)
+Number
+of years
+credited
+service
+(#)
+(b)
+Annual benefits
+payable
+($)
+(c)
+Opening
+present
+value of
+defined
+benefit
+obligation
+($)
+(d)
+Compensatory
+change
+($)
+(e)
+Noncompensatory
+change
+($)
+(f)
+Closing
+present
+value of
+defined
+benefit
+obligation
+($)
+(g)
+At
+year
+end
+(c1)
+At
+age
+65
+(c2)
+CEO
+CFO
+A
+B
+C
+(2) In columns (b) and (c), the disclosure must be as of the end of the company’s
+most recently completed financial year. In columns (d) through (g), the disclosure
+must be as of the reporting date used in the company’s audited annual financial
+statements for the most recently completed financial year.
+(3) In column (b), disclose the number of years of service credited to an NEO under
+the plan. If the number of years of credited service in any plan is different from
+the NEO’s number of actual years of service with the company, include a footnote
+that states the amount of the difference and any resulting benefit augmentation,
+such as the number of additional years the NEO received.
+(4) In column (c), disclose
+(a) the annual lifetime benefit payable at the end of the most recently
+completed financial year in column (c1) based on years of credited service
+reported in column (b) and actual pensionable earnings as at the end of the
+most recently completed financial year. For the purposes of this
+calculation, the company must assume that the NEO is eligible to receive
+payments or benefits at year end, and
+26
+(b) the annual lifetime benefit payable at age 65 in column (c2) based on
+years of credited service as of age 65 and actual pensionable earnings
+through the end of the most recently completed financial year, as per
+column (c1).
+Commentary
+For the purposes of quantifying the annual lifetime benefit payable at the end of
+the most recently completed financial year in column (c1), the company may
+calculate the annual lifetime benefit payable as follows:
+The company may calculate the annual lifetime benefit payable in accordance
+with another formula if the company reasonably believes that it produces a more
+meaningful calculation of the annual lifetime benefit payable at year end.
+(5) In column (d), disclose the present value of the defined benefit obligation at the
+start of the most recently completed financial year.
+(6) In column (e), disclose the compensatory change in the present value of the
+defined benefit obligation for the most recently completed financial year. This
+includes service cost net of employee contributions plus plan changes and
+differences between actual and estimated earnings, and any additional changes
+that have retroactive impact, including, for greater certainty, a change in valuation
+assumptions as a consequence of an amendment to benefit terms.
+Disclose the valuation method and all significant assumptions the company
+applied in quantifying the closing present value of the defined benefit obligation.
+The company may satisfy all or part of this disclosure by referring to the
+disclosure of assumptions in its financial statements, footnotes to the financial
+statements or discussion in its management’s discussion and analysis.
+(7) In column (f), disclose the non-compensatory changes in the present value of the
+defined benefit obligation for the company’s most recently completed financial
+year. Include all items that are not compensatory, such as changes in assumptions
+other than those already included in column (e) because they were made as a
+consequence of an amendment to benefit terms, employee contributions and
+annual benefits payable at the presumed X
+years of credited
+service at year end
+retirement age used to calculate the closing
+present value of the defined benefit
+obligation
+years of credited
+service at the
+presumed retirement
+age
+27
+interest on the present value of the defined benefit obligation at the start of the
+most recently completed financial year.
+(8) In column (g), disclose the present value of the defined benefit obligation at the
+end of the most recently completed financial year.
+5.2 Defined contribution plans table
+(1) Complete this table for all pension plans that provide for payments or benefits at,
+following or in connection with retirement, excluding defined benefit plans. For
+all disclosure in this table, use the same assumptions and methods used for
+financial statement reporting purposes under the accounting principles used to
+prepare the company’s financial statements, as permitted by National Instrument
+52-107 Acceptable Accounting Principles and Auditing Standards.
+Name
+(a)
+Accumulated value
+at start of year
+($)
+(b)
+Compensatory
+($)
+(c)
+Accumulated value at year
+end
+($)
+(d)
+CEO
+CFO
+A
+B
+C
+(2) In column (c), disclose the employer contribution and above-market or
+preferential earnings credited on employer and employee contributions. Abovemarket or preferential earnings applies to non-registered plans and means a rate
+greater than the rate ordinarily paid by the company or its subsidiary on securities
+or other obligations having the same or similar features issued to third parties.
+(3) [Repealed]
+(4) In column (d), disclose the accumulated value at the end of the most recently
+completed financial year.
+Commentary
+1. For pension plans that provide the maximum of: (i) the value of a defined
+benefit pension; and (ii) the accumulated value of a defined contribution
+pension, companies should disclose the global value of the pension plan in
+the defined benefit plans table under section 5.1.
+For pension plans that provide the sum of a defined benefit component
+and a defined contribution component, companies should disclose the
+respective components of the pension plan. The defined benefit component
+28
+should be disclosed in the defined benefit plans table under section 5.1
+and the defined contribution component should be disclosed in the defined
+contribution plans table under section 5.2.
+2. Any contributions by the company or a subsidiary of the company to a
+personal savings plan like a registered retirement savings plan made on
+behalf of the NEO must still be disclosed in column (h) of the summary
+compensation table, as required by paragraph 3.1(10)(i).
+5.3 Narrative discussion
+Describe and explain for each retirement plan in which an NEO participates, any
+significant factors necessary to understand the information disclosed in the
+defined benefit plan table in section 5.1 and the defined contribution plan table in
+section 5.2.
+Commentary
+Significant factors described in the narrative required by section 5.3 will vary, but
+may include:
+• the significant terms and conditions of payments and benefits available
+under the plan, including the plan’s normal and early retirement payment,
+benefit formula, contribution formula, calculation of interest credited
+under the defined contribution plan and eligibility standards;
+• provisions for early retirement, if applicable, including the name of the
+NEO and the plan, the early retirement payment and benefit formula and
+eligibility standards. Early retirement means retirement before the normal
+retirement age as defined in the plan or otherwise available under the
+plan;
+• the specific elements of compensation (e.g., salary, bonus) included in
+applying the payment and benefit formula. If a company provides this
+information, identify each element separately; and
+• company policies on topics such as granting extra years of credited
+service, including an explanation of who these arrangements relate to and
+why they are considered appropriate.
+5.4 Deferred compensation plans
+Describe the significant terms of any deferred compensation plan relating to each
+NEO, including:
+29
+(a) the types of compensation that can be deferred and any limitations on the
+extent to which deferral is permitted (by percentage of compensation or
+otherwise);
+(b) significant terms of payouts, withdrawals and other distributions; and
+(c) measures for calculating interest or other earnings, how and when these
+measures may be changed, and whether an NEO or the company chose
+these measures. Quantify these measures wherever possible.
+ITEM 6 – TERMINATION AND CHANGE OF CONTROL BENEFITS
+6.1 Termination and change of control benefits
+(1) For each contract, agreement, plan or arrangement that provides for payments to
+an NEO at, following or in connection with any termination (whether voluntary,
+involuntary or constructive), resignation, retirement, a change in control of the
+company or a change in an NEO’s responsibilities, describe, explain, and where
+appropriate, quantify the following items:
+(a) the circumstances that trigger payments or the provision of other benefits,
+including perquisites and pension plan benefits;
+(b) the estimated incremental payments, payables, and benefits that are
+triggered by, or result from, each circumstance, including timing, duration
+and who provides the payments and benefits;
+(c) how the payment and benefit levels are determined under the various
+circumstances that trigger payments or provision of benefits;
+(d) any significant conditions or obligations that apply to receiving payments
+or benefits. This includes but is not limited to, non-compete, nonsolicitation, non-disparagement or confidentiality agreements. Include the
+term of these agreements and provisions for waiver or breach; and
+(e) any other significant factors for each written contract, agreement, plan or
+arrangement.
+(2) Disclose the estimated incremental payments, payables, and benefits even if it is
+uncertain what amounts might be paid in given circumstances under the various
+plans and arrangements, assuming that the triggering event took place on the last
+business day of the company’s most recently completed financial year. For
+valuing share-based awards or option-based awards, use the closing market price
+of the company’s securities on that date.
+30
+If the company is unsure about the provision or amount of payments or benefits,
+make a reasonable estimate (or a reasonable estimate of the range of amounts) and
+disclose the significant assumptions underlying these estimates.
+(3) Despite subsection (1), the company is not required to disclose the following:
+(a) Perquisites and other personal benefits if the aggregate of this
+compensation is less than $50,000. State the individual perquisites and
+personal benefits as required by paragraph 3.1(10)(a).
+(b) Information about possible termination scenarios for an NEO whose
+employment terminated in the past year. The company must only disclose
+the consequences of the actual termination.
+(c) Information in respect of a scenario described in subsection (1) if there
+will be no incremental payments, payables, and benefits that are triggered
+by, or result from, that scenario.
+Commentary
+1. Subsection (1) does not require the company to disclose notice of
+termination without cause, or compensation in lieu thereof, which are
+implied as a term of an employment contract under common law or civil
+law.
+2. Item 6 applies to changes of control regardless of whether the change of
+control results in termination of employment.
+3. Generally, there will be no incremental payments, payables, and benefits
+that are triggered by, or result from, a scenario described in subsection
+(1) for compensation that has been reported in the summary compensation
+table for the most recently completed financial year or for a financial year
+before the most recently completed financial year.
+If the vesting or payout of the previously reported compensation is
+accelerated, or a performance goal or similar condition in respect of the
+previously reported compensation is waived, as a result of a scenario
+described in subsection (1), the incremental payments, payables, and
+benefits should include the value of the accelerated benefit or of the
+waiver of the performance goal or similar condition.
+4. A company may disclose estimated incremental payments, payables and
+benefits that are triggered by, or result from, a scenario described in
+subsection (1), in a tabular format.
+31
+ITEM 7 – DIRECTOR COMPENSATION
+7.1 Director compensation table
+(1) Complete this table for all amounts of compensation provided to the directors for
+the company’s most recently completed financial year.
+Name
+(a)
+Fees
+earned
+($)
+(b)
+Sharebased
+awards
+($)
+(c)
+Optionbased
+awards
+($)
+(d)
+Non-equity
+incentive plan
+compensation
+($)
+(e)
+Pension
+value ($)
+(f)
+All other
+compensation
+($)
+(g)
+Total
+($)
+(h)
+A
+B
+C
+D
+E
+(2) All forms of compensation must be included in this table.
+(3) Complete each column in the manner required for the corresponding column in
+the summary compensation table in section 3.1, in accordance with the
+requirements of Item 3, as supplemented by the commentary to Item 3, except as
+follows:
+(a) In column (a), do not include a director who is also an NEO if his or her
+compensation for service as a director is fully reflected in the summary
+compensation table and elsewhere in this form. If an NEO is also a
+director who receives compensation for his or her services as a director,
+reflect the director compensation in the summary compensation table
+required by section 3.1 and provide a footnote to this table indicating that
+the relevant disclosure has been provided under section 3.4.
+(b) In column (b), include all fees awarded, earned, paid, or payable in cash
+for services as a director, including annual retainer fees, committee, chair,
+and meeting fees.
+(c) In column (g), include all compensation paid, payable, awarded, granted,
+given, or otherwise provided, directly or indirectly, by the company, or a
+subsidiary of the company, to a director in any capacity, under any other
+arrangement. This includes, for greater certainty, all plan and non-plan
+compensation, direct and indirect pay, remuneration, economic or
+financial award, reward, benefit, gift or perquisite paid, payable, awarded,
+granted, given, or otherwise provided to the director for services provided,
+directly or indirectly, to the company or a subsidiary of the company. In a
+32
+footnote to the table, disclose these amounts and describe the nature of the
+services provided by the director that are associated with these amounts.
+(d) In column (g), include programs where the company agrees to make
+donations to one or more charitable institutions in a director’s name,
+payable currently or upon a designated event such as the retirement or
+death of the director. Include a footnote to the table disclosing the total
+dollar amount payable under the program.
+7.2 Narrative discussion
+Describe and explain any factors necessary to understand the director
+compensation disclosed in section 7.1.
+Commentary
+Significant factors described in the narrative required by section 7.2 will vary, but
+may include:
+• disclosure for each director who served in that capacity for any part of the
+most recently completed financial year;
+• standard compensation arrangements, such as fees for retainer, committee
+service, service as chair of the board or a committee, and meeting
+attendance;
+• any compensation arrangements for a director that are different from the
+standard arrangements, including the name of the director and a
+description of the terms of the arrangement; and
+• any matters discussed in the compensation discussion and analysis that do
+not apply to directors in the same way that they apply to NEOs such as
+practices for granting option-based awards.
+7.3 Share-based awards, option-based awards and non-equity incentive plan
+compensation
+Provide the same disclosure for directors that is required under Item 4 for NEOs.
+ITEM 8 – COMPANIES REPORTING IN THE UNITED STATES
+8.1 Companies reporting in the United States
+(1) Except as provided in subsection (2), SEC issuers may satisfy the requirements of
+this form by providing the information they are required to disclose in the United
+33
+States under Item 402 “Executive compensation” of Regulation S-K under the
+1934 Act.
+(2) Subsection (1) does not apply to a company that, as a foreign private issuer,
+satisfies Item 402 of Regulation S-K by providing the information required by
+Items 6.B “Compensation” and 6.E.2 “Share Ownership” of Form 20-F under the
+1934 Act.
+ITEM 9 – EFFECTIVE DATE AND TRANSITION
+9.1 Effective date
+(1) This form comes into force on December 31, 2008.
+(2) This form applies to a company in respect of a financial year ending on or after
+December 31, 2008.
+9.2 Transition
+(1) The form entitled Form 51-102F6 Statement of Executive Compensation, which
+came into force on March 30, 2004, as amended,
+(a) does not apply to a company in respect of a financial year ending on or
+after December 31, 2008, and
+(b) for greater certainty, applies to a company that is required to prepare and
+file executive compensation disclosure because
+(i) the company is sending an information circular to a securityholder
+under paragraph 9.1(2)(a) of National Instrument 51-102
+Continuous Disclosure Obligations, the information circular
+includes the disclosure required by Item 8 of Form 51-102F5, and
+the information circular is in respect of a financial year ending
+before December 31, 2008, or
+(ii) the company is filing an AIF that includes the disclosure required
+by Item 8 of Form 51-102F5, in accordance with Item 18 of Form
+51-102F2, and the AIF is in respect of a financial year ending
+before December 31, 2008.
+(2) A company that is required to prepare and file executive compensation disclosure
+for a reason set out in paragraph (1)(b) may satisfy that requirement by preparing
+and filing the disclosure required by this form.

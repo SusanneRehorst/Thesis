@@ -1,0 +1,829 @@
+II
+(Information)
+INFORMATION FROM EUROPEAN UNION INSTITUTIONS, BODIES, OFFICES
+AND AGENCIES
+EUROPEAN COMMISSION
+COMMUNICATION FROM THE COMMISSION
+Guidelines on non-financial reporting
+(methodology for reporting non-financial information)
+(2017/C 215/01)
+Table of contents
+Page
+1. Introduction 
+2. Purpose 
+3. Key principles 
+3.1. Disclose material information 
+3.2. Fair, balanced and understandable 
+3.3. Comprehensive but concise 
+3.4. Strategic and forward-looking 
+3.5. Stakeholder orientated 
+3.6. Consistent and coherent 
+4. Content 
+4.1. Business Model
+4.2. Policies and due diligence
+4.3. Outcome
+4.4. Principal risks and their management 
+4.5. Key Performance Indicators
+4.6. Thematic aspects 
+5. Reporting Frameworks 
+6. Board diversity disclosure 
+1 INTRODUCTION
+Directive 2014/95/EU of the European Parliament and of the Council (
+1
+) on disclosure of non-financial and diversity
+information by certain large undertakings and groups (‘the Directive’) entered into force on 6 December 2014. This
+Directive amends Directive 2013/34/EU (
+2
+) on the annual financial statements, consolidated statements and related
+reports of certain types of undertakings. Companies concerned will start applying the Directive as of 2018, on information relating to the 2017 financial year.
+(
+1
+) OJ L 330, 15.11.2014, p. 1.
+(
+2
+) OJ L 182, 29.6.2013, p. 19.
+5.7.2017 EN Official Journal of the European Union C 215/1
+Greater transparency is expected to make companies (
+1
+) more resilient and perform better, both in financial and nonfinancial terms. Over time this will lead to more robust growth and employment and increased trust among stakeholders,
+including investors and consumers. Transparent business management is also consistent with longer-term investment.
+The disclosure requirements for non-financial information apply to certain large companies with more than 500 employees,
+as the cost of obliging small and medium-sized enterprises to apply them could outweigh the benefits. This approach keeps
+administrative burden to a minimum. Companies are required to disclose relevant, useful information that is necessary to
+understand their development, performance, position and the impact of their activity, rather than an exhaustive, detailed
+report. Furthermore, disclosures may be provided at group level, rather than by each individual affiliate within a group. The
+Directive also gives companies significant flexibility to disclose relevant information in the way that they consider most
+useful, including in a separate report. Companies may rely on international, EU-based or national frameworks.
+Appropriate non-financial disclosure is an essential element to enable sustainable finance. The European Commission
+decided on 28 October 2016 to establish a High Level Expert Group on sustainable finance. This builds on the Commission's goal to develop an overarching and comprehensive EU strategy on sustainable finance as part of the Capital
+Markets Union. The group is expected to submit to the Commission a set of policy recommendations by end of 2017.
+UN Sustainable Development Goals and the Paris agreement
+In response to the global 2030 Agenda adopted by the General Assembly of the United Nations in September 2015, on
+22 November 2016 the European Commission published its Communication on ‘The next steps for a sustainable European future’ (
+2
+). The disclosure requirements arising from the Directive make an important contribution towards the
+Sustainable Development Goals, for example Goal 12 on ensuring sustainable consumption and production patterns (
+3
+)
+and Goal 5 on achieving gender equality and empowering all women and girls (
+4
+).
+Those requirements contribute as well to implementing the Paris Climate Agreement, notably greater transparency is
+expected to lead to financial flows more consistent with a pathway towards low greenhouse gas emissions and climateresilient development.
+Financial Stability Board
+At the request of the G20 Finance Ministers and Central Bank Governors, in December 2015 the Financial Stability
+Board (FSB) established an industry-led Task Force to develop recommendations for voluntary climate-related financial
+risk disclosures. This complements work carried out by the G20 Green Finance Study Group.
+The work of the Task Force has been monitored closely and taken into account, as far as possible, in these guidelines (
+5
+).
+In general terms, the Task Force's recommendations concern areas already identified by the Directive, such as governance, strategy, risk management and metrics.
+The non-binding guidelines
+Article 2 of the Directive refers to ‘guidance on reporting’ and sets out that ‘the Commission shall prepare non-binding
+guidelines on methodology for reporting non-financial information, including non-financial KPIs, general and sectoral,
+with a view to facilitating relevant, useful and comparable disclosure of non-financial information by undertakings. […]’
+Recital 17 of the Directive states that, when preparing the non-binding guidelines, ‘the Commission should take into
+account current best practices, international developments and the results of related Union initiatives.’
+(
+1
+) The guidelines use the term ‘company’, for ease of reading, when referring to the reporting ‘entity’, be it a single ‘undertaking’ or
+a ‘group’ through its parent company.
+(
+2
+) COM(2016) 739 final.
+(
+3
+) Target 12.6: ‘Encourage companies, especially large and transnational companies, to adopt sustainable practices and to integrate sustainability information into their reporting cycle’.
+(
+4
+) Target 5.5: ‘Ensure women's full and effective participation and equal opportunities for leadership at all levels of decision making in
+political, economic and public life’.
+(
+5
+) The final report of the Task Force is expected to be presented to the G20 Summit on 7-8 July 2017.
+C 215/2 EN Official Journal of the European Union 5.7.2017
+Irrespectively, companies may choose to use widely accepted, high quality reporting frameworks, and this partially or in
+full compliance. They may rely on international, EU-based or national frameworks, and, if so, specify the framework(s)
+that they use.
+The Commission encourages companies to avail themselves of the flexibility under the Directive when disclosing nonfinancial information. The guidelines are not intended to stifle innovation in reporting practices.
+Public consultation (
+1
+)
+The Commission has undertaken extensive public consultations including a broad, web-based public consultation. The
+consultation process also included expert interviews, workshops with stakeholders and a consultation with the abovementioned High Level Expert Group on Sustainable Finance.
+National, EU-based, international frameworks
+When preparing these guidelines, the Commission reviewed national, EU-based and international frameworks. The
+guidelines owe a lot to the leadership and knowledge of the organisations behind these frameworks. In particular, the
+principles and contents described in this document build largely on frameworks such as:
+— CDP (formerly the Carbon Disclosure Project);
+— the Climate Disclosure Standards Board;
+— the OECD Due Diligence Guidance for Responsible Supply Chains from Conflict-Affected and High-Risk areas, and
+the supplements to it;
+— the Eco-Management and Audit Scheme (EMAS) and the related Sectoral Reference Documents;
+— the European Federation of Financial Analysts Societies' KPIs for Environmental, Social, Governance (ESG),
+a Guideline for the Integration of ESG into Financial Analysis and Corporate Valuation;
+— Global Reporting Initiative;
+— Guidance for Responsible Agricultural Supply Chains of FAO-OECD;
+— Guidance on the Strategic Report of the UK Financial Reporting Council;
+— Guidelines for Multinational Enterprises of the Organisation for Economic Cooperation and Development;
+— Guiding Principles Reporting Framework on Business and Human Rights;
+— ISO 26000 of the International Organisation for Standardisation;
+— the International Integrated Reporting Framework;
+— Model Guidance on reporting ESG information to investors of the UN Sustainable Stock Exchanges Initiative;
+— the Natural Capital Protocol;
+(
+1
+) Further information on the public consultation process can be found at:
+http://ec.europa.eu/finance/company-reporting/non-financial_reporting/index_en.htm#related-documents
+5.7.2017 EN Official Journal of the European Union C 215/3
+— Product and Organisation Environmental Footprint Guides;
+— the Sustainability Accounting Standards Board;
+— the Sustainability Code of the German Council for Sustainable Development;
+— the Tripartite Declaration of principles concerning multinational enterprises and social policy of the International
+Labour Organisation;
+— the United Nations (UN) Global Compact;
+— UN Sustainable Development Goals, Resolution of 25 September 2015 transforming our world: the 2030 Agenda
+for Sustainable Development;
+— UN Guiding Principles on Business and Human Rights implementing the UN ‘Protect, Respect and Remedy’
+Framework.
+Important
+This document has been prepared pursuant to Article 2 of Directive 2014/95/EU in order to help companies concerned
+disclose non-financial information in a relevant, useful, consistent and more comparable manner. This Communication
+provides non-binding guidelines, and does not create new legal obligations. To the extent that this Communication may
+interpret Directive 2014/95/EU, the Commission's position is without prejudice to any interpretation of this Directive
+that may be issued by the Court of Justice of the European Union. Companies using these guidelines may also rely on
+international, EU-based or national frameworks. This document does not constitute a technical standard, and neither
+preparers of non-financial statements nor any party, whether acting on behalf on a preparer or otherwise, should claim
+that non-financial statements are in conformity with this document.
+2 PURPOSE
+The aim of these guidelines is to help companies disclose high quality, relevant, useful, consistent and more comparable
+non-financial (environmental, social and governance-related) information in a way that fosters resilient and sustainable
+growth and employment, and provides transparency to stakeholders. These non-binding guidelines are proposed within
+the remit of the reporting requirements provided for under the Directive. They are intended to help companies draw up
+relevant, useful concise non-financial statements according to the requirements of the Directive. Significant efforts have
+been made to avoid undue administrative burden, boilerplate disclosures, or a mere box-ticking exercise.
+These non-binding guidelines put the emphasis on relevant, useful and comparable non-financial information in accordance with Article 2 of Directive 2014/95/EU on disclosure of non-financial and diversity information by certain large
+undertakings and groups.
+This guidance is addressed to the companies required by the Directive to disclose non-financial information in their
+management report. However, the non-binding guidelines could represent best practice for all companies that disclose
+non-financial information, including other companies not included in the scope of the Directive.
+The European Commission has prepared these guidelines to develop a principle-based methodology relevant to companies across all economic sectors and that helps them disclose relevant, useful and comparable non-financial information.
+In doing so, the Commission has taken into account best practices, relevant developments and the results of related
+initiatives, both within the EU and at international level.
+These guidelines are framed in the context of the management report. However, an alternative presentation of the nonfinancial statement is possible under Article 1 of the Directive.
+The intent is to provide balanced and flexible guidance on reporting non-financial information in a way that helps
+companies disclose material information consistently and coherently. As much as possible, these guidelines should help
+ensure comparability across companies and sectors.
+C 215/4 EN Official Journal of the European Union 5.7.2017
+This approach recognises the broad diversity of businesses and sectors involved, and of circumstances that companies
+need to reflect in their reporting. Significant efforts have been made to avoid a ‘one-size-fits-all’ approach and an overly
+prescriptive methodology.
+The guidelines recognise the importance of linkages and inter-relations of information (connectivity), whether it is
+between different aspects of non-financial information or between financial and non-financial information.
+3 KEY PRINCIPLES
+3.1 Disclose material information
+Article 1 of the Directive states that companies concerned:
+‘[…] shall include in the management report a non-financial statement containing information to the extent necessary
+for an understanding of the undertaking's development, performance, position and impact of its activity […]’
+Materiality is a concept already commonly used by preparers, auditors and users of financial information. A company's
+thorough understanding of the key components of its value chain helps identify key issues, and assess what makes
+information material.
+Article 2(16) of the Accounting Directive (2013/34/EU) defines material information as ‘the status of information where
+its omission or misstatement could reasonably be expected to influence decisions that users make on the basis of the
+financial statements of the undertaking. The materiality of individual items shall be assessed in the context of other
+similar items’.
+The Directive introduces a new element to be taken into account when assessing the materiality of non-financial information by referring to information ‘to the extent necessary for an understanding of the […] impact of (the company's) activity’ (
+1
+).
+Recital 8 of the Directive states that ‘the undertakings which are subject to this Directive should provide adequate information in relation to the matters that stand out as being most likely to bring about the materialisation of principal risks
+of severe impacts, along with those that have already materialised (
+2
+). […]’.
+The impact of a company's activity is a relevant consideration when making non-financial disclosures. Impacts may be
+positive or adverse. Material disclosures should cover both in a clear and balanced way. The non-financial statement is
+expected to reflect a company's fair view of the information needed by relevant stakeholders.
+Material information must be assessed in a context. Information that may be material in one context may not be in
+another. Issues to be considered for inclusion in the non-financial statement are specific to the company's circumstances,
+taking into account concrete situations and sectoral considerations. Companies within an industry are likely to share
+similar environmental, social and governance challenges, for instance because of the resources they may rely upon to
+produce goods and services, or the effects they may have on people, society and the environment. It may therefore be
+appropriate to directly compare relevant non-financial disclosures among companies in the same sector.
+Companies may report on a wide range of potential issues. A company assesses which information is material based on
+its analysis of how important that information is in understanding its development, performance, position and impact.
+This materiality assessment should take into account internal and external factors (
+3
+).
+(
+1
+) Article 1(1) of the Directive.
+(
+2
+) Recital 8 of the Directive also indicates that ‘[ ] the severity of such impacts should be judged by their scale and gravity. The risks of
+adverse impact may stem from undertaking's own activity or may be linked to its operations, and where relevant and proportionate,
+its products, services and business relationships, including its supply and subcontracting chains’.
+(
+3
+) For example, companies could use the preliminary analysis referenced in Annex I of the EMAS Regulation (Regulation (EC)
+No 1221/2009 of the European Parliament and of the Council of 25 November 2009 http://eur-lex.europa.eu/legal-content/EN/TXT/?
+uri=CELEX:32009R1221)
+5.7.2017 EN Official Journal of the European Union C 215/5
+Example and KPIs
+A bank may consider that its own water consumption in offices and branches is not a material issue to be included in
+its management report. In contrast, the bank may assess that the social and environmental impacts of projects that it
+funds and its role in supporting the real economy of a city, a region or a country are material information.
+A number of factors may be taken into account when assessing the materiality of information. These include:
+— Business model, strategy and principal risks: a company's goals, strategies, management approach and systems, values,
+tangible and intangible assets, value chain and principal risks are relevant considerations.
+— Main sectoral issues Similar issues are likely to be material to companies operating in the same sector, or sharing
+supply chains. Topics already identified by competitors, customers or suppliers are likely to be relevant for
+a company (
+1
+).
+— Interests and expectations of relevant stakeholders: companies are expected to engage with relevant stakeholders and seek
+a good understanding of their interests and concerns.
+— Impact of the activities: Companies are expected to consider the actual and potential severity and frequency of impacts.
+This includes impacts of their products, services, and their business relationships (including supply chain aspects).
+— Public policy and regulatory drivers: Public policies and regulation may have an effect on the specific circumstances of
+a company, and may influence materiality.
+Example and KPIs
+A company may consider that impacts through its upstream supply chain are relevant and material issues and report on
+them accordingly. Impacts may be direct or indirect. For example, a company producing mineral water may consider
+specific measures taken to protect the hydric resources it relies upon.
+Companies may explain the governance arrangements and processes used to perform their materiality assessment (
+2
+).
+Example and KPIs
+A company having impacts on land use and ecosystem change (for example deforestation), directly or through its supply
+chain, may consider appropriate disclosures on the due diligence applied.
+Materiality assessments are expected to be reviewed at regular intervals to ensure that matters reported continue to be
+material. Reviews should be more frequent in the most dynamic and innovative companies and sectors, or in companies
+changing and adjusting their business models or policies, including on due diligence. However, they may be less frequent
+in more stable circumstances.
+Example and KPIs
+A company which is involved in the supply chains of minerals from conflict-affected and high-risk areas may consider
+appropriate disclosures on the due diligence applied to ensure that it respects human rights and does not contribute to
+conflict.
+(
+1
+) For example, EMAS Sectoral Reference Documents identify best practices and indicators related to environmental aspects.
+(
+2
+) For example, companies implementing a quality management system or an environmental management system (e.g. ISO 14001 or
+EMAS), or performing an environmental life cycle assessment, may rely on them to support their materiality assessment and disclose
+information on significant aspects.
+C 215/6 EN Official Journal of the European Union 5.7.2017
+3.2 Fair, balanced and understandable
+The non-financial statement should give fair consideration to favourable and unfavourable aspects, and information
+should be assessed and presented in an unbiased way.
+The non-financial statement should consider all available and reliable inputs, taking into account the information needs
+of relevant stakeholders. Users of information should not be misled by material misstatements, by omitting material
+information, or disclosing immaterial information.
+The non-financial statement should clearly distinguish facts from views or interpretations.
+Information can be made fairer and more accurate through, for example:
+— appropriate corporate governance arrangements (for instance, certain independent board members or a board committee entrusted with responsibility over sustainability and/or transparency matters);
+— robust and reliable evidence, internal control and reporting systems;
+— effective stakeholder engagement; and
+— independent external assurance.
+The information may also be made more understandable by using plain language and consistent terminology, avoiding
+boilerplate, and, where necessary, providing definitions for technical terms.
+Material information should be provided with appropriate context to make it easier to understand. A company's performance may, for example, be presented with reference to its strategies and broader goals. Companies are expected to
+describe how non-financial issues relate to their long-term strategy, principal risks and policies.
+A company should explain the scope and boundaries of the information disclosed, in particular when certain information relates only to one or several of its segments, or excludes specific segments.
+Understandability may also be enhanced by explaining key internals of the information disclosed, such as measurement
+methods, underlying assumptions and sources.
+The non-financial statement is not merely about providing lists of KPIs. In order to properly understand a company's
+development, performance, position and impact, both qualitative and quantitative information should be disclosed.
+While quantitative information may be effective in reporting some non-financial issues (KPIs, targets, etc.), qualitative
+information provides context and makes the non-financial statement more useful and easier to understand. A combination of narrative reporting, quantitative information and visual presentation supports (
+1
+) makes communication more
+effective and transparent.
+Disclosing information in a customary business language in addition to a company's national language is likely to
+improve a company's transparency and help make information more accessible for relevant investors and other
+stakeholders.
+Example and KPIs
+A company disclosing certain KPIs may increase transparency by providing information on purpose and link to the
+company strategy; definitions and methodology; sources of information, assumptions and limitations; scope of the activities concerned; benchmarks; targets; trends; changes in methodologies (if any); and qualitative explanations of past and
+expected performance.
+3.3 Comprehensive but concise
+Article 1 of the Directive states that companies concerned:
+‘[…] shall include in the management report a non-financial statement containing information to the extent necessary
+for an understanding of the undertaking's development, performance, position and impact of its activity, relating to, as
+a minimum, environmental, social and employee matters, respect for human rights, anti-corruption and bribery
+matters […]’
+(
+1
+) Graphs, diagrams, charts, etc.
+5.7.2017 EN Official Journal of the European Union C 215/7
+Material information on certain categories of issues explicitly reflected in the Directive should be disclosed as a minimum. These include:
+— environmental, social and employee matters;
+— respect of human rights;
+— anti-corruption and bribery matters.
+Companies should also disclose any other material information.
+Material disclosures are expected to provide a comprehensive picture of a company in the reporting year. This refers to
+the breadth of information disclosed. However, the depth of information reported on any particular issue depends on its
+materiality. A company should focus on providing the breadth and depth of information that will help stakeholders
+understand its development, performance, position and the impact of its activities.
+The non-financial statement is also expected to be concise, and avoid immaterial information. Disclosing immaterial
+information may make the non-financial statement less easy to understand since it would obscure material information.
+Generic or boilerplate information that is not material should be avoided.
+The non-financial statement may include internal cross references or signposting in order to be concise, limit repetition,
+and provide links to other information (
+1
+).
+Example
+A company may summarise information, focus on material information, remove generic information, limit details, avoid
+elements that are no longer relevant, use cross-reference and signposting, etc.
+3.4 Strategic and forward-looking
+The statement is expected to provide insights into a company's business model, strategy and its implementation, and
+explain the short-term, medium-term and long-term implications of the information reported.
+Companies are expected to disclose relevant information on their business model, including their strategy and objectives. Disclosures should provide insight into the strategic approach to relevant non-financial issues; what a company
+does, how and why it does it.
+This does not prevent appropriate consideration of commercially-sensitive information. Relevant information may be
+provided in broader terms that still convey useful information to investors and other stakeholders.
+By disclosing targets, benchmarks and commitments, a company may help investors and other stakeholders to put its
+performance in context. This may be helpful when assessing future prospects. External monitoring of commitments and
+progress towards targets promotes greater transparency towards stakeholders. Targets and benchmarks may be presented
+in qualitative or quantitative terms. As appropriate, companies may disclose relevant information based on science-based
+scenarios.
+Example and KPIs
+A company may disclose how it approaches a sustainable business strategy and how environmental, social and governance performance can help achieve its business goals. It could also disclose targets relating to KPIs reported, and
+explain the uncertainties and factors which may underpin forward-looking information and future prospects.
+Forward-looking information enables users of information to better assess the resilience and sustainability of
+a company's development, position, performance and impact over time. It also helps users measure the company's
+progress towards achieving long-term objectives.
+(
+1
+) Cross referencing and signposting should be smart and user-friendly, for instance, by applying a practical rule of ‘maximum one
+“click” out of the report’.
+C 215/8 EN Official Journal of the European Union 5.7.2017
+Example
+A company may disclose relevant information based on the expected impact of science-based climate change scenarios
+on its strategies and activities. Alternatively, it may disclose targets for reducing the number of occupational accidents or
+diseases.
+3.5 Stakeholder orientated
+Companies are expected to consider the information needs of all relevant stakeholders. They should focus on information needs of stakeholders as a collective group, rather than on the needs or preferences of individual or atypical stakeholders, or those with unreasonable information demands.
+As appropriate, this may include, among others: investors, workers, consumers, suppliers, customers, local communities,
+public authorities, vulnerable groups, social partners and civil society.
+Companies should provide relevant, useful information on their engagement with relevant stakeholders, and how their
+information needs are taken into account. For instance, ISO 26000 and the OECD Guidelines for Multinational Enterprises provide useful guidance on this.
+Example and KPIs
+A company may disclose material information on its engagement with stakeholders, and explain how this influences its
+decisions, performance and the impact of its activities.
+3.6 Consistent and coherent
+The non-financial statement is expected to be consistent with other elements of the management report.
+Making clear links between the information presented in the non-financial statement and other information disclosed in
+the management report makes the information more useful, relevant and cohesive. The management report should be
+viewed as a single, balanced and coherent set of information.
+As contents are related to each other, explaining key linkages makes it easier for investors and other stakeholders to
+understand material information and interdependencies.
+The content of the non-financial report should be consistent over time. This enables users of information to understand
+and compare past and present changes in a company's development, position, performance and impact, and relate reliably to forward-looking information.
+Consistency in the choice and methodology of KPIs is important to ensure that the non-financial statement is understandable and reliable. However, updates may be necessary, as KPIs may become obsolete, or new and better methodologies be developed that improve the quality of information. Companies are expected to explain any changes in reporting
+policy or methodology, the reasons for changing them and their effects (for example by restating past information,
+clearly showing the effect of changing reporting policies or methodologies).
+Example
+A company may identify relationships and linkages between its business model and corruption and bribery aspects.
+4 CONTENT
+Companies are expected to identify the specific thematic aspects and material information to be included in their disclosures in a fair, balanced and comprehensive manner, including by engaging with relevant stakeholders.
+Information in the non-financial statement is interconnected. For instance, outcomes reflect not only what a company
+does (through its business model, policies and strategies), but also the company's specific circumstances and risks, and
+how effective it is at managing those risks. Explaining key linkages and interdependencies improves the quality of the
+report.
+5.7.2017 EN Official Journal of the European Union C 215/9
+When preparing the non-financial statement, companies should have due regard to the rules on protection of personal
+data (
+1
+).
+4.1 Business model
+Article 1 of the Directive sets out that the non-financial statement contains information including:
+a. ‘a brief description of the undertaking's business model;’
+A company's business model describes how it generates and preserves value through its products or services over the
+longer term. The business model provides context for the management report as a whole. It provides an overview of
+how a company operates and the rationale of its structure, by describing how it transforms inputs into outputs through
+its business activities. In more simple terms, what a company does, how and why it does it.
+When describing their business model, companies may consider including appropriate disclosures relating to:
+— their business environment;
+— their organisation and structure;
+— the markets where they operate;
+— their objectives and strategies; and
+— main trends and factors that may affect their future development.
+Companies may consider using KPIs to explain their business model, main trends, etc.
+Companies are expected to explain their business model in a clear, understandable and factual manner. A business
+model is a matter-of-fact case. Companies should avoid immaterial disclosures of promotional or aspirational nature
+which distract attention from material information.
+Companies are expected to highlight and explain when material changes to their business model have taken place in the
+reporting year.
+Example
+A company may consider specific disclosures explaining:
+— the main products it makes, and how they meet the needs of consumers/customers;
+— how these products are made, and what makes its production approach competitive and sustainable;
+— the characteristics of the market where it operates, and how it may evolve;
+4.2 Policies and due diligence
+Article 1 of the Directive states that the non-financial statement contains information including:
+b. ‘a description of the policies pursued by the undertaking in relation to those matters, including due diligence processes
+implemented;’
+Companies should disclose material information that provides a fair view of their policies. They should consider disclosures on their approaches to key non-financial aspects, main objectives, and how they are planning to deliver on those
+objectives and implementing those plans. Any disclosures would take into account the company's specific circumstances. In these disclosures a company may explain its management and board's responsibilities and decisions, and how
+resource allocations relate to objectives, risk management and intended outcomes. For example, a company may explain
+relevant governance aspects (
+2
+), including board oversight.
+(
+1
+) Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with
+regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data
+Protection Regulation) (OJ L 119, 4.5.2016, p. 1).
+(
+2
+) For instance, on aspect related to climate-related, or employment conditions.
+C 215/10 EN Official Journal of the European Union 5.7.2017
+Example
+A company may consider disclosing information on who in its organisation and governance structure is responsible for
+setting, implementing and monitoring a specific policy, for instance, on climate-related matters (
+1
+). It may also describe
+the role and responsibility of the board/supervisory board regarding environmental, social and human rights policies.
+Due diligence processes relate to policies, to risk management and to outcomes. Due diligence processes are undertaken
+by a company to ensure that it delivers against a concrete objective (e.g. to ensure that carbon emissions are below
+a certain level or that supply chains are free from trafficking in human beings). They help identify, prevent and mitigate
+existing and potential adverse impacts.
+Companies should provide material disclosures on due diligence processes implemented, including, where relevant and
+proportionate, on its suppliers and subcontracting chains. They may also consider disclosing appropriate information on
+the decisions taken to set them up and how the processes are intended to work, in particular as regards preventing and
+mitigating adverse impacts. Companies may also consider providing relevant information on setting targets and measuring progress.
+For example, OECD Guidance documents for several sectors, UN Guiding Principles on Business and Human Rights, the
+Tripartite Declaration of Principles concerning Multinational Enterprises and Social Policy, or ISO 26000 provide useful
+guidance on this.
+Example and KPIs
+A company may consider disclosures on its policies aiming at avoiding the use of hazardous chemicals, substances of
+very high concern or biocides in its products, operations and supply chain. It may also disclose its policies on research,
+development and use of safe alternatives. Companies may explain how they assess the quality, safety and environmental
+impact of the chemicals that they use, and how they meet legal requirements on chemical safety (e.g. REACH, CLP -
+classification, labelling and packaging-).
+Example
+A company may disclose relevant information on how it identifies, assesses, and manages climate-related risks (
+1
+) and/or
+natural capital.
+Companies are expected to highlight and explain any material changes to their main policies and due diligence processes
+in the reporting year.
+Example and KPIs
+A company may consider disclosing the following health and safety information:
+— workplace's policies;
+— contractual obligations negotiated with suppliers and sub-contractors;
+— resources allocated to risk management, information, training, monitoring, auditing, cooperation with local authorities and social partners.
+It may happen that a company has not developed policies on certain matters that it still considers material. Then, such
+company should provide a clear and reasoned explanation for not having developed those policies. Other reporting
+requirements still apply (for instance, business model, principal risks…).
+(
+1
+) For further reference, see conclusions of the industry-led Task Force on Climate-related Financial Disclosures organised by the FSB.
+5.7.2017 EN Official Journal of the European Union C 215/11
+Article 1 of the Directive states that ‘where the undertaking does not pursue policies in relation to one or more of those
+matters, the non-financial statement shall provide a clear and reasoned explanation for not doing so.’
+4.3 Outcome
+Article 1 of the Directive sets out that the non-financial statement must contain information including:
+c. ‘the outcome of those policies;’
+Companies should provide a useful, fair and balanced view of the outcome of their policies.
+The non-financial information disclosed by companies should help investors and other stakeholders understand and
+monitor the company's performance.
+Relevant disclosures on outcomes of policies may provide useful information on the company's strengths and vulnerabilities. The non-financial statement should reflect in a comprehensive and concise way the results of a company's operations and activities.
+Companies may consider explaining the relationship between financial and non-financial outcomes, and how this is
+managed over time.
+The analysis of outcomes should include relevant non-financial KPIs. Companies are expected to disclose the KPIs that
+they consider most useful in monitoring and assessing progress and supporting comparability across companies and
+sectors. Where appropriate, companies may also consider presenting and explaining this information in relation to targets and benchmarks.
+Example and KPIs
+A company may consider including specific disclosures explaining:
+— actual carbon emissions, carbon intensity;
+— use of hazardous chemicals or biocides;
+— natural capital impacts and dependencies;
+— comparison v targets, developments over time;
+— mitigating effects of policies implemented;
+— plans to reduce carbon emissions.
+4.4 Principal risks and their management
+Article 1 of the Directive states that the non-financial statement must contain information including:
+d. ‘the principal risks related to those matters linked to the undertaking's operations including, where relevant and proportionate,
+its business relationships, products or services which are likely to cause adverse impacts in those areas, and how the undertaking
+manages those risks;’
+Companies should disclose information on their principal risks and on how they are managed and mitigated. Those
+risks may relate to their operations, their products or services, their supply chain and business relationships, or to other
+aspects. This would include an appropriate perspective on short, medium and long-term principal risks. Companies are
+expected to explain how principal risks may affect their business model, operations, financial performance and the
+impact of their activities.
+A company is expected to disclose material information on principal risks, regardless of whether they stem from its
+own decisions or actions, or from external factors, and to explain the processes used to identify and assess such risks.
+C 215/12 EN Official Journal of the European Union 5.7.2017
+Disclosures, where relevant and proportionate, should include material information on supply and subcontracting
+chains. They should also include material information on how a company manages and mitigates principal risks.
+A company is expected to highlight and explain any material changes to its principal risks, or to the way it manages
+them, in the reporting year.
+Example and KPIs
+A company may consider including specific disclosures on:
+— malfunctioning products with possible effects on consumers' safety;
+— policies implemented to address the issue;
+— remediation measures addressing the needs of consumers already affected by those products.
+Example and KPIs
+A company may consider disclosing material information on climate-related impacts on its operations and strategy,
+taking into account its specific circumstances and including appropriate assessments of likelihood and use of scenario
+analyses (
+1
+).
+Example and KPIs
+A company may consider disclosing material information on risks of harm related to human rights, labour and environmental protection in its supply and subcontracting chain, and on how the company manages and mitigates potential
+negative impacts.
+4.5 Key performance indicators
+Article 1 of the Directive states that the non-financial statement must contain information including:
+e. ‘non-financial key performance indicators relevant to the particular business;’
+The non-financial statement should include material narratives and indicator-based disclosures, commonly referred to as
+key performance indicators (KPIs).
+Companies are expected to report KPIs that are useful taking into account their specific circumstances. The KPIs should
+be consistent with metrics actually used by the company in its internal management and risk assessment processes. This
+makes the disclosures more relevant and useful, and improves transparency. Disclosing high quality, broadly recognised
+KPIs (for instance, metrics widely used in a sector or for specific thematic issues) could also improve comparability, in
+particular for companies within the same sector or value chain.
+A company should disclose KPIs that are necessary to understand its development, performance, position and impact of
+its activity. Some KPIs may be useful for a wide variety of companies and business circumstances. Other KPIs relate
+more to the issues and circumstances of a given sector. Companies are encouraged to disclose material KPIs, both general and sectoral. Considering their specific circumstances and the information needs of investors and other stakeholders, companies are expected to provide a fair and balanced view by using general, sectoral and company-specific KPIs.
+Users of information tend to greatly appreciate quantitative information as it helps them measure progress, check consistency over time and draw comparisons. Appropriate narratives explaining KPIs help make the non-financial statement
+more understandable.
+(
+1
+) For further reference, see conclusions of the industry-led Task Force on Climate-related Financial Disclosures organised by the FSB.
+5.7.2017 EN Official Journal of the European Union C 215/13
+KPIs are also considered effective tools to connect qualitative and quantitative information, and to build linkages. They
+enable companies to provide a balanced and comprehensive view in a concise and effective manner.
+KPIs should be used consistently from one reporting period to the next in order to provide reliable information on
+progress and trends. The KPIs reported may, of course, evolve over time for business or technical reasons. In these cases,
+companies should explain the reasons why KPIs changed. They may consider resetting past information where appropriate, and explaining clearly and effectively the effect of these changes.
+Companies may explain data collection, methodology and the frameworks relied upon. They may also provide an analysis of the KPIs disclosed, explaining for example why KPIs increased or decreased in the reporting year, and how KPIs
+might evolve in the future.
+Companies may present KPIs in the context of targets, past performance, and comparison with other companies, as
+appropriate.
+Example and KPIs
+A company may consider appropriate disclosures on metrics and targets used to assess and manage relevant environmental and climate-related matters (
+1
+).
+4.6 Thematic aspects
+Article 1 of the Directive states that companies concerned ‘shall include in the management report a non-financial statement containing information to the extent necessary for an understanding of the undertaking's development, performance, position and impact of its activity, relating to, as a minimum, environmental, social and employee matters,
+respect for human rights, anti-corruption and bribery matters […]’.
+Material disclosures should provide a balanced and comprehensive view of a company's development, performance,
+position, and the impact of its activities.
+In certain circumstances companies may consider that disclosing detailed information about impending developments
+or matters under negotiation would be seriously prejudicial. However, disclosing summarised information that is not
+seriously prejudicial may go a long way towards meeting the overall transparency objective.
+Article 1 of the Directive provides that ‘Member States may allow information relating to impending developments or
+matters in the course of negotiation to be omitted in exceptional cases where […] the disclosure of such information
+would be seriously prejudicial to the commercial position of the undertaking […].’
+Thematic aspects are often interconnected. For instance, an environmental issue related to a company's operations, products or supply chain may also have an impact on the safety and/or health of consumers, employees, or suppliers, or on
+brand reputation. Companies are expected to provide a clear, fair and comprehensive view that encompasses all relevant
+aspects of an issue.
+The following items constitute a non-exhaustive list of thematic aspects that companies are expected to consider when
+disclosing non-financial information:
+a. Environmental matters
+A company is expected to disclose relevant information on the actual and potential impacts of its operations on the
+environment, and on how current and foreseeable environmental matters may affect the company's development, performance or position.
+This may include:
+— material disclosures on pollution prevention and control;
+— environmental impact from energy use;
+(
+1
+) For further reference, see conclusions of the industry-led Task Force on climate-related financial disclosures organised by the FSB.
+C 215/14 EN Official Journal of the European Union 5.7.2017
+— direct and indirect atmospheric emissions (
+1
+);
+— use and protection of natural resources (e.g. water, land) and related protection of biodiversity;
+— waste management;
+— environmental impacts from transportation or from the use and disposal of products and services; and
+— development of green products and services.
+Example and KPIs
+A company may disclosure material information based on methodologies specified in specific legislation. For instance,
+the annexes to Commission Recommendation 2013/179/EU include the Product Environmental Footprint and Organisation Environmental Footprint methods. These are life cycle assessment methods that enable companies to identify for
+each product or an entire organisation: (i) the most relevant impacts; and (ii) their contributing processes and emissions
+along the supply chain. The environmental impacts may be reported separately or as a single aggregated score.
+Companies may refer, where appropriate, to material information provided in the context of specific environmental
+reporting requirements (
+2
+).
+Example and KPIs
+A company may consider KPIs such as:
+— energy performance and improvements in energy performance;
+— energy consumption from non-renewable sources and energy intensity;
+— greenhouse gas emissions in metric tonnes of CO2
+ equivalent and greenhouse gas intensity;
+— emissions of other pollutants (measured in absolute value and as intensity);
+— extraction of natural resources;
+— impacts and dependences on natural capital and biodiversity;
+— waste management (e.g. recycling rates).
+b. Social and employee matters
+Companies are expected to disclose material information on social and employee matters (
+3
+). These include:
+— the implementation of fundamental conventions of the International Labour Organisation;
+— diversity issues, such as gender diversity and equal treatment in employment and occupation (including age, gender,
+sexual orientation, religion, disability, ethnic origin and other relevant aspects);
+(
+1
+) Including emissions of greenhouse gases, toxic substances, eutrophying and acidifying substances, etc.
+(
+2
+) Such as obligations deriving from EU directives (Industrial Emissions Directive, Emissions Trading System, Water Framework Directive, REACH, Landfill Directive, End-of-Life Vehicles Directive, Waste Electrical and Electronic Equipment and Restriction of Hazardous
+Substances Directives), and the European Pollutant Release and Transfer Register.
+(
+3
+) Information revealing racial or ethnic origin, religious or philosophical belief, trade union membership or sexual orientation of
+a natural person is considered as special category of personal data under Article 9 of Regulation (EU) 2016/679 which should not be
+processed unless one of the conditions provided for in that article has been met. Therefore, companies should only disclose
+anonymised data or aggregated data (preventing identification of individuals) with respect to those issues.
+5.7.2017 EN Official Journal of the European Union C 215/15
+— employment issues, including employee consultation and/or participation, employment and working conditions;
+— trade union relationships, including respect of trade union rights;
+— human capital management including management of restructuring, career management and employability, remuneration system, training;
+— health and safety at work;
+— consumer relations, including consumer satisfaction, accessibility, products with possible effects on consumers'
+health and safety;
+— impacts on vulnerable consumers;
+— responsible marketing and research; and
+— community relations, including social and economic development of local communities.
+Companies may find it useful to rely on broadly recognised, high quality frameworks, for instance the OECD Guidelines
+for multinational enterprises, the International Labour Organization Tripartite Declaration of Principles concerning
+Multinational Enterprises and Social Policy, or ISO 26000.
+Example and KPIs
+A company may consider disclosing KPIs based on aspects such as:
+— gender diversity and other aspects of diversity;
+— employees entitled to parental leave, by gender;
+— workers who participate in activities with a high risk of specific accidents or diseases;
+— the number of occupational accidents, types of injury or occupational diseases;
+— employee turnover;
+— the ratio of employees working under temporary contracts, by gender;
+— average hours of training per year per employee, by gender;
+— employee consultation processes;
+— number of persons with disabilities employed.
+c. Respect for human rights
+Companies are expected to disclose material information on potential and actual impacts of their operations on
+right-holders.
+It is considered best practice for a company to express its commitment to respecting human rights. This commitment
+may define what the company expects from its management, employees and business partners in relation to human
+rights, including core labour standards. The information may explain whose rights the commitment addresses, for
+instance the rights of children, women, indigenous peoples (
+1
+), persons with disabilities (
+2
+), local communities, smallholder farmers, victims of trafficking in human beings; and the rights of workers, including those working under temporary contracts, workers in the supply chains or sub-contractors, migrant workers, and their families.
+Companies should consider making material disclosures on human rights due diligence, and on processes and arrangements implemented to prevent human rights abuses. This may include, for instance, how a company's contracts with
+businesses in its supply chain deal with human rights issues, and how a company mitigates potential negative impacts
+on human rights and provides adequate remedy if human rights have been violated.
+(
+1
+) For instance, in line with the Indigenous and Tribal Peoples Convention, 1989 (No. 169) of the International Labour Organisation
+(ILO).
+(
+2
+) For instance, in line with the UN Convention on the Rights of persons with Disabilities.
+C 215/16 EN Official Journal of the European Union 5.7.2017
+Material disclosures may reflect how a company approaches, among others, the Guiding Principles on Business and
+Human Rights implementing the UN ‘Protect, Respect and Remedy’ Framework, the OECD Guidelines for multinational
+companies, and the ILO Tripartite Declaration of Principles concerning Multinational Enterprises and Social Policy.
+Example and KPIs
+A company may consider disclosing material information and KPIs on:
+— occurrences of severe impacts on human rights relating to its activities or decisions;
+— the process for receiving and addressing complaints, and mitigating and providing remedies to human rights
+violations;
+— operations and suppliers at significant risk of human rights violations;
+— processes and measures for preventing trafficking in human beings for all forms of exploitation, forced or compulsory labour and child labour, precarious work, and unsafe working conditions, in particular as regards geographic
+areas at higher risk of exposure to abuse;
+— how accessible their facilities, documents and websites are to people with disabilities;
+— respect for freedom of association;
+— engagement with relevant stakeholders.
+d. Anti-corruption and bribery matters
+Companies are expected to disclose material information on how they manage anti-corruption and bribery matters and
+occurrences.
+Companies may consider making disclosures on organisation, decisions, management instruments, and on the resources
+allocated to fighting corruption and bribery.
+Companies may also consider explaining how they assess fighting corruption and bribery, take action to prevent or
+mitigate adverse impacts, monitor effectiveness, and communicate on the matter internally and externally.
+Companies may find it useful to rely on broadly recognized, high quality frameworks, for instance in the OECD Guidelines for Multinational Enterprises, or ISO 26000.
+Example and KPIs
+A company may consider disclosing material information and KPIs relating to aspects such as:
+— anti-corruption policies, procedures and standards;
+— criteria used in corruption-related risk assessments;
+— internal control processes and resources allocated to preventing corruption and bribery;
+— employees having received appropriate training;
+— use of whistleblowing mechanisms;
+— the number of pending or completed legal actions on anti-competitive behaviour.
+e. Others
+Supply chains
+Companies, where relevant and proportionate, are expected to disclose material information on supply chain matters
+that have significant implications for their development, performance, position or impact. This would include information needed for a general understanding of a company's supply chain and of how relevant non-financial matters are
+considered in managing the supply chain.
+5.7.2017 EN Official Journal of the European Union C 215/17
+If a company considers that disclosing detailed information about impending developments or matters under negotiation would be seriously prejudicial, it may meet the overall transparency objective by disclosing summarised information that is not seriously prejudicial.
+Material disclosures may reflect how a company approaches, among others, the OECD Guidelines for Multinational
+Companies, the UN Guiding Principles on Business and Human Rights, and relevant industry-specific frameworks such
+as the FAO-OECD Guidance for Responsible Agricultural Supply Chains.
+Example and KPIs
+A company may consider disclosing material information and KPIs relating to aspects such as monitoring suppliers on:
+— labour practices, including child labour and forced labour, precarious work, wages, unsafe working conditions
+(including building safety, protective equipment, workers' health) (
+1
+);
+— trafficking in human beings and other human rights matters;
+— greenhouse gas emissions and other types of water and environmental pollution;
+— deforestation and other biodiversity-related risks;
+and monitoring the company's impact on suppliers, for instance, its payment terms and average payment periods.
+Conflict minerals
+Companies, where relevant and proportionate, are expected to disclose relevant information on due diligence to ensure
+responsible supply chains for tin, tantalum, tungsten and gold from conflict-affected and high-risk areas.
+Disclosures should be consistent with the OECD Due Diligence Guidance for Responsible Supply Chains from ConflictAffected and High-Risk areas, including its supplements. In such context, companies are expected to disclose relevant
+information on the performance of their policies, practices and results on conflict minerals due diligence. They should
+also disclose the steps taken to implement the ‘five-step framework’ (
+2
+) for risk-based due diligence in the mineral supply
+chain as set out in the OECD Due Diligence Guidance, taking into account their position in the supply chain.
+Companies are then expected to disclose KPIs relating to the nature and number of risks identified, the measures taken
+to prevent and mitigate these risks; and to how the company has strengthened its due diligence efforts over time.
+Specific KPIs
+These include: the proportion of direct relevant suppliers having adopted and implemented a conflict minerals due diligence policy consistent with the OECD Due Diligence Guidance; the proportion of responsibly-sourced tin, tantalum,
+tungsten or gold originating in conflict-affected and high-risk areas; and the proportion of relevant customers contractually requiring conflict minerals due diligence information under the OECD Due Diligence Guidance.
+(
+1
+) For instance, with reference to the ‘Resolution concerning decent work in global supply chains’ adopted at the 105th session
+of the International Labour Conference (ILO, 2016) http://www.ilo.org/ilc/ILCSessions/105/texts-adopted/WCMS_497555/lang--en/
+index.htm
+(
+2
+) OECD (2016), OECD Due Diligence Guidance for Responsible Supply Chains of Minerals from Conflict-Affected and High-Risk Areas:
+Third Edition, OECD Publishing, Paris. http://dx.doi.org/10.1787/9789264252479-en
+C 215/18 EN Official Journal of the European Union 5.7.2017
+5 REPORTING FRAMEWORKS
+A company may rely on high quality, broadly recognised national, EU-based or international frameworks when preparing its non-financial statement. Some frameworks cover a broad variety of sectors and thematic issues (horizontal
+frameworks); others are sector or thematic issue-specific. Some focus solely on the disclosure of non-financial information; others refer to transparency in a broader context.
+Usually, relying on a widely-recognised framework developed with due process provides companies with a structured
+template for reporting key issues of broad interest, limits administrative burden and makes information easier to
+compare.
+Article 1 of the Directive states that companies concerned ‘[…] may rely on national, Union-based or international
+frameworks, and if they do so, […] shall specify which frameworks they have relied upon’.
+A company relying on one or several frameworks should disclose which framework(s) it has used for its specific disclosures. This enhances clarity and comparability.
+Recital 9 of the Directive provides examples of existing reporting frameworks. However, this list should not be considered exhaustive.
+Recital 9 of the Directive states:
+‘In providing this information, undertakings which are subject to this Directive may rely on national frameworks,
+Union-based frameworks such as the Eco-Management and Audit Scheme (EMAS), or international frameworks such as
+the United Nations (UN) Global Compact, the Guiding Principles on Business and Human Rights implementing the UN
+“Protect, Respect and Remedy” Framework, the Organisation for Economic Co-operation and Development (OECD)
+Guidelines for Multinational Enterprises, the International Organisation for Standardisation's ISO 26000, the International Labour Organizsation's Tripartite Declaration of principles concerning multinational enterprises and social policy,
+the Global Reporting Initiative, or other recognised international frameworks.’
+Companies may also consider using other reporting frameworks, such as those mentioned in the introduction to these
+guidelines.
+6 BOARD DIVERSITY DISCLOSURE
+This section provides specific guidance intended to help large listed companies (
+1
+) prepare the description of their board
+diversity policy which shall be included in their corporate governance statement (
+2
+). The description of the board diversity policy does not form part of the non-financial statement (
+3
+). Therefore, this section of the guidelines is without
+prejudice to the need to disclose material diversity information as part of the non-financial statement.
+Article 1 of the Directive requires large listed companies to disclose in their corporate governance statement:
+‘a description of the diversity policy applied in relation to the undertaking's administrative, management and supervisory bodies with regard to aspects such as, for instance, age, gender, or educational and professional backgrounds, the
+objectives of that diversity policy, how it has been implemented and the results in the reporting period. If no such
+policy is applied, the statement shall contain an explanation as to why this is the case.’
+Diversity aspects
+The description of the diversity policy should specify which diversity criteria are applied and explain the reasons for
+choosing them. When selecting these criteria, all relevant diversity aspects should be considered to ensure that the board
+has a sufficient diversity of views and the expertise needed for a good understanding of current affairs and longer-term
+risks and opportunities related to the company's business. The nature and complexity of the company's business should
+be taken into account when assessing the profiles needed for optimal board diversity, as should the social and environmental context in which the company operates.
+(
+1
+) While the disclosure requirements concerning non-financial information apply to large public-interest entities with more than
+500 employees, the disclosure requirements concerning board diversity apply only to large listed companies.
+(
+2
+) As provided in Article 20 of Directive 2013/34/EU.
+(
+3
+) As referred to in Article 19a of Directive 2013/34/EU.
+5.7.2017 EN Official Journal of the European Union C 215/19
+The diversity aspects should, in general, cover age, gender, or educational and professional backgrounds. Where relevant
+due to the company's geographical presence and the business sector in which it operates, it is also appropriate to
+include geographical provenance, international experience, expertise in relevant sustainability matters, employee representation and other aspects, for example socioeconomic background.
+In the selection of a candidate on the basis of the defined diversity criteria, rules and generally accepted principles of
+non-discrimination (
+1
+) should be taken into account.
+Objectives
+Companies should disclose specific measurable targets for relevant diversity aspects. It is particularly useful to set quantitative targets and timeframes, in particular regarding gender balance.
+Implementation and results
+Companies should indicate how the objectives of their diversity policy are taken into consideration in succession planning, selection, nomination and evaluation. They should also disclose the role of the competent board committees in
+those processes. Companies should also disclose whether the information about diversity criteria and objectives was
+given to shareholders when electing or renewing board members, where relevant.
+Companies should disclose the status of the implementation and the results at least since the last statement, for all the
+diversity aspects of the policy. If the diversity objectives are not met, the company should disclose how it intends to
+meet the objectives including the expected timeframe within which these objectives are to be met.
+(
+1
+) On grounds such as ethnic origin, race, disability or sexual orientation
+C 215/20 EN Official Journal of the European Union 5.7.2017

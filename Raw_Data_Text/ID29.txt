@@ -1,0 +1,2101 @@
+ESG
+Reporting Guide
+for Issuers of the Budapest Stock Exchange
+’For most of history, man has had to
+fight nature to survive; in this century
+he is beginning to realize that, in order
+to survive, he must protect it.’
+Jacques-Yves Cousteau
+2 ESG Reporting Guide for Issuers of the Budapest Stock Exchange 1
+Leaders, governments and organizations around the world are recognising that the time to take
+action for a sustainable future is now. Setting sustainable development goals is at the core of
+strategic planning, taking actions to confront global challenges such as climate change, other
+natural disasters, poverty, biodiversity loss, overpopulation, infectious diseases, to mention only a
+few, has never been more critical than at this present time.
+The financial sector has a key role in the global
+economic sustainability action plan and so do capital
+markets and their flagship institutions: the stock
+exchanges. Together with the financial industry,
+exchanges around the world promote sustainable
+finance, the incorporation of environmental, social
+and governance (ESG) factors into investment
+decision-making, and the allocation of capital towards
+sustainable assets.
+The Budapest Stock Exchange is no different from its
+peers in that regard. In 2018, BSE joined the United
+Nations Sustainable Stock Exchanges initiative
+declaring its commitment to meet the UN Sustainable
+Development Goals (SDGs) by 2030. In addition, we
+work closely with the Federation of European Securities
+Exchanges (FESE) in its Sustainable Finance Task Force
+and pay intense attention to the parallel efforts of the
+World Federation of Exchanges (WFE). BSE defined its
+most important focus areas as follows:
+• improve the sustainability reporting and ESG data
+sharing of listed companies
+• draw investor attention to sustainable and green
+instruments listed on the exchange
+• develop marketplace for the new, ESG compliant and
+green investment products
+The ways stock exchanges can influence these areas
+can be numerous. First and most, it is imperative to
+include ESG principles into their own strategies to act
+as role models for listed companies. Further, exchanges
+should take part in creating a supporting regulatory
+environment to build an adequate European and
+domestic regulatory framework and adopt and apply
+their own stock exchange rules supplementing these
+rules of law.
+Exchanges also play an important role in education,
+and they may become think tanks, information hubs of
+ESG-related topics and concentrate as much attention
+to them as possible. BSE is organising expert events,
+conferences, educational events to spread the notion of
+sustainability to as broad a public as possible.
+ESG awareness can further be improved by product
+developments (dedicated market segments, promoting
+green investment products, etc.) and by guiding
+listed issuers in their efforts to develop their ESG
+reporting routines and provide the market with quality
+information. The latter is the purpose of this present
+Guide.
+Richárd Végh
+CEO
+Budapest Stock Exchange
+Foreword
+2 ESG Reporting Guide
+for Issuers of the Budapest Stock Exchange 3
+Table of Contents
+Foreword 1
+Introduction 5
+What is the purpose of this guide? 6
+What is ESG? 9
+What are the benefits of ESG reporting for issuers? 10
+ESG and corporate governance reporting 13
+Stakeholders and Materiality of Reporting 15
+Stakeholders 16
+Materiality 19
+Content, Quality, Format and Frequency of Reporting 23
+Content of reporting 24
+Quality of reporting 25
+Reporting format and disclosure channels 27
+Roadmap of reporting 28
+Building reporting capacity 28
+Advancing reporting capabilities 29
+Reporting frequency 29
+Regulatory and Policy Landscape 31
+Background 32
+Introduction to ESG Reporting Standards 37
+Global reporting standards to start with 38
+Issue specific global disclosure and target setting schemes 39
+Integrated reporting to enhance transparency and address interconnectivity 39
+ESG Data from Collection to Issuer Ratings 41
+Main ESG rating agencies 42
+BSE Recommendations 45
+Annex 51
+Disclaimer 54
+Introduction
+Page 5
+Introduction to
+ESG Reporting
+Standards
+Page 37
+Stakeholders
+and Materiality
+of Reporting
+Page 15
+ESG Data from
+Collection to
+Issuer Ratings
+Page 41
+Content,
+Quality, Format
+and Frequency
+of Reporting
+Page 23
+BSE
+Recommendations
+Page 45
+Regulatory
+and Policy
+Landscape
+Page 31
+Annex
+Page 51
+1
+5
+2
+6
+3
+7
+4
+8
+4 ESG Reporting Guide for Issuers of the Budapest Stock Exchange 5
+Introduction
+6 ESG Reporting Guide for Issuers of the Budapest Stock Exchange 7
+What is the purpose of this guide?
+The global environmental and social challenges the world is facing are now clearly apparent
+for governments, corporates, and households as well. Investors and analysts on capital markets
+expand their corporate valuation models currently in use involving sustainability criteria,
+recognising the fact that in successful long-term investments investor focus must go beyond mere
+financial profit maximalization. Investors expect companies to adjust their long-term strategies to
+include ESG principles and to follow up their adherence thereto in a transparent way. Therefore,
+public companies increasingly feel the pressure to disclose more and more non-financial,
+sustainability-related information to satisfy investors’ expectations.
+On the other hand, the regulatory framework that
+will drive Europe to a more resilient and sustainable
+future economy is forming just now. As for the
+reporting requirements, some disclosure obligations
+are already in place (e.g. The Non-Financial Reporting
+Directive1 (NFRD), The Sustainable Finance
+Disclosure Regulation2 (SFDR) – to be discussed in
+the Regulatory and Policy Landscape Chapter), with
+the bulk of the regulations, technical standards in the
+pipeline, expected to come into force in the upcoming
+years.
+The Non-Financial Reporting Directive, which came
+into effect on January 1, 2017, already requires ESG
+related matters (such as employment, board diversity,
+human rights, anti-corruption and bribery issues) to be
+disclosed by specified large corporates, including banks
+and insurance companies. The Directive is currently
+under review as part of the European Green Deal3, so
+further alignments, standardizations and improvements
+to the reporting process can be expected, which will be
+most likely manifested in more stringent transparency
+obligations (see the Regulatory and Policy Landscape
+Chapter for further information).
+ESG reporting from investee companies is at the core of
+all ESG transparency efforts, ratings and ESG disclosures
+of financial market participants addressed in the SFDR
+build substantially on this information, and investors
+seeking out green investment targets also rely on these
+reports. But unfortunately, as the Green Finance Report
+issued by the Central Bank of Hungary in 20214 points
+out, only a few Hungarian companies, institutions
+provide adequate ESG data even among the exchangelisted
+companies, and the extent and quality of these
+reports deviate greatly. Reporting forms and chosen
+standards (if any) also vary. Some of our issuers prepare
+high-level, integrated or stand-alone sustainability
+reports, but many are not aware of the importance of
+this matter and lag behind.
+This Guide has been issued to help BSE-listed
+companies to have a basic understanding of
+• the ESG approach in general
+• the importance of ESG reporting
+• the basic terms, actors and
+processes involved
+• the roadmap that leads to
+the implementation of a stable
+reporting regime
+It is also important to underline
+that – especially with the regulatory
+environment so hectically evolving
+– this Guide cannot give answers
+to all the outstanding questions
+regarding sustainability reporting,
+nor can it provide a complete list
+of the multifaceted ESG rules and
+regulations at this moment. Moreover, our focus is on
+reporting duties and improved transparency, so certain
+ESG aspects – such as for instance sustainability risk
+management – will not be discussed herein.
+It is also not possible within the scope of this document
+to outline a detailed overview of the various ESG
+standards and recommend the use of one over another,
+as these should be tailored to individual issuer needs
+and goals.
+This Guide tries to set some minimum expectations,
+recommendations to help BSE-listed issuers get
+started with their ESG reporting routine. It is our
+strong intention to regularly update it as needed,
+incorporating future regulatory changes, experience
+and feedback from market participants. We hope it
+shall pave the road to a more transparent and more
+sustainable operation for our issuers and maybe also
+those who are contemplating going public and getting
+stock exchange listed in the near future.
+Introduction
+1 EUR-Lex - 32014L0095 - EN - EUR-Lex (europa.eu)
+2 https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019R2088-20200712
+3 A European Green Deal | European Commission (europa.eu)
+4 Green Finance Report, March 2021 (mnb.hu)
+“Our transformation to a carbon-neutral
+economy means that people need more
+information from the companies they are
+investing in. As things stand today, there is
+currently a sustainability reporting gap that
+is hampering progress towards a sustainable
+financial system. The needs of investors for
+corporate sustainability information are
+growing faster than any improvements in
+company reporting. So we welcome all views
+on how best to improve this Directive.”
+EC vice-president Valdis Dombrovskis
+Investors, financial market
+participants
+need for green products and
+sustainability-related information
+Investee companies
+issuers
+Intensifying
+ESG regulations
+EU and HU
+8 ESG Reporting Guide for Issuers of the Budapest Stock Exchange 9
+What you will learn from this document What is ESG?
+Sustainability and ESG are often used as synonyms. In a strict sense, sustainability refers to
+processes or practices which have a positive – or at least neutral – environmental impact, but in a
+broader sense it also extends to certain social issues as well as corporate governance practices.
+Basic information on ESG reporting
+• What does ESG mean?
+• Why is it important?
+• Are there any benefits of ESG reporting for issuers?
+How to prepare your organization for reporting
+• Content, quality and reporting format to be followed
+• Disclosure channels to use
+• How to build and advance your reporting capacities
+Reporting standards and rating
+• What are the most popular reporting standards to choose from?
+• Why follow a reporting standard and how to find the best fit?
+• Why is rating important?
+BSE recommendations
+• Non-binding minimum reporting practices suggested by BSE
+• Suggested gradual development levels from basic to advanced issuer reporting
+Regulatory aspects
+• What are the most important rules of law regulating this area?
+• What further measures are expected?
+Getting started
+• Identifying stakeholders of the company and their preferences
+• Material information that sustainability reporting should cover
+The acronym ESG comprises the
+following abbreviations:
+• ‘E’ stands for the environmental criteria,
+such as climate change, pollution, resource
+scarcity, energy consumption, waste release,
+greenhouse gas emission, biodiversity loss,
+etc.
+• ‘S’ stands for the social facet, demonstrating
+the connection between business and
+society, highlighting the ways a company
+influences the life of its employees and
+the surrounding local communities. Issues
+related to public health, education, equality
+and diversity, health and safety, community
+support are among the most important
+aspects.
+• Finally, ‘G’ gives the aspect of corporate
+governance covering a broad range of
+corporate activities including board and
+management structures, corporate culture,
+information disclosure, auditing and
+compliance, remuneration, to mention only
+a few.
+In the EU regulatory framework, the two
+terms (sustainability and ESG) are used quite
+interchangeably.
+Some similar definitions are also in use,
+such as SRI and CSR.
+• Sustainable & Responsible Investment
+(SRI) defines investments in general which
+take into account sustainability factors
+(environmental, social, economic, ethical,
+etc.) in the selection and retention of
+investments. The investment is considered
+“socially responsible” due to the nature of the
+business the company conducts.
+• Corporate Social Responsibility (CSR) is a
+term used by the companies to describe
+their interactions with society and the
+environment. It mostly refers to a business
+model, which enables the company to
+operate in a way that protects and enriches
+society and environment.
+10 ESG Reporting Guide for Issuers of the Budapest Stock Exchange 11
+What are the benefits of ESG reporting for issuers?
+The growing demand for socially responsible investments and the tightening regulatory
+environment undoubtedly presents a great challenge for companies, especially for SME issuers
+with more modest organizational capacities. On the other hand, sustainability reporting may bring
+new opportunities and significant benefits to corporates.
+Source: UN PRI
+1. Financing benefits – better access to capital
+Better valuation from investors, enhanced
+performance in financial markets,
+Providing ESG data to the investors improves the
+company’s transparency. Improved transparency
+lowers portfolio risks, resulting in better valuation
+for the enterprise, and in the long run, better stock
+performance in the market. Higher valuation due to ESG
+factors not only impacts equities but also other asset
+classes, especially corporate bonds.
+Certain ESG Reporting Standards, inter alia SASB and
+CDP were developed with the information needs of
+investors in mind. The standards contain the specific ESG
+issues that potentially impact the financial performance
+of the companies, enabling the disclosures to support
+the decision-making of investors in particular.
+Attracting new types of investors
+In addition to achieving better transparency and thus
+better valuation, ESG reporting enables the company
+to attract a new type of long-term investors: the
+responsible investor. There is a noticeable shift in the
+focus of institutional investing towards environmental
+and social issues. The United Nations Principles for
+Responsible Investment (PRI) were launched in April
+2006 at the New York Stock Exchange. The PRI has
+grown consistently since its beginning, the six below
+principles of ESG compliant investments during the
+investment procedure is voluntary for institutional
+investors to follow:
+1) Incorporate ESG issues into the investment analysis
+and decision-making process
+2) Incorporate ESG issues in ownership policies and
+practices
+3) Seek appropriate ESG disclosure from companies
+4) Promote the principles within the industry
+5) Work together to enhance the implementation of the
+principles
+6) Report on the activities and the progress regarding
+the implementation of the principles
+The number of signatories has grown from 100 to over
+3000 since the launch of PRI and doubled in the past
+four years increasing exponentially, indicating serious
+investor commitment.
+2. Operational benefits
+ESG disclosure requires data gathering in various areas,
+often beyond the generally monitored performance
+indicators. This data gathering, the following data and
+risk analysis and eventually year-on-year monitoring
+and competitor comparability enables the company to
+realise operational benefits.
+Better understanding of the current operational risks
+means more efficient business. Considering ESG issues
+during the operation reduces risk factors not only for
+investors, but also for a number of other stakeholders:
+regulators, employees, local communities, etc.
+0
+250
+500
+750
+1000
+1250
+1500
+1750
+2000
+2250
+2500
+2750
+3000
+3250
+0
+20
+40
+60
+80
+100
+120
+2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020
+Assets under management (US$ trillion) AO AUM ($ US trillion) Number of AOs Number of Signatories
+Assets under management (US$ trillion) Nº Signatories
+Investors, FMPs Issuers Regulations
+Financial benefits Operational
+benefits
+Business
+opportunities
+Advanced
+communication
+and reputation
+Other potential
+benefits
+• More diverse
+investor base,
+possibly lower
+cost of capital
+• New types
+of financing
+alternatives,
+issuance of green
+products
+• Improved,
+long-term risk
+management
+• Better
+understanding of
+own organization
+• More informed
+decision-making
+and strategic
+planning
+• Investments in
+green products
+• Opportunities
+in sustainable
+finance or
+business
+development
+goals
+• ESG approach
+helps
+communication
+and cooperation
+with stakeholders
+and market
+participants
+• Better corporate
+reputation
+among
+stakeholders
+and market
+particopants
+• Tax or social
+security
+exemptions,
+reductions or
+other incentives
+might be
+associated with
+green operation
+and investments
+in the future
+OPPORTUNITIES
+12 ESG Reporting Guide for Issuers of the Budapest Stock Exchange 13
+Possible areas of operational benefits include
+• improved strategic planning and decision-making
+• alignment to future markets – better product and
+service development goals
+• cost savings and increased productivity
+• improved risk-management
+• advantages in employee recruitment and retention
+3. Business opportunities
+Sustainability reporting and overall knowledge of
+mid- and long-term ESG developments will enable
+companies to react more quickly on business
+opportunities in green areas. In most sectors it can be a
+definitive competitive advantage for those who get into
+this area sooner than their peers and are able to identify
+and take chances quickly. Some industries (e.g. oil and
+gas) and certain consumer groups (environmentconscious,
+solvent millennial generation) have already
+surpassed this level and set ESG awareness and
+compliance as minimum expectations.
+4. Advanced communication and reputation
+The ESG reporting process starts with the identification
+of the company’s main stakeholders, their interests,
+motives and material information needs, so
+communication with them may become more efficient
+and result in deeper engagement and enhanced overall
+cooperation with investors and all other stakeholders.
+In addition, high-level sustainability commitment
+usually signals long-term strategic thinking and
+reliability, improving company reputation on the market
+in general.
+5. Other benefits
+As Sustainable Development Goals set by the UN in
+2015 (more on that in the Regulatory Landscape
+Chapter) must be reached by 2030, which is a dedicated
+undertaking of 193 countries, including Hungary, green
+transition must be accelerated almost everywhere.
+It can be expected that green transition, operation
+and sustainable investments will be incentivised and
+supported by various taxing (social security) advantages,
+grants and other financial and non-financial aids by
+governments, which will represent either new business
+opportunities or the possibility to reduce the costs of
+transition. To fully exploit these benefits, companies
+must comprehend the basic processes related to ESG
+reporting.
+In 2020, the Central Bank of Hungary launched a
+program for loans financing energy-efficient real
+estate developments, investments, which introduced
+significantly reduced capital requirements for these
+loans. Such programs are expected to increase in the
+years to come.
+With ESG reporting the company applies a set of indicators that helps to comply with ESG standards and to better
+understand its own operation.
+Finding adequate metrics to measure the adherence to sustainability goals
+may be difficult at times, but not necessarily. For instance, employee turnover
+is an easily accessible metric which might give valuable feedback on employee
+satisfaction and loyalty and signal internal problems or inefficiencies worth
+paying attention to. Reporting ESG data enables management to gain insight
+and better understand more complex internal processes and tendencies.
+ESG and corporate governance reporting
+Corporate governance is the focus area of ESG which
+goes back to a longer history having a very definite and
+direct connection to shareholder (investor) rights and
+interests. Corporate governance reporting standards
+have developed in the past decades almost everywhere,
+most countries have corporate governance codes for
+listed companies. These codes are not fully harmonised
+on EU level, and there are differences across the
+different jurisdictions regarding the setting, supervision
+and monitoring of the codes and the issuer reports.
+Most codes use the “comply or explain” principle for
+compliance: deviation from the recommendations is
+not penalized but must be transparently presented
+in the individual reports. In case the company is not
+following one particular recommendation or guidance,
+it has to explain to the investors why. It is also stipulated
+in Commission Recommendation 2014/208/EU5,
+that “efficient monitoring of the compliance with the
+corporate governance codes is required at a national
+level within the framework of the existing monitoring
+system.”
+The Corporate Governance
+Recommendations of the Budapest
+Stock Exchange6 were first published
+in 2004 and last amended in 2018. In
+Hungary, the maintenance of the code
+as well as the monitoring of the issuer
+reports is performed by the Exchange and
+the Corporate Governance Committee,
+established by BSE, but operating
+independently.
+With the issuance of this ESG Reporting Guide the
+parallel system of corporate governance reporting will
+not cease; however, the two will likely merge in some
+form in the years to come.
+5 EUR-Lex - 32014H0208 - EN - EUR-Lex (europa.eu)
+6 Corporate Governance Recommendations - Bet site (bse.hu)
+14 ESG Reporting Guide for Issuers of the Budapest Stock Exchange 15
+Stakeholders and
+Materiality of
+Reporting
+16 ESG Reporting Guide for Issuers of the Budapest Stock Exchange 17
+Key steps in developing reporting ability are the identification of stakeholders and material topics.
+The two tasks are connected and together they support report content development. For purposes
+of the present guidance, stakeholder and materiality assessment is described closely linked to the
+requirements of the Global Reporting Initiative.
+Stakeholders
+The company’s stakeholders are the various
+constituents (institutions, businesses, interest
+groups or people) who directly or indirectly
+influence the operation of the company
+and vice versa.
+To create a proper ESG strategy and
+reporting regime, the first step for
+the company is to identify these
+stakeholders or stakeholder groups.
+Stakeholder assessment is needed
+for the development of the report
+content, as ESG reporting serves
+to inform stakeholders on their
+reasonable expectations and
+interests.
+Typical stakeholder categories that the
+company should address are shown on
+the following figure. These categories and
+groupings are only examples, customised
+stakeholder mapping must be prepared for
+each company individually.
+Investors
+The investors are the owners of the company, ideally,
+their interest revolves around the most important issues
+from profitability through compliant and safe operation
+to sustainability matters. Investors can be broken down
+into different types depending on the
+• level of influence on the company (majority
+shareholders versus minority shareholders)
+• level of expertise in core business and in investments
+in general
+• purpose of investment
+• their ESG involvement, etc.
+The company should carefully consider its investor
+composition to streamline ESG concepts. In recent years,
+investors have become more conscious about ESG
+performance and indicators, therefore, this aspect has an
+increased weight in investment decisions.
+Employees
+Employees’ interests regarding sustainability matters may
+have multiple aspects:
+• they expect their immediate working environment to
+be safe and pleasing (e.g. green offices, clean air);
+• they are also increasingly conscious about the social/
+labour conditions of their workplace (staff turnover,
+training and qualifications, gender equality /diversity/,
+physical working conditions, social dialogue, rights of
+workers, trade union rights, health and safety, etc.);
+• they are getting progressively concerned about their
+macro environment; therefore, the more employees
+identify with their company, the more important its
+social responsibility efforts are becoming for them.
+These questions may easily become value propositions
+and make the difference for some people when they
+select between jobs.
+Stakeholders and
+Materiality of Reporting
+Government
+Suppliers
+Customers
+Regulator
+Exchange
+Intermediaries
+Media, public
+Potential interest
+groups
+Investors
+Company
+Employees
+18 ESG Reporting Guide for Issuers of the Budapest Stock Exchange 19
+Governments, regulators
+Governments worldwide take serious measures,
+create economic and other programs to increase
+environmental consciousness and take immediate
+steps to stop climate change and improve world
+ecosystem as a whole. Therefore, regulators everywhere
+urge companies to provide quality ESG data in
+structured form. The Non-financial Reporting Directive
+in Europe (2014/95/EU) requires certain companies
+to include ESG contents in their annual reports. These
+trends and the regulatory framework are expected to
+intensify in the years to come (for more information
+on this topic please refer to the Regulatory and Policy
+Landscape Chapter).
+Exchanges
+Exchanges around the world can be catalysts of
+sustainability efforts and help listed companies to live
+up to stakeholder expectations. As a result of the work in
+UN Sustainable Stock Exchanges (SSE), many exchanges
+issued ESG Reporting Guides to orient companies and
+help improve their non-financial reporting routines.
+Suppliers, customers
+ESG reporting and transparency is becoming more
+important in supply-chains as well. Companies seriously
+engaged in social responsibility matters require their
+suppliers to comply with the same standards and
+values (e.g. ethical sourcing). ESG compliance can be an
+important selection criterion.
+Customers, end-users of services and products are also
+conscious about buying from businesses that focus
+more on product safety, environmental protection and
+social problems. ESG attentiveness can be a competitive
+advantage, especially in certain industries.
+Media, public
+Sustainability gets superior media and public attention
+in recent years. Especially for listed companies, who are
+constantly in the public eye, there is significant pressure
+to conduct socially responsible operation. Transparency
+in non-financial areas improves positive media
+attention in general, further, certain news agencies rank
+businesses based on their ESG strategy which can be an
+added value for them.
+Intermediaries (rating agencies, data
+providers, rankings, indexes)
+In the past decade, many firms got specialised in
+developing ESG standards and ratings (for further
+details on this topic, please refer to the Main ESG rating
+agencies and the importance of rating Chapter).
+It is also becoming a commonly accepted fact that
+companies with high ESG rating usually outperform
+their peers in economics as well, benefiting even
+strictly for-profit investors. ESG ratings therefore play an
+important role in analysis and company evaluations.
+Potential interest groups
+Certain Non-Governmental Organizations (NGOs) also
+highly engage in environmental and social responsibility
+affairs. These may be international or local organizations,
+some of them evolved to be quite influential in recent
+years (UN Environment Programme, UN Women, etc.)
+and shape the ESG landscape.
+Materiality
+The concept of materiality is at the centre of ESG
+reporting. It builds on the accounting materiality
+principle, which defines decision-useful information. As
+the content of non-financial reporting is defined less
+strictly in regulations than that of financial reporting, the
+task of determining the subject of the disclosure falls
+on the reporting organisation itself. The standards of
+ESG reporting are guiding and controlling the process
+through the materiality principle.
+Both the materiality of sustainability issues and the
+materiality of financial issues have been considered at
+company level, however the assessment of their relation
+and their effect on each other was uncommon. The
+concept of materiality in most non-financial reporting
+standards, as well as the EU Regulation builds on double
+materiality, i.e. financial materiality and environmental
+and social materiality. Financial materiality in this
+approach includes the consideration of the effect
+of climate change on the company – information
+particularly useful for investors. This approach can
+be seen in the TCFD recommendations. Whereas,
+environmental and social materiality considers the
+company’s impact on the climate, the environment and
+the society. In certain cases, the company’s impact on
+the climate may be considered financially material7.
+7 Guidelines on reporting climate-related information, European Commission Directorate-General for Financial Stability, Financial Services and Capital Markets Union, European
+Commission [2019]
+Source: Guidelines on reporting climate-related information, TFCD
+FINANCIAL
+MATERIALITY
+To the extent necessary for an understanding of the
+company’s development, performance and position...
+Primary audience:
+INVESTORS
+NON-FINANCIAL REPORTING DIRECTIVE
+RECOMMENDATIONS OF THE TCFD
+ENVIRONMENTAL & SOCIAL
+MATERIALITY
+...and impact of its activities
+Primary audience:
+CONSUMERS, CIVIL SOCIETY, EMPLOYEES, INVESTORS
+COMPANY CLIMATE COMPANY CLIMATE
+climate change
+impact on
+company
+company
+impact on
+climate
+Company impact
+on climate can be
+financially material
+* Financial materiality is used here in the broad sense of affecting the value of the company, not just in the sense of affecting
+financial measures recognised in the financial statements
+20 ESG Reporting Guide
+for Issuers of the Budapest Stock Exchange 21
+Materiality in ESG reporting serves as a tool to identify
+the most relevant topics of importance from the
+perspective of the given organisation. The materiality
+approach of the respective reporting schemes vary and
+so do the resources required by companies. However,
+materiality is at the core of all disclosure standards.
+Materiality may be considered an analogue to the
+relative importance of the different topics, which can be
+vastly different for one business or another. Defining the
+materiality of the different ESG issues helps determine
+which elements should be included in the report and
+thus entail an essential task.
+One approach in defining materiality is considering
+its influence on stakeholder assessment and
+decisions (external factor) as well as the social,
+environmental and economic significance of
+their impact (internal factor). Upon evaluating all
+relevant ESG issues according to the two factors,
+the materiality assessment needs to define the
+threshold of materiality, i.e. the level of significance
+in both the external and the internal aspects, above
+which the issue is considered material, therefore
+must be included in the report.
+MOL Group, for instance, uses the above-mentioned
+external-internal analysis for defining material topics.
+The materiality matrix of MOL Group is included below
+as an example. Topics highlighted with green are
+considered material.
+MOL Group’s materiality assessment is based on
+the requirements of the Global Reporting Initiative
+(GRI), however there are other approaches. The
+World Federation of Stock Exchanges (WFE) tries to
+help exchanges and reporting entities with a closer
+definition of materiality in its WFE Guidance and
+Metrics (revised June 2018) as follows:
+• The International Accounting Standards Board8
+defines ‘material’ information as that which, if
+omitted, misstated or obscured, could influence the
+economic decisions of readers relying on the financial
+statements.
+• The International Integrated Reporting Council (IIRC)9
+suggests an issue is material if it is relevant (is likely to
+have an impact on value creation) and is sufficiently
+important in terms of its known or potential effect
+on value creation with reference to magnitude of the
+matter’s effect and, likelihood of occurrence.
+• The Sustainability Accounting Standards Board (SASB)10
+uses the US Supreme Court definition of materiality
+namely, information is material if there is “a substantial
+likelihood that the disclosure of the omitted fact
+would have been viewed by the reasonable investor
+as having significantly altered the ‘total mix’ of
+information made available.”
+Source: MOL Group Integrated Annual Report - 2019
+8 https://www.ifrs.org/-/media/project/definition-of-materiality/exposure-draft/ed-definition-of-material.pdf
+9 https://integratedreporting.org/wp-content/uploads/2015/11/1315_MaterialityinIR_Doc_4a_Interactive.pdf
+10 https://www.sasb.org/standards-overview/materiality-map/
+Materiality of relevant topics
+Ethics, transparency,
+and governance
+Community
+relationships
+Future product
+portfolio
+Energy efficiency
+and GHG
+Biodiversity Eco-efficiency Spills and leakages
+Occupational health
+and safety
+Process safety, Crisis
+management
+Human rights Customers Human resources
+Suppliers Labour Practices
+EXTERNAL FACTORS
+Influence on stakeholder assessments and decisions
+INTERNAL FACTORS
+Significance of economic, environmental, and social impacts
+NOT MATERIAL MATERIAL
+22 ESG Reporting Guide for Issuers of the Budapest Stock Exchange 23
+Content, Quality,
+Format and Frequency
+of Reporting
+24 ESG Reporting Guide for Issuers of the Budapest Stock Exchange 25
+Environmental, social and governance principles are a framework of standards by which a
+company and its investors can measure the wider impact of its operations and long-term strategy.
+The main intention of reporting on ESG principles is to demonstrate the way in which ESG issues
+are integrated into decision-making, therefore information presented in ESG reports should
+correspond to the information actually used by managers and officers of the company to make
+business decisions.
+To start with, reporting companies should determine the internal roles and responsibilities within the company that
+are relevant to ESG assessment and reporting. Like many other tasks, it is recommended that ESG reporting starts
+from the bottom up. Different departments such as finance, investor relations, communications, core business, risk,
+environmental, HR, purchasing, legal need to be involved to ensure their input is integrated into the report. Most
+of the larger companies now have a separate sustainability division which plays an essential and integrating role in
+ESG reporting, however, ESG assessment and reporting should not be considered as their own exclusive duty. It is
+recommended that ESG factors are embedded into the everyday job duties of directors so that they can become an
+integral part of the business strategy, organisational culture and operational practices of the company.
+The management and the board of directors should also have an essential role in the integration and oversight of ESG
+reporting.
+Include context
+Organisations disclosing ESG information represent
+a wide variety of industries, are different in size
+and location, therefore, context of ESG information
+is especially important to enable stakeholders to
+understand and evaluate the data properly.
+Besides industry, region, location or company specific
+background data, the report should contain information
+on the broader context of sustainability as well. This
+requires companies to understand global, regional
+and local drivers affecting their ESG performance and
+affecting the context, thus the mindset of the report’s
+audience.
+Reflect on significant economic,
+environmental, and social impacts
+The information contained in the report should provide
+a balanced view of the environmental, economic and
+social impacts of the organization, both positive and
+negative impacts, enabling the stakeholders to evaluate
+ESG performance.
+The topics, as described in the stakeholder and
+materiality sections should consider the interest of
+stakeholder groups targeted by the report as well as
+general public.
+Accessible for all stakeholders
+The information contained in ESG reports is often
+times highly technical, thus the accessibility for all
+stakeholders reading is key. Information may contain
+information for subject matter experts; however, the
+report content should enable understanding of all
+stakeholders.
+Quality of reporting
+Investors seek to understand how ESG information
+is linked to the company’s business strategy and
+financial performance, and they prefer comparisons to
+historical company and industry trends, corporate goals,
+relevant ratios, industry averages and financial results/
+performance in ESG reports. The indicators chosen may
+be generic, industry-specific or company-specific and
+reporting companies may want to use widely accepted
+indicators developed via a credible process.
+Content, Quality, Format
+and Frequency of Reporting
+Content of reporting
+Besides identifying the material topics, which
+significantly affect the content of the ESG report,
+stakeholders and reporting standards may have
+additional expectations towards the report content.
+It is recommended that ESG reports:
+build on reliable data
+include context
+reflect on significant economic, environmental,
+and social impacts
+be accessible for all stakeholders
+Build on reliable data gathering
+Gathering reliable and complete ESG data is imperative.
+The quality of available data significantly affects
+decision-making capabilities and performance. Data
+gathering is a demanding task, which should be
+addressed by the reporting and preparation timeline
+accordingly. Internal systems such as audit, risk and
+data control and verification systems may serve as
+great sources of ESG information. Should the internal
+capability assessment deem existing systems insufficient
+for providing reliable, comparable and coherent ESG
+data, companies may decide to invest in improving
+reporting capacity. Data collection gaps should be
+addressed and explained in the reports.
+26 ESG Reporting Guide for Issuers of the Budapest Stock Exchange 27
+ESG reports should explain the changes in the applied
+indicators year-to-year, and it is recommended that
+the company also include its perception of how
+this might change in the future. Reports are also
+to explain methodologies for data collection and
+reasoning why they were used. The company should
+point out the correlation between ESG metrics
+and financial performance and illustrate how ESG
+initiatives complement to growth, productivity and
+risk management in monetary terms, where possible.
+It is recommended that comparable quantitative
+information should be provided for the previous three
+financial years.
+It is recommended that information included in
+ESG reports are:
+Accurate
+Balanced
+Comparable and consistent
+Timely
+Reliable
+Accurate
+Information should be accurate enough to enable the
+investors and other stakeholders to evaluate the results
+of the company’s activities and operations.
+Reporting companies should employ the same
+principles to ESG data as to financial data. Data used
+in ESG reports should also contain how the data
+was compiled, and if there are any uncertainties or
+limitations to the data. The company should also keep
+evidence how data sources were used. Key assumptions
+are to be also clearly presented. Raw as well as
+normalised data can be used in the reports.
+Balanced
+The report should provide an objective view, including
+both favourable and unfavourable, the positive and the
+negative impacts of the company’s activities.
+Avoiding or obscuring certain aspects might result
+in discomfort and even mistrust from investors and
+stakeholders. Subjects that are more difficult should
+be explained and commented thoroughly. Describing
+lessons learnt and changes resulting from negative
+experiences will be useful to represent the company’s
+dedication to maintain an honest and open approach
+towards investors.
+Comparable and consistent
+The information in the report should enable readers to
+evaluate the company’s performance over time and to
+compare it with other organisations.
+It is recommended that consistent global standards
+are used in the ESG reports in order to facilitate
+comparability between peers. Comparability and
+consistency are facilitated by indicators and metrics
+that are widely used within the specific business area
+and sector, and companies should aim to report in a
+similar manner to sector peers. The methods used to
+collect and normalise data should remain consistent
+year-on-year and if data compilation methodologies or
+underlying assumptions change, changes need to be
+explained. In case of significant changes, previous years
+data should be recalculated with the new methodology
+or assumptions to enable comparison.
+Timely
+ESG reports and data used therein are recommended
+to coincide with the annual reporting cycle and
+align to the fiscal year of the company. Investors and
+stakeholders can cross-use the two different data sets,
+for example normalising certain ESG data by revenues or
+staff numbers.
+Reliable
+Reporting companies should apply strong internal
+assurance processes, information included in the report
+should be overseen by the board of directors, the
+supervisory board and the audit committee and this fact
+also should be mentioned in the report.
+External assurance by qualified and independent
+auditors is also highly recommended to strengthen the
+credibility of the ESG data. The scope and process used
+for external assurance should be described in the report.
+Reporting format and disclosure channels
+Reporting formats
+The ESG report can be included in the board of directors’ annual report, elsewhere in the
+company’s annual report, in an integrated report, but it can also be presented in a separate, standalone
+report or even through other channels. The different types of reporting represent different
+advantages, each company should consider which type will fit them best and the needs of their
+investors. Regardless of the reporting channel chosen, the format of the report must satisfy all
+relevant legal requirements and be easily available via the company’s website.
+ESG reports come
+in four typical categories
+Basic reports Standardised reports Assured reports Integrated reports
+these are considered
+to be non-financial
+reports disclosing
+information on
+environmental, social
+and governance
+issues relevant for the
+company, but they
+are not in accordance
+with ESG reporting
+standards.
+An example for basic
+report can be the 2019
+Sustainability Report of
+Borsodi Sörgyár Kft.
+reports developed
+in accordance with a
+reporting standard.
+An example for
+standardised reports
+can be the 2019
+Sustainability Report of
+Szerencsejáték Zrt.
+standardised reports
+developed according
+to a standard that
+can be and are
+externally assured by
+an independent third
+party.
+An example for
+assured reports can be
+the 2019 Sustainability
+Report of OTP Bank Nyrt.
+reports developed
+according to
+an integrated
+reporting standard,
+representing
+the company’s
+performance from
+both financial and
+ESG aspects.
+An example for
+integrated reports can
+be the 2019 Integrated
+Report of ALTEO Nyrt.
+A dedicated, standalone report most probably provides
+a greater degree of flexibility and clarity and the specific
+information is easier to retrieve on its own, it does not
+necessarily need to align with the style of the annual
+report. Companies that are just starting nonfinancial
+reporting might find it easier to prepare
+a standalone report. A standalone report allows
+companies to freely select the style of presentation
+for ESG data, tables and charts they prefer without
+taking other methods used in the, financial report into
+account. As a disadvantage, the separation can imply
+that the company considers sustainability or other ESG
+related topics separated from the core business, so
+this should be addressed carefully, for example with
+cross references: material data or factors in the annual
+report should also be addressed and referred to in the
+standalone ESG report.
+If the report is separated from financial disclosure, then
+both types of disclosures should cover the same period
+so that financial information can be considered and
+analysed within the context of ESG information. It is also
+important to ensure consistency among the different
+communication channels.
+Instead of qualitative narratives, quantitative
+data is highly demanded as they can
+provide comparisons over different periods
+within the particular company as well as
+with similar data from other companies.
+Quantitative data also enhance investment
+valuation and credit rating models.
+28 ESG Reporting Guide for Issuers of the Budapest Stock Exchange 29
+The Hungarian Accounting Act (Act C of 2000 on
+accounting) requires large companies to integrate
+non-financial information into their annual financial
+statements and the company may decide to include
+further ESG information in the company’s financial
+disclosure even if it is not mandatory by rules of law.
+The key advantage of integration of ESG topics into
+regular annual reports is that ESG data gathering,
+processing and verifying is integrated into processes
+and controls the company already applies. It is also a
+benefit that ESG data is available for investors at the
+very same time as the financial information on the
+company. As a disadvantage, length and complexity of
+an integrated report might be a concern, which can lead
+to including fewer ESG issues. Moreover, ESG topics may
+not always fit fluidly the structure of the annual report.
+Most probably the future standard for the format of
+ESG reporting will be the integrated report, where
+financial and non-financial information is integrated
+into one single report. Larger listed companies
+might want to choose this format and direction.
+The concept provides investors a more complete
+and concise insight into the performance of the
+company. Again, length can be an issue with integrated
+reports as well, however, reporters should be careful
+when reducing the information making sure that the
+most critical ESG areas are not missed. Reporters should
+also keep in mind that investors and other stakeholders
+reading their reports may have different ESG needs.
+Companies also might want to supplemented their
+integrated reports by additional and more detailed ESG
+information via the company’s website or through other
+publication channels.
+Similar to financial reporting, it can be helpful to use
+XBRL, a digital reporting language for reporting ESG
+information that structures data consistently to improve
+analysis.
+Disclosure channels
+The proper disclosure channels should be chosen so
+that stakeholders can access the reports easily and
+in a timely manner. Companies should be familiar
+with their target audiences’ preferred ESG information
+sources and update them regularly. These information
+needs might be different so companies might want
+to use different communication channels to ensure
+that the entirety of a company’s target audience
+receives the information. The channels for ESG
+disclosure also depend on a company’s regulatory
+context and business and communication strategy.
+Choosing a language widely spoken by international
+investors is recommended in addition to a national
+language. Rather than publishing the ESG reports
+periodically without any follow-up communication,
+reporting companies should see ESG reporting
+as a continuous dialogue with stakeholders, and
+they should regularly address the key demands of
+investors and answer their questions.
+Advancing reporting capabilities
+Companies on more mature stages of reporting, having assured standardised or integrated reports may consider
+further advancements to the content or channels of ESG performance communication. ESG ratings may be the
+advancement on reporting capability of the company. After deciding on the ESG rating approach of the company, the
+first year may serve as a baseline for rating, upon which results, new data gathering needs and disclosure opportunities
+may be identified. The result reviewing the first ESG rating should inform the second year reporting process.
+Reporting frequency
+It is general market practice that ESG reports are
+published at least on an annual basis. In case of listed
+companies the ideal delivery of such reports are
+together with the financial report referring to the same
+year. Some industrial sectors cover 2 years in one report.
+Non-listed companies typically prepare their reports
+at the beginning of a calendar year, and publish it at
+autumn. When defining frequency however, it might be
+necessary to communicate sooner when a significant
+incident or controversy has taken place through adhoc
+disclosures rather than to wait for the next annual
+reporting cycle. The report content may be adopted for
+the different reporting frequencies.
+Roadmap of reporting
+Achieving the different levels of reporting maturity requires varying resources. Report
+development requires significant amount of time. The following two examples outline the
+reporting roadmap for developing and for advancing reporting capabilities.
+Building reporting capacity
+The content of ESG reports is governed by the standard the company chooses to use and greatly limited by the data
+gathering possibilities. For companies new to ESG reporting, gathering data in accordance with disclosure standards
+may encounter significant difficulties. Therefore, a data gathering system gap assessment should be conducted. The
+results of the data gathering system assessment should identify the improvement opportunities and needs of data
+gathering in order to fulfil the standard requirements. After the gap analysis, a basic report may be created in the first
+year, after intensive data gathering and report writing processes. Upon implementing the identified developments
+to the data gathering system, the second report may be a standardised report. However, assurance poses a new layer
+of requirements and understanding, the management of which requires further resources. Assurance may be the
+aspiration of a three-year-long capacity building roadmap.
+1st year 2nd year 3rd year
+July
+July
+July
+July
+August
+August
+August
+August
+September
+September
+September
+September
+October
+October
+October
+November
+November
+November
+December
+December
+December
+January
+January
+January
+February
+February
+February
+March
+March
+March
+April
+April
+April
+May
+May
+May
+June
+June
+June
+1st year 2nd year
+Month 1
+Month 2
+Month 3
+Month 4
+Month 5
+Month 6
+Month 7
+Month 8
+Month 9
+Month 10
+Month 11
+Month 12
+Month 13
+Month 14
+Month 15
+Month 16
+Month 17
+Month 18
+Month 19
+Month 20
+Month 21
+Month 22
+Month 23
+Month 24
+Month 25
+Month 26
+Review of data
+gathering system
+Defining annual
+reporting goals
+Review assurance
+possibility
+Report
+writing
+Report
+writing
+Review of
+ESG rating
+Report
+writing
+Report
+writing
+Report
+writing
+Reviewing disclosure
+ability, extending
+standard alignment
+Data
+gathering
+Data
+gathering
+Data
+gathering
+Data
+gathering
+Assurance
+Assurance Assurance
+Stakeholder and
+materiality assessment
+Decision on ESG
+rating approach
+Publication
+of first report
+Publication of
+assured report
+Data
+gathering
+Publication of
+second report
+Publication of
+third report
+Publication of
+assured report
+30 ESG Reporting Guide for Issuers of the Budapest Stock Exchange 31
+Regulatory and
+Policy Landscape
+32 ESG Reporting Guide for Issuers of the Budapest Stock Exchange 33
+Various rules of law are already in effect worldwide that legally oblige certain companies to
+disclose so called ‘non-financial information’, and it is widely expected that the obligation to
+publish such information will be legally required and binding in more and more details and not
+only on the largest companies, but on many medium-sized or even smaller firms as well.
+The following is a short overview of the development and the key milestones of the international,
+EU and Hungarian regulatory landscape regarding sustainability and non-financial disclosures11.
+Background
+The term ESG was first contained in a study called
+‘Who Cares Wins’, in 2005, endorsed by the United
+Nations and market leading financial institutions. The
+study set up recommendations to better integrate
+environmental, social and governance issues in analysis,
+asset management and securities brokerage.
+In 2015, the United Nations (UN) adopted the 2030
+Agenda for Sustainable Development and its 17
+Sustainable Development Goals (SDG)12 which call
+for concerted efforts towards building an inclusive,
+sustainable and resilient future for people and planet
+and intend to harmonise three core elements: economic
+growth, social inclusion and environmental protection.
+The Paris Climate Agreement13 (PCA), originating
+from the foundations laid down in the SDG, is the firstever
+universal, legally binding global climate change
+agreement, adopted at the Paris climate conference in
+December 2015. In particular, the agreement sets out a
+global framework to avoid dangerous climate change
+by limiting global warming to well below 2°C and
+pursuing efforts to limit it to 1.5°C and it also includes
+the commitment to align financial flows with a pathway
+towards low-carbon and climate-resilient development.
+ESG disclosure regulations already in force
+The Non-Financial Reporting Directive (NFRD)14
+(Directive 2014/95/EU on the disclosure of non-financial
+and diversity information) requires large public interest
+companies (with more than 500 staff ) to disclose certain
+information on the way they operate and manage social
+and environmental challenges in order to help investors,
+consumers, policy makers and other stakeholders
+to evaluate the non-financial performance of these
+companies and encourages the reporting companies to
+develop a responsible approach to business (specifically
+related to employment, board diversity, human rights,
+anti-corruption and bribery issues). Companies are
+required to include non-financial statements in their
+annual reports from 2017 onwards.
+The obligation to prepare a non-financial statement (as
+part of their annual financial statements) in accordance
+with the NFRD was implemented to the Hungarian
+Accounting Act in 2016. It applies only to large
+companies of public interest. As per the Accounting Act,
+the non-financial statement shall include
+• a brief description of the business model of the
+company,
+• description on policies applied by the company
+regarding environmental protection, social and
+employment aspects, anti-corruption measures,
+also outlining the internal and/or external assurance
+thereof,
+• results of the above policies,
+• material risks regarding the above topics and
+description on risk management,
+• key non-financial data.
+In line with the NFRD approach, in case a company
+does not have one or more of the above policies,
+the Accounting Act requires the company to explain
+(comply or explain principle). Also, information may
+be left out of the report in case the company deems
+disclosure is detrimental to its legitimate business
+interests, as long as the missing information does
+not represent a misleading picture on the company’s
+performance, development and activities.
+The Shareholder Rights Directive (SRDII)15
+(Directive 2017/828/EU) can also be listed among
+sustainability regulations, as, effective from June 10,
+2019, it introduces ESG investment strategy, corporate
+engagement and disclosure obligations on the buy-side.
+SRDII was implemented in Hungary by Act 67 of 201916.
+The Sustainable Finance Action Plan
+Recent ESG regulations derive from the Sustainable
+Finance Policy17 issued by the European Council,
+which is complemented by several Green Finance
+Initiatives18, such as the Sustainable Finance Action
+Plan19. The SFAP has four key elements:
+• The Sustainable Finance Disclosure Regulation
+• The Taxonomy Regulation
+• The Climate Benchmarks Regulation
+• The (proposed) EU Green Bond Standard
+The Sustainable Finance Disclosure Regulation
+(SFDR)20 (Regulation (EU) 2019/2088 on sustainabilityrelated
+disclosures in the financial services sector),
+entered into force on 10 March, 2021, lays down
+harmonised rules for financial market participants
+(portfolio managers, fund managers, certain insurance
+Regulatory and Policy
+Landscape
+11 For a more comprehensive review of ESG Regulations, please consult FACTSET’s EU Environmental Social Governance (ESG) Regulations Guide by Barrie C. Ingman
+12 Transforming our world: the 2030 Agenda for Sustainable Development | Department of Economic and Social Affairs (un.org)
+13 UNTC
+The EU set four main objectives which should
+be supported by legal framework:
+• As public funding is insufficient to achieve
+SDGs and the PCA goals, investments
+should be channelled towards sustainable
+activities (for which the definition of
+sustainable and unsustainable activities will be
+necessary).
+• In order to avoid “greenwashing” (when
+activities or products are misleadingly labelled
+“green”, when in fact they are not sustainable),
+a harmonized classification system and
+standardized benchmark rules should be
+introduced.
+• To ensure that the first two objectives are
+met, proper disclosure obligations must
+be in place to demonstrate the exposure of a
+product or portfolio to ESG risks and vice versa.
+• Enhanced risk management rules and
+prudential measures requiring firms to
+assess ESG risk exposures to the products
+manufactured or distribute and to the firm
+itself.
+14 EUR-Lex - 32014L0095 - EN - EUR-Lex (europa.eu)
+15 EUR-Lex - 32017L0828 - EN - EUR-Lex (europa.eu)
+16 2019. évi LXVII. törvény a hosszú távú részvényesi szerepvállalás ösztönzéséről és
+egyes törvények jogharmonizációs célú módosításáról - Törvények és országgyűlési
+határozatok (jogtar.hu)
+17 Financing the climate transition - Consilium (europa.eu)
+18 Sustainable finance | European Commission (europa.eu)
+19 EUR-Lex - 52018DC0097 - EN - EUR-Lex (europa.eu)
+20 EUR-Lex - 32019R2088 - EN - EUR-Lex (europa.eu)
+34 ESG Reporting Guide for Issuers of the Budapest Stock Exchange 35
+undertakings) and financial advisers on transparency
+with regard to the integration of sustainability risks
+and the consideration of adverse sustainability impacts
+in their processes and the provision of sustainabilityrelated
+information with respect to financial products.
+The SFDR requires investment firms to disclose the
+environmental sustainability of an investment and
+the provenance of any ESG claims made, the risks
+investments present to ESG factors and the risks ESG
+factors present to investments. The preparation of
+accurate and comprehensive information on ESG will
+necessitate significant system and control changes, and
+a material allocation of resource for many firms.
+On 11 December 2019, the Commission presented the
+European Green Deal21, a growth strategy aiming to
+make Europe the first climate neutral continent by 2050.
+As part of the Green Deal, the Commission presented on
+14 January 2020 the European green deal investment
+plan, which will mobilise at least €1 trillion of sustainable
+investments over the next decade. It will enable a
+framework to facilitate public and private investments
+needed for the transition to a climate-neutral, green,
+competitive and inclusive economy.
+The Taxonomy Regulation22 (Regulation (EU) 2020/852
+on the establishment of a framework to facilitate
+sustainable investment), establishes the criteria for
+determining whether an economic activity qualifies as
+environmentally sustainable for the purposes of
+establishing the degree to which an investment is
+environmentally sustainable.
+The Regulation requires financial market participants
+to classify investments based on the NFRD reports
+and disclose ESG and Taxonomy related analysis.
+The Taxonomy Regulation tasks the Commission
+with establishing the actual list of environmentally
+sustainable activities by defining technical screening
+criteria for each environmental objective through
+delegated acts, such delegated acts are still under
+preparation. The Taxonomy Regulation shall apply
+generally from 1 January 2023, however, from 1 January
+2022 large companies of public interest subject to
+an obligation to publish non-financial information
+shall include in their non-financial statement the
+proportion of their turnover derived from products or
+services associated with climate change mitigation and
+climate change adaptation, as well as the proportion
+of their capital expenditure and the proportion of their
+operating expenditure related to assets or processes
+associated with climate change mitigation and climate
+change adaptation. This means that affected companies
+will have to start gathering data and making all
+necessary preparations so that they can comply with
+this legal requirement in respect of the business year
+2021.
+The new EU Climate Transition Benchmarks
+Regulation23 (regulation (EU) 2019/2089 - CTBR) sets
+up two types of benchmarks in accordance with the
+impact investing, the EU Paris-Aligned Benchmarks and
+the less strict EU Climate Transition Benchmarks and
+lays down the minimum requirements for each of those
+benchmarks. The Regulation obliges the administrators
+to issue a statement whether their benchmarks qualify
+as one of these categories and they should also publish
+the methodology that they use for the calculation of
+those benchmarks.
+Local regulatory measures
+Beside the already mentioned Accounting Act and
+the mandatory implementation of EU regulations, the
+Central Bank of Hungary and other institutions also try
+to help market participants in their ESG compliance
+efforts.
+The Taxonomy Regulation applies
+to financial market participants
+that make available financial
+products as well as undertakings
+which are subject to the obligation
+to publish a non-financial
+statement or a consolidated nonfinancial
+statement.
+The Central Bank of Hungary will most probably
+help market participants with implementation
+guidelines and explanatory notes where
+relevant. BSE is trying to help issuers with
+this Guide and with educational events,
+conferences.
+It is also worth mentioning that the Association
+of Hungarian Investment Fund and Asset
+Management Companies is also issuing a
+recommendation to help align the classification
+of funds with SFRD.
+Further developments
+As already mentioned in the Introduction,
+at this point of time, it is impossible to give
+an exhaustive and all-inclusive review of all
+ESG-related regulations. In the following years,
+a vast amount of Level II rules (implementing
+regulations and technical standards) are
+scheduled to come out to complement the
+above Level I regulations with necessary details
+and fill in the gaps.
+21 A European Green Deal | European Commission (europa.eu)
+22 EUR-Lex - 32020R0852 - EN - EUR-Lex (europa.eu)
+23 EUR-Lex - 32019R2089 - EN - EUR-Lex (europa.eu)
+24 TEG report on EU green bond standard | European Commission (europa.eu)
+Some important EU initiatives on the way:
+• EU Green Bond Standard: building on current best
+practices, and within the framework of the Prospectus
+Regulation, the Commission issued a Green Bond
+Standard Report24 with recommendations for a
+proposed standard for green bonds.
+• NFRD review: there is an ongoing revision of the NFRD
+in 2021, which aims at the standardization of nonfinancial
+reporting practices and regulations
+• Sustainable Corporate Governance: a new initiative
+which suggests that corporate governance reporting
+should be extended to more ESG aspects (social) and
+would replace current comply or explain practices with
+more specific and stricter regulations, and to move
+from reporting to mandatory compliance in certain
+issues. This concept is currently under consultation and
+triggered debate among market participants.
+• IFRS consultation: a 5-yearly review of the IFRS
+regulations was conducted last year, with ESG reporting
+in the focus, evaluation of the consultation and
+announcement of subsequent steps can be expected
+soon.
+Timeline of ESG Regulations in the order of effective date
+Taxonomy Regulation
+January 1, 2023
+(From January 1, 2022,
+statement on proportion
+of turnover/CAPEX/
+OPEX related to climate
+change mitigation and
+adaptation)
+NFRD
+January 1, 2017
+SRDII
+June 10, 2019
+CTBR
+April 30, 2020 (BM
+statements on ESG
+factors reflected)
+SFDR
+March 10, 2021
+(website and precontractual
+disclosures)
+SFDR
+June 30, 2021
+(entity level
+disclosures, adverse
+sustainability
+Impacts)
+CTBR
+December 31, 2021
+(BM statement
+climate methodology
+disclosure)
+CTBR
+January 1, 2022
+(administrators’
+statement on
+alignment with PA
+objectives)
+SFDR
+January 1,
+2022, periodic
+reporting
+SFDR
+December 30,
+2022 (product
+level disclosures
+of adverse
+sustainability)
+CTBR
+December 31, 2022 (report
+on creation of ESG BM)
+36 ESG Reporting Guide for Issuers of the Budapest Stock Exchange 37
+Introduction to ESG
+Reporting Standards
+38 ESG Reporting Guide for Issuers of the Budapest Stock Exchange 39
+BSE does not recommend one specific standard to use from the many ESG standards available for
+reporting but rather provides a list of standards that could be applicable for issuers.
+Prior to selecting a reporting standard, the company should get information from the
+organisations developing the particular standard or advice from subject matter expert advisors.
+Global reporting standards to start with
+The two most popular standards used by BSE listed
+companies are GRI and the SASB. The standards
+have been developed to provide ESG information to
+stakeholders.
+GRI disclosure provides information on how the
+company’s actions are likely to impact the external
+environment to a broad group of stakeholders
+including investors, while SASB is targeted specifically at
+investors, communicating about the ESG issues likely
+to impact the companies’ financial performance.
+Besides being one of the most popular standards
+among BSE listed companies, GRI was created as a
+universal disclosure standard for a diverse group of
+companies, with additional sector specific disclosures
+applying specific metrics. Thus, the topics cover a wide
+range of issues, whose relevance vary for the disclosing
+company. GRI is one of the most widely used ESG
+disclosure standard globally, however its pertinence
+in certain industries, especially ones with less mature
+sustainability disclosure practice, may be limited.
+SASB, as mentioned previously, is targeted at investors
+specifically. The standard contains 77 industry specific
+sets of ESG metrics, potentially having financial
+implications for the company. This allows for a more
+focused disclosure, yet it is important to note, that SASB
+was developed with a strong emphasis on financial
+materiality, therefore it builds on financial information.
+Both standards are using international and American
+terminology, consequently some definitions are
+harder to apply and understand from a European and
+Hungarian perspective. This may lead to confusion on
+the data servicing side and on the surface analogous
+but truly incomparable data. To ensure the technical
+adequacy of indicators, both local and subject matter
+knowledge is required.
+Although GRI and SASB have different purposes,
+they can be and are in many cases used together.
+The two standards are not competitive, but
+complementary frameworks, using different
+definitions of materiality for different purposes.
+For more information on the two standards, please
+consult the Annex.
+Issue specific global disclosure and target setting schemes
+Besides the complex, overarching reporting standards
+addressing economic, environmental, social and
+governance aspects of company performance, due to
+the growing interest and investor demand for action
+against climate change, issue specific disclosure and
+target setting schemes arose.
+There are various commitment and reporting schemes
+in place aiming at assessing and evaluating the short-,
+medium- and long-term impacts of climate change
+and safeguarding future interests of investors. There
+are several policy directions, guidance documents and
+global platforms such as UN SDGs, UNGC and UN PRI
+in the area of ESG. BSE recommends three central and
+widely known disclosure and target setting schemes
+below. Notably, certain industries have developed ESG
+performance assessments and benchmark databases to
+guide monitoring and reporting efforts of companies.
+One great example is the GRESB Assessments in the
+real asset investment industry. The assessments are
+focusing on investor requirements and are aligned the
+aforementioned international reporting frameworks
+as well as the Paris Climate Agreement, regional and
+country specific disclosure guidelines and regulations.
+BSE recommended ESG reporting global
+disclosure and target setting schemes for
+specific issues
+1. Task-Force on Climate-related Financial
+Disclosures (TCFD)
+2. Climate Disclosure Standards Board (CDBS)
+3. Carbon Disclosure Project (CDP)
+For more information on these, please consult the Annex.
+Another notable target setting scheme is the Science
+Based Targets Initiative (SBTi), which focuses on climate
+action through emission reduction target setting.
+Integrated reporting to enhance transparency and
+address interconnectivity
+Existing non-financial reporting may be strengthened
+by implementing an integrated reporting approach.
+Integrated reporting enables the company ESG
+communication to report in a cohesive way, reducing
+duplication and miscommunication between business
+areas.
+Guiding Principles and Content Elements govern the
+content of integrated reports according to the IIRC
+Framework, however, they often build on disclosures
+according to the GRI or SASB standards.
+BSE recommended Integrated ESG Reporting
+Framework
+1. International Integrated Reporting Council (IIRC)
+For more information on the framework, please consult
+the Annex.
+Please note that in 2021, ESG reporting standards are expected to become more
+harmonised, cooperating on various fields with each other, therefore, standard-specific
+information included herein should be doublechecked on the respective webpages of the
+standard providers.
+Introduction to ESG
+Reporting Standards
+industry specific sets of
+ESG metrics
+77
+40 ESG Reporting Guide for Issuers of the Budapest Stock Exchange 41
+ESG Data from
+Collection to Issuer
+Ratings
+42 ESG Reporting Guide for Issuers of the Budapest Stock Exchange 43
+Main ESG rating agencies
+and the importance of
+rating
+The increasing prominence of sustainability,
+environmental, social and governance
+considerations for evaluating a company’s
+performance brought the need for objective
+assessment of ESG performance and thus the
+emergence of different rating agencies. These
+ESG rating agencies are specialised in assessing
+the environmental, social and governance
+performance according to their respective
+methodologies. The methodologies applied by
+the ESG rating agencies vary, frequently using
+publicly available data (such as media sources and
+annual reports).
+ESG rating agencies aim to inform interested parties
+and enhance financial decision-making processes. ESG
+performance may influence credit rating positively.
+As suggested by several studies, ESG criteria has turned
+out to be highly valuable, with ESG portfolios continually
+outperforming traditional portfolios. At companies that
+focused on sustainability, operational performance was
+improved, translating to higher cash flows. Companies that
+score well on ESG metrics are believed to better anticipate
+future risks and opportunities, be more disposed to longerterm
+strategic thinking, and focused on long-term value
+creation.
+It should be noted that ratings provided by different
+agencies are not consistent. The proliferation of different
+standards and rating agencies already raised the need
+for standardization across the sector in the future by
+many, but currently this inconsistency must be taken into
+consideration.
+The main ESG rating agencies globally are:
+• Arabesque: Arabesque S-Ray assesses company
+performance and sustainability based on ESG and
+financial metrics. Currently covers approximately 7 000
+companies, but applies no minimum limit to companies
+in size, region, sector or other aspects for inclusion in
+assessment.
+• ISS: ISS provides ESG rating for corporations and
+countries as well. The corporate ESG rating uses general
+and industry specific criteria to assess ESG performance.
+ISS is a SASB alliance organizational member.
+• MSCI: MSCI ESG rating aims to identify and assess
+ESG related risks in company operations. The rating
+uses publicly available data. The ESG rating combines
+weighted percentage of risks according to their impact,
+and is normalised relative to industry peers. MSCI
+includes approximately 8 500 companies, primarily equity
+issuers that are constituents of MSCI market capital
+Indexes and fixed income issuers covered in the Barclays
+Global Aggregate Indexes.
+• Refinitiv: Refinitiv ESG score provides information on
+the relative ESG performance of the companies. Refinitiv
+collects ESG data from annual report, NGO websites, CSR
+reports, company websites, stock exchange filings and
+news sources. The rating covers over 7 000 companies
+globally.
+• Robeco: RobecoSAM Smart ESG scores include
+financially material and industry specific ESG issues. The
+ESG rating and benchmarking services are now owned by
+and operating from S&P Global. The rating covers almost
+5 000 companies worldwide.
+• Sustainalytics: the ESG rating of Sustainalytics is to
+be integrated into Morningstar Equity Research. The
+rating focuses on ESG risks, enabling cross-industry
+comparison between companies. The rating covers 12
+000 companies.
+As mentioned above, ESG rating agencies are often
+connected to and considered by global credit rating
+agencies, such as S&P, Moody’s, Fitch and DBRS.
+The rating may be on an “invitational” basis, based on
+capital market value, or on voluntary basis, depending the
+Rating Agency.
+In Hungary, currently four corporations – MOL, Magyar
+Telekom, Richter Gedeon and OTP Bank – receive ESG
+ratings from major ESG rating agencies, such as Arabesque,
+ISS ESG, MSCI, RobecoSAM and Sustainalytics.
+ESG Data from Collection
+to Issuer Ratings
+44 ESG Reporting Guide for Issuers of the Budapest Stock Exchange 45
+BSE
+Recommendations
+46 ESG Reporting Guide for Issuers of the Budapest Stock Exchange 47
+BSE acknowledges the importance of ESG issues and aims to support issuers in effectively
+addressing and communicating them.
+Guiding principles for issuers in developing their
+ESG approach:
+1 Develop understanding of ESG issues
+2 Incorporate ESG issues into decision-making
+3 Define roadmap for continuous improvement in addressing ESG issues
+4 Disclose ESG relevant issues
+Besides respecting and implementing the guiding principles, BSE Issuers are recommended to perform certain tasks
+related to ESG reporting.
+Recommendations for
+BSE issuers:
+All BSE issuers should be able to disclose their ESG
+performance at least annually, starting in 2023
+at the latest, disclosing information on the year
+2022. The report should be publicly available. The
+disclosures of issuers are categorised into three levels
+based on the following criteria:
+ESG categorisation Entry level Intermediate level Advanced level
+Disclosure Standalone ESG
+disclosure
+Standalone ESG
+disclosure
+Integrated reporting
+Frequency of disclosure Annual report Annual report Annual report and
+quarterly ESG update
+Reporting format Basic report Standardised report Integrated
+(standardised) report
+Report assurance Not required Not required External assurance
+required25
+Target setting Not required ESG target Target set and
+monitored according to
+target setting scheme
+Improvement Should advance to
+intermediate level in 2
+years
+Should perform all
+aspects in 2 years and
+advance to advanced
+level in 3 years
+Should perform all
+aspects in 3 years
+In line with Principle 3 above, issuers should aim to improve their approach of addressing ESG issues, for which they
+are recommended to prepare and publish a roadmap for meeting the BSE recommendations and improving
+their categorisation according to them. The roadmap should be prepared by 31st December 202126, and should
+cover but is not limited to:
+• the schedule of adapting the BSE recommendations,
+• the desired ESG category for each year between 2022 and 2025,
+• the planned advancements to achieve ‘advanced level’.
+Issuers are expected to publish at least a standalone ESG disclosure in 2023 (covering year 2022) in order to meet ‘entry
+level’ classification, and then gradually move to the next levels.
+BSE Recommendations
+25 External assurance can be reasonable or limited and may include but is not limited to assurance according to ISAE 3000 standard.
+26 Issuers listed after this date are recommended to prepare the roadmap at the time of their listing or as soon as possible after the first day of trading.
+48 ESG Reporting Guide
+for Issuers of the Budapest Stock Exchange 49
+In ‘entry level’, issuers publish at least a standalone, non-standardised ESG disclosure, may it be a CSR, sustainability
+or ESG report. Since the report is not prepared according to any international standard, no assurance is necessary.
+However, in line with the principle of continuous improvement, ‘entry level’ issuers are recommended to advance to
+‘intermediate level’ within 2 years.
+Advancement between categories takes place in case the issuer performs at least one of the next level requirements.
+In case of ‘entry level’ advancement, this is either target setting or publishing a standardised report.
+‘Intermediate level issuers should be able to report on their ESG performance in accordance with an acknowledged
+reporting standard annually. They are recommended to set medium- or long-term (i.e. annual to 5 year) ESG targets.
+Intermediate level issuers should perform all intermediate level requirements in 2 years and move to advanced
+level in the third year. To reach advanced level, the issuer are expected to perform at least one of the advanced level
+requirements.
+Advanced level issuers should publish an assured integrated report on their financial and ESG performance in
+accordance with an acknowledged reporting standard annually. ESG updates should be shared quarterly. Medium- or
+long-term (i.e. annual to 5 year) ESG targets should be defined in line with target setting scheme(s). Advanced level
+issuers should perform all requirements in 3 years.
+Entry level
+• Annual CSR report
+• Non-standardized
+• No assurance
+• No target setting
+Required to advance
+Required to perform all aspects Required to advance
+Required to perform all aspects
+Entry level
+• Annual CSR report
+• Non-standardized
+• No assurance
+• No target setting
+Intermediate level
+• Annual CSR report
+• According to GRI
+• No assurance
+• No target setting
+Intermediate level
+• Annual CSR report
+• According to GRI
+• No assurance
+• No target setting
+Intermediate level
+• Annual CSR report
+• According to GRI
+• No assurance
+• No target setting
+Intermediate level
+• Annual CSR report
+• According to GRI
+• No assurance
+• ESG target
+Advanced level
+• Annual CSR report and
+quarterly ESG update
+• According to GRI
+• No assurance
+• ESG target
+Advanced level
+• Annual CSR report and
+quarterly ESG update
+• According to GRI
+• Limited external
+assurance
+• ESG target
+Advanced level
+• Annual CSR report and
+quarterly ESG update
+• According to GRI
+• No assurance
+• ESG target
+Advanced level
+• Annual Integrated
+report and quarterly
+ESG update
+• According to GRI&IIRC
+• Limited external
+assurance
+• ESG target
+Advanced level
+• Annual Integrated
+report and quarterly
+ESG update
+• According to GRI&IIRC
+• Limited external
+assurance
+• Science Based Targets
+2023 2024 2025
+Figure 1 Advancing to ‘intermediate level’
+2025
+2028
+2026
+2029
+2027
+2030
+2028
+2031
+Figure 2 Advancing
+to ‘advanced level’
+Figure 3 Fulfilling ‘advanced level’ requirements
+We have historically relied on the GRI, as our sustainability report
+grew over the years as we sought to meet the increasing demand for
+ESG information from all stakeholders. In 2019 however we decided
+to rethink not only the report itself but also what kind of reporting
+standard we would prioritize going forward. We introduced SASB as
+we transitioned from a narrative-driven sustainability report to a more
+financially material data-driven report supported by concise narrative.
+For the 2020 Annual Report climate related disclosures are produced
+in accordance with the core elements of the TCFD
+“
+”
+Mikkel Skougaard
+Group ESG Reporting Senior Expert
+MOL GROUP
+50 ESG Reporting Guide for Issuers of the Budapest Stock Exchange 51
+Annex
+52 ESG Reporting Guide for Issuers of the Budapest Stock Exchange 53
+Name Global Reporting
+Initiative
+Sustainability Accounting
+Standards Board
+International Integrated Reporting
+Council (and Framework)
+Short name GRI SASB IIRC <IR>
+Focus ESG, wider environmental,
+social and governance
+objectives
+ESG, industry and wider
+environmental and governance
+objectives
+ESG, value creation for organisations
+through sustainable reporting
+Logo
+Links www.globalreporting.org https://www.sasb.org/ https://integratedreporting.org/
+Language English + 10 languages, no
+Hungarian
+English English + 10 languages, no Hungarian
+Organisation International, independent,
+non-profit organisation
+Foundation Global, not-for-profit organization
+Location Amsterdam, the Netherlands
+(founded in Boston in 1997)
+San Fransisco, California, USA incorporated in England and Wales,
+registered office in London
+Creation,
+history
+1997, 2000 (first guideline) 2011 founded by Jean Rogers, 2017
+first guideline
+formed in 2010; Dec 2013 framework
+published
+Format CSR report SEC Form 10-K, 20-F filings Stand-alone or integrated report
+Mission GRI's mission to help
+companies to understand
+and communicate
+their impact on critical
+sustainability issues, such
+as climate change, human
+rights, governance and social
+well-being.
+Mission: is to establish industryspecific
+disclosure standards
+across ESG topics that facilitate the
+communication between companies
+and investors about financially
+material, decision-useful information.
+The International Integrated Reporting
+Council (IIRC) is a global coalition of
+regulators, investors, companies, standard
+setters, the accounting profession,
+academia and NGOs. The coalition
+promotes communication about value
+creation as the next step in the evolution
+of corporate reporting.The IIRC’s mission
+is to establish integrated reporting and
+thinking within mainstream business
+practice as the norm in the public and
+private sectors.
+Name Climate Disclosure Standards
+Board
+Task-Force on Climate-related
+Financial Disclosures
+Carbon Disclosure Project
+Short name CDSB TCFD CDP
+Focus ES, climate, environmental and
+natural capital
+EG, climate related risks and
+opportunities
+EG, Climate, Water, Forests
+Logo
+Links https://www.cdsb.net/ https://www.fsb-tcfd.org/
+TCFD Learning Hub:
+http://tcfdhub.org/
+Financial Stability Board (FSB):
+https://www.fsb.org/
+https://www.cdp.net/en
+Language English English English
+Organisation International consortium of business
+and environmental NGOs,
+Organization governed by 31
+members selected by FSB
+CDP Worldwide is regulated by the
+Charity Commission for England and
+Wales
+Location London, United Kingdom - London, United Kingdom
+Creation,
+history
+Founded at the World Economic
+Forum meeting in Davos in 2007.
+2015, final recommendations in
+2017, Michael R. Bloomberg
+Founded in 2000.
+Format Annual reports, 10-K filing, or
+integrated report
+Annual financial filings (annual
+report)
+CDP's online reporting platform
+Mission CDSB’s mission is to align the global
+mainstream corporate reporting
+model to equate natural capital with
+financial capital.
+The framework offers the same
+rigour as financial information.
+Companies provide decision-useful
+information via the mainstream
+corporate report.
+Help companies to understand
+what financial markets want
+from disclosure in order to
+measure and respond to climate
+change risks, and encourage
+firms to align their disclosures
+with investors’ needs.
+CDP wants to see a thriving economy
+that works for people and planet
+in the long term. To achieve this,
+it focuses investors, policymakers,
+companies, cities, states and regions
+on taking urgent action to build a
+truly sustainable economy.
+

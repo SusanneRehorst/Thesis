@@ -1,0 +1,255 @@
+2018 No.
+COMPANIES
+
+LIMITED LIABILITY PARTNERSHIPS
+
+The Companies (Directors’ Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018
+Made***
+Coming into force1st April 2019
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 416(4) and 1292(1) of the Companies Act 2006(1) and sections 15 and 17 of the Limited Liability Partnerships Act 2000(2).
+
+In accordance with sections 473(3) and 1290 of the Companies Act 2006 and section 17(6) of the Limited Liability Partnerships Act 2000, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
+
+PART 1
+Introductory
+Citation
+1.  These Regulations may be cited as the Companies (Directors’ Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018.
+
+Commencement and application
+2.—(1) These Regulations come into force on 1st April 2019.
+
+(2) These Regulations have effect in respect of financial years beginning on or after 1st April 2019.
+
+(3) For the purpose of this regulation, “financial year” in relation to limited liability partnerships has the meaning given in section 390 of the Companies Act 2006 as it has been applied and modified by regulation 7 of the Limited Liability Partnerships (Accounts and Audit) (Application of Companies Act 2006) Regulations 2008(3).
+
+PART 2
+Amendments to the Large and Medium-sized Companies and Groups (Accounts and Reports) Regulations 2008
+3.  The Large and Medium-sized Companies and Groups (Accounts and Reports) Regulations 2008(4) are amended in accordance with this Part.
+
+Amendment of regulation 10 (directors’ report)
+4.  In regulation 10(2)(5)—
+
+(a)in the entry relating to Part 7, for “emissions, and”, substitute “emissions, energy consumption and energy efficiency action by quoted companies,”;
+(b)after the entry relating to Part 7, insert “Part 7A relates to disclosures in relation to greenhouse gas emissions, energy consumption and energy efficiency action by unquoted companies, and”.
+Amendment of regulation 14 (review)
+5.—(1) Regulation 14(6) is amended as follows.
+
+(2) In paragraph (1)—
+
+(a)at the end of sub-paragraph (a)(i), omit “and”;
+(b)after sub-paragraph (a)(ii), insert—
+“(iii)Part 2 of the Companies (Directors’ Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018, and”.
+(3) After paragraph (4A), insert—
+
+“(4B) The first report under paragraph (1)(a)(iii) must be published before the end of the period of 5 years beginning with the date on which the Companies (Directors’ Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 come into force.”.
+
+(4) In paragraph (5), for “paragraphs (1)(a)(i) and (ii)”, substitute “paragraphs (1)(a)(i) to (iii)”.
+
+Amendment of Part 7 of Schedule 7 (disclosures concerning greenhouse gas emissions)
+6.—(1) Part 7 of Schedule 7 is amended as follows.
+
+(2) In the heading, after “emissions”, insert “, energy consumption and energy efficiency action by quoted companies”.
+
+(3) In paragraph 15—
+
+(a)in sub-paragraph (1), at the beginning insert “Subject to sub-paragraph (1A),”;
+(b)after sub-paragraph (1), insert—
+“(1A) This Part does not apply if—
+
+(a)the company is a subsidiary undertaking at the end of the financial year;
+(b)the company is included in the group report of a parent undertaking; and
+(c)the group report is prepared for a financial year of the parent undertaking that ends at the same time as, or before the end of, the company’s financial year; and—
+(i)if the group report is a group directors’ report—
+(aa)of a quoted company, it complies with this Part of this Schedule other than in reliance on paragraph 15(5)(b); or
+(bb)of an unquoted company, it complies with Part 7A of this Schedule other than in reliance on paragraph 20D(7)(b); or
+(ii)if the group report is a group energy and carbon report, it complies with Part 7A of this Schedule as applied and modified by regulation 12B of the Limited Liability Partnerships (Accounts and Audit) (Application of Companies Act 2006) Regulations 2008(7) other than in reliance on paragraph 20D(7)(b).
+(1B) For the purpose of sub-paragraph (1A), “group energy and carbon report” means a report prepared in accordance with section 415(2) of the 2006 Act as applied and modified by regulation 12B of the Limited Liability Partnerships (Accounts and Audit) (Application of Companies Act 2006) Regulations 2008;”;
+
+(c)after sub-paragraph (3), insert—
+“(3A) The report must state a figure, in kWh, which is the aggregate of—
+
+(a)the annual quantity of energy consumed from activities for which the company is responsible, including—
+(i)the combustion of fuel; and
+(ii)the operation of any facility; and
+(b)the annual quantity of energy consumed resulting from the purchase of electricity, heat, steam or cooling by the company for its own use.
+(3B) The report must state what proportion of the figures reported in accordance with sub-paragraphs (2) and (3) relate to emissions in the United Kingdom and offshore area.
+
+(3C) The report must state what proportion of the figure reported in accordance with sub-paragraph (3A) relates to energy consumed in the United Kingdom and offshore area.
+
+(3D) If the company has in the financial year to which the report relates taken any measures for the purpose of increasing the company’s energy efficiency, the report must contain a description of the principal measures taken for that purpose.”;
+
+(d)in sub-paragraph (4), for “(2) and (3)”, substitute “(2) to (3D) and paragraphs 16 and 17”;
+(e)after sub-paragraph (4), insert—
+“(5) Nothing in sub-paragraphs (2) to (3D) and paragraphs 16 and 17 requires the disclosure of information if—
+
+(a)the company consumed 40,000 kWh of energy or less during the period in respect of which the directors’ report is prepared and the report states that the information is not disclosed for that reason; or
+(b)the disclosure would, in the opinion of the directors, be seriously prejudicial to the interests of the company, and the report states that the information is not disclosed for that reason.”.
+(4) After paragraph 15, insert—
+
+“15A.—(1) If the report is a group directors’ report, subject to sub-paragraph (2), paragraph 15(2) to (3A), (3D) and (5)(a) and paragraph 17 have effect as if references to the company were references to the company and its subsidiary undertakings included in the consolidation that are quoted companies, unquoted companies or limited liability partnerships.
+
+(2) The company may exclude from the report any information which relates to—
+
+(a)a subsidiary undertaking that is a quoted company and which that quoted company would not be required to include in its directors’ report by this Part of this Schedule;
+(b)a subsidiary undertaking that is an unquoted company and which that unquoted company would not be required to include in its directors’ report by Part 7A of this Schedule;
+(c)a subsidiary undertaking that is a limited liability partnership and which that limited liability partnership would not be required to include in its energy and carbon report by section 416(2) of the 2006 Act as applied and modified by regulation 12B of the Limited Liability Partnerships (Accounts and Audit) (Application of Companies Act 2006) Regulations 2008.
+(3) For the purpose of this paragraph, “limited liability partnership” means a limited liability partnership registered under the Limited Liability Partnerships Act 2000(8).”.
+
+(5) In paragraph 16, for “and (3)”, substitute “, (3) and (3A)”.
+
+(6) In paragraph 17, omit “quoted”.
+
+(7) After paragraph 18, insert—
+
+“18A.  With the exception of the first year for which the directors’ report contains the information required by paragraph 15(3A) to (3D), the report must state not only the information required by paragraph 15(3A) to (3D) but that information as disclosed in the report for the preceding financial year.”.
+
+(8) In paragraph 19—
+
+(a)omit “if”;
+(b)for “and (3)”, substitute “if it”.
+(9) After paragraph 19, insert—
+
+“19A.  The period for which the directors’ report is reporting the information required by paragraph 15(3) and (3A) must be the same as the period for which it is reporting the information required by paragraph 15(2).”.
+
+(10) In paragraph 20, after the definition of “emissions”, insert—
+
+““energy” means all forms of energy products where “energy products” means combustible fuels, heat, renewable energy, electricity, or any other form of energy;“energy efficiency” means the ratio of output of performance, service, goods or energy to input of energy;“kWh” means kilowatt hours;“offshore area” means the areas comprising—
+(a)the sea adjacent to the United Kingdom from the low water mark to the landward baseline of the United Kingdom territorial sea;
+(b)the United Kingdom territorial sea;
+(c)the sea in any designated area within the meaning of section 1(7) of the Continental Shelf Act 1964(9); and
+(d)the sea in any area for the time being designated under section 41(3) of the Marine and Coastal Access Act 2009(10),
+and includes the places above those areas, and the bed and subsoil of the sea within those areas;.”.
+New Part 7A of Schedule 7
+7.  After Part 7 of Schedule 7, insert—
+
+“PART 7A
+Disclosures concerning greenhouse gas emissions, energy consumption and energy efficiency action by unquoted companies
+20A.—(1) Unless the company is exempted under paragraph 20B or 20C, and subject to sub-paragraph (2), this Part of this Schedule applies to the directors’ report for a financial year if the company is an unquoted company.
+
+(2) This Part does not apply if—
+
+(a)the company is a subsidiary undertaking at the end of the financial year;
+(b)the company is included in the group report of a parent undertaking; and
+(c)the group report is prepared for a financial year of the parent undertaking that ends at the same time as, or before the end of, the company’s financial year; and—
+(i)if the group report is a group directors’ report—
+(aa)of a quoted company, it complies with Part 7 of this Schedule other than in reliance on paragraph 15(5)(b); or
+(bb)of an unquoted company, it complies with this Part of this Schedule other than in reliance on paragraph 20D(7)(b); or
+(ii)if the group report is a group energy and carbon report, it complies with this Part of this Schedule as applied and modified by regulation 12B of the Limited Liability Partnerships (Accounts and Audit) (Application of Companies Act 2006) Regulations 2008 other than in reliance on paragraph 20D(7)(b).
+(3) For the purpose of sub-paragraph (2), “group energy and carbon report” means a report prepared in accordance with section 415(2) of the 2006 Act as applied and modified by regulation 12B of the Limited Liability Partnerships (Accounts and Audit) (Application of Companies Act 2006) Regulations 2008.
+
+20B.—(1) Unless the company is a parent company, the company is exempted under this paragraph—
+
+(a)in relation to its first financial year if the qualifying conditions in sub-paragraph (2) are met in that year;
+(b)in relation to a subsequent financial year—
+(i)if the qualifying conditions are met in that year and were also met in relation to the preceding financial year;
+(ii)if—
+(aa)the qualifying conditions are met in that year, and
+(bb)the company was exempted in relation to the preceding financial year; or
+(iii)if—
+(aa)the qualifying conditions were met in the preceding financial year, and
+(bb)the company was exempted in relation to the preceding financial year.
+(2) The qualifying conditions referred to in sub-paragraph (1) are met by a company in a year in which it satisfies two or more of the following requirements—
+
+1	Turnover	not more than £36 million
+2	Balance sheet total	not more than £18 million
+3	Number of employees	not more than 250
+(3) For the purposes of sub-paragraph (2)—
+
+(a)for a period that is a company’s financial year but is not in fact a year the figure for turnover must be proportionately adjusted;
+(b)the balance sheet total means the aggregate of the amounts shown as assets in the company’s balance sheet;
+(c)the number of employees means the average number of persons employed by the company in the year, determined as follows—
+(i)find for each month in the financial year the number of persons employed under contracts of service by the company in that month (whether throughout the month or not),
+(ii)add together the monthly totals, and
+(iii)divide by the number of months in the financial year.
+20C.—(1) A parent company is exempted under this paragraph—
+
+(a)in relation to the parent company’s first financial year if the qualifying conditions in sub-paragraph (2) are met in that year by the group headed by it;
+(b)in relation to a subsequent financial year of the parent company—
+(i)if the qualifying conditions are met in that year and the preceding financial year by the group headed by the parent company;
+(ii)if—
+(aa)the qualifying conditions are met in that year by the group, and
+(bb)the parent company was exempted in relation to the preceding financial year; or
+(iii)if—
+(aa)the qualifying conditions were met in the preceding financial year by the group, and
+(bb)the parent company was exempted in relation to the preceding financial year.
+(2) The qualifying conditions referred to in sub-paragraph (1) are met by a group in a year in which it satisfies two or more of the following requirements—
+
+1	Aggregate turnover	not more than £36 million net (or £43.2 million gross)
+2	Aggregate balance sheet total	not more than £18 million net (or £21.6 million gross)
+3	Aggregate number of employees	not more than 250
+(3) For the purposes of sub-paragraph (2), the aggregate figures are to be ascertained by aggregating the relevant figures determined in accordance with paragraph 20B for each member of the group.
+
+(4) In relation to the aggregate figures for turnover and balance sheet total—
+
+(a)“net” means after any set-offs and other adjustments made to eliminate group transactions—
+(i)in the case of Companies Act accounts, in accordance with regulations under section 404 of the 2006 Act,
+(ii)in the case of IAS accounts, in accordance with international accounting standards;
+(b)“gross” means without those set-offs and other adjustments; and
+(c)a company may satisfy any requirements in sub-paragraph (2) on the basis of either the net or the gross figure.
+(5) For the purposes of sub-paragraph (2)—
+
+(a)the figures for each subsidiary undertaking must be those included in its individual accounts for the relevant financial year, that is—
+(i)if its financial year ends with that of the parent company, that financial year, and
+(ii)if not, its financial year ending last before the end of the financial year of the parent company; or
+(b)if those figures cannot be obtained without disproportionate expense or undue delay, the latest available figures may be taken.
+20D.—(1) The directors’ report must state the annual quantity of emissions in tonnes of carbon dioxide equivalent resulting from activities for which the company is responsible involving—
+
+(a)the combustion of gas; or
+(b)the consumption of fuel for the purposes of transport.
+(2) The report must state the annual quantity of emissions in tonnes of carbon dioxide equivalent resulting from the purchase of electricity by the company for its own use, including for the purposes of transport.
+
+(3) The report must state a figure, in kWh, which is the aggregate of—
+
+(a)the annual quantity of energy consumed from activities for which the company is responsible involving—
+(i)the combustion of gas; or
+(ii)the consumption of fuel for the purposes of transport; and
+(b)the annual quantity of energy consumed resulting from the purchase of electricity by the company for its own use, including for the purposes of transport.
+(4) If the company has in the financial year to which the report relates taken any measures for the purpose of increasing the company’s energy efficiency, the report must contain a description of the principal measures taken for that purpose.
+
+(5) The figures reported in accordance with sub-paragraphs (1) to (3)—
+
+(a)if the company is an offshore undertaking, may exclude emissions and energy consumed outside of the United Kingdom and offshore area;
+(b)in any other case, may exclude emissions and energy consumed outside of the United Kingdom.
+(6) Sub-paragraphs (1) to (4) and paragraphs 20F and 20G apply only to the extent that it is practical for the company to obtain the information in question; but where it is not practical for the company to obtain some or all of that information, the report must state what information is not included and why.
+
+(7) Nothing in sub-paragraphs (1) to (4) and paragraphs 20F and 20G requires the disclosure of information if—
+
+(a)the company consumed 40,000 kWh of energy or less in the United Kingdom during the period in respect of which the directors’ report is prepared, and the report states that the information is not disclosed for that reason; or
+(b)the disclosure would, in the opinion of the directors, be seriously prejudicial to the interests of the company, and the report states that the information is not disclosed for that reason.
+20E.—(1) If the report is a group directors’ report, subject to sub-paragraph (2) and (3), paragraph 20D(1) to (4) and (7)(a) and paragraph 20G have effect as if references to the company were references to the company and its subsidiary undertakings included in the consolidation that are quoted companies, unquoted companies or limited liability partnerships.
+
+(2) If a subsidiary undertaking is a quoted company, paragraph 20D(1) to (4) have effect as if references to the disclosures required were references to the disclosures required for the purpose of paragraph 15(2) to (3D) of Part 7 of this Schedule.
+
+(3) The company may exclude from the report any information which relates to—
+
+(a)a subsidiary undertaking that is a quoted company and which that quoted company would not be required to include in its directors’ report by Part 7 of this Schedule;
+(b)a subsidiary undertaking that is an unquoted company and which that unquoted company would not be required to include in its directors’ report by this Part of this Schedule;
+(c)a subsidiary undertaking that is a limited liability partnership and which that limited liability partnership would not be required to include in its energy and carbon report by section 416(2) of the 2006 Act as applied and modified by regulation 12B of the Limited Liability Partnerships (Accounts and Audit) (Application of Companies Act 2006) Regulations 2008.
+(4) For the purpose of this paragraph, “limited liability partnership” means a limited liability partnership registered under the Limited Liability Partnerships Act 2000(11).
+
+20F.  The directors’ report must state the methodologies used to calculate the information disclosed under paragraph 20D(1), (2) and (3).
+
+20G.  The directors’ report must state at least one ratio which expresses the company’s annual emissions in relation to a quantifiable factor associated with the company’s activities.
+
+20H.  With the exception of the first year for which the directors’ report contains the information required by paragraphs 20D(1) to (4) and 20G, the report must state not only the information required by those paragraphs, but also that information as disclosed in the report for the preceding financial year.
+
+20I.  The directors’ report must state the period for which it is reporting the information required by paragraph 20D(1) if it is different to the period in respect of which the directors’ report is prepared.
+
+20J.  The period for which the directors’ report is reporting the information required by paragraph 20D(2) and (3) must be the same as the period for which it is reporting the information required by paragraph 20D(1).
+
+20K.  The following definitions apply for the purposes of this Part of this Schedule—
+
+“aircraft” means a self-propelled machine that can move through the air other than against the earth’s surface;“emissions”, “energy” and “energy efficiency” have the same meaning as in Part 7 of this Schedule;“for the purposes of transport” means, in relation to the consumption of fuel or the purchase of electricity, for consumption by an aircraft, road-going vehicle, train or a vessel during the course of any journey which—
+(a)starts,
+(b)ends, or
+(c)both starts and ends
+within the United Kingdom;“gas” means, except in the definition of “offshore activity”, any combustible substance which is gaseous at a temperature of 15 degrees Celsius and a pressure of 101.325 kPa (1013.25 mb) and which consists wholly or mainly of methane, ethane, propane, butane, hydrogen or carbon monoxide, or a combination of those, or a combustible mixture of those and air;“kWh” means kilowatt hours;“offshore activity” means activity which includes—
+(a)the exploitation of mineral resources in or under the shore or bed of waters in the offshore area,
+(b)the conversion of a place under the shore or bed of such waters for the purpose of storing gas,
+(c)the storage of gas in, under or over such waters or the recovery of gas so stored,
+(d)the unloading of gas at a place in, under or over such waters, or
+(e)the provision of accommodation for persons who work on or from an offshore installation which is maintained for the production of petroleum or the storage or unloading of gas
+where storing gas includes storing gas with a view to its permanent disposal and where “gas” for this purpose means gas within the meaning of section 2(4) of the Energy Act 2008(12) or carbon dioxide;“offshore area” has the same meaning as in Part 7 of this Schedule;“offshore installation” means an installation or structure used for carrying on a relevant offshore activity, and which is situated in the waters of, or in the seabed in, the offshore area, but excluding a ship or a floating structure which is not being maintained on station during the course of a relevant offshore activity; and for this purpose “relevant offshore activity” means an activity falling within paragraphs (a) to (d) of the definition of “offshore activity”;“offshore undertaking” means an undertaking whose activities consist wholly or mainly of offshore activities;“road-going vehicle” means any vehicle—
+(a)in respect of which a vehicle licence is required under the Vehicle Excise and Registration Act 1994(13); or
+(b)which is an exempt vehicle under that Act;
+“tonne of carbon dioxide equivalent” has the same meaning as in Part 7 of this Schedule;“train” has the meaning given in section 83 of the Railways Act 1993(14);“vessel” means any boat or ship which is self-propelled and operates in or under   water.”

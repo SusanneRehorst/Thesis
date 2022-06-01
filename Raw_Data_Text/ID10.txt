@@ -1,0 +1,1175 @@
+CSA STAFF NOTICE 51-333
+ENVIRONMENTAL REPORTING GUIDANCE
+October 27, 2010
+
+
+CSA STAFF NOTICE 51-333 – October 27, 2010 2
+CONTENTS
+1. Introduction
+ 1.1 Developments in the marketplace
+ Impact of environmental matters on issuers
+ Changing regulatory landscape
+ Investor interest in environmental matters
+2. Environmental information required to be disclosed
+ 2.1 Material information
+ Test for materiality
+ Materiality determinations
+2.2 Environmental risks and related matters
+ Environmental risks
+ Trends and uncertainties
+ Environmental liabilities
+ Asset retirement obligations
+ Financial and operational effects of environmental protection requirements
+2.3 Risk oversight and management
+ Environmental policies fundamental to operations
+ Board mandate and committees
+2.4 Impact of adoption of IFRS
+2.5 Forward-looking information requirements
+3. Governance structures around environmental disclosure
+3.1 Review, approval and certification of disclosure
+3.2 Controls and procedures
+3.3 Integration of financial and voluntary reporting
+4. Conclusion
+Appendix – Examples of entity-specific disclosure
+
+CSA STAFF NOTICE 51-333 – October 27, 2010 3
+1. INTRODUCTION
+The purpose of this notice is to provide guidance to reporting issuers (other than investment funds) on existing
+continuous disclosure (CD) requirements relating to environmental matters under securities legislation.
+This notice clarifies existing disclosure requirements relating to environmental matters and does not create any
+new legal requirements or modify existing ones. It is intended to assist issuers in: (1) determining what
+information about environmental matters needs to be disclosed, and (2) enhancing or supplementing their
+disclosure regarding environmental matters, as necessary.
+Environmental matters include a broad range of issues, including issues related to air, land, water and waste.
+This notice applies to all issuers but may be more relevant to certain issuers given their particular
+circumstances.
+1.1 Developments in the marketplace
+The issuance of this notice has been motivated by three key developments: the impact of environmental
+matters on issuers, the changing regulatory landscape and increasing investor interest in environmental
+matters.
+Impact of environmental matters on issuers
+Issuers are increasingly recognizing the current and potential effects on their performance and operations, both
+positive and negative, that are associated with environmental matters. For example, environmental matters can
+impact an issuer by:
+• interrupting operations (including supply and distribution chains, personnel and physical assets)
+• resulting in material unplanned costs, such as costs to address an environmental accident
+• affecting the issuer’s license to operate
+• affecting capital expenditure decisions and the viability of projects
+• changing consumer preferences
+• affecting the issuer’s reputation
+• altering access to and the cost of capital
+• affecting the affordability and availability of insurance, and
+• providing new business opportunities.
+Changing regulatory landscape
+The environmental regulatory landscape is constantly changing. Issuers need to regularly assess their
+disclosure obligations in light of ongoing environmental regulatory developments domestically and abroad, to
+the extent they may affect an issuer’s operations, assets, supply chain or markets.
+CSA STAFF NOTICE 51-333 – October 27, 2010 4
+Investor interest in environmental matters
+A number of investors are increasingly interested in how environmental matters affect issuers and have been
+requesting information about these matters from issuers through a number of avenues, such as shareholder
+resolutions and the issuance of surveys.
+Investor concerns regarding inadequate environmental disclosure
+Investors and other stakeholders consulted during the Ontario Securities Commission’s 2009 corporate
+sustainability reporting initiative expressed concerns regarding the adequacy of disclosure about environmental
+matters. In particular, they think that, in some cases:
+• material information regarding environmental matters is found in voluntary reports and not in securities
+regulatory filings
+• the information provided is not necessarily complete, reliable or comparable among issuers, and is
+boilerplate disclosure that does not provide meaningful information to investors
+• if the information is not included in securities regulatory filings, it is not necessarily provided in a timely
+manner as the prescribed timelines for CD documents under securities legislation do not apply to voluntary
+reporting, and
+• the information is not integrated into financial reporting.
+CSA STAFF NOTICE 51-333 – October 27, 2010 5
+2. ENVIRONMENTAL INFORMATION REQUIRED TO BE DISCLOSED
+National Instrument 51-102 Continuous Disclosure Obligations (NI 51-102) contains a number of disclosure
+requirements relating to environmental matters. In addition, National Instrument 58-101 Disclosure of Corporate
+Governance Practices (NI 58-101) and National Instrument 52-110 Audit Committees (NI 52-110) contain
+relevant disclosure requirements.
+These disclosure requirements can be considered in the following groups:
+• risks and related matters
+• risk oversight and management
+• forward-looking information (FLI) requirements, and
+• impact of adoption of International Financial Reporting Standards (IFRS) on disclosure provided under NI
+51-102.
+To help issuers comply with these disclosure requirements, we have provided guidance below and included
+examples of disclosure in the Appendix.
+2.1 Material information
+In considering whether information is required to be disclosed, the determining factor is materiality. As provided
+in Part 1(e) of Form 51-102F1 Management’s Discussion & Analysis (Form 51-102F1) and Part 1(d) of Form
+51-102F2 Annual Information Form (Form 51-102F2), only material information needs to be included in CD
+documents.
+Test for materiality for CD documents
+The test for materiality is objective. Information relating to environmental matters is likely material if a
+reasonable investor’s decision whether or not to buy, sell or hold securities of the issuer would likely be
+influenced or changed if the information was omitted or misstated. See Part 1(f) of Form 51-102F1 and Part
+1(e) of Form 51-102F2.
+As noted in Form 51-102F1 and Form 51-102F2, this concept of materiality is consistent with the financial
+reporting notion of materiality contained in the Canadian Institute of Chartered Accountants (CICA) Handbook.
+CSA STAFF NOTICE 51-333 – October 27, 2010 6
+Materiality determinations
+Process for assessing material information
+A TSX-listed issuer1
+ is required to establish and maintain disclosure controls and procedures under National
+Instrument 52-109 Certification of Disclosure in Issuers’ Annual and Interim Filings (NI 52-109). These controls
+and procedures include those that are designed to ensure that information required to be disclosed by an
+issuer in its annual filings, interim filings or other reports filed or submitted under securities legislation is
+accumulated and communicated to the issuer’s management, including its certifying officers, as appropriate to
+allow timely decisions regarding required disclosure.
+While materiality determinations may limit what is actually disclosed by the issuer, they should not limit the
+information that management considers in making its determinations.
+Considerations for determining materiality
+The key question for an issuer is whether a particular environmental matter under consideration is material and
+requires disclosure.
+We have been advised that some issuers in the past have found determining materiality in the environmental
+context to be challenging. To assist issuers, we have set out below some guiding principles to consider when
+making materiality determinations regarding environmental matters. We note that the guiding principles may
+assist issuers in making materiality determinations in other contexts.
+Some of the guiding principles are derived from National Policy 51-201 Disclosure Standards (NP 51-201),
+which came into force on July 12, 2002. In addition, the guiding principles are derived from decisions of the
+Canadian securities regulatory authorities rendered after NP 51-201 came into force, such as the Ontario
+Securities Commission’s decision, Re YBM Magnex International Inc (2003), 26 OSCB 5285 (the YBM
+decision). We also reviewed discussions of materiality in the environmental context in sources such as:
+• the CICA publication, Executive Briefing – Climate Change and Related Disclosures (March 2008)
+• the CICA publication, Building A Better MD&A: Climate Change Disclosures (November 2008)
+• the CICA publication, Climate Change Briefing (July 2009)
+• the CICA publication, Environmental, Social and Governance (ESG) Issues in Institutional Investor
+Decision Making (August 2010)
+• the May 2009 exposure draft of the Climate Disclosure Standards Board Reporting Framework, and
+• the U.S. Securities and Exchange Commission’s guidance, Commission Guidance Regarding Disclosure
+Related to Climate Change (effective February 2, 2010).
+                                                      
+1
+ References to TSX-listed issuers in this notice include references to all reporting issuers that are not venture issuers (as defined in
+NI 51-102).
+CSA STAFF NOTICE 51-333 – October 27, 2010 7
+The guiding principles below are not an exhaustive list of the factors to be considered when making materiality
+determinations. They are intended as a general guide, and are not meant as legal or other advice on whether a
+particular environmental matter is material for a particular issuer. Issuers should refer to securities legislation
+and NP 51-201, and as noted in Part 1(e) of Form 51-102F1 and Part 1(d) of Form 51-102F2, should exercise
+their judgement when determining whether information is material.
+• No bright-line test - There is no uniform quantitative threshold at which a particular type of information
+becomes material. The materiality of certain information may vary between industries and even between
+issuers within an industry according to their particular circumstances. An event that is “significant” or
+“major” for a smaller issuer may not be material to a larger issuer. In our view, issuers should consider both
+quantitative and qualitative factors in determining materiality.2
+• Context - Materiality depends on the nature and amount of the item judged in the particular circumstances
+of its omission or misstatement. Some facts are material on their own. When one or more facts do not
+appear to be material on their own, materiality must be considered in light of all the facts available. An
+issuer should not “lose sight of the forest for the trees” by assessing the materiality of individual facts
+piecemeal.3
+• Timing - Determining whether information is material is a dynamic process that depends on the prevailing
+relevant conditions at the time of reporting. In assessing materiality, an issuer should consider whether the
+impact of an environmental matter might reasonably be expected to grow over time, in which case early
+disclosure of the matter might be important to reasonable investors. This would be particularly relevant
+where the issuer is in an industry with a longer operation or investment cycle or where new technologies
+are going to be required.4
+
+• Trends, demands, commitments, events and uncertainties - Generally, the time horizon of a known
+trend, demand, commitment, event or uncertainty may be relevant to an issuer's assessment of materiality.
+As with other types of disclosure, materiality in cases of a known environmental trend, demand,
+commitment, event or uncertainty turns on an analysis of:
+• the probability that the trend, demand, commitment, event or uncertainty will occur, and
+• the anticipated magnitude of its effect.5
+                                                      
+2
+ This guiding principle has been derived from sources such as subsection 4.2(1) of NP 51-201, OSC Staff Notice 51-716
+Environmental Reporting (February 27, 2008) and Form 41-101F1 Information Required in a Prospectus, General Instruction 3.
+3
+ This guiding principle has been derived from sources such as paragraphs 94 and 101 of the YBM decision.
+4
+ This guiding principle has been derived from sources such as the CICA publication, Building A Better MD&A: Climate Change
+Disclosures (November 2008) and the May 2009 exposure draft of the Climate Disclosure Standards Board Reporting Framework.
+5
+ This guiding principle has been derived from sources such as paragraph 92 of the YBM decision and item 1.2 of Form 51-102F1.
+CSA STAFF NOTICE 51-333 – October 27, 2010 8
+• Err on side of materiality - If there is any doubt about whether particular information is material, we
+encourage issuers to err on the side of materiality and disclose the information.6
+  
+2.2 Environmental risks and related matters
+There are five key disclosure requirements in NI 51-102 that relate to environmental matters:
+• environmental risks
+• trends and uncertainties
+• environmental liabilities
+• asset retirement obligations, and
+• financial and operational effects of environmental protection requirements.
+Disclosure about these matters, if material, is important as each provides insight into an issuer’s risk profile.
+Environmental risks
+Item 5.2 of Form 51-102F2 requires an issuer to disclose risk factors relating to the issuer and its business. The
+annual information form (AIF) should provide insight into what the issuer believes are the risks relating to the
+issuer and its business so that investors can assess the effect of these risks on the issuer’s operations and/or
+financial performance. This includes environmental risks and any other matters that would be most likely to
+influence an investor’s decision to purchase the issuer’s securities.
+Comments
+An issuer should assess whether, due to the nature of its operations, it needs to address environmental risks in
+its CD documents. All relevant environmental risks should be considered in deciding what to disclose.
+Generally, risks that may impact an issuer’s business and operations can be divided into five categories:
+litigation, physical, regulatory, reputation and business model.
+As with any other type of disclosure, material risks should be disclosed in a meaningful way, avoiding
+boilerplate disclosure. An issuer needs to disclose both the risk and the factual basis for it. The issuer should
+consider the following questions when identifying the material risks it faces.
+
+                                                      
+6 This guiding principle has been derived from sources such as subsection 4.2(2) of NP 51-201.
+CSA STAFF NOTICE 51-333 – October 27, 2010 9
+Type of risk Questions for issuers to consider
+
+Litigation risks
+• Is the issuer a party to any environmental litigation? What is the anticipated
+liability exposure under those claims? What is the likelihood of those claims
+succeeding?
+• Are there any such legal proceedings known to be contemplated?
+Physical risks
+• How is the issuer likely to be affected by physical risks of environmental
+matters, such as the impacts of industrial contamination, changing weather
+patterns and water availability?
+• Impacts could include:
+o property damage
+o health and safety issues for employees and to members of the public
+o disruptions to operations, including manufacturing operations or the
+transport of manufactured products
+o disruptions to operations of major customers or suppliers
+o increased insurance claims and liabilities for insurance and reinsurance
+issuers, and
+o increased insurance premiums and deductibles, or a decrease in the
+availability or loss of coverage.
+• What risk management, adaptation and mitigation strategies has the issuer
+adopted, or is the issuer planning to adopt in the near future? What are the
+expected costs of those strategies?
+Regulatory risks
+• What are the actual and expected impacts of current and likely environmental
+regulation on the issuer’s business and strategy? Regulations may include
+environmental permits, reporting requirements, carbon pricing systems, carbon
+limits and trading systems, energy efficiency standards and building codes.
+They can include both applicable domestic and foreign requirements. The
+issuer should consider specific risks it faces as a result of environmental
+legislation or regulation, and avoid generic risk factor disclosure. Where the
+exact limits or targets are uncertain, an assumption of ranges may be used to
+determine how certain requirements might reasonably be expected to affect an
+issuer.
+• What are the applicable and anticipated environmental regulatory
+requirements? Is the issuer currently in material compliance with those
+CSA STAFF NOTICE 51-333 – October 27, 2010 10
+Type of risk Questions for issuers to consider
+requirements? What are the current and anticipated future costs of compliance
+(and can these costs be broken down by category such as the rehabilitation of
+contaminated sites or the disposal of hazardous materials)? Where
+quantification of a risk or cost is uncertain, the disclosure of the factual basis for
+the risk will help investors in understanding it.
+Reputational risks
+• How is the issuer addressing environmental matters? How an issuer addresses
+environmental matters can have a positive or negative impact on core
+intangible assets such as brand value, consumer confidence, employee loyalty,
+ability to attract financial capital and obtaining regulatory approval of projects.
+• What is the impact on the issuer’s results and operations arising from its
+interaction on environmental matters with local communities and other parties
+affected by the issuer’s operations? An issuer’s relationship with local
+communities can affect an issuer’s ability to operate and the costs of doing so.
+Risks relating to
+business model
+• Have legal, technological, political and scientific developments regarding
+environmental matters created new material opportunities or risks for the
+issuer? For example, possible indirect consequences or opportunities may
+include:
+o changes to production practices
+o changes due to emerging technologies
+o decreased demand for goods that have a negative impact on the
+environment or fail to meet customer standards
+o increased demand for goods that have less of an impact on the
+environment than competing products
+o changes to tax incentives and subsidies
+o increased competition to develop innovative products
+o increased demand for generation and transmission of energy from
+alternative energy sources, and
+o decreased demand for services related to carbon-based energy sources,
+such as drilling services or equipment maintenance services.
+Trends and uncertainties
+As provided in Part 1(a) of Form 51-102F1, MD&A is a narrative explanation, through the eyes of management,
+of how an issuer performed during the period covered by the financial statements, and of the issuer’s financial
+condition and future prospects. MD&A should, among other things, discuss: (i) material information that may
+not be fully reflected in the financial statements, such as contingent liabilities or other contractual obligations,
+CSA STAFF NOTICE 51-333 – October 27, 2010 11
+and (ii) important trends and risks that have affected the financial statements, and trends and risks that are
+reasonably likely to affect them in the future.
+Item 1.4(g) of Form 51-102F1 requires the issuer to discuss its analysis of its operations for the most recently
+completed financial year, including commitments, events, risks or uncertainties that it reasonably believes will
+materially affect the issuer’s future performance.
+Comments
+An issuer should examine to what extent trends and uncertainties regarding environmental matters materially
+impact its financial performance and future prospects. Disclosure decisions concerning these trends and
+uncertainties should generally involve:
+• consideration of financial, operational and other information known to the issuer
+• identification of known trends and uncertainties, and
+• an assessment of whether these trends and uncertainties will have, or are reasonably likely to have, a
+material impact on the issuer’s liquidity, capital resources or results of operations.
+There is no specified future time period that must be considered in assessing the impact of a known trend or
+uncertainty that is reasonably likely to occur. The necessary time period will depend on an issuer’s particular
+circumstances and the particular trend or uncertainty under consideration. Furthermore, the time horizon of a
+known trend or uncertainty may be relevant to an issuer’s assessment of its materiality and whether or not the
+impact is reasonably likely.
+An issuer should disclose:
+• what has been, and is reasonably likely to be, the impact of environmental trends or uncertainties on
+revenues, expenditures and cash flows, and
+• the impact environmental trends or uncertainties have on its financial condition and liquidity, if any.
+Examples of how revenues and expenses may be impacted by environmental matters
+Revenues
+• changes in consumer preference or demand for goods and services due, in
+whole or in part, to environmental matters or trends
+• changes in supply chain requirements related to environmental matters
+• new rules requiring design changes to products
+• the sale of, or royalties on, innovative technologies
+• delayed or denied regulatory environmental approvals
+• the availability and price of emissions credits or offsets
+CSA STAFF NOTICE 51-333 – October 27, 2010 12
+Examples of how revenues and expenses may be impacted by environmental matters
+
+Expenses
+• the need to retrofit existing facilities to address physical, health and safety, or
+regulatory constraints
+• research and development activities related to more environmentally efficient
+operations and processes
+• purchase and implementation of new information systems to measure and
+record natural resource impacts (including, for example, greenhouse gas
+emissions and water and energy usage)
+• increased or new insurance coverage or premiums
+• purchases of allowances or offsets to meet regulatory emissions requirements
+• penalties for failure to meet government-mandated reduction targets
+• repairing or rebuilding facilities impacted by adverse weather events
+• investments in productive capacity that embody new “green” or more energyefficient technologies
+• investments in projects to generate offsets
+• financing costs related to expenditures
+Environmental liabilities
+An environmental liability can include a legal obligation to make a future expenditure due to the past or ongoing
+manufacture; use, release or threatened release of a particular substance, or other activities that adversely
+impact the environment.
+Similarly, a potential environmental liability can include a potential legal obligation to make a future expenditure
+due to the ongoing or future manufacture; use, release or threatened release of a particular substance, or other
+activities that adversely impact the environment. An obligation is potential when it depends on future events or
+when a law or regulation creating the liability is not yet in force. With a potential environmental liability, an
+issuer may have the opportunity to prevent the liability from occurring by altering its own practices or adopting
+new practices to avoid or reduce the adverse effect on the environment.
+CSA STAFF NOTICE 51-333 – October 27, 2010 13
+Examples of environmental liabilities
+• compliance obligations related to laws and regulations or other binding requirements that apply to the
+manufacture, use, disposal and release of substances, and other activities that may adversely affect the
+environment
+• existing and future site remediation obligations
+• obligations to pay civil, administrative and criminal fines and penalties for statutory or regulatory noncompliance
+• obligations to compensate private parties for personal injury, property damage and economic loss
+• obligations to pay punitive or special damages, or make or maintain specific reserves for those damages
+• obligations to pay for natural resource damages
+Comments
+There are two broad categories of environmental liabilities that are to be considered for disclosure: those that
+are reflected in the issuer’s financial statements and those that are not.
+Estimates reflected in financial statements
+Where measurement of an environmental liability involves a critical accounting estimate (as defined in Form
+51-102F1), certain disclosure is required. Specifically, item 1.12 of Form 51-102F1 requires management of
+TSX-listed issuers to include an analysis of critical accounting estimates in their MD&A.
+We are of the view that in order for a TSX-listed issuer to meet the requirements of item 1.12 of Form 51-
+102F1, the issuer should quantify the accounting estimate where quantitative information is reasonably
+available and would provide material information to investors. Quantitative disclosure could include matters
+such as the amount claimed by a plaintiff, if publicly disclosed. It should also identify and explain that the
+estimate was highly uncertain at the time it was made and provide a detailed discussion of the estimate, which
+may include a sensitivity analysis or disclosure of the upper and lower ends of the range of estimates from
+which the recorded estimate was selected.
+Potential environmental liabilities not reflected in financial statements
+Part 1(a) of Form 51-102F1 states that an issuer’s MD&A should discuss:
+• material information that may not be fully reflected in the issuer’s financial statements, and
+• important trends and risks that have affected the financial statements, and trends and risks that are
+reasonably likely to affect them in the future.
+An issuer may have potential environmental liabilities that are not reflected in the financial statements because
+their long-term or contingent nature can make them particularly difficult to quantify. In addition, an issuer may
+have several potential environmental liabilities that have not been recognized because they are not individually
+CSA STAFF NOTICE 51-333 – October 27, 2010 14
+material, but it is possible that together they may indicate an underlying risk or trend that could be material to
+the issuer over the long-term.
+We are of the view that a discussion of material potential environmental liabilities should be included in an
+issuer’s CD documents whether or not the liability has been accrued in the financial statements or has been
+disclosed in the notes to the financial statements. The objective of this disclosure is to help investors
+understand the nature of potential liabilities, their likely timing and magnitude, and their probability of occurring.
+Asset retirement obligations
+An issuer is required to include certain disclosure about asset retirement obligations (AROs) in its financial
+statements, if applicable.
+Item 1.2 of Form 51-102F1 requires an analysis of an issuer’s financial condition, results of operations and
+cash flows, which includes a discussion of commitments, events or uncertainties that are reasonably likely to
+have an effect on the issuer’s business. Item 1.6 of Form 51-102F1, and the corresponding instructions for this
+item, require TSX-listed issuers to provide a summary, in a table, of contractual obligations for the issuer’s
+balance sheet conditions or income or cash flow, including payments due for each of the next five years and
+thereafter. Other long-term obligations must be disclosed in the table. In addition, as noted above, item 1.12 of
+Form 51-102F1 requires an analysis of critical accounting estimates for TSX-listed issuers.
+Comments
+Assets are considered retired if they are sold, abandoned, recycled or disposed of, but do not include assets
+temporarily removed from service. An ARO is a requirement to perform certain procedures, rather than a
+promise to pay cash. Legal obligations resulting from the retirement of an asset could include:
+• government actions, such as laws or regulations
+• written or oral agreements between entities, and
+• a promise to a third party that imposes a reasonable expectation of performance.
+We are of the view that if an ARO is material to an issuer, in addition to providing the required financial
+statement disclosure, the issuer should provide supplemental disclosure in its MD&A. Specifically, an issuer
+should include in its MD&A a comprehensive discussion of commitments, events or uncertainties, including
+AROs, that are reasonably likely to have an effect on the issuer’s business. AROs are generally incurred over
+more than one reporting period, and information should be provided for all periods that may be materially
+impacted.
+A discussion of AROs should indicate the associated asset to be reclaimed or restored. If environmental
+remediation costs are applicable, material, and information about these costs is reasonably available, that
+information should be disclosed. This discussion should set out the costs of compliance with environmental
+CSA STAFF NOTICE 51-333 – October 27, 2010 15
+legislation, including:
+• the costs associated with the disposal of hazardous materials, and
+• the costs associated with the implementation of reclamation technologies.
+The discussion should also set out the current and estimated future impact of those costs on the issuer’s
+financial results.
+Issuers should recognize that laws differ from one jurisdiction to another, and evolve from time to time within
+jurisdictions. Issuers should be aware that a new law or regulation could give rise to a new ARO as a result of
+its past activities.
+An issuer should also evaluate whether AROs are material long-term obligations. If so, we are of the view that
+TSX-listed issuers should include these AROs in the summary contractual obligations table in their MD&A as
+required under item 1.6 of Form 51-102F1. The payments due for each of the next five years and thereafter in
+respect of these AROs would need to be quantified in the table.
+We are of the view that in most cases AROs are critical accounting estimates, and TSX-listed issuers should
+include an analysis of these estimates in their MD&A as required by item 1.12 of Form 51-102F1.
+Financial and operational effects of environmental protection requirements
+
+Item 5.1(1)(k) of Form 51-102F2 requires an issuer to disclose the financial and operational effects of
+environmental protection requirements on the issuer’s capital expenditures, earnings and competitive position
+in the current financial year and the expected effect in future years.
+Comments
+In discussing the financial and operational effects of environmental protection requirements, an issuer should
+disclose the costs associated with these requirements. This discussion should include:
+• a quantification of the costs, where this information is reasonably available and would provide material
+information to investors
+• anticipated trends in respect of these costs, and
+• the potential impact of these costs on the issuer’s financial and operational results.
+For example, with respect to existing provisions relating to new or current environmental laws and regulations,
+an issuer should disclose material estimated capital expenditures for environmental control facilities for the
+remainder of the issuer’s current fiscal year and its succeeding fiscal year and for such future periods as the
+issuer may deem material.
+CSA STAFF NOTICE 51-333 – October 27, 2010 16
+2.3 Risk oversight and management
+Investors have indicated that they would like information to assess whether directors are appropriately focusing
+on risk management, including environmental risk management. There is no single model for risk oversight and
+management and the structures and practices that are most appropriate will vary among issuers.
+Two key sets of disclosure requirements provide insight into an issuer’s oversight and management of
+environmental risks: environmental policies implemented by the issuer and board governance.
+Environmental policies fundamental to operations
+If an issuer has implemented environmental policies that are fundamental to its operations, item 5.1(4) of Form
+51-102F2 requires the issuer to describe these policies and the steps it has taken to implement them.
+Comments
+In our view, the term “policy” should be broadly construed. It may include policies for sustainable development,
+community relations, the use and disposal of toxic or otherwise hazardous materials, prevention of spills,
+recycling, conservation of water and the reduction of greenhouse gas emissions.
+When discussing environmental policies fundamental to its operations, an issuer should evaluate and describe
+the impact or potential impact these policies may have on its operations. This discussion may include a
+quantification of the costs associated with these policies, where quantitative information is reasonably available
+and would provide meaningful information to investors.
+The issuer should also explain the purpose of these environmental policies, including the risks the policies are
+designed to address. This may include a discussion of the policy’s effectiveness in meeting that purpose, as
+well as how the issuer is monitoring and updating the policy.
+Environmental policies can be a tool used by issuers to manage risks associated with environmental matters.
+As noted above, an issuer is required to disclose its environmental risks and disclosure of environmental
+policies can explain how the issuer is managing those risks. This information may be of interest to investors,
+who may want to assess whether the risk management strategies employed by the issuer are adequate and
+appropriate for the types of risk in question and the issuer’s risk tolerance.
+CSA STAFF NOTICE 51-333 – October 27, 2010 17
+Board mandate and committees
+Understanding how the board manages risk, including environmental risk, is useful for investors.
+Board mandate
+Section 3.4 of National Policy 58-201 Corporate Governance Guidelines states that the board should adopt a
+written mandate in which it explicitly acknowledges responsibility for, among other things:
+• adopting a strategic planning process and approving, on at least an annual basis, a strategic plan which
+takes into account, among other things, the opportunities and risks of the business, and
+• identifying the principal risks of the issuer’s business and ensuring the implementation of appropriate
+systems to manage those risks.
+Item 2 of Form 58-101F1 Corporate Governance Disclosure (Form 58-101F1) requires TSX-listed issuers to
+disclose the text of the board’s written mandate, or if the board does not have a written mandate, to describe
+how the board delineates its role and responsibilities.
+Board committees
+There are two relevant disclosure requirements relating to board standing committees and audit committees.
+Board structure Related disclosure requirement
+Board standing committees
+Item 8 of Form 58-101F1 requires TSX-listed issuers to disclose if their
+boards have standing committees other than the audit, compensation and
+nominating committees, and if so, to identify the committees and describe
+their function. These committees may include environmental or health and
+safety board committees. The mandate of those committees may include
+responsibility for environmental risk management.
+Audit committees
+Item 1 of Form 52-110F1 Audit Committee Information Required in an AIF
+and Form 52-110F2 Disclosure by Venture Issuers requires issuers to
+disclose the text of the audit committee’s charter in the AIF. The audit
+committee may have responsibility for risk management, including
+environmental risk management.
+Comments
+Disclosure regarding oversight and management of environmental risks should indicate:
+• the board’s responsibility for oversight and management of risks, including environmental risks, if
+applicable, and
+• any board and management-level committee to which responsibility for oversight and management of risks,
+including environmental risks, has been delegated.
+CSA STAFF NOTICE 51-333 – October 27, 2010 18
+The disclosure should provide insight into:
+• the development and periodic review of the issuer’s risk profile
+• the integration of risk oversight and management into the issuer’s strategic plan
+• the identification of significant elements of risk management, including policies and procedures to manage
+risk, and
+• the board’s assessment of the effectiveness of risk management policies and procedures, where
+applicable.
+2.4 Impact of adoption of IFRS
+Most Canadian publicly accountable enterprises, which include reporting issuers, will be required to use IFRS
+as issued by the IASB for financial years beginning on or after January 1, 2011 (the changeover).
+
+The changeover to IFRS from existing Canadian GAAP may have a significant impact on financial reporting
+and other business activities of reporting issuers. IFRS contain some important differences from Canadian
+GAAP for recognition and measurement of provisions, including environmental provisions. Under IFRS, issuers
+may be required to accrue more environmental liabilities, at higher amounts, and provide more disclosure
+regarding these liabilities.
+CSA STAFF NOTICE 51-333 – October 27, 2010 19
+Key differences under IFRS (as of the date of this notice)
+• When a provision exists. A liability exists under Canadian GAAP if there is a legal, equitable or
+constructive obligation arising as a result of a transaction or event. Under Canadian GAAP, an equitable
+obligation is a duty based on ethical or moral considerations, and a constructive obligation is one that
+can be inferred from the facts in a particular situation. Under IFRS, a provision is recorded if there is a
+present (legal or constructive) obligation as a result of a past event. A constructive obligation arises
+when an entity creates a valid expectation to other parties that it will discharge certain responsibilities
+based on an established pattern of past practice, published policies, or has indicated to other parties
+that it will accept certain responsibilities. Since IFRS provide a more precise definition and specific
+examples of a constructive obligation, a provision may be recognized at a different point in time
+depending on past practice of determining when an equitable or contractual obligation exists under
+Canadian GAAP.
+• Recognition threshold. Under Canadian GAAP, a contingent liability is recognized when it is likely that
+a future event will confirm a liability has been incurred and the amount of the loss can be reasonably
+estimated. Under IFRS, a provision is recognized when there is a present obligation, it is more likely
+than not that an outflow of resources will be required to settle the obligation and a reliable estimate can
+be made of the amount of the obligation. This could potentially lead to situations where a provision may
+be recognized under IFRS, but was not previously recognized under Canadian GAAP.
+• Amount to be accrued. When measuring provisions, Canadian GAAP allows issuers to accrue
+provisions at the low end of the range of estimates when no outcome is more likely than the others.
+Under IFRS, the mid-point of the range is used to measure the provision when each outcome in a range
+is as likely as any other. This could potentially lead to provisions being accrued at higher amounts
+under IFRS.
+• Note disclosure requirement. IFRS disclosure requirements of provisions and contingent liabilities
+will be significant compared to current Canadian GAAP disclosure requirements. Under IFRS, issuers
+will be required to disclose a provision continuity schedule for each class of provision, disclosing the
+beginning and ending carrying amounts, additional provisions made in the period, amounts used in the
+period, unused amounts reversed during the period and changes resulting from the passage of time
+and any revisions to the discount rate. Issuers will also have to disclose a description of the nature of
+the obligation, the expected timing of any resulting outflows of economic benefits and an indication of
+the uncertainties about the amount or timing of those outflows and where necessary, they will have to
+disclose the major assumptions made concerning future events.
+CSA STAFF NOTICE 51-333 – October 27, 2010 20
+2.5 Forward-looking information requirements
+Forward-looking information (FLI) is defined in securities legislation to include disclosure regarding possible
+events, conditions or results of operations that is based on assumptions about future economic conditions and
+courses of action. It includes future oriented financial information (FOFI) with respect to prospective results of
+operations, financial position or cash flows that is presented either as a forecast or a projection.
+There are disclosure requirements regarding FLI in Part 4A and regarding FOFI and financial outlooks in Part
+4B of NI 51-102. These requirements apply to CD documents (subject to certain exceptions as set out in NI 51-
+102), voluntary reports and websites, but do not apply to oral statements.
+Comments
+Some issuers disclose goals or targets regarding environmental matters in their CD documents, in voluntary
+reports or on their websites. Examples include:
+• The issuer plans to reduce its greenhouse gas emissions by X by 20XX.
+• The issuer’s goal is to reduce its water usage by x% by 20XX. This reduction may lead to an increase in
+expenses by $X in the short-term as alternative production methods are developed.
+These disclosed targets or goals may or may not be labelled as a “target”, “goal”, “forecast” or “projection”.
+In considering whether these disclosed goals and targets can be FLI, the issuer should make the following
+assessments:
+• Is the target or goal “possible” to achieve based on assumptions about future economic conditions and
+courses of actions?
+• If yes, is the target or goal material information?
+If the target or goal is material information, the document containing the target or goal must comply with the FLI
+requirements in Part 4A of NI 51-102. If the disclosed target or goal also is FOFI or a financial outlook, the
+document must comply with the FOFI requirements in Part 4B of NI 51-102.
+Additional guidance regarding these requirements is set out in CSA Staff Notice 51-330 Guidance Regarding
+the Application of Forward-Looking Information Requirements under NI 51-102 Continuous Disclosure
+Obligations. Issuers and their directors and officers also should refer to policies and other statements regarding
+defence for misrepresentations in FLI, such as OSC Policy 51-604 Defence for Misrepresentations in ForwardLooking Information.
+Impact of adoption of IFRS
+Where these goals and targets are FOFI or financial outlooks, they must be based on the accounting policies
+that the issuer expects to use to prepare its historical financial statements for the period covered by the FOFI or
+CSA STAFF NOTICE 51-333 – October 27, 2010 21
+the financial outlooks. In light of the changeover to IFRS, where an issuer provides FOFI or financial outlooks
+for periods that extend into 2011 and beyond, the impact of the conversion to IFRS should be considered.
+CSA STAFF NOTICE 51-333 – October 27, 2010 22
+3. GOVERNANCE STRUCTURES AROUND ENVIRONMENTAL DISCLOSURE
+3.1 Review, approval and certification of disclosure
+An issuer’s environmental disclosure in CD documents is subject to three levels of oversight: review by the
+audit committee, approval by the board of directors and certification by the CEO and CFO.
+Persons responsible Oversight function
+Audit committee review
+Under NI 52-110, an audit committee is required to review an issuer’s
+financial statements and MD&A before the issuer publicly discloses this
+information.
+Board approval
+Under NI 51-102, the board must approve the annual and interim financial
+statements and MD&A. The board may delegate approval of interim financial
+statements and MD&A to its audit committee.
+CEO and CFO certification
+NI 52-109 requires certifying officers to certify, among other things, that the
+issuer’s financial statements and the other financial information included in
+the issuer’s MD&A and AIF, if applicable, fairly present, in all material
+respects, the issuer’s financial condition, results of operations and cash
+flows.
+Comments
+In our view, meaningful discussion of material environmental matters, where applicable, in an issuer’s MD&A
+and AIF is important to achieve fair presentation of the issuer’s financial condition in all material respects and
+for CEOs and CFOs to be able to certify that the issuer’s filings do not contain any misrepresentations.
+In fulfilling their oversight functions relating to environmental disclosure, audit committees, boards and certifying
+officers should consider:
+• what environmental matters are reasonably likely to impact the issuer’s business and operations in the
+foreseeable future
+• what are the magnitude, sources and nature of the issuer’s current and anticipated environmental risks
+and liabilities
+• what has been, and is likely to be, the impact of environmental matters on revenues, expenditures and
+cash flows
+• what impact, if any, could environmental matters have on the issuer’s financial condition and liquidity, and
+• what assessment has management made regarding the materiality to investors about the information on
+environmental matters, and are the disclosures made in the financial statements, MD&A and AIF
+consistent with this assessment.
+CSA STAFF NOTICE 51-333 – October 27, 2010 23
+3.2 Controls and procedures
+To support the review, approval and certification process, an issuer must have adequate controls and
+procedures in place to provide rigour around its disclosure of environmental matters. Both the audit committee
+and certifying officers have responsibilities in establishing these underlying controls and procedures.
+Persons responsible Controls and procedures
+Audit committee
+responsibilities
+Under NI 52-110, the audit committee must be satisfied that adequate
+procedures are in place for the review of the issuer’s public disclosure of
+financial information extracted or derived from the issuer’s financial
+statements (other than the issuer’s financial statements, MD&A and annual
+and interim earnings press releases), and must periodically assess the
+adequacy of those procedures.
+Disclosure controls and
+procedures
+Under NI 52-109, certifying officers of TSX-listed issuers must certify that
+they are responsible for establishing and maintaining:
+• disclosure controls and procedures, and
+• internal control over financial reporting.
+In addition, certifying officers of TSX-listed issuers must certify that they
+have:
+• subject to disclosed limitations, designed these controls and
+procedures, or caused them to be designed, and
+• evaluated their effectiveness, or caused them to be evaluated under
+their supervision.
+Comments
+Directors and certifying officers need to know that management has implemented systems, procedures and
+controls to gather reliable and timely environmental information for both management analysis and decisionmaking purposes and disclosure to investors, regulators and other stakeholders. Consideration should also be
+given to whether the information about environmental matters is subject to the same governance processes
+and controls and procedures as financial reporting.
+The establishment of appropriate data collection and reporting systems, and related controls and procedures,
+requires a decision on the part of management and dedication of appropriate resources. Some issuers have
+invested significantly in establishing reliable measurement and reporting systems related to environmental
+information, but as yet many have not. The reliability of these systems and controls is a necessary
+underpinning for securities regulatory filings, including CEO and CFO certifications under NI 52-109.
+CSA STAFF NOTICE 51-333 – October 27, 2010 24
+3.3 Integration of financial and voluntary reporting
+Some issuers choose to provide information regarding environmental matters in voluntary reports7
+, in
+responses to surveys8
+ and on their websites. Voluntary reporting can provide important information to investors
+outside of issuers’ CD documents.
+Completeness of CD documents
+Issuers should be aware that some of the information they may be reporting pursuant to these voluntary
+mechanisms also may be required to be disclosed in their CD documents if that information is material under
+securities legislation. It is not sufficient for issuers to discuss material environmental matters required by
+securities legislation solely on their website, or in voluntary reports and responses to surveys.
+Reliability of voluntary reporting
+Issuers should ensure that their websites, voluntary reports and responses to surveys do not contain any
+misrepresentations. While these documents and other written communications are not required to be filed with
+the securities regulatory authorities, they may be subject to the provisions under securities legislation regarding
+FLI and civil liability for secondary market disclosure. In addition, issuers should ensure that the disclosure in
+these documents and on their websites is consistent with the disclosure in their CD documents.
+                                                      
+7
+ Voluntary reports can be prepared in accordance with a number of sustainability reporting frameworks, such as the framework
+developed by the Global Reporting Initiative (GRI). The GRI framework sets out the principles and indicators that issuers can use to
+measure and report their economic, environmental and social performance.
+8
+ One example of a survey is the questionnaire requesting carbon and climate change information circulated by the Carbon
+Disclosure Project (CDP) to large issuers. CDP is an investor coalition that includes 534 signatory investors with assets under
+management of US$64 trillion. CDP’s request for information covers management’s views on the risks and opportunities related to
+climate change, greenhouse gas emissions accounting, management’s strategy to reduce emissions/minimize risk and capitalize on
+opportunity, and corporate governance with regard to climate change.
+CSA STAFF NOTICE 51-333 – October 27, 2010 25
+Guidance for board and management on voluntary reports
+Boards should ask questions such as:
+• What assessment has management made of the materiality to investors of information about
+environmental matters? Are disclosures made in CD documents consistent with this assessment?
+• Is the material information in voluntary reports also disclosed on a timely basis in securities regulatory
+filings?
+• How has management ensured that information reported on corporate websites or in voluntary reports is
+consistent with that provided in their CD documents?
+• Does any FLI in the voluntary reports comply with FLI requirements under securities legislation?
+CSA STAFF NOTICE 51-333 – October 27, 2010 26
+4. CONCLUSION
+Issuers should consider the guidance in this notice when preparing their CD documents to ensure that their
+disclosure of environmental matters complies with securities legislation and provides investors with meaningful
+information for making investment decisions. We will continue to monitor disclosure of environmental matters
+as part of our ongoing CD review program.
+Questions regarding this notice may be referred to:
+Jo-Anne Matear
+Assistant Manager, Corporate Finance
+Ontario Securities Commission
+Tel: 416-593-2323
+Email: jmatear@osc.gov.on.ca
+Daphne Wong
+Analyst, Office of Domestic and International Affairs
+Ontario Securities Commission
+Tel: 416-593-8125
+Email: dwong@osc.gov.on.ca
+Christine Krikorian
+Accountant, Corporate Finance
+Ontario Securities Commission
+Tel: 416-593-2313
+Email: ckrikorian@osc.gov.on.ca
+Allan Lim
+Manager, Corporate Finance Division
+British Columbia Securities Commission
+Tel: 604-899-6780
+Email: alim@bcsc.bc.ca
+Cheryl McGillivray
+Manager, Corporate Finance
+Alberta Securities Commission
+Tel: 403-297-3307
+Email: Cheryl.McGillivray@asc.ca
+Anne Marie Landry
+Securities Analyst
+Alberta Securities Commission
+Tel: 403-297-7907
+Email: AnneMarie.Landry@asc.ca
+Alida Gualtieri
+Manager, Continuous Disclosure
+Chef du service de l'information continue
+Direction des fonds d'investissement et de
+l'information continue
+Autorités des marchés financiers
+Tel: 514-395-0337 ext. 4401
+Email: Alida.Gualtieri@lautorite.qc.ca
+Wendy Morgan
+Legal Counsel / Conseillère juridique
+New Brunswick Securities Commission/
+Commission des valeurs mobilières du NouveauBrunswick
+Tel: 506-643-7202
+Email: Wendy.Morgan@gnb.ca
+Bob Bouchard
+Director, Corporate Finance
+Manitoba Securities Commission
+Tel: 204-945-2555
+Email: bbouchard@gov.mb.ca
+APPENDIX – EXAMPLES OF ENTITY-SPECIFIC DISCLOSURE 27
+APPENDIX – EXAMPLES OF ENTITY-SPECIFIC DISCLOSURE
+Introduction
+To assist issuers in meeting the existing disclosure requirements relating to environmental matters, we have
+provided some examples of entity-specific disclosure. The examples are for illustration purposes only and are
+based on assumed facts. They should not be viewed as an exhaustive list of environmental matters required to
+be disclosed, nor are they applicable to all issuers or comprehensive in all cases. The examples assume that
+the information disclosed is material in the particular case.
+Issuers are reminded that their disclosure should be tailored to their particular circumstances, and that their CD
+documents must comply with all applicable disclosure requirements.
+The examples of entity-specific disclosure are set out under the following headings:
+• environmental risks
+• trends and uncertainties
+• environmental liabilities
+• asset retirement obligations
+• financial and operational effects of environmental protection requirements
+• environmental policies fundamental to operations, and
+• board mandate and committees.
+Forward-looking information
+Some of the examples below contain forward-looking information, future oriented financial information and
+financial outlooks. Refer to section 2.5 of the notice and CSA Staff Notice 51-330 Guidance Regarding the
+Application of Forward-Looking Information Requirements under NI 51-102 Continuous Disclosure Obligations
+for guidance on the applicable disclosure requirements.
+Environmental risks
+Example 1 – Litigation risk
+The company is currently subject to litigation regarding environmental matters, and may be involved in disputes regarding
+environmental matters which may result in litigation. The results of litigation cannot be predicted. If the company is not able
+to resolve the litigation and disputes favourably, there may be a material adverse impact on its financial condition, cash flows
+and results of operations.
+Below is a summary of potentially material environmental litigation to which the company is a party.
+[Insert name of advanced civil litigation matter]
+APPENDIX – EXAMPLES OF ENTITY-SPECIFIC DISCLOSURE 28
+As noted below, the company has recorded a provision in respect of [insert name of advanced litigation]. Please see the
+discussion under x for more information [see Example 1 for Environmental Liabilities].
+[Insert name of early stage civil litigation matter]
+The company has been named as a defendant in an action filed in Province X, where the plaintiffs have alleged that the
+company’s operations have contaminated the local water supply, resulting in health and economic damages to local
+fisheries. The statement of claim seeks damages in the amount of $x and punitive damages in the amount of $x. The
+company filed a statement of defence on x, 20xx. It believes this action lacks legal or factual merit and intends to vigorously
+defend this action. No amounts have been accrued in the financial statements for any potential loss under this action.
+No trial date has been set at this time. While the company believes the action is without merit, an adverse outcome could
+result in payment of significant damages or penalties and significant capital expenditures which cannot be determined at this
+time. Defence costs associated with the action could also be significant, and may not be completely covered by the
+company’s insurance. These payments or expenditures could significantly affect the company’s financial condition, cash
+flows and results of operations.
+[Insert name of regulatory proceeding]
+On x, 20xx, the government in Province X charged the company under Act X, which includes the following prohibition: X.
+The charge was laid under section x of Act X. The Crown alleged that the company’s operations damaged the environmental
+habitat of wildlife.
+The trial commenced on x and is ongoing. The company has pleaded not guilty and plans to continue to vigorously defend
+the action over the course of the trial, which is scheduled to conclude in x, 20xx. At this stage, the company continues to
+believe that it is not in violation of the requirements of Act X.
+The charges brought could have significant consequences for the company because it questions the legality of certain
+aspects of the company’s operations, and may expose the company to civil lawsuits and uncertainty regarding its
+operations.
+At this stage, the likelihood of a guilty verdict and the materiality of a conviction are not reasonably determinable. As a result,
+no amounts have been accrued in the company’s financial statements in respect of this action. If the company is found
+guilty, the penalties range from $x to $x under Act X.
+Except as noted above, the issuer is not aware of any environmental litigation outstanding, threatened or pending against it
+as of the date hereof that would be material to its financial condition, cash flows and results of operations.
+Example 2 – Physical risk
+The company’s supply chain is based on agricultural commodities produced in Countries X, Y and Z. In particular, product X
+is a key component of the company’s business. Sales of product X represent x% of the company’s total revenues in its most
+recently completed financial year. Forty-five percent of the company’s supply of product X is grown in Country X.
+Country X is highly susceptible to hurricanes and other extreme weather events. In x of the last x years, Country X has
+experienced hurricanes that have resulted in significant damages to its crops of product x.
+APPENDIX – EXAMPLES OF ENTITY-SPECIFIC DISCLOSURE 29
+Extreme weather events, such as hurricanes, can impact the overall availability and quality of product X. This in turn may
+impact:
+• the company’s ability to buy sufficient quantities of product X, or
+• the price the company pays for product X.
+Any interruptions to the company's supply of product X or changes in the price that the company pays for product X could
+lower the company’s revenues, increase its operating costs and impact its overall financial results. For example, the
+company currently estimates that a 1% increase in the price of product X will lead to an increase in the company’s costs by
+$x. During 20xx, the company's costs associated with product X increased by x% in the x months following Hurricane X in
+Country X. This led to a corresponding decrease in the company's revenues, as it was not able to fully recover the increase
+in its costs through higher sales revenues.
+Example 3 – Regulatory risk
+The company is subject to a variety of environmental and land use laws and regulations in Provinces X and Y, as well as the
+laws and regulations of the Canadian federal government. These laws and regulations mandate, among other things:
+• the maintenance of air and water quality standards
+• land reclamation
+• regulation of greenhouse gas (GHG) emissions, and
+• energy efficiency standards.
+The laws and regulations require the company to obtain various environmental registrations, licenses, permits, inspections
+and other approvals in order to operate. They impose certain standards and controls on the company’s activities.
+The company operates x number of manufacturing facilities in Provinces X and Y. X per cent of these facilities emit more
+than 25,000 tonnes of carbon, and x% of these facilities emit more than 50,000 tonnes of carbon. The following is a
+discussion of GHG regulation that has, or the company anticipates will have, a significant impact on its operations.
+Current regulation in Province X
+In Province X, the government has announced Act X, which imposes GHG emissions limits on facilities emitting greater than
+x tonnes of carbon dioxide equivalent per year. Act X calls for emission reductions of x% beginning in 20xx. The company
+must file compliance reports that describe the actions the company took during the year to meet its emissions target for the
+year. To date, the company is in compliance with all GHG emission reductions required under Act X and compliance with
+these requirements has not had a material effect on the company’s financial condition, cash flows and results of operations.
+The company anticipates that the future costs associated with compliance with Act X to be incurred through 20xx will be in
+the range of $x to $x, which includes $x spent to date. In planning its activities, the company has assumed a carbon price of
+$x, and has conducted scenario analysis based on carbon prices within the range of $x to $x.
+Future regulation contemplated
+In addition to the requirements of Act X, the company’s facilities and operations will be subject to future changes to
+environmental legislation at the provincial and federal levels. The company expects the imposition of additional regulations,
+including X legislation for air pollution and further GHG regulations. The following discussion is a summary of anticipated
+future developments to environmental legislation that are expected to have a significant impact on the company.
+APPENDIX – EXAMPLES OF ENTITY-SPECIFIC DISCLOSURE 30
+In 20xx, Province Y joined the X Climate Initiative, committing to implement a GHG emissions or cap-and-trade regime by
+20xx. In 20xx, Regulation Y was enacted under the Environmental Act Y in Province Y. Regulation Y requires facilities that
+emit x tonnes of carbon dioxide equivalent or more per year to monitor, measure and report emissions on an annual basis.
+The purpose of Regulation Y is to support the implementation in Province Y of a cap-and-trade system for emissions trading.
+Province Y will continue to work with the Canadian federal government and other members of the X Climate Initiative to
+harmonize emissions reporting requirements. In the event that Province Y establishes a cap-and-trade system, the company
+may need to purchase GHG allowances via auction to offset the amount of GHG they will emit into the atmosphere. The
+company currently does not believe that its operations will be adversely affected by Regulation Y.
+The company is currently developing and implementing GHG emissions reduction programs to both reduce GHG emissions
+and generate GHG emissions reduction credits or offsets for use by the company. The company is committed to reducing
+GHG emissions within a range of x% to x% from 20xx to 20xx.1
+ There is no guarantee that the company will be successful in
+developing and implementing these programs, and it is too early to predict the exact costs of compliance.
+
+There is uncertainty around the impact of environmental laws and regulations, including those currently in force and
+proposed laws and regulations. It is not possible to predict the outcome and nature of certain of these requirements on the
+company and its business at the current time. However, failure to comply with current and proposed regulations can have a
+material adverse impact on the company’s business and results of operations by substantially increasing its capital
+expenditures and compliance costs, its ability to meet its financial obligations, including debt payments and the payment of
+dividends. It may also lead to the modification or cancellation of operating licenses and permits, penalties and other
+corrective actions.
+1 This target constitutes forward-looking information. See the introduction above for guidance on the applicable disclosure
+requirements.
+Example 4 – Regulatory risk
+The company manufactures chemical x at Facility X in Country X. Chemical x is used in the production of chemical y, which
+is manufactured at the company’s Facility Y in Country Y. The company plans to expand its production of chemical y, which
+requires an increase in the production of chemical x and an expansion to Facility X and Facility Y. Pending regulatory
+approval, the company expects the expansions to Facility X and Facility Y to become operational in 20xx. The increased
+production of chemical y is expected to generate earnings before interest, taxes, depreciation and amortization of
+approximately $x to $x in the first fiscal year that the expansions to Facility X and Facility Y become operational.
+The company has filed the necessary regulatory applications in Countries X and Y for approval to construct and operate the
+expansions to Facility X and Facility Y. In January 20xx, the company was granted approval from Authority X in Country X to
+construct and operate the expansion to Facility X. The company expects a decision on its application for the necessary
+permits from Authority Y in Country Y regarding the expansion of Facility Y in the next x months.
+There is a significant risk that regulatory approval for the extension of Facility Y will not be granted or will be significantly
+delayed by Authority Y in Country Y. In recent months, environmental groups and prominent politicians in Country Y have
+publicly opposed the expansion of Facility Y due to its location beside public water sources and have called on Authority Y
+and the government of Country Y to re-examine the potential impact of chemical production on the environment generally. A
+APPENDIX – EXAMPLES OF ENTITY-SPECIFIC DISCLOSURE 31
+number of environmental, public health and indigenous activists, as well as landowners whose property are located adjacent
+to the water sources, have organized large protests outside government offices in Country Y. If regulatory approval for the
+expansion of Facility Y is not granted by Authority Y, the company will not be able to increase the total commercial capacity
+of Facility Y or recover the capital cost of the extensions to Facility X and Facility Y ($x has been spent to date), which could
+have a material adverse impact on the financial results of the company.
+Example 5 – Reputational risk
+The company faces strong competition in the retail industry. The industry is driven primarily by consumer demand, which is
+impacted by matters such as economic trends, changing demographics and environmental awareness. A recent consumer
+trend that is dominating the industry is an increasing demand that retailers source products in a way that demonstrates care
+for the environment, and otherwise follow environmentally responsible business practices.
+The company endeavours to be environmentally responsible and recognizes that the competitive pressures for economic
+growth and cost efficiency must be integrated with sound sustainability management, including environmental stewardship.
+The company has adopted sourcing and other business practices to address the environmental concerns of its customers.
+Despite these efforts, evolving customer concerns could negatively affect the company’s reputation and financial
+performance.
+The company’s brand image is driven by the development and delivery of high quality products while maintaining the highest
+level of environmental responsibility. Claims of environmentally irresponsible practices could harm the reputation of the
+company.
+The company establishes and monitors compliance with operating guidelines both internally and for the company’s
+independent suppliers. These guidelines require environmentally responsible business practices, including x, x and x.
+Although the company requires its suppliers to certify compliance with these guidelines and periodically requests
+documentation in support of the certificates, there is no guarantee that these suppliers will not take actions that hurt the
+company’s reputation, as they are independent third parties that the company does not control. However, if there is a lack of
+apparent compliance, it may lead the company to search for alternative suppliers. This may have an adverse effect on the
+company’s financial results, by increasing costs, potentially causing shortages in products, delays in delivery or other
+disruptions in operations.
+Adverse publicity resulting from actual or perceived violations of environmental laws and regulations, from business
+practices considered environmentally irresponsible, or from damage to the environmental reputation of the company’s
+suppliers, may weaken the value of the company’s brand image, negatively impact customer attitudes and decrease
+demand for the company’s products. This may lead to a decrease in results of operations and the company’s share price.
+These impacts may occur even if the allegations are not directed against the company or are not valid, and even if the
+company is not found liable. Other companies in the industry have encountered these issues, resulting in reduced demand
+for, or boycotts of, their products.
+APPENDIX – EXAMPLES OF ENTITY-SPECIFIC DISCLOSURE 32
+Example 6 – Risks relating to business model
+Wind energy products are at an early stage of market acceptance and have been developed through technologies that may
+not be proven or whose commercial application is limited. The company’s products may not gain sufficient commercial
+acceptance or success for the company’s business plan to succeed. The alternative power market is also highly competitive
+and characterized by rapidly evolving technology and changes in pricing strategy. If the company fails to continually improve
+and refine its technology, the company’s products could become uncompetitive or obsolete. There is also the risk that the
+company’s competitors could attempt to reverse engineer or copy the company’s product, which could draw business away
+from the company.
+The company’s business is dependant on the availability of government subsidies and incentives to support the
+development of the wind energy market. The cost of wind, solar and other alternative power currently exceeds retail electric
+rates in many jurisdictions. As a result, governments in Countries X, Y and Z have provided subsidies and incentives in the
+form of rebates, tax credits and other incentives to end-users, distributors, system integrators and manufacturers of
+alternative power products to promote the use of renewable energy sources. There is significant uncertainty about the extent
+to which such favourable government subsidies and incentives will be available to the company in the future. The reduction,
+expiration or elimination of these government subsidies and incentives could result in lower revenues and greater expenses
+for the company, which could have a material adverse effect on the company’s business.
+The company’s electricity generation levels are directly dependent on wind intensity and duration, both of which vary relative
+to facility location and time of year. Due to climate change, wind regimes may change within regions where turbines are
+located, which in the longer term could affect changes in electricity generation capacity. This may lead to volatility in
+production levels and profitability.
+Demand for wind energy technology may be affected by the following factors:
+• the performance, reliability and cost-effectiveness of wind energy technology compared to conventional energy sources
+and products
+• the success of other renewable energy generation technologies (e.g. geothermal and solar)
+• fluctuations in capital expenditures by utilities and independent power producers
+• the development of new and profitable applications requiring the remote electric power provided by wind energy
+systems, and
+• overall growth in the renewable energy market.
+Trends and uncertainties
+Example
+The company is unable to predict market conditions and the fares the company may be able to charge… Factors that may
+reduce demand for air travel include concerns about the environmental impacts of air travel and a growing movement
+towards “green” travel initiatives where consumers reduce their air travel.
+The company operates in various jurisdictions where there are legislative initiatives relating to greenhouse gas (GHG)
+emissions being considered or adopted. Jurisdictions that have proposed to regulate GHG emissions include Countries X, Y
+and Z. Although these jurisdictions have not yet published details of their proposed regulations or their compliance
+APPENDIX – EXAMPLES OF ENTITY-SPECIFIC DISCLOSURE 33
+mechanisms, the company will likely face increased capital and operating costs to comply with these regulations and these
+costs could be material. Notwithstanding the current regulatory uncertainty in these jurisdictions, the company has assumed
+a carbon price of $x, and has conducted scenario analysis based on carbon prices within the range of $x to $x. The
+company has incorporated a range of potential carbon prices and regulatory outcomes into future capital planning.
+While there is no GHG emissions legislation in place in Country X, the company is a signatory to a voluntary agreement with
+the government of Country X to reduce GHG emissions. Under the voluntary agreement, the company is committed to a fuel
+efficiency improvement target of x% from 19xx levels by 20xx. The company has surpassed this fuel efficiency target and in
+20xx, set its own new target to improve the fuel efficiency of its fleet operations by a further x% from 20xx to 20xx.1
+ In 20xx,
+this program reduced emission by x tonnes compared to what the company would have otherwise consumed.
+1 This target constitutes forward-looking information. See the introduction above for guidance on the applicable disclosure
+requirements.
+Environmental liabilities
+Example 1 – Environmental estimates reflected in financial statements
+The company is subject to environmental laws and regulations that affect aspects of the company’s past, present and future
+operations, including air emissions, water quality, wastewater discharges and the generation, transport and disposal of
+waste and hazardous substances. The company’s activities have the potential to impair natural habitat, damage plant and
+wildlife, or cause contamination to land or water that may require remediation under applicable laws and regulations. These
+laws and regulations require the company to obtain and comply with a variety of environmental registrations, licenses,
+permits and other approvals. Both public officials and private individuals may seek to enforce environmental laws and
+regulations against the company.
+Environmental liabilities are recorded when it is considered likely that a liability has been incurred at the date of the financial
+statements and the amount of the liability can be reasonably estimated. As at December 31, 20xx, the company had a
+provision of $x million for environmental, remedial and similar obligations. The primary component of this provision was an
+amount for a legal action brought in Country X against the company and other defendants for damage to the environment.
+The plaintiffs, who are residents of lands surrounding one of the company’s former facilities, are seeking damages of $x
+million for wrongful death claims and to fund environmental remediation of the alleged environmental harm.
+An expert appointed by the court in Country X to assess and determine the cause of the environmental damage released a
+report recommending that the court assess damages of $x million against the company. The court is expected to render a
+judgment within the next x months. The company intends to vigorously defend any attempted imposition of liability.
+In estimating the amount to be included in the provision for the legal action in Country X, the company conducted an
+assessment of the possible outcomes and range of loss, based on considerations such as the company's past experiences
+with environmental lawsuits and the recommendations of legal counsel. The estimate is based on the following assumptions:
+• the court will find against the issuer
+• the court will award damages of x% of the total amount claimed
+• the court will not award punitive damages, and
+• the proportionate liability of the company is x% of the claim.
+APPENDIX – EXAMPLES OF ENTITY-SPECIFIC DISCLOSURE 34
+The company also estimated the costs of remediation based on an assessment of the existing remediation technology
+available. However, although the company expects to incur a liability of $x million (as reflected in the line item
+“environmental, remedial and similar obligations” in the 20xx financial statements), the actual liability remains highly
+uncertain and can vary from the company’s estimate due to factors such as:
+• differing interpretations of laws, opinions on culpability and assessments on the amount of damages
+• the length and outcome of the appeal process (in the event of an adverse judgment)
+• the unknown timing and extent of the remediation and other corrective actions that may be required, and
+• the determination of the company’s liability in proportion to other responsible parties and the extent to which such costs
+are recoverable from third parties.
+The estimated liability will be regularly adjusted as the case proceeds. As a result of recommendations from legal
+counsel, the estimated amount of the liability has increased by $x million since the last financial statements were
+issued.
+Example 2 – Potential environmental liabilities not reflected in financial statements
+The company may be subject to remedial environmental and litigation costs resulting from potential unknown and
+unforeseeable environmental impacts arising from the company’s operations. While these costs have not been material to
+the company in the past, there is no guarantee that this will continue to be the case in the future as the company carries on
+with the development of the complex technologies necessary to differentiate the company from its competitors and meet
+market demand.
+Given the nature of the company's business, there are inherent risks of oil spills occurring at the company's drilling sites.
+Large spills of oil and oil products can result in significant clean-up costs. Oil spills can occur from operational issues, such
+as operational failure, accidents and deterioration and malfunctioning of equipment. In certain countries where the company
+operates, oil spills can also occur as a result of sabotage and damage to the pipelines. If the company experiences
+operational spills, this may impact the company's ability to maintain its licence to operate and may harm its reputation. In
+20xx, the number of spills “increased/decreased” by x%, totalling a volume of x tonnes (compared to x spills totaling x
+tonnes in the previous year of 20xx).
+Although unlikely and not estimable or quantifiable at this time, if an oil spill occurred at the company’s offshore drilling rig X,
+potential impacts could include employee injuries and loss of life, harm to the surrounding environment and wildlife, and
+disruption or cessation of the company's activities. These may lead to significant potential environmental liabilities, such as
+clean-up and litigation costs, which may materially affect the company's financial condition, cash flows and results of
+operations. Depending on the cause and severity of the oil spill, the company's reputation may also be adversely affected,
+which could limit the company’s ability to obtain permits and affect its future operations.
+To prevent and/or mitigate potential environmental liabilities from occurring, the company has policies and procedures
+designed to prevent and contain oil spills. The company works to minimize spills through a program of well designed
+facilities that are safely operated, effective operations integrity management, continuous employee training, regular
+upgrades to facilities and equipment and implementation of a comprehensive inspection and surveillance system. The
+company also has a rigorously tested oil spill emergency response capability. The company plans, prepares and practices
+its emergency response to help effectively mitigate the environmental, operational and financial consequences of an oil spill.
+APPENDIX – EXAMPLES OF ENTITY-SPECIFIC DISCLOSURE 35
+Asset retirement obligations
+Example
+Asset retirement obligations (AROs) result from the acquisition, development, construction and ordinary operation of mining
+property, plant and equipment, and from environmental regulations set by regulatory authorities. AROs include costs related
+to tailings pond, tailings dam, heaps and heap leach pad reclamation and/or closure (i.e. ongoing monitoring of ground water
+quality; tailings dam and/or leach pad integrity; heap washing; closing of portals, shafts and tunnels, recontouring,
+revegetation etc.), and removal and/or demolition of mine and processing equipment (i.e. crushers, conveyors, mills,
+flotation tanks etc.), buildings and other infrastructure.
+The company estimates the fair value of AROs to range between $x million and $x million. As at December 31, 20xx, the
+company recognized a liability of $x million for AROs. The fair value of AROs are estimated using a present value technique
+and is based on existing laws, contracts or other policies and current technology and conditions. The estimates or
+assumptions required to calculate the fair value of AROs include, among other items, abandonment and reclamation
+amounts, inflation rates, credit-adjusted risk free rates and timing of retirement of assets. The following significant
+assumptions were made for the purpose of estimating AROs:
+Assumption 20xx 20xx*
+Undiscounted abandonment costs ($$$) x x
+Credit adjusted risk free rate x x
+Inflation rate x x
+Average years to reclamation x x
+ * Year-on-year comparison
+AROs are considered critical accounting estimates for the company. There are significant uncertainties related to AROs and
+the impact on the financial statements could be material. The eventual timing of and costs for these AROs could differ from
+current estimates. The main factors that can cause expected cash flows to change are:
+• changes to laws and legislation
+• construction of new facilities
+• changes in the quality of water that affect the extent of water treatment required
+• change in the reserve estimate and the resulting amendment to the life of the mine, and
+• changes in technology.
+In general, as the life of a mine ends, the expected cash flows become more reliable but the estimate of an ARO at the
+beginning of the mine life, is primarily more subjective. Any future changes to the estimated or actual costs for reclamation
+and mine closure and for removal and/or demolition of mine and processing equipment, buildings and other infrastructure,
+could have a material and adverse effect on the company’s future operating results.
+The company does not strictly reserve cash or assets for the purpose of settling AROs. As a result, at the time of closure
+and restoration of the mine sites, the company will have a significant cash outlay that may affect its ability to satisfy its debt
+APPENDIX – EXAMPLES OF ENTITY-SPECIFIC DISCLOSURE 36
+and other contractual obligations. The costs associated with the AROs may be significant and the company may not have
+sufficient or available resources to fund the costs. If the company is unable to make these payments, regulatory authorities
+may take further corrective action with respect to these obligations, including issuing clean-up orders and laying charges.
+Currently the company has secured its obligations under its AROs and obtained letters of credit.
+The following is a breakdown of the ARO by category:
+Category 20xx 20xx*
+Open Mines x x
+Closed Mines x x
+Development Projects x x
+Total AROs x x
+
+ * Year-on-year comparison
+
+The following is a breakdown of ARO by significant mine/property:
+Mine 20xx 20xx*
+Mine 1 x x
+Mine 2 x x
+Mine 3 x x
+Other** x x
+Total AROs x x
+ * Year-on-year comparison
+ ** Aggregate of remaining mines determined to be insignificant on an individual basis
+Summary Contractual Obligations Table
+Provide asset retirement obligations for the current year and the following 5 years and thereafter.
+2010 2011 2012 2013 2014 thereafter Total
+AROs x x x x x x x
+AROs – Amounts presented in the table represent the undiscounted future payments for the expected cost of asset
+retirement obligations.
+Financial and operational effects of environmental protection requirements
+Example 1
+In Country X where the company operates, the company is currently obligated to comply with environmental protection
+Regulation X relating to water pollution and conservation. To comply with Regulation X, the company began construction of
+a new water treatment plant in 20xx to collect and treat contaminated water from its facilities in Country X. In 20xx, the
+company’s aggregate expenditures (both capital and operating) to construct and maintain the new water treatment plant
+were $x million, compared to $x million in 20xx. The company estimates that total environmental expenditures in Country X
+APPENDIX – EXAMPLES OF ENTITY-SPECIFIC DISCLOSURE 37
+for the next year will be approximately $x million in capital expenditures and $x in operating expenditures. If environmental
+protection regulations relating to water pollution and conservation in Country X change, or the enforcement of Regulation X
+becomes more rigorous, the company may be required to incur additional, significant capital and operating expenditures to
+comply, which could have a material adverse effect on the company’s financial condition and competitive position.
+Example 2
+In Province X where the company has x facilities, contaminated sites legislation came into effect in 20xx. The legislation
+specifies the circumstances in which a “site profile” must be prepared in respect of any property that has been used for
+certain industrial or commercial purposes. A particular site is determined to be a “contaminated site” if concentrations of
+certain substances in soil and groundwater exceed prescribed levels. If a site is determined to be contaminated, remediation
+will normally be required under government supervision. The company is not aware of any of its sites being considered
+contaminated under the legislation, and compliance with the legislation has not resulted in any material costs to the
+company in 20xx. However, there is no guarantee that material costs will not be incurred in the future due to the discovery of
+unknown conditions or changes in enforcement policies.
+Environmental policies fundamental to operations
+Example
+The company established an environmental policy (the Policy) in 20xx. The Policy is updated periodically and was last
+updated in 20xx. The Policy affirms the company’s commitment to environmental protection, which the company believes is
+an integral part of doing business and needs to be managed systemically under a continuous improvement process. The
+Policy contains principles which range from exercising due diligence to meet or exceed requirements under applicable
+environmental legislation, to preventing pollution and promoting initiatives that minimize resource use and waste generation.
+The company has instructed its subsidiaries to support these principles, and has established a management-level
+committee, Committee X, to oversee the implementation of the Policy.
+In 20xx, the company spent $x million on environmental policy compliance (x% of this was expensed and x% was for capital
+expenditures). For the next fiscal year, the company has budgeted $x million (x% for expenses and x% for capital
+expenditures) to seek to ensure that the Policy is applied properly and its environmental risks are minimized.
+Consistent with the Policy, the company regularly procures, installs and operates pollution control devices, including
+wastewater treatment plants, groundwater monitoring devices and air strippers or separators.
+The company monitors its operations to seek to ensure that it complies with all applicable environmental requirements and
+standards, and takes action to prevent and correct problems if needed. The company has had an environmental
+management system in place since 20xx that:
+• provides early warning of potential problems
+• identifies management and cost-saving opportunities
+• establishes a course of action, and
+• ensures ongoing improvement through regular monitoring and reporting.
+The company also analyzes changes to environmental laws and regulations on a regular basis. In 20xx, the company
+APPENDIX – EXAMPLES OF ENTITY-SPECIFIC DISCLOSURE 38
+obtained the ISO 140001 certification for its environmental management system.
+Board mandate and committees
+Example
+The Audit Committee’s responsibilities include approving a formalized and integrated enterprise risk management process
+that is developed by senior management and, as appropriate, the company’s X Committee (e.g. Environmental, Health and
+Safety Committee), to monitor, manage and report risks and opportunities, including those relating to environmental matters,
+litigation and regulation. At least semi-annually, the Audit Committee is responsible for obtaining from senior management
+and, as appropriate, the X Committee, a report specifying the management of the company’s principal risks, including
+compliance with the company’s enterprise risk management policy and other policies used to manage risks.
+The purpose of the X Committee is to:
+• review the company’s environmental, health, safety and sustainable development (EHSSD) policies and programs
+• assess the performance and effectiveness of the company’s EHSSD policies and programs
+• monitor current and future regulatory issues relating to EHSSD matters
+• review quarterly management stewardship reports
+• examine the findings of significant external and internal EHSSD investigations, assessments, reviews and audits
+• review the company’s public sustainability report, which includes reporting on the company’s EHSSD progress, plans
+and performance objectives, and
+• make recommendations, where appropriate, on significant matters relating to EHSSD matters to the Board.
+The X Committee holds regular in camera sessions where it meets in the absence of management. 

@@ -1,0 +1,2094 @@
+Practical Handbook
+for ESG Disclosure
+
+1
+
+
+
+
+
+
+Contents
+Introduction 3
+Background to the Handbook 3
+Objective of the Handbook 3
+Important features of the Handbook 4
+Intended audience 5
+The four Steps that make up the Handbook 6
+Step 1: ESG Issues and ESG Investment 8
+1-1 Understanding ESG issues and ESG investment 9
+Step 2: Connecting ESG Issues to Strategy 18
+2-1 ESG and its impact on strategy 20
+2-2 Identifying what is "material" 24
+Step 3: Oversight and Implementation 32
+3-1 ESG in the decision-making process 33
+3-2 Setting metrics and targets 36
+Step 4: Information Disclosure and Engagement 42
+4-1 Organising disclosure contents 43
+4-2 Using existing frameworks 46
+4-3 Further points for consideration 48
+4-4 Two-way engagement with investors 50
+Afterword 51
+2
+Appendix: Outlines of existing frameworks 52
+ Sustainable Stock Exchanges (SSE) Initiative: Model Guidance on
+Reporting ESG Information to Investors 53
+ Ministry of Economy, Trade and Industry (METI): Guidance for
+Collaborative Value Creation 55
+ Recommendations of the Task Force on Climate-related Financial
+Disclosures (TCFD) 57
+ Sustainability Accounting Standards Board (SASB) Standards 60
+ International Integrated Reporting Council (IIRC): International
+Integrated Reporting Framework 62
+ Global Reporting Initiative (GRI) Standards 65
+ World Federation of Exchanges (WFE): ESG Guidance and Metrics 67
+Insets and examples
+Inset 1.1: The EU sustainable finance strategy 11
+Inset 1.2: An example of a company valuation using ESG information 13
+Inset 1.3: The rise of millennials 14
+Inset 1.4: TCFD and Japan's Green Investment Guidance 14
+Inset 1.5: A letter to the world's CEOs from BlackRock 16
+Examples 2.1: How companies disclose the relationship between
+ESG issues and strategy 22
+Example 2.2: Materiality analysis from Japanese financial firm "F" 26
+Example 2.3: Materiality analysis from Japanese
+pharmaceutical firm "G" 27
+Example 3.1: The sustainability management structure of Japanese
+manufacturing firm "H" 35
+Example 3.2: Materiality and targets of Japanese consumable
+goods maker "I" 38
+Inset 4.1: Disclosing quantitative data 45
+Inset 4.2: Disclosing ESG information via TDnet 49
+3
+Background to the Handbook
+In recent years, a large range of investors
+have come to acknowledge that when
+evaluating a company’s corporate value from a
+mid- to long-term perspective, it is important to
+take into account the "sustainability" of the
+company’s operations, including ESG
+(Environment, Social, Governance) factors.
+Listed companies have also begun to act on
+starting ESG-related activities and improving
+ESG-related information disclosure (hereinafter
+referred to as "ESG disclosure"), as part of their
+accountability towards investors and other
+stakeholders.
+In line with this trend, a number of standards,
+frameworks and guidance documents
+(hereinafter collectively referred to as
+"frameworks") have been provided by
+governments, international organizations, stock
+exchanges, NGOs and others to help companies
+with ESG disclosure. Although most of these
+have been from outside Japan, the Japanese
+Ministry of Economy, Trade and Industry has
+also published a Guidance for Integrated
+Corporate Disclosure and Company-Investor
+Dialogues for Collaborative Value Creation - ESG
+integration, non-financial Information
+disclosure and Intangible Assets into
+Investment ("Guidance for Collaborative Value
+Creation") and a Guidance for Climate-related
+Financial Disclosures ("TCFD Guidance").
+However, while the range of frameworks that
+listed companies can refer to when looking into
+ESG disclosure has grown, listed companies
+have reported difficulties in telling the
+frameworks apart and confusion over how to
+use each one. Given that most of the
+frameworks are from outside Japan, many
+companies have also felt that there is not
+enough information about them in Japanese.
+With this background, Japan Exchange Group,
+Inc. (JPX) has created this Handbook to support
+listed companies with their voluntary efforts to
+improve ESG disclosure, thereby encouraging
+dialogue between listed companies and
+investors.
+Objective of the Handbook
+JPX has been working to improve the value of
+its listed companies, for example through better
+corporate governance, for a number of years.
+Japan's Corporate Governance Code, created by
+Tokyo Stock Exchange and implemented in 2015,
+requires listed companies to address social,
+environmental and other sustainability issues
+positively and proactively, while the 2018
+revision clarified that "non-financial
+information" should include ESG information,
+and called for companies to disclose this
+information in a valuable and useful way. The
+Code also requires listed companies to disclose
+information on governance (the "G" of ESG) in a
+Introduction
+4
+Corporate Governance Report.
+In December 2017, JPX joined the Sustainable
+Stock Exchanges (SSE) Initiative, and in June
+2019, it made and published a Japanese
+translation of the SSE Initiative's Model
+Guidance on Reporting ESG Information to
+Investors 1
+ . The Guidance brings together
+important issues regarding ESG disclosure as a
+result of discussions with its founding
+organizations and Partner Exchanges.
+Having provided listed companies with the
+SSE Model Guidance, however, JPX felt that
+putting it into practice would require some
+more practical information. With this in mind,
+the Practical Handbook for ESG Disclosure aims
+to provide Japanese listed companies with
+helpful information to refer to when taking their
+first steps towards beginning ESG disclosure2
+.
+Important features of the
+Handbook
+Below are some important features of this
+Handbook.
+1. The Handbook aims to help listed
+companies which choose to link ESG issues
+to corporate value and disclose about those
+issues in a way that the links can be clearly
+understood. For that reason, rather than
+listing specific data points to disclose, it
+focuses on issues that listed companies
+come across when looking at ESG disclosure
+internally. These issues, along with related
+1Sustainable Stock Exchange Initiative (2015) “Model Guidance on Reporting ESG Information to Investors”
+<https://sseinitiative.org/wp-content/uploads/2017/06/SSE-Model-Guidance-on-Reporting-ESG.pdf>
+2Similar ESG guidelines for listed companies have been published by other exchanges around the world, including
+London Stock Exchange, Deutsche Börse, Hong Kong Exchanges and Clearing, Singapore Exchange and NASDAQ.
+processes and other points to consider, are
+split into four Steps that companies can
+follow.
+2. To encourage disclosure of information
+useful to investors for making investment
+decisions, the Handbook incorporates
+investors’ points of view ("investors" in this
+Handbook means mainly asset owners
+(pension funds, etc.) and asset managers
+(financial advisors)).
+3. Each Step in the Handbook has been
+chosen with reference to points common to
+existing frameworks. The relevant parts of
+each framework are then specified, making
+it easier for readers to refer back. The main
+frameworks that are referred to in the
+Handbook are as below (outlines of each
+can be found in the appendix):
+- Sustainable Stock Exchanges (SSE) Initiative:
+Model Guidance on Reporting ESG Information
+to Investors ("SSE Model Guidance")
+- Ministry of Economy, Trade and Industry
+(METI): Guidance for Integrated Corporate
+Disclosure and Company-Investor Dialogues for
+Collaborative Value Creation - ESG integration,
+non-financial information disclosure and
+intangible assets into investment ("Guidance for
+Collaborative Value Creation")
+- Recommendations of the Task Force on
+Climate-related Financial Disclosures (TCFD)
+("TCFD Recommendations")
+- Sustainability Accounting Standards Board
+(SASB) Standards
+5
+- International Integrated Reporting Council
+(IIRC): International Integrated Reporting
+Framework ("IIRC Framework")
+- Global Reporting Initiative (GRI) Standards
+- World Federation of Exchanges (WFE): ESG
+Guidance and Metrics
+4. To enable deeper understanding, each Step
+is illustrated with actual cases of disclosure,
+so that readers can form a realistic image of
+the processes involved.
+5. The Handbook is designed so that rather
+than reading front to back, each company
+can choose which parts to refer to
+depending on their current circumstances.
+Intended audience
+The Handbook is mainly aimed at listed
+companies which are thinking of beginning ESG
+disclosure, but those who have already begun
+disclosure should also find some useful
+information.
+The Handbook's intention is to provide
+information which can help companies to aim
+for improved corporate value through
+understanding ESG and ESG investment,
+working on ESG issues in a way that fits the
+company, and enacting dialogue with investors
+and other stakeholders. However, relevant ESG
+issues and their importance will differ from
+company to company, so we do not expect the
+processes and examples shown in this
+Handbook to fit perfectly to every company. We
+hope that by using the Handbook, listed
+companies can deepen their understanding of
+each Step and work on ESG disclosure with
+contents and methods that fit to their individual
+circumstances.
+6
+The four Steps that make up the Handbook
+In order to effectively disclose the ESG-related information which investors need to evaluate midto long-term corporate value, it is important that rather than simply focusing on what specific points
+to disclose and how, companies can come to these decisions through a process of linking corporate
+value to ESG issues. The Handbook brings together the issues involved in this and splits them into the
+below four Steps. These Steps were chosen with reference to actual cases of disclosure, the Guidance
+for Collaborative Value Creation, the TCFD Recommendations, the IIRC Framework and others.
+None of the Steps or processes are prescriptive or absolute, and listed companies can begin ESG
+disclosure without completing all of them perfectly. If companies begin ESG disclosure with whatever
+information their current circumstances allow, this will lead to dialogue with investors, which will
+then enable further actions. We hope that the Handbook can be used as a guide through all of these
+stages.
+7
+The Handbook is made up of the below four Steps.
+Step 1: ESG Issues and ESG Investment
+Understand ESG issues and the current situation around ESG investment.
+Step 2: Connecting ESG Issues to Strategy
+Decide on what ESG issues are "material" to your company’s strategy.
+Step 3: Oversight and Implementation
+Put in place an internal structure for oversight and implementation of ESG issues and set
+metrics/targets, to enable steady progress on ESG activities.
+Step 4: Information Disclosure and Engagement
+Having linked ESG issues to corporate value, disclose ESG information so it can be used for
+investment decisions. Aim for mid- to long-term corporate value creation by actively seeking
+dialogue with investors and other stakeholders.
+8
+For companies to aim for corporate value improvement through disclosing investment decisionuseful ESG information and enacting dialogue with investors, it is important to first understand what
+ESG issues are and what the current situation is around ESG investment. This Step introduces trends
+around ESG investment.
+Sections
+1-1 Understanding ESG issues and ESG investment
+ ESG and corporate value
+ E, S, and G
+ The rise of ESG investment
+ ESG investment and fiduciary duty
+ Investor diversity
+ What investors are asking for
+ ESG in the Corporate Governance Code
+ ESG issues and your business
+Step 1: ESG Issues and ESG Investment
+9
+1-1 Understanding ESG issues and ESG investment
+ESG and corporate value
+When investors look to evaluate the corporate
+value of their investee companies, as well as
+using financial information such as balance
+sheets and profit and loss statements, they also
+refer to non-financial information. In recent
+years, awareness of ESG issues as a part of that
+non-financial information has grown, from the
+perspective of their impact on company
+sustainability and mid- to long-term corporate
+value. In this way, ESG issues have become much
+more important for investors' investment
+decisions and in company disclosure.
+E, S, and G
+ESG stands for Environmental, Social, and
+Governance, and is generally used to mean a
+wide range of issues connecting to those three
+themes. Although there is no universally agreed
+definition of ESG, a good example is the below
+list from the Principles for Responsible
+Investment (PRI)3
+:
+ Environmental (E): climate change,
+resource depletion, waste, pollution,
+deforestation, etc.
+ Social (S): human rights, modern slavery,
+child labour, working conditions, employee
+relations, etc.
+ Governance (G): bribery and corruption,
+3 PRI website “What is responsible investment?”
+<https://www.unpri.org/pri/an-introduction-to-responsible-investment/what-is-responsible-investment>
+4 PRI website "PRI Signatories" <https://www.unpri.org/signatories>
+5 Global Sustainable Investment Alliance (2019) "2018 GLOBAL SUSTAINABLE INVESTMENT REVIEW"
+<http://www.gsi-alliance.org/wp-content/uploads/2019/03/GSIR_Review2018.3.28.pdf>
+executive pay, board diversity and structure,
+political lobbying and donations. tax
+strategy, etc.
+The rise of ESG investment
+"ESG investment" is when an investor makes
+an investment decision taking into account
+company information relating to ESG issues as
+well as the traditional financial information. The
+term became known among investors from 2006,
+when then-UN Director General Kofi Annan led
+the formation of the PRI, which calls for investors
+to take into account ESG information in their
+investment decisions.
+The number of institutional investors who
+have signed the PRI has been growing ever since,
+surpassing 2,860 worldwide as of January 20204
+.
+At the same time, the amount of assets under
+management being allocated for ESG investment
+is also growing, from 22.8 trillion USD in 2016 to
+30.6 trillion in 2018, according to a report from
+the Global Sustainable Investment Alliance
+(GSIA)5
+.
+ESG investment is also growing in Japan. The
+awareness and activity of domestic institutional
+investors has been shifting ever since the
+Government Pension Investment Fund (GPIF)
+signed the PRI in 2015, and the number of
+Japanese PRI signatories exceeded 80 in January
+2020. According to the same GSIA report, the
+10
+amount of Japanese assets allocated to ESG
+investment more than tripled between 2016 and
+2018, from 0.5 trillion USD to 2.1 trillion (18.3%
+of all assets under management).
+More recently, a number of other publications
+and events have provided a further tailwind for
+ESG, including the UN's Sustainable
+Development Goals (SDGs), the Paris climate
+conference (COP21), and the Financial Stability
+Board’s (FSB) Task-force on Climate-related
+Financial Disclosures (TCFD).
+ESG investment and fiduciary duty
+One piece of context about the growth of ESG
+investment concerns how it was made possible
+within the framework of fiduciary duty, an
+obligation which most institutional investors
+have to their customers.
+The trigger for this was again the PRI,
+launched in 2006. The PRI puts into writing the
+connection between ESG and fiduciary duty, with
+signatories agreeing that "As institutional
+investors, we have a duty to act in the best longterm interests of our beneficiaries. In this
+fiduciary role, we believe that environmental,
+social, and corporate governance (ESG) issues
+can affect the performance of investment
+portfolios... Therefore, where consistent with
+our fiduciary responsibilities, we commit to the
+[6 principles]."
+The issue has been debated in Europe and the
+US since then in the context of fiduciary duty
+regulations for pension fund operators, and
+although countries differ on some points,
+regulation has at least made it possible for ESG
+to be considered by investors, not to give social
+responsibility preference over investment
+returns, but as a part of ensuring those returns.
+In the case of Japan, in 2014 the Stewardship
+Code was launched as "principles for a wide
+range of institutional investors to appropriately
+discharge their stewardship responsibilities, with
+the aim of promoting sustainable growth of
+investee companies, through constructive
+dialogue with them". The Code states that
+"Institutional investors should monitor investee
+companies so that they can appropriately fulfill
+their stewardship responsibilities with an
+orientation towards the sustainable growth of
+the companies", and that factors for monitoring
+"may include, for example, the investee
+companies’ governance, strategy, performance,
+capital structure, business risks and
+opportunities (including risks and opportunities
+arising from social and environmental matters),
+and how the companies address them."
+The Stewardship Code’s 2020 revision goes
+further, specifying that a part of stewardship
+responsibility is purposeful dialogue with
+companies based on in-depth knowledge of not
+just companies and their business environment,
+but "consideration of sustainability (medium- to
+long-term sustainability including ESG factors)
+consistent with their investment management
+strategies."
+In this way, a growing number of Japanese
+institutional investors now see it as an important
+part of fulfilling their fiduciary duty and
+accountability as investors to consider ESG
+factors when making investment decisions and
+report this process and its results to asset
+owners or beneficiaries.
+
+Inset 1.1: The EU sustainable finance strategy
+The EU is laying foundations to promote sustainable finance at a regulatory level.
+On the topic of reporting of non-financial information, in October 2014 the EU announced the
+"non-financial reporting Directive (2014/95/EU)" which sets out rules on disclosure of non-financial
+and diversity information by large EU-based companies, and was applied from fiscal years beginning
+in 2017. To support this Directive, the EU also released "Guidelines on non-financial reporting" in
+June 2017. Through these, the EU is supporting more consistent and comparable disclosure of nonfinancial information6
+. Guidelines on reporting climate-related information were also added in June
+2019.
+ In addition, to encourage private capital flows into sustainable projects such as those
+combating climate change, in March 2018 the European Commission (EC) launched an "Action plan
+on financing sustainable growth"7
+. A technical expert group was set up to debate the issues, and in
+June 2019 this group published reports on 1) an EU taxonomy (definitions of and a classification
+system for sustainable economic activity in the EU), 2) an EU Green Bond Standard, and 3) sustainable
+benchmarks (stock indices)8
+. The EU taxonomy, currently focusing on climate change mitigation and
+adaptation, is intended to form the basis of EU sustainable finance and will eventually be wired into
+regulations on capital requirements for banks and investment activities, as well as standards for
+financial products and other rules. These new rules are aimed not just at promoting sustainable
+finance, but also attaining the goals of the SDGs and the Paris Agreement (keeping a global
+temperature rise this century well below 2 degrees Celsius above pre-industrial levels)9
+.
+6 European Commission website “Commission guidelines on non-financial reporting”
+<https://ec.europa.eu/info/publications/non-financial-reporting-guidelines_en>
+7 European Commission website “Commission action plan on financing sustainable growth”
+https://ec.europa.eu/info/publications/180308-action-plan-sustainable-growth_en
+8 European Commission website “Technical expert group on sustainable finance (TEG)”
+<https://ec.europa.eu/info/publications/sustainable-finance-technical-expert-group_en>
+9 European Commission website “Sustainable finance: Commission publishes guidelines to improve how firms
+report climate-related information and welcomes three new important reports on climate finance by leading
+experts” <https://europa.eu/rapid/press-release_IP-19-3034_en.htm>
+Investor diversity
+Although "ESG investment" is used as a catchall phrase, in fact it encompasses a range of
+investment strategies, objectives, timelines and
+other factors, all of which require different ESG
+information and use it in different ways. GSIA
+have created the below guide which splits ESG
+investment strategies into 7 types10
+ . According
+to GSIA's statistics, the most practiced strategy in
+Japan is "Corporate engagement and
+shareholder action", followed by "ESG
+integration". In fact, in Japan's case, engagement
+and shareholder action (e.g. exercising voting
+rights) is being seen not just in active investment,
+where investee companies are chosen by
+evaluating each of them according to a specific
+investment strategy, but also in passive
+investment, where investors use a stock index
+such as TOPIX as a benchmark. A trend has been
+seen recently for indices which include ESG
+factors in their calculation methods. With ESG
+investment and its related investment strategies
+spreading, the range of uses for ESG information
+is increasing in turn.
+As for why investors are turning to ESG
+investment, a survey by the Ministry of Economy,
+Trade and Industry 11
+ showed that 97.9% of
+investors surveyed (all those who were
+practicing ESG investment) aimed to "Reduce
+risks", while 87.5% wanted to "Increase returns",
+83.3% said it was to "Contribute to society", and
+20.8% replied "Other".
+With this knowledge about the diversity of
+investors, it is important to look into ESG
+disclosure while thinking about who you are
+disclosing for and what kind of information they
+need.
+
+10 See footnote 5
+11 Ministry of Economy, Trade and Industry (2019) “Questionnaire Survey for Fund Management Organizations on
+ESG Investment” (Japanese only) <https://www.meti.go.jp/press/2019/12/20191224001/20191224001-1.pdf>
+Types of ESG investing
+Source: GSIA (2019) "2018 Global Sustainable Investment Review" (edited)
+13
+
+Inset 1.2: An example of a company valuation using ESG information12
+Asset manager A has created a framework for integrating ESG information into valuations of
+corporate value (ESG integration) by selecting different ESG factors for each sector (e.g. CO2 footprint
+for energy companies, labour standards or product safety for retail companies), and has embedded
+that framework into its fundamental analysis. While A finds it hard to quantify the social and
+environmental risks of holding a stock, it tries to evaluate a company's position and outlook by
+performing a sensitivity analysis to obtain a range of possible fair values.
+This is an example of an ESG analysis that A performed on sports equipment manufacturer X.
+ After years of dialogue with X, A found gradual improvements in the company's risk management
+and labour standards. A was able to then embed these positive changes into its valuation model
+through future cash flows and the discount rate, as below.
+1. A positive impact on future cash flow
+As A believes that there is a positive correlation between revenue and social factors such as
+employee satisfaction, it expects a company with a highly motivated labour force to have a better
+sales performance. To take into account the positive implication on sales and cash flows, A
+increased the market estimates of sales growth by 1% per year.
+2. A positive impact on the long-term discount rate through lower reputational risk
+A considers that a company with good risk management can limit its reputational risk compared
+to its peers. To reflect this positive impact in its company evaluation, A decreased the discount
+rate by 0.5%.
+12 Based on a case study in PRI (2016) ”A PRACTICAL GUIDE TO ESG INTEGRATION FOR EQUITY INVESTING”
+<https://www.unpri.org/listed-equity/a-practical-guide-to-esg-integration-for-equity-investing/10.article>
+Asset manager A’s evaluation of sports equipment maker X
+(factors that affect corporate value)
+14
+
+
+Inset 1.3: The rise of millennials
+ One thing cited as a boost to the growth of ESG investment is the rise of the millennial generation
+(those born between the early 1980s and the mid-1990s). Millennials pay more attention to
+environmental and social issues than previous generations, and they are already well known as
+consumers for choosing products and companies which contribute to solving social issues. By
+extension, there is also evidence showing a high level of interest in ESG investment among
+millennials13, as awareness grows that they can make a difference to issues such as climate change
+and the elimination of poverty through investment choices. Some financial institutions are now
+looking to develop and provide financial products to cater for this trend.
+ Inset 1.4: TCFD and Japan's Green Investment Guidance
+ The E (environmental) of ESG, above all climate change, is gaining attention across the world as a
+vital issue that needs to be acted on. The financial sector is no different. In 2015, seeing a high
+probability that climate change will destabilise financial markets, the Financial Stability Board (FSB)
+set up the Task Force on Climate-related Financial Disclosures (TCFD) to begin debating the impact it
+could have on the sector and the necessary response. The TCFD Recommendations, published in June
+2017, have been taken up by companies and organisations globally, with the number of organisations
+having announced their support at 983 as of January 202014. Of individual countries, Japan has the
+most TCFD supporters, with 228 as of January 2020.
+ In Japan, a "TCFD Consortium" was set up in May 2019 as a platform to discuss how to improve
+the effectiveness of disclosure based on TCFD and how investors can reflect this information in their
+investment decisions. The Guidance for Utilizing Climate-related Information to Promote Green
+Investment (Green Investment Guidance) 15 , which the Consortium released in October 2019,
+contains advice for investors on how to interpret and use disclosed information based on the TCFD
+Recommendations. It can be a useful reference for companies wanting to understand the investor
+point of view.
+13 Morgan Stanley Institute for Sustainable Investing (2017), "Sustainable Signals New Data from the Individual
+Investor" <https://www.morganstanley.com/pub/content/dam/msdotcom/ideas/sustainable-signals/pdf/
+Sustainable_Signals_Whitepaper.pdf>
+14 TCFD website "Supporters" <https://www.fsb-tcfd.org/tcfd-supporters/>
+15 TCFD Consortium (2019) The Guidance for Utilizing Climate-related Information to Promote Green Investment
+("Green Investment Guidance") <https://www.tcfd-consortium.jp/en/news_detail/19100802>
+15
+What investors are asking for
+As ESG investment grows, requests to listed
+companies from investors for ESG disclosure are
+also increasing. In response, listed companies
+are progressing with disclosure, through
+integrated reports, sustainability reports,
+environment reports, etc., as well as through
+more fragmented media such as company
+websites.
+However, there is research suggesting that
+most investors see the current level of ESG
+disclosure as inadequate. A survey by the Life
+Insurance Association of Japan (below) showed
+that while 28% of companies surveyed thought
+that the current level of corporate ESG
+disclosure was adequate, the figure among
+investors was only 1%16
+.
+In the same survey 17
+ , the proportion of
+companies who responded that they
+"Understand" or "Understand to some extent"
+investors' information needs was almost 70%,
+although almost 30% replied that they "Don't
+really understand" or "Don't understand"
+investor needs at all.
+Companies can understand an investor's
+needs and ways of thinking through dialogue
+with that investor, but in reality, investors are
+diverse and it will be hard to understand
+everything just through dialogue. For many
+listed companies, the gap in understanding
+between themselves and investors can be made
+smaller by understanding the many existing
+frameworks, which reflect the voices of
+investors.
+16 The Life Insurance Association of Japan (2019) "Initiatives by Life Insurers to Reinvigorate the Equity
+Market and Achieve a Sustainable Society through Asset Management"
+〈https://www.seiho.or.jp/info/news/2019/pdf/20190419_3-5.pdf〉
+17 The Life Insurance Association of Japan (2019) "Initiatives by Life Insurers to Reinvigorate the Equity
+Market and Achieve a Sustainable Society through Asset Management" (Japanese only)
+〈https://www.seiho.or.jp/info/news/2019/pdf/20190419_3-all.pdf〉
+Is the current level of corporate ESG disclosure adequate?
+Source: The Life Insurance Association of Japan (2019) "Initiatives by Life Insurers to Reinvigorate the Equity
+Market and Achieve a Sustainable Society through Asset Management" (edited)
+16
+
+Inset 1.5: A letter to the world's CEOs from BlackRock
+Every year Larry Fink, CEO of the world's biggest institutional asset manager BlackRock, sends a
+letter addressed to the world's CEOs. This letter has mentioned sustainability since 2016, and in 2020,
+entitled "A Fundamental Reshaping of Finance", it warned that climate change is a financial risk that
+could shake the stability of economic growth and the financial system, and called for governments,
+companies and shareholders to work together to fight it.
+ The 2020 letter also asked companies for disclosure based on the SASB Standards and the TCFD
+Recommendations, stressing that companies need to disclose so that investors can ascertain whether
+they are properly managing sustainability risks and opportunities.
+ Larry Fink's letter to CEOs is available on the BlackRock website.
+https://www.blackrock.com/corporate/investor-relations/larry-fink-ceo-letter
+ESG in the Corporate Governance
+Code
+The Japanese Corporate Governance Code
+sets out the main principles of effective
+corporate governance. It is expected that
+implementing effective corporate governance
+will contribute to the sustainable growth and
+corporate value creation of each company
+through self-motivated actions, as well as
+improving these things further through
+dialogue with investors.
+The Code looks in general from the point of
+view of investors and other stakeholders, so
+although the General Principles deal with G
+(governance) as a framework for making
+transparent and fair but also fast and decisive
+decisions, the Code also mentions E
+(environment) and S (social) issues in the
+context of good governance. Principle 2.3 states
+that "Companies should take appropriate
+measures to address sustainability issues,
+including social and environmental matters",
+while supplementary principle 2.3.1 adds,
+"With the recognition that dealing with
+sustainability issues is an important element of
+risk management, the board should take
+appropriate actions to this end. Given the
+increasing demand and interest with respect to
+sustainability issues in recent years, the board
+should consider addressing these matters
+positively and proactively."
+On the theme of ESG disclosure, the Notes for
+General Principle 3 state that "while the
+quantitative part of financial statements of
+Japanese companies conform to a standard
+format and therefore excel with respect to
+comparability, qualitative and non-financial
+information, such as financial standing,
+business strategies, risks and ESG
+(environmental, social and governance) matters,
+17
+is often boiler-plate and lacking in detail,
+therefore less valuable. The board should
+actively commit to ensure that disclosed
+information, including non-financial
+information, is as valuable and useful as
+possible."
+ESG issues and your business
+As previously discussed, there is a growing
+number of investors who acknowledge that a
+company’s actions on ESG issues affect its
+sustainability and corporate value. Use of ESG
+information in the investment industry is also
+progressing. The Ministry of Economy, Trade
+and Industry’s Guidance for Collaborative Value
+Creation discusses ESG as a part of a company's
+sustainability and sustainable growth, which
+joins together its values, business model,
+strategy etc. – in this way, ESG issues are not
+only relevant to one part of a company's
+operations, but to the entire process of value
+creation. The next Step introduces processes
+that can be used when thinking about which
+ESG issues are most relevant to your company's
+business.
+18
+Sections
+2-1 ESG and its impact on strategy
+2-2 Identifying what is “material”
+ ”Materiality” and ESG
+ Why materiality is important
+ Making a material issues longlist
+ Evaluating the importance of ESG issues
+ Material issues and strategy
+As ESG issues are diverse and wide-ranging, working on every ESG issue that connects even lightly
+with a company's business would be a huge undertaking. As a result, it is important that in order to
+improve sustainability and aim for better corporate value, each company identifies the ESG issues
+which have strong links to their strategy and moves forward focusing on those. From an investor
+perspective, when evaluating a company's mid- to long-term prospects, it is useful if the ESG issues
+which the company has judged as important from a mid- to long-term corporate value creation and
+sustainability perspective, and the company's activities in response to those, are explained with
+reference to their link to corporate value.
+ There is no universally agreed system for identifying the important ESG issues to a company, but
+one suggested way to start is to look into what risks and opportunities ESG issues can provide in terms
+of the company's business model and strategy. This Step introduces some points to think about when
+looking into the connection between ESG issues and your company's business model/strategy, along
+with actual examples of how this can be done.
+ Section 1 (ESG and its impact on strategy) and Section 2 (Identifying what is "material") of this Step
+have many mutual links to each other in practice and there may be some elements which are hard to
+clearly separate. Consequently, companies should consider implementing the main points set out
+here in whatever order and with whatever processes work for them in particular depending on their
+circumstances.
+Step 2: Connecting ESG Issues to Strategy
+19
+Related sections of existing frameworks
+ SSE Model Guidance (2.2.1 Supporting corporate strategy; 2.3 Relevance and Materiality; 2.3.1
+Identifying themes)
+ GRI Standards (101: Foundation > 1. Reporting Principles > 1.1 Stakeholder Inclusiveness; 1.2
+Sustainability Context; 1.3 Materiality; 2.3 Identifying material topics and their Boundaries)
+ IIRC Framework (Part II – The Integrated Report > 3. Guiding Principles; 4. Content Elements)
+ TCFD Recommendations (B Climate-Related Risks, Opportunities, and Financial Impacts; C
+Recommendations and Guidance > 3. Guidance for All Sectors > b. Strategy, c. Risk Management)
+ WFE ESG Guidance (Guidelines for Report Preparation > Clarity of purpose/clear link to business
+value; Materiality)
+ METI, Guidance for Collaborative Value Creation (2. Business Model; 3. Sustainability/Growth;
+4. Strategy)
+ SASB Standards (by sector)
+20
+2-1 ESG and its impact on strategy
+ESG issues can have an impact on a company's business model or strategy as either, to put it
+broadly, a risk or an opportunity. (A risk, for example, could be that a new regulation stops you from
+providing a certain product or service. An opportunity could be that a newly developed technology
+enables you to break into a new market.) Taking this into account, the first step for considering which
+ESG issues could impact your company strategy is to analyse possible impacts on the company
+through the prism of risks and opportunities.
+From the disclosure perspective, investors trying to judge corporate value will find it useful to
+have ESG issues which the company has identified as important introduced along with an explanation
+of what kind of initiatives on risk management and revenue-making opportunities the company has
+included in their strategy in relation to those issues. Ideally, disclosure should include information
+enabling investors to calculate financial returns, such as how cashflow will rise or fall in the future,
+how much the discount rate will change after risks are dealt with, or how much your asset
+composition or value, etc. will be impacted. However, even if this is difficult, qualitative information
+or any way you can explain the link to corporate value is important.
+As company strategies will differ depending on size, sector, geography, and other things, the
+points to take into account when thinking about the impact of ESG issues on strategy will also differ
+from company to company. This section introduces some points based on actual cases of disclosure.
+ESG and company values
+Identify ESG issues that have an impact on your
+activities based around company values, such as
+the company philosophy or vision.
+ESG and business models
+Identify the connection between ESG issues and
+your business model from a corporate value
+creation perspective. Work out what kind of ESG
+issues will impact, and how they will impact, the
+factors that make up your business model, for
+example your place within the value chain, or
+the factors which differentiate you from the
+competition and the resources which enable
+those factors.
+ESG and business/asset portfolios
+Analyse the impact ESG issues could have on
+your individual businesses or assets and look
+into how these could be handled. For example,
+consider the impact a change in the regulatory
+environment could have on the operations or
+value of each asset you hold, and identify the
+necessary response.
+ESG and operations/supply chains
+Identify what kind of ESG issues could impact
+your operations from the standpoint of
+ensuring an uninterrupted supply of resources,
+etc., and analyse your entire supply chain to
+identify possible impacts in the mid to long term
+21
+and how these could be handled.
+ESG and research development
+Identify what kind of research development and
+human resources training you can put in place
+to maintain or strengthen your competitiveness
+in case of a large expected risk or opportunity
+stemming from ESG issues. When doing this,
+think about whether that kind of investment
+will be supported by investors and other
+stakeholders.
+ESG and products/services
+Identify whether any ESG risks or business
+opportunities could apply to your current
+products and/or services.
+ESG and markets/customers
+Consider the possibility that wider concern
+about ESG issues could cause shifts in the
+choices, values, and lifestyle, etc. of the markets
+and/or customers that you target. If this is the
+case, identify how this will affect your company
+and what you can do to handle those impacts.
+22
+
+Examples 2.1: How companies disclose the relationship between ESG issues and strategy
+ESG and company values
+Firm A: Global consumer goods manufacturer
+Firm A is a consumer goods manufacturer with operations around the globe. Its purpose is "To make
+sustainable living commonplace", and under this it aims to deliver long-term growth and sustainable
+value creation. With the knowledge that growth and sustainability complement each other, it has
+created and disclosed a sustainability plan covering all aspects of the business and value chain and
+incorporating all brands and divisions. The three aims of the plan are: 1) Improving health and wellbeing, 2) Reducing environmental impact, and 3) Enhancing livelihoods, and for each one A has
+identified the business areas necessary for achievement. In addition, A has split the ways that
+sustainability is contributing to the business into a) more growth, b) less risk, c) lower cost, and d)
+more trust, and explains these with specific examples.
+ESG and business/asset portfolios
+Firm B: Global energy provider
+Global energy provider B has built a business model which integrates the management of financial
+and non-financial risks and opportunities. Under this model, it has created a strategy to take the best
+opportunities arising from the transition to a low-carbon economy, and to achieve this, it has set a
+target to entirely decarbonise the energy it supplies by 2050, and has invested widely in wind farms
+and solar power plants across the world.
+ESG and operations/supply chains
+Firm C: Global electrical goods manufacturer
+Firm C sells and supplies electrical goods globally and its supply chain is equally huge and wideranging, meaning that it takes supply chain management seriously. C carries out regular assessments
+of its suppliers, including their staff education programs, attitude towards human rights, and climate
+change activities, and works with them to ensure improvements where needed. If improvements are
+not made, it ends its relationship with that supplier. C discloses information on its supply chain
+policies and supplier assessments in a standalone annual report on supplier responsibility.
+23
+ESG and research development
+Firm D: Global consumable goods manufacturer
+Firm D is a food and drinks company with global operations. D believes that business benefits and
+positive societal impact must be mutually reinforcing, and that thinking about shared value in this
+way is in the long-term interests of all stakeholders. With this in mind, D has set a goal of making all
+food and drinks packaging recyclable, and as part of achieving this, has founded a research
+consortium along with other members of the industry with the goal of developing packaging made
+with 100% sustainable and renewable resources. The consortium is planning to build a factory
+capable of producing the packaging they develop.
+ESG and products/services
+Firm E: Global car manufacturer
+Firm E is a car manufacturer with global reach. Under the belief that there is no future for cars unless
+the company respondsto environmental issuessuch as climate change, in order to ensure sustainable
+development together with society, E has set itself a number of challenges to complete by 2030 and
+2050. One of these is to reduce global average CO2 emissions from new vehicles by more than 35%
+by 2030 and 90% by 2050. To achieve this, E intends to hugely increase sales of electric and hybrid
+vehicles.
+24
+2-2 Identifying what is "material"
+In the field of ESG investment, important ESG issues which impact a company's strategy or
+corporate value are referred to as "material". The process of identifying which issues are material is
+often called "materiality analysis" and many companies disclose this information publicly.
+In many cases, companies use existing ESG disclosure frameworks and other things to make a list
+of the ESG issues that could possibly have an impact on their corporate value, and then narrow the
+list down by evaluating their importance in the context of, for example, their company values,
+business model, strategy, and impact on stakeholders. The IIRC Framework explains a similar process
+to this in section 3D, "Materiality", which is a good reference to use when providing information to
+shareholders and other stakeholders.
+This section introduces some points to think about when identifying material issues. As materiality
+will differ from company to company, there is no set way to do this, but the points below are based
+on actual cases of disclosure and may be helpful during the process.
+"Materiality" and ESG
+The word "material" is a general term used
+to mean essential or vital, but it has a specific
+meaning in the context of financial information.
+The International Accounting Standards Board
+(IASB) states that "Information is material if
+omitting, misstating or obscuring it could
+reasonably be expected to influence the
+decisions that the primary users of general
+purpose financial statements make on the basis
+of those financial statements, which provide
+financial information about a specific reporting
+entity
+18
+ . Similarly, the Japanese Financial
+Services Agency (JFSA) writes in their Principles
+Regarding the Disclosure of Narrative
+Information that "The materiality of narrative
+information should be judged based on
+18 IFRS website “IASB clarifies its definition of 'material'” <https://www.ifrs.org/news-and-events/2018/10/iasbclarifies-its-definition-of-material/>
+19 Japan Financial Services Agency (2019) “Principles Regarding the Disclosure of Narrative Information”
+<https://www.fsa.go.jp/en/news/2019/20190606-3/01.pdf>
+whether or not it is material to investors’
+investment decisions."19
+Materiality is also an important concept in
+the field of ESG disclosure, and existing
+frameworks have set out their own definitions
+or ways of thinking about materiality based on
+their own policies. In Japan, the Guidance for
+Collaborative Value Creation writes that "For
+investors, it is important to understand how
+companies understand the materiality of ESG
+factors to the sustainability of their business
+models."
+Overseas, the IIRC, which mostly relates to
+disclosure aimed at investors, defines material
+information as "matters that substantively
+affect the organization’s ability to create value
+over the short, medium and long term". The GRI
+Standards, which think more about information
+25
+aimed at multiple stakeholders including
+investors, defines it as "topics that reflect the
+reporting organization's significant economic,
+environmental, and social impacts; or
+substantively influence the assessments and
+decisions of stakeholders."
+It is important that each company thinks
+about these different definitions of materiality
+and decides on one to use depending on the
+specific aims, audience, or other circumstances
+of their disclosure.
+Why materiality is important
+The range of ESG issues that can relate to
+business operations is huge, but what is
+relevant to each company differs depending on
+things such as their industry, geography,
+business model, strategy, and business
+environment. While it can be said that many
+issues relating to G (governance) are common
+to all companies, E (environment) and S (social)
+issues vary massively depending on the
+company or sector.
+In order to efficiently allocate limited
+resources to maximising the sustainability of
+your business operations in order to improve
+corporate value, it is important to identify which
+issues are material, i.e. have a strong
+connection to your corporate value, and decide
+on measures to respond to these in particular.
+ From a disclosure perspective, investors
+trying to evaluate a company's mid- to longterm corporate value or the sustainability of its
+operations will find it very useful to have
+disclosure of which ESG issues said company has
+judged as material to its corporate value, along
+with information on the company's activities in
+response to these. For example, it is useful to
+explain which measures in response to ESG
+issues will be important to ensure the company
+meets its mid- to long-term financial targets
+(such as ROE or future cashflow).
+26
+ The level of contribution to society’s sustainability
+The level of impact on long-term growth of the company
+Support “good health and
+longevity”
+Work toward realization of
+“leaving no one behind”
+Create mobility society
+without accidents
+Deal with new risks
+Contribute to climate change mitigation and adaptation
+Strive for
+resilient
+community
+development
+Strive to improve sustainability of
+natural capital
+ Example 2.2: Materiality analysis from Japanese financial firm "F"
+Firm F's mission is "To contribute to the development of a vibrant society and help secure a sound
+future for the planet, by enabling safety and peace of mind through the global insurance and
+financial services business." Under this mission, F identifies social issues to which it will have to
+respond in the mid to long term, taking into account the possibility of drastic societal change. Then,
+in order to contribute to solving those issues and create a "resilient and sustainable society" by
+2030, using the SDGs as leading marks, the company picks out priority issues which it will work on
+as challenges for Creating Shared Value (CSV, for both society and the company).
+Step 1: Analysis of social issues
+The company identifies social issues (below) to which it can make a significant contribution, based
+on input from stakeholders (customers, shareholders, business partners, the environment, local
+society, international society, employees, and agencies), as well as international frameworks and
+their goals.
+Step 2: Identification of priority issues
+The company identifies priority issues (for CSV) by analysing the social issues based on whether the
+company can make a significant contribution and whether they have a major impact on the
+company's long-term growth, for each area of economy, society, and organisational governance.
+Step 3: Identifying core initiatives to underpin priority issues
+The company decides on core initiatives to respond to each priority issue.
+Step 4: Reporting to the management team
+The identified core initiatives are reported to the management team and reflected in the mediumterm management plan.
+1. Diversified/large-scale
+accidents and/or disasters
+2. Global environment
+approaches the limit
+3. Mounting burden of
+nursing/medical care due to
+aging population
+4. Economic slowdown by
+widening inequality
+Firm F's priority issues
+27
+
+ Example 2.3: Materiality analysis from Japanese pharmaceutical firm "G"
+Firm G has concluded that in order to sustainably maximise corporate value for the satisfaction of
+all stakeholders, it is efficient to focus on long-term investors as they are the beneficiaries of
+residual income. With the long-term interests of all stakeholders taken into account, G identifies
+material issues with the belief that finding which issues relate to long-term investor interests and
+prioritising action on these is a fast-track way to maximise corporate value.
+Process 1: Identification of issues
+G picks out a range of issues with reference to various frameworks (SASB, GRI, SDGs),
+communication with stakeholders, and metrics used for evaluation of socially responsible
+investment.
+Process 2: Prioritisation of issues and creation of materiality matrix
+The company then creates a matrix (below) to decide on the order of priority of each issue
+depending on its "impact on the company's business" including impact on finances and the
+corporate philosophy, and its "interest to long-term investors" including its financial reporting,
+opportunities to create innovation, and the impact of legal restrictions, etc.
+Process 3: Reviews and updates
+The company carries out reviews and updates where needed, taking into consideration the progress
+of activity in response to the issues and changes in the business environment.
+Firm G's materiality matrix
+• Initiatives against counterfeit
+drugs
+• Business with consideration for
+the global environment
+(reduction of CO2 emissions,
+waste reduction, efficient use of
+water resources)
+• Promoting diversity
+• Supporting employee health and
+safety management
+• Prevention of bribery and
+corruption
+• Information disclosure
+• Promotion based on compliance
+• Quality assurance and stable
+supply
+• Improving access to medicines
+• Offering solutions that go beyond
+providing pharmaceuticals
+• Provision of opportunities to
+develop careers and talent for
+employees
+• Creating innovative medicines
+• Safety management for products
+• Corporate governance system
+• Compliance and risk
+management
+• Financial strategy
+• Ethical and transparent drug
+creation activities
+• Protection and reinforcement of
+intellectual property
+• Appropriate pricing Interest to long-term investors Very high High High Impact on the company’s business Very high
+28
+Making a material issues longlist
+If we look at existing company disclosure on materiality, there are a number of examples of
+companies identifying material issues by first making a wide-ranging list of ESG issues from
+international disclosure frameworks and analysis of their business environment, before narrowing
+the list down to the most relevant material issues by evaluating each issue's importance.
+If resources are limited and you find it difficult to make a longlist of ESG issues from scratch, the
+below stages of the process are not essential, but creating a list of possible issues using existing
+frameworks can enable you to find material issues which may otherwise have been missed with
+discussions and viewpoints limited to within the company or to certain timeframes.
+Analysis of business environment
+A good first stage of looking into what ESG
+issues may affect your corporate value or
+sustainability is to analyse long-term changes in
+the environment in which you do business.
+Useful references for this can be found in
+reports and other publications from
+governments, international organisations, think
+tanks and the like, both inside and outside of
+Japan, such as the World Economic Forum's
+publicly available Global Risks Report20
+.
+Using existing frameworks
+As preparation for identifying material ESG
+issues, the companies in the previous pages'
+examples made longlists of possible material
+issues partly by referring to existing frameworks.
+Two examples of frameworks which can be
+useful in this way are the SASB Standards and
+the GRI Standards.
+In addition, more companies have recently
+begun referring to the 17 Goals and 169 Targets
+that make up the SDGs in their disclosures.
+20 The Global Risks Report can be accessed from the World Economic Forum website at
+<https://jp.weforum.org/reports>
+Using ESG rating agency surveys
+Companies which research on ESG issues and
+provide company ESG ratings (see page 43) are
+referred to as ESG ratings agencies. In the
+process of providing these ratings, such
+agencies carry out surveys on listed companies
+which focus on specific disclosure contents and
+specific ESG activities chosen from the full range
+of ESG issues depending on investor interest.
+Although the surveys do not target all
+companies and not all research contents or
+methods are disclosed, agencies edit their
+chosen issues year-to-year depending on
+external changes and investor movements, so
+they can be used as a reference while narrowing
+down your material issues.
+Dialogue with stakeholders
+Candidates for ESG issues can also be found by
+conducting interviews with stakeholders
+(investors, employees, trading partners,
+customers, experts, etc.) to find out what is
+important to them and what they expect of your
+company.
+29
+The sector-based approach
+The material issues longlist will as a rule differ
+depending on business models and lines of
+business, etc., but for analysis of the business
+environment, which is particularly important to
+ESG, it can be said that many issues will be
+common to a sector. The sector-based approach
+is also important since many investors will be
+deciding on investments by comparing
+companies from one sector across the globe.
+Some existing frameworks provide lists of
+material issues which are common, to an extent,
+to specific sectors. For example, SASB has set
+specific disclosure points and targets for 77
+separate sectors to encourage disclosure useful
+for investment decisions.
+If your company finds it difficult to identify
+material issues by making a longlist from scratch,
+one alternative could be to use an existing
+sector-based list as a foundation.
+30
+Evaluating the importance of ESG issues
+After a material issues longlist is created, it will need to be narrowed down by evaluating how
+each issue links to corporate value. There is no set way to evaluate the importance of each issue, but
+below are some points to consider based on actual cases of disclosure.
+Setting evaluation factors
+Once you have made a longlist, you will need to
+find some kind of method of evaluating each
+issue's importance in order to find which are
+material. In the previous pages' examples,
+companies evaluated each issue using factors
+such as "Importance to the company" and
+"Importance to stakeholders".
+Evaluating issues in practice
+Once you have chosen factors, you will then
+need to evaluate the importance of each issue
+using those factors. Below are some points to
+consider when doing this.
+1. Importance to the company
+The importance of an issue to a company is
+essentially how it links to the company's
+sustainability and mid- to long-term corporate
+value, but to judge this, many companies
+identify the issue's connection to their company
+philosophy or values, and analyse what kind of
+risks it poses/opportunities it presents to the
+company's strategy or each business, as well as
+the impact of those and how often they could
+occur.
+2. Importance to stakeholders
+The importance of an issue to a company's
+stakeholders can be used as an evaluation factor,
+but only if the company has decided who its
+stakeholders are. For example, when thinking
+from a perspective of linking ESG activities to
+mid- to long-term corporate value creation,
+your main stakeholders may be long-term
+investors, but may also include customers,
+employees, possibly even international
+organisations, NGOs or the local community.
+There are cases of companies sending out
+surveys to their stakeholders in order to
+evaluate or measure what is important to them,
+and also companies conducting interviews with
+experts in ESG issues who can speak on behalf
+of multiple stakeholders.
+Timeframes
+There may be ESG issues which present risks
+and opportunities to a company in different
+ways depending on the timeframe. For example,
+thinking about the effects of climate change, it
+is likely that the impact on your company and
+the actions you take in response will be different
+in 20-30 years as opposed to 2-3 years. As a
+result, when evaluating the importance of ESG
+issues, it is important to think about what
+timeframe(s) to focus on.
+Involvement from the top
+Companies may wish for the company's
+executive officers and/or the Board of Directors,
+etc. to be involved in making the final decisions
+over what is material.
+31
+Material issues and strategy
+In order for a company's responses to material issues to lead to improved corporate value, it is
+important that the chosen material issues are reflected in company strategy or strategies for
+individual business lines. In addition, when it comes to moving forward with ESG activities, it is
+important to create a policy and/or action plan to guide these activities in line with those strategies.
+Reflecting material issues in company
+strategy
+In order for the material issues you have
+identified to contribute to corporate value, it is
+important to reflect them in your company
+strategy or objectives and work from there.
+Then, it is important for investors that this is
+explained in an integrated report or other
+material. There are examples of companies
+using their integrated report to explain the
+connection between material issues and their
+mid-term management plan or how the
+company intendsto look in the mid to long term,
+and even companies referring to materiality in
+their top message.
+Creating an ESG policy/action plan
+When looking to move forward with ESG
+activities in response to your chosen material
+issues, it is important to create a policy and/or
+action plan to guide those activities. This
+policy/action plan can be developed based on
+the company's business environment, its ideal
+future vision and how it plans to achieve that,
+and available resources.
+32
+In order for a company to link its chosen material ESG issues with corporate value creation, it is
+important that activity in response to those issues is carried out as an organisation, and that said
+organisation has a suitable and well-functioning governance system in place. Furthermore, by
+disclosing information about the governance system, companies can enable investors to understand
+how the activities that formed the basis of their investment decisions are actually contributing to the
+company's sustainability and corporate value creation.
+Related sections of existing frameworks
+ SSE Model Guidance (2.1 Responsibility and Oversight; 2.3.2 Adopting relevant performance
+indicators; 2.5.1 Robust internal ESG data collection and management processes)
+ GRI Standards (101: Foundation; 102: General Disclosures; 103: Management Approach)
+ IIRC Framework (Part II – The Integrated Report > 4. Content Elements)
+ TCFD Recommendations (C Recommendations and Guidance > 3. Guidance for All Sectors > a.
+Governance; d. Metrics and Targets)
+ WFE ESG Guidance (Guidelines for report preparation > Governance/Responsibility and
+oversight)
+ METI, Guidance for Collaborative Value Creation (5. Performance and Key Performance
+Indicators (KPIs); 6. Governance)
+ SASB Standards (by sector)
+Step 3: Oversight & Implementation
+Sections
+3-1 ESG in the decision-making process
+ Commitment from the top
+ Governance
+3-2 Setting metrics and targets
+ Setting metrics
+ Setting targets
+ Carrying out a PDCA
+33
+3-1 ESG in the decision-making process
+ To begin activities in response to chosen material ESG issues and connect these to corporate value
+creation, it is important to incorporate them into the structure of the company's decision-making
+process as you would with other management issues. To do this, commitment from the top of the
+organisation and a suitable governance system are essential.
+Commitment from the top
+In order to respond to ESG issues from the
+perspective of corporate value creation, it is
+important that the top-level management of
+your organisation is involved and takes
+responsibility. To show that management have
+taken responsibility in a way useful to investors,
+you could disclose for example a map of
+allocations of responsibility for ESG issues, the
+process for sharing information internally with
+management, and/or how you monitor ESG
+issues on an ongoing basis21
+.
+Governance
+Each company should put in place a
+governance system for ESG issues which fits to
+that company, based on existing
+management/governance systems. Most
+importantly, however, identification of and
+discussions on ESG issues should, like other
+governance issues, take place within the
+decision-making and oversight function, i.e. the
+board of directors, and include outside directors.
+If the company has a separate executive
+board in charge of day-to-day operations below
+the board of director or top management level,
+21 One of TCFD's Recommended Disclosures is to "Describe management’s role in assessing and managing climaterelated risks and opportunities." (The TCFD Recommendations: <https://www.fsb-tcfd.org/wpcontent/uploads/2017/06/FINAL-2017-TCFD-Report-11052018.pdf> )
+including ESG issues in this board's
+responsibilities in the same way as other issues
+will further link ESG issues to the company
+strategy.
+The function of the board of directors
+The board of directors is responsible for
+oversight of whether the response to ESG issues
+is being suitably carried out, and whether this is
+leading to corporate value creation. For this to
+happen, it is important that there is a process
+for reporting to the board, and that ESG issues
+are included as part of discussions on strategy,
+risk management, and business planning, etc.
+The board should also monitor and oversee
+progress towards targets related to ESG
+activities.
+Implementation (allocating a responsible
+department)
+For implementation of your company's
+response to ESG issues, to support the above
+governance system, you could either allocate a
+responsible department within the existing
+structure, or create a new designated unit
+which can co-ordinate ESG issues across
+departments. In either case, it is important that
+34
+the response to ESG issues is not carried out
+independently by the responsible department,
+but by the entire company. The responsible
+department could have the following
+responsibilities:
+ Gathering/understanding information on
+changes in the business environment:
+Activity in response to ESG issues should
+be carried out with a mid- to long-term
+perspective, but it also can be expected
+that the issues themselves or their
+importance will shift over time in response
+to external changes. The responsible
+department for ESG will need to gather
+and understand information on these
+changes so that your company's material
+issues can be reviewed regularly.
+ Co-ordinating across departments: As
+activity in response to ESG issues does not
+always fall neatly within the
+responsibilities of existing departments,
+often requiring company-wide cooperation, the responsible department for
+ESG can be expected to help the smooth
+running of these projects by co-ordinating
+across departments.
+ Reporting to the board of
+directors/executive boards: The
+responsible department for ESG should
+report to the board of directors and/or
+other executive boards on analysis of ESG
+issues and progress of ESG activities, etc.
+ External engagement: The responsible
+department for ESG should respond to
+investor enquiries on ESG and surveys from
+ESG ratings agencies and should
+communicate with international
+organisations, NGOs and others as
+necessary.
+ Spreading awareness within the company:
+To move forward on ESG activities as an
+organisation, it is important that your
+material ESG issues and their connection
+to corporate value and strategy, etc. is
+understood throughout the company. The
+responsible department for ESG could be
+in charge of encouraging awareness
+through creating opportunities for debate
+or learning for all employees, starting
+maybe with just general ESG issues and the
+external environment.
+35
+
+Example 3.1: The sustainability management structure of Japanese manufacturing firm "H"
+Firm H aims to contribute to the creation of a sustainable society and enhance corporate value,
+by solving social issues through its business activities under the company philosophy.
+The company identifies material issues using two factors: social issues that need to be solved
+within the company's business areas, and issues that meet the expectations of stakeholders by
+strengthening business foundations. It then sets targets related to these issues. In addition, the
+company has set up a company-wide management structure in order to achieve these targets, and
+has made steady progress in solving individual issues through Sustainability Promotion Committee
+and Executive Council discussions, as well as engagement activities in response to stakeholder
+evaluations. The Board of Directors receives reports from operating divisions, enabling it to
+supervise and oversee all sustainability-related activity.
+The sustainability management structure of firm H
+36
+3-2 Setting metrics and targets
+To make sure that activities in response to material issues actually lead to corporate value creation,
+where possible it is useful to set suitable metrics to measure progress by in line with the company's
+strategy or ESG policy/action plan. In this case, suitable metrics should be set based on where and in
+what way the chosen material issues will affect the company's business. It is also good to set targets
+where possible.
+However, for those just starting out with ESG disclosure, the setting of metrics and targets is
+perhaps more difficult to implement than the other processes in this Handbook. In this case, it may
+be advisable to begin disclosing the other points with a view to finding suitable metrics and targets
+later on through dialogue with investors, etc.
+Setting metrics
+When beginning activities in response to
+material issues, it is useful to make clear your
+ideal future vision for the company and how you
+intend to achieve it, and set metrics for each
+issue to manage your progress. These metrics
+may be qualitative or quantitative, but either
+way they should be suitable for your company
+based on your chosen material issues. While
+these metrics can be unique to your company, it
+is also possible to use metrics set out in existing
+frameworks, as these take into account the
+views of shareholders and enable easier
+comparison between companies. For example,
+SASB (p39), GRI (p40) and the World Federation
+of Exchanges (WFE, the below table) have all
+published possible metrics.
+Setting targets
+It is also recommended to add targets to
+these metrics where suitable and disclose them.
+When deciding on these, it is important to think
+about what you need to aim for/achieve in the
+short and mid term in order to achieve your
+long-term vision or goals. It is also useful when
+deciding targets to involve the businesses or
+departments which will actually carry out the
+related activities.
+ In terms of how to set specific targets, each
+company should use a process suitable for their
+circumstances, but in general there are two
+possible processes:
+ Calculate future predictions by looking at
+past achievements and set targets based
+on those.
+ Look at targets set by domestic or overseas
+organisations or governments on
+environmental and social issues and set
+targets in reference to those.
+The second of these is referred to as
+"backcasting" and is endorsed by the TCFD
+Recommendations (for climate change targets)
+and others.
+37
+Carrying out a PDCA
+As well as incorporating chosen material
+issues into strategy and activities, companies
+should make sure that each project is properly
+moving forward by implementing a PDCA (plando-check-act) cycle. Like for other management
+issues, a PDCA will involve evaluations of the
+progress of a project and progress towards
+related metrics and targets, and if problems are
+found, improvements to the project and
+reviews of the metrics and targets. In the case
+of material ESG issues, many companies also
+take into account changes in the external
+environment and review the material issues
+and/or their importance accordingly.
+WFE’s ESG metrics
+Based on WFE (2018) "WFE ESG Revised Metrics June 2018". See page 67-68 for more details
+38
+
+Raise the number of healthy
+people, lower the number of
+sick people, and contribute to
+the people who are involved in
+healthcare
+Health and well-being
+Create more opportunities for
+customers to spend time with
+their families and friends, and
+develop the communities within
+our supply chain
+Community engagement
+Realise a society based on
+100% resource circulation by
+2050
+The environment
+Example 3.2: Materiality and targets of Japanese consumable goods maker "I"
+Firm I has identified "Health and well-being", "Community engagement" and "The
+environment" as key social issues among the social issues that affect the company. To face these
+issues, the company has formulated a Purpose (a long-term management vision) to guide how it
+creates shared value with society and promotes sustainable growth. It has then created and
+disclosed non-financial targets necessary to achieve its ideal future vision, based on this Purpose..
+Firm I's material issues, commitments and targets Impact on social sustainability
+Impact on the company’s business
+Sustainable
+supply chain
+Safety and
+security of
+products
+Health
+and wellbeing
+Human
+rights
+The
+environ ment
+Community
+engagement
+Human
+resources and
+corporate
+culture
+Corporate
+governance
+39
+Metrics recommended by existing frameworks -1-
+Sustainability Accounting Standards Board (SASB) (see pages 60-61 for more details on SASB)
+With the aim of contributing to the decision-making process of mid- to long-term focused
+investors, SASB has set disclosure standards for ESG issues that it identifies as reasonably likely to
+have material impacts on companies in an industry, and published standards for 77 industries within
+11 sectors in November 2018. The SASB Standards are available for download from the website below
+(currently available only in English).
+https://www.sasb.org/standards-overview/download-current-standards/
+ Intended to help analyse a company's sustainability, the SASB Standards are based on 26 "General
+Issue Categories" organised under five "Dimensions", as shown below.
+ Disclosure Topics and Accounting Metrics are then set for each of the General Issues judged to be
+material for each particular industry, and set out in detail in the Standards. Disclosure Topics and
+Accounting Metrics for each sector/industry can also be found in the SASB Materiality Map, which is
+available on the website: https://materiality.sasb.org/.
+Disclosure Topics and Accounting Metrics as shown in the SASB Materiality Map
+40
+Metrics recommended by existing frameworks -2-
+Global Reporting Initiative (GRI) (see pages 65-66 for more details on GRI)
+GRI created its Standards including specific data points for disclosure as “the global best practice
+for reporting on a range of economic, environmental and social impacts”. The Standards are available
+from the below website, in both English and Japanese.
+https://www.globalreporting.org/standards/gri-standards-download-center/
+ As listed below, the GRI Standards are made up of "Universal Standards" (101, 102, and 103) and
+"Topic-specific Standards" (200 series, 300 series, and 400 series). Issues for creating metrics are set
+out in each topic-specific series.
+-GRI 101: Foundation - a guide to how to use the GRI Standards
+-GRI 102: General Disclosures - reporting an organisation's relevant contextual information
+-GRI 103: Management Approach - reporting how material topics are managed
+-GRI 200, 300, 400 series – data points for reporting information on an organisation's
+economic, environmental, and social impact.
+Overview of the GRI Standards Example page from a and an etopic xample -specific page from a GRI Standards topic-specific GRI Standard
+Source: GRI (2016) "GRI Standards"
+41
+42
+Sections
+4-1 Organising disclosure contents
+ The link to corporate value
+ Investor information sources
+4-2 Using existing frameworks
+ Information disclosure frameworks
+4-3 Further points for consideration
+ Platforms for disclosure
+ English disclosure
+ Third-party assurance of ESG data
+4-4 Two-way engagement with investors
+ ”Purposeful dialogue”
+ Other types of engagement
+When disclosing risks and opportunities stemming from a company's material ESG issues, it is
+important to disclose their relationship to strategy as well as corporate value, the oversight and
+implementation structures put in place to support this, and the progress of ESG activities. This will
+help investors to evaluate the company's mid- to long-term corporate value. In addition, carrying out
+engagement with investors based on this disclosed information will lead to deeper understanding
+from both sides, and help to move forward activities aimed at improving mid- to long-term corporate
+value.
+Related sections of existing frameworks
+ SSE Model Guidance (2.4 Accessibility, 2.5.2 Engaging for continuous improvement, 2.5.3
+Assessment and assurance)
+ GRI Standards (101: Foundation; 102: General Disclosures; 103: Management Approach)
+ IIRC Framework (Part II – The Integrated Report > 3. Guiding Principles; 4. Content Elements)
+ TCFD Recommendations (C Recommendations and Guidance > 1. Overview of
+Recommendations and Guidance; 2. Implementing the Recommendations)
+ WFE ESG Guidance (Guidelines for report preparation > Quality & frequency of reporting)
+ METI, Guidance for Collaborative Value Creation
+ SASB Standards (by sector)
+Step 4: Information Disclosure and Engagement
+43
+4-1 Organising disclosure contents
+The link to corporate value
+ When aiming for disclosure which is useful
+for investors in evaluating your company's midto long-term corporate value, it will be
+necessary to include information on the risks
+and opportunities stemming from your chosen
+material issues, and paint a clear picture of how
+these link to strategy, governance systems,
+targets, etc. and ultimately corporate value
+overall.
+ One good reference material for this is the
+Ministry of Economy, Trade and Industry's
+Guidance for Collaborative Value Creation,
+published in 2017. The Guidance provides
+principles for communicating a company's
+values, business model, strategy, and
+governance, etc. to investors in an integrated
+manner.
+22 From 2018, GPIF has published "Excellent Integrated Reports and Most-improved Integrated Reports selected by
+GPIF's asset managers entrusted with domestic equity investment". The 2020 winners can be seen on the below
+link.
+<https://www.gpif.go.jp/en/investment/20200319_excellent_and_most-improved_integrated_reports_2019.pdf>
+23 Nikkei, Inc. has published the Nikkei Annual Report Awards since 1998 (Japanese only).
+<http://adnet.nikkei.co.jp/a/ara/>
+ The specific information you include will
+depend on things like the company's
+circumstances and who will be using the
+information, but as a general rule for disclosure
+aimed at investors, it is best to disclose
+information on the below points while taking
+into account their link to corporate value, as
+discussed in Steps 2 and 3.
+・ The link between ESG issues and strategy
+・ Material ESG issues and how they were
+identified
+・ Governance systems and commitment
+from the top
+・ Metrics and targets
+If you would like to obtain a better picture
+of what good ESG disclosure can look like in
+practice, companies like the Government
+Pension Investment Fund (GPIF)22
+ and Nikkei,
+Inc.23
+ release lists of integrated reports which
+have been well-received by investors.
+44
+Investor information sources
+So what kind of sources do investors actually use to gather information?
+Asset managers, who are contracted by asset owners such as pension funds to manage their
+assets in practice, gather information mainly from three routes:
+1. Directly from companies through disclosure and engagement.
+2. Buying ESG data, scores, or indices etc. from information vendors or ESG ratings agencies.
+Vendors and ratings agencies calculate data and ESG scores from information collected both from
+company disclosures and surveys sent directly to each company.
+3. For the purpose of executing voting rights, from information sent from companies in and with
+annual meeting notices, and sometimes data from proxy voting firms, in addition to the asset
+manager's own voting policies and information.
+When thinking about what ESG information to disclose and how to disclose it, it is important to
+understand who will be using the information and how. Also, if you receive surveys or feedback forms
+from ESG ratings agencies, looking at the topics included in them may help you see things from an
+investor perspective.
+Investor information sources
+45
+
+Inset 4.1: Disclosing quantitative data
+Some investors use various types of quantitative ESG data in their investment decisions.
+Quantitative data includes, for example, greenhouse gas emissions, energy usage, or statistics on
+employee diversity.
+One example of investors using data on greenhouse gas emissions is in Europe, where some
+pension funds and other investors have committed to make the carbon emissions from their
+investment portfolio net zero by 2050, and are therefore using investee companies' carbon emissions
+data for portfolio management.
+In response to varied demands from investors and to make their disclosures clearer, some
+companies are now publishing quantitative data collectively in a data book or similar.
+46
+4-2 Using existing frameworks
+Information disclosure frameworks
+ Many listed companies use existing information disclosure frameworks for their ESG disclosure,
+but when doing this, it is important to use the appropriate framework depending on who your
+disclosure is aimed at. Even just for disclosure aimed at investors, which this Handbook is focusing
+on, there are many existing frameworks which can be chosen depending on what kind of disclosure
+you are looking at.
+ A good summary of the existing frameworks can be found in "Study of ESG Information
+Disclosure"
+24 commissioned by GPIF and created by Nissay Asset Management Corporation. Listed
+companies can use this information to gain an understanding of each framework's features and pick
+the best one(s) to use for their company.
+24 Government Pension Investment Fund (2019) "Study of ESG Information Disclosure" (Nissay Asset Management)
+<https://www.gpif.go.jp/en/investment/research_2019_full_EN.pdf>
+Key backgrounds and features of existing frameworks and standards
+47
+Source: Government Pension Investment fund (2019) "Study of ESG Information Disclosure" (Nissay Asset Management) p10-11
+(edited slightly)
+48
+4-3 Further points for consideration
+Platforms for disclosure
+ The number of companies choosing to
+publish integrated reports, aimed mostly at
+investors, for their voluntary ESG disclosure is
+rising every year. There are also companies
+which aim disclosure at a broader range of
+stakeholders by publishing a wide range of ESG
+information in a sustainability report, CSR
+report, environmental report or similar (some
+companies who disclose a lot of quantitative
+information also create data books, etc.). In
+addition to these publications, many companies
+also create a related page on their website to
+publish ESG information.
+ Listed companies will need to make
+appropriate decisions on what disclosure
+platform to use, and whether their information
+is aimed at mainly investors or other
+stakeholders, by considering the needs of
+investors and other stakeholders for ESG
+information, the contents of the information,
+and its importance, etc.
+English disclosure
+ It is recommended that listed companies
+disclose and provide their ESG information in
+English so that overseas investors can easily
+access the information, taking into account
+what proportion of your investors are overseas.
+Third-party assurance of ESG data
+ As ESG investment grows and deepens, the
+importance of ESG information for making
+investment decisions and for engagement is
+also growing. From this perspective, it is
+expected that demand will rise from investors
+for companies' ESG information to be assured
+by a third party, to ensure its reliability.
+49
+
+Inset 4.2: Disclosing ESG information via TDnet
+In December 2019, Tokyo Stock Exchange updated its "TDnet" (Timely Disclosure network) system,
+which notifies investors of releases of company information, to allow the disclosure and use of ESG
+information via the system to improve its convenience for investors.
+Specifically, there is now a specific option to make it easier for companies to register their ESGrelated reports (any materials including ESG information, for example integrated reports, annual
+reports, sustainability reports, CSR reports, environmental impact reports, etc.) on the TDnet system
+(there are also options for English-language ESG reports).
+ESG-related reports registered on TDnet are shared with investors in the following ways:
+1. They are included on each company's page on the JPX website's "Listed Company Search"*
+function. This function allows investors to see company information such as financial results,
+timely disclosure on corporate actions, etc., articles of incorporation, AGM notices, and
+corporate governance reports. Including ESG-related reports in the same place creates a platform
+enabling access to all the information investors both in Japan and abroad need to choose new
+investee companies, evaluate corporate value and make investment decisions with a more midto long-term outlook.
+2. They are included in the TDnet Database Service (TDnetDBS)**. This service allows subscribers
+to search for and view information registered on TDnet in the past five years for all companies
+listed on an exchange in Japan. Adding ESG-related reports enables subscribers to search for just
+companies who have registered ESG information. TSE-listed companies can access the same
+information through the Listed Company Database***.
+3. Information registered on TDnet is automatically sent out to media outlets and information
+vendors. This enables the information to reach a wider range of stakeholders.
+For a listed company, TDnet could be a very useful way to make sure that the ESG-related reports
+you make reach a wide range of investors and other stakeholders, so please consider using it.
+*Listed Company Search:
+https://www.jpx.co.jp/english/listing/co-search/index.html
+**TDnetDBS:
+https://www.jpx.co.jp/english/markets/paid-info-equities/reference/05.html
+***Listed Company Database (Japanese only, TDnet ID and password required)
+https://www.dwd4.tdnet.info/dbsl/jsp/main.jsp
+50
+4-4 Two-way engagement with investors
+"Purposeful dialogue"
+ When aiming for mid- to long-term value
+creation, it is important to engage with
+investors based on the information you disclose.
+Engagement can also be called "purposeful
+dialogue". As written in the Stewardship Code
+and Corporate Governance Code, institutional
+investors are being asked to carry out
+constructive "purposeful dialogue"
+(engagement) based on in-depth knowledge of
+their investee companies and the companies'
+business environments. Engagement enables
+investors to deepen their understanding of how
+a company is responding to and working on
+issues including ESG from a risk and opportunity
+perspective. This knowledge is then used in
+investment decisions and the results reported
+to pension funds and other asset owners.
+ For companies, this kind of dialogue
+provides a good opportunity to give more indepth information to investors about the
+company's response to ESG issues, the thinking
+behind that response and its connection to
+corporate value. However, it is also an
+opportunity to hear the investor's point of view,
+and can be a springboard for new ideas, growth
+and innovation which can lead to improvements
+in your business, so companies should actively
+take part.
+Other types of engagement
+ Engagement with investors is not just for
+ESG issues, but covers a wide range of activities
+that companies carry out under the umbrella of
+investor relations (IR). Investors carry out
+engagement through activities such as the
+voting process, meetings with individual
+companies, sending out opinions to individual
+companies, and sometimes attending ESG
+briefings held by companies. In addition,
+recently there has been an increase in
+"collective engagement", where multiple
+investors work together to engage with a
+company as a group. These include the global
+institutional investor group Climate Action 100+,
+which engages constructively with companies
+which have a large impact on global
+environmental issues, encouraging them to
+disclose more information and decrease their
+greenhouse gas emissions, among other things.
+51
+ There is no definitive way of doing ESG
+disclosure and no format established as the
+norm. In addition, the goalposts are constantly
+moving as the ESG issues important to
+companies and investors change. It is possible
+to see responding to ESG issues and carrying out
+disclosure as a "journey". For these reasons,
+however, many companies may experience
+difficulties.
+It is important that rather than aiming for
+perfection first time, companies take the first
+step using whatever resources or information
+they are able to. Having made that first move,
+companies can then use engagement with
+investors and other stakeholders to help find a
+suitable plan for improving corporate value over
+the long term within a changing environment.
+The next step isto move towards carrying it out.
+We hope that this Handbook can be a useful
+guide on this journey.
+Afterword
+52
+This handbook refers to the following existing frameworks:
+ Sustainable Stock Exchanges (SSE) Initiative: Model Guidance on Reporting ESG Information to
+Investors ("SSE Model Guidance")
+ Ministry of Economy, Trade and Industry (METI): Guidance for Integrated Corporate Disclosure
+and Company-Investor Dialogues for Collaborative Value Creation - ESG integration, nonfinancial information disclosure and intangible assets into investment ("Guidance for
+Collaborative Value Creation")
+ Recommendations of the Task Force on Climate-related Financial Disclosures (TCFD) ("TCFD
+Recommendations")
+ Sustainability Accounting Standards Board (SASB) Standards
+ International Integrated Reporting Council (IIRC): International Integrated Reporting Framework
+("IIRC Framework")
+ Global Reporting Initiative (GRI) Standards
+ World Federation of Exchanges (WFE): ESG Guidance and Metrics
+Appendix: Outlines of existing frameworks
+53
+ Sustainable Stock Exchanges Initiative: Model Guidance on Reporting
+ESG Information to Investors
+ What is the SSE Initiative?
+The Sustainable Stock Exchanges (SSE) Initiative was set up as a UN Partner Program in 2009 aimed
+at the world's stock exchanges, and is organised by the UN Conference on Trade and Development
+(UNCTAD), the UN Global Compact, the UN Environment Programme Finance Initiative (UNEP FI), and
+the Principles for Responsible Investment (PRI). As of February 2020 there are 90 member exchanges.
+The Initiative is a platform for members to deliberate amongst themselves and learn about issues
+such as how to promote sustainable finance and what can be done to help companies with their ESG
+activities and to improve performance, while collaborating with investors, regulators, listed
+companies, and other stakeholders. JPX joined the SSE Initiative in December 2017.
+ SSE Model Guidance
+SSE published its "Model Guidance on Reporting ESG Information to Investors: A Voluntary Tool For
+Stock Exchanges to Guide Issuers" in 2015 as a guide for member exchanges. The Guidance was
+intended as a model for exchanges to use when writing bespoke guidance for their own listed
+companies on ESG disclosure, and sets out points and views it sees as useful to include in those
+guidelines (see next page for a list of contents).
+JPX created and published a Japanese translation of the Model Guidance in June 2019.
+ Access links/related information
+The Model Guidance on Reporting ESG Information to Investors: A Voluntary Tool For Stock Exchanges
+to Guide Issuers can be downloaded from the SSE website:
+https://sseinitiative.org/publication/model-guidance-on-reporting-esg-information-to-investors-avoluntary-tool-for-stock-exchanges-to-guide-issuers/
+The Japanese translation of the Model Guidance can be accessed from the JPX website:
+https://www.jpx.co.jp/corporate/news/news-releases/0060/nlsgeu000004239vatt/SSE_Initiatives_j.pdf
+SSE Initiative website:
+https://sseinitiative.org/
+54
+SSE Model Guidance: Front page and contents
+Source: SSE Initiative (2015) "Model Guidance on Reporting ESG Information to Investors: A Voluntary Tool For
+Stock Exchanges to Guide Issuers"; JPX (2019) "ESG jōhō no hōkoku ni kansuru kigyō muke moderu gaidansu"
+55
+ Ministry of Economy, Trade and Industry: Guidance for Collaborative
+Value Creation
+The Japanese Ministry of Economy, Trade and Industry (METI) released their "Guidance for
+Integrated Corporate Disclosure and Company-Investor Dialogues for Collaborative Value Creation -
+ESG integration, non-financial information disclosure and intangible assets into investment" in 2017.
+The Guidance was based on a proposal by the Study Group on Long-term Investment (Investment
+evaluating ESG Factors and Intangible Assets) toward Sustainable Growth, which was set up by METI.
+It formulated and proposed a basic framework for promoting dialogue between companies and
+investors and for enhancing the quality of information disclosure, in the hope that it would serve as
+guidance for voluntary and proactive initiatives.
+ Important features of the Guidance
+The Guidance is intended to deepen mutual understanding between companies and investors
+through information disclosure and dialogue/engagement and promote collaborative activities to
+create sustainable value. From that viewpoint, the Guidance is expected to fulfill two main roles:
+1. As a guideline for corporate managers and directors
+First, the Guidance is expected to serve as a guideline according to which corporate managers and
+directors are able to comprehensively communicate key information to investors, including their
+management philosophies, business models, strategies and governance systems. As a direct goal, the
+Guidance aims to promote corporate information disclosure and enhance the quality of companyinvestor dialogue. Through efforts to achieve this goal, corporate managers and directors are
+expected to review their approaches to business management and take further actions with a view
+to creating corporate value.
+2. As a guideline for investors
+Second, the Guidance is expected to serve as a guideline for investors in evaluating companies from
+a long-term perspective, making investment decisions, and conducting stewardship activities. Instead
+of waiting for companies to provide the information with respect to the items in the Guidance,
+investors and analysts are expected to initiate dialogue with companies in order to obtain the
+information necessary for their investment decisions and remedy any information/perception gaps
+by referring to the Guidance. The Guidance is also designed to be used as a framework for investors
+to monitor investee companies and conduct dialogue to fulfill their stewardship responsibilities. It is
+expected that the Guidance will not only be used when institutional investors engage in stewardship
+activities themselves, but also when asset owners hold dialogue with asset managers.
+56
+Source: METI (2017) "Kachi kyōsō no tame no sōgōteki kaiji/taiwa gaidansu – ESG/hizaimujōhō to mukei shisan tōshi"; METI (2017
+translation) "Guidance for Integrated Corporate Disclosure and Company-Investor Dialogues for Collaborative Value Creation - ESG
+integration, non-financial information disclosure and intangible assets into investment"
+ Access links/related information
+METI's Guidance for Collaborative Value Creation can be downloaded from the METI website:
+https://www.meti.go.jp/english/press/2017/pdf/0529_004b.pdf
+METI's Guidance for Collaborative Value Creation: front page and overview
+57
+ Recommendations of the Task Force on Climate-related Financial
+Disclosures (TCFD)
+ What is TCFD?
+The Task Force on Climate-Related Financial Disclosures (TCFD) was set up in December 2015 by the
+Financial Stability Board (FSB), at the request of the G20 Finance Ministers and Central Bank
+Governors meeting, to consider disclosure of climate-related information and how financial
+institutions should react to climate change. The Task Force deliberated with the aim of creating
+recommendations to encourage information disclosure with the consistency, comparability,
+credibility, and clarity needed for appropriate investment decisions based on climate change metrics.
+They published their Final Recommendations in June 2017. The number of companies and
+organisations worldwide which have officially expressed support for the Recommendations is
+growing, and stands at over 1050 as of February 2020. Of any single country, Japan has the most TCFD
+supporters with other 240. JPX expressed its support in October 2018.
+ The composition of the Recommendations
+The Recommendations published in June 2017 are made up of three publications:
+Final Report: Recommendations of the Task Force on Climate-Related Financial Disclosures
+This is the main report which is often referred to as the "TCFD Recommendations". After an
+explanation on climate-related risks, opportunities and financial impacts, it sets out
+"Recommendations and Guidance" which apply to all sectors, financial and non-financial. In addition,
+it writes about the need for scenario analysis and recommends how to approach it.
+58
+Annex: Implementing the Recommendations of the TCFD
+This is supplemental guidance for a) the financial sector and b) non-financial sectors, which are
+expected to be more heavily impacted by climate change and the shift to a low-carbon economy. It
+provides more detailed guidance for each sector: banks, insurance companies, asset owners, and
+asset managers for the financial sector, and energy, transportation, materials and buildings, and
+agriculture, food, and forest products for non-financial sectors, taking into account their differences.
+Technical Supplement: The Use of Scenario Analysis in Disclosure of Climate-Related Risks and
+Opportunities
+This technical supplemental report sets out the details of "scenario analysis" and key things to think
+about when applying it, in order to support companies in creating disclosure based on the TCFD
+Recommendations.
+TCFD recommends that companies be aware of the "risks" and "opportunities" arising from climate
+change that could affect their business activities, and disclose on the following four topics:
+・ Governance: What kind of governance structure is in place to consider climate change and
+is this reflected in company management?
+・ Strategy: What kind of impact will climate change have on company management in the
+short, medium, and long term? How did you come to these conclusions?
+・ Risk Management: How do you identify and evaluate climate-related risks, and how are you
+trying to mitigate these?
+・ Metrics and Targets: What metrics do you use to identify risks and opportunities and
+measure progress towards targets?
+ TCFD in Japan
+In May 2019, a Japanese "TCFD Consortium" was launched as a platform for debate on how to make
+company disclosure based on the TCFD Recommendations more effective, and how to make sure that
+it leads to more appropriate investment decisions from financial institutions. The Consortium is
+comprised of a General Meeting, Planning Committee, Working Group for information disclosure,
+Working Group for information usage, and outreach events.
+As a result of deliberations by the Working Group for information usage on how investors can use
+TCFD-based disclosure, in October 2019 the Consortium published its Guidance for Utilizing Climaterelated Information to Promote Green Investment ("Green Investment Guidance", https://tcfdconsortium.jp/en/news_detail/19100802). The Guidance provides commentary on perspectives
+investors need to consider to understand TCFD-based disclosures, and for companies, provides a way
+59
+to better understand the perspectives of investors and other stakeholders.
+The Working Group for information disclosure on the other hand, which debates topics such as
+specific contents of TCFD-based disclosure, has been working on an update of the Ministry of
+Economy, Trade and Industry's Guidance for Climate-related Financial Disclosures ("TCFD Guidance",
+https://www.meti.go.jp/english/press/2018/1225_006.html), which was first published in August
+2018. This TCFD Guidance was written by METI's "TCFD Study Group on Implementing TCFD
+Recommendations for mobilizing green finance through proactive corporate disclosures" and aims to
+provide information and case examples to explain approaches to TCFD-based disclosure, as well as
+industry-based viewpoints that companies should take to show their efforts.
+Outside of the TCFD Consortium, the Japanese Ministry of the Environment (MOEJ) has also been
+active, running a support program for companies to analyse their own climate risks and opportunities
+in line with the TCFD Recommendations from FY2018. This led to the creation of a Practical Guide for
+Scenario Analysis in Line with TCFD Recommendations, published in March 2019
+(https://www.env.go.jp/en/headline/2396.html), which brought together examples from the
+companies within the program. MOEJ released a 2nd Edition
+(https://www.env.go.jp/en/headline/2439.html) in March 2020, adding a) scenario analysis key
+points of practice, b) practical examples from 12 companies supported by MOEJ in 2019, and c)
+useful materials for scenario analysis.
+ Access links/related information
+The TCFD Recommendations can be downloaded from the TCFD website.
+https://www.fsb-tcfd.org/publications/
+A Japanese translation of the Final Recommendations can also be downloaded from the TCFD website.
+https://www.fsb-tcfd.org/wp-content/uploads/2017/06/TCFD_Final_Report_Japanese.pdf
+Related information, including the Green Investment Guidance, can be found on the TCFD
+Consortium website.
+https://tcfd-consortium.jp/en
+60
+ Sustainability Accounting Standards Board (SASB) Standards
+ What is SASB?
+The Sustainability Accounting Standards Board (SASB) is a non-profit organisation which was set up
+in San Francisco, USA in 2011. Looking to improve the quality of company reporting so it can
+contribute to the decision-making process of mid- to long-term focused investors, SASB has set
+disclosure standards relating to ESG issues that it identifies as reasonably likely to have material
+impacts on companies in the future.
+ The SASB Standards
+After its launch, SASB spent around six years conducting debate and analysis together with experts,
+investors, academics and others, and in November 2018, published disclosure standards for 77
+industries within 11 sectors.
+Intended to help analyse a company's sustainability, the SASB Standards are based on 26 "General
+Issue Categories" organised under five "Dimensions", as shown below.
+Source: SASB website
+Disclosure Topics and Accounting Metrics are then set for each of the General Issues judged to be
+material for each particular industry, and set out in detail in the Standards. Disclosure Topics and
+Accounting Metrics for each sector/industry can also be found in the SASB Materiality Map
+(https://materiality.sasb.org/). The image on the next page shows Disclosure Topics and Accounting
+Metrics for the agricultural products industry as shown on the Materiality Map.
+61
+Source: SASB Materiality Map
+ Other tools from SASB
+As well as the Standards, SASB have also published reports on topics such as disclosure of
+sustainability information and engagement. For example, the Engagement Guide for Asset Owners
+and Asset Managers (https://www.sasb.org/knowledge-hub/engagement-guide/) gives investors
+guidance on how to engage with investee companies. SASB plans to translate this Guide into Japanese.
+To aim for implementation of TCFD-based disclosure, SASB has also published a TCFD Implementation
+Guide (https://www.sasb.org/knowledge-hub/tcfd-implementation-guide/) in co-operation with the
+Climate Disclosure Standards Board (CDSB), and has translated this into Japanese
+(https://www.sasb.org/knowledge-hub/tcfd-implementation-guide-japanese/).
+ Access links/related information
+The SASB Standards are currently only available in English, but can be downloaded from the SASB
+website:
+https://www.sasb.org/standards-overview/download-current-standards/
+The SASB Materiality Map
+62
+ International Integrated Reporting Council (IIRC): International
+Integrated Reporting Framework ("IIRC Framework")
+ What is IIRC?
+The International Integrated Reporting Council (IIRC) is a global coalition of regulators, investors,
+companies, standard setters, the accounting profession, academia and NGOs which was set up in the
+UK in 2010 by A4S (The Prince's Accounting for Sustainability Project) and GRI (Global Reporting
+Initiative). Among its aims are to improve the quality of information available to providers of financial
+capital and promote a more cohesive and efficient approach to corporate reporting.
+ The IIRC Framework and its objectives
+IIRC published The International <IR> Framework 25
+ , setting out its position on the crafting of
+integrated reports, in 2013, and since then, integrated reporting in Japan and around the world has
+progressed massively. In February 2020, IIRC announced that a revision of the Framework is underway.
+The Framework, as explained in the executive summary, "promotes a more cohesive and efficient
+approach to corporate reporting and aimsto improve the quality of information available to providers
+of financial capital to enable a more efficient and productive allocation of capital… The primary
+purpose of an integrated report is to explain to providers of financial capital how an organization
+creates value over time. An integrated report benefits all stakeholders interested in an organization’s
+ability to create value over time, including employees, customers, suppliers, business partners, local
+communities, legislators, regulators and policy-makers."
+ Main elements of the IIRC Framework
+1. Integrated Thinking
+The IIRC Framework hopes that rather than companies just collecting various bits of information
+and reporting them in one place, the report preparation process will cause "integrated thinking" (the
+active consideration by an organization of the relationships between its various operating and
+functional units and the capitals that the organization uses or affects) to spread through each
+company, leading to changes in their actions and improved corporate value.
+2. Guiding Principles
+ The IIRC Framework sets Guiding Principles to underpin the preparation of an integrated report:
+Strategic focus and future orientation; Connectivity of information; Stakeholder relationships;
+Materiality; Conciseness; Reliability and completeness; Consistency and comparability.
+25 IIRC "The <IR> Framework Revision: Inspiring better reporting" <https://integratedreporting.org/news/the-irframework-revision-inspiring-better-reporting/>
+63
+3. Content Elements
+ The Framework defines eight "Content Elements" which must be included in an integrated report.
+These are fundamentally linked to each other and are not mutually exclusive.
+ Organizational overview and external environment: What does the organisation do and what
+are the circumstances under which it operates?
+ Governance: How does the organisation’s governance structure support its ability to create
+value in the short, medium and long term?
+ Business model: What is the organisation’s business model?
+ Risks and opportunities: What are the specific risks and opportunities that affect the
+organisation’s ability to create value over the short, medium and long term, and how is the
+organisation dealing with them?
+ Strategy and resource allocation: Where does the organisation want to go and how does it
+intend to get there?
+ Performance: To what extent has the organisation achieved its strategic objectives for the period
+and what are its outcomes in terms of effects on the capitals?
+ Outlook: What challenges and uncertainties is the organisation likely to encounter in pursuing
+its strategy, and what are the potential implications for its business model and future
+performance?
+ Basis of presentation: How does the organisation determine what matters to include in the
+integrated report and how are such matters quantified or evaluated?
+The chart on the next page shows how these link to each other and to the value creation process.
+ Access links/related information
+The English and Japanese versions of the IIRC Framework can be downloaded from the IIRC website.
+https://integratedreporting.org/resource/international-ir-framework/
+64
+Source: IIRC (2013) "International <IR> Framework"
+IIRC Framework: front pages and chart of the value creation process
+65
+ Global Reporting Initiative (GRI) Standards
+ What is GRI?
+The Global Reporting Initiative (GRI) was founded in 1997 by US non-profit the Coalition for
+Environmentally Responsible Economies (CERES) and the UN Environment Program (UNEP), among
+others, to encourage understanding and support the creation of sustainability reports among
+organisations such as private companies and government agencies. It is currently based in
+Amsterdam, the Netherlands.
+ The GRI Standards
+GRI released its first "GRI Guidelines" in 2000. After discussions with various stakeholders including
+companies, NGOs, consultants, auditors, institutional investors, labour unions, and academics, it
+released the fourth generation (G4) in 2013. Then, as the situation with sustainability reports
+progressed, in 2016 it released the GRI Standards, an enhanced version of the Guidelines.
+The GRI Standards see importance in not only what ESG issues can affect an organisation, but also
+how an organisation can affect society or the environment: its introduction states that "Sustainability
+reporting, as promoted by the GRI Standards, is an organization’s practice of reporting publicly on its
+economic, environmental, and/or social impacts, and hence its contributions – positive or negative –
+towards the goal of sustainable development."
+ Structure of the GRI Standards
+As listed below, the GRI Standards are made up of "Universal Standards" (101, 102, and 103) and
+"Topic-specific Standards" (200 series, 300 series, and 400 series). The three Universal Standards are
+applied to all organisations preparing sustainability reports. Organisations looking to report on
+material issues specific to them (economic, environmental, social) can pick the relevant one from the
+Topic-specific Standards.
+-GRI 101: Foundation - a guide to how to use the GRI Standards
+-GRI 102: General Disclosures - reporting an organisation's relevant contextual information
+-GRI 103: Management Approach - reporting how material topics are managed
+-GRI 200, 300, 400 series – data points for reporting information on an organisation's economic,
+environmental, and social impact.
+66
+ Access links/related information
+The GRI Standards can be downloaded from the GRI website.
+English: https://www.globalreporting.org/standards
+Japanese: https://www.globalreporting.org/standards/gri-standards-translations/gri-standardsjapanese-translations-download-center/
+Overview of the GRI Standards and an example page from a Topic-specific Standard
+Source: GRI (2016) "GRI Standards"
+67
+ World Federation of Exchanges (WFE): ESG Guidance and Metrics
+ What is WFE?
+The World Federation of Exchanges is a global industry association for the world's main exchanges
+which was created in 1961, and currently has around 250 members, mostly exchanges and clearing
+houses. JPX is a member of WFE and its CEO has been a WFE Board member since 2019.
+In 2014, WFE set up a Sustainability Working Group to help advance activity on sustainable finance
+and promoting ESG investment. Since then the Group has been working on things such as researching
+and analysing member exchanges' sustainability activities and work on promoting ESG investment,
+as well as creating sustainability principles and other guidance for the exchange industry. JPX has
+been participating in the Sustainability Working Group, and become Vice-Chair in 2018.
+ WFE ESG Guidance and Metrics
+WFE published its ESG Guidance and Metrics in 2015, with the
+aim of supplementing the SSE Model Guidance by providing a
+reference point for exchanges looking to encourage ESG
+reporting from their own listed companies. The Guidance is
+based around 33 disclosure metrics. In 2018, taking into
+account the previous year's TCFD Recommendations and
+other developments, WFE released an updated version of the
+guidance and metrics.
+The Guidance gives the following four points as important for companies to consider when reporting
+ESG information to investors.
+ Governance/responsibility and oversight: A board statement setting out how the organisation
+determines material issues, how these are embedded in the organisation’s strategy, how the
+board reviews progress against targets, etc.
+ Clarity of purpose/clear link to business value: Organisations should make clear how their
+selected ESG issues link to value creation/destruction.
+ Materiality: Organisations should explain to investors how they identify their material issues.
+ Quality and frequency of reporting: Organisations should make sure that their reporting is
+accurate, timely, and follows one of the internationally recognised reporting standards.
+68
+Metrics introduced in the WFE ESG Guidance and Metrics
+

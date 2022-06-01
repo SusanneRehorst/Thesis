@@ -1,0 +1,273 @@
+2013 No. 1970
+COMPANIES
+The Companies Act 2006 (Strategic Report
+and Directors’ Report) Regulations 2013
+Made - - - - 6th August 2013
+Coming into force - - 1st October 2013
+The Secretary of State makes the following Regulations in exercise of the powers conferred by
+sections 416, 468, 473(2) and 1292(1) of the Companies Act 2006(1).
+In accordance with sections 473(3), 1290 and 1292(4) of that Act, a draft of this instrument was laid
+before Parliament and approved by a resolution of each House of Parliament.
+PART 1
+INTRODUCTION
+Citation, commencement and application
+1.—(1) These Regulations may be cited as the Companies Act 2006 (Strategic Report and
+Directors’ Report) Regulations 2013.
+(2) Subject to paragraph (3), these Regulations come into force on 1st October 2013.
+(3) The following provisions of this instrument come into force on the making of these
+Regulations for the purposes only of the exercise of the powers to make regulations in the sections
+amended—
+(a) regulation 10;
+(b) paragraph 12(b) and (c) of the Schedule.
+(4) These Regulations have effect in respect of financial years ending on or after 30th September
+2013.
+(1) 2006 c.46. Section 416(3) was amended by S.I. 2008/393.
+Document Generated: 2017-08-01
+Status: This is the original version (as it was originally made). This
+item of legislation is currently only available in its original format.
+PART 2
+STRATEGIC REPORT
+Duty to prepare strategic report
+2. Part 15 (accounts and reports) of the Companies Act 2006 is amended as follows.
+3. Before Chapter 5 (directors’ report) insert—
+“CHAPTER 4A
+STRATEGIC REPORT
+Duty to prepare strategic report
+414A.—(1) The directors of a company must prepare a strategic report for each financial
+year of the company.
+(2) Subsection (1) does not apply if the company is entitled to the small companies
+exemption.
+(3) For a financial year in which—
+(a) the company is a parent company, and
+(b) the directors of the company prepare group accounts,
+the strategic report must be a consolidated report (a “group strategic report”) relating to the
+undertakings included in the consolidation.
+(4) A group strategic report may, where appropriate, give greater emphasisto the matters
+that are significant to the undertakings included in the consolidation, taken as a whole.
+(5) In the case of failure to comply with the requirement to prepare a strategic report,
+an offence is committed by every person who—
+(a) was a director of the company immediately before the end of the period for filing
+accounts and reports for the financial year in question, and
+(b) failed to take all reasonable steps for securing compliance with that requirement.
+(6) A person guilty of an offence under this section is liable—
+(a) on conviction on indictment, to a fine;
+(b) on summary conviction, to a fine not exceeding the statutory maximum.
+Strategic report: small companies exemption
+414B. A company is entitled to small companies exemption in relation to the strategic
+report for a financial year if—
+(a) it is entitled to prepare accounts for the year in accordance with the small
+companies regime, or
+(b) it would be so entitled but for being or having been a member of an ineligible
+group.
+Contents of strategic report
+414C.—(1) The purpose of the strategic report is to inform members of the company
+and help them assess how the directors have performed their duty under section 172 (duty
+to promote the success of the company).
+2
+Document Generated: 2017-08-01
+Status: This is the original version (as it was originally made). This
+item of legislation is currently only available in its original format.
+(2) The strategic report must contain—
+(a) a fair review of the company’s business, and
+(b) a description of the principal risks and uncertainties facing the company.
+(3) The review required is a balanced and comprehensive analysis of—
+(a) the development and performance of the company’s business during the financial
+year, and
+(b) the position of the company’s business at the end of that year,
+consistent with the size and complexity of the business.
+(4) The review must, to the extent necessary for an understanding of the development,
+performance or position of the company’s business, include—
+(a) analysis using financial key performance indicators, and
+(b) where appropriate, analysis using other key performance indicators, including
+information relating to environmental matters and employee matters.
+(5) In subsection (4), “key performance indicators” means factors by reference to which
+the development, performance or position of the company’s business can be measured
+effectively.
+(6) Where a company qualifies as medium-sized in relation to a financial year (see
+sections 465 to 467), the review for the year need not comply with the requirements of
+subsection (4) so far as they relate to non-financial information.
+(7) In the case of a quoted company the strategic report must, to the extent necessary for
+an understanding of the development, performance or position of the company’s business,
+include—
+(a) the main trends and factors likely to affect the future development, performance
+and position of the company’s business, and
+(b) information about—
+(i) environmental matters (including the impact of the company’s business on
+the environment),
+(ii) the company’s employees, and
+(iii) social, community and human rights issues,
+including information about any policies of the company in relation to those
+matters and the effectiveness of those policies.
+If the report does not contain information of each kind mentioned in paragraphs (b)(i), (ii)
+and (iii), it must state which of those kinds of information it does not contain.
+(8) In the case of a quoted company the strategic report must include—
+(a) a description of the company’s strategy,
+(b) a description of the company’s business model,
+(c) a breakdown showing at the end of the financial year—
+(i) the number of persons of each sex who were directors of the company;
+(ii) the number of persons of each sex who were senior managers of the
+company (other than persons falling within sub-paragraph (i)); and
+(iii) the number of persons of each sex who were employees of the company.
+(9) In subsection (8), “senior manager” means a person who—
+3
+Document Generated: 2017-08-01
+Status: This is the original version (as it was originally made). This
+item of legislation is currently only available in its original format.
+(a) has responsibility for planning, directing or controlling the activities of the
+company, or a strategically significant part of the company, and
+(b) is an employee of the company.
+(10) In relation to a group strategic report—
+(a) the reference to the company in subsection (8)(c)(i) is to the parent company; and
+(b) the breakdown required by subsection (8)(c)(ii) must include the number of
+persons of each sex who were the directors of the undertakings included in the
+consolidation.
+(11) The strategic report may also contain such of the matters otherwise required by
+regulations made under section 416(4) to be disclosed in the directors’ report as the directors
+consider are of strategic importance to the company.
+(12) The report must, where appropriate, include references to, and additional
+explanations of, amounts included in the company’s annual accounts.
+(13) Subject to paragraph (10), in relation to a group strategic report this section has
+effect as if the references to the company were references to the undertakings included in
+the consolidation.
+(14) Nothing in this section requires the disclosure of information about impending
+developments or matters in the course of negotiation if the disclosure would, in the opinion
+of the directors, be seriously prejudicial to the interests of the company.
+Approval and signing of strategic report
+414D.—(1) The strategic report must be approved by the board of directors and signed
+on behalf of the board by a director or the secretary of the company.
+(2) If a strategic report is approved that does not comply with the requirements of this
+Act, every director of the company who—
+(a) knew that it did not comply, or was reckless as to whether it complied, and
+(b) failed to take reasonable steps to secure compliance with those requirements or,
+as the case may be, to prevent the report from being approved,
+commits an offence.
+(3) A person guilty of an offence under this section is liable—
+(a) on conviction on indictment, to a fine;
+(b) on summary conviction, to a fine not exceeding the statutory maximum.”.
+4. In section 415A(2)(2) (provisions to which small companies exemption for directors’ report
+is relevant)—
+(a) after “dividend),” insert “and”, and
+(b) omit “section 417 (contents of report: business review), and”.
+5. Omit section 417 (contents of directors’ report: business review).
+(2) Section 415A was inserted by regulation 6(2) of S.I. 2008/393.
+4
+Document Generated: 2017-08-01
+Status: This is the original version (as it was originally made). This
+item of legislation is currently only available in its original format.
+PART 3
+DIRECTORS’ REPORT
+Amendment to section 416 of Companies Act 2006
+6.—(1) Section 416 (content of directors’ report: general) is amended as follows.
+(2) In subsection (1) omit paragraph (b) and the “and” immediately preceding that paragraph.
+(3) Omit subsection (2).
+Amendments to the Large and Medium-sized Companies and Groups (Accounts and
+Reports) Regulations 2008
+7.—(1) The Large and Medium-sized Companies and Groups (Accounts and Reports)
+Regulations 2008(3) are amended as follows.
+(2) For regulation 10(2) (directors’ report: structure of Schedule 7) substitute—
+“(2) In Schedule 7—
+Part 1 relates to matters of a general nature including political donations and
+expenditure,
+Part 2 relates to the acquisition by a company of its own shares or a charge on them,
+Part 3 relates to the employment, training and advancement of disabled persons,
+Part 4 relates to the involvement of employees in the affairs, policy and performance
+of the company,
+Part 6 relates to certain disclosures required by publicly traded companies, and
+Part 7 relates to disclosures in relation to greenhouse gas emissions.”.
+(3) In Schedule 7 (matters to be dealt with in directors’ report)—
+(a) after paragraph 1 insert—
+“1A. Where a company has chosen in accordance with section 414C(11) to set out
+in the company’s strategic report information required by this Schedule to be contained
+in the directors’ report it shall state in the directors’ report that it has done so and in
+respect of which information it has done so.”;
+(b) omit paragraphs 2 (asset values) and 5 (charitable donations);
+(c) in paragraph 8 (company acquiring own shares), in the opening words of that paragraph,
+before “company” insert “public”;
+(d) omit paragraph 12 (policy and practice on payment of creditors); and
+(e) after paragraph 14 insert—
+“PART 7
+DISCLOSURES CONCERNING GREENHOUSE GAS EMISSIONS
+15.—(1) This Part of this Schedule applies to the directors’ report for a
+financial year if the company is a quoted company.
+(3) S.I. 2008/410.
+5
+Document Generated: 2017-08-01
+Status: This is the original version (as it was originally made). This
+item of legislation is currently only available in its original format.
+(2) The report must state the annual quantity of emissions in tonnes of
+carbon dioxide equivalent from activities for which that company is responsible
+including—
+(a) the combustion of fuel; and
+(b) the operation of any facility.
+(3) The report must state the annual quantity of emissions in tonnes of
+carbon dioxide equivalent resulting from the purchase of electricity, heat, steam
+or cooling by the company for its own use.
+(4) Sub-paragraphs (2) and (3) apply only to the extent that it is practical for
+the company to obtain the information in question; but where it is not practical
+for the company to obtain some or all of that information, the report must state
+what information is not included and why.
+16. The directors’ report must state the methodologies used to calculate the
+information disclosed under paragraph 15(2) and (3).
+17. The directors’ report must state at least one ratio which expresses the
+quoted company’s annual emissions in relation to a quantifiable factor associated
+with the company’s activities.
+18. With the exception of the first year for which the directors’ report contains
+the information required by paragraphs 15(2) and (3) and 17, the report must state
+not only the information required by paragraphs 15(2) and (3) and 17, but also
+that information as disclosed in the report for the preceding financial year.
+19. The directors’ report must state if the period for which it is reporting
+the information required by paragraph 15(2) and (3) is different to the period in
+respect of which the directors’ report is prepared.
+20. The following definitions apply for the purposes of this Part of this
+Schedule—
+“emissions” means emissions into the atmosphere of a greenhouse gas
+as defined in section 92 of the Climate Change Act 2008(4) which are
+attributable to human activity;
+“tonne of carbon dioxide equivalent” has the meaning given in section 93(2)
+of the Climate Change Act 2008.”.
+Amendments to the Small Companies and Groups (Accounts and Directors’ Report)
+Regulations 2008
+8.—(1) Schedule 5 to the Small Companies and Groups (Accounts and Directors’ Report)
+Regulations 2008(5) (matters to be dealt with in directors’ report) is amended as follows.
+(2) Omit paragraph 4 (charitable donations).
+(3) Omit paragraph 6 (company acquiring own shares).
+(4) 2008 c. 27.
+(5) S.I. 2008/409 to which there are amendments not relevant to these Regulations.
+6
+Document Generated: 2017-08-01
+Status: This is the original version (as it was originally made). This
+item of legislation is currently only available in its original format.
+PART 4
+OPTION TO PROVIDE STRATEGIC REPORT
+Option to provide strategic report with supplementary material
+9. Part 15 (accounts and reports) of the Companies Act 2006 is amended as follows.
+10.—(1) Section 426 (option to provide summary financial statement) is amended as follows.
+(2) In the cross-heading before the section and in the heading to the section for “summary
+financial statement” substitute “strategic report with supplementary material”.
+(3) In subsection (1) for “summary financial statement” substitute “copy of the strategic report
+together with the supplementary material described in section 426A”.
+(4) Omit subsection (4).
+11. Omit section 427 (form and contents of summary financial statement: unquoted companies)
+and section 428 (form and contents of summary financial statement: quoted companies).
+12.—(1) After section 426 (option to provide summary financial statement) insert—
+“Supplementary material
+426A.—(1) The supplementary material referred to in section 426 must be prepared in
+accordance with this section.
+(2) The supplementary material must—
+(a) contain a statement that the strategic report is only part of the company’s annual
+accounts and reports;
+(b) state how a person entitled to them can obtain a full copy of the company’s annual
+accounts and reports;
+(c) state whether the auditor’sreport on the annual accounts was unqualified or qualified
+and, if it was qualified, set out the report in full together with any further material
+needed to understand the qualification;
+(d) state whether, in that report, the auditor’s statement under section 496 (whether
+strategic report and directors’ report consistent with the accounts) was unqualified
+or qualified and, if it was qualified, set out the qualified statement in full together
+with any further material needed to understand the qualification;
+(e) in the case of a quoted company, contain a copy of that part of the directors’
+remuneration report which sets out the single total figure table in respect of
+the company’s directors’ remuneration in accordance with the requirements of
+Schedule 8 to the Large and Medium-sized Companies (Accounts and Reports)
+Regulations 2008 (S.I. 2008/410).”
+13. Omit section 429 (summary financial statements: offences).

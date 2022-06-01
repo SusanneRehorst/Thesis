@@ -1,0 +1,138 @@
+SEC. 302. CORPORATE RESPONSIBILITY FOR FINANCIAL REPORTS.
+(a) REGULATIONS REQUIRED.—The Commission shall, by rule,
+require, for each company filing periodic reports under section 13(a)
+or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m,
+78o(d)), that the principal executive officer or officers and the principal financial officer or officers, or persons performing similar
+functions, certify in each annual or quarterly report filed or submitted under either such section of such Act that—
+(1) the signing officer has reviewed the report;
+(2) based on the officer’s knowledge, the report does not
+contain any untrue statement of a material fact or omit to
+state a material fact necessary in order to make the statements
+made, in light of the circumstances under which such statements were made, not misleading;
+(3) based on such officer’s knowledge, the financial statements, and other financial information included in the report,
+fairly present in all material respects the financial condition
+and results of operations of the issuer as of, and for, the
+periods presented in the report;
+(4) the signing officers—
+(A) are responsible for establishing and maintaining
+internal controls;
+(B) have designed such internal controls to ensure
+that material information relating to the issuer and its
+consolidated subsidiaries is made known to such officers
+by others within those entities, particularly during the
+period in which the periodic reports are being prepared;
+(C) have evaluated the effectiveness of the issuer’s
+internal controls as of a date within 90 days prior to
+the report; and
+(D) have presented in the report their conclusions
+about the effectiveness of their internal controls based on
+their evaluation as of that date;
+(5) the signing officers have disclosed to the issuer’s auditors and the audit committee of the board of directors (or
+persons fulfilling the equivalent function)—
+(A) all significant deficiencies in the design or operation
+of internal controls which could adversely affect the issuer’s
+ability to record, process, summarize, and report financial
+data and have identified for the issuer’s auditors any material weaknesses in internal controls; and
+(B) any fraud, whether or not material, that involves
+management or other employees who have a significant
+role in the issuer’s internal controls; and
+(6) the signing officers have indicated in the report whether
+or not there were significant changes in internal controls or
+in other factors that could significantly affect internal controls
+subsequent to the date of their evaluation, including any corrective actions with regard to significant deficiencies and material
+weaknesses.
+15 USC 7241.
+VerDate 11-MAY-2000 09:34 Sep 09, 2004 Jkt 019194 PO 00000 Frm 00033 Fmt 6580 Sfmt 6581 O:\TURNEY\PUBL204.116 APPS10 PsN: PUBL204
+116 STAT. 778 PUBLIC LAW 107–204—JULY 30, 2002
+(b) FOREIGN REINCORPORATIONS HAVE NO EFFECT.—Nothing
+in this section 302 shall be interpreted or applied in any way
+to allow any issuer to lessen the legal force of the statement
+required under this section 302, by an issuer having reincorporated
+or having engaged in any other transaction that resulted in the
+transfer of the corporate domicile or offices of the issuer from
+inside the United States to outside of the United States.
+(c) DEADLINE.—The rules required by subsection (a) shall be
+effective not later than 30 days after the date of enactment of
+this Act.
+
+SEC. 403. DISCLOSURES OF TRANSACTIONS INVOLVING MANAGEMENT
+AND PRINCIPAL STOCKHOLDERS.
+(a) AMENDMENT.—Section 16 of the Securities Exchange Act
+of 1934 (15 U.S.C. 78p) is amended by striking the heading of
+such section and subsection (a) and inserting the following:
+‘‘SEC. 16. DIRECTORS, OFFICERS, AND PRINCIPAL STOCKHOLDERS.
+‘‘(a) DISCLOSURES REQUIRED.—
+‘‘(1) DIRECTORS, OFFICERS, AND PRINCIPAL STOCKHOLDERS
+REQUIRED TO FILE.—Every person who is directly or indirectly
+the beneficial owner of more than 10 percent of any class
+of any equity security (other than an exempted security) which
+is registered pursuant to section 12, or who is a director or
+an officer of the issuer of such security, shall file the statements
+required by this subsection with the Commission (and, if such
+security is registered on a national securities exchange, also
+with the exchange).
+‘‘(2) TIME OF FILING.—The statements required by this subsection shall be filed—
+‘‘(A) at the time of the registration of such security
+on a national securities exchange or by the effective date
+of a registration statement filed pursuant to section 12(g);
+‘‘(B) within 10 days after he or she becomes such
+beneficial owner, director, or officer;
+‘‘(C) if there has been a change in such ownership,
+or if such person shall have purchased or sold a securitybased swap agreement (as defined in section 206(b) of
+the Gramm-Leach-Bliley Act (15 U.S.C. 78c note)) involving
+such equity security, before the end of the second business
+day following the day on which the subject transaction
+has been executed, or at such other time as the Commission
+shall establish, by rule, in any case in which the Commission determines that such 2-day period is not feasible.
+‘‘(3) CONTENTS OF STATEMENTS.—A statement filed—
+‘‘(A) under subparagraph (A) or (B) of paragraph (2)
+shall contain a statement of the amount of all equity securities of such issuer of which the filing person is the beneficial
+owner; and
+‘‘(B) under subparagraph (C) of such paragraph shall
+indicate ownership by the filing person at the date of
+filing, any such changes in such ownership, and such purchases and sales of the security-based swap agreements
+as have occurred since the most recent such filing under
+such subparagraph.
+‘‘(4) ELECTRONIC FILING AND AVAILABILITY.—Beginning not
+later than 1 year after the date of enactment of the SarbanesOxley Act of 2002—
+‘‘(A) a statement filed under subparagraph (C) of paragraph (2) shall be filed electronically;
+‘‘(B) the Commission shall provide each such statement
+on a publicly accessible Internet site not later than the
+end of the business day following that filing; and
+Deadline.
+Deadline.
+VerDate 11-MAY-2000 09:34 Sep 09, 2004 Jkt 019194 PO 00000 Frm 00044 Fmt 6580 Sfmt 6581 O:\TURNEY\PUBL204.116 APPS10 PsN: PUBL204
+PUBLIC LAW 107–204—JULY 30, 2002 116 STAT. 789
+‘‘(C) the issuer (if the issuer maintains a corporate
+website) shall provide that statement on that corporate
+website, not later than the end of the business day following
+that filing.’’.
+(b) EFFECTIVE DATE.—The amendment made by this section
+shall be effective 30 days after the date of the enactment of this
+Act.
+SEC. 404. MANAGEMENT ASSESSMENT OF INTERNAL CONTROLS.
+(a) RULES REQUIRED.—The Commission shall prescribe rules
+requiring each annual report required by section 13(a) or 15(d)
+of the Securities Exchange Act of 1934 (15 U.S.C. 78m or 78o(d))
+to contain an internal control report, which shall—
+(1) state the responsibility of management for establishing
+and maintaining an adequate internal control structure and
+procedures for financial reporting; and
+(2) contain an assessment, as of the end of the most recent
+fiscal year of the issuer, of the effectiveness of the internal
+control structure and procedures of the issuer for financial
+reporting.
+(b) INTERNAL CONTROL EVALUATION AND REPORTING.—With
+respect to the internal control assessment required by subsection
+(a), each registered public accounting firm that prepares or issues
+the audit report for the issuer shall attest to, and report on, the
+assessment made by the management of the issuer. An attestation
+made under this subsection shall be made in accordance with standards for attestation engagements issued or adopted by the Board.
+Any such attestation shall not be the subject of a separate engagement.
+SEC. 405. EXEMPTION.
+Nothing in section 401, 402, or 404, the amendments made
+by those sections, or the rules of the Commission under those
+sections shall apply to any investment company registered under
+section 8 of the Investment Company Act of 1940 (15 U.S.C. 80a–
+8).
+

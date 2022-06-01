@@ -1,0 +1,1707 @@
+
+                                 AN ACT
+
+
+ 
+  To provide for disclosure of additional material information about 
+     public companies and establish a Sustainable Finance Advisory 
+                   Committee, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Corporate Governance Improvement and 
+Investor Protection Act''.
+
+                 TITLE I--ESG DISCLOSURE SIMPLIFICATION
+
+SEC. 101. SHORT TITLE.
+
+    This title may be cited as the ``ESG Disclosure Simplification Act 
+of 2021''.
+
+SEC. 102. FINDINGS.
+
+    Congress finds the following:
+            (1) The Securities and Exchange Commission has broad 
+        authority to require the disclosure of information if such 
+        information is in the interest of, or is material to investors.
+            (2) The Commission does not require companies to disclose 
+        information related to environmental, social, and governance 
+        (``ESG'') matters, and does not require companies to adhere to 
+        standards for disclosing such information.
+            (3) Investors have reported that voluntary disclosures of 
+        ESG metrics are inadequate.
+            (4) A rule requiring reporting and standardization of ESG 
+        disclosures is in the interest of investors.
+            (5) ESG matters are material to investors, and the 
+        Commission must establish standards for disclosure of such 
+        matters.
+
+SEC. 103. ESG DISCLOSURES.
+
+    (a) In General.--Section 14 of the Securities Exchange Act of 1934 
+(15 U.S.C. 78n) is amended by adding at the end the following:
+    ``(k) ESG Disclosures.--
+            ``(1) In general.--Each issuer the securities of which are 
+        registered under section 12 or that is required to file annual 
+        reports under section 15(d) shall disclose in any proxy or 
+        consent solicitation material for an annual meeting of the 
+        shareholders--
+                    ``(A) a clear description of the views of the 
+                issuer about the link between ESG metrics and the long-
+                term business strategy of the issuer; and
+                    ``(B) a description of any process the issuer uses 
+                to determine the impact of ESG metrics on the long-term 
+                business strategy of the issuer.
+            ``(2) ESG metrics defined.--In this subsection, the term 
+        `ESG metrics' has the meaning given the term in part 210 of 
+        title 17, Code of Federal Regulations as amended pursuant to 
+        section 3(b) of the ESG Disclosure Simplification Act of 
+        2021.''.
+    (b) Rulemaking.--
+            (1) In general.--The Securities and Exchange Commission (in 
+        this Act referred to as the ``Commission'') shall amend part 
+        210 of title 17, Code of Federal Regulations (or any successor 
+        thereto) to--
+                    (A) require each issuer, in any filing of the 
+                issuer described in such part that requires audited 
+                financial statements, to disclose environmental, 
+                social, and governance metrics (in this title referred 
+                to as ESG metrics); and
+                    (B) define ESG metrics.
+            (2) Sustainable finance advisory committee.--The 
+        Sustainable Finance Advisory Committee established pursuant to 
+        section 4(k) of the Securities and Exchange Act of 1934 shall, 
+        not later than 180 days after the date of the first meeting of 
+        such Committee, submit to the Commission recommendations about 
+        what ESG metrics the Commission should require issuers to 
+        disclose.
+            (3) Materiality.--It is the sense of Congress that ESG 
+        metrics, as such term is defined by the Commission pursuant to 
+        paragraph (1), are de facto material for the purposes of 
+        disclosures under the Securities Exchange Act of 1934 and the 
+        Securities Act of 1933.
+            (4) Incorporation of international standards.--When 
+        amending part 210 of title 17, Code of Federal Regulations (or 
+        any successor thereto) pursuant to paragraph (1), the 
+        Commission may, as the Commission determines appropriate, 
+        incorporate any internationally recognized, independent, multi-
+        stakeholder environmental, social, and governance disclosure 
+        standards.
+            (5) Location of disclosure.--Any disclosure required by 
+        paragraph (1) may be included in a notes section of the filing.
+            (6) Delay for small issuers.--The Commission may use a 
+        phased approach when applying any amendments made pursuant to 
+        paragraph (1) to small issuers and may determine the criteria 
+        by which an issuer qualifies as a small issuer for purposes of 
+        such phased approach.
+
+SEC. 203. REPORTING REQUIREMENTS.
+
+    Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m) 
+is amended by adding at the end the following:
+    ``(s) Reporting Requirements Relating to Certain Political 
+Expenditures.--
+            ``(1) Definitions.--In this subsection:
+                    ``(A) Expenditure for political activities.--The 
+                term `expenditure for political activities'--
+                            ``(i) means--
+                                    ``(I) an independent expenditure 
+                                (as defined in section 301(17) of the 
+                                Federal Election Campaign Act of 1971 
+                                (52 U.S.C. 30101(17)));
+                                    ``(II) an electioneering 
+                                communication (as defined in section 
+                                304(f)(3) of that Act (52 U.S.C. 
+                                30104(f)(3))) and any other public 
+                                communication (as defined in section 
+                                301(22) of that Act (52 U.S.C. 
+                                30101(22))) that would be an 
+                                electioneering communication if it were 
+                                a broadcast, cable, or satellite 
+                                communication; or
+                                    ``(III) dues or other payments to 
+                                trade associations or organizations 
+                                described in section 501(c) of the 
+                                Internal Revenue Code of 1986 and 
+                                exempt from tax under section 501(a) of 
+                                that Code that are, or could reasonably 
+                                be anticipated to be, used or 
+                                transferred to another association or 
+                                organization for the purposes described 
+                                in subclause (I) or (II); and
+                            ``(ii) does not include--
+                                    ``(I) direct lobbying efforts 
+                                through registered lobbyists employed 
+                                or hired by the issuer;
+                                    ``(II) communications by an issuer 
+                                to its shareholders and executive or 
+                                administrative personnel and their 
+                                families; or
+                                    ``(III) the establishment and 
+                                administration of contributions to a 
+                                separate segregated fund to be utilized 
+                                for political purposes by a 
+                                corporation.
+                    ``(B) Issuer.--The term `issuer' does not include 
+                an investment company registered under section 8 of the 
+                Investment Company Act of 1940 (15 U.S.C. 80a-8).
+            ``(2) Quarterly reports.--
+                    ``(A) Reports required.--Not later than 180 days 
+                after the date of enactment of this subsection, the 
+                Commission shall amend the reporting rules under this 
+                section to require each issuer with a class of equity 
+                securities registered under section 12 of this title to 
+                submit to the Commission and the shareholders of the 
+                issuer a quarterly report containing--
+                            ``(i) a description of any expenditure for 
+                        political activities made during the preceding 
+                        quarter;
+                            ``(ii) the date of each expenditure for 
+                        political activities;
+                            ``(iii) the amount of each expenditure for 
+                        political activities;
+                            ``(iv) if the expenditure for political 
+                        activities was made in support of or in 
+                        opposition to a candidate, the name of the 
+                        candidate and the office sought by, and the 
+                        political party affiliation of, the candidate; 
+                        and
+                            ``(v) the name or identity of trade 
+                        associations or organizations described in 
+                        section 501(c) of the Internal Revenue Code of 
+                        1986 and exempt from tax under section 501(a) 
+                        of such Code which receive dues or other 
+                        payments as described in paragraph 
+                        (1)(A)(i)(III).
+                    ``(B) Public availability.--The Commission shall 
+                ensure that the quarterly reports required under this 
+                paragraph are publicly available through the Internet 
+                website of the Commission and through the EDGAR system 
+                in a manner that is searchable, sortable, and 
+                downloadable, consistent with the requirements under 
+                section 24.
+            ``(3) Annual reports.--Not later than 180 days after the 
+        date of enactment of this subsection, the Commission shall, by 
+        rule, require each issuer to include in the annual report of 
+        the issuer to shareholders--
+                    ``(A) a summary of each expenditure for political 
+                activities made during the preceding year in excess of 
+                $10,000, and each expenditure for political activities 
+                for a particular election if the total amount of such 
+                expenditures for that election is in excess of $10,000;
+                    ``(B) a description of the specific nature of any 
+                expenditure for political activities the issuer intends 
+                to make for the forthcoming fiscal year, to the extent 
+                the specific nature is known to the issuer; and
+                    ``(C) the total amount of expenditures for 
+                political activities intended to be made by the issuer 
+                for the forthcoming fiscal year.''.
+
+SEC. 204. REPORTS.
+
+    (a) Securities and Exchange Commission.--The Securities and 
+Exchange Commission shall--
+            (1) conduct an annual assessment of the compliance of 
+        issuers with section 13(s) of the Securities Exchange Act of 
+        1934, as added by section 203; and
+            (2) submit to Congress an annual report containing the 
+        results of the assessment under paragraph (1).
+    (b) Government Accountability Office.--The Comptroller General of 
+the United States shall periodically evaluate and report to Congress on 
+the effectiveness of the oversight by the Securities and Exchange 
+Commission of the reporting and disclosure requirements under section 
+13(s) of the Securities Exchange Act of 1934, as added by section 203.
+
+                TITLE III--GREATER ACCOUNTABILITY IN PAY
+
+SEC. 301. SHORT TITLE.
+
+    This title may be cited as the ``Greater Accountability in Pay Act 
+of 2021''.
+
+SEC. 302. PAY RAISE DISCLOSURES.
+
+    Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m), 
+as amended by section 203, is further amended by adding at the end the 
+following:
+    ``(t) Pay Raise Disclosures.--An issuer required to file an annual 
+report under this section or section 15(d), that is not an emerging 
+growth company, shall include in such report--
+            ``(1) the percentage increase in the median of the annual 
+        total compensation of all executive officers (as such term is 
+        defined in section 240.3b-7 of title 17, Code of Federal 
+        Regulations) of the issuer over the last completed fiscal year;
+            ``(2) the percentage increase in the median of the annual 
+        total compensation of all employees of the issuer, excluding 
+        executive officers, over the last completed fiscal year;
+            ``(3) the ratio of the percentage described in paragraph 
+        (1) to the percentage described in paragraph (2);
+            ``(4) a comparison of the percentage described in paragraph 
+        (1) to the percentage change over the same period in the 
+        Consumer Price Index for All Urban Consumers published by the 
+        Bureau of Labor Statistics of the Department of Labor; and
+            ``(5) a comparison of the percentage described in paragraph 
+        (2) to the percentage change over the same period in the 
+        Consumer Price Index for All Urban Consumers published by the 
+        Bureau of Labor Statistics of the Department of Labor.''.
+
+                   TITLE IV--CLIMATE RISK DISCLOSURE
+
+SEC. 401. SHORT TITLE.
+
+    This title may be cited as the ``Climate Risk Disclosure Act of 
+2021''.
+
+SEC. 402. SENSE OF CONGRESS.
+
+    It is the sense of Congress that--
+            (1) climate change poses a significant and increasing 
+        threat to the growth and stability of the economy of the United 
+        States;
+            (2) many sectors of the economy of the United States and 
+        many American businesses are exposed to climate-related risk, 
+        which may include exposure to--
+                    (A) the physical impacts of climate change, 
+                including the rise of the average global temperature, 
+                accelerating sea-level rise, desertification, ocean 
+                acidification, intensification of storms, increase in 
+                heavy precipitation, more frequent and intense 
+                temperature extremes, more severe droughts, and longer 
+                wildfire seasons;
+                    (B) the economic disruptions and security threats 
+                that result from the physical impacts described in 
+                subparagraph (A) including conflicts over scarce 
+                resources, conditions conducive to violent extremism, 
+                the spread of infectious diseases, and forced 
+                migration;
+                    (C) the transition impacts that result as the 
+                global economy transitions to a clean and renewable 
+                energy, low-emissions economy, including financial 
+                impacts as climate change fossil fuel assets becoming 
+                stranded and it becomes uneconomic for companies to 
+                develop fossil fuel assets as policymakers act to limit 
+                the worst impacts of climate change by keeping the rise 
+                in average global temperature to 1.5 degrees Celsius 
+                above pre-industrial levels; and
+                    (D) actions by Federal, State, Tribal, territorial, 
+                and local governments to limit the worst effects of 
+                climate change by enacting policies that keep the 
+                global average surface temperature rise to 1.5 degrees 
+                Celsius above pre-industrial levels;
+            (3) assessing the potential impact of climate-related risks 
+        on national and international financial systems is an urgent 
+        concern;
+            (4) companies have a duty to disclose financial risks that 
+        climate change presents to their investors, lenders, and 
+        insurers;
+            (5) the Securities and Exchange Commission has a duty to 
+        promote a risk-informed securities market that is worthy of the 
+        trust of the public as families invest for their futures;
+            (6) investors, lenders, and insurers are increasingly 
+        demanding climate risk information that is consistent, 
+        comparable, reliable, and clear;
+            (7) including standardized, material climate change risk 
+        and opportunity disclosure that is useful for decision makers 
+        in annual reports to the Commission will increase transparency 
+        with respect to risk accumulation and exposure in financial 
+        markets;
+            (8) requiring companies to disclose climate-related risk 
+        exposure and risk management strategies will encourage a 
+        smoother transition to a clean and renewable energy, low-
+        emissions economy and guide capital allocation to mitigate, and 
+        adapt to, the effects of climate change and limit damages 
+        associated with climate-related events and disasters; and
+            (9) a critical component in fighting climate change is a 
+        transparent accounting of the risks that climate change 
+        presents and the implications of continued inaction with 
+        respect to climate change.
+
+SEC. 403. DISCLOSURES RELATING TO CLIMATE CHANGE.
+
+    Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m), 
+as amended by section 302, is further amended by adding at the end the 
+following:
+    ``(u) Disclosures Relating to Climate Change.--
+            ``(1) Definitions.--In this subsection:
+                    ``(A) 1.5 degree scenario.--The term `1.5 degree 
+                scenario' means a scenario that aligns with greenhouse 
+                gas emissions pathways that aim to limit global warming 
+                to 1.5 degrees Celsius above pre-industrial levels.
+                    ``(B) Appropriate climate principals.--The term 
+                `appropriate climate principals' means--
+                            ``(i) the Administrator of the 
+                        Environmental Protection Agency;
+                            ``(ii) the Administrator of the National 
+                        Oceanic and Atmospheric Administration;
+                            ``(iii) the Director of the Office of 
+                        Management and Budget;
+                            ``(iv) the Secretary of the Interior;
+                            ``(v) the Secretary of Energy; and
+                            ``(vi) the head of any other Federal 
+                        agency, as determined appropriate by the 
+                        Commission.
+                    ``(C) Baseline scenario.--The term `baseline 
+                scenario' means a widely-recognized analysis scenario 
+                in which levels of greenhouse gas emissions, as of the 
+                date on which the analysis is performed, continue to 
+                grow, resulting in an increase in the global average 
+                temperature of 1.5 degrees Celsius or more above pre-
+                industrial levels.
+                    ``(D) Carbon dioxide equivalent.--The term `carbon 
+                dioxide equivalent' means the number of metric tons of 
+                carbon dioxide emissions with the same global warming 
+                potential as one metric ton of another greenhouse gas, 
+                as determined under table A-1 of subpart A of part 98 
+                of title 40, Code of Federal Regulations, as in effect 
+                on the date of enactment of this subsection.
+                    ``(E) Climate change.--The term `climate change' 
+                means a change of climate that is--
+                            ``(i) attributed directly or indirectly to 
+                        human activity that alters the composition of 
+                        the global atmosphere; and
+                            ``(ii) in addition to natural climate 
+                        variability observed over comparable time 
+                        periods.
+                    ``(F) Commercial development of fossil fuels.--The 
+                term `commercial development of fossil fuels' 
+                includes--
+                            ``(i) exploration, extraction, processing, 
+                        exporting, transporting, refining, and any 
+                        other significant action with respect to oil, 
+                        natural gas, coal, or any byproduct thereof or 
+                        any other solid or liquid hydrocarbons that are 
+                        commercially produced; and
+                            ``(ii) acquiring a license for any activity 
+                        described in clause (i).
+                    ``(G) Covered issuer.--The term `covered issuer' 
+                means an issuer that is required to file an annual 
+                report under subsection (a) or section 15(d).
+                    ``(H) Direct and indirect greenhouse gas 
+                emissions.--The term `direct and indirect greenhouse 
+                gas emissions' includes, with respect to a covered 
+                issuer--
+                            ``(i) all direct greenhouse gas emissions 
+                        released by the covered issuer;
+                            ``(ii) all indirect greenhouse gas 
+                        emissions with respect to electricity, heat, or 
+                        steam purchased by the covered issuer;
+                            ``(iii) significant indirect emissions, 
+                        other than the emissions described in clause 
+                        (ii), emitted in the value chain of the covered 
+                        issuer; and
+                            ``(iv) all indirect greenhouse gas 
+                        emissions that are attributable to assets owned 
+                        or managed, including assets that are partially 
+                        owned or managed, by the covered issuer.
+                    ``(I) Fossil fuel reserves.--The term `fossil fuel 
+                reserves' has the meaning given the term `reserves' 
+                under the final rule of the Commission titled 
+                `Modernization of Oil and Gas Reporting' (74 Fed. Reg. 
+                2158; published January 14, 2009).
+                    ``(J) Greenhouse gas.--The term `greenhouse gas'--
+                            ``(i) means carbon dioxide, 
+                        hydrofluorocarbons, methane, nitrous oxide, 
+                        perfluorocarbons, sulfur hexafluoride, nitrogen 
+                        triflouride, and chlorofluorocarbons;
+                            ``(ii) includes any other 
+                        anthropogenically-emitted gas that the 
+                        Administrator of the Environmental Protection 
+                        Agency determines, after notice and comment, to 
+                        contribute to climate change; and
+                            ``(iii) includes any other 
+                        anthropogenically-emitted gas that the 
+                        Intergovernmental Panel on Climate Change 
+                        determines to contribute to climate change.
+                    ``(K) Greenhouse gas emissions.--The term 
+                `greenhouse gas emissions' means the emissions of 
+                greenhouse gas, expressed in terms of metric tons of 
+                carbon dioxide equivalent.
+                    ``(L) Physical risks.--The term `physical risks' 
+                means financial risks to long-lived fixed assets, 
+                locations, operations, or value chains that result from 
+                exposure to physical climate-related effects, 
+                including--
+                            ``(i) increased average global temperatures 
+                        and increased frequency of temperature 
+                        extremes;
+                            ``(ii) increased severity and frequency of 
+                        extreme weather events;
+                            ``(iii) increased flooding;
+                            ``(iv) sea level rise;
+                            ``(v) ocean acidification;
+                            ``(vi) increased frequency of wildfires;
+                            ``(vii) decreased arability of farmland;
+                            ``(viii) decreased availability of fresh 
+                        water; and
+                            ``(ix) any other financial risks to long-
+                        lived fixed assets, locations, operations, or 
+                        value chains determined appropriate by the 
+                        Commission, in consultation with appropriate 
+                        climate principals.
+                    ``(M) Social cost of carbon.--The term `social cost 
+                of carbon' means the social cost of carbon, as 
+                described in the technical support document entitled 
+                `Technical Support Document: Technical Update of the 
+                Social Cost of Carbon for Regulatory Impact Analysis 
+                Under Executive Order 12866', published by the 
+                Interagency Working Group on Social Cost of Greenhouse 
+                Gases, United States Government, in August 2016 or any 
+                successor or substantially related estimate of the 
+                monetized damages associated with an incremental 
+                increase in carbon dioxide emissions in a given year.
+                    ``(N) Transition risks.--The term `transition 
+                risks' means financial risks that are attributable to 
+                climate change mitigation and adaptation, including 
+                efforts to reduce greenhouse gas emissions and 
+                strengthen resilience to the impacts of climate change, 
+                including--
+                            ``(i) costs relating to--
+                                    ``(I) international treaties and 
+                                agreements;
+                                    ``(II) Federal, State, and local 
+                                policy;
+                                    ``(III) new technologies;
+                                    ``(IV) changing markets;
+                                    ``(V) reputational impacts relevant 
+                                to changing consumer behavior; and
+                                    ``(VI) litigation; and
+                            ``(ii) assets that may lose value or become 
+                        stranded due to any of the costs described in 
+                        subclauses (I) through (VI) of clause (i).
+                    ``(O) Value chain.--The term `value chain'--
+                            ``(i) means the total lifecycle of a 
+                        product or service, both before and after 
+                        production of the product or service, as 
+                        applicable; and
+                            ``(ii) may include the sourcing of 
+                        materials, production, transportation, and 
+                        disposal with respect to the product or service 
+                        described in clause (i).
+            ``(2) Findings.--Congress finds that--
+                    ``(A) short-, medium-, and long-term financial and 
+                economic risks and opportunities relating to climate 
+                change, and the national and global reduction of 
+                greenhouse gas emissions, constitute information that 
+                issuers--
+                            ``(i) may reasonably expect to affect 
+                        shareholder decision making; and
+                            ``(ii) should regularly identify, evaluate, 
+                        and disclose; and
+                    ``(B) the disclosure of information described in 
+                subparagraph (A) should--
+                            ``(i) identify, and evaluate--
+                                    ``(I) material physical and 
+                                transition risks posed by climate 
+                                change; and
+                                    ``(II) the potential financial 
+                                impact of such risks;
+                            ``(ii) detail any implications such risks 
+                        have on corporate strategy;
+                            ``(iii) detail any board-level oversight of 
+                        material climate related risks and 
+                        opportunities;
+                            ``(iv) allow for intra- and cross-industry 
+                        comparison, to the extent practicable, of 
+                        climate-related risk exposure through the 
+                        inclusion of standardized industry-specific and 
+                        sector-specific disclosure metrics, as 
+                        identified by the Commission, in consultation 
+                        with the appropriate climate principals;
+                            ``(v) allow for tracking of performance 
+                        over time with respect to mitigating climate 
+                        risk exposure; and
+                            ``(vi) incorporate a price on greenhouse 
+                        gas emissions in financial analyses that 
+                        reflects, at minimum, the social cost of carbon 
+                        that is attributable to issuers.
+            ``(3) Disclosure.--Each covered issuer, in any annual 
+        report filed by the covered issuer under subsection (a) or 
+        section 15(d), shall, in accordance with any rules issued by 
+        the Commission pursuant to this subsection, include in each 
+        such report information regarding--
+                    ``(A) the identification of, the evaluation of 
+                potential financial impacts of, and any risk-management 
+                strategies relating to--
+                            ``(i) physical risks posed to the covered 
+                        issuer by climate change; and
+                            ``(ii) transition risks posed to the 
+                        covered issuer by climate change;
+                    ``(B) a description of any established corporate 
+                governance processes and structures to identify, 
+                assess, and manage climate-related risks;
+                    ``(C) a description of specific actions that the 
+                covered issuer is taking to mitigate identified risks;
+                    ``(D) a description of the resilience of any 
+                strategy the covered issuer has for addressing climate 
+                risks when differing climate scenarios are taken into 
+                consideration; and
+                    ``(E) a description of how climate risk is 
+                incorporated into the overall risk management strategy 
+                of the covered issuer.
+            ``(4) Rule of construction.--Nothing in paragraph (3) may 
+        be construed as precluding a covered issuer from including, in 
+        an annual report submitted under subsection (a) or section 
+        15(d), any information not explicitly referenced in such 
+        paragraph.
+            ``(5) Rulemaking.--The Commission, in consultation with the 
+        appropriate climate principals, shall, not later than 2 years 
+        after the date of the enactment of this subsection, issue rules 
+        with respect to the information that a covered issuer is 
+        required to disclose pursuant to this subsection and such rules 
+        shall--
+                    ``(A) establish climate-related risk disclosure 
+                rules, which shall--
+                            ``(i) be, to the extent practicable, 
+                        specialized for industries within specific 
+                        sectors of the economy, which shall include--
+                                    ``(I) the sectors of finance, 
+                                insurance, transportation, electric 
+                                power, mining, and non-renewable 
+                                energy; and
+                                    ``(II) any other sector determined 
+                                appropriate by the Commission, in 
+                                consultation with the appropriate 
+                                climate principals;
+                            ``(ii) include reporting standards for 
+                        estimating and disclosing direct and indirect 
+                        greenhouse gas emissions by a covered issuer, 
+                        and any affiliates of the covered issuer, which 
+                        shall--
+                                    ``(I) disaggregate, to the extent 
+                                practicable, total emissions of each 
+                                specified greenhouse gas by the covered 
+                                issuer; and
+                                    ``(II) include greenhouse gas 
+                                emissions by the covered issuer during 
+                                the period covered by the disclosure;
+                            ``(iii) include reporting standards for 
+                        disclosing, with respect to a covered issuer--
+                                    ``(I) the total amount of fossil 
+                                fuel-related assets owned or managed by 
+                                the covered issuer; and
+                                    ``(II) the percentage of fossil 
+                                fuel-related assets as a percentage of 
+                                total assets owned or managed by the 
+                                covered issuer;
+                            ``(iv) specify requirements for, and the 
+                        disclosure of, input parameters, assumptions, 
+                        and analytical choices to be used in climate 
+                        scenario analyses required under subparagraph 
+                        (B)(i), including--
+                                    ``(I) present value discount rates; 
+                                and
+                                    ``(II) time frames to consider, 
+                                including 5, 10, and 20 year time 
+                                frames; and
+                            ``(v) include reporting standards and 
+                        guidance with respect to the information 
+                        required under subparagraph (B)(iii);
+                    ``(B) require that a covered issuer, with respect 
+                to a disclosure required under this subsection--
+                            ``(i) incorporate into such disclosure--
+                                    ``(I) quantitative analysis to 
+                                support any qualitative statement made 
+                                by the covered issuer;
+                                    ``(II) the rules established under 
+                                subparagraph (A);
+                                    ``(III) industry-specific metrics 
+                                that comply with the requirements under 
+                                subparagraph (A)(i);
+                                    ``(IV) specific risk management 
+                                actions that the covered issuer is 
+                                taking to address identified risks;
+                                    ``(V) a discussion of the short-, 
+                                medium-, and long-term resilience of 
+                                any risk management strategy, and the 
+                                evolution of applicable risk metrics, 
+                                of the covered issuer under each 
+                                scenario described in clause (ii); and
+                                    ``(VI) the total cost attributable 
+                                to the direct and indirect greenhouse 
+                                gas emissions of the covered issuer, 
+                                using, at minimum, the social cost of 
+                                carbon;
+                            ``(ii) consider, when preparing any 
+                        qualitative or quantitative risk analysis 
+                        statement contained in the disclosure--
+                                    ``(I) a baseline scenario that 
+                                includes physical impacts of climate 
+                                change;
+                                    ``(II) a 1.5 degrees scenario; and
+                                    ``(III) any additional climate 
+                                analysis scenario considered 
+                                appropriate by the Commission, in 
+                                consultation with the appropriate 
+                                climate principals;
+                            ``(iii) if the covered issuer engages in 
+                        the commercial development of fossil fuels, 
+                        include in the disclosure--
+                                    ``(I) an estimate of the total and 
+                                a disaggregated amount of direct and 
+                                indirect greenhouse gas emissions of 
+                                the covered issuer that are 
+                                attributable to--
+                                            ``(aa) combustion;
+                                            ``(bb) flared hydrocarbons;
+                                            ``(cc) process emissions;
+                                            ``(dd) directly vented 
+                                        emissions;
+                                            ``(ee) fugitive emissions 
+                                        or leaks; and
+                                            ``(ff) land use changes;
+                                    ``(II) a description of--
+                                            ``(aa) the sensitivity of 
+                                        fossil fuel reserve levels to 
+                                        future price projection 
+                                        scenarios that incorporate the 
+                                        social cost of carbon;
+                                            ``(bb) the percentage of 
+                                        the reserves of the covered 
+                                        issuer that will be developed 
+                                        under the scenarios established 
+                                        in clause (ii), as well as a 
+                                        forecast for the development 
+                                        prospects of each reserve under 
+                                        the scenarios established in 
+                                        clause (ii);
+                                            ``(cc) the potential amount 
+                                        of direct and indirect 
+                                        greenhouse gas emissions that 
+                                        are embedded in proved and 
+                                        probable reserves, with each 
+                                        such calculation presented as a 
+                                        total and in subdivided 
+                                        categories by the type of 
+                                        reserve;
+                                            ``(dd) the methodology of 
+                                        the covered issuer for 
+                                        detecting and mitigating 
+                                        fugitive methane emissions, 
+                                        which shall include the 
+                                        frequency with which applicable 
+                                        assets of the covered issuer 
+                                        are observed for methane leaks, 
+                                        the processes and technology 
+                                        that the covered issuer uses to 
+                                        detect methane leaks, the 
+                                        percentage of assets of the 
+                                        covered issuer that the covered 
+                                        issuer inspects under that 
+                                        methodology, and quantitative 
+                                        and time-bound reduction goals 
+                                        of the issuer with respect to 
+                                        methane leaks;
+                                            ``(ee) the amount of water 
+                                        that the covered issuer 
+                                        withdraws from freshwater 
+                                        sources for use and consumption 
+                                        in operations of the covered 
+                                        issuer; and
+                                            ``(ff) the percentage of 
+                                        the water described in item 
+                                        (ee) that comes from regions of 
+                                        water stress or that face 
+                                        wastewater management 
+                                        challenges; and
+                                    ``(III) any other information that 
+                                the Commission determines is--
+                                            ``(aa) necessary;
+                                            ``(bb) appropriate to 
+                                        safeguard the public interest; 
+                                        or
+                                            ``(cc) directed at ensuring 
+                                        that investors are informed in 
+                                        accordance with the findings 
+                                        described in paragraph (2);
+                    ``(C) with respect to a disclosure required under 
+                section 13(s) of the Securities Exchange Act of 1934, 
+                require that a covered issuer include in such 
+                disclosure any other information, or use any climate-
+                related or greenhouse gas emissions metric, that the 
+                Commission, in consultation with the appropriate 
+                climate principals, determines is--
+                            ``(i) necessary;
+                            ``(ii) appropriate to safeguard the public 
+                        interest; or
+                            ``(iii) directed at ensuring that investors 
+                        are informed in accordance with the findings 
+                        described in paragraph (2); and
+                    ``(D) with respect to a disclosure required under 
+                section 13(s) of the Securities Exchange Act of 1934, 
+                establish how and where the required disclosures shall 
+                be addressed in the covered issuer's annual financial 
+                filing.
+            ``(6) Formatting.--The Commission shall require issuers to 
+        disclose information in an interactive data format and shall 
+        develop standards for such format, which shall include 
+        electronic tags for information that the Commission determines 
+        is--
+                    ``(A) necessary;
+                    ``(B) appropriate to safeguard the public interest; 
+                or
+                    ``(C) directed at ensuring that investors are 
+                informed in accordance with the findings described in 
+                paragraph (2).
+            ``(7) Periodic update of rules.--The Commission shall 
+        periodically update the rules issued under this subsection.
+            ``(8) Compilation of information disclosed.--The Commission 
+        shall, to the maximum extent practicable make a compilation of 
+        the information disclosed by issuers under this subsection 
+        publicly available on the website of the Commission and update 
+        such compilation at least once each year.
+            ``(9) Reports.--
+                    ``(A) Report to congress.--The Commission shall--
+                            ``(i) conduct an annual assessment 
+                        regarding the compliance of covered issuers 
+                        with the requirements of this subsection;
+                            ``(ii) submit to the appropriate 
+                        congressional committees a report that contains 
+                        the results of each assessment conducted under 
+                        clause (i); and
+                            ``(iii) make each report submitted under 
+                        clause (ii) accessible to the public.
+                    ``(B) GAO report.--The Comptroller General of the 
+                United States shall periodically evaluate, and report 
+                to the appropriate congressional committees on, the 
+                effectiveness of the Commission in carrying out and 
+                enforcing this subsection.''.
+
+SEC. 404. BACKSTOP.
+
+    If, 2 years after the date of the enactment of this Act, the 
+Securities and Exchange Commission has not issued the rules required 
+under section 13(u) of the Securities Exchange Act of 1934, and until 
+such rules are issued, a covered issuer (as defined in such section 
+13(u)) shall be deemed in compliance with such section 13(u) if 
+disclosures set forth in the annual report of such issuer satisfy the 
+recommendations of the Task Force on Climate-related Financial 
+Disclosures of the Financial Stability Board as reported in June, 2017, 
+or any successor report, and as supplemented or adjusted by such rules, 
+guidance, or other comments from the Commission.
+
+SEC. 405. AUTHORIZATION OF APPROPRIATIONS.
+
+    There are authorized to be appropriated to the Securities and 
+Exchange Commission such sums as may be necessary to carry out this 
+title and the amendments made by this title.
+
+            TITLE V--DISCLOSURE OF TAX HAVENS AND OFFSHORING
+
+SEC. 501. SHORT TITLE.
+
+    This title may be cited as the ``Disclosure of Tax Havens and 
+Offshoring Act''.
+
+SEC. 502. COUNTRY-BY-COUNTRY REPORTING.
+
+    (a) Country-by-Country Reporting.--Section 13 of the Securities 
+Exchange Act of 1934 (15 U.S.C. 78m), as amended by section 403, is 
+further amended by adding at the end the following new subsection:
+    ``(v) Disclosure of Financial Performance on a Country-by-Country 
+Basis.--
+            ``(1) Definitions.--In this subsection--
+                    ``(A) the term `constituent entity' means, with 
+                respect to a covered issuer, any separate business 
+                entity of the covered issuer;
+                    ``(B) the term `covered issuer' means an issuer 
+                who--
+                            ``(i) is a member of a multinational 
+                        enterprise group; and
+                            ``(ii) the multinational enterprise group 
+                        of which the issuer is a member has annual 
+                        revenue for the preceding calendar year of not 
+                        less than an amount determined by the 
+                        Commission to conform to United States or 
+                        international standards for country-by-country 
+                        reporting; and
+                    ``(C) the term `tax jurisdiction'--
+                            ``(i) means a country or a jurisdiction 
+                        that is not a country but that has fiscal 
+                        autonomy; and
+                            ``(ii) includes a territory or possession 
+                        of the United States that has fiscal autonomy.
+            ``(2) Disclosure.--
+                    ``(A) In general.--Each covered issuer shall file a 
+                report with the Commission that includes information 
+                described in subparagraph (B), and any other 
+                information required by the Commission, with respect to 
+                the reporting period described in subparagraph (C).
+                    ``(B) Information required.--The information 
+                described in this subparagraph is as follows:
+                            ``(i) Constituent entity information.--
+                        Information on the constituent entity, 
+                        including the following:
+                                    ``(I) The complete legal name of 
+                                the constituent entity.
+                                    ``(II) The tax jurisdiction, if 
+                                any, in which the constituent entity is 
+                                resident for tax purposes.
+                                    ``(III) The tax jurisdiction in 
+                                which the constituent entity is 
+                                organized or incorporated (if different 
+                                from the tax jurisdiction of 
+                                residence).
+                                    ``(IV) The tax identification 
+                                number, if any, used for the 
+                                constituent entity by the tax 
+                                administration of the constituent 
+                                entity's tax jurisdiction of residence.
+                                    ``(V) The main business activity or 
+                                activities of the constituent entity.
+                            ``(ii) Tax jurisdiction.--Information on 
+                        each tax jurisdiction in which one or more 
+                        constituent entities is resident, presented as 
+                        an aggregated or consolidated form of the 
+                        information for the constituent entities 
+                        resident in each tax jurisdiction, including 
+                        the following:
+                                    ``(I) Revenues generated from 
+                                transactions with other constituent 
+                                entities.
+                                    ``(II) Revenues not generated from 
+                                transactions with other constituent 
+                                entities.
+                                    ``(III) Profit or loss before 
+                                income tax.
+                                    ``(IV) Total income tax paid on a 
+                                cash basis to all tax jurisdictions.
+                                    ``(V) Total accrued tax expense 
+                                recorded on taxable profits or losses.
+                                    ``(VI) Stated capital.
+                                    ``(VII) Total accumulated earnings.
+                                    ``(VIII) Total number of employees 
+                                on a full-time equivalent basis.
+                                    ``(IX) Net book value of tangible 
+                                assets, which, for purposes of this 
+                                section, does not include cash or cash 
+                                equivalents, intangibles, or financial 
+                                assets.
+                            ``(iii) Special rules.--The information 
+                        listed in clause (ii) shall be provided, in 
+                        aggregated or consolidated form, for any 
+                        constituent entity or entities that have no tax 
+                        jurisdiction of residence. In addition, if a 
+                        constituent entity is an owner of a constituent 
+                        entity that does not have a jurisdiction of tax 
+                        residence, then the owner's share of such 
+                        entity's revenues and profits will be 
+                        aggregated or consolidated with the information 
+                        for the owner's tax jurisdiction of residence.
+                    ``(C) Reporting period.--The reporting period 
+                covered by this paragraph is the period of the covered 
+                entity's applicable financial statement prepared for 
+                the 12-month period that ends with or within the 
+                taxable year of the covered issuer. If the covered 
+                issuer does not prepare an annual applicable financial 
+                statement, then the reporting period covered by this 
+                paragraph is the 12-month period that ends on the last 
+                day of the taxable year of the covered issuer.
+                    ``(D) Filing deadline.--Each covered issuer shall 
+                submit to the Commission a report required under this 
+                section on or before the due date (including 
+                extensions) for filing that covered issuer's tax return 
+                in the tax jurisdiction in which the covered issuer's 
+                multinational enterprise group is resident.
+                    ``(E) Regulation.--The Commission shall, in 
+                consultation with the Commissioner of the Internal 
+                Revenue Service and Secretary of the Treasury--
+                            ``(i) promulgate regulations carrying out 
+                        this subsection that conform to United States 
+                        or international standards for country-by-
+                        country reporting, including regulations 
+                        promulgated by the Internal Revenue Service; 
+                        and
+                            ``(ii) require disclosure of the accounting 
+                        methods used in calculating the information 
+                        contained in each report filed pursuant to this 
+                        subsection.''.
+    (b) Rulemaking.--
+            (1) Deadlines.--The Securities and Exchange Commission (in 
+        this section referred to as the ``Commission'') shall--
+                    (A) not later than 1 year after the date of 
+                enactment of this Act, issue a proposed rule to carry 
+                out this section and the amendment made by this 
+                section; and
+                    (B) not later than 18 months after the date of 
+                enactment of this Act, issue a final rule to carry out 
+                this section and the amendment made by this section.
+            (2) Data format.--The information required to be provided 
+        by this section shall be provided by the issuer in a report in 
+        a machine readable format prescribed by the Commission, and 
+        such report shall be made available to the public online, in 
+        such machine readable format as the Commission shall prescribe.
+            (3) Effective date.--Subsection (v) of section 13 of the 
+        Securities Exchange Act of 1934, as added by this section, 
+        shall become effective 1 year after the date on which the 
+        Commission issues a final rule under this section.
+
+               TITLE VI--WORKFORCE INVESTMENT DISCLOSURE
+
+SEC. 601. SHORT TITLE.
+
+    This title may be cited as the ``Workforce Investment Disclosure 
+Act of 2021''.
+
+SEC. 602. FINDINGS.
+
+    Congress finds the following:
+            (1) One of the keys to the 20th century post-war economic 
+        success of the United States was the ability to prepare workers 
+        over the course of their lives for success through multiple 
+        sectors across society. Unfortunately, during the several 
+        decades preceding the date of enactment of this Act, there has 
+        been a shift in business norms and in society. While Congress 
+        recognizes that the technology and job skills required for some 
+        jobs has changed dramatically, the private and public 
+        partnership to hire workers at different education levels and 
+        invest in them for the long-term is broken.
+            (2) Available data from the 10-year period preceding the 
+        date of enactment of this Act suggests that businesses are 
+        investing less in worker training during that time period, not 
+        more.
+            (3) In the wake of the 2008 global financial crisis, there 
+        was a well-documented decline in overall business investment. 
+        That decline coincides with the wage polarization of workers 
+        and an increase in spending on share buybacks and dividends, 
+        leading several researchers to conclude that companies are de-
+        emphasizing investment at the expense of increasing returns for 
+        shareholders. The onset of a global pandemic may make that 
+        trend worse, especially with respect to investments in workers.
+            (4) As part of the overall decline in investment described 
+        in paragraph (3), publicly traded companies are being provided 
+        with incentives to prioritize investments in physical assets 
+        over investments in their workforces, meaning that those 
+        companies are investing in robots instead of individuals. In 
+        fact, there are already signs that automation has increased 
+        during the COVID-19 pandemic.
+            (5) More than ever, the Federal Government, through company 
+        disclosure practices, needs to understand exactly how companies 
+        are investing in their workers. Over the several months 
+        preceding the date of enactment of this Act, companies across 
+        the United States have taken extreme actions to adapt and 
+        respond to evolving workforce challenges presented by COVID-19.
+            (6) JUST Capital has been tracking the responses of the 
+        Standard and Poor's 100 largest public companies to their 
+        workers and has found wide variation in the policies 
+        implemented, as well as with respect to the disclosure of those 
+        policies. Through different responses to their workforces, from 
+        layoffs to workplace safety to paid leave, the COVID-19 
+        pandemic is exposing the myriad ways that workforce management 
+        practices of companies pose operational and reputational risks 
+        for short- and long-term financial performance.
+            (7) Even before the COVID-19 pandemic, there was a growing 
+        body of research establishing a relationship between measurable 
+        workforce management, which is the way that companies manage 
+        their employees, and firm performance. In a study of 2,000 
+        large companies, Harvard Law School's Labor and Work Life 
+        Program found that forward-thinking workforce policies that 
+        prioritize workers, such as how companies train, retain, and 
+        pay their workers, are correlated with long-term financial 
+        performance.
+            (8) Disclosure of workforce management policies should be 
+        part of a Government-wide economic recovery strategy. Just as a 
+        set of generally accepted accounting principles (commonly known 
+        as ``GAAP'') was urgently adopted after the Great Depression, 
+        standardized, comparable metrics of workforce disclosure 
+        requirements in the context of the COVID-19 pandemic are 
+        critical for investors to accurately measure and project 
+        company performance, both in the present and in the future.
+            (9) Because many companies already track workforce metrics 
+        internally, moving towards a transparent disclosure regime 
+        would allow investors to better judge whether companies are 
+        managing risks and making the investments in their workforces 
+        that are needed for long-term growth.
+            (10) Businesses increasingly rely on workforce innovation 
+        and intellectual capital for competitiveness. Workplace 
+        benefits, particularly paid sick leave, medical leave, and 
+        flexible work arrangements, critically support employee mental 
+        and physical well-being.
+            (11) Race- and gender-based workplace discrimination have 
+        been tied to negative health outcomes, as well as lower 
+        productivity, trust, morale, and satisfaction and higher rates 
+        of absenteeism and turnover. Organizational reporting on 
+        practices to reduce discrimination can increase employee job 
+        satisfaction, performance, and engagement.
+            (12) According to the Centers for Disease Control and 
+        Prevention, work-related stress is the leading occupational 
+        health risk and, per the American Institute of Stress, job 
+        stress costs United States industry more than $300,000,000,000 
+        per year in accidents, absenteeism, employee turnover, 
+        diminished productivity, and medical, legal, and insurance 
+        costs.
+            (13) Employee health and well-being is a key asset to 
+        delivering long-term value, with 80 percent of public companies 
+        that took concrete actions on health and well-being having seen 
+        larger improvements in financial performance.
+            (14) Organizational well-being interventions can create 
+        cost savings of up to 10 dollars for every dollar invested. 
+        Specifically, for every dollar that employers spend on 
+        workplace disease prevention and well-being programs, there is 
+        a $3.27 reduction in employee medical costs and a $2.73 
+        reduction in absenteeism costs. Employers that implement 
+        workplace health promotion programs have seen reductions in 
+        sick leave, health plan costs, and workers' compensation and 
+        disability insurance costs of approximately 25 percent.
+            (15) The Centers for Disease Control and Prevention has 
+        found that preventable chronic conditions are a major 
+        contributor to insurance premium and employee medical claim 
+        costs, which are at an all-time high, and a Milken Institute 
+        study shows that employers paid $2,600,000,000,000 in 2016 for 
+        the indirect costs of employee chronic disease due to work 
+        absences, lost wages, and reduced economic productivity.
+            (16) The COVID-19 pandemic has severely impacted employee 
+        physical, mental, and emotional well-being by increasing 
+        stress, depression, burnout, and mortality rates of chronic 
+        disease and by reducing work-life balance and financial 
+        security, with these challenges likely to persist due to 
+        uncertainty and instability even as employees return to work. 
+        Before the COVID-19 pandemic, but especially in the face of 
+        that pandemic, employers that advance policies and practices 
+        that support workforce health, safety, and well-being are 
+        likely to outperform competitors and benefit from lower costs.
+
+SEC. 603. DISCLOSURES RELATING TO WORKFORCE MANAGEMENT.
+
+    Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m), 
+as amended by section 502, is further amended by adding at the end the 
+following:
+    ``(w) Disclosures Relating to Workforce Management.--
+            ``(1) Definition.--In this subsection, the term `contingent 
+        worker' includes an individual performing work in the usual 
+        course of business on a temporary basis (including through a 
+        labor intermediary, including an individual or entity that 
+        supplies an employer with workers to perform labor) or as an 
+        independent contractor.
+            ``(2) Regulations.--Not later than 2 years after the date 
+        of enactment of this subsection, the Commission, in 
+        consultation with the Secretary of Labor, the Secretary of 
+        Commerce, the Secretary of Treasury, and the Attorney General, 
+        shall promulgate regulations that require each issuer required 
+        to file an annual report under subsection (a) or section 15(d) 
+        to disclose in that report information regarding workforce 
+        management policies, practices, and performance with respect to 
+        the issuer.
+            ``(3) Rules.--Consistent with the requirement under 
+        paragraph (4), each annual report filed with the Commission in 
+        accordance with the regulations promulgated under paragraph (2) 
+        shall include disclosure of the following with respect to the 
+        issuer filing the report for the year covered by the report:
+                    ``(A) Workforce demographic information, 
+                including--
+                            ``(i) the number of full-time employees, 
+                        the number of part-time employees, and the 
+                        number of contingent workers (including 
+                        temporary and contract workers) with respect to 
+                        the issuer, which shall include demographic 
+                        information with respect to those categories of 
+                        individuals, including information regarding 
+                        race, ethnicity, and gender;
+                            ``(ii) any policies or practices of the 
+                        issuer relating to subcontracting, outsourcing, 
+                        and insourcing individuals to perform work for 
+                        the issuer, which shall include demographic 
+                        information with respect to those individuals, 
+                        including information regarding race, 
+                        ethnicity, and gender; and
+                            ``(iii) whether the percentage of 
+                        contingent workers with respect to the issuer 
+                        has changed, including temporary and contract 
+                        workers, as compared with the previous annual 
+                        report filed by the issuer under this 
+                        subsection.
+                    ``(B) Workforce stability information, including 
+                information about the voluntary turnover or retention 
+                rate, the involuntary turnover rate, the internal 
+                hiring rate, and the internal promotion rate, as well 
+                as information about workers who transition between 
+                employee and contingent workers, and the horizontal job 
+                change rate by quintile and demographic information.
+                    ``(C) Workforce composition, including--
+                            ``(i) data on diversity (including racial, 
+                        ethnic, self-reported sexual orientation, and 
+                        gender composition) for senior executives and 
+                        other individuals in the workforce; and
+                            ``(ii) any policies, audits, and 
+                        programming expenditures relating to diversity.
+                    ``(D) Workforce skills and capabilities, 
+                including--
+                            ``(i) information about training and cross-
+                        training of employees and contingent workers by 
+                        quintile and demographic information, 
+                        distinguishing between compliance training, 
+                        career development training, job performance or 
+                        technical training, and training tied to 
+                        recognized postsecondary credentials;
+                            ``(ii) average number of hours of training 
+                        for each employee and contingent worker;
+                            ``(iii) total spending on training for all 
+                        employees and contingent workers;
+                            ``(iv) average spending per employee or 
+                        contingent worker;
+                            ``(v) training utilization rates; and
+                            ``(vi) whether completion of training 
+                        opportunities translates into value added 
+                        benefit for workers, as determined by wage 
+                        increases or internal promotions.
+                    ``(E) Workforce health, safety, and well-being, 
+                including information regarding--
+                            ``(i) the frequency, severity, and lost 
+                        time due to injuries, physical and mental 
+                        illness, and fatalities;
+                            ``(ii) the scope, frequency, and total 
+                        expenditure on workplace health, safety, and 
+                        well-being programs;
+                            ``(iii) the total dollar value of assessed 
+                        fines under the Occupational Safety and Health 
+                        Act of 1970 (29 U.S.C. 651 et seq.);
+                            ``(iv) the total number of actions brought 
+                        under section 13 of the Occupational Safety and 
+                        Health Act of 1970 (29 U.S.C. 662) to prevent 
+                        imminent dangers;
+                            ``(v) the total number of actions brought 
+                        against the issuer under section 11(c) of the 
+                        Occupational Safety and Health Act of 1970 (29 
+                        U.S.C. 660(c));
+                            ``(vi) any findings of workplace harassment 
+                        or workplace discrimination during the 5 fiscal 
+                        year period of the issuer preceding the fiscal 
+                        year in which the report is filed; and
+                            ``(vii) communication channels and 
+                        grievance mechanisms in place for employees and 
+                        contingent workers.
+                    ``(F) Workforce compensation and incentives, 
+                including information regarding--
+                            ``(i) total workforce costs, including 
+                        salaries and wages, health benefits, other 
+                        ancillary benefit costs, and pension costs;
+                            ``(ii) workforce benefits, including paid 
+                        leave, health care, child care, and retirement, 
+                        including information regarding benefits that 
+                        are provided--
+                                    ``(I) to full-time employees and 
+                                not to part-time employees; or
+                                    ``(II) to employees and not to 
+                                contingent workers;
+                            ``(iii) total contributions made to 
+                        unemployment insurance by the issuer, how many 
+                        employees to whom those contributions apply, 
+                        and the total amount paid in unemployment 
+                        compensation to individuals who were laid off 
+                        by the issuer;
+                            ``(iv) policies and practices regarding how 
+                        performance, productivity, equity, and 
+                        sustainability are considered when setting pay 
+                        and making promotion decisions; and
+                            ``(v) policies and practices relating to 
+                        any incentives and bonuses provided to 
+                        employees and any policies or practices 
+                        designed to counter any risks created by such 
+                        incentives and bonuses.
+                    ``(G) Workforce recruiting and needs, including--
+                            ``(i) the number of new jobs created, 
+                        seeking to be filled, and filled, disaggregated 
+                        based on classification status;
+                            ``(ii) the share of new jobs that require a 
+                        bachelor's degree or higher;
+                            ``(iii) information regarding the quality 
+                        of hire for jobs described in clause (i); and
+                            ``(iv) the retention rate for individuals 
+                        hired to fill the jobs described in clause (i).
+                    ``(H) Workforce engagement and productivity, 
+                including information regarding policies and practices 
+                of the issuer relating to--
+                            ``(i) engagement, productivity, and mental 
+                        well-being of employees and contingent workers, 
+                        as determined in consultation with the 
+                        Department of Labor; and
+                            ``(ii) freedom of association and work-life 
+                        balance initiatives, including flexibility and 
+                        the ability of the workforce to work remotely, 
+                        as determined in consultation with the 
+                        Department of Labor.
+            ``(4) Disaggregation of information.--To the maximum extent 
+        feasible, the information described in paragraph (3) shall be 
+        disaggregated by--
+                    ``(A) the workforce composition described in 
+                subparagraph (C)(i) of that paragraph;
+                    ``(B) wage quintiles of the employees of the issuer 
+                for the year covered by the applicable annual report; 
+                and
+                    ``(C) the employment status of individuals 
+                performing services for the issuer, including whether 
+                those individuals are full-time employees, part-time 
+                employees, or contingent workers.
+            ``(5) Treatment of emerging growth companies.--The 
+        Commission may exempt emerging growth companies from any 
+        disclosure required under subparagraph (D), (E), (F), (G), or 
+        (H) of paragraph (3) if the Commission determines that such an 
+        exemption is necessary or appropriate in the public interest.
+            ``(6) False or misleading statements.--
+                    ``(A) In general.--Except as provided in 
+                subparagraph (B), it shall be unlawful for any person, 
+                in any report or document filed under this subsection, 
+                to make or cause to be made any untrue statement of a 
+                material fact or omit to state a material fact required 
+                to be stated in the report or document or necessary to 
+                make the statement made, in the light of the 
+                circumstances under which it is made, not misleading.
+                    ``(B) Exception.--A person shall not be liable 
+                under subparagraph (A) if the person shows that the 
+                person had, after reasonable investigation, reasonable 
+                ground to believe, and did believe, at the time the 
+                applicable statement was made, that the statement was 
+                true and that there was no omission to state a material 
+                fact necessary to make the statement made, in the light 
+                of the circumstances under which it is made, not 
+                misleading.
+                    ``(C) No private right of action.--Nothing in this 
+                paragraph may be construed as creating a private right 
+                of action.
+            ``(7) Exemption.--This subsection shall not apply to an 
+        investment company registered under section 8 of the Investment 
+        Company Act of 1940 (15 U.S.C. 80a-8).''.
+
+SEC. 604. BACKSTOP.
+
+    (a) Definitions.--In this section--
+            (1) the term ``Commission'' means the Securities and 
+        Exchange Commission;
+            (2) the term ``covered issuer'' means an issuer that is 
+        required to file an annual report under section 13(a) or 
+        section 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 
+        78m(a), 78o(d)); and
+            (3) the term ``issuer'' has the meaning given the term in 
+        section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 
+        78c(a)).
+    (b) Compliance.--If, as of the date that is 2 years after the date 
+of enactment of this Act, the Commission has not promulgated the 
+regulations required under subsection (w) of section 13 of the 
+Securities Exchange Act of 1934 (15 U.S.C. 78m), as added by section 
+603, a covered issuer, during the period beginning on that date and 
+ending on the date on which the Commission promulgates those 
+regulations, shall be deemed to be in compliance with such subsection 
+(w) if disclosures set forth in the annual report of the covered issuer 
+satisfy the public disclosure standards of the International 
+Organization for Standardization's ISO 30414, or any successor 
+standards for external workforce reporting, as supplemented or adjusted 
+by rules, guidance, or other comments from the Commission.
+
+SEC. 605. SEC STUDY.
+
+    (a) Definitions.--In this section, the terms ``Commission'' and 
+``issuer'' have the meanings given those terms in section 604(a).
+    (b) Study.--The Commission shall conduct a study about the value to 
+investors of--
+            (1) information about the human rights commitments of 
+        issuers required to file annual reports under section 13(a) of 
+        the Securities Exchange Act of 1934 (15 U.S.C. 78m(a)), 
+        including information about any principles used to evaluate 
+        risk, constituency consultation processes, and supplier due 
+        diligence; and
+            (2) with respect to issuers required to file annual reports 
+        under section 13(a) of the Securities Exchange Act of 1934 (15 
+        U.S.C. 78m(a)), information about--
+                    (A) violations of the Fair Labor Standards Act of 
+                1938 (29 U.S.C. 201 et seq.) by those issuers;
+                    (B) violations of worker misclassification by those 
+                issuers;
+                    (C) surveys regarding employee satisfaction, well-
+                being, and engagement;
+                    (D) the number and overall percentage of quality 
+                jobs, as determined by compensation above median wage 
+                and comprehensive employer-provided benefits; and
+                    (E) information about workforce investment trends, 
+                as determined by at least a 3-year time period.
+    (c) Report.--Not later than 1 year after the date of enactment of 
+this Act, the Commission shall submit to Congress a report that 
+contains the results of the study required to be conducted under 
+subsection (b), with recommendations for additional disclosure 
+regulations based on the findings, and any actions the Commission plans 
+to take to enhance disclosures based on the findings.
+
+      TITLE VII--PREVENTING AND RESPONDING TO WORKPLACE HARASSMENT
+
+SEC. 701. SEC FILINGS AND MATERIAL DISCLOSURES AT PUBLIC COMPANIES.
+
+    (a) Definitions.--In this section--
+            (1) the term ``Form 10-K'' means the form described in 
+        section 249.310 of title 17, Code of Federal Regulations, or 
+        any successor regulation; and
+            (2) the term ``issuer'' has the meaning given the term in 
+        section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 
+        78c(a)).
+    (b) Findings.--Congress finds that--
+            (1) shareholders and the public should know whether 
+        corporations--
+                    (A) are expending company funds to resolve, settle, 
+                or litigate claims of workplace harassment, including 
+                sexual harassment; and
+                    (B) along with the executives and managers of those 
+                corporations--
+                            (i) are complying with prohibitions against 
+                        workplace harassment, including sexual 
+                        harassment; and
+                            (ii) facilitate a culture of silence, 
+                        disrespect, intimidation, and abuse that 
+                        negatively impacts the health and safety of the 
+                        workers of those corporations and the value of 
+                        those corporations; and
+            (2) the requirements of this section will--
+                    (A) establish necessary transparency and 
+                accountability; and
+                    (B) provide an incentive for corporations to--
+                            (i) promptly address workplace harassment, 
+                        including sexual harassment, as that misconduct 
+                        occurs; and
+                            (ii) foster a culture in which workplace 
+                        harassment is not protected and does not occur.
+    (c) Information Required.--Not later than 1 year after the date of 
+enactment of this Act, the Securities and Exchange Commission shall 
+promulgate a regulation that requires any issuer that is required to 
+submit an annual report using Form 10-K to include in any such 
+submission--
+            (1) during the period covered by the submission--
+                    (A) with respect to workplace harassment, including 
+                sexual harassment, and retaliation for reporting, 
+                resisting, opposing, or assisting in the investigation 
+                of workplace harassment--
+                            (i) the number of settlements reached by 
+                        the issuer as a signatory or when the issuer is 
+                        a beneficiary of a release of claims; and
+                            (ii) whether any judgments or awards 
+                        (including awards through arbitration or 
+                        administrative proceedings) were entered 
+                        against the issuer in part or in whole, or any 
+                        payments made in connection with a release of 
+                        claims; and
+                    (B) the total amount paid by the issuer or another 
+                party as a result of--
+                            (i) the settlements described in 
+                        subparagraph (A)(i); and
+                            (ii) the judgments described in 
+                        subparagraph (A)(ii); and
+            (2) information regarding whether, in the aggregate, 
+        including the period covered by the submission, there have been 
+        three or more settlements reached by, or judgments against, the 
+        issuer with respect to workplace harassment, including sexual 
+        harassment, or retaliation for reporting, resisting, opposing, 
+        or assisting in the investigation of workplace harassment that 
+        relate to a particular individual employed by the issuer, 
+        without identifying that individual by name.
+
+                  TITLE VIII--CYBERSECURITY DISCLOSURE
+
+SEC. 801. SHORT TITLE.
+
+    This title may be cited as the ``Cybersecurity Disclosure Act of 
+2021''.
+
+SEC. 802. CYBERSECURITY TRANSPARENCY.
+
+    The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is 
+amended by inserting after section 14B (15 U.S.C. 78n-2) the following:
+
+``SEC. 14C. CYBERSECURITY TRANSPARENCY.
+
+    ``(a) Definitions.--In this section--
+            ``(1) the term `cybersecurity' means any action, step, or 
+        measure to detect, prevent, deter, mitigate, or address any 
+        cybersecurity threat or any potential cybersecurity threat;
+            ``(2) the term `cybersecurity threat'--
+                    ``(A) means an action, not protected by the First 
+                Amendment to the Constitution of the United States, on 
+                or through an information system that may result in an 
+                unauthorized effort to adversely impact the security, 
+                availability, confidentiality, or integrity of an 
+                information system or information that is stored on, 
+                processed by, or transiting an information system; and
+                    ``(B) does not include any action that solely 
+                involves a violation of a consumer term of service or a 
+                consumer licensing agreement;
+            ``(3) the term `information system'--
+                    ``(A) has the meaning given the term in section 
+                3502 of title 44, United States Code; and
+                    ``(B) includes industrial control systems, such as 
+                supervisory control and data acquisition systems, 
+                distributed control systems, and programmable logic 
+                controllers;
+            ``(4) the term `NIST' means the National Institute of 
+        Standards and Technology; and
+            ``(5) the term `reporting company' means any company that 
+        is an issuer--
+                    ``(A) the securities of which are registered under 
+                section 12; or
+                    ``(B) that is required to file reports under 
+                section 15(d).
+    ``(b) Requirement To Issue Rules.--Not later than 360 days after 
+the date of enactment of this section, the Commission shall issue final 
+rules to require each reporting company, in the annual report of the 
+reporting company submitted under section 13 or section 15(d) or in the 
+annual proxy statement of the reporting company submitted under section 
+14(a)--
+            ``(1) to disclose whether any member of the governing body, 
+        such as the board of directors or general partner, of the 
+        reporting company has expertise or experience in cybersecurity 
+        and in such detail as necessary to fully describe the nature of 
+        the expertise or experience; and
+            ``(2) if no member of the governing body of the reporting 
+        company has expertise or experience in cybersecurity, to 
+        describe what other aspects of the reporting company's 
+        cybersecurity were taken into account by any person, such as an 
+        official serving on a nominating committee, that is responsible 
+        for identifying and evaluating nominees for membership to the 
+        governing body.
+    ``(c) Cybersecurity Expertise or Experience.--For purposes of 
+subsection (b), the Commission, in consultation with NIST, shall define 
+what constitutes expertise or experience in cybersecurity using 
+commonly defined roles, specialties, knowledge, skills, and abilities, 
+such as those provided in NIST Special Publication 800-181, entitled 
+`National Initiative for Cybersecurity Education (NICE) Cybersecurity 
+Workforce Framework', or any successor thereto.''.
+
+            TITLE IX--DATA RELATING TO DIVERSITY DISCLOSURE
+
+SEC. 901. SHORT TITLE.
+
+    This title may be cited as the ``Improving Corporate Governance 
+Through Diversity Act of 2021''.
+
+SEC. 902. SUBMISSION OF DATA RELATING TO DIVERSITY BY ISSUERS.
+
+    Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m), 
+as amended by section 502, is further amended by adding at the end the 
+following:
+    ``(w) Submission of Data Relating to Diversity.--
+            ``(1) Definitions.--In this subsection--
+                    ``(A) the term `executive officer' has the meaning 
+                given the term in section 230.501(f) of title 17, Code 
+                of Federal Regulations, as in effect on the date of 
+                enactment of this subsection; and
+                    ``(B) the term `veteran' has the meaning given the 
+                term in section 101 of title 38, United States Code.
+            ``(2) Submission of disclosure.--Each issuer required to 
+        file an annual report under subsection (a) shall disclose in 
+        any proxy statement and any information statement relating to 
+        the election of directors filed with the Commission the 
+        following:
+                    ``(A) Demographic data, based on voluntary self-
+                identification, on the racial, ethnic, gender identity, 
+                and sexual orientation composition of--
+                            ``(i) the board of directors of the issuer;
+                            ``(ii) nominees for the board of directors 
+                        of the issuer; and
+                            ``(iii) the executive officers of the 
+                        issuer.
+                    ``(B) The status of any member of the board of 
+                directors of the issuer, any nominee for the board of 
+                directors of the issuer, or any executive officer of 
+                the issuer, based on voluntary self-identification, as 
+                a veteran.
+                    ``(C) Whether the board of directors of the issuer, 
+                or any committee of that board of directors, has, as of 
+                the date on which the issuer makes a disclosure under 
+                this paragraph, adopted any policy, plan, or strategy 
+                to promote racial, ethnic, and gender diversity among--
+                            ``(i) the board of directors of the issuer;
+                            ``(ii) nominees for the board of directors 
+                        of the issuer; or
+                            ``(iii) the executive officers of the 
+                        issuer.
+            ``(3) Alternative submission.--In any 1-year period in 
+        which an issuer required to file an annual report under 
+        subsection (a) does not file with the Commission a proxy 
+        statement or an information statement relating to the election 
+        of directors, the issuer shall disclose the information 
+        required under paragraph (2) in the first annual report of 
+        issuer that the issuer submits to the Commission after the end 
+        of that 1-year period.
+            ``(4) Annual report.--Not later than 18 months after the 
+        date of enactment of this subsection, and annually thereafter, 
+        the Commission shall submit to the Committee on Banking, 
+        Housing, and Urban Affairs of the Senate and the Committee on 
+        Financial Services of the House of Representatives, and publish 
+        on the website of the Commission, a report that analyzes the 
+        information disclosed under paragraphs (2) and (3) and 
+        identifies any trends with respect to such information.
+            ``(5) Best practices.--
+                    ``(A) In general.--The Director of the Office of 
+                Minority and Women Inclusion of the Commission shall, 
+                not later than 3 years after the date of enactment of 
+                this subsection, and every 3 years thereafter, publish 
+                best practices for compliance with this subsection.
+                    ``(B) Comments.--The Director of the Office of 
+                Minority and Women Inclusion of the Commission may, 
+                pursuant to subchapter II of chapter 5 of title 5, 
+                United States Code, solicit public comments related to 
+                the best practices published under subparagraph (A).''.
+
+SEC. 903. DIVERSITY ADVISORY GROUP.
+
+    (a) Definitions.--For the purposes of this section:
+            (1) Advisory group.--The term ``Advisory Group'' means the 
+        Diversity Advisory Group established under subsection (b).
+            (2) Commission.--The term ``Commission'' means the 
+        Securities and Exchange Commission.
+            (3) Issuer.--The term ``issuer'' has the meaning given the 
+        term in section 3(a) of the Securities Exchange Act of 1934 (15 
+        U.S.C. 78c(a)).
+    (b) Establishment.--The Commission shall establish a Diversity 
+Advisory Group, which shall be composed of representatives from--
+            (1) the Federal Government and State and local governments;
+            (2) academia; and
+            (3) the private sector.
+    (c) Study and Recommendations.--The Advisory Group shall--
+            (1) carry out a study that identifies strategies that can 
+        be used to increase gender identity, racial, ethnic, and sexual 
+        orientation diversity among members of boards of directors of 
+        issuers; and
+            (2) not later than 270 days after the date on which the 
+        Advisory Group is established, submit to the Commission, the 
+        Committee on Banking, Housing, and Urban Affairs of the Senate, 
+        and the Committee on Financial Services of the House of 
+        Representatives a report that--
+                    (A) describes any findings from the study conducted 
+                under paragraph (1); and
+                    (B) makes recommendations regarding strategies that 
+                issuers could use to increase gender identity, racial, 
+                ethnic, and sexual orientation diversity among board 
+                members.
+    (d) Annual Report.--Not later than 1 year after the date on which 
+the Advisory Group submits the report required under subsection (c)(2), 
+and annually thereafter, the Commission shall submit to the Committee 
+on Banking, Housing, and Urban Affairs of the Senate and the Committee 
+on Financial Services of the House of Representatives a report that 
+describes the status of gender identity, racial, ethnic, and sexual 
+orientation diversity among members of the boards of directors of 
+issuers.
+    (e) Public Availability of Reports.--The Commission shall make all 
+reports of the Advisory Group available to issuers and the public, 
+including on the website of the Commission.
+    (f) Inapplicability of Federal Advisory Committee Act.--The Federal 
+Advisory Committee Act (5 U.S.C. App.) shall not apply with respect to 
+the Advisory Group or the activities of the Advisory Group.
+
+                TITLE X--UYGHUR FORCED LABOR DISCLOSURE
+
+SEC. 1001. SHORT TITLE.
+
+    This division may be cited as the ``Uyghur Forced Labor Disclosure 
+Act''.
+
+SEC. 1002. DISCLOSURE OF CERTAIN ACTIVITIES RELATING TO THE XINJIANG 
+              UYGHUR AUTONOMOUS REGION.
+
+    (a) In General.--Section 13 of the Securities Exchange Act of 1934 
+(15 U.S.C. 78m), as amended by section 502, is further amended by 
+adding at the end the following:
+    ``(w) Disclosure of Certain Activities Relating to the Xinjiang 
+Uyghur Autonomous Region.--
+            ``(1) In general.--Not later than the end of the 180-day 
+        period beginning on the date of enactment of this subsection, 
+        the Commission shall issue rules to require each issuer 
+        required to file an annual report under this section or section 
+        15(d) or a proxy statement under section 14 to disclose in each 
+        such report or proxy statement whether, during the period 
+        covered by the report or proxy statement--
+                    ``(A) the issuer or any affiliate of the issuer, 
+                directly or indirectly, engaged with an entity or the 
+                affiliate of an entity to import--
+                            ``(i) manufactured goods, including 
+                        electronics, food products, textiles, shoes, 
+                        auto parts, polysilicon, and teas, that are 
+                        sourced from or through the XUAR;
+                            ``(ii) manufactured goods containing 
+                        materials that are sourced from or through the 
+                        XUAR; or
+                            ``(iii) goods manufactured by an entity 
+                        engaged in labor transfers from the XUAR;
+                    ``(B) with respect to any goods or materials 
+                described under subparagraph (A), whether the goods or 
+                material originated in forced labor camps; and
+                    ``(C) with respect to each manufactured good or 
+                material described under subparagraph (A)--
+                            ``(i) the nature and extent of the 
+                        commercial activity related to such good or 
+                        material;
+                            ``(ii) the gross revenue and net profits, 
+                        if any, attributable to the good or material; 
+                        and
+                            ``(iii) whether the issuer or the affiliate 
+                        of the issuer intends to continue with such 
+                        importation.
+            ``(2) Availability of information.--The Commission shall 
+        make all information disclosed pursuant to this subsection 
+        available to the public on the website of the Commission.
+            ``(3) Reports.--
+                    ``(A) Annual report to congress.--The Commission 
+                shall--
+                            ``(i) conduct an annual assessment of the 
+                        compliance of issuers with the requirements of 
+                        this subsection; and
+                            ``(ii) issue a report to Congress 
+                        containing the results of the assessment 
+                        required under clause (i).
+                    ``(B) GAO report.--The Comptroller General of the 
+                United States shall periodically evaluate and report to 
+                Congress on the effectiveness of the oversight by the 
+                Commission of the disclosure requirements under this 
+                subsection.
+            ``(4) Definitions.--In this subsection:
+                    ``(A) Forced labor camp.--The term `forced labor 
+                camp' means--
+                            ``(i) any entity engaged in the `mutual 
+                        pairing assistance' program which subsidizes 
+                        the establishment of manufacturing facilities 
+                        in XUAR;
+                            ``(ii) any entity using convict labor, 
+                        forced labor, or indentured labor described 
+                        under section 307 of the Tariff Act of 1930 (19 
+                        U.S.C. 1307); and
+                            ``(iii) any other entity that the 
+                        Commission determines is appropriate.
+                    ``(B) XUAR.--The term `XUAR' means the Xinjiang 
+                Uyghur Autonomous Region.''.
+    (b) Repeal.--The amendment made by this section shall be repealed 
+on the earlier of--
+            (1) the date that is 8 years after the date of the 
+        enactment of this section; or
+            (2) the date on which the President submits to Congress 
+        (including the Office of the Law Revision Council) a 
+        determination that the Government of the People's Republic of 
+        China has ended mass internment, forced labor, and any other 
+        gross violations of human rights experienced by Uyghurs, 
+        Kazakhs, Kyrgyz, and members of other persecuted groups in the 
+        Xinjiang Uyghur Autonomous Region.
+
+                        TITLE XI--OTHER MATTERS
+
+SEC. 1101. STUDY AND REPORT ON SMALL BUSINESSES AND ESG DISCLOSURES.
+
+    (a) In General.--Not later than 1 year after the date of the 
+enactment of this Act, the Securities and Exchange Commission, in 
+coordination with the Director of the Office of the Advocate for Small 
+Business Capital Formation and the Investor Advocate of the Office of 
+the Investor Advocate, shall--
+            (1) conduct a study on the issues small businesses face 
+        with respect to complying with disclosure requirements related 
+        to environmental, social, and governance metrics; and
+            (2) submit a report to Congress that includes--
+                    (A) the results of the study required under 
+                paragraph (1); and
+                    (B) recommendations with respect to small business 
+                compliance with such disclosure requirements.
+    (b) Definition of Small Business.--In this section, the term 
+``small business'' has the meaning given the term ``small business 
+concern'' under section 3 of the Small Business Act (15 U.S.C. 632).
+
+            Passed the House of Representatives June 16, 2021.
+
+            Attest:
+
+                                             CHERYL L. JOHNSON,
+
+                                                                 Clerk.

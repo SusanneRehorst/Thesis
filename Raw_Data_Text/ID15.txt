@@ -1,0 +1,822 @@
+II
+(Information)
+INFORMATION FROM EUROPEAN UNION INSTITUTIONS, BODIES, OFFICES
+AND AGENCIES
+EUROPEAN COMMISSION
+COMMUNICATION FROM THE COMMISSION
+Guidelines on non-financial reporting: Supplement on reporting climate-related information
+(2019/C 209/01)
+Important notice
+This communication has been prepared pursuant to Article 2 of Directive 2014/95/EU of the European Parliament and
+of the Council (
+1
+) in order to assist companies concerned to disclose non-financial information in a relevant, useful,
+consistent and more comparable manner. It is a supplement to the Guidelines on Non-Financial Reporting adopted by
+the Commission in 2017 (C(2017) 4234 final). This communication provides non-binding guidelines, and does not
+create new legal obligations. To the extent that this communication may interpret Directive 2014/95/EU, the Commission's position is without prejudice to any interpretation of this Directive that may be issued by the Court of Justice of
+the European Union. Companies using these guidelines may also rely on international, EU-based or national frameworks. This communication does not constitute a technical standard, and neither preparers of non-financial statements
+nor any party, whether acting on behalf of a preparer or otherwise, may claim that non-financial statements are in
+conformity with this document.
+Contents
+Page
+1. Introduction ............................................................................................................... 2
+1.1. Why provide new guidelines on climate-related disclosures? ...................................................... 2
+1.2. Benefits for reporting companies ...................................................................................... 3
+2. How to use these guidelines ............................................................................................ 3
+2.1. General considerations ................................................................................................... 3
+2.2. Materiality ................................................................................................................. 4
+2.3. Climate-related risks, dependencies, and opportunities ............................................................ 5
+2.4. Structure of the proposed disclosures ................................................................................. 8
+2.5. Consistency with recognised reporting frameworks and standards .............................................. 8
+3. Recommended disclosures and further guidance .................................................................... 8
+3.1. Business Model ............................................................................................................ 8
+3.2. Policies and Due Diligence Processes .................................................................................. 9
+3.3. Outcomes .................................................................................................................. 10
+3.4. Principal Risks and their Management ................................................................................ 11
+3.5. Key Performance Indicators ............................................................................................. 12
+Annex I: Further guidance for banks and insurance companies ............................................................. 21
+Annex II: Mapping of Non-Financial Reporting Directive Requirements and TCFD Recommended Disclosures ..... 29
+(
+1
+) OJ L 330, 15.11.2014, p. 1.
+20.6.2019 EN Official Journal of the European Union C 209/1
+1. INTRODUCTION
+1.1. Why provide new guidelines on climate-related disclosures?
+The 2015 Paris Agreement on Climate Change, the United Nations’ Sustainable Development Goals and the Special
+Report of the Intergovernmental Panel on Climate Change (October 2018) all call for accelerated and decisive action to
+reduce greenhouse gas (GHG) emissions and to create a low-carbon and climate-resilient economy. The EU has agreed
+ambitious targets for 2030 regarding GHG emission reductions, renewable energy and energy efficiency (
+2
+), and has
+approved rules on GHG emissions from land use as well as emissions targets for cars and vans. In 2018 the Commission published its strategic long-term vision for a prosperous, modern, competitive and climate-neutral economy
+by 2050 (
+3
+).
+Companies and financial institutions have a critical role to play in the transition to a low-carbon and climate-resilient
+economy. Firstly, an additional annual investment of EUR 180 billion is already needed to meet the EU’s energy and
+climate 2030 targets, and further funds will be needed to achieve climate neutrality by 2050. Many of these investments
+represent significant business opportunities, and much of the funding will need to come from private capital. Secondly,
+companies and financial institutions need to better understand and address the risks of a negative impact on the climate
+resulting from their business activities, as well as the risks that climate change poses to their business. Weather-related
+disasters caused a record EUR 283 billion in economic damages in 2017 and could affect up to two-thirds of the European population by 2100 compared with 5 % today. Better disclosure of climate-related information by companies can
+contribute to the implementation of the Sendai Framework for Disaster Risk Reduction 2015-2030, which calls for
+governments to evaluate, record, share and publically account for disaster losses.
+In March 2018 the Commission published the Action Plan on Financing Sustainable Growth, with the aim of reorienting capital towards sustainable investment, managing financial risks that arise from climate change and other environmental and social problems, and fostering transparency and long-termism in financial and economic activity (
+4
+). The
+publication of new guidelines on the disclosure of climate-related information by companies is part of the Action Plan.
+A number of other actions in the Action Plan depend to some extent on companies disclosing adequate sustainabilityrelated information. This includes, for example, the proposed regulations on the establishment of a framework (taxonomy) to facilitate sustainable investment (
+5
+), on sustainability disclosures by institutional investors and asset managers (
+6
+),
+and on carbon-related benchmarks (
+7
+).
+Without sufficient, reliable and comparable sustainability-related information from investee companies, the financial sector cannot efficiently direct capital to investments that drive solutions to the sustainability crises we face, and cannot
+effectively identify and manage the risks to investments that will arise from those crises.
+Corporate disclosure of climate-related information has improved in recent years. However, there are still significant
+gaps, and further improvements in the quantity, quality and comparability of disclosures are urgently required to meet
+the needs of investors and other stakeholders.
+In June 2017, the Task Force on Climate-related Financial Disclosures (TCFD), established by the G20’s Financial Stability Board, published recommendations to encourage financial institutions and non-financial companies to disclose information on climate-related risks and opportunities (
+8
+). The TCFD recommendations are widely recognised as authoritative
+guidance on the reporting of financially material climate-related information, and the Commission encourages companies to implement them. A number of governments and financial regulators around the world have expressed support
+for the recommendations and are integrating them into their guidance and policy frameworks. Examples include Australia, Canada, Hong Kong, Japan, Singapore and South Africa, as well as some EU Member States.
+This supplement integrates the TCFD recommendations, and provides guidance to companies that is consistent with the
+Non-Financial Reporting Directive and the recommendations of the TCFD.
+(
+2
+) https://ec.europa.eu/clima/policies/strategies/2030_en
+(
+3
+) https://ec.europa.eu/clima/policies/strategies/2050_en
+(
+4
+) https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52018DC0097
+(
+5
+) https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52018PC0353
+(
+6
+) https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52018PC0354
+(
+7
+) https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52018PC0355
+(
+8
+) https://www.fsb-tcfd.org/
+C 209/2 EN Official Journal of the European Union 20.6.2019
+The Technical Expert Group on Sustainable Finance, appointed by the Commission in June 2018, provided recommendations on climate-related disclosures and these guidelines are built on those recommendations. These guidelines take
+account of stakeholder feedback on the recommendations of the Technical Expert Group on Sustainable Finance, and of
+the results of a targeted online consultation carried out by the services of the European Commission in
+February-March 2019 (
+9
+).
+1.2. Benefits for reporting companies
+Better disclosure of climate-related information can have benefits for the reporting company itself, such as:
+— increased awareness and understanding of climate-related risks and opportunities within the company, better risk
+management, and more informed decision-making and strategic planning;
+— a more diverse investor base and a potentially lower cost of capital, resulting for example from inclusion in actively
+managed investment portfolios and in sustainability-focused indices, and from improved credit ratings for bond
+issuance and better credit worthiness assessments for bank loans;
+— more constructive dialogue with stakeholders, in particular investors and shareholders;
+— better corporate reputation and maintenance of social licence to operate.
+2. HOW TO USE THESE GUIDELINES
+2.1. General considerations
+Companies should read this supplement together with the relevant national legislation transposing the Non-Financial
+Reporting Directive (2014/95/EU), and if necessary the text of the Directive itself.
+They should also consider the Non-Binding Guidelines on Non-Financial Reporting published by the Commission in
+June 2017 (
+10), which contain 6 key principles for good non-financial reporting, namely that disclosed information
+should be: (1) material; (2) fair, balanced and understandable; (3) comprehensive but concise; (4) strategic and forwardlooking (
+11); (5) stakeholder-oriented; and (6) consistent and coherent. Those principles and the other sections of the
+Non-Binding Guidelines all apply as appropriate to this supplement.
+Companies are also encouraged to read the recommendations of the Task Force on Climate-related Financial Disclosures,
+and if relevant the supplementary guidance for the financial sector and for companies operating in the sectors of energy,
+transport, material and buildings, and agriculture, food and forest products (
+12).
+Like the general guidelines published in 2017, this supplement on climate-related reporting is non-binding. Companies
+may chose alternative approaches to the reporting of climate-related information, provided they meet legal requirements.
+These guidelines recognise that the content of climate-related disclosures may vary between companies according to
+a number of factors, including the sector of activity, geographical location and the nature and scale of climate-related
+risks and opportunities.
+Methodologies and best practice in the field of climate-related reporting are evolving fast. These guidelines therefore
+recognise that a flexible approach is necessary. Companies and other organisations are strongly encouraged to continue
+to innovate and further improve climate-related reporting beyond the content of these guidelines. Companies should
+also ensure that their approach to climate-related reporting is regularly updated in line with the latest scientific evidence.
+(
+9
+) https://ec.europa.eu/info/consultations/finance-2019-non-financial-reporting-guidelines_en
+(
+10) OJ C 215, 5.7.2017, p. 1.
+(
+11) This does not prevent appropriate consideration of commercially-sensitive information. Relevant information may be provided in
+broader terms that still convey useful information to investors and other stakeholders and meets the overall transparency objective.
+(
+12) https://www.fsb-tcfd.org/wp-content/uploads/2017/12/FINAL-TCFD-Annex-Amended-121517.pdf
+20.6.2019 EN Official Journal of the European Union C 209/3
+It is not the intention of these guidelines to encourage stand-alone climate reporting. Companies are encouraged to
+integrate climate-related information with other financial and non-financial information as appropriate in their reports.
+The default location for the non-financial statement according to the Non-Financial Reporting Directive is the company’s
+management report, although many Member States have taken up the option of allowing companies to publish their
+non-financial statement in a separate report. The TCFD proposes that its recommended disclosures should be included
+in the company’s mainstream “annual financial filings” (
+13).
+Companies should in any case seek to ensure that climate-related information is easily accessible for intended users. If
+companies make cross-references to other reports or documents, this should be done in a simple and user-friendly way,
+for instance, by applying a practical rule of “maximum one ‘click’ out of the report”.
+These guidelines are intended for use by companies that fall under the scope of the Non-Financial Reporting Directive (
+14). However, they may also be useful for other companies that wish to disclose climate-related information.
+2.2. Materiality
+According to the Non-Financial Reporting Directive, a company is required to disclose information on environmental,
+social and employee matters, respect for human rights, and bribery and corruption, to the extent that such information
+is necessary for an understanding of the company’s development, performance, position and impact of its activities (
+15).
+Climate-related information can be considered to fall into the category of environmental matters.
+As indicated in the Commission’s 2017 Non-Binding Guidelines on Non-Financial Reporting, the reference to the
+“impact of [the company’s] activities” introduced a new element to be taken into account when assessing the materiality
+of non-financial information. In effect, the Non-Financial Reporting Directive has a double materiality perspective:
+— The reference to the company’s “development, performance [and] position” indicates financial materiality, in the
+broad sense of affecting the value of the company. Climate-related information should be reported if it is necessary
+for an understanding of the development, performance and position of the company. This perspective is typically of
+most interest to investors.
+— The reference to “impact of [the company’s] activities” indicates environmental and social materiality. Climate-related
+information should be reported if it is necessary for an understanding of the external impacts of the company. This
+perspective is typically of most interest to citizens, consumers, employees, business partners, communities and civil
+society organisations. However, an increasing number of investors also need to know about the climate impacts of
+investee companies in order to better understand and measure the climate impacts of their investment portfolios.
+Companies should consider using the proposed disclosures in these guidelines if they decide that climate is a material
+issue from either of these two perspectives.
+These two risk perspectives already overlap in some cases and are increasingly likely to do so in the future. As markets
+and public policies evolve in response to climate change, the positive and/or negative impacts of a company on the
+climate will increasingly translate into business opportunities and/or risks that are financially material.
+The materiality perspective of the Non-Financial Reporting Directive covers both financial materiality and environmental
+and social materiality, whereas the TCFD has a financial materiality perspective only.
+(
+13) See Annex II “Mapping of Non-Financial Reporting Directive Requirements and TCFD Recommended Disclosures”.
+(
+14) Large public interest entities according to Directive 2013/34/EU with more than 500 employees.
+(
+15) Article 19a (1) of Directive 2013/34/EU (introduced by Directive 2014/95/EU, the Non-Financial Reporting Directive).
+C 209/4 EN Official Journal of the European Union 20.6.2019
+Figure 1
+The double materiality perspective of the Non-Financial Reporting Directive in the context of reporting
+climate-related information
+When assessing the materiality of climate-related information, companies should consider a longer-term time horizon
+than is traditionally the case for financial information. Companies are advised not to prematurely conclude that climate
+is not a material issue just because some climate-related risks are perceived to be long-term in nature.
+When assessing the materiality of climate-related information, companies should consider their whole value chain, both
+upstream in the supply-chain and downstream.
+Given the systemic and pervasive impacts of climate change, most companies under the scope of the Directive are likely
+to conclude that climate is a material issue. Companies that conclude that climate is not a material issue are advised to
+consider making a statement to that effect, explaining how that conclusion has been reached.
+2.3. Climate-related risks, dependencies, and opportunities
+Climate-related risks
+Under the Non-Financial Reporting Directive, climate-related information should, to the extent necessary, include both
+the principal risks to the development, performance and position of the company resulting from climate change, and
+the principal risks of a negative impact on the climate resulting from the company’s activities. The proposed disclosures
+in these guidelines reflect both these risk perspectives.
+Unless otherwise stated in the text, references to risks should be understood to refer both to risks of negative impacts
+on the company (transition risks and physical risks — see below) and to risks of negative impacts on the climate.
+Both of these kinds of risk — risks of negative impacts on the company and risks of negative impacts on the climate —
+may arise from the companies own operations and may occur throughout the value chain, both upstream in the supplychain and downstream.
+(1) Risks of negative impacts on the climate
+Some examples of risks of negative impacts on the climate are:
+— A company’s industrial production facility might directly emit greenhouse gases (GHGs) into the atmosphere.
+— The energy that a company buys to run its operations might have been produced from fossil fuels.
+20.6.2019 EN Official Journal of the European Union C 209/5
+— The product that a company makes might require the consumption of fossil fuels, for example in the case of cars
+that run on petrol or diesel.
+— The production of materials used by the company might result in GHG emissions upstream in their value chain.
+This may be the case for companies that use materials such as cement or aluminium in their production processes.
+Similarly, a company producing or processing forest or agricultural commodities, including in sectors such as food,
+apparel, or wood processing industries, could potentially be causing, directly or indirectly, land-use change including
+deforestation and forest degradation and related GHG emissions.
+(2) Risk of negative impact on the company
+The risks of climate change for the financial performance of the company can be classified as physical risks or transition
+risks (
+16).
+Transition risks are risks to the company that arise from the transition to a low-carbon and climate-resilient economy.
+They include:
+— Policy risks, for example as a result of energy efficiency requirements, carbon-pricing mechanisms which increase
+the price of fossil fuels, or policies to encourage sustainable land use.
+— Legal risks, for example the risk of litigation for failing to avoid or minimise adverse impacts on the climate, or
+failing to adapt to climate change.
+— Technology risks, for example if a technology with a less damaging impact on the climate replaces a technology that
+is more damaging to the climate.
+— Market risks, for example if the choices of consumers and business customers shift towards products and services
+that are less damaging to the climate.
+— Reputational risks, for example the difficulty of attracting and retaining customers, employees, business partners and
+investors if a company has reputation for damaging the climate.
+Generally speaking, a company with a higher negative impact on the climate will be more exposed to transition risks.
+Physical risks are risks to the company that arise from the physical effects of climate change (
+17). They include:
+— Acute physical risks, which arise from particular events, especially weather-related events such as storms, floods,
+fires or heatwaves, that may damage production facilities and disrupt value chains.
+— Chronic physical risks, which arise from longer-term changes in the climate, such as temperature changes, rising sea
+levels, reduced water availability, biodiversity loss and changes in land and soil productivity.
+The exposure of a company to physical risks does not directly depend on whether or not that company has a negative
+impact on the climate.
+Dependencies on natural, human and social capitals
+Many companies are dependent on natural capital (
+18). If the natural capital itself is threatened by climate change then the
+company will be exposed to climate-related risks, especially physical risks. Companies should therefore carefully consider their natural capital dependencies when identifying and reporting on their climate-related risks. For example, an
+agricultural production company may be dependent on various natural capitals such as water, biodiversity, and land and
+soil productivity, all of which are vulnerable to climate change. Such a company would be expected to explain these
+dependencies when reporting on its climate-related risks.
+(
+16) This description of transition and physical risks is to a large extent based on the report of the Task Force on Climate-related Financial
+Disclosures.
+(
+17) Further guidance on reporting physical risks can be found in Advancing TCFD Guidance on Physical Climate Risks and Opportunities,
+EBRD and Global Centre of Excellence on Climate Adaptation
+https://www.physicalclimaterisk.com/media/EBRD-GCECA_draft_final_report_full.pdf
+(
+18) Further explanation and guidance regarding natural capital is available from the Natural Capital Coalition
+https://naturalcapitalcoalition.org/
+C 209/6 EN Official Journal of the European Union 20.6.2019
+Many companies are also dependent on human and social capital, such as the skills and motivation of employees, and the
+level of trust the company enjoys amongst external stakeholders. Companies should integrate information on human
+and social capital as appropriate in their reporting on climate-related issues. For example, employees may be critical to
+the development of innovative low-carbon products and services.
+Climate-related opportunities
+Climate-related risks can often be converted into opportunities by companies offering products and services that contribute to climate change mitigation or adaptation.
+Climate change adaptation means anticipating the adverse effects of climate change and taking appropriate action to
+prevent or minimise the damage they can cause. It includes business opportunities such as new technologies to use
+scarce water resources more efficiently, or the building of new flood defences.
+Climate change mitigation refers to efforts to reduce or prevent GHG emissions. Examples of business opportunities
+associated with mitigation include renewable energy or the development of more energy efficient buildings and transport systems.
+The taxonomy of sustainable economic activities, proposed by the Commission as part of the Action Plan on Financing
+Sustainable Growth, aims to identify and classify climate-related opportunities.
+Figure 2 shows the relationship between climate-related risks and opportunities.
+Figure 2
+Climate-related risks and opportunities
+Climate-related risks and opportunities throughout the value chain
+When reporting on their climate-related risks, dependencies and opportunities, companies should, where relevant and
+proportionate, consider their whole value chain, both upstream and downstream. For companies involved in manufacturing activities this means following a product life cycle approach that takes account of climate issues in the supply
+chain and the sourcing of raw material, as well as during the use of the product and when the product reaches end-oflife. Companies providing services, including financial services, will also need to consider the climate impacts of the
+activities that they support or facilitate.
+20.6.2019 EN Official Journal of the European Union C 209/7
+When SMEs are part of the value chain, companies are encouraged to support them in providing the required
+information
+2.4. Structure of the proposed disclosures
+These guidelines propose climate-related disclosures for each of the five reporting areas listed in the Non-Financial
+Reporting Directive: (a) business model (b) policies and due diligence (c) outcome of policies (d) principal risks and risk
+management and (e) key performance indicators.
+For each reporting area, the guidelines identify a limited number of recommended disclosures. A company should consider using the recommended disclosures to the extent that they are necessary for an understanding of its development,
+performance, position and impact of its activities.
+Further guidance is provided after the recommended disclosures for each reporting area. The further guidance consists
+of suggestions for more detailed information that companies may consider including as part of the recommended disclosures. In addition, further guidance is provided for banks and insurance companies in Annex I.
+When deciding whether and to what extent they use the recommended disclosures and the more detailed suggestions
+included under further guidance, including the further guidance for banks and insurance companies in Annex I, companies should take account of the principles of good non-financial reporting contained in the Commission’s 2017 NonBinding Guidelines on Non-Financial Reporting, including the principles about disclosed information being: material;
+fair, balanced and understandable; and comprehensive but concise.
+The scale of climate-related risks and opportunities that the company identifies will be an important factor in deciding
+whether and to what extent they use the recommended disclosures and the further guidance.
+2.5. Consistency with recognised reporting frameworks and standards
+Companies are encouraged to disclose information in accordance with widely accepted reporting standards and frameworks to maximise comparability for their stakeholders. To contribute to convergence at EU and global level, these
+guidelines refer to a number of recognised reporting frameworks and standards.
+In particular, they incorporate the recommended disclosures of the Task-Force on Climate-related Financial Disclosures
+(TCFD), which are themselves aligned with other principal frameworks. The disclosures recommended by the TCFD are
+separately identified in these guidelines. Annex II shows the disclosure requirements of the Non-Financial Reporting
+Directive mapped against the recommended disclosures of the TCFD.
+In addition to the TCFD, these guidelines also take particular account of the standards and frameworks developed by the
+Global Reporting Initiative (GRI), the CDP, the Climate Disclosure Standards Board (CDSB), the Sustainability Accounting Standards Board (SASB) and the International Integrated Reporting Council (IIRC) and of the EU Eco-Management
+and Audit Scheme (EMAS) (
+19).
+3. RECOMMENDED DISCLOSURES AND FURTHER GUIDANCE
+3.1. Business Model
+It is very important for stakeholders to understand the company’s view of how climate change impacts its business
+model and strategy, and how its activities can affect the climate, over the short, medium and long term. To adequately
+report on climate-related matters, companies will need to take a longer term perspective than they normally do for
+financial reporting.
+The climate-related risks and opportunities of a company will depend on the type of its activity, its geographic locations
+and its positioning in the transition to a low-carbon and climate-resilient economy.
+(
+19) The Corporate Reporting Dialogue is undertaking work to better align the climate-related disclosures of the IIRC, SASB, GRI, CDP
+and CDSB. Companies are advised to take account of this work when it is complete.
+C 209/8 EN Official Journal of the European Union 20.6.2019
+To appropriately incorporate the potential effects of climate change into their planning processes, companies should
+consider how climate-related risks and opportunities may evolve and their potential business implications under different conditions. One way to assess such implications is through the use of scenario analysis.
+Companies that do not appropriately consider their business model and strategy in light of climate change may both
+cause negative effects on the climate and experience negative impacts on their business such as on the profit and loss
+statement, financing, future regulatory burden, and “licence to operate”. On the other hand, identifying new climaterelated opportunities may strengthen the business model and earnings outlook of a company.
+Table 1
+Disclosure on Business Model
+Describe the impact of climate-related risks and opportunities on the company's business model, strategy and financial
+planning. [Covers TCFD recommendation Strategy b)]
+Describe the ways in which the company’s business model can impact the climate, both positively and negatively.
+Describe the resilience of the company’s business model and strategy, taking into consideration different climate-related
+scenarios over different time horizons, including at least a 2 °C or lower scenario and a greater than 2 °C scenario (
+20).
+[Covers TCFD recommendation Strategy c)]
+Further guidance:
+— Describe any changes in the company’s business model and strategy to address transition and physical risks and to
+take advantage of climate-related business opportunities.
+— Describe the company’s dependencies on natural capitals, such as water, land, ecosystems or biodiversity that are at
+risk because of climate change.
+— Describe how any changes in the company’s business model and strategy to address climate change mitigation
+and/or adaptation will change the company’s human capital needs.
+— Describe opportunities related to resource efficiency and cost savings, the adoption of low-emission energy sources,
+the development of new products and services, access to new markets, and building resilience along the value chain.
+— Disclose how the company has selected scenarios.
+— Describe how the company’s activities contribute to climate change via GHG emissions, including from deforestation, forest degradation or land-use change.
+3.2. Policies and Due Diligence Processes
+Governance and control systems are key to stakeholders’ understanding of the robustness of a company’s approach to
+climate-related issues. Information on the involvement of the board and management, in particular their respective
+responsibilities in relation to climate change, informs stakeholders on the level of the company’s awareness of climaterelated issues. When describing the role of the board, the company may wish to make a reference to any corporate
+governance statement that it is required to publish.
+(
+20) Companies are encouraged to consider a 1,5 °C scenario, in light of the conclusions of the IPCC 2018 Special Report. For further
+information on how to conduct a scenario analysis to assess the strategic resilience of a company, see TCFD’s Technical Supplement
+“The Use of Scenario Analysis in Disclosure of Climate-related Risks and Opportunities”
+https://www.fsb-tcfd.org/wp-content/uploads/2017/06/FINAL-TCFD-Technical-Supplement-062917.pdf
+20.6.2019 EN Official Journal of the European Union C 209/9
+Stakeholders may also be interested in the company’s policies and any associated targets that demonstrate its commitment to climate change mitigation and adaptation, and in its due diligence processes. This will help stakeholders to
+understand the company’s ability to manage its business to minimise climate-related risk, limit negative impacts on the
+climate and maximise positive impacts throughout the value chain.
+Policies and processes addressing climate-related topics may be separate from or integrated into other policies and operational processes. Due diligence processes that take climate into account, for example, might be integrated into the company’s risk management framework. The company may want to explain its approach to managing climate-related issues
+and the rationale for choosing that approach.
+Table 2
+Disclosure on Policies and Due Diligence Processes
+Describe any company policies related to climate, including any climate change mitigation or adaptation policy.
+Describe any climate-related targets the company has set as part of its policies, especially any GHG emissions targets,
+and how company targets relate to national and international targets and to the Paris Agreement in particular.
+Describe the board’s oversight of climate-related risks and opportunities. [Covers TCFD recommendation Governance a)]
+Describe management’s role in assessing and managing climate-related risks and opportunities and explain the rationale
+for the approach. [Covers TCFD recommendation Governance b)]
+Further guidance:
+— Describe the company’s engagement with its value chain on climate-related issues, explaining how it engages with
+upstream and downstream partners to promote climate mitigation and/or adaptation.
+— Explain how climate-related issues are integrated into the company’s operational decision-making processes.
+— Describe any public policy engagement on climate-related issues undertaken by the company, including membership
+of any relevant organisations or interest groups.
+— Describe whether, how and at what levels (in particular board and management) the company has access to expertise
+on climate-related issues, either from its own internal capacity and/or from external sources.
+— Describe any employee policies that are related to the climate, for example investments in skills necessary for the
+transition to low-carbon technologies, or measures to ensure employees can perform theirs tasks safely in a changing
+climate.
+— Describe whether and how the company’s remuneration policy takes account of climate-related performance, including performance against targets set.
+— Disclose any energy-related targets the company has set as part of its policies (see Section 3.5).
+— Explain the reasoning behind the selection of any climate-related targets used by the company.
+— In the case of land sector companies, describe any targets related to GHG “sinks” (GHG absorption).
+3.3. Outcomes
+Disclosure of climate-related policy outcomes helps stakeholders monitor and assess a company’s development, position,
+performance and impact as a result of its policies. In assessing its performance through target setting and reporting
+against the targets, the company demonstrates the consistency of its strategy, actions, and decisions related to climate
+change.
+C 209/10 EN Official Journal of the European Union 20.6.2019
+Quantitative aspects, such as indicators supporting the analyses, are covered in Section 3.5 Key Performance Indicators of
+these guidelines.
+Table 3
+Disclosure on Outcomes
+Describe the outcomes of the company's policy on climate change, including the performance of the company against the
+indicators used and targets set to manage climate-related risks and opportunities. [Covers TCFD Metrics and targets c)].
+Describe the development of GHG emissions against the targets set and the related risks over time. [Covers TCFD Metrics and targets b)].
+Further guidance:
+— Describe how the performance of the company with regard to climate influences its financial performance, where
+possible with reference to financial KPIs.
+3.4. Principal Risks and their Management
+It is very important for investors and other interested stakeholders to know how the company identifies climate-related
+risks, the principal risks it has identified, and how it manages those risks.
+Disclosures on risks should include risks of the company having a negative impact on the climate and risks of climate
+change having a negative impact on the company (transition and physical risks), and whether and how the two are
+linked. Companies are advised to take account of the risk definitions given in Section 2.3 when deciding what information to disclose regarding risks.
+When disclosing information about climate-related risks, companies should consider longer-term time horizons than
+they traditionally use for financial risks.
+Gaps in data and methodologies may in some cases make it difficult to present quantitative information about climaterelated risks, especially regarding longer time horizons. In such cases, companies are encouraged to present qualitative
+information until these data and methodological issues are adequately addressed.
+Table 4
+Disclosure on Principal Risks and Their Management
+Describe the company’s processes for identifying and assessing climate-related risks over the short, medium, and long
+term and disclose how the company defines short, medium, and long term (
+21). [Covers TCFD recommendation Risk
+management a)]
+Describe the principal climate-related risks the company has identified over the short, medium, and long term throughout the value chain, and any assumptions that have been made when identifying these risks. [Covers TCFD recommendation Strategy a)]. This description should include the principal risks resulting from any dependencies on natural capitals threatened by climate change, such as water, land, ecosystems or biodiversity.
+Describe processes for managing climate-related risks (if applicable how they make decisions to mitigate, transfer,
+accept, or control those risks), and how the company is managing the particular climate-related risks that it has identified. [Covers TCFD recommendation Risk management b)]
+Describe how processes for identifying, assessing, and managing climate-related risks are integrated into the company’s
+overall risk management. [Covers TCFD recommendation Risk management c)]. An important aspect of this description
+is how the company determines the relative significance of climate-related risks in relation to other risks.
+(
+21) The definition of short, medium and long term is likely to depend on the company’s business model and the life cycle of its assets
+and liabilities.
+20.6.2019 EN Official Journal of the European Union C 209/11
+Further guidance:
+— Describe any climate adaptation measures undertaken by the company as part of its risk management process.
+— Give a detailed breakdown of principal climate-related risks by business activity.
+— Give a detailed breakdown of principal climate-related risks by geographical location.
+— Identify the locations that are critical to value chains, including operations, suppliers and markets.
+— Describe how the company sets and applies limits to climate-related risks, including any triggers used to escalate
+issues to management attention.
+— Describe the processes for prioritising climate-related risks, including any thresholds applied and indicate which risks
+across the value chain are considered most significant.
+— Categorise the principal risks of climate change on the financial performance of the company according to whether
+they are transition risks (policy, legal, technological, market and reputational risks) or physical risks (acute and
+chronic risks).
+— Disclose any risk mapping that includes climate-related issues.
+— Provide definitions of risk terminology used or references to existing risk classification frameworks used.
+— Describe the frequency of reviews and analyses with regard to risk identification and assessment.
+— Describe the linkages between principal climate-related risks and financial KPIs.
+— Disclose how scenarios and/or internal carbon pricing are used for risk management actions such as mitigation,
+transfer or adaptation.
+— Disclose the financial impacts of extreme weather events, including possible indicators on days of business interruptions and associated costs, cost of repairs, fixed-asset impairment, value chain disruptions and lost revenues.
+— Describe how the company’s performance is affected by weather variability, in particular for companies sensitive to
+variability in temperature and precipitation.
+3.5. Key Performance Indicators
+According to the Non-Financial Reporting Directive, companies should disclose key performance indicators relevant to
+their particular business. They should consider using indicators to support their other climate-related disclosures, such
+as those related to outcomes or principal risks and their management, and to allow for aggregation and comparability
+across companies and jurisdictions. Indicators should be integrated with other disclosures to support and explain the
+narrative. However, it is also considered good practice to publish an additional table that presents all indicators in one
+place.
+To meet the expectations of the TCFD, companies should disclose indicators and targets used by the company to assess
+climate-related risks and opportunities in line with their strategy and risk management processes [Covers TCFD recommendation Metrics and targets a)].
+The robustness and reliability of data is key to be able to use the information in decision-making processes. Where not
+apparent, companies should provide a description of and any changes in the methodologies used to calculate or estimate
+the indicators.
+Recommended indicators (
+22)
+Subject to the company’s materiality assessment and in order to facilitate greater comparability of disclosures of nonfinancial information by companies, companies should consider disclosing the indicators in this section.
+(
+22) To enhance usability, in this section relevant further guidance is provided immediately after each recommended indicator.
+C 209/12 EN Official Journal of the European Union 20.6.2019
+GHG emissions
+This section contains four different indicators on GHG emissions: direct GHG emissions; indirect GHG emissions from the generation of acquired and consumed electricity, steam, heat,
+or cooling; all other indirect GHG emissions that occur in the value chain of the reporting company; and GHG absolute emissions target. Companies that decide to use any or all of
+these indicators should:
+— calculate their GHG emissions in line with the GHG Protocol methodology or the ISO 14064-1:2018 standard and, where appropriate, with the Commission Recommendation
+179/2013 for common methods on measuring GHG performance following a lifecycle approach (Organisation Environmental Footprint and Product Environmental Footprint). This
+will allow for aggregation and comparability across companies and jurisdictions;
+— indicate the third-party verification/assurance status that applies to their reported scope 1, scope 2 and scope 3 GHG emissions.
+KPI Unit of Measure Example Rationale Alignment with Other Reporting
+Frameworks EU Policy Reference
+Direct GHG emissions from sources
+owned or controlled by the company (Scope 1)
+Metric tons
+CO2e (
+23)
+270 900 tCO2e This KPI ensures companies are
+accurately measuring their carbon
+footprints from direct emissions.
+TCFD Metrics and Targets, CDP
+Climate Change Questionnaire,
+GRI 305, CDSB Framework, SASB,
+EMAS
+EU emissions trading system (ETS)
+2030 climate & energy framework
+Further guidance:
+— Companies should disclose 100 % of their Scope 1 GHG emissions. This will help to improve the quality of other companies’ GHG emissions reporting. If a company cannot collect
+reliable data for a proportion of its Scope 1 GHG emissions, it should make a reasonable estimate for that proportion in order to arrive at a figure for 100 %. In that case, the
+company should also disclose (1) the % of emissions for which reliable data have been collected and the % of emissions that have been estimated, (2) the reasons why reliable data
+could not be collected for a proportion of the emissions and (3) the methodology used to estimate the proportion of emissions for which reliable data could not be collected.
+— Companies should, where appropriate, consider disclosing a breakdown of Scope 1 GHG emissions by country or region (including the EU), by business activity, and by subsidiary.
+E.g.: Scope 1 GHG emissions in country/region X 42 260 tCO2e, in country/region Y 54 180 tCO2e.
+(
+23) A carbon dioxide equivalent or CO2
+ equivalent (CO2e) is a metric measure used to compare the emissions from various greenhouse gases on the basis of their global-warming potential, by converting
+amounts of other gases to the equivalent amount of carbon dioxide with the same global warming potential.
+20.6.2019 EN Official Journal of the European Union C 209/13
+KPI Unit of Measure Example Rationale Alignment with Other Reporting
+Frameworks EU Policy Reference
+Indirect GHG emissions from the
+generation of acquired and consumed electricity, steam, heat, or
+cooling (collectively referred to as
+“electricity”) (Scope 2)
+Metric tons
+CO2e
+632 400 tCO2e This KPI ensure companies are
+measuring emissions from purchased or acquired electricity,
+steam, heat, and cooling.
+TCFD Metrics and Targets, CDP
+Climate Change Questionnaire,
+GRI 305, CDSB Framework, EMAS
+2030 climate & energy framework
+Further guidance:
+— If necessary, companies should state whether there are any sources (e.g. facilities, specific GHGs, activities, geographies, etc.) of Scope 2 GHG emissions within their selected reporting boundary for which GHG emissions could not be collected or estimated, and the reasons for this.
+— Companies should, where appropriate, consider disclosing a breakdown of Scope 2 GHG emissions by country or region (including the EU), by business activity, and by subsidiary.
+E.g.: Scope 2 GHG emissions in country/region X 98 654 tCO2e, in country/region Y EU: 126 480 tCO2e.
+KPI Unit of Measure Example Rationale Alignment with Other Reporting
+Frameworks EU Policy Reference
+All indirect GHG emissions (not
+included in scope 2) that occur in the
+value chain of the reporting company, including both upstream and
+downstream emissions (Scope 3)
+Metric tons
+CO2e
+4 383 000
+tCO2e
+For most companies, the majority
+of emissions occur indirectly from
+value chain activities. This KPI
+helps to gauge the thoroughness of
+companies’ accounting processes
+and to understand how companies
+are analysing their emissions
+footprints.
+TCFD Metrics and Targets, CDP
+Climate Change Questionnaire,
+GRI 305, CDSB Framework, EMAS
+2030 climate & energy framework
+Further guidance:
+— Scope 3 should account for emissions from activities that occur “downstream” and “upstream” from the company’s own operations.
+— Companies should not exclude any activity that would compromise the relevance of the reported Scope 3 GHG emissions inventory. The GHG Protocol Corporate Value Chain
+(Scope 3) Accounting and Reporting Standard and Annex H of ISO 14064-1:2018 provide criteria for determining relevance. Companies should explain any excluded categories in
+their Scope 3 GHG emissions disclosure. When SMEs are part of the value chain, companies are encouraged to support them in providing the required information.
+C 209/14 EN Official Journal of the European Union 20.6.2019
+KPI Unit of Measure Example Rationale Alignment with Other Reporting
+Frameworks EU Policy Reference
+GHG absolute
+emissions target
+Metric tons CO2e achieved or %
+reduction, from base year
+20 % reduction
+in absolute
+emissions,
+equivalent to
+a 1 500 000
+tCO2e reduction
+by 2025 from
+2018 base year
+Target setting provides direction
+and structure to environmental
+strategy. This KPI helps to understand companies' commitments to
+reducing emissions and whether
+the company has a goal towards
+which it is harmonising and focusing emissions-related efforts.
+TCFD Metrics and Targets, CDP
+Climate Change Questionnaire,
+GRI 103-2 and 305, CDSB Framework, SASB, EMAS
+2030 climate & energy framework
+Further guidance:
+— Companies should describe whether their target(s) relate(s) to their Scope 1, Scope 2 and/or Scope 3 GHG emissions either in full or in part.
+— Companies should describe the development of GHG emissions against the targets set (see Section 3.3 Outcomes).
+— Companies should consider setting targets for 2025 or 2030 and review them every five years. They may also consider setting a target for 2050 to align with the Paris Agreement.
+— Companies should, where appropriate, consider disclosing GHG emissions targets by country or region (including the EU), by business activity, and by subsidiary.
+— Companies may consider disclosing an additional intensity target expressed in metric tons CO2e per business metric or % reduction of intensity metric, from base year (e.g. 8 %
+reduction in relative emissions, equivalent to a reduction of 350 tCO2e per EUR 1 million turnover by 2025 from 2018 base year).
+Energy
+KPI Unit of Measure Example Rationale Alignment with Other Reporting
+Frameworks EU Policy Reference
+Total energy consumption
+and/or production from
+renewable and non-renewable sources
+MWh 292 221 MWh consumed from
+renewable sources;
+1 623 453 MWh consumed
+from non-renewable sources
+Energy consumption and production accounts for an important proportion of GHG
+emissions.
+TCFD Metrics and Targets, CDP
+Climate Change Questionnaire,
+GRI 302, CDSB Framework,
+SASB, EMAS
+2030 climate & energy framework; Energy Efficiency
+Directive
+20.6.2019 EN Official Journal of the European Union C 209/15
+KPI Unit of Measure Example Rationale Alignment with Other Reporting
+Frameworks EU Policy Reference
+Further guidance:
+— Fuels consumed as feedstock are not combusted for energy purposes and should not be included in calculations for this indicator.
+— Include a breakdown of the different sources of renewable energy. Renewable sources of energy are those that can be naturally replenished on a human timescale, such as wind,
+solar, hydro, geothermal, biomass, etc. This definition excludes all fossil fuels (coal, oil, natural gas) and nuclear fuels. Waste energy should not be included if it is derived from fossil
+fuels (
+24).
+— When disclosing non-renewable sources of energy, make a distinction between low carbon sources and other sources of non-renewable energy.
+KPI Unit of Measure Example Rationale Alignment with Other Reporting
+Frameworks EU Policy Reference
+Energy efficiency target Percentage 6,5 % improvement by 2025
+from 2018 base year for product, output or activity.
+This KPI helps data users
+understand the companies’
+ambition to use energy more
+efficiently, which can reduce its
+energy costs and lower GHG
+emissions. It provides further
+background as to how the
+company aims to achieve its
+emissions reduction targets.
+TCFD Metrics and Targets, CDP
+Climate Change Questionnaire,
+GRI 103-2 and 302, SASB,
+EMAS
+2030 climate & energy framework; Energy Efficiency
+Directive
+Further guidance:
+— Companies should describe progress against the energy targets set (see Section 3.3 Outcomes).
+(
+24) Definition of “renewable energy” from the CDP Climate Change Reporting Guidance 2018.
+C 209/16 EN Official Journal of the European Union 20.6.2019
+KPI Unit of Measure Example Rationale Alignment with Other Reporting
+Frameworks EU Policy Reference
+Renewable energy consumption and/or production target
+% increase of the proportion of renewable
+energy consumed /
+produced from base
+year
+13 % increase of the proportion of renewable energy consumed by 2025 from 2018
+base year
+This KPI helps data users
+understand the companies’
+ambition to produce or consume energy with lower GHG
+emissions.
+TCFD Metrics and Targets, CDP
+Climate Change Questionnaire,
+GRI 103-2 and 302, EMAS
+2030 climate & energy framework; Renewable Energy
+Directive
+Further guidance:
+— Companies should describe progress against the energy targets set (see Section 3.3 Outcomes).
+Physical risks
+KPI Unit of Measure Example Rationale Alignment with Other Reporting
+Frameworks EU Policy Reference
+Assets committed in
+regions likely to become
+more exposed to acute or
+chronic physical climate
+risks
+Percentage 15 % of book
+value of exposed
+real assets
+Extreme weather events can result in interruptions
+to or limitations on production capacity or early
+curtailment of operating facilities. The value of
+assets in areas exposed to increased weather
+informs the potential implications for asset valuation. It is important to observe this KPI in conjunction with disclosures regarding the company’s adaptation strategies and policies.
+TCFD Metrics and Targets, all
+450a.1 SASB codes within
+select industries
+EU Adaptation Strategy
+Further guidance:
+— Companies are advised to disclose the sources or methodology they have used to identify regions more exposed to physical climate-related risks.
+20.6.2019 EN Official Journal of the European Union C 209/17
+Products and services
+KPI Unit of Measure Example Rationale EU Policy Reference
+Percent turnover in the reporting year from products or services associated with activities that meet the criteria for substantially contributing to mitigation of or adaptation to climate
+change as set out in the Regulation on the establishment of
+a framework to facilitate sustainable investment (EU taxonomy).
+And / or
+Percent investment (CapEx) and/or expenditures (OpEx) in the
+reporting year for assets or processes associated with activities
+that meet the criteria for substantially contributing to mitigation of or adaptation to climate change as set out in the Regulation on the establishment of a framework to facilitate sustainable investment (EU taxonomy).
+Percentage 12,5 % (turnover) from products or
+services associated with activities
+that substantially contribute to
+mitigation of or adaptation to climate change
+8 % (CapEx) in products associated
+with activities that substantially
+contribute to mitigation of or
+adaptation to climate change
+These KPIs provide useful information to investors who are interested
+in companies whose products and
+services substantially contribute to
+mitigation of or adaptation to climate change whilst not significantly harming any other of the
+EU’s environmental objectives.
+Proposed Regulation on
+the establishment of
+a framework to facilitate
+sustainable investment
+Commission action plan
+on financing sustainable
+growth
+Further guidance:
+— Companies should report on this indicator if and when the proposed Regulation on the establishment of a framework to facilitate sustainable investment (EU taxonomy) is approved.
+In assessing whether an activity substantially contributes to the two EU objectives of mitigation of or adaptation to climate change while not significantly harming any other of the
+EU’s environmental objectives, companies should take account of all relevant criteria and conditions set out in the Regulation.
+C 209/18 EN Official Journal of the European Union 20.6.2019
+Green Finance
+KPI Unit of Measure Example Rationale Alignment with Other
+Reporting Frameworks EU Policy Reference
+Climate-related Green Bond Ratio:
+Total amount of green bonds outstanding (at year-end) divided
+by (a 5-year rolling average of) total amount of bonds
+outstanding
+and / or,
+Climate-related Green Debt Ratio:
+Total amount of all green debt instruments outstanding (at
+year-end) divided by (a 5-year rolling average of) total amount
+of all debt outstanding.
+Percentage 20 % of bonds This KPIs helps companies communicate how
+their low-carbon transition plan is supported by
+debt financing activities
+and how capital is raised
+for existing and new
+projects with climate
+benefits.
+ISO/CD 14030-1
+Green bonds -- Environmental performance of
+nominated projects and
+assets (DRAFT)
+Commission action plan
+on financing sustainable
+growth
+Further guidance:
+— The total amount of green bonds or green debt should only include bonds and debt instruments issued according to a potential EU Green Bond Standard if and when such
+a standard is approved, or according to any other broadly recognised green bond framework, such as the Green Bond Principles and the Green Loan Principles. Companies should
+specify the green bond framework applied.
+— For bond issuers that have issued bonds that are not listed instruments (e.g., as private placements), the breakdown of listed and unlisted should be disclosed.
+— Companies should also consider providing future targets related to these KPIs.
+20.6.2019 EN Official Journal of the European Union C 209/19
+In addition to the above indicators, companies should also consider the following:
+— Sector-specific indicators relevant for the particular industry. Companies from sectors including but not limited to
+energy, transportation, materials, real estate, and agriculture should refer to the TCFD’s supplemental guidance for
+non-financial groups and other climate-related reporting frameworks to ensure comparability of reported KPIs across
+sectors and companies (
+25).
+— Indicators on related environmental issues. Companies whose business models are dependent on natural capitals
+threatened by climate change may need to disclose indicators related to those natural capitals (e.g. water, soil productivity or biodiversity). Companies with adverse impacts on the climate as a result of land-use change including deforestation and forest degradation should consider disclosing indicators on these matters (
+26).
+— Indicators on related human capital and social issues, such as training and recruitment of employees.
+— Indicators related to opportunities. Companies engaging with a transition to a low-carbon and climate-resilient economy, aligned with key EU policies (
+27), carrying out climate change mitigation / adaptation activities that could translate into opportunities for the company should consider disclosing KPIs that reflect such efforts. Examples of these
+could be revenues from low-carbon products, revenues from product or services applying to the circular economy
+model, and R&D expenditures in circular economy production.
+(
+25) TCFD (2017): Implementing the Recommendations of the Task-Force on Climate-related Financial Disclosures,
+https://www.fsb-tcfd.org/wp-content/uploads/2017/06/FINAL-TCFD-Annex-062817.pdf Other reporting standards and frameworks
+providing industry-specific KPIs on climate-related issues include the CDP Climate Change, Water Security and Forests Questionnaires, the GRI 305: Emissions 2016 and GRI 302: Energy 2016 standards or the SASB industry standards.
+(
+26) Additional guidance can be found in The Natural Capital Protocol Toolkit https://naturalcapitalcoalition.org/protocol-toolkit/ and in
+the Commission Recommendation 179/2013 for common methods on measuring GHG performance following a lifecycle approach
+(Organisation Environmental Footprint and Product Environmental Footprint).
+(
+27) Such as the Circular Economy Package, the Renewable Energy Directive, the Energy Efficiency Directive, the EU Emission Trading
+Scheme or the Clean Transport Package. For more details, see https://ec.europa.eu/clima/policies/strategies/2050_en
+
+ANNEX II
+Mapping of Non-Financial Reporting Directive Requirements and TCFD Recommended
+Disclosures
+The disclosures proposed in this supplement correspond to the requirements of the Non-Financial Reporting Directive
+(NFRD) and are also designed to integrate the recommended disclosures of the TCFD.
+The graphic below illustrates how this supplement allocates each of the TCFD recommended disclosures to a disclosure
+requirement of the NFRD. This represents one option for cross-referencing the TCFD recommended disclosures with the
+disclosures required by the NFRD. Since the NFRD and TCFD use different terms and concepts, this cross-referencing
+can be done in other ways. Companies may wish to consider other options and are encouraged to experiment further in
+this regard.
+Figure 3
+Mapping of NFRD Requirements and TCFD Recommended Disclosures
+Companies that are subject to the requirements of the NFRD and that seek to implement the TCFD recommendations
+may wish to consider the following:
+— The TCFD proposes that its recommended disclosures are published in the company’s “annual financial filings” (
+1
+).
+The NFRD allows Member States to permit companies to publish their non-financial statement in a separate report
+under certain conditions, and a majority of Member States have taken up this option. If a company subject to the
+NFRD wants to the meet the recommendations of the TCFD regarding the location of its climate-related disclosures,
+it should publish these disclosures in its management report.
+(
+1
+) Implementing the Recommendations of the TCFD — Appendix 2 Glossary: Financial Filings refer to the annual reporting packages in
+which organisations are required to deliver their audited financial results under the corporate, compliance, or securities laws of the
+jurisdictions in which they operate. While reporting requirements differ internationally, financial filings generally contain financial
+statements and other information such as governance statements and management commentary.
+20.6.2019 EN Official Journal of the European Union C 209/29
+— The materiality perspective of the NFRD covers both financial materiality and environmental and social materiality,
+whereas the TCFD has a financial materiality perspective only. In principle therefore, information considered material from the perspective of the TCFD should also be material from the perspective of the NFRD.
+— The TCFD states that its recommended disclosures related to Strategy and to Metrics and Targets should be subject
+to a financial materiality assessment. The TCFD does not, however, state that a materiality assessment should apply
+to its recommended disclosures on Governance and Risk Management, implicitly proposing that its disclosures on
+Governance and Risk Management should be made irrespective of materiality. Therefore, a company wanting to
+implement the TCFD recommendations may need to disclose certain information even if that information is not
+required according to the NFRD.
+C 209/30 EN Official Journal of the European Union 20.6.2019

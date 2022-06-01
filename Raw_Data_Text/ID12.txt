@@ -1,0 +1,657 @@
+1
+A Primer for
+Environmental &
+Social Disclosure
+August 2020
+2
+Table of contents
+Section 1 Introduction 3
+Section 2 What is ESG? 4
+2.1 How does E&S Differ From Corporate Social Responsibility? 4
+2.2 Examples of E&S Factors 5
+Section 3 Why is E&S Disclosure Becoming Increasingly Important
+for Issuers and Investors? 6
+Section 4 Are Canadian Issuers Required to Provide E&S Disclosure? 7
+4.1 Continuous Disclosure 7
+4.2 Timely Disclosure 7
+Section 5 What are Some Practical Steps an Issuer can take
+to Provide E&S Disclosure? 8
+5.1 Getting Started: Self-Assessment Questions 8
+5.2 Step-by-Step Approach to E&S Disclosure 8
+5.2.1 Step 1: E&S Disclosure Benchmarking 9
+5.2.2 Step 2: E&S Materiality Assessment 9
+5.2.3 Step 3: Prepare and Review Disclosure 10
+Section 6 Conclusion 11
+6.1 Acknowledgments 11
+Appendix A – Resources for Issuers 12
+Appendix B – ESG Research and Ratings Providers 13
+Appendix C – Investor-Preferred ESG Disclosure Standards and Recommendations 15
+Appendix D – A Process for Assessing Materiality 18
+3
+Section 1
+Introduction
+This Primer is an updated version of A Primer for Environmental & Social Disclosure published by TSX Inc. and
+CPA Canada in 2014. It is intended for Toronto Stock Exchange (TSX)- and TSX Venture Exchange (TSXV)-listed
+issuers seeking to get started on the environmental and social (E&S) aspects of their environmental, social and
+governance (ESG) disclosure, or to enhance their existing E&S disclosure, in regulatory filings.1
+ This Primer
+provides guidance with an emphasis on small- and medium-sized issuers.
+The focus of this Primer is on disclosure of financially material E&S factors. It applies the Canadian securities
+law definition of materiality (see text box below). It is meant to complement (not replace) TSX, TSXV, or Canadian
+Securities Administrators (CSA) rules and guidance.
+The Primer explores the following questions:
+• What is ESG?
+• Why is E&S disclosure becoming increasingly important for issuers and investors?
+• Are Canadian issuers required to provide E&S disclosure?
+• What are some practical steps an issuer can take to provide E&S disclosure?
+• What additional resources are available?
+1 In addition, the demands of the integrated reporting movement for a more holistic picture of value creation over the short, medium and long terms are creating opportunities for issuers to better integrate
+disclosures on E&S issues into regulatory reporting: https://www.cpacanada.ca/en/business-and-accounting-resources/financial-and-non-financial-reporting/mdanda-and-other-financial-reporting/
+publications/spotlight-on-integrated-reporting
+2 https://www.esgglobaladvisors.com/covid-19-esg
+3 Millani (2020) Is COVID-19 Affecting ESG Integration? https://f01c8ee6-cac3-40ff-a0e4-8bfb54f2b88b.filesusr.com/ugd/66e92b_63052dd7dadc469e97dcae88e15af262.pdf
+4 https://www.morningstar.com/articles/976361/sustainable-funds-weather-the-first-quarter-better-than-conventional-funds
+5 https://www.cnbc.com/2020/06/07/sustainable-investing-is-set-to-surge-in-the-wake-of-the-coronavirus-pandemic.html
+6 https://www.bnnbloomberg.ca/sustainable-investing-surges-in-canada-amid-pandemic-protests-1.1453425
+Materiality Definitions
+According to the CSA, “material” is defined as: “Information is likely material if a reasonable investor’s
+decision whether to buy, sell or hold securities of the issuer would likely be influenced or changed if the
+information was omitted or misstated.”
+According to TSX, “material” is defined as:
+“Any information relating to the business and affairs of a company that results in or would reasonably
+be expected to result in a significant change in the market price or value of any of the company’s listed
+securities.”
+Is COVID-19 going to enhance or diminish the importance of ESG?
+Investors believe current circumstances are enhancing and amplifying the importance of ESG. Investors’
+continued focus on ESG factors through the COVID-19 lens is resulting in renewed attention to social
+factors, including human capital management, employee health and safety, and corporate culture.2
+A recent survey of 23 Canadian institutional investors, representing $2.3 trillion in assets under
+management found that 74% of those surveyed expect momentum for ESG investing to continue. “Boards
+and business leaders can expect enhanced scrutiny not only around how they handled the crisis, but more
+generally around how they integrate ESG into their business strategy”.3
+Additionally, during the market downturn resulting from the COVID-19 pandemic, ESG funds generally
+outperformed traditional funds4
+ and attracted a record amount of inflows.5
+ In Canada, as at June 19, 2020,
+ESG ETFs had net inflows of $740 million in 2020 (compared to $142 million for all of 2019).6
+4
+Section 2
+What is ESG?
+“ESG” refers to environmental, social and governance factors that can impact company value and investor
+decision-making:
+• Governance factors include board quality, independence, and accountability; board oversight of executive
+performance and compensation; and the board’s oversight of company strategy, risk management,
+performance, and disclosure, including disclosure of E&S factors.
+• E&S factors include financially material risks and opportunities such as climate change, water use, human
+capital management, and health and safety.7
+2.1 How does E&S Differ From Corporate
+Social Responsibility?
+E&S factors relate to strategic business issues
+that have the potential to materially impact issuer
+performance and value. As a result, E&S factors can
+influence decisions by investors and other capital
+market participants. Corporate social responsibility
+(CSR), sustainability and corporate citizenship are terms
+used to describe a company’s approach to managing
+environmental and social factors relevant to a broad
+range of corporate stakeholders, including employees,
+customers and communities. The boundary between
+E&S and CSR is defined by financial materiality.8
+Materiality is dynamic: factors that are initially not material may become material over time.9
+ As a result, the
+boundary between E&S and CSR is not fixed. CSR issues can evolve (sometimes rapidly) to become material E&S
+factors.10 In an era of instant communication, in which an ever-increasing portion of corporate value is based on
+intangibles, the transformation of CSR issues into material E&S factors can happen more quickly
+than ever before.
+7 https://www.tsx.com/tsx-company-services/learning-academy/esg-101
+8 Adapted from ESG Global Advisors: https://www.esgglobaladvisors.com/insights
+9 The dynamic nature of materiality is discussed in more detail in CSA Staff Notice 51-333 Environmental Reporting Guidance (2010) www.osc.gov.on.ca/en/29620.htm (page 7)
+10 Jean Rogers and George Serafeim (2019) Pathways to Materiality: How Sustainability Issues Become Financially Material to Corporations and Their Investors https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=3482546
+Corporate Social
+Responsibility
+TARGET AUDIENCE:
+STAKEHOLDERS
+• Employees • Clients
+• Consumers • Communities
+E
+S
+G
+Material Issues
+TARGET AUDIENCE:
+CAPITAL MARKETS
+• Shareholders • Proxy Advisors
+• Bondholders • Rating Agencies
+• Lenders • Financial
+• Insurers Regulators
+The Governance of E&S
+While governance disclosure is not within the scope of this Primer, governance is fundamental to effective
+E&S practices. Governance is generally discussed in regulatory filings and is a focus of regulatory
+disclosure requirements. There are increasing investor expectations for disclosure on E&S governance,
+including how the board provides oversight of material E&S factors, how E&S factors are integrated into
+company strategy, how E&S is taken into account in the board skills matrix and director education, and the
+linkage of executive compensation to E&S metrics and targets.
+5
+2.2 Examples of E&S Factors
+Examples of E&S factors that may be material for issuers are outlined in Table 1.
+TABLE 1
+Examples of E&S Factors
+Environmental Issues Social Issues
+Greenhouse gas (GHG) emissions Human capital management
+Climate change impacts Employee engagement, diversity and inclusion
+Air quality Health and safety
+Energy management Labour practices
+Water and wastewater management Human rights
+Waste and hazardous materials management Indigenous rights
+Land use and ecosystems impacts Product quality and safety
+Biodiversity (including deforestation) Cybersecurity and data privacy
+Product design and lifecycle management Bribery and corruption
+Supply chain environmental issues Supply chain social issues
+The relevant E&S factors for an issuer will vary by company, sector and geographic location. An issuer needs to
+evaluate potentially material E&S factors in the context of its unique business model and circumstances. Guidance
+on how to assess the materiality of E&S factors for disclosure in regulatory filings is provided in Section 4.
+6
+Section 3
+Why is E&S Disclosure Becoming
+Increasingly Important for Issuers
+and Investors?
+E&S factors can impact a company’s strategy, business model, risk management, and financial and operational
+performance. Effective management of E&S factors can produce a range of benefits including improved risk
+management; enhanced business resilience; cost savings and increased revenue streams through innovative
+products; an advantage in attracting, retaining, and motivating employees; enhanced brand reputation and
+customer loyalty; and improved social licence to operate in local communities. Integrating material E&S factors
+into the company’s strategy, existing processes, and key performance indicators (KPIs) can help identify and
+harness these opportunities for competitive advantage, as well as encourage collaboration among different
+departments and functions within a given organization.
+In Canada, the majority (51%) of all professionally managed assets are being managed using some form of
+responsible investment approach, with ESG integration being the most prevalent.11 This reflects a global trend
+toward responsible investment founded on growing evidence of financial outperformance by companies that
+effectively manage material E&S risks and opportunities.12 There are also ESG-related voluntary and regulatory
+initiatives and standards (e.g., stewardship codes,13 the Principles for Responsible Investment14 and the OECD
+Guidelines for Multinational Enterprises15) that encourage ESG integration and disclosure. As a result, investors
+and other capital market participants are seeking disclosure of financially material E&S factors in order to
+understand how issuers are managing these risks and opportunities. To illustrate this point, Morrow Sodali’s
+Institutional Investor Survey 2020 found that ESG risks and opportunities played a greater role in investment
+decisions over the past 12 months for 100% of investors surveyed.16
+A growing industry of ESG research and ratings providers is responding to the need for enhanced E&S information
+by providing ESG assessments and assigning ESG ratings to public companies, which often complement investors’
+own research.17 Issuer E&S disclosure is a key source for ESG research. If issuers do not provide this disclosure,
+investors must rely more heavily on third-party information sources. See Appendix B for additional information on
+ESG research and ratings providers, including an overview of how ESG research is typically used by investors and a
+brief discussion of the key players and their methodologies.
+Collectively, these trends indicate a growing need for issuers to provide consistent, decision-useful E&S disclosure.
+There is an opportunity for issuers to provide decision-useful information directly to their investors by proactively
+articulating their approach to identifying, assessing, and managing relevant E&S risks and opportunities.
+11 Responsible Investment Association: Canadian RI Trends Report 2018 https://www.riacanada.ca/research/2018-canadian-ri-trends-report/
+12 There is an increasing body of research showing a relationship between strong E&S performance and enhanced corporate financial performance including: Deutsche Asset Management (2015) ESG & Corporate Financial Performance: Mapping the Global Landscape https://www.db.com/newsroom_news/K15090_Academic_Insights_UK_EMEA_RZ_Online_EN_151216_R2a.pdf (full study: Gunnar Friede, Timo
+Busch & Alexander Bassen (2015) ESG and Financial Performance: Aggregated Evidence from more than 2000 Empirical Studies https://www.tandfonline.com/doi/full/10.1080/20430795.2015.1118917) and
+Mozaffar Khan, George Serafeim and Aaron Yoon (2016) Corporate Sustainability: First Evidence of Materiality https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2575912
+13 https://www.icgn.org/policy/global-stewardship-codes-network
+14 https://www.unpri.org/pri
+15 https://mneguidelines.oecd.org/rbc-financial-sector.htm
+16 Morrow Sodali surveyed 41 global institutional investors representing US $26 trillion in AUM in January 2020. https://morrowsodali.com/uploads/insights/attachments/83713c2789adc52b596dda1ae1a79fc2.pdf
+17 https://www.cpacanada.ca/en/business-and-accounting-resources/financial-and-non-financial-reporting/mdanda-and-other-financial-reporting/publications/investor-interviews-on-climate-disclosure
+7
+Section 4
+Are Canadian Issuers Required to
+Provide E&S Disclosure?
+Under Canadian securities regulations, issuers must disclose all material information regarding their business
+and affairs. The fundamental principle is that issuers should provide all information that would be material to an
+investor’s investment decision, including material information about E&S issues.18
+4.1 Continuous Disclosure
+The CSA requires issuers to regularly update the market about material information pertaining to their
+business and affairs in disclosure documents, such as financial statements, the Annual Information Form and
+Management’s Discussion and Analysis.
+The CSA has issued Staff Notices to provide guidance to issuers on environmental disclosure as well as on
+diversity disclosure (see Appendix A). The principles of these Staff Notices can be applied to social issues
+according to the specific factors applicable to the issuer. The Staff Notices also highlight disclosure requirements
+in CSA regulations related to forward-looking information. As with any forward-looking information, issuers must
+follow these requirements.
+4.2 Timely Disclosure
+The TSX and TSXV policies require the timely disclosure of material information (see Appendix A), which
+encompasses both material facts and material changes relating to a company. The timely disclosure obligations in
+the exchanges’ policies exceed those found in securities legislation.
+18 https://www.osc.gov.on.ca/en/SecuritiesLaw_51-102.htm
+8
+Section 5
+What are Some Practical Steps
+an Issuer can take to Provide E&S
+Disclosure?
+5.1 Getting Started: Self-Assessment
+Questions
+Issuers wanting to provide meaningful E&S disclosure should begin by assessing their existing E&S disclosure
+practices. This will determine their starting point and help to build a roadmap for enhanced reporting in the
+future. Questions to ask when doing this self-assessment may include:
+• What E&S disclosures, if any, are already provided?
+• Where are current E&S disclosures made? Are they in regulatory filings, voluntary reporting, on the company
+website, in investor presentations, or other public channels?
+• Who is involved in the preparation of E&S disclosures?
+• Who is involved in identifying current “gaps” and opportunities for improvement in E&S disclosures? Should
+additional departments be involved?
+• Are we receiving queries from investors about our E&S strategy and performance?
+• Are current E&S disclosures adequately responding to investor expectations?
+• Are we being targeted with shareholder proposals and/or experiencing unfavourable voting results relating to
+E&S factors?
+• How are we rated by ESG research providers? (see Appendix B for more on ESG research providers)
+• Have other capital market participants, such as insurers, lenders and credit rating agencies, asked about E&S
+matters?
+These questions are intended to help an issuer identify any existing gaps in E&S disclosure and the main drivers
+for improving that disclosure.
+5.2 Step-by-Step Approach to E&S Disclosure
+E&S disclosure to investors should be driven by the E&S factors most
+relevant to the business, that can materially impact financial and
+operational performance, and create long-term sustainable value.
+Although this Primer focuses on disclosure to investors, these factors
+should not only guide public disclosure, but also be integrated into an
+issuer’s corporate governance, business strategy, risk management,
+and KPIs used internally to monitor corporate performance.
+It is important to recognize that external reporting is the output
+of the process. Companies with strong E&S strategies focused
+on business performance will be best positioned to meet
+emerging investor expectations for E&S disclosure.
+STEP 1
+E&S DISCLOSURE
+BENCHMARKING
+STEP 2
+E&S MATERIALITY
+ASSESSMENT
+STEP 3
+PREPARE AND REVIEW
+E&S DISCLOSURES
+9
+5.2.1 Step 1: E&S Disclosure Benchmarking
+The first step is to benchmark the issuer’s current E&S disclosures to determine how they compare to best
+practices. Benchmarking activities can include comparing the issuer’s E&S disclosures:
+• with sector peers and key competitors
+• against topics and indicators within investor-preferred E&S disclosure standards and frameworks, such as the
+Sustainability Accounting Standards Board (SASB) standards and the Task Force on Climate-related Financial
+Disclosures (TCFD) recommendations. Refer to Appendix C for further details.
+Questions to consider when comparing disclosure to peers/key competitors may include:
+• How will peers/key competitors be identified (e.g., based on industry/sector, market cap, geography, products
+and services)?
+• Where are their E&S disclosures located (e.g., securities filings, voluntary reporting, company website)?
+• Do they disclose the level of oversight for E&S factors?
+• Do they disclose which E&S factors are identified as financially material?
+• Do they disclose how E&S factors are integrated into the company strategy and business model?
+• Do they disclose what policies and programs are in place to manage E&S risks and capture E&S opportunities?
+• Which E&S metrics do peers/key competitors report on?
+• Have any peers/key competitors set and disclosed targets for E&S metrics?
+• Is peer/key competitor E&S disclosure aligned to voluntary ESG reporting frameworks?
+• Is any of their E&S data assured?
+The outputs of Step 1 can be used as an input to inform the identification of potentially material E&S factors for
+the issuer in Step 2.
+5.2.2 Step 2: E&S Materiality Assessment
+The second step is to undertake a materiality assessment to identify material E&S factors that present the most
+significant risks and opportunities to the issuer over the short, medium, and long terms. The focus should be on
+those E&S factors most likely to impact company value and investor decision-making.19 See Appendix D for more
+detailed guidance on assessing materiality of E&S factors.
+Inputs for an E&S materiality assessment may include, but are not limited to:
+• Results of E&S disclosure benchmarking activities (output of Step 1).
+• Research to identify E&S factors generally considered relevant for the issuer and its industry/sector (see Appendix C).
+• Identifying priority E&S factors for the issuer’s current and prospective investors and other providers of capital.
+• Input on the most relevant E&S factors from the issuer’s management and board of directors.
+Considering the issuer’s business model and unique circumstances, relevant E&S factors identified should be
+assessed for their likelihood of occurrence and potential financial impact on company value over the short, medium,
+and long terms. To the extent possible, the approach for assessing E&S risks and opportunities should be consistent
+with how other financially material business risks and opportunities are identified and assessed by the issuer.
+19 An issuer may also decide to assess which issues are most important to its other key stakeholders outside the capital markets, in order to define the scope and priorities of its broader CSR program and
+what to include in its CSR reporting and other stakeholder communications. This information would not normally be included in financial reporting.
+10
+5.2.3 Step 3: Prepare and Review Disclosure
+The third step is to prepare and review the E&S disclosures that will be included in regulatory filings based on the
+results of the E&S materiality assessment in Step 2.
+Issuers should consider the following principles when preparing E&S disclosures for inclusion in regulatory filings:
+• If there is doubt about whether E&S information is material, issuers are encouraged to err on the side of
+materiality and disclose it.20
+• “Boiler-plate” generic disclosures on material E&S factors are of limited use for investment decision-making.
+Issuers should aim to provide industry- and entity-specific disclosures, accompanied by metrics and targets
+quantified where possible. Disclosure standards and frameworks, such as SASB and TCFD, are helpful
+sources of commonly used KPI metrics for an issuer’s material ESG factors, which allow investors to make
+comparisons between companies.21 See Appendix C for further details.
+• E&S disclosures should be balanced and objective, not focused solely on positive achievements.
+• Quantitative E&S data should be reliable and disclosed consistently from year to year, so investors can identify
+trends. If data needs to be changed in subsequent years, issuers should explain the change.
+• E&S disclosures should be consistent across reports (e.g., regulatory filings, voluntary reports).
+• If possible, reporting periods for E&S information and financial information should align.
+• If E&S information is disclosed in more than one external report, information should be cross-referenced to
+ensure consistency.
+Issuers need to establish appropriate internal controls and procedures to ensure complete, accurate and reliable
+information for inclusion in regulatory filings, including material E&S information. Internal controls and procedures
+for E&S information may be non-existent or less developed than for traditional financial information. In these cases,
+issuers should consider establishing a set of internal controls and procedures over E&S data and information being
+collected for disclosure in regulatory filings. A critical part of effective governance and oversight of E&S factors is
+ensuring senior management and the board of directors review and approve E&S disclosures included in regulatory
+filings. Issuers should also disclose the governance mechanisms used to oversee and ensure accuracy of E&S
+information included in regulatory filings.
+20 See CSA Staff Notice 51-333 Environmental Reporting Guidance (2010) www.osc.gov.on.ca/en/29620.htm (page 7)
+21 The GRI Standards can also be a useful reference point when establishing KPIs for E&S factors deemed financially material.
+11
+Section 6
+Conclusion
+This Primer is intended to help companies begin or enhance their E&S disclosures in regulatory filings. Issuers
+should monitor relevant E&S factors that may represent evolving risks or opportunities for them. Clearly
+disclosing how the issuer is mitigating those risks or capitalizing on those opportunities may impact how investors
+and other capital market participants assess an issuer’s value and prospects. Since materiality is not a static
+concept, issuers should continuously reassess the materiality of E&S factors to ensure their regulatory filings
+remain accurate and complete.
+6.1 Acknowledgements
+CPA Canada and TMX would like to acknowledge the significant contributions of ESG Global Advisors that
+contributed to the development of this Primer.
+This paper was prepared by the Chartered Professional Accountants of Canada (CPA Canada) and TSX Inc (TSX) as non-authoritative guidance. CPA Canada, TSX and the authors do not accept
+any responsibility or liability that may occur directly or indirectly as a consequence of the use, application or reliance on this material.
+© 2020 Chartered Professional Accountants of Canada and TSX Inc. All rights reserved. This publication is protected by copyright and prior written permission is required to reproduce,
+store in a retrieval system or transmit in any form or by any means (electronic, mechanical, photocopying, recording, or otherwise). For information regarding permission, please contact
+permissions@cpacanada.ca. TMX, the TMX design, THE FUTURE IS YOURS TO SEE., and VOIR LE FUTUR. RÉALISER L’AVENIR. are the trademarks of TSX Inc.
+For more information
+If you have any questions or comments about this Primer, please
+contact:
+ELIZA RIEGO
+Head, Product and Service Innovation
+Capital Formation
+TMX Group
+eliza.riego@tmx.com
+ROSEMARY MCGUIRE
+Director, External Reporting
+Research, Guidance and Support
+CPA Canada
+rmcguire@cpacanada.ca
+12
+Appendix A
+Resources for Issuers
+TMX and CPA Canada resources to guide issuers’ E&S disclosure to investors:
+• TMX ESG 101: Webpage, including definitions, ESG resources and links to ESG expertise
+• CPA Canada Resources:
+• 2019 Study of Climate-related Disclosure by Public Companies
+• Guidance for Assessing the Materiality of Climate Change
+• Investor Interviews on Climate-related Disclosure and Decision-Making
+• TCFD Overview
+CPA Canada resources to guide boards of directors in overseeing E&S factors:
+• Business Impacts of Environmental & Social Issues
+• Climate Change Briefing: Questions Directors Should Ask
+Toronto Stock Exchange and TSX Venture Exchange Policy Statements on Timely Disclosure:
+• Toronto Stock Exchange
+• TSX Venture Exchange
+CSA Staff Notices providing guidance on aspects of environmental and social disclosure:
+• CSA Staff Notice 51-333 Environmental Reporting Guidance (2010)
+• CSA Staff Notice 51-358 Reporting of Climate Change-related Risks (2019)
+• CSA Staff Notice 58-311 Report on Fifth Staff Review of Disclosure Regarding Women on Boards and in
+Executive Officer Positions (2019)
+Reporting standards and frameworks for disclosure of E&S factors:
+• SASB Standards
+• TCFD Recommendations & Implementation Guidance
+• TCFD Knowledge Hub
+• GRI Standards
+Other helpful resources for the identification and disclosure of E&S factors:22
+• The Embankment Project for Inclusive Capitalism (EPIC)
+• COSO and World Business Council for Sustainable Development Applying ERM to ESG-related Risks
+• Sustainable Stock Exchanges ESG Guidance Database
+• Sustainable Stock Exchanges ESG Regulation Database
+• World Federation of Exchanges ESG Guidance and Metrics
+• Sustainable Finance and the Role of Securities Regulators and IOSCO
+22 A wide range of sector-specific resources is also available.
+13
+Appendix B
+ESG Research and Ratings Providers
+ESG research and ratings providers assess the ESG performance of companies based on their unique methodologies.
+Some ratings are based on publicly available information subjectively interpreted by an analyst, whereas other ratings
+are based on company responses to annual surveys and questionnaires. While ESG research and ratings providers are
+often criticized for their lack of commensurability, lack of transparency, data inaccuracies and their focus on issues that
+are not financially material,23 their ratings have been shown to influence several areas, including:
+• Investment decision-making: Institutional investors practising various forms of ESG integration or screening
+as part of investment decision-making may use third-party ESG ratings as an input.
+• Indices and ETFs: A growing number of ESG indices have been created based on issuer ratings by ESG research
+and ratings providers. Passive funds based on these indices will eliminate or underweight issuers with poor ESG
+ratings or favour companies with higher overall ESG ratings or higher ratings on specific ESG themes.
+• ESG fund ratings: Several ESG fund ratings have been launched in the past several years, including the
+Morningstar Sustainability Rating24 (which uses Sustainalytics’ ESG Risk Rating) and MSCI ESG Fund Ratings.25
+ESG fund ratings aggregate the ESG issuer ratings of the underlying holdings in a fund.
+• Corporate engagement: Poor ESG ratings can act as a red flag for investors that can result in an increased
+level of investor engagement with the company. Additionally, some ESG research providers offer an outsourced
+corporate engagement service (e.g., Sustainalytics’ Material Risk Engagement service) and target issuers for
+engagement based on poor ESG ratings.
+It is important to note that many small and medium-sized issuers are not (yet) rated by ESG research and ratings
+providers due to their lower market capitalizations. As these issuers grow, however, they will need to be aware of
+the potential impact of ESG research and ratings.
+It is estimated that there are over 600 ESG ratings globally.27 Table 2 provides an overview of selected ESG
+research and ratings providers, their methodologies, and their coverage and use by capital market participants.
+TABLE 2
+Overview of ESG Research and Ratings Providers
+COMPANY Methodology Overview Coverage and Usage
+MSCI ESG Ratings MSCI ESG Ratings Methodology
+• Covers 8,500 companies (14,000
+issuers including subsidiaries) and
+more than 680,000 equity and fixed
+income securities globally
+• Used by over 1,400 investors
+worldwide
+• Forms the basis of MSCI’s 1,500
+equity and fixed income ESG indexes
+23 Elena Escrig-Olmedo, Idoya Ferrero-Ferrero, Maria Angeles Fernandez-Izquierdo and Juana Maria Rivera-Lirio (2019) Rate the Raters: Evaluating how ESG Rating Agencies Integrate Sustainability Principles.
+https://www.researchgate.net/publication/331036441_Rating_the_Raters_Evaluating_how_ESG_Rating_Agencies_Integrate_Sustainability_Principles
+24 https://www.morningstar.com/company/esg-investing
+25 https://www.msci.com/esg-fund-ratings
+26 CPA Canada (2019) Progressive Investors and Corporate Disclosure: The Unstoppable Transition to a Resilient, Low Carbon Economy. https://www.cpacanada.ca/en/business-and-accounting-resources/
+financial-and-non-financial-reporting/mdanda-and-other-financial-reporting/publications/investor-interviews-on-climate-disclosure
+27 SustainAbility (2019) Rate the Raters https://sustainability.com/wp-content/uploads/2019/02/sustainability-rate-the-raters-2019.pdf
+CPA Canada’s 2019 survey of institutional investors with assets under management of approximately $1.9
+trillion revealed that while investors prefer to receive climate-related data from companies, all investors
+buy climate-related financial data from third-party data providers.26
+14
+COMPANY Methodology Overview Coverage and Usage
+Sustainalytics ESG Risk
+Ratings The ESG Risk Ratings Methodology
+• Covers 11,000 companies
+• Complete list of Sustainalytics
+supported indices and passive funds:
+https://www.sustainalytics.com/
+esg-indices/
+CDP (formerly Carbon
+Disclosure Project) Climate,
+Water and Forestry Scores
+CDP Climate Change 2020 Scoring
+Methodology
+CDP Water Security 2020 Scoring
+Methodology
+CDP Forests 2020 Scoring
+Methodology
+• Over 8,400 companies reporting
+through CDP on climate change,
+water security and forests
+• Over 515 investors with
+US $106 trillion in assets requesting
+companies disclose through CDP on
+climate change, water security and
+forests
+S&P Global ESG Score
+(formerly RobecoSAM
+Corporate Sustainability
+Assessment (CSA))
+The SAM Corporate Assessment
+Methodology
+• Covers over 7,300 companies
+• Basis for the Dow Jones
+Sustainability Index
+• Basis for S&P Dow Jones Indices’
+core ESG index offerings including
+the S&P 500 ESG Index, the S&P/
+TSX ESG 60 and the S&P/TSX ESG
+Composite
+FTSE Russell ESG Ratings ESG Ratings Product Overview
+• Covers 7,200 securities (constituents
+of the FTSE All-World Index, FTSE
+Share Index and Russell 1000 Index)
+• Used by 46 of the top 50 asset
+managers and by 1,200 investors
+worldwide
+ISS ESG Corporate Ratings ESG Corporate Ratings Product
+Brochure • Not available
+ISS E&S Disclosure
+QualityScore
+E&S Disclosure QualityScore
+Methodology • Covers 4,700 listed companies
+Vigeo Eiris Sustainability
+Rating Methodology & Quality Assurance • Basis of the Euronext Vigeo Eiris
+Indices
+15
+Appendix C
+Investor-Preferred ESG Disclosure
+Standards and Recommendations
+The SASB standards and TCFD recommendations are two emerging investor-preferred ESG disclosure standards and a
+framework, respectively, that can be used to identify potentially financially material ESG factors.
+Sustainability Accounting Standards Board (SASB) Standards
+SASB has produced a series of industry-specific reporting standards intended to help companies identify and
+disclose financially material, decision-useful ESG information to investors. Each industry standard provides a short
+set of potentially financially material ESG topics and associated metrics. The SASB standards are a helpful starting
+point for issuers seeking to identify the baseline ESG topics that may be of interest to investors. The metrics included
+in the SASB standards can also help issuers identify a set of ESG KPIs for disclosure. SASB has significant investor
+support and input, including its Investor Advisory Group.28 The SASB standards have been endorsed by several of the
+world’s largest asset managers, including BlackRock29 and State Street Global Advisors.30
+The SASB Materiality MapTM (a supplement to the SASB standards) is a useful resource to assist issuers in
+identifying potentially material ESG factors. The SASB Materiality Map identifies the topics most likely to be
+material for a given industry and the topics most likely to be material for a majority of industries in the sector.31
+Table 3 provides some industry-specific examples of ESG topics identified by SASB as the most likely to impact
+the financial condition or operating performance of a company operating in this sector. The industries selected
+highlight that ESG disclosure is not only important for “high-emitting” industries perceived to have significant
+negative environmental and social impacts; all industries face some degree of environmental and social risks and
+opportunities.
+TABLE 3
+SASB Examples of ESG Topics by Industry
+INDUSTRY Material ESG Topic
+Metals & Mining32
+• Greenhouse Gas Emissions
+• Air Quality
+• Energy Management
+• Water Management
+• Waste and Hazardous Material Management
+• Biodiversity Impacts
+• Security, Human Rights & Rights of Indigenous Peoples
+• Community Relations
+• Labour Relations
+• Workforce Health & Safety
+• Business Ethics & Transparency
+28 SASB standards were originally intended to be used by U.S. issuers when preparing their SEC filings. However, investor interest in these standards has expanded globally. Several large Canadian investors are
+members of SASB’s Investor Advisory Group.
+29 https://www.blackrock.com/corporate/investor-relations/larry-fink-ceo-letter
+30 https://www.statestreet.com/values/microsite/corporate-responsibility-overview/rons_letter.html
+31 For more on SASB’s Sustainable Industry Classification System (SICS)TM and sectors: https://www.sasb.org/find-your-industry/
+32 SASB Metals & Mining Sustainability Accounting Standard. (2018)
+16
+INDUSTRY Material ESG Topic
+Real Estate33
+• Energy Management
+• Water Management
+• Management of Tenant Sustainability Impacts
+• Climate Change Adaptation
+Software & IT Services34
+• Environmental Footprint of Hardware Infrastructure
+• Data Privacy & Freedom of Expression
+• Data Security
+• Recruiting & Managing a Global, Diverse and Skilled Workforce
+• Intellectual Property Protection & Competitive Behaviour
+• Managing Systemic Risks from Technology Disruptions
+Agricultural Products35
+• Greenhouse Gas Emissions
+• Energy Management
+• Water Management
+• Food Safety
+• Workforce Health & Safety
+• Environmental & Social Impacts of Ingredient Supply Chain
+• GMO Management
+• Ingredient Sourcing
+Task Force on Climate-related Financial Disclosures (TCFD) Recommendations
+The TCFD recommendations provide a framework for identifying and reporting on the impacts of different climaterelated risks and opportunities on issuers. Physical risk describes the impacts of a changing climate on the issuer’s
+assets and operations, while transition risk describes potential impacts from the transition to a lower carbon
+economy, including policy, legal, technology, market, and reputational risks.
+The TCFD framework uses four overarching categories for recommended disclosures:
+1. governance
+2. strategy
+3. risk management
+4. metrics and targets
+As of February 2020, over 1,000 organizations have pledged to support TCFD, including financial firms responsible
+for assets of more than US $130 trillion.36 The TCFD recommendations also apply to asset owners and asset
+managers. Thus, to meet their own commitments under the TCFD, investors will continue to ask issuers to provide
+TCFD-aligned disclosure in order to support their analysis of climate risk for each company in which they are
+invested and across their portfolios.
+The financial impacts of climate-related factors differ by sector, geographic location and across short-, medium- and
+long-term time horizons. Table 4 provides a list of potential financial impacts of relevant climate-related factors in
+the short- and long-terms as defined by the TCFD, which could be used as starting points for companies seeking to
+identify and assess the materiality of climate-related factors.
+33 SASB Real Estate Sustainability Accounting Standard. (2018)
+34 SASB Software & IT Services Sustainability Accounting Standard. (2018)
+35 SASB Agricultural Products Sustainability Accounting Standard. (2018)
+36 https://www.fsb-tcfd.org/wp-content/uploads/2020/02/PR-TCFD-1000-Supporters_FINAL.pdf
+17
+TABLE 4
+TCFD’s List of Potential Climate-related Risks and Opportunities37
+PHYSICAL RISKS Description
+Acute Risks Extreme weather events (e.g., floods, wildfires, hurricanes)
+Chronic Risks Longer-term shifts in climate patterns (e.g., sea level rise, coastal erosion and
+chronic heat waves)
+TRANSITION RISKS Description
+Policy and Legal Risks
+Policies that respond to climate change (e.g., carbon pricing) and litigation risks to
+companies for failure to mitigate climate change (e.g., claims for property damage)
+Technology Risks
+New and innovative technologies to support the transition to lower carbon usage
+(e.g., carbon capture, battery storage)
+Market Risks
+Shifts in supply and demand for products and services (e.g., increased demand
+for lower-carbon energy sources)
+Reputation Risks Changing consumer, employee and community perceptions of a company’s
+contribution to climate change
+OPPORTUNITIES Description
+Resource Efficiency
+Opportunities
+Cost savings from improved efficiencies in production and distribution processes
+(e.g., energy efficiency)
+Energy Sources Opportunities Diversification of energy sources to include lower-emitting generation
+(e.g., renewable energy)
+Products and Services
+Opportunities
+New and innovative lower-carbon products and services that respond to shifting
+consumer preferences
+Market Opportunities Proactively seeking new markets for products and services in the low-carbon
+transition economy (e.g., green and transition bonds)
+Resilience Opportunities Developing adaptive capacity to respond to transition and physical risks
+(e.g., hardening infrastructure for extreme weather)
+37 Final Report (2017) Recommendations of the Task Force on Climate-related Financial Disclosures https://www.fsb-tcfd.org/wp-content/uploads/2017/06/FINAL-2017-TCFD-Report-11052018.pdf
+18
+Appendix D
+A Process for Assessing Materiality
+When determining which E&S factors are material, issuers are encouraged to refer to CPA Canada’s guidance on
+Disclosing the Impacts of Climate Change: A Process for Assessing Materiality. This publication outlines a process
+that can also be applied to assist companies in assessing what E&S information is material and should be disclosed.
+Below is an overview of the four steps that can be applied to assess the materiality of E&S factors:
+1. Identify E&S factors (including information about the regions or sectors in which the issuer operates) and
+impacts (short, medium, and long terms) that have the potential to be material.
+Questions to consider:
+• What are the relevant E&S laws and regulations in the issuer’s operating jurisdictions?
+• What are the relevant E&S reporting requirements (mandatory and voluntary)?
+• What are the key E&S issues in relevant geographic locations, including those for supply chains and key
+customers?
+2. Assess whether the E&S factors identified are material to the issuer. Consider the issuer’s industry, business
+model and unique circumstances (e.g., location of supply chain and/or operations, cost of inputs required for
+production) to assess the likelihood of occurrence and potential financial impacts on company value over the
+short, medium, and long terms.
+Questions to consider:
+• Which E&S events and/or developments could reasonably impact the issuer, its suppliers and key customers?
+Would these events and/or developments occur in the short, medium, or long terms?
+• What is the potential financial impact or impact to operations if these events and/or developments occur?
+• Are there interconnected causes and impacts that need to be considered?
+• How has the COVID-19 pandemic changed the potential impact and/or likelihood of occurrence of these events
+and/or developments?
+3. Organize the E&S information in a way that communicates the information clearly and concisely in the most relevant
+filings, particularly those intended to address material risks to the company (refer to Step 3 for more details).
+4. Review draft E&S disclosures to determine whether all material information has been identified and whether materiality
+has been considered both broadly and in detail (refer to Step 3 for more details).
+In addition, companies should bear in mind the CSA’s guiding principles found in Staff Notice 51-333 Environmental
+Reporting Guidance for making materiality determinations:
+• No bright-line test: There is no uniform quantitative threshold or bright-line test for assessing materiality.
+• Context: Materiality must be assessed contextually; some factors may be collectively material even if they are
+individually immaterial.
+• Timing: Consider whether a particular fact or issue represents the leading edge of a potential trend.
+• Trends, demands, commitments, events and uncertainties: Assessments are to reflect an analysis of both:
+• the probability that a trend, demand, commitment, event or uncertainty will occur
+• the magnitude of its effect
+• Err on the side of materiality: If there is doubt about whether information is material, err on the side of caution
+and disclose.
+19
