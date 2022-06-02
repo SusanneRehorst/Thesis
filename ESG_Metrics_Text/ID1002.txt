@@ -1,0 +1,33 @@
+Quality of
+governing body
+Governance body composition
+Composition of the highest governance body and its committees
+by: competencies relating to economic, environmental and
+social topics; executive or non-executive; independence; tenure
+on the governance body; number of each individual’s other
+significant positions and commitments, and the nature of the
+commitments; gender; membership of under-represented social
+groups; stakeholder representation.
+GRI 102-22,
+GRI 405-1a,
+IR 4B
+Rationale
+The capabilities and perspectives of board members are important for making robust decisions on an
+ongoing basis. This disclosure captures a variety of important dimensions to composition, going beyond a
+single metric, and emphasizes competencies relating to economic, environmental and social topics.
+Additional commentary
+Research examining public companies across Canada, Latin America, the UK and the US has found
+that companies with higher diversity financially outperform their peers.33 Crucially, boards that reflect
+the diversity of their companies’ stakeholders are more attuned to their needs and are therefore wellpositioned to deliver long-term stakeholder value. This necessitates the inclusion of traditionally underrepresented social groups (see Glossary for definition of “under-represented social groups”). Although
+these groups will vary based on a company’s context, it is important to consider racial and ethnic diversity.
+This disclosure was chosen on the basis that it captures a breadth of dimensions critical to governance
+body composition, including competencies related to economic, environmental and social topics.
+Single measures of governance body composition are insufficient to determine whether a particular
+corporation has the board fit for its particular needs. Practices for achieving greater diversity of board
+member backgrounds and capabilities are relatively universal and well-established, and the disclosure is
+comparatively easy to observe.
+Reporting organizations will choose how to report based on materiality, as defined in this paper.
+Additionally, reporting organizations will need to be mindful of local laws, which can shape or constrain the
+way the standard cited here as a guideline is implemented. One possible and established way to consider
+the diversity of skills represented on the governing body is through presentation of board member
+qualifications, backgrounds and experiences in a “skills matrix”.3

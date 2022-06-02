@@ -1,0 +1,157 @@
+---
+title: "Data_Processing_Metrics"
+author: "Susanne_Rehorst"
+date: "23-5-2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Load or install packages
+```{r warning=FALSE}
+library(readtext)
+library(readr)
+library(sylcount)
+library(stringr)
+library(udpipe)
+library(textclean)
+library(dplyr)
+```
+
+Set working directory
+```{r}
+setwd("~/Thesis")
+```
+
+# Data Processing ESG Metrics
+This R Markdown contains the steps to transform the raw text data with ESG metrics into cleaned data, so that it is ready for text analysis. 
+
+## Loading in Data
+For every ESG metric, the text is loaded in from a .txt file. Subsequently, every metric is stored as a string value in one cell. Thereafter, these cells with text strings are merged into one character string. Also, a document ID is created, which can be used for merging different data sets later on.
+```{r warning=FALSE}
+setwd("~/Thesis/ESG_Metrics_Text")
+Raw_Data <- readtext::readtext("ID*.txt", encoding = "UTF-8")
+Vector_Data <- Raw_Data$text
+DOC_ID <- c(seq(1000, 1042, by=1))
+rm(Raw_Data)
+unloadNamespace("readtext")
+```
+
+## Data Cleaning
+First, data is cleaned. This includes removing line break expressions, special characters, several punctuation marks, numbers, web addresses, double white spaces, and consecutive periods. Also, contractions are replaced.
+```{r}
+## ----- General cleaning that is used for all analysis -----
+
+# Remove line break expressions: 
+Vector_Data <- gsub("\r?\n|\r"," ", Vector_Data)
+# Remove double quotation marks, comma's, parentheses, special characters and bullet points
+Vector_Data <- gsub('[“”"(),•%$€@/#]', '', Vector_Data)
+Vector_Data <- gsub("\\[|\\]","",Vector_Data)
+# Replace : or ; with period(.)
+Vector_Data <- gsub('[:;]', '.', Vector_Data)
+# Remove period(.) if it's in between 2 numbers
+Vector_Data <- gsub("[0-9].[0-9]","",Vector_Data)
+# Remove mixed ordinal numbers (e.g., 1st, 2nd)
+Vector_Data <- replace_ordinal(Vector_Data, num.paste = FALSE, remove = TRUE)
+
+# Remove numbers
+Vector_Data <- gsub('[0-9]+', '', Vector_Data)
+
+# Remove web addresses
+Vector_Data <- gsub('http|www\\S+\\s*',"", Vector_Data)
+Vector_Data <- gsub(".//","",Vector_Data)
+
+# Remove double white spaces
+Vector_Data <- gsub("\\s+", " ", Vector_Data)
+Vector_Data <- str_squish(Vector_Data)
+Vector_Data <- gsub("\\s\\.", "\\.", Vector_Data)
+
+# Replace consecutive periods by 1 single period
+Vector_Data <- gsub("\\.+",".",Vector_Data)
+
+# Replace contractions. For example "he's" becomes "he is"
+Vector_Data <- replace_contraction(Vector_Data, contraction.key = lexicon::key_contractions)
+
+# Final cleaning to make sure all punctuation are removed
+Vector_Data <- strip(Vector_Data, digit.remove = TRUE, apostrophe.remove = TRUE,
+lower.case = FALSE)
+```
+
+## Make text lowercase. 
+The texts are set to lowercase and remaining punctuations are removed.
+```{r}
+library(tm)
+Vector_Data <- removePunctuation(Vector_Data,
+                              preserve_intra_word_contractions = FALSE,
+                              preserve_intra_word_dashes = FALSE,
+                              ucp = FALSE)
+Vector_Data <- tolower(Vector_Data)
+unloadNamespace("tm")
+```
+
+## Tokenizing and lemmatization
+The udpipe package is used to tokenize and lemmatize the text. Also, POS tagging is performed. 
+
+The UD_English-GUM treebank is utilized. Two other potential candidates were the ParTuT treebank and the EWT treebank. After testing all 3 treebanks, the GUM treebank gave the best results in terms of assigning the right POS and lemmatization. For example, the ParTuT treebank and the EWT treebank could not tag 1304 and 750 words respectively, while GUM only had 469 words that could not be tagged. Also, inspecting a sample of the tagged word showed that the quality of tagging was better for the GUM treebank. The GUM treebank consists of 162319 tokens, and built on different text sources (academic, blogs, fiction, government, news, non fiction, social, spoken, web, wiki). 
+
+Reference Udpipe: (Straka et al. 2016) > Straka Milan, Hajič Jan, Straková Jana. UDPipe: Trainable Pipeline for Processing CoNLL-U Files Performing Tokenization, Morphological Analysis, POS Tagging and Parsing. In Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC 2016), Portorož, Slovenia, May 2016. 
+```{r}
+# Download GUM model
+udpipe_download_model(
+  language = "english-gum",
+  model_dir = ("~"),
+  udpipe_model_repo = "jwijffels/udpipe.models.ud.2.5",
+  overwrite = FALSE)
+# Load the model
+udmodel_english_gum <- udpipe_load_model(file = "~/english-gum-ud-2.5-191206.udpipe")
+```
+
+After the model is loaded, the data is tokenized, lemmatized and every token is tagged with a POS tag. After tokenization, there are 9629 tokens. 
+```{r}
+Metrics_Data <- udpipe_annotate(udmodel_english_gum, Vector_Data, doc_id = DOC_ID, tokenizer = "tokenizer", tagger = "default", parser = "none")
+Metrics_Data <- as.data.frame(Metrics_Data)
+Metrics_Data <- Metrics_Data %>% select(doc_id, token_id, lemma, upos)
+```
+
+Remove vector data after it has been tokenized. 
+```{r}
+rm(Vector_Data)
+```
+
+## Remove stopwords
+Remove stop words that do not add meaning to the text. First, a stop word list is retrieved. Subsequently, words that equal the stop word are removed from the corpus. 
+```{r}
+part1 <- c("a", "able", "about", "above", "according", "accordingly", "across", "actually", "after", "afterwards", "again", "against", "ain't", "allows", "almost", "alone", "along", "already", "also", "although", "am", "among", "amongst", "an", "and", "another", "any", "anybody", "anyhow", "anyone", "anything", "anyway", "anyways", "anywhere", "apart", "appear", "appreciate", "appropriate", "are", "aren't", "around", "as", "a's", "aside", "ask", "asking", "associated", "at", "available", "away", "awfully", "b", "be", "became", "because", "become", "becomes", "becoming", "been", "before", "beforehand", "behind", "being", "believe", "below", "beside", "besides", "best", "better", "between", "beyond", "both", "brief", "but", "by", "c", "came", "cause", "causes", "certain", "certainly", "changes", "clearly", "c'mon", "co", "com", "come", "comes", "concerning", "consequently", "consider", "considering", "contain", "containing", "contains", "corresponding", "could", "couldn't", "course", "c's", "currently", "d", "definitely", "described", "despite", "did", "didn't", "different", "does", "doesn't", "done", "don't", "down", "downwards", "during", "e", "each", "edu", "eg", "eight", "either", "else", "elsewhere", "enough", "especially", "et", "etc", "even", "ever", "every", "everybody", "everyone", "ex", "exactly", "f", "far", "few", "fifth", "first", "five", "followed", "following", "follows", "for", "former", "formerly", "forth", "four", "from", "further", "furthermore", "g", "get", "gets", "getting", "given", "gives", "go", "goes", "going", "gone", "got", "gotten", "greetings", "h", "had", "hadn't", "happens", "hardly", "has", "hasn't", "have", "haven't", "having", "he", "hello", "help", "hence", "her", "here", "hereafter", "hereby", "herein", "here's", "hereupon", "hers", "herself", "he's", "hi", "him", "himself", "his", "hither", "hopefully", "how", "howbeit", "however", "i", "i'd", "ie", "if", "ignored", "i'll", "i'm", "immediate", "in", "inasmuch", "inc", "indeed", "indicated", "indicates", "inner", "insofar", "instead", "into", "inward", "is", "isn't", "it", "it'd", "it'll", "its", "it's", "itself", "i've", "j", "just", "k", "keeps", "kept", "know", "known", "knows", "l", "last", "lately", "later", "latter", "latterly", "least", "less", "lest", "let", "let's", "like", "liked", "likely", "little", "look", "looking", "looks", "ltd", "m", "mainly", "many", "maybe", "me", "mean", "meanwhile", "merely", "might", "more", "moreover", "most", "mostly", "much", "my", "myself", "n", "name", "namely", "nd", "near", "nearly", "needs", "nevertheless", "new", "next", "nine", "nobody", "non", "noone", "normally", "novel", "now", "nowhere", "o", "obviously", "of", "off", "often", "oh", "ok", "okay", "old", "on", "once", "one", "ones", "only", "onto", "or", "other", "others", "otherwise", "our", "ours", "ourselves", "out", "outside", "over", "overall", "own", "p", "particular", "particularly", "per", "perhaps", "placed", "please", "plus", "possible", "presumably", "probably", "provides", "q", "que", "quite", "qv", "r", "rather", "rd", "re", "really", "reasonably", "regarding", "regardless", "regards", "relatively", "respectively", "right", "s", "said", "same", "saw", "say", "saying", "says", "second", "secondly", "see", "seeing", "seem", "seemed", "seeming", "seems", "seen", "self", "selves", "sensible", "sent", "serious", "seriously", "seven", "several", "she", "since", "six", "so", "some", "somebody", "somehow", "someone", "something", "sometime", "sometimes", "somewhat", "somewhere", "soon", "sorry", "specified", "specify", "specifying", "still", "sub", "such", "sup", "sure", "t", "take", "taken", "tell", "tends", "th", "than", "thank", "thanks", "thanx", "that", "thats", "that's", "the", "their", "theirs", "them", "themselves", "then", "thence", "there", "thereafter", "thereby", "therefore", "therein", "theres", "there's", "thereupon", "these", "they", "they'd", "they'll", "they're", "they've", "think", "third", "this", "thorough", "thoroughly", "those", "though", "three", "through", "throughout", "thru", "thus")
+
+part2 <- c("to", "together", "too", "took", "toward", "towards", "tried", "tries", "truly", "try", "trying", "t's", "twice", "two", "u", "un", "under", "unfortunately", "unless", "unlikely", "until", "unto", "up", "upon", "us", "used", "useful", "uses", "usually", "uucp", "v", "value", "various", "very", "via", "viz", "vs", "w", "want", "wants", "was", "wasn't", "way", "we", "we'd", "welcome", "well", "we'll", "went", "were", "we're", "weren't", "we've", "what", "whatever", "what's", "when", "whence", "whenever", "where", "whereafter", "whereas", "whereby", "wherein", "where's", "whereupon", "wherever", "whether", "which", "while", "whither", "who", "whoever", "whole", "whom", "who's", "whose", "why", "willing", "wish", "with", "within", "without", "wonder", "would", "would", "wouldn't", "x", "y", "yes", "yet", "you", "you'd", "you'll", "your", "you're", "yours", "yourself", "yourselves", "you've", "z", "zero")
+
+stopwords <- c(part1, part2)
+rm(part1)
+rm(part2)
+```
+
+After stop word removal, there are 5714 tokens remaining. 
+```{r}
+Metrics_Data <- Metrics_Data[ ! Metrics_Data$lemma %in% stopwords, ]
+```
+
+## Filter out tokens based on POS
+Initial distribution of POS tags is examined.
+```{r}
+Metrics_Data %>% count(upos, sort=FALSE)
+```
+
+Only "open class" words are maintained. These are verbs, adverbs, nouns, proper nouns, adjectives, and auxiliary verbs. Also, words that couldn't be assigned are maintained ("X"). After filtering on POS tag, there are 5529 tokens remaining. 
+```{r}
+POS <- c("ADJ","ADV","AUX","NOUN","PROPN","VERB","X")
+Metrics_Data <- Metrics_Data[Metrics_Data$upos %in% POS, ]   
+```
+
+## Save the processed text data
+Data is saved, so that it can be analyzed in the Data_Analysis.Rmd markdown file.  
+```{r}
+# Tidy text format table
+save(Metrics_Data, file = "Metrics_Data.RData")
+```

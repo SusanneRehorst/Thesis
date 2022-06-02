@@ -1,0 +1,29 @@
+Resource
+availability
+Resource circularity
+Report the most appropriate resource circularity metric(s) for
+the whole company and/or at a product, material or site level as
+applicable. Potential metrics include (but are not limited to) the
+Circular Transition Indicators (WBCSD), indicators developed by
+the Ellen MacArthur Foundation and company developed metrics.
+Disclose the methodological approach used to calculate the
+chosen circularity metric(s) and the rationale for the choice of
+metric(s).
+WBCSD Circular
+Transition
+Indicators,
+Ellen MacArthur
+Foundation
+Rationale
+Metrics for reporting on resource circularity have not yet been standardized but some promising example
+metrics have been developed and tested by multiple companies. Applying emerging circularity metrics and
+disclosing the results will help to progress this fundamentally important area. It also indicates proactive
+engagement with the risks and opportunities presented by the circular transition and can be used to
+demonstrate progress towards genuine resource sustainability.
+Additional commentary
+Example organization-level circularity metrics include the Circular Transition Indicators developed by the
+WBCSD43 including percentage of circular inflow and percentage of circular outflow of resources.
+Circular inflow can be calculated as follows:
+(weight of renewable inflow + weight of non-virgin inflow / total weight of all inflow) x 100%
+Circular outflow is calculated as follows, per material flow:
+((% recovery potential x % actual recovery) x weight) / total weight of all outflow

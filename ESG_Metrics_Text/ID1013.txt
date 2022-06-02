@@ -1,0 +1,53 @@
+Climate change TCFD implementation
+Fully implement the recommendations of the Task Force on
+Climate-related Financial Disclosures (TCFD). If necessary,
+disclose a timeline of at most three years for full implementation.
+Disclose whether you have set, or have committed to set, GHG
+emissions targets that are in line with the goals of the Paris
+Agreement – to limit global warming to well below 2°C above
+pre-industrial levels and pursue efforts to limit warming to 1.5°C
+– and to achieve net-zero emissions before 2050.
+Recommendations
+of the TCFD;
+CDSB R01, R02,
+R03, R04 and
+R06;
+SASB 110;
+Science Based
+Targets initiative
+Rationale
+The TCFD recommendations are already established as the primary framework for disclosure of
+information on the management of climate-related risks and opportunities in main annual filings. Elevating
+disclosure of metrics relating to people, planet, prosperity and principles of governance into main annual
+filings is a key objective of this initiative and we therefore lend our full support to broader adoption of the
+TCFD recommendations. Additionally, we emphasise the importance of GHG emissions targets that are in
+line with the goals of the Paris Agreement.
+
+Additional commentary
+The Financial Stability Board established the TCFD because of concerns that companies were not
+adequately measuring or reporting the financial implications of climate change. TCFD recommends that
+listed companies disclose these financial impacts as part of their annual financial filings, aligned to the
+legislative thresholds of financial disclosure.
+The TCFD has developed recommendations on climate change disclosure in an annually updated,
+publicly available report which is applicable for all sectors. The recommendations cover climate strategy,
+governance, risk management and metrics and targets. As part of their risk management, companies
+must identify and measure the financial implications of their material risks and opportunities under at least
+two widely recognized climate scenarios.
+The TCFD also provides a structure to help organizations develop a climate strategy and governance
+arrangements to mitigate risk and take action on opportunities. The TCFD framework has achieved
+significant uptake since launch and regulatory momentum is building globally; for example, more than
+1,000 global organizations have declared their support for TCFD,38 the UK Prudential Regulation Authority
+(PRA) has set out expectations for banks and insurers to report on climate risk, and reporting is now
+mandatory for signatories to the UN-supported Principles for Responsible Investment network (UNPRI)
+(responsible for assets of $103 trillion). Financial institutions responsible for assets worth over $139 trillion
+have already announced their support for TCFD.
+The framework provides flexibility for setting metrics and targets but recommends that an emissions target
+is set using the risk analysis under the business’s relevant climate scenarios. This supports companies
+setting meaningful science-based targets in line with achieving net zero.
+The Climate Disclosure Standards Board (CDSB) and Sustainability Accounting Standards Board (SASB)
+have produced a joint TCFD Implementation Guide39 and related set of Good Practices40 for the reporting
+of climate-related performance and risk in mainstream corporate reports in line with the TCFD framework.
+And in 2019, the World Economic Forum issued a set of climate governance principles for boards of
+directors. Developed in collaboration with PwC, these principles are designed to help increase directors’
+climate awareness, embed climate issues into board structures and processes, and improve navigation of
+the risks and opportunities that climate change poses to business.41

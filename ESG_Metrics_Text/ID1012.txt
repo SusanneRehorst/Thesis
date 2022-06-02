@@ -1,0 +1,17 @@
+Climate change Greenhouse gas (GHG) emissions
+For all relevant greenhouse gases (e.g. carbon dioxide, methane,
+nitrous oxide, F-gases etc.), report in metric tonnes of carbon
+dioxide equivalent (tCO2e) GHG Protocol Scope 1 and Scope 2
+emissions.
+Estimate and report material upstream and downstream (GHG
+Protocol Scope 3) emissions where appropriate.
+GRI 305:1-3,
+TCFD,
+GHG Protocol
+Rationale
+GHG emissions are the primary driver of rising global temperatures and therefore a key focus for policy,
+regulatory, market and technology responses to limit climate change. As a result, business models
+associated with significant emissions are likely to be more impacted by risks in the transition to a lowcarbon economy. While challenges remain in the accurate quantification of Scope 3 emissions, companies
+across all major sectors of the economy already report on Scope 3 emissions and, in the context of the
+transition to a low-carbon economy, material Scope 3 emissions may have a significant bearing on a
+company’s potential for long-term value creation.

@@ -1,0 +1,38 @@
+Dignity and
+equality
+Pay gap (%, #)
+1. Mean pay gap of basic salary and remuneration of full-time
+relevant employees based on gender (women to men)
+and indicators of diversity (e.g. BAME to non-BAME) at a
+company level or by significant location of operation.
+2. Ratio of the annual total compensation for the organization’s
+highest-paid individual in each country of significant operations
+to the median annual total compensation for all employees
+(excluding the highest-paid individual) in the same country.
+Adapted from
+UK Government
+guidance on
+gender and
+ethnicity pay gap
+reporting,44
+GRI 102-38
+Rationale
+The pay gap metric is considered a potential indicator of organizational structural inequality and underrepresentation of disadvantaged groups in senior and higher paid roles. Research has shown that women
+and people from ethnic minorities tend to earn less and be in less-senior roles. This is often associated
+with social disadvantage and is arguably also caused by discrimination. A migrant workforce may have
+a poor command of the local language, possess qualifications that are not generally recognized by
+employers and be unfamiliar with the regional culture; these factors affect pay and position. Addressing
+this issue will create pathways towards a greater variety of roles in the workforce and will positively change
+how businesses promote talent and distribute pay at all levels.
+A wide gap between the highest-paid individual and the median reinforces inequality and could impede
+long-term value creation. Depending on how the organization is structured, it can become a crucial factor
+in enabling investors to make appropriate decisions.
+Additional commentary
+Guidance on the requirements and the gender pay gap calculation method is provided by the UK Government
+Equalities Office as well as by other organizations such as the UK Chartered Institute of Personnel and
+Development (CIPD). Companies should apply the same methodology to calculate an ethnicity pay gap, being
+the difference in the average rate of pay between BAME (or other relevant ethnic categorization) workers and
+non-BAME workers expressed as a percentage of the pay of non-BAME workers.
+Companies should disclose the ratio of the annual total compensation for the organization’s highestpaid individual in each country of significant operations to the median annual total compensation for
+all employees (excluding the highest-paid individual) in the same country. Calculate by considering the
+median annual compensation of all employees at each level.

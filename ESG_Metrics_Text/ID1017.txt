@@ -1,0 +1,35 @@
+Nature loss Land use and ecological sensitivity
+Report for operations (if applicable) and full supply chain
+(if material):
+1. Area of land used for the production of basic plant, animal or
+mineral commodities (e.g. the area of land used for forestry,
+agriculture or mining activities).
+2. Year-on-year change in the area of land used for the
+production of basic plant, animal or mineral commodities.
+Note: Supply-chain figures can initially be estimated where
+necessary based on the mass of each commodity used
+and the average mass produced per unit of land in different
+sourcing locations.
+3. Percentage of land area in point 1 above or of total
+plant, animal and mineral commodity inputs by mass or
+cost, covered by a sustainability certification standard or
+formalized sustainable management programme. Disclose
+the certification standards or description of sustainable
+management programmes along with the percentage of
+total land area, mass or cost covered by each certification
+standard/programme.
+New metric
+Rationale
+Growth in demand for land is the primary underlying driver of new conversions of ecosystems, which is
+in turn the primary driver of nature loss. The overall area of land used in operations and supply chains
+reflects the contribution of the current business model to overall demand for land; and the year-on-year
+change indicates whether the company is currently contributing to increasing or decreasing pressure for
+new conversions of ecosystems. The proportion covered by a sustainability certification standard or other
+formalized sustainable management programme is an indicator of how much of the land used is being
+actively managed for long-term value creation.
+Additional commentary
+In addition to companies with significant agricultural, forestry or mining operations, this metric is likely to
+be material to long-term value creation for any companies that rely on a significant volume of inputs from
+agricultural or forestry systems. Sustainability certification standards or formalized sustainable management
+programmes are the primary ways to ensure that any land which must be used for production is used in a
+way that maintains or improves its quality and minimizes any adverse production impacts.

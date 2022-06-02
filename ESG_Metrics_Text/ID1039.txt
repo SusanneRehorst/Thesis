@@ -1,0 +1,29 @@
+Health and
+well‑being
+Employee well-being (%)
+1. The number of fatalities as a result of work-related ill-health,
+recordable work-related ill-health injuries and the main types
+of work-related ill-health for all employees and workers.
+2. a) Percentage of employees participating in “best practice”
+health and well-being programmes, and
+b) Absentee rate (AR) of all employees.
+GRI:2018
+403-10a&b,
+EPIC,
+Adapted from
+GRI:2016
+403-2a
+Rationale
+There is a growing recognition that the well-being of employees has a positive impact on organizational
+success as well as on employee health, professional fulfilment and quality of life. Research has consistently
+shown that employee well-being predicts job attitudes and performance. It has important implications for
+productivity and work relationships. Having a hygienic, safe and healthy workplace culture contributes to a
+high-performing organization with employees who are socially integrated.
+Additional commentary
+1. Report on the following information for all employees and workers who are not employees, but whose
+work and/or workplace is controlled by the organization:
+– The number of fatalities as a result of work-related ill-health
+– The number of cases of recordable work-related ill-health
+– The main types of work-related ill-health
+2. Disclose information on the percentage of employees participating in “best practice” health and wellbeing programmes. Well-being programmes are categorized under lifestyle management, disease
+management and access to healthcare. Report on the absenteeism rate (AR) for all employees.

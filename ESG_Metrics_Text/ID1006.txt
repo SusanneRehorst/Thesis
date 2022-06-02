@@ -1,0 +1,32 @@
+Ethical behaviour Anti-corruption
+1. Total percentage of governance body members, employees
+and business partners who have received training on the
+organization’s anti-corruption policies and procedures,
+broken down by region.
+2. a) Total number and nature of incidents of corruption
+confirmed during the current year, but related to previous
+years
+b) Total number and nature of incidents of corruption
+confirmed during the current year, related to this year.
+3. Discussion of initiatives and stakeholder engagement to
+improve the broader operating environment and culture, in
+order to combat corruption.
+GRI 205-2,
+GRI 205-3
+Rationale
+Corruption undermines stakeholder legitimacy and trust; it is linked to misallocation of capital,
+environmental harm, human exploitation and unethical and illegal behaviour.
+Anti-corruption training and investment in initiatives to improve both operating environment and culture
+develop a company’s anti-corruption capabilities. The total number and nature of corruption incidents are
+a proxy for the effectiveness of a company’s overarching anti-corruption culture and capabilities.
+Additional commentary
+Corporate corruption can thrive where governance is weak. The public expects companies to adhere to
+ethical business practices. Companies implementing anti-corruption policies and practices contribute
+directly towards the vision of SDG 16.5 to “substantially reduce corruption and bribery in all their forms”,
+protecting their own long-term value and their contribution to long-term societal value.
+Monitoring the number and proportion of new corruption incidents unrelated to previous years, in
+comparison to incidents related to previous years, provides some insight into changes over time of
+this effectiveness. These metrics were chosen for their orientation to outcomes and their comparability
+between companies and over time.
+Reporting organizations will need to be mindful of local laws, which can shape or constrain the way the
+standard cited here as a guideline is implemented.

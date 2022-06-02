@@ -1,5 +1,5 @@
 ---
-title: "Data_Processing"
+title: "Data_Processing_Regulations"
 author: "Susanne_Rehorst"
 date: "23-5-2022"
 output: html_document
@@ -25,29 +25,24 @@ Set working directory
 setwd("~/Thesis")
 ```
 
-# Data Processing
-This R Markdown contains the steps to load in the data and applying pre-processing steps, which are required for text the analysis
+# Data Processing Regulations
+This R Markdown contains the steps to transform the raw text data with ESG reporting standards into cleaned data, so that it is ready for text analysis. 
 
 ## Loading in Data
-For every ESG regulation, the text is loaded in from a .txt file. Subsequently, every regulation is stored as a string value in one cell. Thereafter, texts are merged in one character string and a document ID is created, which can be used for merging different data sets later on. The sample also already contains ESG data document (DOC_ID=..)
+For every ESG regulation, the text is loaded in from a .txt file. Subsequently, every regulation is stored as a string value in one cell. Thereafter, these cells with text strings are merged into one character string. Also, a document ID is created, which can be used for merging different data sets later on.
 ```{r warning=FALSE}
 setwd("~/Thesis/Raw_Data_Text")
 Raw_Data <- readtext::readtext("ID*.txt", encoding = "UTF-8")
 Vector_Data <- Raw_Data$text
 DOC_ID <- c(seq(1, length(Vector_Data), by=1))
 rm(Raw_Data)
-
-Vector_Data
-```
-
-## Merging Data
-Mandatory E, S, or G regulations are merged if they come from the same sources and apply to the same region. Because guidelines that cover all ESG aspects are compared to regulations that sometimes only cover E, S, or G. Although E,S,G are not added, there is merging on region level if the regulations apply to the same category (i.e., E, S, or G). This results in a group of ESG mandatory, ESG voluntary, G mandatory, E mandatory, S mandatory; which are all on region level. 
-```{r}
-
+unloadNamespace("readtext")
 ```
 
 ## Data Cleaning
-Preliminary cleaning: Remove double white spaces, double quotes and line break (/n) expressions. This is recommended for the quantity and readability analysis in order to work properly. ... .Also remove alphanumeric characters. 
+First, data is cleaned. This includes removing line break expressions, special characters, several punctuation marks, numbers, web addresses, double white spaces, and consecutive periods. Also, contractions are replaced. Punctuation marks that are kept are periods (.). This is because periods are needed to identify sentences.
+
+Moreover, for the readability analysis an extra step is added by removing apostrophes. They need to be removed so that the readability analysis can work optimal. For later analysis, apostrophes are kept, because they are needed to correctly identify lemma's. 
 ```{r}
 ## ----- General cleaning that is used for all analysis -----
 
@@ -75,44 +70,49 @@ Vector_Data <- gsub("\\s+", " ", Vector_Data)
 Vector_Data <- str_squish(Vector_Data)
 Vector_Data <- gsub("\\s\\.", "\\.", Vector_Data)
 
-# Replace consecutive dots by 1 single dot
+# Replace consecutive periods by 1 single period
 Vector_Data <- gsub("\\.+",".",Vector_Data)
 
 # Replace contractions. For example "he's" becomes "he is"
 Vector_Data <- replace_contraction(Vector_Data, contraction.key = lexicon::key_contractions)
 
-# Final cleaning to make sure all punctuation except dots is removed
-Vector_Data <- strip(Vector_Data, char.keep= c("-", "."), digit.remove = TRUE, apostrophe.remove = FALSE,
+# Final cleaning to make sure all punctuation except periods are removed
+Vector_Data <- strip(Vector_Data, char.keep= c("."), digit.remove = TRUE, apostrophe.remove = FALSE,
 lower.case = FALSE)
 
 ## ----- Special cleaning that is only used for the readability formulas -----
 
-# Remove single quotation marks because it reduces quality of readability analysis. But it should be kept for lemmatization, so not included in general analysis
+# Remove single quotation marks because it reduces quality of readability analysis. But it should be kept for lemmatization, so not included in general cleaning steps
 Vector_Data_Q <- gsub('[\'’]', '', Vector_Data)
 
 ```
 
 ## Create quantity and readability measures
-Before further processing steps, the data is analyzed on quantity. This includes calculating the number of words, sentences, characters and syllables for every document. Also, several readability measures are calculated.  
+The Vector_Data_Q can now be used to calculate quantity and readability measures for each document in the sample. This includes calculating the number of words, sentences, characters and syllables for every document. Also, several readability measures are calculated.   
 ```{r}
 Quantity_Data <- readability(Vector_Data_Q) 
-Quantity_Data$DOC_ID <- 1:nrow(Quantity_Data) # Add ID
+Quantity_Data$DOC_ID <- 1:nrow(Quantity_Data) 
 rm(Vector_Data_Q)
+unloadNamespace("sylcount")
 
-Quantity_Data
+Quantity_Data<- Quantity_Data[!is.na(Quantity_Data$ari), ] #Remove missing values
+head(Quantity_Data)
 ```
 
-## Make text lowercase. 
+## Make text lowercase
+After readability measures are calculated, the texts are set to lowercase and remaining punctuations are removed.
 ```{r}
+library(tm)
 Vector_Data <- removePunctuation(Vector_Data,
-                              preserve_intra_word_contractions = TRUE,
-                              preserve_intra_word_dashes = TRUE,
+                              preserve_intra_word_contractions = FALSE,
+                              preserve_intra_word_dashes = FALSE,
                               ucp = FALSE)
 Vector_Data <- tolower(Vector_Data)
+unloadNamespace("tm")
 ```
 
 # Measure restrictiveness of texts
-Measure in each document the occurrence of a pre-selected list of words: 
+The content of the texts is examined by searching for specific set of words, which are categorized in different categories. Main focus is on restrictive words and advise words. Also, mentions of frameworks are counted. 
 ```{r}
 # ---------------- Create list of words that will be used to count restrictiveness  ------------------------ #
 
@@ -132,7 +132,7 @@ should <- c("should","should not")
 may <- c("may")
 ought <- c("ought")
 can <- c("can")
-advice <- c("advice","advised","advises","advices","advising")
+optional <- c("advice","advised","advises","advices","advising")
 
 # Action words
 keep <- c("keep","keeps","kept","keeping")
@@ -177,7 +177,7 @@ should<- paste0("\\b",should,"\\b")
 may<- paste0("\\b",may,"\\b")
 ought<- paste0("\\b",ought,"\\b")
 can<- paste0("\\b",can,"\\b")
-advice<- paste0("\\b",advice,"\\b")
+optional<- paste0("\\b",optional,"\\b")
 keep<- paste0("\\b",keep,"\\b")
 indicate<- paste0("\\b",indicate,"\\b")
 do<- paste0("\\b",do,"\\b")
@@ -196,8 +196,8 @@ sasb <- paste0("\\b",sasb,"\\b")
 tcfd <- paste0("\\b",tcfd,"\\b")
 sdg <- paste0("\\b",sdg,"\\b")
 
-# Create a data frame to store the word counts
-Restriction_Data <- data.frame()
+# Create a data frame to store the word counts. First, create a DOC_ID column
+Restriction_Data <- data.frame(DOC_ID)
 
 # Count words
 Restriction_Data$requirement<-str_count(Vector_Data,paste(requirement, collapse="|"))
@@ -213,7 +213,7 @@ Restriction_Data$should<-str_count(Vector_Data,paste(should, collapse="|"))
 Restriction_Data$may<-str_count(Vector_Data,paste(may, collapse="|"))
 Restriction_Data$ought<-str_count(Vector_Data,paste(ought, collapse="|"))
 Restriction_Data$can<-str_count(Vector_Data,paste(can, collapse="|"))
-Restriction_Data$advice<-str_count(Vector_Data,paste(advice, collapse="|"))
+Restriction_Data$optional<-str_count(Vector_Data,paste(optional, collapse="|"))
 Restriction_Data$keep<-str_count(Vector_Data,paste(keep, collapse="|"))
 Restriction_Data$indicate<-str_count(Vector_Data,paste(indicate, collapse="|"))
 Restriction_Data$do<-str_count(Vector_Data,paste(do, collapse="|"))
@@ -233,62 +233,69 @@ Restriction_Data$tcfd<-str_count(Vector_Data,paste(tcfd, collapse="|"))
 Restriction_Data$sdg<-str_count(Vector_Data,paste(sdg, collapse="|"))
 
 # Sum up word counts within specific categories      
-Restriction_Data$restriction <- sum(requirement,must,need_to,have_to,shall,prohibtion,can_not,necessary,will_not)
-Restriction_Data$advice <- sum(should,may,ought,can,advice)
-Restriction_Data$action <- sum(keep,indicate,do,show,use,report)
-Restriction_Data$framework <- sum(cdp,cdsb,gri,iirc,sasb,tcfd)
+Restriction_Data$restriction <- rowSums(Restriction_Data[,c(2,3,4,5,6,7,8,9,10)])
+Restriction_Data$advice <- rowSums(Restriction_Data[,c(11,12,13,14,15)])
+Restriction_Data$action <- rowSums(Restriction_Data[,c(16,17,18,19,20,21)])
+Restriction_Data$framework <- rowSums(Restriction_Data[,c(26,27,28,29,30,31)])
 
-# Create a DOC_ID
-Restriction_Data$DOC_ID <- 1:nrow(Restriction_Data)
+# Remove DOC_IDs 3, 4 and 5 (missing values).
+Restriction_Data <- Restriction_Data[Restriction_Data$DOC_ID != 3 & Restriction_Data$DOC_ID != 4 & Restriction_Data$DOC_ID !=5, ] 
+
 ```
 
 ## Merge descriptive data
-Merge the Quantity data with the Restrictive data and the Meta Data, based on Document ID. This will make it easier to analyze the data later on. 
+As a next step, the Quantity data and the Restrictive data are merged. Furthermore, they are also merged with the meta data of the regulations documents. By merging these 3 documents, a descriptive analysis can be performed later on. 
 ```{r}
-Meta_Data <- read_delim("Meta_Data.csv", 
+# Load the meta data
+Meta_Data_Regulations <- read_delim("Meta_Data_Regulations.csv", 
     delim = ";", escape_double = FALSE, trim_ws = TRUE)
 
-Descriptive_Data <- merge(Quantity_Data,Restriction_Data,by=DOC_ID)
+# Merge the quantity and the restriction data by DOC_ID
+Descriptive_Data <- merge(Quantity_Data,Restriction_Data,by.x ="DOC_ID", by.y = "DOC_ID",all.x = TRUE)
 rm(Quantity_Data)
 rm(Restriction_Data)
 
-Descriptive_Data <- merge(Descriptive_Data,Meta_Data,by=DOC_ID)
-rm(Meta_Data)
+# Merge with the meta data
+Descriptive_Data <- merge(Descriptive_Data,Meta_Data_Regulations, by.x ="DOC_ID", by.y = "DOC_ID",all.x = TRUE)
+rm(Meta_Data_Regulations)
 
-Descriptive_Data
+head(Descriptive_Data)
+```
+
+## Save the descriptive data
+The data set is saved so that it can be accessed directly when performing analysis in the Data_Analysis.Rmd. Also, it can now be removed from the current environment, which frees up space for the remaining part of the data processing in this document. 
+```{r}
+save(Descriptive_Data, file = "Descriptive_Data.RData")
+rm(Descriptive_Data)
 ```
 
 ## Tokenizing and lemmatization
 The udpipe package is used to tokenize and lemmatize the text. Also, POS tagging is performed. 
 
-The UD_English-ParTUT treebank is utilized, as it is based on various sources, in specific legal texts. It is downloaded and loaded, before analysis can be performed.
+The UD_English-GUM treebank is utilized. Two other potential candidates were the ParTuT treebank and the EWT treebank. After testing all 3 treebanks, the GUM treebank gave the best results in terms of assigning the right POS and lemmatization. For example, the ParTuT treebank and the EWT treebank could not tag 1304 and 750 words respectively, while GUM only had 469 words that could not be tagged. Also, inspecting a sample of the tagged word showed that the quality of tagging was better for the GUM treebank. The GUM treebank consists of 162319 tokens, and built on different text sources (academic, blogs, fiction, government, news, non fiction, social, spoken, web, wiki). 
 
 Reference Udpipe: (Straka et al. 2016) > Straka Milan, Hajič Jan, Straková Jana. UDPipe: Trainable Pipeline for Processing CoNLL-U Files Performing Tokenization, Morphological Analysis, POS Tagging and Parsing. In Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC 2016), Portorož, Slovenia, May 2016. 
 ```{r}
-# Download the model
+# Download GUM model
 udpipe_download_model(
-  language = "english-partut",
+  language = "english-gum",
   model_dir = ("~"),
   udpipe_model_repo = "jwijffels/udpipe.models.ud.2.5",
   overwrite = FALSE)
 # Load the model
-udmodel_english <- udpipe_load_model(file = "~/english-partut-ud-2.5-191206.udpipe")
+udmodel_english_gum <- udpipe_load_model(file = "~/english-gum-ud-2.5-191206.udpipe")
 ```
 
-Lemmatize, tokenize and tag Universal Part of Speech (UPOS)
+After the model is loaded, the data is tokenized, lemmatized and every token is tagged with a POS tag. Tokenizing the text results in 462249 tokens. 
 ```{r}
-Processed_Data <- udpipe_annotate(udmodel_english, Vector_Data, doc_id = DOC_ID, tokenizer = "tokenizer", tagger = "default", parser = "none")
+Processed_Data <- udpipe_annotate(udmodel_english_gum, Vector_Data, doc_id = DOC_ID, tokenizer = "tokenizer", tagger = "default", parser = "none")
 Processed_Data <- as.data.frame(Processed_Data)
 Processed_Data <- Processed_Data %>% select(doc_id, token_id, lemma, upos)
-
-rm(Vector_Data)  # Check if abbreviations like CDP, GRI are maintained)
 ```
 
-## Filter out tokens based on POS
-Only "open class" words are maintained. These are verbs, adverbs, nouns, proper nouns, adjectives, and auxiliary. Words that couldn't be assigned "X" are reassigned or dropped. 
+Remove vector data after it has been tokenized. 
 ```{r}
-POS <- c("ADJ","ADV","AUX","NOUN","PROPN","VERB","X")
-Processed_Data <- Processed_Data[Processed_Data$UPOS %in% POS, ]     
+rm(Vector_Data)
 ```
 
 ## Remove stopwords
@@ -303,16 +310,31 @@ rm(part1)
 rm(part2)
 ```
 
+After removing stopwords, there are 266994 tokens remaining. 
 ```{r}
 Processed_Data <- Processed_Data[ ! Processed_Data$lemma %in% stopwords, ]
 ```
 
-## Save the processed data
-Data is now ready to be processed. This includes creating token vectors that are weighted, for each document in the sample, and calculating similarity. Also, it includes topic analysis (ESG topics) and key word extraction and a regression. 
+## Filter out tokens based on POS
+Distribution of POS tags is examined.
 ```{r}
-# Descriptive Data
-save(Descriptive_Data, file = "Descriptive_Data.RData")
+Processed_Data %>% count(upos, sort=FALSE)
+```
 
+Only "open class" words are maintained. These are verbs, adverbs, nouns, proper nouns, adjectives, and auxiliary verbs. Also, words that couldn't be assigned are maintained ("X"). After filtering on POS tags, there are 255248 tokens remaining. 
+```{r}
+POS <- c("ADJ","ADV","AUX","NOUN","PROPN","VERB","X")
+Processed_Data <- Processed_Data[Processed_Data$upos %in% POS, ]   
+```
+
+Remove DOC_ID 3, 4, and 5. They do not contain any text.
+```{r}
+Processed_Data <- Processed_Data[Processed_Data$doc_id != "3" & Processed_Data$doc_id != "4" & Processed_Data$doc_id !="5", ] 
+```
+
+## Save the processed text data
+Data is saved, so that it can be analyzed in the Data_Analysis.Rmd markdown file.  
+```{r}
 # Tidy text format table
 save(Processed_Data, file = "Processed_Data.RData")
 ```

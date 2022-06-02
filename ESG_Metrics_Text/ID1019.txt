@@ -1,0 +1,24 @@
+Freshwater
+availability
+Water consumption and withdrawal in water-stressed areas
+Report for operations where material: megalitres of water
+withdrawn, megalitres of water consumed and the percentage
+of each in regions with high or extremely high baseline water
+stress, according to WRI Aqueduct water risk atlas tool.
+Estimate and report the same information for the full value chain
+(upstream and downstream) where appropriate.
+SASB CG-HP140a.1,
+WRI Aqueduct
+water risk atlas
+tool
+https://www.wri.
+org/aqueduct
+Rationale
+Water consumption and water withdrawal in water-stressed areas are indicators of the potential for
+negative societal impacts (resulting from competition with other water users) and associated business
+risks including the potential for operational disruptions and shutdowns.
+Additional commentary
+This metric is only likely to be considered material to long-term value creation by a subset of companies
+with significant water consumption and withdrawal in water-stressed areas. Alongside this disclosure, such
+companies may wish to disclose the year-on-year change in each figure as well as additional information
+on their water stewardship approach.

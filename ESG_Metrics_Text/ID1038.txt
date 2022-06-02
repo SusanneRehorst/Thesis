@@ -1,0 +1,28 @@
+Health and
+well‑being
+Monetized impacts of work-related incidents on organization (#, $)
+By multiplying the number and type of occupational incidents
+by the direct costs for employees, employers per incident
+(including actions and/or fines from regulators, property damage,
+healthcare costs, compensation costs to employees).
+Adapted
+indicator based
+on European
+Commission,
+Safe Work
+Australia
+Rationale
+A safe workplace is crucial for companies to maintain employees’ morale and stay competitive. The
+financial impacts of workplace accidents can destabilize companies and their business models. Measuring
+the direct impacts of these accidents will enable companies to reduce their negative impacts on
+employees, business and society. The cost of work-related accidents and ill-health helps substantiate the
+business case for investments in occupational health and safety.
+Additional commentary
+Report on monetized impacts incurred due to work-related incidents during the reporting period. Calculate
+by multiplying the number and type of occupational incidents (e.g. injuries to employees, structural
+damage in the organization etc.) with direct costs incurred by the organization. This includes costs directly
+attributed to the accident, e.g. direct costs from compensation payments, first aid and medical expenses,
+wages of the victim, material damages, payment of indemnity benefits, workers’ compensation and other
+benefits, medical benefits for the injured worker (e.g. workers’ compensation and other health benefits),
+return-to-work programmes, workers’ compensation insurance premiums, injury prevention programmes,
+and costs of compliance, among others.

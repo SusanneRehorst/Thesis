@@ -1,0 +1,15 @@
+Ethical behaviour Monetary losses from unethical behaviour
+Total amount of monetary losses as a result of legal proceedings
+associated with fraud, insider trading, anti-trust, anti-competitive
+behaviour, market manipulation, malpractice or violations of
+other related industry laws or regulations.
+SASB 510a.1
+Rationale
+This metric is a critical advanced indicator of ethical behaviour, focusing on the company’s observed
+behaviour and relying on outside parties (regulators) and a robust formal process (enforcement and the
+courts) to assess that behaviour. Additionally, measurement in monetary terms facilitates comparison
+across firms.
+Additional commentary
+To assess the ethical standing of a company, it is important to monitor the processes in place to foster
+the right culture and behaviours, as well as the extent to which these processes are adhered to over time.
+Violations of laws governing corporate behaviour are a useful proxy for assessing this adherence.

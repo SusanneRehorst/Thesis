@@ -1,0 +1,34 @@
+Dignity and
+equality
+Wage level (%)
+1. Ratios of standard entry level wage by gender compared to
+local minimum wage.
+2. Ratio of the annual total compensation of the CEO to the
+median of the annual total compensation of all its employees,
+except the CEO.
+GRI 202-1,
+Adapted from
+Dodd-Frank
+Act, US SEC
+Regulations
+Rationale
+Fair compensation and benefits contribute to the economic well-being of employees, since the distribution
+of wages and income is crucial for eliminating inequality and poverty. A wide gap between the highestpaid individual and the median reinforces inequality and could impede long-term value creation. Focus
+on pay ratios improves corporate governance and will help ensure that CEO pay is fair and appropriate
+in relation to the rest of the workforce. Disclosure will provide greater insight into how companies are
+spending on top-management, their basis for doing so and the opportunity costs that might impact their
+performance (e.g. investment in research and development or staff training) and therefore encourage the
+organization to raise compensation for low- and middle-income employees.
+Additional commentary
+The organization should disclose this indicator for employees who are compensated based on wages
+subject to minimum wage rules. It can report the relevant ratio of entry-level wage to minimum wage by
+gender at significant locations of operations. If a local minimum wage is absent or variable at significant
+locations of operation, by gender, use different minimums as a reference and report which minimum is
+used for calculating the ratio.
+Executive compensation disclosure rules require companies to disclose the ratio of the annual total
+compensation of the CEO to the median of the annual total compensation of all its employees, except the
+CEO. To identify the median compensation of all the employees, companies can select a methodology
+based on their own facts and circumstances. A company could, for example, identify the median of
+its population or sample using annual total compensation as determined under existing executive
+compensation rules, or any consistently applied compensation measure from compensation amounts
+reported in its payroll or tax records.

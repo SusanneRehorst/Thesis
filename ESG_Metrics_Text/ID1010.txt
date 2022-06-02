@@ -1,0 +1,40 @@
+Risk and
+opportunity
+oversight
+Integrating risk and opportunity into business process
+Company risk factor and opportunity disclosures that clearly
+identify the principal material risks and opportunities facing the
+company specifically (as opposed to generic sector risks), the
+company appetite in respect of these risks, how these risks and
+opportunities have moved over time and the response to those
+changes. These opportunities and risks should integrate material
+economic, environmental and social issues, including climate
+change and data stewardship.
+EPIC,
+GRI 102-15,
+World Economic
+Forum Integrated
+Corporate
+Governance,
+IR 4D
+Rationale
+This disclosure focuses on company-specific risks and opportunities, the onus on the board to oversee
+management of those risks and opportunities, and the corporate response over time as they change; it
+provides broad, management- and board-centred insight.
+Additional commentary
+A clear understanding and synthesis of corporate appetite, board oversight and management’s enterprise
+risk management systems in relation to key emerging risks and opportunities (specifically those related to
+economic, environmental and social issues) is fundamental to long-term value creation. This disclosure
+was selected on the basis that it acknowledges the requirement for the board to be directly involved with
+management in understanding and reacting to material risks and opportunities and the need to observe
+how the board and management adapt their positions over time.
+This disclosure acknowledges traditional risk management and the need for boards and management to
+look beyond risks to the opportunities provided to the business by emerging issues, and specifically those
+related to economic, environmental and social issues.
+Climate change and data stewardship are critical aspects of this disclosure, as they affect long-term
+value for almost all companies, but are typically under-reported. As noted by the World Business Council
+for Sustainable Development (WBCSD), “in a time of climate emergency, it’s important for businesses
+to…consider the transformational changes and associated transition risks needed to achieve climate
+resilience”.36 Data stewardship is also critical for most companies. It includes responsibility for personal
+data, as well as the use and governance of artificial intelligence and cybersecurity. The financial and
+reputational impact when companies fail to consider data stewardship can be substantial.37

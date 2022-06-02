@@ -1,0 +1,13 @@
+Air pollution Air pollution
+Report wherever material along the value chain: nitrogen oxides
+(NOx), sulphur oxides (SOx), particulate matter and other
+significant air emissions.
+Wherever possible estimate the proportion of specified
+emissions that occur in or adjacent to urban/densely
+populated areas.
+GRI 305-7
+Rationale
+Localized air pollution, in the form of fine particulate matter and oxides of sulphur and nitrogen, is a leading
+cause of ill-health and premature death around the world. Emissions in densely populated areas tend to be
+particularly harmful because they contribute to high ambient concentrations of pollution and affect a large
+number of people.

@@ -1,0 +1,17 @@
+Nature loss Land use and ecological sensitivity
+Report the number and area (in hectares) of sites owned,
+leased or managed in or adjacent to protected areas and/or key
+biodiversity areas (KBA).
+GRI 304-1
+Rationale
+KBAs provide a science-based and internationally recognized means of identifying sites contributing
+significantly to the global persistence of biodiversity, while protected areas indicate nationally (and
+often internationally) recognized areas of ecological or cultural importance, typically with specific legal
+protections. Having operations inside or close to such areas indicates heightened risk of adverse impacts
+on biodiversity and heightened risk of exposure to associated legal or reputational risk.
+Additional commentary
+This metric will only be applicable to a subset of companies with operations in or adjacent to protected
+areas or KBAs, but for these companies it is an important indicator of heightened risk of adverse impacts
+on biodiversity and heightened risk of exposure to associated legal or reputational risk. Alongside this
+disclosure, companies may wish to share information on the measures in place to ensure effective
+stewardship of these sites.

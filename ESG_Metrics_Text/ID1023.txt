@@ -1,0 +1,22 @@
+Water pollution Nutrients
+Estimate and report wherever material along the value
+chain: metric tonnes of nitrogen, phosphorous and
+potassium in fertilizer consumed.
+SASB CN0101-
+11
+Rationale
+Keeping nitrogen, phosphorus and potassium cycles in balance is critical to the effective functioning of
+ecosystems. Current agricultural practices have pushed bio-available levels of nitrogen, phosphorus and
+potassium far beyond sustainable thresholds in many parts of the world, leading to freshwater and oceanic
+dead zones and a host of other ecological and public health issues. “Biogeochemical flows” (of nitrogen
+and phosphorous) is one of only two of the nine planetary boundaries42 that is already deemed to have
+been breached. As such, all organizations with significant agricultural operations or supply chains are
+recommended to identify their exposure to this global problem.
+Additional commentary
+In addition to companies with significant agricultural or forestry operations, this metric is likely to be material
+to long-term value creation for any companies that rely on a significant volume of inputs from agricultural or
+forestry systems. Proactive measures to avoid excess nutrients entering the environment are a key aspect
+of good ecological stewardship and should form part of agreements with agricultural or forestry suppliers.
+Alongside this disclosure, companies may wish to disclose the year-on-year change in each figure as
+well as additional information on measures to avoid excess nutrients entering the wider environment, and
+evidence of their effectiveness.

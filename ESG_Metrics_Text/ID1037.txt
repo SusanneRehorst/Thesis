@@ -1,0 +1,39 @@
+Health and
+well‑being
+Health and safety (%)
+The number and rate of fatalities as a result of work-related
+injury; high-consequence work-related injuries (excluding
+fatalities); recordable work-related injuries; main types of workrelated injury; and the number of hours worked.
+An explanation of how the organization facilitates workers’
+access to non-occupational medical and healthcare services,
+and the scope of access provided for employees and workers.
+GRI:2018
+403-9a&b,
+GRI:2018
+403-6a
+Rationale
+Maintaining strong standards of health, safety and labour rights can improve employee productivity
+and operational efficiency and enhance employee well-being. Working proactively in these areas of
+business will help identify and mitigate potential risks, and it is increasingly required by law. Mental
+health and emotional wellbeing, as components of overall worker health and safety, are becoming
+increasingly important to drive innovation and deliver goods and services that are reliant on human capital.
+Organizations that invest in non-occupational medical and healthcare services would demonstrate to their
+employees that they care and look after them. This would result in a purposeful, resilient and growthoriented workforce.
+Additional commentary
+1. For all employees and workers who are not employees but whose work and/or workplace is controlled
+by the organization, report the following:
+– The number and rate of fatalities as a result of work-related injury
+– The number and rate of high-consequence work-related injuries (excluding fatalities)
+– The number and rate of recordable work-related injuries
+– The main types of work-related injury
+– The number of hours worked
+For calculation for the rate of work-related injury, high consequence work-related injuries and recordable
+work-related injuries refer to GRI:2018 403-9 for guidance.
+2. Provide an explanation of how the organization facilitates workers’ access to non-occupational medical
+and healthcare services, and the scope of access provided for all employees and workers. Employees’
+and workers’ access to non-occupational medical and healthcare services might be facilitated through,
+for example, company clinics, disease treatment programmes, referral systems, health insurance or
+financial contributions.
+When describing the scope of access to non-occupational medical and healthcare services provided,
+specify the types of service to which access is facilitated and the types of workers that have access to
+them. 
