@@ -77,12 +77,12 @@ Vector_Data <- gsub("\\.+",".",Vector_Data)
 Vector_Data <- replace_contraction(Vector_Data, contraction.key = lexicon::key_contractions)
 
 # Final cleaning to make sure all punctuation except periods are removed
-Vector_Data <- strip(Vector_Data, char.keep= c("."), digit.remove = TRUE, apostrophe.remove = FALSE,
+Vector_Data <- strip(Vector_Data, char.keep= c("."), digit.remove = TRUE, apostrophe.remove = TRUE,
 lower.case = FALSE)
 
 ## ----- Special cleaning that is only used for the readability formulas -----
 
-# Remove single quotation marks because it reduces quality of readability analysis. But it should be kept for lemmatization, so not included in general cleaning steps
+# Remove single quotation marks because it reduces quality of readability analysis.
 Vector_Data_Q <- gsub('[\'’]', '', Vector_Data)
 
 ```
