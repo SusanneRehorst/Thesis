@@ -1,12 +1,12 @@
 ---
-title: "Data_Analysis"
+title: "Data_Analysis H1 H2"
 author: "Susanne_Rehorst"
 date: "25-5-2022"
 output: html_document
 ---
 
-# Data Analysis
-In the documents Data_Processing_Regulations.Rmd and Data_Processing_Metrics.Rmd, the data was cleaned and processed. In this markdown, analysis will be performed on this processed data.
+# Data Analysis H1 & H2
+In the documents Data_Processing_Regulations.Rmd and Data_Processing_Metrics.Rmd, the data was cleaned and processed. In this markdown, analysis will be performed on this processed data for Hypothesis 1 and Hypothesis 2 (readability and linguistic characteristics)
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -31,8 +31,7 @@ load("Processed_Data.RData")
 load("Metrics_Data.RData")
 ```
 
-# 1. Descriptive Analysis
-The first part of the analysis looks at the descriptive statistics of the documents. 
+# Hypothesis 1: Quantity and Readability 
 
 ## Quantity
 Merge the words and non-words. Happens in case there are list that do not have a period at the end. 
@@ -466,7 +465,7 @@ summary(modelx163)
 summary(modelx173)
 ```
 
-## Restrictiveness
+#H2. Linguistic Characteristics: Restrictiveness
 First, the total number of restrictive words is divided by the total number of words. This prevents a bias where large texts already contain a larger portion of restrictive words. Afterwards, this number is mulitplied by 1000 for better interpretation. So, amount of restrictive words per 1000 words is the new measure that has been created. 
 ```{r}
 R_Data <- Descriptive_Data
@@ -952,109 +951,3 @@ summary(fermodelkyx15)
 summary(fermodelkyx16)
 summary(fermodelkyx17)
 ```
-
-
-#2. Similarity Analysis
-The second part of the analysis focuses on the similarity between documents. 
-
-## Merging on group level
-Merge on group level.
-```{r}
-
-```
-
-## Document term matrix
-```{r}
-
-```
-
-## Local weighting function
-```{r}
-
-```
-
-## Create separate corpera before applying global weighting function
-There is a total of 8 different corpera calculated. M-ESG; M-ESG+ESGtopics; M-G; M-G+Gtopics; V-ESG; V-E; V-ESG+ESGtopics; V-E+Etopics
-```{r}
-
-```
-
-## Global weighting function
-```{r}
-
-```
-
-## Final weight and normalization
-```{r}
-
-```
-
-## Cosine similarity matrix
-```{r}
-
-```
-
-## Calculating Difference-in-Means and test for significance (within groups and compared to ESG doc)
-```{r}
-
-```
-
-## Regression (optional)
-```{r}
-
-```
-
-## Robustness check
-```{r}
-
-```
-
-
-
-
-
-
-#3. ESG keywords analysis
-
-## Select ESG key topics
-Use the ESG Metrics documents to define the key words for every ESG metric. This is done by looking at both 1-gram, 2-gram and 3-gram expression. Importance of a ESG key metric is determined by looking at the key expressions with the highest TF. 
-```{r}
-
-```
-
-## Calculate total global weight and total local weight for each ESG metric within each regulatory document group
-```{r}
-
-```
-
-## Match with meta data and visualize the results
-```{r}
-
-```
-
-## Calculate the Difference in average weight for each ESG metric between different document groups
-```{r}
-
-```
-
-## Regression on global weight
-```{r}
-
-```
-
-## Regression on local weight
-```{r}
-
-```
-
-## Robustness check
-```{r}
-
-```
-
-
-# 4. Optional: Visualization (network or wordcloud etc.)
-```{r}
-
-```
-
