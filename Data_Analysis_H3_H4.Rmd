@@ -5,7 +5,7 @@ date: "3-6-2022"
 output: html_document
 ---
 
-# Data Analysis H3
+# Data Analysis H3 H4
 In the documents Data_Processing_Regulations.Rmd and Data_Processing_Metrics.Rmd, the data was cleaned and processed. In this markdown, analysis will be performed on this processed data for Hypothesis 3 (Document similarity) and Hypothesis 4 (Keyword analysis).
 
 ```{r setup, include=FALSE}
@@ -16,6 +16,7 @@ Load or install packages:
 ```{r warning=FALSE}
 library(dplyr)
 library(stringr)
+library(stargazer)
 ```
 
 Set Working Directory
@@ -1273,6 +1274,14 @@ Average_THEME_TYPE$GROUP <- paste(Average_THEME_TYPE$GROUP_TYPE,"_",Average_THEM
 ## Regression
 Regression models are made to analyze frequency of ESG key topics between mandatory and voluntary regulations. Controls are added for ESG metric (on an ESG level and on a theme level), DOC GROUP, and if there is an ESG listing rule in the region of the document. 
 ```{r}
+# Set base variable for the dummy variables in the regression for easier interpretation
+Keywords_Sample <- droplevels(Keywords_Sample)
+
+Keywords_Sample <- Keywords_Sample %>%
+  mutate(GROUP_TYPE = relevel(GROUP_TYPE, ref = "ESG"),
+         THEME_TYPE = relevel(THEME_TYPE, ref = "G"),
+         THEME=relevel(THEME, ref = "Governing purpose"))
+         
 # TF as dependent variable
 Modelesg1 <- lm(TF~M, data = Keywords_Sample)
 Modelesg2 <- lm(TF~M+GROUP_TYPE, data = Keywords_Sample)
@@ -1320,6 +1329,41 @@ summary(modelesg32)
 summary(modelesg42)
 summary(modelesg52)
 summary(modelesg62)
+```
+
+Get the results in a table. 
+```{r}
+stargazer(modelesg1, modelesg2, modelesg3, modelesg4, modelesg5, modelesg6, type = 'text')
+stargazer(modelesg7, modelesg8, modelesg9, modelesg10, modelesg11, modelesg12, type = 'text')
+stargazer(modelesg12, modelesg22, modelesg32, modelesg42, modelesg52, modelesg62, type = 'text')
+```
+
+Do the same test with robust standard errors.
+
+T.S. Breusch & A.R. Pagan (1979), A Simple Test for Heteroscedasticity and Random Coefficient Variation. Econometrica 47, 1287--1294
+```{r}
+### Testing for heteroskedasticity and accounting for it in the SE
+
+modelesg1
+par(mfrow=c(2,2)) # get 4 charts in 1 panel
+plot(modelesg1)
+
+# Breusch-Pagan test against heteroskedasticity. H0 assumes homoskedacity under the residual errors. If rejected, there is heteroskedacity and too much variance is explained by additional explanatory variables. 
+lmtest::bptest(modelesg1)
+lmtest::bptest(modelesg2)
+lmtest::bptest(modelesg3)
+lmtest::bptest(modelesg4)
+lmtest::bptest(modelesg5)
+lmtest::bptest(modelesg6)
+
+# Remedy for heteroskedasticity: Use robust standard error. 
+
+seBasic <- sqrt (diag ( vcov(modelesg1)))
+sewhite <- sqrt (diag ( vcovHC(modelesg1, type="HC0")))
+seClust1 <- sqrt (diag ( vcovHC(modelesg1, cluster="GROUP_TYPE")))
+seClust2 <- sqrt (diag ( vcovHC(modelesg1, cluster="THEME_TYPE")))
+
+stargazer(modelesg1, modelesg1, modelesg1, se=list(seBasic, sewhite, seClust1, seClust2), type="text")
 ```
 
 #Robustness Checks
