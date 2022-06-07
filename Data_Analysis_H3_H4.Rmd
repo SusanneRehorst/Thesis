@@ -5,7 +5,7 @@ date: "3-6-2022"
 output: html_document
 ---
 
-# Data Analysis H3 H4
+# Data Analysis H3 & H4
 In the documents Data_Processing_Regulations.Rmd and Data_Processing_Metrics.Rmd, the data was cleaned and processed. In this markdown, analysis will be performed on this processed data for Hypothesis 3 (Document similarity) and Hypothesis 4 (Keyword analysis).
 
 ```{r setup, include=FALSE}
@@ -25,7 +25,7 @@ setwd("~/Thesis")
 ```
 
 ## Load in the data
-There are 3 data files used for this analysis. The first one is Descriptive_Data.RData, which contains the meta data for each document and descriptive statistics, like the amount of words and the readability of the document. The second one is Processed_Data.RData. This data file contains the tokenized regulations data, so that each row contains a token. The third data file that is loaded is Metrics_Data.RData. This file also contains tokenized data, but in this case it contains ESG metrics data.  
+There are 3 data files used for this analysis. The first one is Descriptive_Data.RData, which contains the meta data for each regulation document and descriptive statistics, like the amount of words and the readability of the regulation document. The second data file that is used is Processed_Data.RData. This data file contains the regulation data, split into tokens. The third data file that is used is Metrics_Data.RData. This file contains the text describing ESG metrics. This data is in a tokenized data format. The metrics data is used to benchmark the content of the regulations document (measuring how many ESG topics are covered by the regulations).  
 ```{r}
 load("Descriptive_Data.RData")
 load("Processed_Data.RData")
@@ -33,24 +33,28 @@ load("Metrics_Data.RData")
 ```
 
 # Hypothesis 3: Document Similarity
+The first hypothesis that is covered in this document is Hypothesis 3. This involves measuring document similarity and comparing this similarity between mandatory and voluntary regulation documents.
 
 ## Merging on group level
-Documents are merged if they belong to the same group. In order to do this, group id and other metadata are merged with the processed_data file. 
+In order to correctly compare regulations documents, the documents are first merged in groups. Documents are merged into the same group if they apply to the same region, have the same compliance level (both mandatory or both voluntary), and refer to each other (either because a document amends another, or indirectly if one regulatory document refers to the other). Categorizing documents on a group level is done manually. The Descriptive Data contains both the Document ID and the Group ID, and is merged with the Processed Data by Document ID (the Metrics Data will be used later on for Hypothesis 4).
 ```{r}
 # Create subset of descriptive data to get meta data for groups
 Group_Data <- Descriptive_Data[,c("DOC_ID", "ESG_LISTING_RULE","GROUP_ID","GROUP_TYPE","REGION","M")]
 
+# Transform to factor
 Group_Data <- lapply(Group_Data, as.character)
 Group_Data <- lapply(Group_Data, factor)
-Processed_Data$doc_id <- as.factor(Processed_Data$doc_id)
 Group_Data <- data.frame(Group_Data)
+Processed_Data$doc_id <- as.factor(Processed_Data$doc_id)
 
+# Merge data sets
 Processed_Data <- merge(Processed_Data,Group_Data,by.x = "doc_id", by.y = "DOC_ID", all.x = TRUE)
 
+# Reduce group data to group level instead of document level
 Group_Data <- Group_Data[,c("ESG_LISTING_RULE","GROUP_ID","GROUP_TYPE","REGION","M")]
 Group_Data <- Group_Data %>% distinct(GROUP_ID, .keep_all = TRUE)
 
-# Final removal of special characters within lemma
+# Final removal of special characters within lemma (as an additional check)
 Processed_Data$lemma <- gsub('[\'’]','', Processed_Data$lemma)
 Processed_Data$lemma <- gsub("[^A-Za-z]","", Processed_Data$lemma)
 Processed_Data$lemma <- as.factor(Processed_Data$lemma)
@@ -58,9 +62,10 @@ Processed_Data <- Processed_Data[!(is.na(Processed_Data$lemma) | Processed_Data$
 ```
 
 ## Prepare sub-samples
-Sub-samples need to be created, as document similarity can only be calculated between documents that belong to the same group. These groups are EGS Mandatory, ESG Voluntary, E Voluntary, and G Mandatory. For all 4 groups, an additional corpus is created that include the group + a document with E, S,and/or G key metrics, depending on the group. This allows to calculate the average similarity between these documents and ESG key metrics. After similarities are calculated, average similarities are compared across groups and tested for significance.  
+Sub-samples need to be created, as document similarity can only be calculated between documents that belong to the same group. These groups are ESG Mandatory, ESG Voluntary, E Voluntary, and G Mandatory. For all 4 groups, an additional corpus is created that adds text of a document with E, S,and/or G key metrics, depending on the group. This allows to calculate the average similarity between a group and documents with ESG key metrics. After similarities are calculated, average similarities are compared across groups and tested for significance.  
 ```{r}
-# ESG Mandatory (1 is without ESG metrics, and 2 is with ESG metrics)
+# Subsets (1 is without ESG metrics, and 2 is with ESG metrics)
+# ESG Mandatory 
 ESG_Mandatory_2 <- Processed_Data[Processed_Data$GROUP_TYPE=="ESG" & Processed_Data$M=="1" | Processed_Data$GROUP_ID=="42" 
                                   | Processed_Data$GROUP_ID=="43" | Processed_Data$GROUP_ID=="44", ] 
 ESG_Mandatory_1 <- ESG_Mandatory_2[ESG_Mandatory_2$GROUP_ID!="42" & ESG_Mandatory_2$GROUP_ID!="43" & ESG_Mandatory_2$GROUP_ID!="44", ]
@@ -82,9 +87,10 @@ E_Voluntary_1 <- E_Voluntary_2[E_Voluntary_2$GROUP_ID!="43", ]
 ESG_Both1 <- rbind(ESG_Mandatory_1, ESG_Voluntary_1)
 ESG_Both2 <- rbind(ESG_Mandatory_2, ESG_Voluntary_2)
 
-# Sample for H4 (includes all documents except the ESG keyword documents, as ESG key word matching is done at later stage)
+# Sample for Hypothesis 4 (includes all documents except the ESG keyword documents, as ESG key word matching is done at later stage)
 Total_Sample <- Processed_Data[Processed_Data$GROUP_ID!="42" & Processed_Data$GROUP_ID!="43" & Processed_Data$GROUP_ID!="44", ]
 
+# Drop levels for completeness
 Total_Sample <- droplevels(Total_Sample)
 ESG_Mandatory_1 <- droplevels(ESG_Mandatory_1)
 ESG_Mandatory_2 <- droplevels(ESG_Mandatory_2)
@@ -99,7 +105,7 @@ ESG_Both2 <- droplevels(ESG_Both2)
 ```
 
 ## Local and Global weighting function
-First, it is counted within each group, how many times a term occurs. Several local weighting functions are calculated, including Term frequency (TF), Total term frequency (Total_TF), Maximum term frequency (Max_TF), Relative term frequency (R_TF), Augmented term frequency (A_TF), and log term frequency (L_TF). In the first part of hypothesis 1, it was concluded that there is a wide variation in the length of documents. To control for different lengths of documents, normalization should be applied. This can be in the form of relative, log, or augmented form. Subsequently, the IDF controls weights globally. Words that appear very frequently in all of the documents get a lower global weight. Log2 is used instead of log10 as the range of data is not very large. 
+First, it is counted within each group, how many times a term occurs. Several local weighting functions are calculated, including Term frequency (TF), Total term frequency (Total_TF), Maximum term frequency (Max_TF), Relative term frequency (R_TF), Augmented term frequency (A_TF), and log term frequency (L_TF). In the first part of hypothesis 1(Quantity), it was concluded that there is a wide variation in the length of documents. To control for different lengths of documents, normalization should be applied. This can be in the form of relative, log, or augmented form. Subsequently, a global weight factor is calculated. This results in words that appear very frequently in all of the documents to get a lower weight. Note: Log2 is used for all log transformations instead of log10 as the range of data is within 0 and 3 powers of 10.  
 ```{r}
 ESG_Mandatory_1 <- ESG_Mandatory_1 %>% group_by(GROUP_ID, lemma) %>% summarize(
                   TF = n()) %>% mutate(
@@ -280,7 +286,7 @@ Total_Sample <- Total_Sample %>% group_by(lemma) %>% mutate(
 ```
 
 ## Document Term Matrix
-Create document term matrix with different weighting schemes. Additional weight is calculated with Entropy functionality. 
+A document term matrix is created. There are 6 different weighting schemes used. This is done as a robustness check, to see the influence of using different weighting schemes on the results. Weighting schemes 0 and 1 are only locally weighted (TF and Log TF). Schemes 2, 3, and 4 are multiple local weight with global weight, with global weight being IDF. Scheme 5 and 6 multiply log TF with entropy as global weight. Entropy is calculated as real entropy (scheme 5) and entropy+1 (scheme 6). Missing values in the matrix indicate that a certain term does not appear in a document. These missing values are replaced with 0, except for the augmented weighting scheme because this schema uses 0.5 as base value. 
 ```{r}
 library(reshape2)
 library(lsa)
@@ -290,13 +296,16 @@ ESG_M_1_1 <- acast(ESG_Mandatory_1, lemma~GROUP_ID, value.var="L_TF")
 ESG_M_1_2 <- acast(ESG_Mandatory_1, lemma~GROUP_ID, value.var="LOG_TFIDF")
 ESG_M_1_3 <- acast(ESG_Mandatory_1, lemma~GROUP_ID, value.var="R_TFIDF")
 ESG_M_1_4 <- acast(ESG_Mandatory_1, lemma~GROUP_ID, value.var="A_TFIDF")
-ESG_M_1_5 <- lw_tf(ESG_M_1_1)*entropy(ESG_M_1_0)
-ESG_M_1_6 <- lw_tf(ESG_M_1_1)*gw_entropy(ESG_M_1_0)
 
+ESG_M_1_0[is.na(ESG_M_1_0)] <- 0
 ESG_M_1_1[is.na(ESG_M_1_1)] <- 0
 ESG_M_1_2[is.na(ESG_M_1_2)] <- 0
 ESG_M_1_3[is.na(ESG_M_1_3)] <- 0
 ESG_M_1_4[is.na(ESG_M_1_4)] <- 0.5
+
+ESG_M_1_5 <- lw_tf(ESG_M_1_1)*entropy(ESG_M_1_0)
+ESG_M_1_6 <- lw_tf(ESG_M_1_1)*gw_entropy(ESG_M_1_0)
+
 ESG_M_1_5[is.na(ESG_M_1_5)] <- 0
 ESG_M_1_6[is.na(ESG_M_1_6)] <- 0
 
@@ -306,13 +315,16 @@ ESG_M_2_1 <- acast(ESG_Mandatory_2, lemma~GROUP_ID, value.var="L_TF")
 ESG_M_2_2 <- acast(ESG_Mandatory_2, lemma~GROUP_ID, value.var="LOG_TFIDF")
 ESG_M_2_3 <- acast(ESG_Mandatory_2, lemma~GROUP_ID, value.var="R_TFIDF")
 ESG_M_2_4 <- acast(ESG_Mandatory_2, lemma~GROUP_ID, value.var="A_TFIDF")
-ESG_M_2_5 <- lw_tf(ESG_M_2_1)*entropy(ESG_M_2_0)
-ESG_M_2_6 <- lw_tf(ESG_M_2_1)*gw_entropy(ESG_M_2_0)
 
+ESG_M_2_0[is.na(ESG_M_2_0)] <- 0
 ESG_M_2_1[is.na(ESG_M_2_1)] <- 0
 ESG_M_2_2[is.na(ESG_M_2_2)] <- 0
 ESG_M_2_3[is.na(ESG_M_2_3)] <- 0
 ESG_M_2_4[is.na(ESG_M_2_4)] <- 0.5
+
+ESG_M_2_5 <- lw_tf(ESG_M_2_1)*entropy(ESG_M_2_0)
+ESG_M_2_6 <- lw_tf(ESG_M_2_1)*gw_entropy(ESG_M_2_0)
+
 ESG_M_2_5[is.na(ESG_M_2_5)] <- 0
 ESG_M_2_6[is.na(ESG_M_2_6)] <- 0
 
@@ -322,13 +334,16 @@ ESG_V_1_1 <- acast(ESG_Voluntary_1, lemma~GROUP_ID, value.var="L_TF")
 ESG_V_1_2 <- acast(ESG_Voluntary_1, lemma~GROUP_ID, value.var="LOG_TFIDF")
 ESG_V_1_3 <- acast(ESG_Voluntary_1, lemma~GROUP_ID, value.var="R_TFIDF")
 ESG_V_1_4 <- acast(ESG_Voluntary_1, lemma~GROUP_ID, value.var="A_TFIDF")
-ESG_V_1_5 <- lw_tf(ESG_V_1_1)*entropy(ESG_V_1_0)
-ESG_V_1_6 <- lw_tf(ESG_V_1_1)*gw_entropy(ESG_V_1_0)
 
+ESG_V_1_0[is.na(ESG_V_1_0)] <- 0
 ESG_V_1_1[is.na(ESG_V_1_1)] <- 0
 ESG_V_1_2[is.na(ESG_V_1_2)] <- 0
 ESG_V_1_3[is.na(ESG_V_1_3)] <- 0
 ESG_V_1_4[is.na(ESG_V_1_4)] <- 0.5
+
+ESG_V_1_5 <- lw_tf(ESG_V_1_1)*entropy(ESG_V_1_0)
+ESG_V_1_6 <- lw_tf(ESG_V_1_1)*gw_entropy(ESG_V_1_0)
+
 ESG_V_1_5[is.na(ESG_V_1_5)] <- 0
 ESG_V_1_6[is.na(ESG_V_1_6)] <- 0
 
@@ -338,13 +353,16 @@ ESG_V_2_1 <- acast(ESG_Voluntary_2, lemma~GROUP_ID, value.var="L_TF")
 ESG_V_2_2 <- acast(ESG_Voluntary_2, lemma~GROUP_ID, value.var="LOG_TFIDF")
 ESG_V_2_3 <- acast(ESG_Voluntary_2, lemma~GROUP_ID, value.var="R_TFIDF")
 ESG_V_2_4 <- acast(ESG_Voluntary_2, lemma~GROUP_ID, value.var="A_TFIDF")
-ESG_V_2_5 <- lw_tf(ESG_V_2_1)*entropy(ESG_V_2_0)
-ESG_V_2_6 <- lw_tf(ESG_V_2_1)*gw_entropy(ESG_V_2_0)
 
+ESG_V_2_0[is.na(ESG_V_2_0)] <- 0
 ESG_V_2_1[is.na(ESG_V_2_1)] <- 0
 ESG_V_2_2[is.na(ESG_V_2_2)] <- 0
 ESG_V_2_3[is.na(ESG_V_2_3)] <- 0
 ESG_V_2_4[is.na(ESG_V_2_4)] <- 0.5
+
+ESG_V_2_5 <- lw_tf(ESG_V_2_1)*entropy(ESG_V_2_0)
+ESG_V_2_6 <- lw_tf(ESG_V_2_1)*gw_entropy(ESG_V_2_0)
+
 ESG_V_2_5[is.na(ESG_V_2_5)] <- 0
 ESG_V_2_6[is.na(ESG_V_2_6)] <- 0
 
@@ -354,13 +372,16 @@ G_M_1_1 <- acast(G_Mandatory_1, lemma~GROUP_ID, value.var="L_TF")
 G_M_1_2 <- acast(G_Mandatory_1, lemma~GROUP_ID, value.var="LOG_TFIDF")
 G_M_1_3 <- acast(G_Mandatory_1, lemma~GROUP_ID, value.var="R_TFIDF")
 G_M_1_4 <- acast(G_Mandatory_1, lemma~GROUP_ID, value.var="A_TFIDF")
-G_M_1_5 <- lw_tf(G_M_1_1)*entropy(G_M_1_0)
-G_M_1_6 <- lw_tf(G_M_1_1)*gw_entropy(G_M_1_0)
 
+G_M_1_0[is.na(G_M_1_0)] <- 0
 G_M_1_1[is.na(G_M_1_1)] <- 0
 G_M_1_2[is.na(G_M_1_2)] <- 0
 G_M_1_3[is.na(G_M_1_3)] <- 0
 G_M_1_4[is.na(G_M_1_4)] <- 0.5
+
+G_M_1_5 <- lw_tf(G_M_1_1)*entropy(G_M_1_0)
+G_M_1_6 <- lw_tf(G_M_1_1)*gw_entropy(G_M_1_0)
+
 G_M_1_5[is.na(G_M_1_5)] <- 0
 G_M_1_6[is.na(G_M_1_6)] <- 0
 
@@ -370,13 +391,16 @@ G_M_2_1 <- acast(G_Mandatory_2, lemma~GROUP_ID, value.var="L_TF")
 G_M_2_2 <- acast(G_Mandatory_2, lemma~GROUP_ID, value.var="LOG_TFIDF")
 G_M_2_3 <- acast(G_Mandatory_2, lemma~GROUP_ID, value.var="R_TFIDF")
 G_M_2_4 <- acast(G_Mandatory_2, lemma~GROUP_ID, value.var="A_TFIDF")
-G_M_2_5 <- lw_tf(G_M_2_1)*entropy(G_M_2_0)
-G_M_2_6 <- lw_tf(G_M_2_1)*gw_entropy(G_M_2_0)
 
+G_M_2_0[is.na(G_M_2_0)] <- 0
 G_M_2_1[is.na(G_M_2_1)] <- 0
 G_M_2_2[is.na(G_M_2_2)] <- 0
 G_M_2_3[is.na(G_M_2_3)] <- 0
 G_M_2_4[is.na(G_M_2_4)] <- 0.5
+
+G_M_2_5 <- lw_tf(G_M_2_1)*entropy(G_M_2_0)
+G_M_2_6 <- lw_tf(G_M_2_1)*gw_entropy(G_M_2_0)
+
 G_M_2_5[is.na(G_M_2_5)] <- 0
 G_M_2_6[is.na(G_M_2_6)] <- 0
 
@@ -386,13 +410,16 @@ E_V_1_1 <- acast(E_Voluntary_1, lemma~GROUP_ID, value.var="L_TF")
 E_V_1_2 <- acast(E_Voluntary_1, lemma~GROUP_ID, value.var="LOG_TFIDF")
 E_V_1_3 <- acast(E_Voluntary_1, lemma~GROUP_ID, value.var="R_TFIDF")
 E_V_1_4 <- acast(E_Voluntary_1, lemma~GROUP_ID, value.var="A_TFIDF")
-E_V_1_5 <- lw_tf(E_V_1_1)*entropy(E_V_1_0)
-E_V_1_6 <- lw_tf(E_V_1_1)*gw_entropy(E_V_1_0)
 
+E_V_1_0[is.na(E_V_1_0)] <- 0
 E_V_1_1[is.na(E_V_1_1)] <- 0
 E_V_1_2[is.na(E_V_1_2)] <- 0
 E_V_1_3[is.na(E_V_1_3)] <- 0
 E_V_1_4[is.na(E_V_1_4)] <- 0.5
+
+E_V_1_5 <- lw_tf(E_V_1_1)*entropy(E_V_1_0)
+E_V_1_6 <- lw_tf(E_V_1_1)*gw_entropy(E_V_1_0)
+
 E_V_1_5[is.na(E_V_1_5)] <- 0
 E_V_1_6[is.na(E_V_1_6)] <- 0
 
@@ -402,13 +429,16 @@ E_V_2_1 <- acast(E_Voluntary_2, lemma~GROUP_ID, value.var="L_TF")
 E_V_2_2 <- acast(E_Voluntary_2, lemma~GROUP_ID, value.var="LOG_TFIDF")
 E_V_2_3 <- acast(E_Voluntary_2, lemma~GROUP_ID, value.var="R_TFIDF")
 E_V_2_4 <- acast(E_Voluntary_2, lemma~GROUP_ID, value.var="A_TFIDF")
-E_V_2_5 <- lw_tf(E_V_2_1)*entropy(E_V_2_0)
-E_V_2_6 <- lw_tf(E_V_2_1)*gw_entropy(E_V_2_0)
 
+E_V_2_0[is.na(E_V_2_0)] <- 0
 E_V_2_1[is.na(E_V_2_1)] <- 0
 E_V_2_2[is.na(E_V_2_2)] <- 0
 E_V_2_3[is.na(E_V_2_3)] <- 0
 E_V_2_4[is.na(E_V_2_4)] <- 0.5
+
+E_V_2_5 <- lw_tf(E_V_2_1)*entropy(E_V_2_0)
+E_V_2_6 <- lw_tf(E_V_2_1)*gw_entropy(E_V_2_0)
+
 E_V_2_5[is.na(E_V_2_5)] <- 0
 E_V_2_6[is.na(E_V_2_6)] <- 0
 
@@ -418,13 +448,16 @@ ESG_B_1_1 <- acast(ESG_Both1, lemma~GROUP_ID, value.var="L_TF")
 ESG_B_1_2 <- acast(ESG_Both1, lemma~GROUP_ID, value.var="LOG_TFIDF")
 ESG_B_1_3 <- acast(ESG_Both1, lemma~GROUP_ID, value.var="R_TFIDF")
 ESG_B_1_4 <- acast(ESG_Both1, lemma~GROUP_ID, value.var="A_TFIDF")
-ESG_B_1_5 <- lw_tf(ESG_B_1_1)*entropy(ESG_B_1_0)
-ESG_B_1_6 <- lw_tf(ESG_B_1_1)*gw_entropy(ESG_B_1_0)
 
+ESG_B_1_0[is.na(ESG_B_1_0)] <- 0
 ESG_B_1_1[is.na(ESG_B_1_1)] <- 0
 ESG_B_1_2[is.na(ESG_B_1_2)] <- 0
 ESG_B_1_3[is.na(ESG_B_1_3)] <- 0
 ESG_B_1_4[is.na(ESG_B_1_4)] <- 0.5
+
+ESG_B_1_5 <- lw_tf(ESG_B_1_1)*entropy(ESG_B_1_0)
+ESG_B_1_6 <- lw_tf(ESG_B_1_1)*gw_entropy(ESG_B_1_0)
+
 ESG_B_1_5[is.na(ESG_B_1_5)] <- 0
 ESG_B_1_6[is.na(ESG_B_1_6)] <- 0
 
@@ -434,18 +467,22 @@ ESG_B_2_1 <- acast(ESG_Both2, lemma~GROUP_ID, value.var="L_TF")
 ESG_B_2_2 <- acast(ESG_Both2, lemma~GROUP_ID, value.var="LOG_TFIDF")
 ESG_B_2_3 <- acast(ESG_Both2, lemma~GROUP_ID, value.var="R_TFIDF")
 ESG_B_2_4 <- acast(ESG_Both2, lemma~GROUP_ID, value.var="A_TFIDF")
-ESG_B_2_5 <- lw_tf(ESG_B_2_1)*entropy(ESG_B_2_0)
-ESG_B_2_6 <- lw_tf(ESG_B_2_1)*gw_entropy(ESG_B_2_0)
 
+ESG_B_2_0[is.na(ESG_B_2_0)] <- 0
 ESG_B_2_1[is.na(ESG_B_2_1)] <- 0
 ESG_B_2_2[is.na(ESG_B_2_2)] <- 0
 ESG_B_2_3[is.na(ESG_B_2_3)] <- 0
 ESG_B_2_4[is.na(ESG_B_2_4)] <- 0.5
+
+ESG_B_2_5 <- lw_tf(ESG_B_2_1)*entropy(ESG_B_2_0)
+ESG_B_2_6 <- lw_tf(ESG_B_2_1)*gw_entropy(ESG_B_2_0)
+
 ESG_B_2_5[is.na(ESG_B_2_5)] <- 0
 ESG_B_2_6[is.na(ESG_B_2_6)] <- 0
 ```
 
 # Cosine similarity Matrix
+Now, the cosine similarity is calculated between the documents in each matrix. Cosine similarity ranges between 0 and 1. Value of 1 indicates a perfect similar document. And the more towards 0, the more dissimilar the documents are. 
 ```{r}
 # ESG Mandatory 1
 ESG_MS1 <- cosine(ESG_M_1_1)
@@ -526,20 +563,18 @@ ESG_BS32 <- cosine(ESG_B_2_3)
 ESG_BS42 <- cosine(ESG_B_2_4)
 ESG_BS52 <- cosine(ESG_B_2_5)
 ESG_BS62 <- cosine(ESG_B_2_6)
-
-
 ```
 
 ## Visualization
-Results can be visualized with a heat map.
+The results can be visualized by showing the cosine similarity matrices as a heatmap. 
 ```{r}
-heatmap(ESG_MS1)
+heatmap(ESG_MS5)
 ```
 
 ## Calculating Difference-in-Means and test for significance (within groups and compared to ESG doc)
-Now that the cosine similarity between documents is calculated, the average document similarity within each of the 4 groups is calculated. This difference is also tested on significance. For the group that also includes ESG metrics, the average cosine similarity is only calculated between the ESG documents and the other documents. 
+Now that the cosine similarity between documents is calculated, the average document similarity within each of the 4 groups is calculated. The difference in average cosine similarity between the different document groups is tested on significance. For the group that also includes documents metrics, the only relevant part is the average cosine similarity between the ESG documents and the other documents. 
 
-Before average similarity can be calculated, the matrices need to be converted back to data frames. Also, they are merged with the Group_Data so that meta data can be added (this is done twice because a document pair consists of 2 documents). 
+Before average similarity can be calculated, the matrices need to be converted back to data frames.
 ```{r}
 # ESG Mandatory
 ESGM1 <- data.frame(GROUP_ID1=rownames(ESG_MS1)[row(ESG_MS1)[upper.tri(ESG_MS1)]], 
@@ -677,10 +712,7 @@ ESGB62 <- data.frame(GROUP_ID1=rownames(ESG_BS62)[row(ESG_BS62)[upper.tri(ESG_BS
                      GROUP_ID2=colnames(ESG_BS62)[col(ESG_BS62)[upper.tri(ESG_BS62)]],cosine=ESG_BS62[upper.tri(ESG_BS62)])
 ```
 
-## Merge data
-The data is merged by group ID. This way, a regression can be made to calculate the significance of the differences. 
-
------------------ Note: Change the reference in the summarize and regression code to variable "M". -------------------------------------
+Before analysis on significance can be done, meta data variables need to be added. Therefore, the data is merged with Group_Data (this is done twice because a document pair consists of 2 documents). The data is merged by group ID. This way, a regression can be made to calculate the significance of the differences. 
 
 ```{r}
 # ESG mandatory and ESG voluntary --------------------------------------------------------------------
@@ -700,47 +732,103 @@ ESGMV52 <- rbind(ESGM52,ESGV52)
 ESGMV62 <- rbind(ESGM62,ESGV62)
 
 # Merge with metadata
-ESGMV1 <- merge(ESGMV1,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID1,all.x=TRUE,all.y=FALSE)
-ESGMV1 <- merge(ESGMV1,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID2,all.x=TRUE,all.y=FALSE)
-ESGMV2 <- merge(ESGMV2,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID1,all.x=TRUE,all.y=FALSE)
-ESGMV2 <- merge(ESGMV2,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID2,all.x=TRUE,all.y=FALSE)
-ESGMV3 <- merge(ESGMV3,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID1,all.x=TRUE,all.y=FALSE)
-ESGMV3 <- merge(ESGMV3,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID2,all.x=TRUE,all.y=FALSE)
-ESGMV4 <- merge(ESGMV4,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID1,all.x=TRUE,all.y=FALSE)
-ESGMV4 <- merge(ESGMV4,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID2,all.x=TRUE,all.y=FALSE)
-ESGMV5 <- merge(ESGMV5,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID1,all.x=TRUE,all.y=FALSE)
-ESGMV5 <- merge(ESGMV5,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID2,all.x=TRUE,all.y=FALSE)
-ESGMV6 <- merge(ESGMV6,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID1,all.x=TRUE,all.y=FALSE)
-ESGMV6 <- merge(ESGMV6,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID2,all.x=TRUE,all.y=FALSE)
+ESGMV1 <- merge(ESGMV1,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGMV1 <- merge(ESGMV1,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGMV2 <- merge(ESGMV2,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGMV2 <- merge(ESGMV2,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGMV3 <- merge(ESGMV3,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGMV3 <- merge(ESGMV3,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGMV4 <- merge(ESGMV4,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGMV4 <- merge(ESGMV4,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGMV5 <- merge(ESGMV5,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGMV5 <- merge(ESGMV5,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGMV6 <- merge(ESGMV6,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGMV6 <- merge(ESGMV6,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
 
-ESGMV12 <- merge(ESGMV12,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID1,all.x=TRUE,all.y=FALSE)
-ESGMV12 <- merge(ESGMV12,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID2,all.x=TRUE,all.y=FALSE)
-ESGMV22 <- merge(ESGMV22,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID1,all.x=TRUE,all.y=FALSE)
-ESGMV22 <- merge(ESGMV22,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID2,all.x=TRUE,all.y=FALSE)
-ESGMV32 <- merge(ESGMV32,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID1,all.x=TRUE,all.y=FALSE)
-ESGMV32 <- merge(ESGMV32,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID2,all.x=TRUE,all.y=FALSE)
-ESGMV42 <- merge(ESGMV42,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID1,all.x=TRUE,all.y=FALSE)
-ESGMV42 <- merge(ESGMV42,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID2,all.x=TRUE,all.y=FALSE)
-ESGMV52 <- merge(ESGMV52,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID1,all.x=TRUE,all.y=FALSE)
-ESGMV52 <- merge(ESGMV52,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID2,all.x=TRUE,all.y=FALSE)
-ESGMV62 <- merge(ESGMV62,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID1,all.x=TRUE,all.y=FALSE)
-ESGMV62 <- merge(ESGMV62,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID2,all.x=TRUE,all.y=FALSE)
+ESGMV12 <- merge(ESGMV12,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGMV12 <- merge(ESGMV12,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGMV22 <- merge(ESGMV22,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGMV22 <- merge(ESGMV22,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGMV32 <- merge(ESGMV32,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGMV32 <- merge(ESGMV32,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGMV42 <- merge(ESGMV42,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGMV42 <- merge(ESGMV42,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGMV52 <- merge(ESGMV52,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGMV52 <- merge(ESGMV52,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGMV62 <- merge(ESGMV62,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGMV62 <- merge(ESGMV62,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
 
 #subset
-ESGMV12 <- ESGMV12[ESGMV12$GROUPID1="42" & ESGMV12$GROUPID1="43" & ESGMV12$GROUPID1="44" ,]
-ESGMV22 <- ESGMV22[ESGMV12$GROUPID1="42" & ESGMV12$GROUPID1="43" & ESGMV12$GROUPID1="44" ,]
-ESGMV32 <- ESGMV32[ESGMV12$GROUPID1="42" & ESGMV12$GROUPID1="43" & ESGMV12$GROUPID1="44" ,]
-ESGMV42 <- ESGMV42[ESGMV12$GROUPID1="42" & ESGMV12$GROUPID1="43" & ESGMV12$GROUPID1="44" ,]
-ESGMV52 <- ESGMV52[ESGMV12$GROUPID1="42" & ESGMV12$GROUPID1="43" & ESGMV12$GROUPID1="44" ,]
-ESGMV62 <- ESGMV62[ESGMV12$GROUPID1="42" & ESGMV12$GROUPID1="43" & ESGMV12$GROUPID1="44" ,]
+ESGMV12 <- ESGMV12[ESGMV12$GROUP_ID1=="42" | ESGMV12$GROUP_ID1=="43" | ESGMV12$GROUP_ID1=="44" | 
+                     ESGMV12$GROUP_ID2=="42" | ESGMV12$GROUP_ID2=="43" | ESGMV12$GROUP_ID2=="44" , ]
+ESGMV22 <- ESGMV22[ESGMV22$GROUP_ID1=="42" | ESGMV22$GROUP_ID1=="43" | ESGMV22$GROUP_ID1=="44" | 
+                     ESGMV22$GROUP_ID2=="42" | ESGMV22$GROUP_ID2=="43" | ESGMV22$GROUP_ID2=="44" , ]
+ESGMV32 <- ESGMV32[ESGMV32$GROUP_ID1=="42" | ESGMV32$GROUP_ID1=="43" | ESGMV32$GROUP_ID1=="44" | 
+                     ESGMV32$GROUP_ID2=="42" | ESGMV32$GROUP_ID2=="43" | ESGMV32$GROUP_ID2=="44" , ]
+ESGMV42 <- ESGMV42[ESGMV42$GROUP_ID1=="42" | ESGMV42$GROUP_ID1=="43" | ESGMV42$GROUP_ID1=="44" | 
+                     ESGMV42$GROUP_ID2=="42" | ESGMV42$GROUP_ID2=="43" | ESGMV42$GROUP_ID2=="44" , ]
+ESGMV52 <- ESGMV52[ESGMV52$GROUP_ID1=="42" | ESGMV52$GROUP_ID1=="43" | ESGMV52$GROUP_ID1=="44" | 
+                     ESGMV52$GROUP_ID2=="42" | ESGMV52$GROUP_ID2=="43" | ESGMV52$GROUP_ID2=="44" , ]
+ESGMV62 <- ESGMV62[ESGMV62$GROUP_ID1=="42" | ESGMV62$GROUP_ID1=="43" | ESGMV62$GROUP_ID1=="44" | 
+                     ESGMV62$GROUP_ID2=="42" | ESGMV62$GROUP_ID2=="43" | ESGMV62$GROUP_ID2=="44" , ]
+
+# Delete cosine similarity between ESG docs themselves
+ESGMV12$filter1 <- ifelse(ESGMV12$GROUP_TYPE.x=="ESG",1,0)
+ESGMV12$filter2 <- ifelse(ESGMV12$GROUP_TYPE.y=="ESG",1,0)
+ESGMV12 <- ESGMV12[ESGMV12$filter1>0 | ESGMV12$filter2>0, ]
+
+ESGMV22$filter1 <- ifelse(ESGMV22$GROUP_TYPE.x=="ESG",1,0)
+ESGMV22$filter2 <- ifelse(ESGMV22$GROUP_TYPE.y=="ESG",1,0)
+ESGMV22 <- ESGMV22[ESGMV22$filter1>0 | ESGMV22$filter2>0, ]
+
+ESGMV32$filter1 <- ifelse(ESGMV32$GROUP_TYPE.x=="ESG",1,0)
+ESGMV32$filter2 <- ifelse(ESGMV32$GROUP_TYPE.y=="ESG",1,0)
+ESGMV32 <- ESGMV32[ESGMV32$filter1>0 | ESGMV32$filter2>0, ]
+
+ESGMV42$filter1 <- ifelse(ESGMV42$GROUP_TYPE.x=="ESG",1,0)
+ESGMV42$filter2 <- ifelse(ESGMV42$GROUP_TYPE.y=="ESG",1,0)
+ESGMV42 <- ESGMV42[ESGMV42$filter1>0 | ESGMV42$filter2>0, ]
+
+ESGMV52$filter1 <- ifelse(ESGMV52$GROUP_TYPE.x=="ESG",1,0)
+ESGMV52$filter2 <- ifelse(ESGMV52$GROUP_TYPE.y=="ESG",1,0)
+ESGMV52 <- ESGMV52[ESGMV52$filter1>0 | ESGMV52$filter2>0, ]
+
+ESGMV62$filter1 <- ifelse(ESGMV62$GROUP_TYPE.x=="ESG",1,0)
+ESGMV62$filter2 <- ifelse(ESGMV62$GROUP_TYPE.y=="ESG",1,0)
+ESGMV62 <- ESGMV62[ESGMV62$filter1>0 | ESGMV62$filter2>0, ]
+
+# Set the Mandatory variable right (M)
+ESGMV12$M <- ifelse(ESGMV12$REGION.y=="International",ESGMV12$M.x,ESGMV12$M.y)
+ESGMV12$M <- ifelse(ESGMV12$M==1,0,1)
+ESGMV12$M <- as.factor(ESGMV12$M)
+
+ESGMV22$M <- ifelse(ESGMV22$REGION.y=="International",ESGMV22$M.x,ESGMV22$M.y)
+ESGMV22$M <- ifelse(ESGMV22$M==1,0,1)
+ESGMV22$M <- as.factor(ESGMV22$M)
+
+ESGMV32$M <- ifelse(ESGMV32$REGION.y=="International",ESGMV32$M.x,ESGMV32$M.y)
+ESGMV32$M <- ifelse(ESGMV32$M==1,0,1)
+ESGMV32$M <- as.factor(ESGMV32$M)
+
+ESGMV42$M <- ifelse(ESGMV42$REGION.y=="International",ESGMV42$M.x,ESGMV42$M.y)
+ESGMV42$M <- ifelse(ESGMV42$M==1,0,1)
+ESGMV42$M <- as.factor(ESGMV42$M)
+
+ESGMV52$M <- ifelse(ESGMV52$REGION.y=="International",ESGMV52$M.x,ESGMV52$M.y)
+ESGMV52$M <- ifelse(ESGMV52$M==1,0,1)
+ESGMV52$M <- as.factor(ESGMV52$M)
+
+ESGMV62$M <- ifelse(ESGMV62$REGION.y=="International",ESGMV62$M.x,ESGMV62$M.y)
+ESGMV62$M <- ifelse(ESGMV62$M==1,0,1)
+ESGMV62$M <- as.factor(ESGMV62$M)
 
 # Calculate average
-AESGMV1 <- ESGMV1 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
-AESGMV2 <- ESGMV2 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
-AESGMV3 <- ESGMV3 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
-AESGMV4 <- ESGMV4 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
-AESGMV5 <- ESGMV5 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
-AESGMV6 <- ESGMV6 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
+AESGMV1 <- ESGMV1 %>% group_by(M.x) %>% summarise(avg_cosine=mean(cosine))
+AESGMV2 <- ESGMV2 %>% group_by(M.x) %>% summarise(avg_cosine=mean(cosine))
+AESGMV3 <- ESGMV3 %>% group_by(M.x) %>% summarise(avg_cosine=mean(cosine))
+AESGMV4 <- ESGMV4 %>% group_by(M.x) %>% summarise(avg_cosine=mean(cosine))
+AESGMV5 <- ESGMV5 %>% group_by(M.x) %>% summarise(avg_cosine=mean(cosine))
+AESGMV6 <- ESGMV6 %>% group_by(M.x) %>% summarise(avg_cosine=mean(cosine))
 
 AESGMV12 <- ESGMV12 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
 AESGMV22 <- ESGMV22 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
@@ -765,54 +853,110 @@ ESGGM52 <- rbind(ESGM52,GM52)
 ESGGM62 <- rbind(ESGM62,GM62)
 
 # Merge with metadata
-ESGGM1 <- merge(ESGGM1,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID1,all.x=TRUE,all.y=FALSE)
-ESGGM1 <- merge(ESGGM1,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID2,all.x=TRUE,all.y=FALSE)
-ESGGM2 <- merge(ESGGM2,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID1,all.x=TRUE,all.y=FALSE)
-ESGGM2 <- merge(ESGGM2,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID2,all.x=TRUE,all.y=FALSE)
-ESGGM3 <- merge(ESGGM3,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID1,all.x=TRUE,all.y=FALSE)
-ESGGM3 <- merge(ESGGM3,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID2,all.x=TRUE,all.y=FALSE)
-ESGGM4 <- merge(ESGGM4,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID1,all.x=TRUE,all.y=FALSE)
-ESGGM4 <- merge(ESGGM4,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID2,all.x=TRUE,all.y=FALSE)
-ESGGM5 <- merge(ESGGM5,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID1,all.x=TRUE,all.y=FALSE)
-ESGGM5 <- merge(ESGGM5,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID2,all.x=TRUE,all.y=FALSE)
-ESGGM6 <- merge(ESGGM6,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID1,all.x=TRUE,all.y=FALSE)
-ESGGM6 <- merge(ESGGM6,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID2,all.x=TRUE,all.y=FALSE)
+ESGGM1 <- merge(ESGGM1,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGGM1 <- merge(ESGGM1,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGGM2 <- merge(ESGGM2,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGGM2 <- merge(ESGGM2,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGGM3 <- merge(ESGGM3,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGGM3 <- merge(ESGGM3,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGGM4 <- merge(ESGGM4,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGGM4 <- merge(ESGGM4,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGGM5 <- merge(ESGGM5,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGGM5 <- merge(ESGGM5,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGGM6 <- merge(ESGGM6,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGGM6 <- merge(ESGGM6,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
 
-ESGGM12 <- merge(ESGGM12,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID1,all.x=TRUE,all.y=FALSE)
-ESGGM12 <- merge(ESGGM12,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID2,all.x=TRUE,all.y=FALSE)
-ESGGM22 <- merge(ESGGM22,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID1,all.x=TRUE,all.y=FALSE)
-ESGGM22 <- merge(ESGGM22,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID2,all.x=TRUE,all.y=FALSE)
-ESGGM32 <- merge(ESGGM32,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID1,all.x=TRUE,all.y=FALSE)
-ESGGM32 <- merge(ESGGM32,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID2,all.x=TRUE,all.y=FALSE)
-ESGGM42 <- merge(ESGGM42,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID1,all.x=TRUE,all.y=FALSE)
-ESGGM42 <- merge(ESGGM42,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID2,all.x=TRUE,all.y=FALSE)
-ESGGM52 <- merge(ESGGM52,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID1,all.x=TRUE,all.y=FALSE)
-ESGGM52 <- merge(ESGGM52,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID2,all.x=TRUE,all.y=FALSE)
-ESGGM62 <- merge(ESGGM62,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID1,all.x=TRUE,all.y=FALSE)
-ESGGM62 <- merge(ESGGM62,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID2,all.x=TRUE,all.y=FALSE)
+ESGGM12 <- merge(ESGGM12,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGGM12 <- merge(ESGGM12,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGGM22 <- merge(ESGGM22,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGGM22 <- merge(ESGGM22,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGGM32 <- merge(ESGGM32,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGGM32 <- merge(ESGGM32,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGGM42 <- merge(ESGGM42,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGGM42 <- merge(ESGGM42,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGGM52 <- merge(ESGGM52,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGGM52 <- merge(ESGGM52,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGGM62 <- merge(ESGGM62,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGGM62 <- merge(ESGGM62,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
 
 #subset
-ESGGM12 <- ESGGM12[ESGGM12$GROUPID1="42" & ESGGM12$GROUPID1="43" & ESGGM12$GROUPID1="44" ,]
-ESGGM22 <- ESGGM22[ESGGM12$GROUPID1="42" & ESGGM12$GROUPID1="43" & ESGGM12$GROUPID1="44" ,]
-ESGGM32 <- ESGGM32[ESGGM12$GROUPID1="42" & ESGGM12$GROUPID1="43" & ESGGM12$GROUPID1="44" ,]
-ESGGM42 <- ESGGM42[ESGGM12$GROUPID1="42" & ESGGM12$GROUPID1="43" & ESGGM12$GROUPID1="44" ,]
-ESGGM52 <- ESGGM52[ESGGM12$GROUPID1="42" & ESGGM12$GROUPID1="43" & ESGGM12$GROUPID1="44" ,]
-ESGGM62 <- ESGGM62[ESGGM12$GROUPID1="42" & ESGGM12$GROUPID1="43" & ESGGM12$GROUPID1="44" ,]
+ESGGM12 <- ESGGM12[ESGGM12$GROUP_ID1=="42" | ESGGM12$GROUP_ID1=="43" | ESGGM12$GROUP_ID1=="44" | 
+                     ESGGM12$GROUP_ID2=="42" | ESGGM12$GROUP_ID2=="43" | ESGGM12$GROUP_ID2=="44" , ]
+ESGGM22 <- ESGGM22[ESGGM22$GROUP_ID1=="42" | ESGGM22$GROUP_ID1=="43" | ESGGM22$GROUP_ID1=="44" | 
+                     ESGGM22$GROUP_ID2=="42" | ESGGM22$GROUP_ID2=="43" | ESGGM22$GROUP_ID2=="44" , ]
+ESGGM32 <- ESGGM32[ESGGM32$GROUP_ID1=="42" | ESGGM32$GROUP_ID1=="43" | ESGGM32$GROUP_ID1=="44" | 
+                     ESGGM32$GROUP_ID2=="42" | ESGGM32$GROUP_ID2=="43" | ESGGM32$GROUP_ID2=="44" , ]
+ESGGM42 <- ESGGM42[ESGGM42$GROUP_ID1=="42" | ESGGM42$GROUP_ID1=="43" | ESGGM42$GROUP_ID1=="44" | 
+                     ESGGM42$GROUP_ID2=="42" | ESGGM42$GROUP_ID2=="43" | ESGGM42$GROUP_ID2=="44" , ]
+ESGGM52 <- ESGGM52[ESGGM52$GROUP_ID1=="42" | ESGGM52$GROUP_ID1=="43" | ESGGM52$GROUP_ID1=="44" | 
+                     ESGGM52$GROUP_ID2=="42" | ESGGM52$GROUP_ID2=="43" | ESGGM52$GROUP_ID2=="44" , ]
+ESGGM62 <- ESGGM62[ESGGM62$GROUP_ID1=="42" | ESGGM62$GROUP_ID1=="43" | ESGGM62$GROUP_ID1=="44" | 
+                     ESGGM62$GROUP_ID2=="42" | ESGGM62$GROUP_ID2=="43" | ESGGM62$GROUP_ID2=="44" , ]
+
+# Delete cosine similarity between ESG docs themselves
+ESGGM12$filter1 <- ifelse(ESGGM12$REGION.x=="International",0,1)
+ESGGM12$filter2 <- ifelse(ESGGM12$REGION.y=="International",0,1)
+ESGGM12 <- ESGGM12[ESGGM12$filter1>0 | ESGGM12$filter2>0, ]
+
+ESGGM22$filter1 <- ifelse(ESGGM22$REGION.x=="International",0,1)
+ESGGM22$filter2 <- ifelse(ESGGM22$REGION.y=="International",0,1)
+ESGGM22 <- ESGGM22[ESGGM22$filter1>0 | ESGGM22$filter2>0, ]
+
+ESGGM32$filter1 <- ifelse(ESGGM32$REGION.x=="International",0,1)
+ESGGM32$filter2 <- ifelse(ESGGM32$REGION.y=="International",0,1)
+ESGGM32 <- ESGGM32[ESGGM32$filter1>0 | ESGGM32$filter2>0, ]
+
+ESGGM42$filter1 <- ifelse(ESGGM42$REGION.x=="International",0,1)
+ESGGM42$filter2 <- ifelse(ESGGM42$REGION.y=="International",0,1)
+ESGGM42 <- ESGGM42[ESGGM42$filter1>0 | ESGGM42$filter2>0, ]
+
+ESGGM52$filter1 <- ifelse(ESGGM52$REGION.x=="International",0,1)
+ESGGM52$filter2 <- ifelse(ESGGM52$REGION.y=="International",0,1)
+ESGGM52 <- ESGGM52[ESGGM52$filter1>0 | ESGGM52$filter2>0, ]
+
+ESGGM62$filter1 <- ifelse(ESGGM62$REGION.x=="International",0,1)
+ESGGM62$filter2 <- ifelse(ESGGM62$REGION.y=="International",0,1)
+ESGGM62 <- ESGGM62[ESGGM62$filter1>0 | ESGGM62$filter2>0, ]
+
+# Set the GROUP TYPE variable right (ESG or G)
+ESGGM12$GROUP_TYPE <- ifelse(ESGGM12$REGION.y=="International",ESGGM12$GROUP_TYPE.x,ESGGM12$GROUP_TYPE.y)
+ESGGM12$GROUP_TYPE <- ifelse(ESGGM12$GROUP_TYPE==2,"ESG","G")
+ESGGM12$GROUP_TYPE <- as.factor(ESGGM12$GROUP_TYPE)
+
+ESGGM22$GROUP_TYPE <- ifelse(ESGGM22$REGION.y=="International",ESGGM22$GROUP_TYPE.x,ESGGM22$GROUP_TYPE.y)
+ESGGM22$GROUP_TYPE <- ifelse(ESGGM22$GROUP_TYPE==2,"ESG","G")
+ESGGM22$GROUP_TYPE <- as.factor(ESGGM22$GROUP_TYPE)
+
+ESGGM32$GROUP_TYPE <- ifelse(ESGGM32$REGION.y=="International",ESGGM32$GROUP_TYPE.x,ESGGM32$GROUP_TYPE.y)
+ESGGM32$GROUP_TYPE <- ifelse(ESGGM32$GROUP_TYPE==2,"ESG","G")
+ESGGM32$GROUP_TYPE <- as.factor(ESGGM32$GROUP_TYPE)
+
+ESGGM42$GROUP_TYPE <- ifelse(ESGGM42$REGION.y=="International",ESGGM42$GROUP_TYPE.x,ESGGM42$GROUP_TYPE.y)
+ESGGM42$GROUP_TYPE <- ifelse(ESGGM42$GROUP_TYPE==2,"ESG","G")
+ESGGM42$GROUP_TYPE <- as.factor(ESGGM42$GROUP_TYPE)
+
+ESGGM52$GROUP_TYPE <- ifelse(ESGGM52$REGION.y=="International",ESGGM52$GROUP_TYPE.x,ESGGM52$GROUP_TYPE.y)
+ESGGM52$GROUP_TYPE <- ifelse(ESGGM52$GROUP_TYPE==2,"ESG","G")
+ESGGM52$GROUP_TYPE <- as.factor(ESGGM52$GROUP_TYPE)
+
+ESGGM62$GROUP_TYPE <- ifelse(ESGGM62$REGION.y=="International",ESGGM62$GROUP_TYPE.x,ESGGM62$GROUP_TYPE.y)
+ESGGM62$GROUP_TYPE <- ifelse(ESGGM62$GROUP_TYPE==2,"ESG","G")
+ESGGM62$GROUP_TYPE <- as.factor(ESGGM62$GROUP_TYPE)
 
 # Calculate average
-AESGGM1 <- ESGGM1 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
-AESGGM2 <- ESGGM2 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
-AESGGM3 <- ESGGM3 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
-AESGGM4 <- ESGGM4 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
-AESGGM5 <- ESGGM5 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
-AESGGM6 <- ESGGM6 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
+AESGGM1 <- ESGGM1 %>% group_by(GROUP_TYPE.x) %>% summarise(avg_cosine=mean(cosine))
+AESGGM2 <- ESGGM2 %>% group_by(GROUP_TYPE.x) %>% summarise(avg_cosine=mean(cosine))
+AESGGM3 <- ESGGM3 %>% group_by(GROUP_TYPE.x) %>% summarise(avg_cosine=mean(cosine))
+AESGGM4 <- ESGGM4 %>% group_by(GROUP_TYPE.x) %>% summarise(avg_cosine=mean(cosine))
+AESGGM5 <- ESGGM5 %>% group_by(GROUP_TYPE.x) %>% summarise(avg_cosine=mean(cosine))
+AESGGM6 <- ESGGM6 %>% group_by(GROUP_TYPE.x) %>% summarise(avg_cosine=mean(cosine))
 
-AESGGM12 <- ESGGM12 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
-AESGGM22 <- ESGGM22 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
-AESGGM32 <- ESGGM32 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
-AESGGM42 <- ESGGM42 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
-AESGGM52 <- ESGGM52 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
-AESGGM62 <- ESGGM62 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
+AESGGM12 <- ESGGM12 %>% group_by(GROUP_TYPE) %>% summarise(avg_cosine=mean(cosine))
+AESGGM22 <- ESGGM22 %>% group_by(GROUP_TYPE) %>% summarise(avg_cosine=mean(cosine))
+AESGGM32 <- ESGGM32 %>% group_by(GROUP_TYPE) %>% summarise(avg_cosine=mean(cosine))
+AESGGM42 <- ESGGM42 %>% group_by(GROUP_TYPE) %>% summarise(avg_cosine=mean(cosine))
+AESGGM52 <- ESGGM52 %>% group_by(GROUP_TYPE) %>% summarise(avg_cosine=mean(cosine))
+AESGGM62 <- ESGGM62 %>% group_by(GROUP_TYPE) %>% summarise(avg_cosine=mean(cosine))
 
 # ESG Voluntary and E voluntary -------------------------------------------------------------------------------------------------------------------
 ESGEV1 <- rbind(ESGV1,EV1)
@@ -830,87 +974,211 @@ ESGEV52 <- rbind(ESGV52,EV52)
 ESGEV62 <- rbind(ESGV62,EV62)
 
 # Merge with metadata
-ESGEV1 <- merge(ESGEV1,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID1,all.x=TRUE,all.y=FALSE)
-ESGEV1 <- merge(ESGEV1,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID2,all.x=TRUE,all.y=FALSE)
-ESGEV2 <- merge(ESGEV2,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID1,all.x=TRUE,all.y=FALSE)
-ESGEV2 <- merge(ESGEV2,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID2,all.x=TRUE,all.y=FALSE)
-ESGEV3 <- merge(ESGEV3,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID1,all.x=TRUE,all.y=FALSE)
-ESGEV3 <- merge(ESGEV3,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID2,all.x=TRUE,all.y=FALSE)
-ESGEV4 <- merge(ESGEV4,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID1,all.x=TRUE,all.y=FALSE)
-ESGEV4 <- merge(ESGEV4,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID2,all.x=TRUE,all.y=FALSE)
-ESGEV5 <- merge(ESGEV5,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID1,all.x=TRUE,all.y=FALSE)
-ESGEV5 <- merge(ESGEV5,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID2,all.x=TRUE,all.y=FALSE)
-ESGEV6 <- merge(ESGEV6,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID1,all.x=TRUE,all.y=FALSE)
-ESGEV6 <- merge(ESGEV6,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID2,all.x=TRUE,all.y=FALSE)
+ESGEV1 <- merge(ESGEV1,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGEV1 <- merge(ESGEV1,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGEV2 <- merge(ESGEV2,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGEV2 <- merge(ESGEV2,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGEV3 <- merge(ESGEV3,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGEV3 <- merge(ESGEV3,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGEV4 <- merge(ESGEV4,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGEV4 <- merge(ESGEV4,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGEV5 <- merge(ESGEV5,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGEV5 <- merge(ESGEV5,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGEV6 <- merge(ESGEV6,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGEV6 <- merge(ESGEV6,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
 
-ESGEV12 <- merge(ESGEV12,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID1,all.x=TRUE,all.y=FALSE)
-ESGEV12 <- merge(ESGEV12,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID2,all.x=TRUE,all.y=FALSE)
-ESGEV22 <- merge(ESGEV22,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID1,all.x=TRUE,all.y=FALSE)
-ESGEV22 <- merge(ESGEV22,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID2,all.x=TRUE,all.y=FALSE)
-ESGEV32 <- merge(ESGEV32,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID1,all.x=TRUE,all.y=FALSE)
-ESGEV32 <- merge(ESGEV32,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID2,all.x=TRUE,all.y=FALSE)
-ESGEV42 <- merge(ESGEV42,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID1,all.x=TRUE,all.y=FALSE)
-ESGEV42 <- merge(ESGEV42,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID2,all.x=TRUE,all.y=FALSE)
-ESGEV52 <- merge(ESGEV52,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID1,all.x=TRUE,all.y=FALSE)
-ESGEV52 <- merge(ESGEV52,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID2,all.x=TRUE,all.y=FALSE)
-ESGEV62 <- merge(ESGEV62,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID1,all.x=TRUE,all.y=FALSE)
-ESGEV62 <- merge(ESGEV62,Group_Data, by.x=GROUP_ID1,by.y=GROUP_ID2,all.x=TRUE,all.y=FALSE)
+ESGEV12 <- merge(ESGEV12,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGEV12 <- merge(ESGEV12,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGEV22 <- merge(ESGEV22,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGEV22 <- merge(ESGEV22,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGEV32 <- merge(ESGEV32,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGEV32 <- merge(ESGEV32,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGEV42 <- merge(ESGEV42,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGEV42 <- merge(ESGEV42,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGEV52 <- merge(ESGEV52,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGEV52 <- merge(ESGEV52,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGEV62 <- merge(ESGEV62,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGEV62 <- merge(ESGEV62,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
 
 #subset
-ESGEV12 <- ESGEV12[ESGEV12$GROUPID1="42" & ESGEV12$GROUPID1="43" & ESGEV12$GROUPID1="44" ,]
-ESGEV22 <- ESGEV22[ESGEV12$GROUPID1="42" & ESGEV12$GROUPID1="43" & ESGEV12$GROUPID1="44" ,]
-ESGEV32 <- ESGEV32[ESGEV12$GROUPID1="42" & ESGEV12$GROUPID1="43" & ESGEV12$GROUPID1="44" ,]
-ESGEV42 <- ESGEV42[ESGEV12$GROUPID1="42" & ESGEV12$GROUPID1="43" & ESGEV12$GROUPID1="44" ,]
-ESGEV52 <- ESGEV52[ESGEV12$GROUPID1="42" & ESGEV12$GROUPID1="43" & ESGEV12$GROUPID1="44" ,]
-ESGEV62 <- ESGEV62[ESGEV12$GROUPID1="42" & ESGEV12$GROUPID1="43" & ESGEV12$GROUPID1="44" ,]
+ESGEV12 <- ESGEV12[ESGEV12$GROUP_ID1=="42" | ESGEV12$GROUP_ID1=="43" | ESGEV12$GROUP_ID1=="44" | 
+                     ESGEV12$GROUP_ID2=="42" | ESGEV12$GROUP_ID2=="43" | ESGEV12$GROUP_ID2=="44" , ]
+ESGEV22 <- ESGEV22[ESGEV22$GROUP_ID1=="42" | ESGEV22$GROUP_ID1=="43" | ESGEV22$GROUP_ID1=="44" | 
+                     ESGEV22$GROUP_ID2=="42" | ESGEV22$GROUP_ID2=="43" | ESGEV22$GROUP_ID2=="44" , ]
+ESGEV32 <- ESGEV32[ESGEV32$GROUP_ID1=="42" | ESGEV32$GROUP_ID1=="43" | ESGEV32$GROUP_ID1=="44" | 
+                     ESGEV32$GROUP_ID2=="42" | ESGEV32$GROUP_ID2=="43" | ESGEV32$GROUP_ID2=="44" , ]
+ESGEV42 <- ESGEV42[ESGEV42$GROUP_ID1=="42" | ESGEV42$GROUP_ID1=="43" | ESGEV42$GROUP_ID1=="44" | 
+                     ESGEV42$GROUP_ID2=="42" | ESGEV42$GROUP_ID2=="43" | ESGEV42$GROUP_ID2=="44" , ]
+ESGEV52 <- ESGEV52[ESGEV52$GROUP_ID1=="42" | ESGEV52$GROUP_ID1=="43" | ESGEV52$GROUP_ID1=="44" | 
+                     ESGEV52$GROUP_ID2=="42" | ESGEV52$GROUP_ID2=="43" | ESGEV52$GROUP_ID2=="44" , ]
+ESGEV62 <- ESGEV62[ESGEV62$GROUP_ID1=="42" | ESGEV62$GROUP_ID1=="43" | ESGEV62$GROUP_ID1=="44" | 
+                     ESGEV62$GROUP_ID2=="42" | ESGEV62$GROUP_ID2=="43" | ESGEV62$GROUP_ID2=="44" , ]
 
+# Delete cosine similarity between ESG docs themselves
+ESGEV12$filter1 <- ifelse(ESGEV12$REGION.x=="International",0,1)
+ESGEV12$filter2 <- ifelse(ESGEV12$REGION.y=="International",0,1)
+ESGEV12 <- ESGEV12[ESGEV12$filter1>0 | ESGEV12$filter2>0, ]
+
+ESGEV22$filter1 <- ifelse(ESGEV22$REGION.x=="International",0,1)
+ESGEV22$filter2 <- ifelse(ESGEV22$REGION.y=="International",0,1)
+ESGEV22 <- ESGEV22[ESGEV22$filter1>0 | ESGEV22$filter2>0, ]
+
+ESGEV32$filter1 <- ifelse(ESGEV32$REGION.x=="International",0,1)
+ESGEV32$filter2 <- ifelse(ESGEV32$REGION.y=="International",0,1)
+ESGEV32 <- ESGEV32[ESGEV32$filter1>0 | ESGEV32$filter2>0, ]
+
+ESGEV42$filter1 <- ifelse(ESGEV42$REGION.x=="International",0,1)
+ESGEV42$filter2 <- ifelse(ESGEV42$REGION.y=="International",0,1)
+ESGEV42 <- ESGEV42[ESGEV42$filter1>0 | ESGEV42$filter2>0, ]
+
+ESGEV52$filter1 <- ifelse(ESGEV52$REGION.x=="International",0,1)
+ESGEV52$filter2 <- ifelse(ESGEV52$REGION.y=="International",0,1)
+ESGEV52 <- ESGEV52[ESGEV52$filter1>0 | ESGEV52$filter2>0, ]
+
+ESGEV62$filter1 <- ifelse(ESGEV62$REGION.x=="International",0,1)
+ESGEV62$filter2 <- ifelse(ESGEV62$REGION.y=="International",0,1)
+ESGEV62 <- ESGEV62[ESGEV62$filter1>0 | ESGEV62$filter2>0, ]
+
+# Set the GROUP TYPE variable right (ESG or E)
+ESGEV12$GROUP_TYPE <- ifelse(ESGEV12$REGION.y=="International",ESGEV12$GROUP_TYPE.x,ESGEV12$GROUP_TYPE.y)
+ESGEV12$GROUP_TYPE <- ifelse(ESGEV12$GROUP_TYPE==2,"ESG","E")
+ESGEV12$GROUP_TYPE <- as.factor(ESGEV12$GROUP_TYPE)
+
+ESGEV22$GROUP_TYPE <- ifelse(ESGEV22$REGION.y=="International",ESGEV22$GROUP_TYPE.x,ESGEV22$GROUP_TYPE.y)
+ESGEV22$GROUP_TYPE <- ifelse(ESGEV22$GROUP_TYPE==2,"ESG","E")
+ESGEV22$GROUP_TYPE <- as.factor(ESGEV22$GROUP_TYPE)
+
+ESGEV32$GROUP_TYPE <- ifelse(ESGEV32$REGION.y=="International",ESGEV32$GROUP_TYPE.x,ESGEV32$GROUP_TYPE.y)
+ESGEV32$GROUP_TYPE <- ifelse(ESGEV32$GROUP_TYPE==2,"ESG","E")
+ESGEV32$GROUP_TYPE <- as.factor(ESGEV32$GROUP_TYPE)
+
+ESGEV42$GROUP_TYPE <- ifelse(ESGEV42$REGION.y=="International",ESGEV42$GROUP_TYPE.x,ESGEV42$GROUP_TYPE.y)
+ESGEV42$GROUP_TYPE <- ifelse(ESGEV42$GROUP_TYPE==2,"ESG","E")
+ESGEV42$GROUP_TYPE <- as.factor(ESGEV42$GROUP_TYPE)
+
+ESGEV52$GROUP_TYPE <- ifelse(ESGEV52$REGION.y=="International",ESGEV52$GROUP_TYPE.x,ESGEV52$GROUP_TYPE.y)
+ESGEV52$GROUP_TYPE <- ifelse(ESGEV52$GROUP_TYPE==2,"ESG","E")
+ESGEV52$GROUP_TYPE <- as.factor(ESGEV52$GROUP_TYPE)
+
+ESGEV62$GROUP_TYPE <- ifelse(ESGEV62$REGION.y=="International",ESGEV62$GROUP_TYPE.x,ESGEV62$GROUP_TYPE.y)
+ESGEV62$GROUP_TYPE <- ifelse(ESGEV62$GROUP_TYPE==2,"ESG","E")
+ESGEV62$GROUP_TYPE <- as.factor(ESGEV62$GROUP_TYPE)
 
 # Calculate average
-AESGEV1 <- ESGEV1 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
-AESGEV2 <- ESGEV2 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
-AESGEV3 <- ESGEV3 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
-AESGEV4 <- ESGEV4 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
-AESGEV5 <- ESGEV5 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
-AESGEV6 <- ESGEV6 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
+AESGEV1 <- ESGEV1 %>% group_by(GROUP_TYPE.x) %>% summarise(avg_cosine=mean(cosine))
+AESGEV2 <- ESGEV2 %>% group_by(GROUP_TYPE.x) %>% summarise(avg_cosine=mean(cosine))
+AESGEV3 <- ESGEV3 %>% group_by(GROUP_TYPE.x) %>% summarise(avg_cosine=mean(cosine))
+AESGEV4 <- ESGEV4 %>% group_by(GROUP_TYPE.x) %>% summarise(avg_cosine=mean(cosine))
+AESGEV5 <- ESGEV5 %>% group_by(GROUP_TYPE.x) %>% summarise(avg_cosine=mean(cosine))
+AESGEV6 <- ESGEV6 %>% group_by(GROUP_TYPE.x) %>% summarise(avg_cosine=mean(cosine))
 
-AESGEV12 <- ESGEV12 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
-AESGEV22 <- ESGEV22 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
-AESGEV32 <- ESGEV32 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
-AESGEV42 <- ESGEV42 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
-AESGEV52 <- ESGEV52 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
-AESGEV62 <- ESGEV62 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
+AESGEV12 <- ESGEV12 %>% group_by(GROUP_TYPE) %>% summarise(avg_cosine=mean(cosine))
+AESGEV22 <- ESGEV22 %>% group_by(GROUP_TYPE) %>% summarise(avg_cosine=mean(cosine))
+AESGEV32 <- ESGEV32 %>% group_by(GROUP_TYPE) %>% summarise(avg_cosine=mean(cosine))
+AESGEV42 <- ESGEV42 %>% group_by(GROUP_TYPE) %>% summarise(avg_cosine=mean(cosine))
+AESGEV52 <- ESGEV52 %>% group_by(GROUP_TYPE) %>% summarise(avg_cosine=mean(cosine))
+AESGEV62 <- ESGEV62 %>% group_by(GROUP_TYPE) %>% summarise(avg_cosine=mean(cosine))
+
 
 # ESG Both ----------------------------------------------------------------------------------------------------------------------------------
 # Merge with metadata
-ESGB1 <- merge(ESGB1,Group_Data, by.x=GROUP_ID,by.y=GROUP_ID,all.x=TRUE,all.y=FALSE)
-ESGB2 <- merge(ESGB2,Group_Data, by.x=GROUP_ID,by.y=GROUP_ID,all.x=TRUE,all.y=FALSE)
-ESGB3 <- merge(ESGB3,Group_Data, by.x=GROUP_ID,by.y=GROUP_ID,all.x=TRUE,all.y=FALSE)
-ESGB4 <- merge(ESGB4,Group_Data, by.x=GROUP_ID,by.y=GROUP_ID,all.x=TRUE,all.y=FALSE)
-ESGB5 <- merge(ESGB5,Group_Data, by.x=GROUP_ID,by.y=GROUP_ID,all.x=TRUE,all.y=FALSE)
-ESGB6 <- merge(ESGB6,Group_Data, by.x=GROUP_ID,by.y=GROUP_ID,all.x=TRUE,all.y=FALSE)
+ESGB1 <- merge(ESGB1,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGB1 <- merge(ESGB1,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGB2 <- merge(ESGB2,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGB2 <- merge(ESGB2,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGB3 <- merge(ESGB3,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGB3 <- merge(ESGB3,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGB4 <- merge(ESGB4,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGB4 <- merge(ESGB4,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGB5 <- merge(ESGB5,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGB5 <- merge(ESGB5,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGB6 <- merge(ESGB6,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGB6 <- merge(ESGB6,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
 
-ESGB12 <- merge(ESGB12,Group_Data, by.x=GROUP_ID,by.y=GROUP_ID,all.x=TRUE,all.y=FALSE)
-ESGB22 <- merge(ESGB22,Group_Data, by.x=GROUP_ID,by.y=GROUP_ID,all.x=TRUE,all.y=FALSE)
-ESGB32 <- merge(ESGB32,Group_Data, by.x=GROUP_ID,by.y=GROUP_ID,all.x=TRUE,all.y=FALSE)
-ESGB42 <- merge(ESGB42,Group_Data, by.x=GROUP_ID,by.y=GROUP_ID,all.x=TRUE,all.y=FALSE)
-ESGB52 <- merge(ESGB52,Group_Data, by.x=GROUP_ID,by.y=GROUP_ID,all.x=TRUE,all.y=FALSE)
-ESGB62 <- merge(ESGB62,Group_Data, by.x=GROUP_ID,by.y=GROUP_ID,all.x=TRUE,all.y=FALSE)
+ESGB12 <- merge(ESGB12,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGB12 <- merge(ESGB12,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGB22 <- merge(ESGB22,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGB22 <- merge(ESGB22,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGB32 <- merge(ESGB32,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGB32 <- merge(ESGB32,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGB42 <- merge(ESGB42,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGB42 <- merge(ESGB42,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGB52 <- merge(ESGB52,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGB52 <- merge(ESGB52,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGB62 <- merge(ESGB62,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGB62 <- merge(ESGB62,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
 
 #subset
-ESGB12 <- ESGB12[ESGB12$GROUP_ID="42" & ESGB12$GROUP_ID="43" & ESGB12$GROUP_ID="44" ,]
-ESGB22 <- ESGB22[ESGB12$GROUP_ID="42" & ESGB12$GROUP_ID="43" & ESGB12$GROUP_ID="44" ,]
-ESGB32 <- ESGB32[ESGB12$GROUP_ID="42" & ESGB12$GROUP_ID="43" & ESGB12$GROUP_ID="44" ,]
-ESGB42 <- ESGB42[ESGB12$GROUP_ID="42" & ESGB12$GROUP_ID="43" & ESGB12$GROUP_ID="44" ,]
-ESGB52 <- ESGB52[ESGB12$GROUP_ID="42" & ESGB12$GROUP_ID="43" & ESGB12$GROUP_ID="44" ,]
-ESGB62 <- ESGB62[ESGB12$GROUP_ID="42" & ESGB12$GROUP_ID="43" & ESGB12$GROUP_ID="44" ,]
+ESGB12 <- ESGB12[ESGB12$GROUP_ID1=="42" | ESGB12$GROUP_ID1=="43" | ESGB12$GROUP_ID1=="44" | 
+                     ESGB12$GROUP_ID2=="42" | ESGB12$GROUP_ID2=="43" | ESGB12$GROUP_ID2=="44" , ]
+ESGB22 <- ESGB22[ESGB22$GROUP_ID1=="42" | ESGB22$GROUP_ID1=="43" | ESGB22$GROUP_ID1=="44" | 
+                     ESGB22$GROUP_ID2=="42" | ESGB22$GROUP_ID2=="43" | ESGB22$GROUP_ID2=="44" , ]
+ESGB32 <- ESGB32[ESGB32$GROUP_ID1=="42" | ESGB32$GROUP_ID1=="43" | ESGB32$GROUP_ID1=="44" | 
+                     ESGB32$GROUP_ID2=="42" | ESGB32$GROUP_ID2=="43" | ESGB32$GROUP_ID2=="44" , ]
+ESGB42 <- ESGB42[ESGB42$GROUP_ID1=="42" | ESGB42$GROUP_ID1=="43" | ESGB42$GROUP_ID1=="44" | 
+                     ESGB42$GROUP_ID2=="42" | ESGB42$GROUP_ID2=="43" | ESGB42$GROUP_ID2=="44" , ]
+ESGB52 <- ESGB52[ESGB52$GROUP_ID1=="42" | ESGB52$GROUP_ID1=="43" | ESGB52$GROUP_ID1=="44" | 
+                     ESGB52$GROUP_ID2=="42" | ESGB52$GROUP_ID2=="43" | ESGB52$GROUP_ID2=="44" , ]
+ESGB62 <- ESGB62[ESGB62$GROUP_ID1=="42" | ESGB62$GROUP_ID1=="43" | ESGB62$GROUP_ID1=="44" | 
+                     ESGB62$GROUP_ID2=="42" | ESGB62$GROUP_ID2=="43" | ESGB62$GROUP_ID2=="44" , ]
+
+# Delete cosine similarity between ESG docs themselves
+ESGB12$filter1 <- ifelse(ESGB12$GROUP_TYPE.x=="ESG",1,0)
+ESGB12$filter2 <- ifelse(ESGB12$GROUP_TYPE.y=="ESG",1,0)
+ESGB12 <- ESGB12[ESGB12$filter1>0 | ESGB12$filter2>0, ]
+
+ESGB22$filter1 <- ifelse(ESGB22$GROUP_TYPE.x=="ESG",1,0)
+ESGB22$filter2 <- ifelse(ESGB22$GROUP_TYPE.y=="ESG",1,0)
+ESGB22 <- ESGB22[ESGB22$filter1>0 | ESGB22$filter2>0, ]
+
+ESGB32$filter1 <- ifelse(ESGB32$GROUP_TYPE.x=="ESG",1,0)
+ESGB32$filter2 <- ifelse(ESGB32$GROUP_TYPE.y=="ESG",1,0)
+ESGB32 <- ESGB32[ESGB32$filter1>0 | ESGB32$filter2>0, ]
+
+ESGB42$filter1 <- ifelse(ESGB42$GROUP_TYPE.x=="ESG",1,0)
+ESGB42$filter2 <- ifelse(ESGB42$GROUP_TYPE.y=="ESG",1,0)
+ESGB42 <- ESGB42[ESGB42$filter1>0 | ESGB42$filter2>0, ]
+
+ESGB52$filter1 <- ifelse(ESGB52$GROUP_TYPE.x=="ESG",1,0)
+ESGB52$filter2 <- ifelse(ESGB52$GROUP_TYPE.y=="ESG",1,0)
+ESGB52 <- ESGB52[ESGB52$filter1>0 | ESGB52$filter2>0, ]
+
+ESGB62$filter1 <- ifelse(ESGB62$GROUP_TYPE.x=="ESG",1,0)
+ESGB62$filter2 <- ifelse(ESGB62$GROUP_TYPE.y=="ESG",1,0)
+ESGB62 <- ESGB62[ESGB62$filter1>0 | ESGB62$filter2>0, ]
+
+# Set the Mandatory variable right (M)
+ESGB12$M <- ifelse(ESGB12$REGION.y=="International",ESGB12$M.x,ESGB12$M.y)
+ESGB12$M <- ifelse(ESGB12$M==1,0,1)
+ESGB12$M <- as.factor(ESGB12$M)
+
+ESGB22$M <- ifelse(ESGB22$REGION.y=="International",ESGB22$M.x,ESGB22$M.y)
+ESGB22$M <- ifelse(ESGB22$M==1,0,1)
+ESGB22$M <- as.factor(ESGB22$M)
+
+ESGB32$M <- ifelse(ESGB32$REGION.y=="International",ESGB32$M.x,ESGB32$M.y)
+ESGB32$M <- ifelse(ESGB32$M==1,0,1)
+ESGB32$M <- as.factor(ESGB32$M)
+
+ESGB42$M <- ifelse(ESGB42$REGION.y=="International",ESGB42$M.x,ESGB42$M.y)
+ESGB42$M <- ifelse(ESGB42$M==1,0,1)
+ESGB42$M <- as.factor(ESGB42$M)
+
+ESGB52$M <- ifelse(ESGB52$REGION.y=="International",ESGB52$M.x,ESGB52$M.y)
+ESGB52$M <- ifelse(ESGB52$M==1,0,1)
+ESGB52$M <- as.factor(ESGB52$M)
+
+ESGB62$M <- ifelse(ESGB62$REGION.y=="International",ESGB62$M.x,ESGB62$M.y)
+ESGB62$M <- ifelse(ESGB62$M==1,0,1)
+ESGB62$M <- as.factor(ESGB62$M)
 
 # Calculate average
-AESGB1 <- ESGB1 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
-AESGB2 <- ESGB2 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
-AESGB3 <- ESGB3 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
-AESGB4 <- ESGB4 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
-AESGB5 <- ESGB5 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
-AESGB6 <- ESGB6 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
+AESGB1 <- ESGB1 %>% group_by(M.x) %>% summarise(avg_cosine=mean(cosine))
+AESGB2 <- ESGB2 %>% group_by(M.x) %>% summarise(avg_cosine=mean(cosine))
+AESGB3 <- ESGB3 %>% group_by(M.x) %>% summarise(avg_cosine=mean(cosine))
+AESGB4 <- ESGB4 %>% group_by(M.x) %>% summarise(avg_cosine=mean(cosine))
+AESGB5 <- ESGB5 %>% group_by(M.x) %>% summarise(avg_cosine=mean(cosine))
+AESGB6 <- ESGB6 %>% group_by(M.x) %>% summarise(avg_cosine=mean(cosine))
 
 AESGB12 <- ESGB12 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
 AESGB22 <- ESGB22 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
@@ -919,36 +1187,107 @@ AESGB42 <- ESGB42 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
 AESGB52 <- ESGB52 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
 AESGB62 <- ESGB62 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
 
-# ESG Voluntary ---------------------------------------------------------------------
-ESGV1 <- merge(ESGV1,Group_Data, by.x=GROUP_ID,by.y=GROUP_ID,all.x=TRUE,all.y=FALSE)
-ESGV2 <- merge(ESGV2,Group_Data, by.x=GROUP_ID,by.y=GROUP_ID,all.x=TRUE,all.y=FALSE)
-ESGV3 <- merge(ESGV3,Group_Data, by.x=GROUP_ID,by.y=GROUP_ID,all.x=TRUE,all.y=FALSE)
-ESGV4 <- merge(ESGV4,Group_Data, by.x=GROUP_ID,by.y=GROUP_ID,all.x=TRUE,all.y=FALSE)
-ESGV5 <- merge(ESGV5,Group_Data, by.x=GROUP_ID,by.y=GROUP_ID,all.x=TRUE,all.y=FALSE)
-ESGV6 <- merge(ESGV6,Group_Data, by.x=GROUP_ID,by.y=GROUP_ID,all.x=TRUE,all.y=FALSE)
 
-ESGV12 <- merge(ESGV12,Group_Data, by.x=GROUP_ID,by.y=GROUP_ID,all.x=TRUE,all.y=FALSE)
-ESGV22 <- merge(ESGV22,Group_Data, by.x=GROUP_ID,by.y=GROUP_ID,all.x=TRUE,all.y=FALSE)
-ESGV32 <- merge(ESGV32,Group_Data, by.x=GROUP_ID,by.y=GROUP_ID,all.x=TRUE,all.y=FALSE)
-ESGV42 <- merge(ESGV42,Group_Data, by.x=GROUP_ID,by.y=GROUP_ID,all.x=TRUE,all.y=FALSE)
-ESGV52 <- merge(ESGV52,Group_Data, by.x=GROUP_ID,by.y=GROUP_ID,all.x=TRUE,all.y=FALSE)
-ESGV62 <- merge(ESGV62,Group_Data, by.x=GROUP_ID,by.y=GROUP_ID,all.x=TRUE,all.y=FALSE)
+# ESG Voluntary ---------------------------------------------------------------------
+# Merge with metadata
+ESGV1 <- merge(ESGV1,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGV1 <- merge(ESGV1,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGV2 <- merge(ESGV2,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGV2 <- merge(ESGV2,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGV3 <- merge(ESGV3,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGV3 <- merge(ESGV3,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGV4 <- merge(ESGV4,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGV4 <- merge(ESGV4,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGV5 <- merge(ESGV5,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGV5 <- merge(ESGV5,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGV6 <- merge(ESGV6,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGV6 <- merge(ESGV6,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+
+ESGV12 <- merge(ESGV12,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGV12 <- merge(ESGV12,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGV22 <- merge(ESGV22,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGV22 <- merge(ESGV22,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGV32 <- merge(ESGV32,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGV32 <- merge(ESGV32,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGV42 <- merge(ESGV42,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGV42 <- merge(ESGV42,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGV52 <- merge(ESGV52,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGV52 <- merge(ESGV52,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGV62 <- merge(ESGV62,Group_Data, by.x="GROUP_ID1",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
+ESGV62 <- merge(ESGV62,Group_Data, by.x="GROUP_ID2",by.y="GROUP_ID",all.x=TRUE,all.y=FALSE)
 
 #subset
-ESGV12 <- ESGV12[ESGV12$GROUP_ID="42" & ESGV12$GROUP_ID="43" & ESGV12$GROUP_ID="44" ,]
-ESGV22 <- ESGV22[ESGV12$GROUP_ID="42" & ESGV12$GROUP_ID="43" & ESGV12$GROUP_ID="44" ,]
-ESGV32 <- ESGV32[ESGV12$GROUP_ID="42" & ESGV12$GROUP_ID="43" & ESGV12$GROUP_ID="44" ,]
-ESGV42 <- ESGV42[ESGV12$GROUP_ID="42" & ESGV12$GROUP_ID="43" & ESGV12$GROUP_ID="44" ,]
-ESGV52 <- ESGV52[ESGV12$GROUP_ID="42" & ESGV12$GROUP_ID="43" & ESGV12$GROUP_ID="44" ,]
-ESGV62 <- ESGV62[ESGV12$GROUP_ID="42" & ESGV12$GROUP_ID="43" & ESGV12$GROUP_ID="44" ,]
+ESGV12 <- ESGV12[ESGV12$GROUP_ID1=="42" | ESGV12$GROUP_ID1=="43" | ESGV12$GROUP_ID1=="44" | 
+                     ESGV12$GROUP_ID2=="42" | ESGV12$GROUP_ID2=="43" | ESGV12$GROUP_ID2=="44" , ]
+ESGV22 <- ESGV22[ESGV22$GROUP_ID1=="42" | ESGV22$GROUP_ID1=="43" | ESGV22$GROUP_ID1=="44" | 
+                     ESGV22$GROUP_ID2=="42" | ESGV22$GROUP_ID2=="43" | ESGV22$GROUP_ID2=="44" , ]
+ESGV32 <- ESGV32[ESGV32$GROUP_ID1=="42" | ESGV32$GROUP_ID1=="43" | ESGV32$GROUP_ID1=="44" | 
+                     ESGV32$GROUP_ID2=="42" | ESGV32$GROUP_ID2=="43" | ESGV32$GROUP_ID2=="44" , ]
+ESGV42 <- ESGV42[ESGV42$GROUP_ID1=="42" | ESGV42$GROUP_ID1=="43" | ESGV42$GROUP_ID1=="44" | 
+                     ESGV42$GROUP_ID2=="42" | ESGV42$GROUP_ID2=="43" | ESGV42$GROUP_ID2=="44" , ]
+ESGV52 <- ESGV52[ESGV52$GROUP_ID1=="42" | ESGV52$GROUP_ID1=="43" | ESGV52$GROUP_ID1=="44" | 
+                     ESGV52$GROUP_ID2=="42" | ESGV52$GROUP_ID2=="43" | ESGV52$GROUP_ID2=="44" , ]
+ESGV62 <- ESGV62[ESGV62$GROUP_ID1=="42" | ESGV62$GROUP_ID1=="43" | ESGV62$GROUP_ID1=="44" | 
+                     ESGV62$GROUP_ID2=="42" | ESGV62$GROUP_ID2=="43" | ESGV62$GROUP_ID2=="44" , ]
+
+# Delete cosine similarity between ESG docs themselves
+ESGV12$filter1 <- ifelse(ESGV12$GROUP_TYPE.x=="ESG",1,0)
+ESGV12$filter2 <- ifelse(ESGV12$GROUP_TYPE.y=="ESG",1,0)
+ESGV12 <- ESGV12[ESGV12$filter1>0 | ESGV12$filter2>0, ]
+
+ESGV22$filter1 <- ifelse(ESGV22$GROUP_TYPE.x=="ESG",1,0)
+ESGV22$filter2 <- ifelse(ESGV22$GROUP_TYPE.y=="ESG",1,0)
+ESGV22 <- ESGV22[ESGV22$filter1>0 | ESGV22$filter2>0, ]
+
+ESGV32$filter1 <- ifelse(ESGV32$GROUP_TYPE.x=="ESG",1,0)
+ESGV32$filter2 <- ifelse(ESGV32$GROUP_TYPE.y=="ESG",1,0)
+ESGV32 <- ESGV32[ESGV32$filter1>0 | ESGV32$filter2>0, ]
+
+ESGV42$filter1 <- ifelse(ESGV42$GROUP_TYPE.x=="ESG",1,0)
+ESGV42$filter2 <- ifelse(ESGV42$GROUP_TYPE.y=="ESG",1,0)
+ESGV42 <- ESGV42[ESGV42$filter1>0 | ESGV42$filter2>0, ]
+
+ESGV52$filter1 <- ifelse(ESGV52$GROUP_TYPE.x=="ESG",1,0)
+ESGV52$filter2 <- ifelse(ESGV52$GROUP_TYPE.y=="ESG",1,0)
+ESGV52 <- ESGV52[ESGV52$filter1>0 | ESGV52$filter2>0, ]
+
+ESGV62$filter1 <- ifelse(ESGV62$GROUP_TYPE.x=="ESG",1,0)
+ESGV62$filter2 <- ifelse(ESGV62$GROUP_TYPE.y=="ESG",1,0)
+ESGV62 <- ESGV62[ESGV62$filter1>0 | ESGV62$filter2>0, ]
+
+# Set the ESG listing variable right (ESG_LISTING_RULE)
+ESGV12$ESG_LISTING_RULE <- ifelse(ESGV12$REGION.y=="International",ESGV12$ESG_LISTING_RULE.x,ESGV12$ESG_LISTING_RULE.y)
+ESGV12$ESG_LISTING_RULE <- ifelse(ESGV12$ESG_LISTING_RULE==1,0,1)
+ESGV12$ESG_LISTING_RULE <- as.factor(ESGV12$ESG_LISTING_RULE)
+
+ESGV22$ESG_LISTING_RULE <- ifelse(ESGV22$REGION.y=="International",ESGV22$ESG_LISTING_RULE.x,ESGV22$ESG_LISTING_RULE.y)
+ESGV22$ESG_LISTING_RULE <- ifelse(ESGV22$ESG_LISTING_RULE==1,0,1)
+ESGV22$ESG_LISTING_RULE <- as.factor(ESGV22$ESG_LISTING_RULE)
+
+ESGV32$ESG_LISTING_RULE <- ifelse(ESGV32$REGION.y=="International",ESGV32$ESG_LISTING_RULE.x,ESGV32$ESG_LISTING_RULE.y)
+ESGV32$ESG_LISTING_RULE <- ifelse(ESGV32$ESG_LISTING_RULE==1,0,1)
+ESGV32$ESG_LISTING_RULE <- as.factor(ESGV32$ESG_LISTING_RULE)
+
+ESGV42$ESG_LISTING_RULE <- ifelse(ESGV42$REGION.y=="International",ESGV42$ESG_LISTING_RULE.x,ESGV42$ESG_LISTING_RULE.y)
+ESGV42$ESG_LISTING_RULE <- ifelse(ESGV42$ESG_LISTING_RULE==1,0,1)
+ESGV42$ESG_LISTING_RULE <- as.factor(ESGV42$ESG_LISTING_RULE)
+
+ESGV52$ESG_LISTING_RULE <- ifelse(ESGV52$REGION.y=="International",ESGV52$ESG_LISTING_RULE.x,ESGV52$ESG_LISTING_RULE.y)
+ESGV52$ESG_LISTING_RULE <- ifelse(ESGV52$ESG_LISTING_RULE==1,0,1)
+ESGV52$ESG_LISTING_RULE <- as.factor(ESGV52$ESG_LISTING_RULE)
+
+ESGV62$ESG_LISTING_RULE <- ifelse(ESGV62$REGION.y=="International",ESGV62$ESG_LISTING_RULE.x,ESGV62$ESG_LISTING_RULE.y)
+ESGV62$ESG_LISTING_RULE <- ifelse(ESGV62$ESG_LISTING_RULE==1,0,1)
+ESGV62$ESG_LISTING_RULE <- as.factor(ESGV62$ESG_LISTING_RULE)
+
 
 # Calculate average
-AESGV1 <- ESGV1 %>% group_by(ESG_LISTING_RULE) %>% summarise(avg_cosine=mean(cosine))
-AESGV2 <- ESGV2 %>% group_by(ESG_LISTING_RULE) %>% summarise(avg_cosine=mean(cosine))
-AESGV3 <- ESGV3 %>% group_by(ESG_LISTING_RULE) %>% summarise(avg_cosine=mean(cosine))
-AESGV4 <- ESGV4 %>% group_by(ESG_LISTING_RULE) %>% summarise(avg_cosine=mean(cosine))
-AESGV5 <- ESGV5 %>% group_by(ESG_LISTING_RULE) %>% summarise(avg_cosine=mean(cosine))
-AESGV6 <- ESGV6 %>% group_by(ESG_LISTING_RULE) %>% summarise(avg_cosine=mean(cosine))
+AESGV1 <- ESGV1 %>% group_by(ESG_LISTING_RULE.y) %>% summarise(avg_cosine=mean(cosine))
+AESGV2 <- ESGV2 %>% group_by(ESG_LISTING_RULE.y) %>% summarise(avg_cosine=mean(cosine))
+AESGV3 <- ESGV3 %>% group_by(ESG_LISTING_RULE.y) %>% summarise(avg_cosine=mean(cosine))
+AESGV4 <- ESGV4 %>% group_by(ESG_LISTING_RULE.y) %>% summarise(avg_cosine=mean(cosine))
+AESGV5 <- ESGV5 %>% group_by(ESG_LISTING_RULE.y) %>% summarise(avg_cosine=mean(cosine))
+AESGV6 <- ESGV6 %>% group_by(ESG_LISTING_RULE.y) %>% summarise(avg_cosine=mean(cosine))
 
 AESGV12 <- ESGV12 %>% group_by(ESG_LISTING_RULE) %>% summarise(avg_cosine=mean(cosine))
 AESGV22 <- ESGV22 %>% group_by(ESG_LISTING_RULE) %>% summarise(avg_cosine=mean(cosine))
@@ -963,12 +1302,12 @@ AESGV62 <- ESGV62 %>% group_by(ESG_LISTING_RULE) %>% summarise(avg_cosine=mean(c
 Perform a regression to test for significance in differences
 ```{r}
 # ESG Mandatory and ESG Voluntary
-model1 <- lm(cosine~M, data = ESGMV1)
-model2 <- lm(cosine~M, data = ESGMV2)
-model3 <- lm(cosine~M, data = ESGMV3)
-model4 <- lm(cosine~M, data = ESGMV4)
-model5 <- lm(cosine~M, data = ESGMV5)
-model6 <- lm(cosine~M, data = ESGMV6)
+model1 <- lm(cosine~M.x, data = ESGMV1)
+model2 <- lm(cosine~M.x, data = ESGMV2)
+model3 <- lm(cosine~M.x, data = ESGMV3)
+model4 <- lm(cosine~M.x, data = ESGMV4)
+model5 <- lm(cosine~M.x, data = ESGMV5)
+model6 <- lm(cosine~M.x, data = ESGMV6)
 
 model12 <- lm(cosine~M, data = ESGMV12)
 model22 <- lm(cosine~M, data = ESGMV22)
@@ -992,19 +1331,19 @@ summary(model52)
 summary(model62)
 
 # ESG Mandatory and G Mandatory
-modelx1 <- lm(cosine~GROUP_TYPE data = ESGGM1)
-modelx2 <- lm(cosine~GROUP_TYPE data = ESGGM2)
-modelx3 <- lm(cosine~GROUP_TYPE data = ESGGM3)
-modelx4 <- lm(cosine~GROUP_TYPE data = ESGGM4)
-modelx5 <- lm(cosine~GROUP_TYPE data = ESGGM5)
-modelx6 <- lm(cosine~GROUP_TYPE data = ESGGM6)
+modelx1 <- lm(cosine~GROUP_TYPE.x, data = ESGGM1)
+modelx2 <- lm(cosine~GROUP_TYPE.x, data = ESGGM2)
+modelx3 <- lm(cosine~GROUP_TYPE.x, data = ESGGM3)
+modelx4 <- lm(cosine~GROUP_TYPE.x, data = ESGGM4)
+modelx5 <- lm(cosine~GROUP_TYPE.x, data = ESGGM5)
+modelx6 <- lm(cosine~GROUP_TYPE.x, data = ESGGM6)
 
-modelx12 <- lm(cosine~GROUP_TYPE data = ESGGM12)
-modelx22 <- lm(cosine~GROUP_TYPE data = ESGGM22)
-modelx32 <- lm(cosine~GROUP_TYPE data = ESGGM32)
-modelx42 <- lm(cosine~GROUP_TYPE data = ESGGM42)
-modelx52 <- lm(cosine~GROUP_TYPE data = ESGGM52)
-modelx62 <- lm(cosine~GROUP_TYPE data = ESGGM62)
+modelx12 <- lm(cosine~GROUP_TYPE, data = ESGGM12)
+modelx22 <- lm(cosine~GROUP_TYPE, data = ESGGM22)
+modelx32 <- lm(cosine~GROUP_TYPE, data = ESGGM32)
+modelx42 <- lm(cosine~GROUP_TYPE, data = ESGGM42)
+modelx52 <- lm(cosine~GROUP_TYPE, data = ESGGM52)
+modelx62 <- lm(cosine~GROUP_TYPE, data = ESGGM62)
 
 summary(modelx1)
 summary(modelx2)
@@ -1021,19 +1360,19 @@ summary(modelx52)
 summary(modelx62)
 
 # ESG Voluntary and E Voluntary
-modely1 <- lm(cosine~GROUP_TYPE, data = ESGEV1)
-modely2 <- lm(cosine~GROUP_TYPE data = ESGEV2)
-modely3 <- lm(cosine~GROUP_TYPE data = ESGEV3)
-modely4 <- lm(cosine~GROUP_TYPE data = ESGEV4)
-modely5 <- lm(cosine~GROUP_TYPE data = ESGEV5)
-modely6 <- lm(cosine~GROUP_TYPE data = ESGEV6)
+modely1 <- lm(cosine~GROUP_TYPE.x, data = ESGEV1)
+modely2 <- lm(cosine~GROUP_TYPE.x, data = ESGEV2)
+modely3 <- lm(cosine~GROUP_TYPE.x, data = ESGEV3)
+modely4 <- lm(cosine~GROUP_TYPE.x, data = ESGEV4)
+modely5 <- lm(cosine~GROUP_TYPE.x, data = ESGEV5)
+modely6 <- lm(cosine~GROUP_TYPE.x, data = ESGEV6)
 
-modely12 <- lm(cosine~GROUP_TYPE data = ESGEV12)
-modely22 <- lm(cosine~GROUP_TYPE data = ESGEV22)
-modely32 <- lm(cosine~GROUP_TYPE data = ESGEV32)
-modely42 <- lm(cosine~GROUP_TYPE data = ESGEV42)
-modely52 <- lm(cosine~GROUP_TYPE data = ESGEV52)
-modely62 <- lm(cosine~GROUP_TYPE data = ESGEV62)
+modely12 <- lm(cosine~GROUP_TYPE, data = ESGEV12)
+modely22 <- lm(cosine~GROUP_TYPE, data = ESGEV22)
+modely32 <- lm(cosine~GROUP_TYPE, data = ESGEV32)
+modely42 <- lm(cosine~GROUP_TYPE, data = ESGEV42)
+modely52 <- lm(cosine~GROUP_TYPE, data = ESGEV52)
+modely62 <- lm(cosine~GROUP_TYPE, data = ESGEV62)
 
 summary(modely1)
 summary(modely2)
@@ -1051,12 +1390,12 @@ summary(modely62)
 
 # ESG Both
 # ESG Mandatory and ESG Voluntary
-modelz1 <- lm(cosine~M, data = ESGB1)
-modelz2 <- lm(cosine~M, data = ESGB2)
-modelz3 <- lm(cosine~M, data = ESGB3)
-modelz4 <- lm(cosine~M, data = ESGB4)
-modelz5 <- lm(cosine~M, data = ESGB5)
-modelz6 <- lm(cosine~M, data = ESGB6)
+modelz1 <- lm(cosine~M.x, data = ESGB1)
+modelz2 <- lm(cosine~M.x, data = ESGB2)
+modelz3 <- lm(cosine~M.x, data = ESGB3)
+modelz4 <- lm(cosine~M.x, data = ESGB4)
+modelz5 <- lm(cosine~M.x, data = ESGB5)
+modelz6 <- lm(cosine~M.x, data = ESGB6)
 
 modelz12 <- lm(cosine~M, data = ESGB12)
 modelz22 <- lm(cosine~M, data = ESGB22)
@@ -1079,13 +1418,13 @@ summary(modelz42)
 summary(modelz52)
 summary(modelz62)
 
-# E Voluntary with focus on ESG listing rule
-modela1 <- lm(cosine~ESG_LISTING_RULE, data = ESGV1)
-modela2 <- lm(cosine~ESG_LISTING_RULE, data = ESGV2)
-modela3 <- lm(cosine~ESG_LISTING_RULE, data = ESGV3)
-modela4 <- lm(cosine~ESG_LISTING_RULE, data = ESGV4)
-modela5 <- lm(cosine~ESG_LISTING_RULE, data = ESGV5)
-modela6 <- lm(cosine~ESG_LISTING_RULE, data = ESGV6)
+# ESG Voluntary with focus on ESG listing rule
+modela1 <- lm(cosine~ESG_LISTING_RULE.y, data = ESGV1)
+modela2 <- lm(cosine~ESG_LISTING_RULE.y, data = ESGV2)
+modela3 <- lm(cosine~ESG_LISTING_RULE.y, data = ESGV3)
+modela4 <- lm(cosine~ESG_LISTING_RULE.y, data = ESGV4)
+modela5 <- lm(cosine~ESG_LISTING_RULE.y, data = ESGV5)
+modela6 <- lm(cosine~ESG_LISTING_RULE.y, data = ESGV6)
 
 modela12 <- lm(cosine~ESG_LISTING_RULE, data = ESGV12)
 modela22 <- lm(cosine~ESG_LISTING_RULE, data = ESGV22)
@@ -1110,15 +1449,14 @@ summary(modela62)
 ```
 
 #H4. ESG keywords analysis
+Hypothesis 4 focuses on the frequency of ESG key topics among the 4 groups (ESG-M, ESG-V, E-V, G-V). It is examined if certain document groups contain significantly more ESG key topics. In order to construct a list with ESG key topics, a document with either E, S, or G metrics is used. Metrics in this document are categorized by theme and type (E/S/G). Instead of using all the words that are used to describe the metric, the text is tokenized and only the most important terms are kept. This is to make sure that the data does not contain too much generic words that do not specificely identify the metric (for example stop words like "the" "and" or generic verbs like "have" "can"). The importance of words is determined by calculating the log_TFIDF of every token in a ESG metric text document. Subsequently, the highest ranked words are selected. This is done manually, to avoid that there are still generic words in the ESG key word list. A total of 41 ESG metrics is used, and they are categorized among 15 ESG themes. This meta data on the metrics is contained in the file "Meta_Data_Metrics.csv" and will be merged with the tokenized text. After the key ESG terms are determined per metric, they are saved in a list "Metrics_Keywords.csv". A next step is to use this list as a filter on the whole corpus of ESG, E, and G regulations (Processed_Data). There are no separate sub-samples created for this task (as opposed to H3). This is because there is no global weighting variable used, which can be influenced by the overall frequency of tokens in the sample. Instead, the total frequency of words, per metric, per GROUP_ID document is calculated, and transformed to log2. Log transformation is applied because of the varying document length. 
 
 ## Select ESG key topics
-Use the ESG Metrics documents to define the key words for every ESG metric. Importance of a ESG key metric is determined by looking at the key expressions with the highest TF. Use the metrics data for this. 
+Use the Metrics_Data.RData to define the key words for every ESG metric. Importance of an ESG key word is determined by looking at the key expressions with the highest log TFIDF. The final selection is checked manually, to avoid generic terms being included as an ESG key term. 
 ```{r include=FALSE}
 library(readr)
 Meta_Data_Metrics <- read_delim("Meta_Data_Metrics.csv", 
     delim = ";", escape_double = FALSE, trim_ws = TRUE)
-Metrics_Keywords <- read_delim("Metrics_Keywords.csv",
-    delim = ";", escape_double = FALSE, trim_ws=TRUE)
 ```
 
 The meta data is merged with the metrics data
@@ -1168,6 +1506,10 @@ Metrics_Data_Grouped$row_num <- seq.int(nrow(Metrics_Data_Grouped))
 Metrics_Data_Grouped <- merge(Metrics_Data_Grouped,Meta_Data_Metrics,by.x = "doc_id", by.y = "DOC_ID", all.x = TRUE)
 Metrics_Data_Grouped <- Metrics_Data_Grouped[Metrics_Data_Grouped$lemma!="can", ]
 
+# Load in list to filter on
+Metrics_Keywords <- read_delim("Metrics_Keywords.csv",
+    delim = ";", escape_double = FALSE, trim_ws=TRUE)
+
 # Filter the data frame based on the list with the most important key terms 
 Metrics_Data_Grouped <- merge(Metrics_Data_Grouped,Metrics_Keywords, by.x="doc_id", by.y ="doc_id",all.x = TRUE)
 
@@ -1182,15 +1524,15 @@ colnames(Metrics_Data_Grouped)[18] <- "THEME_TYPE"
 Metrics_Data_Grouped <- Metrics_Data_Grouped[ ,c("METRIC_ID","lemma","THEME_ID","CORE","THEME_TYPE","THEME","METRIC")]
 ```
 
-Subsequently, this data is merged with the Regulations data by using the lemma (the data that is already on term level and has counted term per group_id, and their corresponding global weight and overall weight). Filter out observations that do not contain a lemma from the keyword list., Subsequently, summarize by summing up frequencies that belong to the same group and the same THEME.
+Subsequently, this data is merged with the Regulations data by using the lemma (the data is Total_Sample.RData (calculated for H3) and already on term level and has counted term per group_id, and their corresponding global weight and overall weight). Filter out observations that do not contain a lemma from the keyword list. Subsequently, summarize by summing up frequencies that belong to the same GROUP_ID and the same THEME.
 ```{r}
-# Merge total sample with ESG key words. Lemma's that are not an ESG keywords are dropped from the sample (sample goes from 46574 to 9300)
+# Merge total sample with ESG key words. Lemma's that are not an ESG keywords are dropped from the sample (sample goes from 46574 to 9300 obs.)
 Keywords_Sample <- merge(Metrics_Data_Grouped,Total_Sample,by.x = "lemma",by.y = "lemma",all.x = FALSE, all.y=FALSE)
 
 # Remove duplicate lemma's within the same metric theme and the same doc group
 Keywords_Sample <- Keywords_Sample %>% distinct(GROUP_ID, lemma, THEME_ID, .keep_all= TRUE)
 
-# Summarize to get the frequency THEME per GROUP_ID
+# Summarize to get the frequency per THEME per GROUP_ID
 Keywords_Sample <- Keywords_Sample %>% group_by(GROUP_ID, THEME_ID) %>% summarise(
                   NTF = sum(TF),
                   Total_TF=max(Total_TF),
@@ -1228,7 +1570,7 @@ Keywords_Sample <- subset(Keywords_Sample, GROUP_TYPE=="G" & THEME_TYPE=="G"  |
 ```
 
 ## Calculate averages and visualize the results
-First, the average frequencies are calculated, by using several grouping variables.
+First, the average log term frequencies are calculated for different groups. 
 ```{r}
 # Average TF per THEME
 Total_THEME <- Keywords_Sample %>% group_by(THEME) %>% summarise(
@@ -1236,14 +1578,14 @@ Total_THEME <- Keywords_Sample %>% group_by(THEME) %>% summarise(
                   avgL_TF=mean(L_TF),
                   avgTFIDF=mean(LOG_TFIDF)) %>% ungroup()
 
-# Average TF per THEME TYPE
+# Average TF per THEME_TYPE
 Total_THEME_TYPE <- Keywords_Sample %>% group_by(THEME_TYPE) %>% summarise(
                   avgTF=mean(NTF),
                   avgL_TF=mean(L_TF),
                   avgTFIDF=mean(LOG_TFIDF)) %>% ungroup()
 
 # Average Log TF per GROUP_TYPE+M, by THEME
-Average_THEME <- Keywords_Sample %>% group_by(GROUP_TYPE, M, THEME, THEME_TYPE) %>% summarise(
+Average_THEME <- Keywords_Sample %>% group_by(GROUP_TYPE, M, THEME) %>% summarise(
                   avgTF=mean(NTF),
                   avgL_TF=mean(L_TF),
                   avgTFIDF=mean(LOG_TFIDF)) %>% ungroup()
@@ -1257,22 +1599,25 @@ Average_THEME_TYPE <- Keywords_Sample %>% group_by(GROUP_TYPE, M, THEME_TYPE) %>
 
 The results are visualized, to see the most important ESG key topics. In order to do this, a grouping variable is created to identify one of the 4 groups (ESG Mandatory, ESG Voluntary, E Voluntary, and G Mandatory).
 ```{r}
+# Get the GROUP_TYPE-M variable to identify each of the 4 groups easily when making graphs
+Average_THEME$GROUP <- paste(Average_THEME$GROUP_TYPE,"_",Average_THEME$M)
+Average_THEME_TYPE$GROUP <- paste(Average_THEME_TYPE$GROUP_TYPE,"_",Average_THEME_TYPE$M)
+
 library(ggplot2)
+
 # Histogram of average log frequency per theme (TOTAL THEME data)
 
 
 # Histogram of average log frequency per one of the 4 groups by theme (THEME data)
-Average_THEME$GROUP <- paste(Average_THEME$GROUP_TYPE,"_",Average_THEME$M)
-
-graph2 <-ggplot(Average_THEME, aes(x=THEME, y=avgL_TF, fill=THEME_TYPE)) +
+graph2 <-ggplot(Average_THEME, aes(x=GROUP, y=avgL_TF, fill=THEME_TYPE)) +
   geom_bar(stat="identity")+theme_minimal()
 
 # Histogram of average log frequency per one of the 4 groups by theme type (E/S/G) (THEME TYPE DATA)
-Average_THEME_TYPE$GROUP <- paste(Average_THEME_TYPE$GROUP_TYPE,"_",Average_THEME_TYPE$M)
+
 ```
 
 ## Regression
-Regression models are made to analyze frequency of ESG key topics between mandatory and voluntary regulations. Controls are added for ESG metric (on an ESG level and on a theme level), DOC GROUP, and if there is an ESG listing rule in the region of the document. 
+Regression models are made to analyze average frequency of ESG key topics between mandatory and voluntary regulations. Controls are added for ESG metric (on an ESG level and on a theme level) and for the GROUP TYPE (E,G, ESG), and if there is a stock exchange that has ESG reporting as a ESG listing rule in the region that the document applies to.  
 ```{r}
 # Set base variable for the dummy variables in the regression for easier interpretation
 Keywords_Sample <- droplevels(Keywords_Sample)
@@ -1338,7 +1683,7 @@ stargazer(modelesg7, modelesg8, modelesg9, modelesg10, modelesg11, modelesg12, t
 stargazer(modelesg12, modelesg22, modelesg32, modelesg42, modelesg52, modelesg62, type = 'text')
 ```
 
-Do the same test with robust standard errors.
+As a final check, the same regression models are calculated with robust standard errors. Robust standard errors do not influence the value of the coefficient, but can influence the signicance of a coefficient. It is a more conservatie standard error and can be used in case of hetereskedacity among the residual errors. To test if there may be hetereskedacity, the Breusch-Pagan test is applied(Breusch & Pagan, 1979)
 
 T.S. Breusch & A.R. Pagan (1979), A Simple Test for Heteroscedasticity and Random Coefficient Variation. Econometrica 47, 1287--1294
 ```{r}
@@ -1357,7 +1702,6 @@ lmtest::bptest(modelesg5)
 lmtest::bptest(modelesg6)
 
 # Remedy for heteroskedasticity: Use robust standard error. 
-
 seBasic <- sqrt (diag ( vcov(modelesg1)))
 sewhite <- sqrt (diag ( vcovHC(modelesg1, type="HC0")))
 seClust1 <- sqrt (diag ( vcovHC(modelesg1, cluster="GROUP_TYPE")))
@@ -1367,5 +1711,5 @@ stargazer(modelesg1, modelesg1, modelesg1, se=list(seBasic, sewhite, seClust1, s
 ```
 
 #Robustness Checks
-The same analysis can be done with modifications to the processed data (stemming and/or only filtering noun POS). These alternate results can be found in Data_Analysis_Robustness.Rmd
+The same analysis can be done with modifications to the processed data (only filtering noun POS). These alternate results can be found in Data_Analysis_Robustness.Rmd. 
 
