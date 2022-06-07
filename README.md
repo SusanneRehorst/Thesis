@@ -1,4 +1,4 @@
-# Thesis
+# Master Thesis - Business Analytics & Management
 This repository contains all the data files and code files that were used to derive the results of my master thesis. The following items were used in the analysis:
 
 R MARKDOWN FILES CONTAINING CODE (.RMD)
