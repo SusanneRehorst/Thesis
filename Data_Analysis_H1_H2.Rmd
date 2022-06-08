@@ -17,6 +17,7 @@ Load or install packages:
 library(dplyr)
 library(stringr)
 library(ggplot2)
+library(ggpubr)
 ```
 
 Set Working Directory
@@ -151,6 +152,32 @@ DOC_Quantity <- merge(DOC_Quantity, Country_ID, by.x = "GROUP_ID", by.y = "GROUP
 Group_Quantity <- merge(Group_Quantity, Country_ID, by.x = "GROUP_ID", by.y = "GROUP_ID", all.x = TRUE, all.y = FALSE)
 ```
 
+```{r}
+# Calculate percentage of G documents in ESG groups, by region
+G_Percentage <- DOC_Quantity %>% filter(M=="1" & GROUP_TYPE=="ESG") %>% group_by(GROUP_ID) %>% mutate(
+  stotalwords=sum(totalwords),
+  p_wgovernance=ifelse(DOC_TYPE=="G",(totalwords/stotalwords),0),
+  stotalsents=sum(sents),
+  p_sgovernance=ifelse(DOC_TYPE=="G",(sents/stotalsents),0),
+) 
+
+# Create summary table, by Region by doc type
+Q_Region_DOC <- DOC_Quantity %>% group_by(REGION, DOC_TYPE) %>% summarise(
+   w_total = sum(totalwords),
+   s_toal = sum(sents))
+
+# Create summary table, by Region by group type
+Q_Region_GROUP <- Group_Quantity %>% group_by(REGION, GROUP_TYPE, M) %>% summarise(
+   w_total = sum(totalwords),
+   s_toal = sum(sentences))
+
+G_Percentage
+Q_Region_DOC
+Q_Region_GROUP
+
+```
+
+
 ## Test if differences in quantity are significant between mandatory and voluntary regulations
 Test if differences in quantity are significant between mandatory and voluntary regulations. Also, log of totalwords and sentences is taken to create 2 new variables. This is done as a check, in case the quantity of words and sentences is heavily distributed to the  right. An indication of this can already be given if the median is lower than the mean quantity. Another way to check this is with a histogram. 
 ```{r}
@@ -161,17 +188,21 @@ plot(density(Group_Quantity$totalwords))
 plot(density(Group_Quantity$sentences))
 
 # Plots comparing distribution of mandatory vs voluntary
-plot1<- ggplot(DOC_Quantity, aes(x = sentences, fill = M)) + 
-  geom_density(alpha = 0.5)
+plot1<- ggplot(DOC_Quantity, aes(x = sents, fill = M)) + 
+  geom_density(alpha = 0.5) +
+  theme(text=element_text(size=12,  family="serif"))
 
 plot2 <- ggplot(DOC_Quantity, aes(x = totalwords, fill = M)) + 
-  geom_density(alpha = 0.5)
+  geom_density(alpha = 0.5) +
+  theme(text=element_text(size=12,  family="serif"))
 
 plot3<- ggplot(Group_Quantity, aes(x = sentences, fill = M)) + 
-  geom_density(alpha = 0.5)
+  geom_density(alpha = 0.5) +
+  theme(text=element_text(size=12,  family="serif"))
 
 plot4 <- ggplot(Group_Quantity, aes(x = totalwords, fill = M)) + 
-  geom_density(alpha = 0.5)
+  geom_density(alpha = 0.5) +
+  theme(text=element_text(size=12,  family="serif"))
 
 ggarrange(plot1, plot2, plot3, plot4)
 ```
@@ -181,22 +212,24 @@ Regression models are used to see if difference in average quantity between mand
 # Create log transformed variables
 Group_Quantity$logwords <- log(Group_Quantity$totalwords)
 Group_Quantity$logsents <- log(Group_Quantity$sentences)
+DOC_Quantity$logwords <- log(DOC_Quantity$totalwords)
+DOC_Quantity$logsents <- log(DOC_Quantity$sents)
 
 # Significance between M and V (doc level)
 model1 <- lm(totalwords ~ M+DOC_TYPE, data = DOC_Quantity)
-model2 <- lm(sentences ~ M+DOC_TYPE, data = DOC_Quantity)
+model2 <- lm(sents ~ M+DOC_TYPE, data = DOC_Quantity)
 
 # Log version
 model3 <- lm(logwords ~ M+DOC_TYPE, data = DOC_Quantity)
 model4 <- lm(logsents ~ M+DOC_TYPE, data = DOC_Quantity)
 
 # Significance between M and V (group level)
-model5 <- lm(totalwords ~ M+GROUP_TYPE, data = GROUP_Quantity)
-model6 <- lm(sentences ~ M+GROUP_TYPE, data = GROUP_Quantity)
+model5 <- lm(totalwords ~ M+GROUP_TYPE, data = Group_Quantity)
+model6 <- lm(sentences ~ M+GROUP_TYPE, data = Group_Quantity)
 
 # Log version
-model7 <- lm(logwords ~ M+GROUP_TYPE, data = GROUP_Quantity)
-model8 <- lm(logsents ~ M+GROUP_TYPE, data = GROUP_Quantity)
+model7 <- lm(logwords ~ M+GROUP_TYPE, data = Group_Quantity)
+model8 <- lm(logsents ~ M+GROUP_TYPE, data = Group_Quantity)
 
 # Significance between M and V ESG regulations
 
@@ -257,16 +290,20 @@ The difference in readability score between mandatory and voluntary documents is
 ```{r}
 # Plots comparing distribution of mandatory vs voluntary
 plot1<- ggplot(Readability, aes(x = gl, fill = M)) + 
-  geom_density(alpha = 0.5)
+  geom_density(alpha = 0.5) +
+  theme(text=element_text(size=12,  family="serif"))
 
 plot2 <- ggplot(Readability, aes(x = ari, fill = M)) + 
-  geom_density(alpha = 0.5)
+  geom_density(alpha = 0.5) +
+  theme(text=element_text(size=12,  family="serif"))
 
 plot3<- ggplot(Readability, aes(x = smog, fill = M)) + 
-  geom_density(alpha = 0.5)
+  geom_density(alpha = 0.5) +
+  theme(text=element_text(size=12,  family="serif"))
 
 plot4 <- ggplot(Readability, aes(x = cl, fill = M)) + 
-  geom_density(alpha = 0.5)
+  geom_density(alpha = 0.5) +
+  theme(text=element_text(size=12,  family="serif"))
 
 ggarrange(plot1, plot2, plot3, plot4)
 ```
@@ -302,8 +339,8 @@ summary(model16)
 summary(model17)
 ```
 
-## Average readability between documents: Mandatory or Voluntary, subset by DOC_TYPE (ESG)
-After examining the average readability score between mandotory and voluntary, this difference is examined in more detail by making a distinction in DOC_TYPE. So, if it is an ESG, G, or E document.  
+## Average readability between documents: Mandatory or Voluntary, subset by DOC_TYPE (doc level)
+After examining the average readability score between mandatory and voluntary, this difference is examined in more detail by making a distinction in DOC_TYPE. So, if it is an ESG, G, or E document.  
 ```{r}
 Readability_DOC <- Readability %>%
   group_by(DOC_TYPE, M) %>% 
@@ -329,8 +366,8 @@ Readability$log_cl <- log(Readability$cl)
 
 # Create sub-samples
 ESG_Readability_DOC <- Readability[Readability$DOC_TYPE=="ESG", ]
-M_Readability_DOC <- Readability[Readability$M=="1" & Readability$DOC_TYPE=="ESG" & Readability$DOC_TYPE=="G", ]
-V_Readability_DOC <- Readability[Readability$M=="0" & Readability$DOC_TYPE=="ESG" & Readability$DOC_TYPE=="E", ]
+M_Readability_DOC <- Readability[Readability$M=="1" & Readability$DOC_TYPE=="ESG" | Readability$M=="1" & Readability$DOC_TYPE=="G", ]
+V_Readability_DOC <- Readability[Readability$M=="0" & Readability$DOC_TYPE=="ESG" | Readability$M=="0" & Readability$DOC_TYPE=="E", ]
 
 # Test for significance - ESG Mandatory vs ESG Voluntary
 model101 <- lm(gl~M, data = ESG_Readability_DOC)
@@ -400,8 +437,8 @@ summary(model163)
 summary(model173)
 ```
 
-## Average Readability: Mandatory vs Voluntary, subset by Group Type 
-As a final part of the analysis, the differences between mandatory and voluntary are examined, while sub-setting at group type. The concept of grouping documents is already explained in the Quantity analysis part of this document. By looking at average readability within a group, the overall readability of documents is examined. So, a conclusion can be drawn on how readability is overall for a company when they read these regulations. Therefore, this group analysis also allows to draw conclusions on regional differences.  
+## Average Readability between groups: Mandatory vs Voluntary, subset by Group Type (group level)
+As a final part of the analysis, the differences between mandatory and voluntary are examined, while sub-setting at group type. The concept of grouping documents is already explained in the Quantity analysis part of this document. By looking at average readability within a group, the overall readability of documents within the same group is examined. So, a conclusion can be drawn on how readability is overall for a company when they need to apply to regulations applying to a certain region. Therefore, this group analysis also allows to draw conclusions on regional differences.  
 ```{r}
 # Group the data by Group_ID
 Group_Readability <- Readability %>%
@@ -415,7 +452,21 @@ Group_Readability <- Readability %>%
 Group_Readability <- Group_Readability[Group_Readability$GROUP_ID!="42" & Group_Readability$GROUP_ID!="43" & Group_Readability$GROUP_ID!="44", ]
 Group_Readability <- droplevels(Group_Readability)
 
-# Get summary statistics 
+# Get summary statistics by M
+Group_R_Stats_total <- Group_Readability %>%                              
+  group_by(M) %>% 
+  summarize(med_gl=median(gl),
+            med_ari=median(ari),
+            med_smog=median(smog),
+            med_cl=median(cl),
+            average_gl=mean(gl),
+            average_ari=mean(ari),
+            average_smog=mean(smog),
+            average_cl=mean(cl)) %>% ungroup()
+
+Group_R_Stats_total
+
+# Get summary statistics by M and Group Type
 Group_R_Stats <- Group_Readability %>%                              
   group_by(GROUP_TYPE, M) %>% 
   summarize(med_gl=median(gl),
@@ -430,10 +481,37 @@ Group_R_Stats <- Group_Readability %>%
 Group_R_Stats
 ```
 
-The region is added to the results on doc level and group level. This allows to examine if differences are driven by regional differences.  
+The region is added to the results on group level. This allows to examine if differences are driven by regional differences.  
 ```{r}
-Readability_DOC <- merge(Readability_DOC, Country_ID, by.x = "GROUP_ID", by.y = "GROUP_ID", all.x = TRUE, all.y = FALSE)
 Group_Readability <- merge(Group_Readability, Country_ID, by.x = "GROUP_ID", by.y = "GROUP_ID", all.x = TRUE, all.y = FALSE)
+```
+
+```{r}
+# Create summary table, by Region by doc type
+Readability_Region_DOC <- Readability %>% group_by(REGION, DOC_TYPE) %>% summarise(
+            average_gl=mean(gl),
+            average_ari=mean(ari),
+            average_smog=mean(smog),
+            average_cl=mean(cl))
+
+# Create summary table, by Region by group type
+Readability_Region_GROUP <- Group_Readability %>% group_by(REGION, GROUP_TYPE, M) %>% summarise(
+            average_gl=mean(gl),
+            average_ari=mean(ari),
+            average_smog=mean(smog),
+            average_cl=mean(cl))
+
+# Create summary table, by Region by M
+Readability_Region <- Group_Readability %>% group_by(REGION, M) %>% summarise(
+            average_gl=mean(gl),
+            average_ari=mean(ari),
+            average_smog=mean(smog),
+            average_cl=mean(cl))
+
+Readability_Region_DOC
+Readability_Region_GROUP
+Readability_Region
+
 ```
 
 Lastly, the significance is tested on a group level for readability scores. Difference is examined between mandatory and voluntary. Also, a sub-set analysis is done to test if differences are significant between certain groups. 
@@ -468,8 +546,8 @@ summary(model1711)
 
 # Create sub sample
 ESG_Group_Readability <- Group_Readability[Group_Readability$GROUP_TYPE=="ESG", ]
-M_Group_Readability <- Group_Readability[Group_Readability$M=="1", ]
-V_Group_Readability <- Group_Readability[Group_Readability$M=="0", ]
+M_Group_Readability <- Group_Readability[Group_Readability$M=="1" & Group_Readability$GROUP_TYPE=="ESG" | Group_Readability$M=="1" & Group_Readability$GROUP_TYPE=="G", ]
+V_Group_Readability <- Group_Readability[Group_Readability$M=="0" & Group_Readability$GROUP_TYPE=="ESG" | Group_Readability$M=="0" & Group_Readability$GROUP_TYPE=="E", ]
 
 # Test for significance - ESG M vs ESG V
 modelx101 <- lm(gl~M, data = ESG_Group_Readability)
@@ -540,7 +618,7 @@ summary(modelx173)
 ```
 
 #H2. Linguistic Characteristics
-The second hypothesis aims to test differences in linguistic characteristics between texts. This is done by counting the amount of certain words. It is expected that the average amount of restrictive words, action words, negative and positive strong words, and exemption words is significantly higher among mandatory documents. On the other hand, it is expected that the average amount of advice words, framework words, example words and framework words is significantly higher for voluntary documents. It is expected that voluntary documents have a more guiding character and use less direct and restrictive language.  
+The second hypothesis aims to test differences in linguistic characteristics between texts. This is done by counting the amount of certain words. It is expected that the average amount of restrictive words, action words, negative and positive strong words, and exemption words is significantly higher among mandatory documents. On the other hand, it is expected that the average amount of advice words, example words and framework words is significantly higher among voluntary documents. It is expected that voluntary documents have a more guiding character and use less direct and restrictive language. Regarding international frameworks, it is examined which one is most referred to.  
 
 # Count relative amount of words
 As a first part of the analysis, the total number of words per word category is divided by the total number of words. This prevents a bias where large texts already contain a larger number of category words. Afterwards, this number is multiplied by 1000 for better interpretation. So, the amount of category words per 1000 words is the new measure that has been created. 
@@ -559,7 +637,7 @@ R_Data$action<-  1000* R_Data$action/R_Data$totalwords
 R_Data$framework<-  1000* R_Data$framework/R_Data$totalwords
 ```
 
-Variable transformation is also done to see which of the 5 largest international voluntary frameworks (cdp cdsb gri iirc sasb) are mentioned the most across the current reporting standards. Also, the mentioning of sustainable development goals (SDGs) is counted and the amount of TCFD mentions (tcfd is a special framework for climate related financial disclosure).
+Variable transformation is also done to see which of the 5 largest international voluntary frameworks (cdp cdsb gri iirc sasb) are mentioned the most across the current voluntary reporting standards. Also, the mentioning of sustainable development goals (SDGs) is counted and the number that TCFD is mentioned (TCFD is a special framework for climate related financial disclosure).
 ```{r}
 R_Data$cdp <-  1000* R_Data$cdp/R_Data$totalwords
 R_Data$cdsb <-  1000* R_Data$cdsb/R_Data$totalwords
@@ -583,13 +661,6 @@ R_Total <- R_Data %>%
             average_advice=mean(advice),
             average_action=mean(action),
             average_framework=mean(framework),
-            average_cdp=mean(cdp),
-            average_cdsb=mean(cdsb),
-            average_gri=mean(gri),
-            average_sasb=mean(sasb),
-            average_tcfd=mean(tcfd),
-            average_iirc=mean(iirc),
-            average_sdg=mean(sdg),
             median_negative_strong=median(negative_strong),
             median_positive_strong=median(positive_strong),
             median_exemption=median(exemption),
@@ -597,23 +668,80 @@ R_Total <- R_Data %>%
             median_restriction=median(restriction),
             median_advice=median(advice),
             median_action=median(action),
-            median_framework=median(framework),
-            median_cdp=median(cdp),
-            median_cdsb=median(cdsb),
-            median_gri=median(gri),
-            median_sasb=median(sasb),
-            median_tcfd=median(tcfd),
-            median_iirc=median(iirc),
-            median_sdg=median(sdg)) %>% ungroup()
+            median_framework=median(framework)) %>% ungroup()
 
 R_Total
 ```
 
-The numbers can also be visualized in a bar chart, where average (relative) frequency per 1000 words is shown per each word category, per Mandatory/Voluntary
+The numbers can also be visualized in a bar chart, where average (relative) frequency per 1000 words is shown per each word category, per Mandatory/Voluntary. Also, the distribution of mentioning of frameworks across voluntary regulations can be visualized in a bar chart. 
 ```{r}
-ggplot(R_Data, aes(factor(M), average_restriction, fill=M)) + 
+# Average frequency per 1000 words, per word category, by M
+ggplot(R_Total, aes(factor(M), average_restriction, fill=M)) + 
   geom_bar(stat="identity", position = "dodge") + 
   scale_fill_brewer(palette = "Set1")
+
+# Table with average mentioning of framework
+R_Data_frameworks <- R_Data %>% filter(M=="0" & DOC_TYPE=="E" | M=="0" & DOC_TYPE=="ESG") %>% group_by(DOC_TYPE) %>%
+  summarise(cdp=mean(cdp),
+            cdsb=mean(cdsb),
+            gri=mean(gri),
+            sasb=mean(sasb),
+            tcfd=mean(tcfd),
+            iirc=mean(iirc),
+            sdg=mean(sdg))
+
+R_Data_frameworks
+
+# Shape data framework to long format
+library(reshape2)
+frameworks_long <- melt(R_Data_frameworks, id.vars=c("DOC_TYPE"))
+frameworks_long$variable <- as.factor(frameworks_long$variable)
+
+# Make a bar chart
+ggplot(frameworks_long, aes(factor(variable), value, fill=DOC_TYPE)) + 
+  geom_bar(stat="identity", position = "dodge") + 
+  scale_fill_brewer(palette = "Set2") + 
+  labs(y= "Frequency per 1000 words", x = "Frameworks") +
+  theme(text=element_text(size=12,  family="serif"))
+```
+The difference in linguistic characteristics between mandatory and voluntary documents is tested on significance. Also, the distribution is inspected to see if log transformation is needed. 
+```{r}
+# Plots comparing distribution of mandatory vs voluntary
+plot1<- ggplot(R_Data, aes(x = negative_strong , fill = M)) + 
+  geom_density(alpha = 0.5) +
+  theme(text=element_text(size=12,  family="serif"))
+
+plot2 <- ggplot(R_Data, aes(x = positive_strong, fill = M)) + 
+  geom_density(alpha = 0.5) +
+  theme(text=element_text(size=12,  family="serif"))
+
+plot3<- ggplot(R_Data, aes(x = exemption, fill = M)) + 
+  geom_density(alpha = 0.5) +
+  theme(text=element_text(size=12,  family="serif"))
+
+plot4 <- ggplot(R_Data, aes(x = action, fill = M)) + 
+  geom_density(alpha = 0.5) +
+  theme(text=element_text(size=12,  family="serif"))
+
+plot5 <- ggplot(R_Data, aes(x = restriction, fill = M)) + 
+  geom_density(alpha = 0.5) +
+  theme(text=element_text(size=12,  family="serif"))
+
+ggarrange(plot1, plot2, plot3, plot4, plot5)
+
+plot6<- ggplot(R_Data, aes(x = example, fill = M)) + 
+  geom_density(alpha = 0.5) +
+  theme(text=element_text(size=12,  family="serif"))
+
+plot7 <- ggplot(R_Data, aes(x = advice, fill = M)) + 
+  geom_density(alpha = 0.5) +
+  theme(text=element_text(size=12,  family="serif"))
+
+plot8<- ggplot(R_Data, aes(x = framework, fill = M)) + 
+  geom_density(alpha = 0.5) +
+  theme(text=element_text(size=12,  family="serif"))
+
+ggarrange(plot6, plot7, plot8)
 ```
 
 The difference between groups is also tested for significance by performing a regression analysis. 
@@ -625,19 +753,10 @@ rmodel10 <- lm(negative_strong~M, data = R_Data)
 rmodel11 <- lm(positive_strong~M, data = R_Data)
 rmodel12 <- lm(exemption~M, data = R_Data)
 rmodel13 <- lm(example~M, data = R_Data)
-rmodel14 <- lm(retriction~M, data = R_Data)
+rmodel14 <- lm(restriction~M, data = R_Data)
 rmodel15 <- lm(advice~M, data = R_Data)
 rmodel16 <- lm(action~M, data = R_Data)
 rmodel17 <- lm(framework~M, data = R_Data)
-
-#frameworks separated
-frmodel11 <- lm(cdp~M, data = R_Data)
-frmodel12 <- lm(cdsb~M, data = R_Data)
-frmodel13 <- lm(gri~M, data = R_Data)
-frmodel14 <- lm(sasb~M, data = R_Data)
-frmodel15 <- lm(tcfd~M, data = R_Data)
-frmodel16 <- lm(iirc~M, data = R_Data)
-frmodel17 <- lm(sdg~M, data = R_Data)
 
 summary(rmodel10)
 summary(rmodel11)
@@ -648,17 +767,10 @@ summary(rmodel15)
 summary(rmodel16)
 summary(rmodel17)
 
-summary(frmodel11)
-summary(frmodel12)
-summary(frmodel13)
-summary(frmodel14)
-summary(frmodel15)
-summary(frmodel16)
-summary(frmodel17)
 ```
 
 ## Average linguistic characteristics between documents: Mandatory or Voluntary, subset by DOC_TYPE (ESG)
-After examining the average readability score between mandatory and voluntary, this difference is examined in more detail by making a distinction in DOC_TYPE. So, if it is an ESG, G, or E document. Because the relative frequency is used, differences in document size do not influence the measurement. 
+After examining the average linguistic score between mandatory and voluntary, this difference is examined in more detail by making a distinction in DOC_TYPE. So, if it is an ESG, G, or E document. Because the relative frequency is used, differences in document size do not influence the measurement. 
 ```{r}
 R_DOC <- R_Data %>%
   group_by(DOC_TYPE, M) %>% 
@@ -700,27 +812,20 @@ Again, the significance between certain groups on doc level is examined. The dif
 ```{r}
 # Create sub-sample
 ESG_R_DOC <- R_Data[R_Data$DOC_TYPE=="ESG", ]
-M_R_DOC <- R_Data[R_Data$M=="1" & R_Data$DOC_TYPE=="ESG" & R_Data$DOC_TYPE=="G", ]
-V_R_DOC <- R_Data[R_Data$M=="0" & R_Data$DOC_TYPE=="ESG" & R_Data$DOC_TYPE=="E", ]
+M_R_DOC <- R_Data[R_Data$M=="1" & R_Data$DOC_TYPE=="ESG" | R_Data$M=="1" & 
+                    R_Data$DOC_TYPE=="G", ]
+V_R_DOC <- R_Data[R_Data$M=="0" & R_Data$DOC_TYPE=="ESG" | R_Data$M=="0" & 
+                    R_Data$DOC_TYPE=="E", ]
 
 # ESG mandatory vs ESG Voluntary #########################
 ermodel10 <- lm(negative_strong~M, data = ESG_R_DOC)
 ermodel11 <- lm(positive_strong~M, data = ESG_R_DOC)
 ermodel12 <- lm(exemption~M, data = ESG_R_DOC)
 ermodel13 <- lm(example~M, data = ESG_R_DOC)
-ermodel14 <- lm(retriction~M, data = ESG_R_DOC)
+ermodel14 <- lm(restriction~M, data = ESG_R_DOC)
 ermodel15 <- lm(advice~M, data = ESG_R_DOC)
 ermodel16 <- lm(action~M, data = ESG_R_DOC)
 ermodel17 <- lm(framework~M, data = ESG_R_DOC)
-
-#frameworks separated
-fermodel11 <- lm(cdp~M, data = ESG_R_DOC)
-fermodel12 <- lm(cdsb~M, data = ESG_R_DOC)
-fermodel13 <- lm(gri~M, data = ESG_R_DOC)
-fermodel14 <- lm(sasb~M, data = ESG_R_DOC)
-fermodel15 <- lm(tcfd~M, data = ESG_R_DOC)
-fermodel16 <- lm(iirc~M, data = ESG_R_DOC)
-fermodel17 <- lm(sdg~M, data = ESG_R_DOC)
 
 summary(ermodel10)
 summary(ermodel11)
@@ -731,32 +836,15 @@ summary(ermodel15)
 summary(ermodel16)
 summary(ermodel17)
 
-summary(fermodel11)
-summary(fermodel12)
-summary(fermodel13)
-summary(fermodel14)
-summary(fermodel15)
-summary(fermodel16)
-summary(fermodel17)
-
 # ESG mandatory vs G Mandatory #########################
 ermodelx10 <- lm(negative_strong~DOC_TYPE, data = M_R_DOC)
 ermodelx11 <- lm(positive_strong~DOC_TYPE, data = M_R_DOC)
 ermodelx12 <- lm(exemption~DOC_TYPE, data = M_R_DOC)
 ermodelx13 <- lm(example~DOC_TYPE, data = M_R_DOC)
-ermodelx14 <- lm(retriction~DOC_TYPE, data = M_R_DOC)
+ermodelx14 <- lm(restriction~DOC_TYPE, data = M_R_DOC)
 ermodelx15 <- lm(advice~DOC_TYPE, data = M_R_DOC)
 ermodelx16 <- lm(action~DOC_TYPE, data = M_R_DOC)
 ermodelx17 <- lm(framework~DOC_TYPE, data = M_R_DOC)
-
-#frameworks separated
-fermodelx11 <- lm(cdp~DOC_TYPE, data = M_R_DOC)
-fermodelx12 <- lm(cdsb~DOC_TYPE, data = M_R_DOC)
-fermodelx13 <- lm(gri~DOC_TYPE, data = M_R_DOC)
-fermodelx14 <- lm(sasb~DOC_TYPE, data = M_R_DOC)
-fermodelx15 <- lm(tcfd~DOC_TYPE, data = M_R_DOC)
-fermodelx16 <- lm(iirc~DOC_TYPE, data = M_R_DOC)
-fermodelx17 <- lm(sdg~DOC_TYPE, data = M_R_DOC)
 
 summary(ermodelx10)
 summary(ermodelx11)
@@ -767,20 +855,12 @@ summary(ermodelx15)
 summary(ermodelx16)
 summary(ermodelx17)
 
-summary(fermodelx11)
-summary(fermodelx12)
-summary(fermodelx13)
-summary(fermodelx14)
-summary(fermodelx15)
-summary(fermodelx16)
-summary(fermodelx17)
-
 # ESG voluntary vs E voluntary #########################
 ermodelyx10 <- lm(negative_strong~DOC_TYPE, data = V_R_DOC)
 ermodelyx11 <- lm(positive_strong~DOC_TYPE, data = V_R_DOC)
 ermodelyx12 <- lm(exemption~DOC_TYPE, data = V_R_DOC)
 ermodelyx13 <- lm(example~DOC_TYPE, data = V_R_DOC)
-ermodelyx14 <- lm(retriction~DOC_TYPE, data = V_R_DOC)
+ermodelyx14 <- lm(restriction~DOC_TYPE, data = V_R_DOC)
 ermodelyx15 <- lm(advice~DOC_TYPE, data = V_R_DOC)
 ermodelyx16 <- lm(action~DOC_TYPE, data = V_R_DOC)
 ermodelyx17 <- lm(framework~DOC_TYPE, data = V_R_DOC)
@@ -813,7 +893,7 @@ summary(fermodelyx17)
 ```
 
 ## Average Linguistic Characteristics: Mandatory vs Voluntary, subset by Group Type 
-As a final part of the analysis, the differences between mandatory and voluntary are examined, while sub-setting at group type. The concept of grouping documents is already explained in the Quantity analysis part of this document. By looking at average readability within a group, the overall linguistic characteristics of documents can be examined. So, a conclusion can be drawn on how restrictive mandatory ESG documentation compared to voluntary ESG documentation.
+As a final part of the analysis, the differences between mandatory and voluntary are examined, while sub-setting at group type. The concept of grouping documents is already explained in the Quantity analysis part of this document. By looking at average readability within a group, the overall linguistic characteristics of documents can be examined. So, a conclusion can be drawn on how restrictive mandatory ESG documentation compared to voluntary ESG documentation is.
 ```{r}
 # Group the data by Group_ID
 Group_R <- R_Data %>%
@@ -834,7 +914,7 @@ Group_R <- R_Data %>%
             iirc=sum(iirc),
             sdg=sum(sdg))%>% ungroup()
 
-# Get summary statistics 
+# Get summary statistics by group type and by M
 Group_Restrictions_Stats <- Group_R %>%                              
   group_by(GROUP_TYPE, M) %>% 
   summarize(average_negative_strong=mean(negative_strong),
@@ -868,13 +948,124 @@ Group_Restrictions_Stats <- Group_R %>%
             median_iirc=median(iirc),
             median_sdg=median(sdg)) %>% ungroup()
 
+# Get summary statistics by M
+Group_Restrictions_total <- Group_R %>%                              
+  group_by(M) %>% 
+  summarize(average_negative_strong=mean(negative_strong),
+            average_positive_strong=mean(positive_strong),
+            average_exemption=mean(exemption),
+            average_example=mean(example),
+            average_restriction=mean(restriction),
+            average_advice=mean(advice),
+            average_action=mean(action),
+            average_framework=mean(framework),
+            average_cdp=mean(cdp),
+            average_cdsb=mean(cdsb),
+            average_gri=mean(gri),
+            average_sasb=mean(sasb),
+            average_tcfd=mean(tcfd),
+            average_iirc=mean(iirc),
+            average_sdg=mean(sdg),
+            median_negative_strong=median(negative_strong),
+            median_positive_strong=median(positive_strong),
+            median_exemption=median(exemption),
+            median_example=median(example),
+            median_restriction=median(restriction),
+            median_advice=median(advice),
+            median_action=median(action),
+            median_framework=median(framework),
+            median_cdp=median(cdp),
+            median_cdsb=median(cdsb),
+            median_gri=median(gri),
+            median_sasb=median(sasb),
+            median_tcfd=median(tcfd),
+            median_iirc=median(iirc),
+            median_sdg=median(sdg)) %>% ungroup()
+
 Group_Restrictions_Stats
+Group_Restrictions_total
 ```
 
 The region is added to the results on doc level and group level. This allows to examine if differences are driven by regional differences. 
 ```{r}
-R_Data <- merge(R_Data, Country_ID, by.x = "GROUP_ID", by.y = "GROUP_ID", all.x = TRUE, all.y = FALSE)
 Group_R <- merge(Group_R, Country_ID, by.x = "GROUP_ID", by.y = "GROUP_ID", all.x = TRUE, all.y = FALSE)
+```
+
+```{r}
+# Create summary table, by Region by doc type
+R_Region_DOC <- R_Data %>% group_by(REGION, DOC_TYPE) %>% summarise(
+            average_negative_strong=mean(negative_strong),
+            average_positive_strong=mean(positive_strong),
+            average_exemption=mean(exemption),
+            average_example=mean(example),
+            average_restriction=mean(restriction),
+            average_advice=mean(advice),
+            average_action=mean(action),
+            average_framework=mean(framework))
+
+# Create summary table, by Region by group type by M
+R_Region_Group <- Group_R %>% group_by(REGION, GROUP_TYPE, M) %>% summarise(
+            average_negative_strong=mean(negative_strong),
+            average_positive_strong=mean(positive_strong),
+            average_exemption=mean(exemption),
+            average_example=mean(example),
+            average_restriction=mean(restriction),
+            average_advice=mean(advice),
+            average_action=mean(action),
+            average_framework=mean(framework))
+
+R_Region_DOC
+R_Region_Group
+```
+
+Some bar charts were created to see difference in frameworks between E voluntary and ESG voluntary on a group level. Also, bar chart is added that looks at the other linguistic categories, grouped by mandatory or voluntary. 
+```{r}
+# Division of framework types, compared between E and ESG voluntary (group level)
+R_Groupdata_frameworks <- Group_R %>% filter(M=="0") %>% group_by(GROUP_TYPE) %>%
+  summarise(cdp=mean(cdp),
+            cdsb=mean(cdsb),
+            gri=mean(gri),
+            sasb=mean(sasb),
+            tcfd=mean(tcfd),
+            iirc=mean(iirc),
+            sdg=mean(sdg))
+
+R_Groupdata_frameworks
+
+# Shape data framework to long format
+frameworks_longG <- melt(R_Groupdata_frameworks, id.vars=c("GROUP_TYPE"))
+frameworks_longG$variable <- as.factor(frameworks_longG$variable)
+
+# Make a bar chart
+ggplot(frameworks_longG, aes(factor(variable), value, fill=GROUP_TYPE)) + 
+  geom_bar(stat="identity", position = "dodge") + 
+  scale_fill_brewer(palette = "Set2") + 
+  labs(y= "Frequency per 1000 words", x = "Frameworks") +
+  theme(text=element_text(size=12,  family="serif"))
+
+# Average frequency of linguistic characteristics across Mandatory and Voluntary (group level)
+R_Groupdata_types <- Group_R %>% group_by(M) %>%
+  summarise( negative_strong=mean(negative_strong),
+            positive_strong=mean(positive_strong),
+            exemption=mean(exemption),
+            example=mean(example),
+            restriction=mean(restriction),
+            advice=mean(advice),
+            action=mean(action),
+            framework=mean(framework))
+
+R_Groupdata_types
+
+# Shape data framework to long format
+frameworks_longT <- melt(R_Groupdata_types, id.vars=c("M"))
+frameworks_longT$variable <- as.factor(frameworks_longT$variable)
+
+# Make a bar chart
+ggplot(frameworks_longT, aes(factor(variable), value, fill=M)) + 
+  geom_bar(stat="identity", position = "dodge") + 
+  scale_fill_brewer(palette = "Set2") + 
+  labs(y= "Frequency per 1000 words", x = "Frameworks") +
+  theme(text=element_text(size=12,  family="serif")) + theme(axis.text.x=element_text(angle = 45, hjust = 1))
 ```
 
 The difference between groups is also tested for significance by performing a regression analysis.   
@@ -884,19 +1075,10 @@ rmodelq10 <- lm(negative_strong~M, data = Group_R)
 rmodelq11 <- lm(positive_strong~M, data = Group_R)
 rmodelq12 <- lm(exemption~M, data = Group_R)
 rmodelq13 <- lm(example~M, data = Group_R)
-rmodelq14 <- lm(retriction~M, data = Group_R)
+rmodelq14 <- lm(restriction~M, data = Group_R)
 rmodelq15 <- lm(advice~M, data = Group_R)
 rmodelq16 <- lm(action~M, data = Group_R)
 rmodelq17 <- lm(framework~M, data = Group_R)
-
-#frameworks separated
-frmodelq11 <- lm(cdp~M, data = Group_R)
-frmodelq12 <- lm(cdsb~M, data = Group_R)
-frmodelq13 <- lm(gri~M, data = Group_R)
-frmodelq14 <- lm(sasb~M, data = Group_R)
-frmodelq15 <- lm(tcfd~M, data = Group_R)
-frmodelq16 <- lm(iirc~M, data = Group_R)
-frmodelq17 <- lm(sdg~M, data = Group_R)
 
 summary(rmodelq10)
 summary(rmodelq11)
@@ -907,19 +1089,11 @@ summary(rmodelq15)
 summary(rmodelq16)
 summary(rmodelq17)
 
-summary(frmodelq11)
-summary(frmodelq12)
-summary(frmodelq13)
-summary(frmodelq14)
-summary(frmodelq15)
-summary(frmodelq16)
-summary(frmodelq17)
-
 # Test for significance > sub-samples
 # Create sub-sample
 ESG_RES_DOC <- Group_R[Group_R$GROUP_TYPE=="ESG", ]
-M_RES_DOC <- Group_R[Group_R$M=="1" & Group_R$GROUP_TYPE=="ESG" & Group_R$GROUP_TYPE=="G", ]
-V_RES_DOC <- Group_R[Group_R$M=="0" & Group_R$GROUP_TYPE=="ESG" & Group_R$GROUP_TYPE=="E", ]
+M_RES_DOC <- Group_R[Group_R$M=="1" & Group_R$GROUP_TYPE=="ESG" | Group_R$M=="1" & Group_R$GROUP_TYPE=="G", ]
+V_RES_DOC <- Group_R[Group_R$M=="0" & Group_R$GROUP_TYPE=="ESG" | Group_R$M=="0" & Group_R$GROUP_TYPE=="E", ]
 
 # ESG mandatory vs ESG Voluntary #########################
 # Overall
@@ -927,19 +1101,10 @@ ermodelw10 <- lm(negative_strong~M, data = ESG_RES_DOC)
 ermodelw11 <- lm(positive_strong~M, data = ESG_RES_DOC)
 ermodelw12 <- lm(exemption~M, data = ESG_RES_DOC)
 ermodelw13 <- lm(example~M, data = ESG_RES_DOC)
-ermodelw14 <- lm(retriction~M, data = ESG_RES_DOC)
+ermodelw14 <- lm(restriction~M, data = ESG_RES_DOC)
 ermodelw15 <- lm(advice~M, data = ESG_RES_DOC)
 ermodelw16 <- lm(action~M, data = ESG_RES_DOC)
 ermodelw17 <- lm(framework~M, data = ESG_RES_DOC)
-
-#frameworks separated
-fermodelw11 <- lm(cdp~M, data = ESG_RES_DOC)
-fermodelw12 <- lm(cdsb~M, data = ESG_RES_DOC)
-fermodelw13 <- lm(gri~M, data = ESG_RES_DOC)
-fermodelw14 <- lm(sasb~M, data = ESG_RES_DOC)
-fermodelw15 <- lm(tcfd~M, data = ESG_RES_DOC)
-fermodelw16 <- lm(iirc~M, data = ESG_RES_DOC)
-fermodelw17 <- lm(sdg~M, data = ESG_RES_DOC)
 
 summary(ermodelw10)
 summary(ermodelw11)
@@ -950,33 +1115,16 @@ summary(ermodelw15)
 summary(ermodelw16)
 summary(ermodelw17)
 
-summary(fermodelw11)
-summary(fermodelw12)
-summary(fermodelw13)
-summary(fermodelw14)
-summary(fermodelw15)
-summary(fermodelw16)
-summary(fermodelw17)
-
 # ESG mandatory vs G Mandatory #########################
 # Overall
 ermodeldx10 <- lm(negative_strong~GROUP_TYPE, data = M_RES_DOC)
 ermodeldx11 <- lm(positive_strong~GROUP_TYPE, data = M_RES_DOC)
 ermodeldx12 <- lm(exemption~GROUP_TYPE, data = M_RES_DOC)
 ermodeldx13 <- lm(example~GROUP_TYPE, data = M_RES_DOC)
-ermodeldx14 <- lm(retriction~GROUP_TYPE, data = M_RES_DOC)
+ermodeldx14 <- lm(restriction~GROUP_TYPE, data = M_RES_DOC)
 ermodeldx15 <- lm(advice~GROUP_TYPE, data = M_RES_DOC)
 ermodeldx16 <- lm(action~GROUP_TYPE, data = M_RES_DOC)
 ermodeldx17 <- lm(framework~GROUP_TYPE, data = M_RES_DOC)
-
-#frameworks separated
-fermodeldx11 <- lm(cdp~GROUP_TYPE, data = M_RES_DOC)
-fermodeldx12 <- lm(cdsb~GROUP_TYPE, data = M_RES_DOC)
-fermodeldx13 <- lm(gri~GROUP_TYPE, data = M_RES_DOC)
-fermodeldx14 <- lm(sasb~GROUP_TYPE, data = M_RES_DOC)
-fermodeldx15 <- lm(tcfd~GROUP_TYPE, data = M_RES_DOC)
-fermodeldx16 <- lm(iirc~GROUP_TYPE, data = M_RES_DOC)
-fermodeldx17 <- lm(sdg~GROUP_TYPE, data = M_RES_DOC)
 
 summary(ermodeldx10)
 summary(ermodeldx11)
@@ -987,21 +1135,13 @@ summary(ermodeldx15)
 summary(ermodeldx16)
 summary(ermodeldx17)
 
-summary(fermodeldx11)
-summary(fermodeldx12)
-summary(fermodeldx13)
-summary(fermodeldx14)
-summary(fermodeldx15)
-summary(fermodeldx16)
-summary(fermodeldx17)
-
 # ESG voluntary vs E voluntary #########################
 # Overall
 ermodelkyx10 <- lm(negative_strong~GROUP_TYPE, data = V_RES_DOC)
 ermodelkyx11 <- lm(positive_strong~GROUP_TYPE, data = V_RES_DOC)
 ermodelkyx12 <- lm(exemption~GROUP_TYPE, data = V_RES_DOC)
 ermodelkyx13 <- lm(example~GROUP_TYPE, data = V_RES_DOC)
-ermodelkyx14 <- lm(retriction~GROUP_TYPE, data = V_RES_DOC)
+ermodelkyx14 <- lm(restriction~GROUP_TYPE, data = V_RES_DOC)
 ermodelkyx15 <- lm(advice~GROUP_TYPE, data = V_RES_DOC)
 ermodelkyx16 <- lm(action~GROUP_TYPE, data = V_RES_DOC)
 ermodelkyx17 <- lm(framework~GROUP_TYPE, data = V_RES_DOC)
