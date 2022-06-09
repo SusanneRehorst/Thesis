@@ -1905,7 +1905,7 @@ summary(modela6)
 ```
 
 #H4. ESG keywords analysis
-Hypothesis 4 focuses on the frequency of ESG key topics among the 4 groups (ESG-M, ESG-V, E-V, G-V). It is examined if certain document groups contain significantly more ESG key topics. In order to construct a list with ESG key topics, a document with either E, S, or G metrics is used. Metrics in this document are categorized by theme and type (E/S/G). Instead of using all the words that are used to describe the metric, the text is tokenized and only the most important terms are kept. This is to make sure that the data does not contain too much generic words that do not specificely identify the metric (for example stop words like "the" "and" or generic verbs like "have" "can"). The importance of words is determined by calculating the log_TFIDF of every token in a ESG metric text document. Subsequently, the highest ranked words are selected. This is done manually, to avoid that there are still generic words in the ESG key word list. A total of 41 ESG metrics is used, and they are categorized among 15 ESG themes. This meta data on the metrics is contained in the file "Meta_Data_Metrics.csv" and will be merged with the tokenized text. After the key ESG terms are determined per metric, they are saved in a list "Metrics_Keywords.csv". A next step is to use this list as a filter on the whole corpus of ESG, E, and G regulations (Processed_Data). There are no separate sub-samples created for this task (as opposed to H3). This is because there is no global weighting variable used, which can be influenced by the overall frequency of tokens in the sample. Instead, the total frequency of words, per metric, per GROUP_ID document is calculated, and transformed to log2. Log transformation is applied because of the varying document length. 
+Hypothesis 4 focuses on the frequency of ESG key topics among the 4 groups (ESG-M, ESG-V, E-V, G-V). It is examined if certain document groups contain significantly more ESG key topics. In order to construct a list with ESG key topics, a document with either E, S, or G metrics is used. Metrics in this document are categorized by theme and type (E/S/G). Instead of using all the words that are used to describe the metric, the text is tokenized and only the most important terms are kept. This is to make sure that the data does not contain too much generic words that do not specifically identify the metric (for example stop words like "the" "and" or generic verbs like "have" "can"). The importance of words is determined by calculating the log_TFIDF of every token in an ESG metric text document. Subsequently, the highest ranked words are selected. This is done manually, to avoid that there are still generic words in the ESG key word list. Selecting only the top results, is what distincts this exercise from what was done at hypothesis 3 (cosine similarity between an E, S, or G document containing multiple metrics). A total of 41 ESG metrics is used, and they are categorized among 15 ESG themes. So, analysis can be done per theme, which therefore can give more detailed insights. The meta data on the metrics is contained in the file "Meta_Data_Metrics.csv" and will be merged with the tokenized text. After the key ESG terms are determined per metric, they are saved in a list "Metrics_Keywords.csv". A next step is to use this list as a filter on the whole corpus of ESG, E, and G regulations (Processed_Data). There are no separate sub-samples created for this task (as opposed to H3). This is because there is no global weighting variable used on the regulatory documents, which can be influenced by the overall frequency of tokens in the sample. Instead, the total frequency of words, per metric, per GROUP_ID document is calculated, and transformed to log2. Log transformation is applied because of the varying document length. 
 
 ## Select ESG key topics
 Use the Metrics_Data.RData to define the key words for every ESG metric. Importance of an ESG key word is determined by looking at the key expressions with the highest log TFIDF. The final selection is checked manually, to avoid generic terms being included as an ESG key term. 
@@ -2028,19 +2028,19 @@ Keywords_Sample <- subset(Keywords_Sample, GROUP_TYPE=="G" & THEME_TYPE=="G"  |
 ## Calculate averages and visualize the results
 First, the average log term frequencies are calculated for different groups. 
 ```{r}
-# Average TF per THEME
+# Average Log TF per THEME
 Total_THEME <- Keywords_Sample %>% group_by(THEME) %>% summarise(
                   avgTF=mean(NTF),
                   avgL_TF=mean(L_TF),
                   avgTFIDF=mean(LOG_TFIDF)) %>% ungroup()
 
-# Average TF per THEME_TYPE
-Total_THEME_TYPE <- Keywords_Sample %>% group_by(THEME_TYPE) %>% summarise(
+# Average Log TF per THEME_TYPE, Theme, M
+Total_THEME_TYPE <- Keywords_Sample %>% group_by(THEME_TYPE, THEME, M) %>% summarise(
                   avgTF=mean(NTF),
                   avgL_TF=mean(L_TF),
                   avgTFIDF=mean(LOG_TFIDF)) %>% ungroup()
 
-# Average Log TF per GROUP_TYPE+M, by THEME
+# Average Log TF per GROUP_TYPE+M, THEME, M
 Average_THEME <- Keywords_Sample %>% group_by(GROUP_TYPE, M, THEME) %>% summarise(
                   avgTF=mean(NTF),
                   avgL_TF=mean(L_TF),
@@ -2051,6 +2051,11 @@ Average_THEME_TYPE <- Keywords_Sample %>% group_by(GROUP_TYPE, M, THEME_TYPE) %>
                   avgTF=mean(NTF),
                   avgL_TF=mean(L_TF),
                   avgTFIDF=mean(LOG_TFIDF)) %>% ungroup()
+
+Total_THEME
+Total_THEME_TYPE
+Average_THEME
+Average_THEME_TYPE
 ```
 
 The results are visualized, to see the most important ESG key topics. In order to do this, a grouping variable is created to identify one of the 4 groups (ESG Mandatory, ESG Voluntary, E Voluntary, and G Mandatory).
@@ -2060,20 +2065,59 @@ Average_THEME$GROUP <- paste(Average_THEME$GROUP_TYPE,"_",Average_THEME$M)
 Average_THEME_TYPE$GROUP <- paste(Average_THEME_TYPE$GROUP_TYPE,"_",Average_THEME_TYPE$M)
 
 library(ggplot2)
+library(ggpubr)
 
-# Histogram of average log frequency per theme (TOTAL THEME data)
+# Bar chart of average log frequency per one of the 4 groups by theme (THEME data)
+graph1 <-ggplot(Average_THEME_TYPE, aes(x=GROUP, y=avgTF, fill=THEME_TYPE)) +
+  geom_col(position=position_dodge2(preserve = "single")) +
+  scale_fill_brewer(palette="Set2") +
+  labs(y="Average TF", x="Group Type") +
+  theme(text=element_text(size=12, face = "bold",  family="serif")) + 
+  theme(axis.text.x = element_text(size=12, family="serif"),
+          axis.text.y = element_text(size=12, family = "serif"))
 
+graph2 <-ggplot(Average_THEME_TYPE, aes(x=GROUP, y=avgL_TF, fill=THEME_TYPE)) +
+  geom_col(position=position_dodge2(preserve = "single")) +
+  scale_fill_brewer(palette="Set2") +
+  labs(y="Average Log TF", x="Group Type") +
+  theme(text=element_text(size=12,  face="bold", family="serif")) + 
+  theme(axis.text.x = element_text(size=12, family="serif"),
+          axis.text.y = element_text(size=12, family = "serif"))
 
-# Histogram of average log frequency per one of the 4 groups by theme (THEME data)
-graph2 <-ggplot(Average_THEME, aes(x=GROUP, y=avgL_TF, fill=THEME_TYPE)) +
-  geom_bar(stat="identity")+theme_minimal()
+ggarrange(graph1, graph2)
 
-# Histogram of average log frequency per one of the 4 groups by theme type (E/S/G) (THEME TYPE DATA)
+# Bar chart of average log frequency per Theme type, per Theme, per Mandatory/voluntary
+graph3 <- ggplot(Total_THEME_TYPE, aes(x=avgTF, y=reorder(THEME, avgTF), group=THEME_TYPE, fill=M)) +
+  geom_col(position=position_dodge2(preserve = "single")) +
+  scale_fill_brewer(palette="Set2") +
+  labs(y="Theme", x="Average TF") +
+  theme(text=element_text(size=12, face = "bold",  family="serif")) + 
+  theme(axis.text.x = element_text(size=12, family="serif"),
+          axis.text.y = element_text(size=12, family = "serif"))
 
+graph3
+
+graph4 <- ggplot(Total_THEME_TYPE, aes(x=avgL_TF, y=reorder(THEME, avgL_TF), group=THEME_TYPE, fill=M)) +
+  geom_col(position=position_dodge2(preserve = "single")) +
+  scale_fill_brewer(palette="Set2") +
+  labs(y="Theme", x="Average Log TF") +
+  theme(text=element_text(size=12, face = "bold",  family="serif")) + 
+  theme(axis.text.x = element_text(size=12, family="serif"),
+          axis.text.y = element_text(size=12, family = "serif"))
+
+graph4
+
+ggarrange(graph3, graph4)
 ```
 
 ## Regression
 Regression models are made to analyze average frequency of ESG key topics between mandatory and voluntary regulations. Controls are added for ESG metric (on an ESG level and on a theme level) and for the GROUP TYPE (E,G, ESG), and if there is a stock exchange that has ESG reporting as a ESG listing rule in the region that the document applies to.  
+```{r}
+# Inspect the distribution of the dependent variable
+hist(Keywords_Sample$NTF)
+hist(Keywords_Sample$L_TF)
+```
+
 ```{r}
 # Set base variable for the dummy variables in the regression for easier interpretation
 Keywords_Sample <- droplevels(Keywords_Sample)
@@ -2084,59 +2128,42 @@ Keywords_Sample <- Keywords_Sample %>%
          THEME=relevel(THEME, ref = "Governing purpose"))
          
 # TF as dependent variable
-Modelesg1 <- lm(TF~M, data = Keywords_Sample)
-Modelesg2 <- lm(TF~M+GROUP_TYPE, data = Keywords_Sample)
-Modelesg3 <- lm(TF~M+GROUP_TYPE+THEME_Type, data = Keywords_Sample)
-Modelesg4 <- lm(TF~M+GROUP_TYPE+THEME, data = Keywords_Sample)
-Modelesg5 <- lm(TF~M+GROUP_TYPE+THEME_Type+ESG_LISTING_RULE, data = Keywords_Sample)
-Modelesg6 <- lm(TF~M+GROUP_TYPE+THEME+ESG_LISTING_RULE, data = Keywords_Sample)
+Modelesg1 <- lm(NTF~M, data = Keywords_Sample)
+Modelesg2 <- lm(NTF~M+GROUP_TYPE, data = Keywords_Sample)
+Modelesg3 <- lm(NTF~M+THEME, data = Keywords_Sample)
+Modelesg4 <- lm(NTF~M+GROUP_TYPE+THEME_TYPE, data = Keywords_Sample)
+Modelesg5 <- lm(NTF~M+GROUP_TYPE+THEME, data = Keywords_Sample)
+Modelesg6 <- lm(NTF~M+GROUP_TYPE+THEME+ESG_LISTING_RULE, data = Keywords_Sample)
 
 # LOG TF as dependent variable (control for large documents)
 Modelesg7 <- lm(L_TF~M, data = Keywords_Sample)
 Modelesg8 <- lm(L_TF~M+GROUP_TYPE, data = Keywords_Sample)
-Modelesg9 <- lm(L_TF~M+GROUP_TYPE+THEME_Type, data = Keywords_Sample)
-Modelesg10 <- lm(L_TF~M+GROUP_TYPE+THEME, data = Keywords_Sample)
-Modelesg11 <- lm(L_TF~M+GROUP_TYPE+THEME_Type+ESG_LISTING_RULE, data = Keywords_Sample)
+Modelesg9 <- lm(L_TF~M+THEME, data = Keywords_Sample)
+Modelesg10 <- lm(L_TF~M+GROUP_TYPE+THEME_TYPE, data = Keywords_Sample)
+Modelesg11 <- lm(L_TF~M+GROUP_TYPE+THEME, data = Keywords_Sample)
 Modelesg12 <- lm(L_TF~M+GROUP_TYPE+THEME+ESG_LISTING_RULE, data = Keywords_Sample)
 
 # Get the results
-summary(modelesg1)
-summary(modelesg2)
-summary(modelesg3)
-summary(modelesg4)
-summary(modelesg5)
-summary(modelesg6)
+summary(Modelesg1)
+summary(Modelesg2)
+summary(Modelesg3)
+summary(Modelesg4)
+summary(Modelesg5)
+summary(Modelesg6)
 
-summary(modelesg7)
-summary(modelesg8)
-summary(modelesg9)
-summary(modelesg10)
-summary(modelesg11)
-summary(modelesg12)
+summary(Modelesg7)
+summary(Modelesg8)
+summary(Modelesg9)
+summary(Modelesg10)
+summary(Modelesg11)
+summary(Modelesg12)
 
-# Check with Log_TFIDF
-# LOG TFIDF as dependent variable (if there are ESG keywords within the theme that appear in a lot of other documents, the TF is adjusted downwards)
-Modelesg72 <- lm(LOG_TFIDF~M, data = Keywords_Sample)
-Modelesg82 <- lm(LOG_TFIDF~M+GROUP_TYPE, data = Keywords_Sample)
-Modelesg92 <- lm(LOG_TFIDF~M+GROUP_TYPE+THEME_Type, data = Keywords_Sample)
-Modelesg102 <- lm(LOG_TFIDF~M+GROUP_TYPE+THEME, data = Keywords_Sample)
-Modelesg112 <- lm(LOG_TFIDF~M+GROUP_TYPE+THEME_Type+ESG_LISTING_RULE, data = Keywords_Sample)
-Modelesg122 <- lm(LOG_TFIDF~M+GROUP_TYPE+THEME+ESG_LISTING_RULE, data = Keywords_Sample)
-
-# Get the results
-summary(modelesg12)
-summary(modelesg22)
-summary(modelesg32)
-summary(modelesg42)
-summary(modelesg52)
-summary(modelesg62)
 ```
 
 Get the results in a table. 
 ```{r}
-stargazer(modelesg1, modelesg2, modelesg3, modelesg4, modelesg5, modelesg6, type = 'text')
-stargazer(modelesg7, modelesg8, modelesg9, modelesg10, modelesg11, modelesg12, type = 'text')
-stargazer(modelesg12, modelesg22, modelesg32, modelesg42, modelesg52, modelesg62, type = 'text')
+stargazer(Modelesg1, Modelesg2, Modelesg3, Modelesg4, Modelesg5, Modelesg6, type = 'text')
+stargazer(Modelesg7, Modelesg8, Modelesg9, Modelesg10, Modelesg11, Modelesg12, type = 'text')
 ```
 
 As a final check, the same regression models are calculated with robust standard errors. Robust standard errors do not influence the value of the coefficient, but can influence the significance of a coefficient. It is a more conservative standard error and can be used in case of heteroscedasticity among the residual errors. To test if there may be hetereskedacity, the Breusch-Pagan test is applied(Breusch & Pagan, 1979)
@@ -2144,28 +2171,24 @@ As a final check, the same regression models are calculated with robust standard
 T.S. Breusch & A.R. Pagan (1979), A Simple Test for Heteroscedasticity and Random Coefficient Variation. Econometrica 47, 1287--1294
 ```{r}
 ### Testing for heteroskedasticity and accounting for it in the SE
-
-modelesg1
+Modelesg11
 par(mfrow=c(2,2)) # get 4 charts in 1 panel
-plot(modelesg1)
+plot(Modelesg11)
 
-# Breusch-Pagan test against heteroskedasticity. H0 assumes homoskedacity under the residual errors. If rejected, there is heteroskedacity and too much variance is explained by additional explanatory variables. 
-lmtest::bptest(modelesg1)
-lmtest::bptest(modelesg2)
-lmtest::bptest(modelesg3)
-lmtest::bptest(modelesg4)
-lmtest::bptest(modelesg5)
-lmtest::bptest(modelesg6)
+
+# Breusch-Pagan test against heteroskedasticity. H0 assumes homoskedacity under the residual errors. If rejected, there is heteroscedasticity and too much variance is explained by additional explanatory variables. 
+lmtest::bptest(Modelesg11)
 
 # Remedy for heteroskedasticity: Use robust standard error. 
-seBasic <- sqrt (diag ( vcov(modelesg1)))
-sewhite <- sqrt (diag ( vcovHC(modelesg1, type="HC0")))
-seClust1 <- sqrt (diag ( vcovHC(modelesg1, cluster="GROUP_TYPE")))
-seClust2 <- sqrt (diag ( vcovHC(modelesg1, cluster="THEME_TYPE")))
+library(sandwich)
 
-stargazer(modelesg1, modelesg1, modelesg1, se=list(seBasic, sewhite, seClust1, seClust2), type="text")
+seBasic <- sqrt (diag ( vcov(Modelesg11)))
+sewhite <- sqrt (diag ( vcovHC(Modelesg11, type="HC0")))
+seClust <- sqrt (diag ( vcovHC(Modelesg11, cluster="GROUP_TYPE")))
+
+stargazer(Modelesg11, Modelesg11, Modelesg11, se=list(seBasic, sewhite, seClust), type="text")
 ```
 
 #Robustness Checks
-The same analysis can be done with modifications to the processed data (only filtering noun POS). These alternate results can be found in Data_Analysis_Robustness.Rmd. 
+The same analysis can be done with modifications to the processed data (only filtering noun POS). These alternate results can be found in Data_Analysis_Robustness
 
