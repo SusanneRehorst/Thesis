@@ -2130,18 +2130,16 @@ Keywords_Sample <- Keywords_Sample %>%
 # TF as dependent variable
 Modelesg1 <- lm(NTF~M, data = Keywords_Sample)
 Modelesg2 <- lm(NTF~M+GROUP_TYPE, data = Keywords_Sample)
-Modelesg3 <- lm(NTF~M+THEME, data = Keywords_Sample)
-Modelesg4 <- lm(NTF~M+GROUP_TYPE+THEME_TYPE, data = Keywords_Sample)
-Modelesg5 <- lm(NTF~M+GROUP_TYPE+THEME, data = Keywords_Sample)
-Modelesg6 <- lm(NTF~M+GROUP_TYPE+THEME+ESG_LISTING_RULE, data = Keywords_Sample)
+Modelesg3 <- lm(NTF~M+GROUP_TYPE+THEME_TYPE, data = Keywords_Sample)
+Modelesg4 <- lm(NTF~M+GROUP_TYPE+THEME, data = Keywords_Sample)
+Modelesg5 <- lm(NTF~M+GROUP_TYPE+THEME+ESG_LISTING_RULE, data = Keywords_Sample)
 
 # LOG TF as dependent variable (control for large documents)
-Modelesg7 <- lm(L_TF~M, data = Keywords_Sample)
-Modelesg8 <- lm(L_TF~M+GROUP_TYPE, data = Keywords_Sample)
-Modelesg9 <- lm(L_TF~M+THEME, data = Keywords_Sample)
-Modelesg10 <- lm(L_TF~M+GROUP_TYPE+THEME_TYPE, data = Keywords_Sample)
-Modelesg11 <- lm(L_TF~M+GROUP_TYPE+THEME, data = Keywords_Sample)
-Modelesg12 <- lm(L_TF~M+GROUP_TYPE+THEME+ESG_LISTING_RULE, data = Keywords_Sample)
+Modelesg11 <- lm(L_TF~M, data = Keywords_Sample)
+Modelesg22 <- lm(L_TF~M+GROUP_TYPE, data = Keywords_Sample)
+Modelesg33 <- lm(L_TF~M+GROUP_TYPE+THEME_TYPE, data = Keywords_Sample)
+Modelesg44 <- lm(L_TF~M+GROUP_TYPE+THEME, data = Keywords_Sample)
+Modelesg55 <- lm(L_TF~M+GROUP_TYPE+THEME+ESG_LISTING_RULE, data = Keywords_Sample)
 
 # Get the results
 summary(Modelesg1)
@@ -2149,44 +2147,62 @@ summary(Modelesg2)
 summary(Modelesg3)
 summary(Modelesg4)
 summary(Modelesg5)
-summary(Modelesg6)
 
-summary(Modelesg7)
-summary(Modelesg8)
-summary(Modelesg9)
-summary(Modelesg10)
 summary(Modelesg11)
-summary(Modelesg12)
+summary(Modelesg22)
+summary(Modelesg33)
+summary(Modelesg44)
+summary(Modelesg55)
+
+# Check interaction
+Modelesg_interaction <- lm(L_TF~M+GROUP_TYPE+THEME+M:THEME, data = Keywords_Sample)
+summary(Modelesg_interaction)
 
 ```
 
 Get the results in a table. 
 ```{r}
-stargazer(Modelesg1, Modelesg2, Modelesg3, Modelesg4, Modelesg5, Modelesg6, type = 'text')
-stargazer(Modelesg7, Modelesg8, Modelesg9, Modelesg10, Modelesg11, Modelesg12, type = 'text')
+stargazer(Modelesg1, Modelesg2, Modelesg3, Modelesg4, Modelesg5, type = 'text')
+stargazer(Modelesg11, Modelesg22, Modelesg33, Modelesg44, Modelesg55, type = 'text')
 ```
+Check what happens if interaction between M and theme type is added. 
+```{r}
+stargazer(Modelesg_interaction, type='text')
+```
+
+
 
 As a final check, the same regression models are calculated with robust standard errors. Robust standard errors do not influence the value of the coefficient, but can influence the significance of a coefficient. It is a more conservative standard error and can be used in case of heteroscedasticity among the residual errors. To test if there may be hetereskedacity, the Breusch-Pagan test is applied(Breusch & Pagan, 1979)
 
 T.S. Breusch & A.R. Pagan (1979), A Simple Test for Heteroscedasticity and Random Coefficient Variation. Econometrica 47, 1287--1294
 ```{r}
 ### Testing for heteroskedasticity and accounting for it in the SE
-Modelesg11
+Modelesg44
 par(mfrow=c(2,2)) # get 4 charts in 1 panel
-plot(Modelesg11)
+plot(Modelesg44)
 
 
-# Breusch-Pagan test against heteroskedasticity. H0 assumes homoskedacity under the residual errors. If rejected, there is heteroscedasticity and too much variance is explained by additional explanatory variables. 
-lmtest::bptest(Modelesg11)
+# Breusch-Pagan test against heteroskedasticity. H0 assumes homoscedasticity under the residual errors. If rejected, there is heteroscedasticity and too much variance is explained by additional explanatory variables. 
+lmtest::bptest(Modelesg44)
 
+#Inspection  of  residuals (zero  mean  and  normal  distribution)
+resids_model <- residuals(Modelesg44)
+residuals <-data.frame(resids_model)
+stargazer(residuals , type="text")
+
+residual_histogram  <- ggplot(residuals , aes(resids_model))
+residual_histogram + geom_histogram () + labs(x = "Residual  Value", y = "Frequency")
+```
+
+
+```{r}
 # Remedy for heteroskedasticity: Use robust standard error. 
 library(sandwich)
 
-seBasic <- sqrt (diag ( vcov(Modelesg11)))
-sewhite <- sqrt (diag ( vcovHC(Modelesg11, type="HC0")))
-seClust <- sqrt (diag ( vcovHC(Modelesg11, cluster="GROUP_TYPE")))
+seBasic <- sqrt (diag ( vcov(Modelesg44)))
+sewhite <- sqrt (diag ( vcovHC(Modelesg44, type="HC0")))
 
-stargazer(Modelesg11, Modelesg11, Modelesg11, se=list(seBasic, sewhite, seClust), type="text")
+stargazer(Modelesg44, Modelesg44, se=list(seBasic, sewhite), type="text")
 ```
 
 #Robustness Checks
