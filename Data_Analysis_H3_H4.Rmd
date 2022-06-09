@@ -2206,5 +2206,5 @@ stargazer(Modelesg44, Modelesg44, se=list(seBasic, sewhite), type="text")
 ```
 
 #Robustness Checks
-The same analysis can be done with modifications to the processed data (filtering so that text only contains nouns (POS tag), and verbs are not included). These alternate results can be found in Data_Analysis_Robustness
+The same analysis can be done with modifications to the processed data (filtering so that text only contains nouns and adjectives (POS tag), and verbs are not included). These alternate results can be found in Data_Analysis_Robustness
 
