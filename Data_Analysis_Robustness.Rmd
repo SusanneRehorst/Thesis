@@ -34,21 +34,9 @@ load("Metrics_Data.RData")
 # Robustness checks
 
 ## Robustness: Filter POS tags
-Check 1: As a robustness check, only nouns and adjectives are selected instead of also including verbs and adverbs. 
+Check: As a robustness check, only nouns and adjectives are selected instead of also including verbs and adverbs. 
 ```{r}
 Processed_Data <- Processed_Data[Processed_Data$upos=="NOUN"| Processed_Data$upos=="PROPN"| Processed_Data$upos=="ADJ", ]
-```
-
-Check 2: Another robustness check that could be performed is excluding the auxiliary verbs from the original sample. 
-```{r}
-Processed_Data <- Processed_Data[Processed_Data$upos=="NOUN"| Processed_Data$upos=="PROPN"| Processed_Data$upos=="ADJ"|
-                                   Processed_Data$upos=="VERB", Processed_Data$upos=="ADVERB", ]
-```
-
-Check 3: Applying stemming to the sample on top of lemmatization.
-```{r}
-library(SnowballC)
-Processed_Data <- wordStem(Processed_Data$lemma, language = "porter")
 ```
 
 Each of the checks can be run separately and results can be compared with results of Data_Analysis_H3_H4.Rmd document. 
@@ -57,7 +45,7 @@ Each of the checks can be run separately and results can be compared with result
 The first hypothesis that is covered in this document is Hypothesis 3. This involves measuring document similarity and comparing this similarity between mandatory and voluntary regulation documents.
 
 ## Merging on group level
-In order to correctly compare regulations documents, the documents are first merged in groups. Documents are merged into the same group if they apply to the same region, have the same compliance level (both mandatory or both voluntary), and refer to each other (either because a document amends another, or indirectly if one regulatory document refers to the other). Categorizing documents on a group level is done manually. The Descriptive Data contains both the Document ID and the Group ID, and is merged with the Processed Data by Docuemnt ID (the Metrics Data will be used later on for Hypothesis 4).
+In order to correctly compare regulations documents, the documents are first merged in groups. Documents are merged into the same group if they apply to the same region, have the same compliance level (both mandatory or both voluntary), and refer to each other (either because a document amends another, or indirectly if one regulatory document refers to the other). Categorizing documents on a group level is done manually. The Descriptive Data contains both the Document ID and the Group ID, and is merged with the Processed Data by Document ID (the Metrics Data will be used later on for Hypothesis 4).
 ```{r}
 # Create subset of descriptive data to get meta data for groups
 Group_Data <- Descriptive_Data[,c("DOC_ID", "ESG_LISTING_RULE","GROUP_ID","GROUP_TYPE","REGION","M")]
@@ -307,7 +295,7 @@ Total_Sample <- Total_Sample %>% group_by(lemma) %>% mutate(
 ```
 
 ## Document Term Matrix
-A document term matrix is created. There are 6 different weighting schemes used. This is done as a robustness check, to see the influence of using different weighting schemes on the results. Weighting schemes 0 and 1 are only locally weighted (TF and Log TF). Schemes 2, 3, and 4 are multiple local weight with global weight, with global weight being IDF. Scheme 5 and 6 multiply log TF with entropy as global weight. Entropy is calculated as real entropy (scheme 5) and entropy+1 (scheme 6). Missing values in the matrix indicate that a certain term does not appear in a document. These missing values are replaced with 0, except for the augmented weighting scheme because this schema uses 0.5 as base value. 
+A document term matrix is created. There are 6 different weighting schemes used. This is done as a robustness check, to see the influence of using different weighting schemes on the results. Weighting schemes 0 and 1 are only locally weighted (TF and Log TF). Schemes 2, 3, and 4 are the product of local weight with global weight (with global weight being IDF). Scheme 5 and 6 multiply log TF with entropy as global weight. Entropy is calculated as real entropy (scheme 5) and entropy+1 (scheme 6). Missing values in the matrix indicate that a certain term does not appear in a document. These missing values are replaced with 0, except for the augmented weighting scheme because this schema uses 0.5 as base value. 
 ```{r}
 library(reshape2)
 library(lsa)
@@ -586,10 +574,292 @@ ESG_BS52 <- cosine(ESG_B_2_5)
 ESG_BS62 <- cosine(ESG_B_2_6)
 ```
 
-## Visualization
-The results can be visualized by showing the cosine similarity matrices as a heatmap. 
+## Visualization - heat maps
+The results can be visualized by showing the cosine similarity matrices as a heat map.Most important results is to compare ESG mandatory heat maps with ESG voluntary heat maps. And make them for all 6 models.  
 ```{r}
-heatmap(ESG_MS5)
+# Create new matrices, and change the row and colnames to region, instead of GROUP ID for better interpretation
+ESG_MS1h <- ESG_MS1
+ESG_MS2h <- ESG_MS2
+ESG_MS3h <- ESG_MS3
+ESG_MS4h <- ESG_MS4
+ESG_MS5h <- ESG_MS5
+ESG_MS6h <- ESG_MS6
+
+# ESG Voluntary
+ESG_VS1h <- ESG_VS1
+ESG_VS2h <- ESG_VS2
+ESG_VS3h <- ESG_VS3
+ESG_VS4h <- ESG_VS4
+ESG_VS5h <- ESG_VS5
+ESG_VS6h <- ESG_VS6
+
+# Changes column names
+colnames(ESG_MS1h) <- c("Hong Kong", "India_gov", "India_SEB", "Nigeria", "Singapore", "United Kingdom", "United States_SEC", "United States_gov_p", "European Union") 
+colnames(ESG_VS1h) <- c("Greece", "Hong Kong", "Hungary", "India", "Australia",  "Japan", "Luxembourg", "Nasdaq Stock Markets", "New Zealand", "Nigeria", 
+                        "Poland", "Spain", "South Africa", "United Kingdom", "United States", "Chile",  "Euronext Stock Markets",  "European Union",  "Germany")
+colnames(ESG_MS2h) <- c("Hong Kong", "India_gov", "India_SEB", "Nigeria", "Singapore", "United Kingdom", "United States_SEC", "United States_gov_p", "European Union") 
+colnames(ESG_VS2h) <- c("Greece", "Hong Kong", "Hungary", "India", "Australia",  "Japan", "Luxembourg", "Nasdaq Stock Markets", "New Zealand", "Nigeria", 
+                        "Poland", "Spain", "South Africa", "United Kingdom", "United States", "Chile",  "Euronext Stock Markets",  "European Union",  "Germany")
+colnames(ESG_MS3h) <- c("Hong Kong", "India_gov", "India_SEB", "Nigeria", "Singapore", "United Kingdom", "United States_SEC", "United States_gov_p", "European Union") 
+colnames(ESG_VS3h) <- c("Greece", "Hong Kong", "Hungary", "India", "Australia",  "Japan", "Luxembourg", "Nasdaq Stock Markets", "New Zealand", "Nigeria", 
+                        "Poland", "Spain", "South Africa", "United Kingdom", "United States", "Chile",  "Euronext Stock Markets",  "European Union",  "Germany")
+colnames(ESG_MS4h) <- c("Hong Kong", "India_gov", "India_SEB", "Nigeria", "Singapore", "United Kingdom", "United States_SEC", "United States_gov_p", "European Union") 
+colnames(ESG_VS4h) <- c("Greece", "Hong Kong", "Hungary", "India", "Australia",  "Japan", "Luxembourg", "Nasdaq Stock Markets", "New Zealand", "Nigeria", 
+                        "Poland", "Spain", "South Africa", "United Kingdom", "United States", "Chile",  "Euronext Stock Markets",  "European Union",  "Germany")
+colnames(ESG_MS5h) <- c("Hong Kong", "India_gov", "India_SEB", "Nigeria", "Singapore", "United Kingdom", "United States_SEC", "United States_gov_p", "European Union") 
+colnames(ESG_VS5h) <- c("Greece", "Hong Kong", "Hungary", "India", "Australia",  "Japan", "Luxembourg", "Nasdaq Stock Markets", "New Zealand", "Nigeria", 
+                        "Poland", "Spain", "South Africa", "United Kingdom", "United States", "Chile",  "Euronext Stock Markets",  "European Union",  "Germany")
+colnames(ESG_MS6h) <- c("Hong Kong", "India_gov", "India_SEB", "Nigeria", "Singapore", "United Kingdom", "United States_SEC", "United States_gov_p", "European Union") 
+colnames(ESG_VS6h) <- c("Greece", "Hong Kong", "Hungary", "India", "Australia",  "Japan", "Luxembourg", "Nasdaq Stock Markets", "New Zealand", "Nigeria", 
+                        "Poland", "Spain", "South Africa", "United Kingdom", "United States", "Chile",  "Euronext Stock Markets",  "European Union",  "Germany")
+
+# Change row names
+rownames(ESG_MS1h) <- c("Hong Kong", "India_gov", "India_SEB", "Nigeria", "Singapore", "United Kingdom", "United States_SEC", "United States_gov_p", "European Union") 
+rownames(ESG_VS1h) <- c("Greece", "Hong Kong", "Hungary", "India", "Australia",  "Japan", "Luxembourg", "Nasdaq Stock Markets", "New Zealand", "Nigeria", 
+                        "Poland", "Spain", "South Africa", "United Kingdom", "United States", "Chile",  "Euronext Stock Markets",  "European Union",  "Germany")
+rownames(ESG_MS2h) <- c("Hong Kong", "India_gov", "India_SEB", "Nigeria", "Singapore", "United Kingdom", "United States_SEC", "United States_gov_p", "European Union") 
+rownames(ESG_VS2h) <- c("Greece", "Hong Kong", "Hungary", "India", "Australia",  "Japan", "Luxembourg", "Nasdaq Stock Markets", "New Zealand", "Nigeria", 
+                        "Poland", "Spain", "South Africa", "United Kingdom", "United States", "Chile",  "Euronext Stock Markets",  "European Union",  "Germany")
+rownames(ESG_MS3h) <- c("Hong Kong", "India_gov", "India_SEB", "Nigeria", "Singapore", "United Kingdom", "United States_SEC", "United States_gov_p", "European Union") 
+rownames(ESG_VS3h) <- c("Greece", "Hong Kong", "Hungary", "India", "Australia",  "Japan", "Luxembourg", "Nasdaq Stock Markets", "New Zealand", "Nigeria", 
+                        "Poland", "Spain", "South Africa", "United Kingdom", "United States", "Chile",  "Euronext Stock Markets",  "European Union",  "Germany")
+rownames(ESG_MS4h) <- c("Hong Kong", "India_gov", "India_SEB", "Nigeria", "Singapore", "United Kingdom", "United States_SEC", "United States_gov_p", "European Union") 
+rownames(ESG_VS4h) <- c("Greece", "Hong Kong", "Hungary", "India", "Australia",  "Japan", "Luxembourg", "Nasdaq Stock Markets", "New Zealand", "Nigeria", 
+                        "Poland", "Spain", "South Africa", "United Kingdom", "United States", "Chile",  "Euronext Stock Markets",  "European Union",  "Germany")
+rownames(ESG_MS5h) <- c("Hong Kong", "India_gov", "India_SEB", "Nigeria", "Singapore", "United Kingdom", "United States_SEC", "United States_gov_p", "European Union") 
+rownames(ESG_VS5h) <- c("Greece", "Hong Kong", "Hungary", "India", "Australia",  "Japan", "Luxembourg", "Nasdaq Stock Markets", "New Zealand", "Nigeria", 
+                        "Poland", "Spain", "South Africa", "United Kingdom", "United States", "Chile",  "Euronext Stock Markets",  "European Union",  "Germany")
+rownames(ESG_MS6h) <- c("Hong Kong", "India_gov", "India_SEB", "Nigeria", "Singapore", "United Kingdom", "United States_SEC", "United States_gov_p", "European Union") 
+rownames(ESG_VS6h) <- c("Greece", "Hong Kong", "Hungary", "India", "Australia",  "Japan", "Luxembourg", "Nasdaq Stock Markets", "New Zealand", "Nigeria", 
+                        "Poland", "Spain", "South Africa", "United Kingdom", "United States", "Chile",  "Euronext Stock Markets",  "European Union",  "Germany")
+
+## **************************************************************************************************************************************************** ##
+## reshape the data to create a heatmap
+library(reshape2)
+library(ggplot2)
+library(ggpubr)
+
+# function to get only half of the matrix
+  get_upper_tri <- function(cormat){
+    cormat[lower.tri(cormat)]<- NA
+    return(cormat)
+  }
+
+# function to reorder the matrix
+reorder_cormat <- function(cormat){
+dd <- as.dist((1-cormat)/2)
+hc <- hclust(dd)
+cormat <-cormat[hc$order, hc$order]
+}
+
+###################################################################
+ESG_MS1h <- reorder_cormat(ESG_MS1h)
+upper_ESG_MS1h <- get_upper_tri(ESG_MS1h)
+
+melted_ESG_MS1h <- melt(upper_ESG_MS1h, na.rm = TRUE)
+
+# Create the heat maps
+heatmap1M <- ggplot(data=melted_ESG_MS1h, aes(x=Var1, y=Var2, fill=value)) + 
+  geom_tile(color="orange")+
+  labs(y= "", x = "") +
+  scale_fill_gradient2(low="yellow", high="red", mid="orange",
+                       midpoint=0.5, limit=c(0,1), space="Lab",
+                       name="Cosine\nSimilarity") +
+  theme_minimal()+theme(axis.text.x=element_text(angle=45, vjust=1,
+                                                 size=12, hjust=1, family="serif"))+
+  coord_fixed()
+
+####################################################################
+ESG_MS2h <- reorder_cormat(ESG_MS2h)
+upper_ESG_MS2h <- get_upper_tri(ESG_MS2h)
+
+melted_ESG_MS2h <- melt(upper_ESG_MS2h, na.rm = TRUE)
+
+# Create the heat maps
+heatmap2M <- ggplot(data=melted_ESG_MS2h, aes(x=Var1, y=Var2, fill=value)) + 
+  geom_tile(color="orange")+
+  labs(y= "", x = "") +
+  scale_fill_gradient2(low="yellow", high="red", mid="orange",
+                       midpoint=0.5, limit=c(0,1), space="Lab",
+                       name="Cosine\nSimilarity") +
+  theme_minimal()+theme(axis.text.x=element_text(angle=45, vjust=1,
+                                                 size=12, hjust=1, family="serif"))+
+  coord_fixed()
+
+#################################################################
+ESG_MS3h <- reorder_cormat(ESG_MS3h)
+upper_ESG_MS3h <- get_upper_tri(ESG_MS3h)
+
+melted_ESG_MS3h <- melt(upper_ESG_MS3h, na.rm = TRUE)
+
+# Create the heat maps
+heatmap3M <- ggplot(data=melted_ESG_MS3h, aes(x=Var1, y=Var2, fill=value)) + 
+  geom_tile(color="orange")+
+  labs(y= "", x = "") +
+  scale_fill_gradient2(low="yellow", high="red", mid="orange",
+                       midpoint=0.5, limit=c(0,1), space="Lab",
+                       name="Cosine\nSimilarity") +
+  theme_minimal()+theme(axis.text.x=element_text(angle=45, vjust=1,
+                                                 size=12, hjust=1, family="serif"))+
+  coord_fixed()
+
+####################################################################
+ESG_MS4h <- reorder_cormat(ESG_MS4h)
+upper_ESG_MS4h <- get_upper_tri(ESG_MS4h)
+
+melted_ESG_MS4h <- melt(upper_ESG_MS4h, na.rm = TRUE)
+
+# Create the heat maps
+heatmap4M <- ggplot(data=melted_ESG_MS4h, aes(x=Var1, y=Var2, fill=value)) + 
+  geom_tile(color="orange")+
+  labs(y= "", x = "") +
+  scale_fill_gradient2(low="yellow", high="red", mid="orange",
+                       midpoint=0.5, limit=c(0,1), space="Lab",
+                       name="Cosine\nSimilarity") +
+  theme_minimal()+theme(axis.text.x=element_text(angle=45, vjust=1,
+                                                 size=12, hjust=1, family="serif"))+
+  coord_fixed()
+
+##################################################################
+ESG_MS5h <- reorder_cormat(ESG_MS5h)
+upper_ESG_MS5h <- get_upper_tri(ESG_MS5h)
+
+melted_ESG_MS5h <- melt(upper_ESG_MS5h, na.rm = TRUE)
+
+# Create the heat maps
+heatmap5M <- ggplot(data=melted_ESG_MS5h, aes(x=Var1, y=Var2, fill=value)) + 
+  geom_tile(color="orange")+
+  labs(y= "", x = "") +
+  scale_fill_gradient2(low="yellow", high="red", mid="orange",
+                       midpoint=0.5, limit=c(0,1), space="Lab",
+                       name="Cosine\nSimilarity") +
+  theme_minimal()+theme(axis.text.x=element_text(angle=45, vjust=1,
+                                                 size=12, hjust=1, family="serif"))+
+  coord_fixed()
+
+################################################################
+ESG_MS6h <- reorder_cormat(ESG_MS6h)
+upper_ESG_MS6h <- get_upper_tri(ESG_MS6h)
+
+melted_ESG_MS6h <- melt(upper_ESG_MS6h, na.rm = TRUE)
+
+# Create the heat maps
+heatmap6M <- ggplot(data=melted_ESG_MS6h, aes(x=Var1, y=Var2, fill=value)) + 
+  geom_tile(color="orange")+
+  labs(y= "", x = "") +
+  scale_fill_gradient2(low="yellow", high="red", mid="orange",
+                       midpoint=0.5, limit=c(0,1), space="Lab",
+                       name="Cosine\nSimilarity") +
+  theme_minimal()+theme(axis.text.x=element_text(angle=45, vjust=1,
+                                                 size=12, hjust=1, family="serif"))+
+  coord_fixed()
+
+###################################################################
+
+ESG_VS1h <- reorder_cormat(ESG_VS1h)
+upper_ESG_VS1h <- get_upper_tri(ESG_VS1h)
+
+melted_ESG_VS1h <- melt(upper_ESG_VS1h, na.rm = TRUE)
+
+# Create the heat maps
+heatmap1V <- ggplot(data=melted_ESG_VS1h, aes(x=Var1, y=Var2, fill=value)) + 
+  geom_tile(color="orange")+
+  labs(y= "", x = "") +
+  scale_fill_gradient2(low="yellow", high="red", mid="orange",
+                       midpoint=0.5, limit=c(0,1), space="Lab",
+                       name="Cosine\nSimilarity") +
+  theme_minimal()+theme(axis.text.x=element_text(angle=45, vjust=1,
+                                                 size=12, hjust=1, family="serif"))+
+  coord_fixed()
+
+####################################################################
+ESG_VS2h <- reorder_cormat(ESG_VS2h)
+upper_ESG_VS2h <- get_upper_tri(ESG_VS2h)
+
+melted_ESG_VS2h <- melt(upper_ESG_VS2h, na.rm = TRUE)
+
+# Create the heat maps
+heatmap2V <- ggplot(data=melted_ESG_VS2h, aes(x=Var1, y=Var2, fill=value)) + 
+  geom_tile(color="orange")+
+  labs(y= "", x = "") +
+  scale_fill_gradient2(low="yellow", high="red", mid="orange",
+                       midpoint=0.5, limit=c(0,1), space="Lab",
+                       name="Cosine\nSimilarity") +
+  theme_minimal()+theme(axis.text.x=element_text(angle=45, vjust=1,
+                                                 size=12, hjust=1, family="serif"))+
+  coord_fixed()
+
+#################################################################
+ESG_VS3h <- reorder_cormat(ESG_VS3h)
+upper_ESG_VS3h <- get_upper_tri(ESG_VS3h)
+
+melted_ESG_VS3h <- melt(upper_ESG_VS3h, na.rm = TRUE)
+
+# Create the heat maps
+heatmap3V <- ggplot(data=melted_ESG_VS3h, aes(x=Var1, y=Var2, fill=value)) + 
+  geom_tile(color="orange")+
+  labs(y= "", x = "") +
+  scale_fill_gradient2(low="yellow", high="red", mid="orange",
+                       midpoint=0.5, limit=c(0,1), space="Lab",
+                       name="Cosine\nSimilarity") +
+  theme_minimal()+theme(axis.text.x=element_text(angle=45, vjust=1,
+                                                 size=12, hjust=1, family="serif"))+
+  coord_fixed()
+
+####################################################################
+ESG_VS4h <- reorder_cormat(ESG_VS4h)
+upper_ESG_VS4h <- get_upper_tri(ESG_VS4h)
+
+melted_ESG_VS4h <- melt(upper_ESG_VS4h, na.rm = TRUE)
+
+# Create the heat maps
+heatmap4V <- ggplot(data=melted_ESG_VS4h, aes(x=Var1, y=Var2, fill=value)) + 
+  geom_tile(color="orange")+
+  labs(y= "", x = "") +
+  scale_fill_gradient2(low="yellow", high="red", mid="orange",
+                       midpoint=0.5, limit=c(0,1), space="Lab",
+                       name="Cosine\nSimilarity") +
+  theme_minimal()+theme(axis.text.x=element_text(angle=45, vjust=1,
+                                                 size=12, hjust=1, family="serif"))+
+  coord_fixed()
+
+##################################################################
+ESG_VS5h <- reorder_cormat(ESG_VS5h)
+upper_ESG_VS5h <- get_upper_tri(ESG_VS5h)
+
+melted_ESG_VS5h <- melt(upper_ESG_VS5h, na.rm = TRUE)
+
+# Create the heat maps
+heatmap5V <- ggplot(data=melted_ESG_VS5h, aes(x=Var1, y=Var2, fill=value)) + 
+  geom_tile(color="orange")+
+  labs(y= "", x = "") +
+  scale_fill_gradient2(low="yellow", high="red", mid="orange",
+                       midpoint=0.5, limit=c(0,1), space="Lab",
+                       name="Cosine\nSimilarity") +
+  theme_minimal()+theme(axis.text.x=element_text(angle=45, vjust=1,
+                                                 size=12, hjust=1, family="serif"))+
+  coord_fixed()
+
+################################################################
+ESG_VS6h <- reorder_cormat(ESG_VS6h)
+upper_ESG_VS6h <- get_upper_tri(ESG_VS6h)
+
+melted_ESG_VS6h <- melt(upper_ESG_VS6h, na.rm = TRUE)
+
+# Create the heat maps
+heatmap6V <- ggplot(data=melted_ESG_VS6h, aes(x=Var1, y=Var2, fill=value)) + 
+  geom_tile(color="orange")+
+  labs(y= "", x = "") +
+  scale_fill_gradient2(low="yellow", high="red", mid="orange",
+                       midpoint=0.5, limit=c(0,1), space="Lab",
+                       name="Cosine\nSimilarity") +
+  theme_minimal()+theme(axis.text.x=element_text(angle=45, vjust=1,
+                                                 size=12, hjust=1, family="serif"))+
+  coord_fixed()
+
+ggarrange(heatmap1M,heatmap2M,heatmap3M,heatmap4M,heatmap5M,heatmap6M)
+ggarrange(heatmap1V,heatmap2V,heatmap3V,heatmap4V,heatmap5V,heatmap6V)
+
 ```
 
 ## Calculating Difference-in-Means and test for significance (within groups and compared to ESG doc)
@@ -843,6 +1113,31 @@ ESGMV62$M <- ifelse(ESGMV62$REGION.y=="International",ESGMV62$M.x,ESGMV62$M.y)
 ESGMV62$M <- ifelse(ESGMV62$M==1,0,1)
 ESGMV62$M <- as.factor(ESGMV62$M)
 
+# Set the group type variable right (METRIC_TYPE)
+ESGMV12$METRIC_TYPE <- ifelse(ESGMV12$REGION.y=="International",ESGMV12$GROUP_TYPE.y,ESGMV12$GROUP_TYPE.x)
+ESGMV12$METRIC_TYPE <- ifelse(ESGMV12$METRIC_TYPE==1,"E",ifelse(ESGMV12$METRIC_TYPE==3,"G","S"))
+ESGMV12$METRIC_TYPE <- as.factor(ESGMV12$METRIC_TYPE)
+
+ESGMV22$METRIC_TYPE <- ifelse(ESGMV22$REGION.y=="International",ESGMV22$GROUP_TYPE.y,ESGMV22$GROUP_TYPE.x)
+ESGMV22$METRIC_TYPE <- ifelse(ESGMV22$METRIC_TYPE==1, "E",ifelse(ESGMV22$METRIC_TYPE==3,"G","S"))
+ESGMV22$METRIC_TYPE <- as.factor(ESGMV22$METRIC_TYPE)
+
+ESGMV32$METRIC_TYPE <- ifelse(ESGMV32$REGION.y=="International",ESGMV32$GROUP_TYPE.y,ESGMV32$GROUP_TYPE.x)
+ESGMV32$METRIC_TYPE <- ifelse(ESGMV32$METRIC_TYPE==1, "E",ifelse(ESGMV32$METRIC_TYPE==3,"G","S"))
+ESGMV32$METRIC_TYPE <- as.factor(ESGMV32$METRIC_TYPE)
+
+ESGMV42$METRIC_TYPE <- ifelse(ESGMV42$REGION.y=="International",ESGMV42$GROUP_TYPE.y,ESGMV42$GROUP_TYPE.y)
+ESGMV42$METRIC_TYPE <- ifelse(ESGMV42$METRIC_TYPE==1, "E",ifelse(ESGMV42$METRIC_TYPE==3,"G","S"))
+ESGMV42$METRIC_TYPE <- as.factor(ESGMV42$METRIC_TYPE)
+
+ESGMV52$METRIC_TYPE <- ifelse(ESGMV52$REGION.y=="International",ESGMV52$GROUP_TYPE.y,ESGMV52$GROUP_TYPE.x)
+ESGMV52$METRIC_TYPE <- ifelse(ESGMV52$METRIC_TYPE==1, "E",ifelse(ESGMV52$METRIC_TYPE==3,"G","S"))
+ESGMV52$METRIC_TYPE <- as.factor(ESGMV52$METRIC_TYPE)
+
+ESGMV62$METRIC_TYPE <- ifelse(ESGMV62$REGION.y=="International",ESGMV62$GROUP_TYPE.y,ESGMV62$GROUP_TYPE.x)
+ESGMV62$METRIC_TYPE <- ifelse(ESGMV62$METRIC_TYPE==1, "E",ifelse(ESGMV62$METRIC_TYPE==3,"G","S"))
+ESGMV62$METRIC_TYPE <- as.factor(ESGMV62$METRIC_TYPE)
+
 # Calculate average
 AESGMV1 <- ESGMV1 %>% group_by(M.x) %>% summarise(avg_cosine=mean(cosine))
 AESGMV2 <- ESGMV2 %>% group_by(M.x) %>% summarise(avg_cosine=mean(cosine))
@@ -851,12 +1146,12 @@ AESGMV4 <- ESGMV4 %>% group_by(M.x) %>% summarise(avg_cosine=mean(cosine))
 AESGMV5 <- ESGMV5 %>% group_by(M.x) %>% summarise(avg_cosine=mean(cosine))
 AESGMV6 <- ESGMV6 %>% group_by(M.x) %>% summarise(avg_cosine=mean(cosine))
 
-AESGMV12 <- ESGMV12 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
-AESGMV22 <- ESGMV22 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
-AESGMV32 <- ESGMV32 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
-AESGMV42 <- ESGMV42 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
-AESGMV52 <- ESGMV52 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
-AESGMV62 <- ESGMV62 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
+AESGMV12 <- ESGMV12 %>% group_by(M, METRIC_TYPE) %>% summarise(avg_cosine=mean(cosine))
+AESGMV22 <- ESGMV22 %>% group_by(M, METRIC_TYPE) %>% summarise(avg_cosine=mean(cosine))
+AESGMV32 <- ESGMV32 %>% group_by(M, METRIC_TYPE) %>% summarise(avg_cosine=mean(cosine))
+AESGMV42 <- ESGMV42 %>% group_by(M, METRIC_TYPE) %>% summarise(avg_cosine=mean(cosine))
+AESGMV52 <- ESGMV52 %>% group_by(M, METRIC_TYPE) %>% summarise(avg_cosine=mean(cosine))
+AESGMV62 <- ESGMV62 %>% group_by(M, METRIC_TYPE) %>% summarise(avg_cosine=mean(cosine))
 
 # ESG Mandatory and G Mandatory -----------------------------------------------------------------------------------------------------
 ESGGM1 <- rbind(ESGM1,GM1)
@@ -964,6 +1259,31 @@ ESGGM62$GROUP_TYPE <- ifelse(ESGGM62$REGION.y=="International",ESGGM62$GROUP_TYP
 ESGGM62$GROUP_TYPE <- ifelse(ESGGM62$GROUP_TYPE==2,"ESG","G")
 ESGGM62$GROUP_TYPE <- as.factor(ESGGM62$GROUP_TYPE)
 
+# Set the group type variable right (METRIC_TYPE)
+ESGGM12$METRIC_TYPE <- ifelse(ESGGM12$REGION.y=="International",ESGGM12$GROUP_TYPE.y,ESGGM12$GROUP_TYPE.x)
+ESGGM12$METRIC_TYPE <- ifelse(ESGGM12$METRIC_TYPE==1,"E",ifelse(ESGGM12$METRIC_TYPE==3,"G","S"))
+ESGGM12$METRIC_TYPE <- as.factor(ESGGM12$METRIC_TYPE)
+
+ESGGM22$METRIC_TYPE <- ifelse(ESGGM22$REGION.y=="International",ESGGM22$GROUP_TYPE.y,ESGGM22$GROUP_TYPE.x)
+ESGGM22$METRIC_TYPE <- ifelse(ESGGM22$METRIC_TYPE==1, "E",ifelse(ESGGM22$METRIC_TYPE==3,"G","S"))
+ESGGM22$METRIC_TYPE <- as.factor(ESGGM22$METRIC_TYPE)
+
+ESGGM32$METRIC_TYPE <- ifelse(ESGGM32$REGION.y=="International",ESGGM32$GROUP_TYPE.y,ESGGM32$GROUP_TYPE.x)
+ESGGM32$METRIC_TYPE <- ifelse(ESGGM32$METRIC_TYPE==1, "E",ifelse(ESGGM32$METRIC_TYPE==3,"G","S"))
+ESGGM32$METRIC_TYPE <- as.factor(ESGGM32$METRIC_TYPE)
+
+ESGGM42$METRIC_TYPE <- ifelse(ESGGM42$REGION.y=="International",ESGGM42$GROUP_TYPE.y,ESGGM42$GROUP_TYPE.y)
+ESGGM42$METRIC_TYPE <- ifelse(ESGGM42$METRIC_TYPE==1, "E",ifelse(ESGGM42$METRIC_TYPE==3,"G","S"))
+ESGGM42$METRIC_TYPE <- as.factor(ESGGM42$METRIC_TYPE)
+
+ESGGM52$METRIC_TYPE <- ifelse(ESGGM52$REGION.y=="International",ESGGM52$GROUP_TYPE.y,ESGGM52$GROUP_TYPE.x)
+ESGGM52$METRIC_TYPE <- ifelse(ESGGM52$METRIC_TYPE==1, "E",ifelse(ESGGM52$METRIC_TYPE==3,"G","S"))
+ESGGM52$METRIC_TYPE <- as.factor(ESGGM52$METRIC_TYPE)
+
+ESGGM62$METRIC_TYPE <- ifelse(ESGGM62$REGION.y=="International",ESGGM62$GROUP_TYPE.y,ESGGM62$GROUP_TYPE.x)
+ESGGM62$METRIC_TYPE <- ifelse(ESGGM62$METRIC_TYPE==1, "E",ifelse(ESGGM62$METRIC_TYPE==3,"G","S"))
+ESGGM62$METRIC_TYPE <- as.factor(ESGGM62$METRIC_TYPE)
+
 # Calculate average
 AESGGM1 <- ESGGM1 %>% group_by(GROUP_TYPE.x) %>% summarise(avg_cosine=mean(cosine))
 AESGGM2 <- ESGGM2 %>% group_by(GROUP_TYPE.x) %>% summarise(avg_cosine=mean(cosine))
@@ -972,12 +1292,12 @@ AESGGM4 <- ESGGM4 %>% group_by(GROUP_TYPE.x) %>% summarise(avg_cosine=mean(cosin
 AESGGM5 <- ESGGM5 %>% group_by(GROUP_TYPE.x) %>% summarise(avg_cosine=mean(cosine))
 AESGGM6 <- ESGGM6 %>% group_by(GROUP_TYPE.x) %>% summarise(avg_cosine=mean(cosine))
 
-AESGGM12 <- ESGGM12 %>% group_by(GROUP_TYPE) %>% summarise(avg_cosine=mean(cosine))
-AESGGM22 <- ESGGM22 %>% group_by(GROUP_TYPE) %>% summarise(avg_cosine=mean(cosine))
-AESGGM32 <- ESGGM32 %>% group_by(GROUP_TYPE) %>% summarise(avg_cosine=mean(cosine))
-AESGGM42 <- ESGGM42 %>% group_by(GROUP_TYPE) %>% summarise(avg_cosine=mean(cosine))
-AESGGM52 <- ESGGM52 %>% group_by(GROUP_TYPE) %>% summarise(avg_cosine=mean(cosine))
-AESGGM62 <- ESGGM62 %>% group_by(GROUP_TYPE) %>% summarise(avg_cosine=mean(cosine))
+AESGGM12 <- ESGGM12 %>% group_by(GROUP_TYPE, METRIC_TYPE) %>% summarise(avg_cosine=mean(cosine))
+AESGGM22 <- ESGGM22 %>% group_by(GROUP_TYPE, METRIC_TYPE) %>% summarise(avg_cosine=mean(cosine))
+AESGGM32 <- ESGGM32 %>% group_by(GROUP_TYPE, METRIC_TYPE) %>% summarise(avg_cosine=mean(cosine))
+AESGGM42 <- ESGGM42 %>% group_by(GROUP_TYPE, METRIC_TYPE) %>% summarise(avg_cosine=mean(cosine))
+AESGGM52 <- ESGGM52 %>% group_by(GROUP_TYPE, METRIC_TYPE) %>% summarise(avg_cosine=mean(cosine))
+AESGGM62 <- ESGGM62 %>% group_by(GROUP_TYPE, METRIC_TYPE) %>% summarise(avg_cosine=mean(cosine))
 
 # ESG Voluntary and E voluntary -------------------------------------------------------------------------------------------------------------------
 ESGEV1 <- rbind(ESGV1,EV1)
@@ -1085,6 +1405,31 @@ ESGEV62$GROUP_TYPE <- ifelse(ESGEV62$REGION.y=="International",ESGEV62$GROUP_TYP
 ESGEV62$GROUP_TYPE <- ifelse(ESGEV62$GROUP_TYPE==2,"ESG","E")
 ESGEV62$GROUP_TYPE <- as.factor(ESGEV62$GROUP_TYPE)
 
+# Set the group type variable right (METRIC_TYPE)
+ESGEV12$METRIC_TYPE <- ifelse(ESGEV12$REGION.y=="International",ESGEV12$GROUP_TYPE.y,ESGEV12$GROUP_TYPE.x)
+ESGEV12$METRIC_TYPE <- ifelse(ESGEV12$METRIC_TYPE==1,"E",ifelse(ESGEV12$METRIC_TYPE==3,"G","S"))
+ESGEV12$METRIC_TYPE <- as.factor(ESGEV12$METRIC_TYPE)
+
+ESGEV22$METRIC_TYPE <- ifelse(ESGEV22$REGION.y=="International",ESGEV22$GROUP_TYPE.y,ESGEV22$GROUP_TYPE.x)
+ESGEV22$METRIC_TYPE <- ifelse(ESGEV22$METRIC_TYPE==1, "E",ifelse(ESGEV22$METRIC_TYPE==3,"G","S"))
+ESGEV22$METRIC_TYPE <- as.factor(ESGEV22$METRIC_TYPE)
+
+ESGEV32$METRIC_TYPE <- ifelse(ESGEV32$REGION.y=="International",ESGEV32$GROUP_TYPE.y,ESGEV32$GROUP_TYPE.x)
+ESGEV32$METRIC_TYPE <- ifelse(ESGEV32$METRIC_TYPE==1, "E",ifelse(ESGEV32$METRIC_TYPE==3,"G","S"))
+ESGEV32$METRIC_TYPE <- as.factor(ESGEV32$METRIC_TYPE)
+
+ESGEV42$METRIC_TYPE <- ifelse(ESGEV42$REGION.y=="International",ESGEV42$GROUP_TYPE.y,ESGEV42$GROUP_TYPE.y)
+ESGEV42$METRIC_TYPE <- ifelse(ESGEV42$METRIC_TYPE==1, "E",ifelse(ESGEV42$METRIC_TYPE==3,"G","S"))
+ESGEV42$METRIC_TYPE <- as.factor(ESGEV42$METRIC_TYPE)
+
+ESGEV52$METRIC_TYPE <- ifelse(ESGEV52$REGION.y=="International",ESGEV52$GROUP_TYPE.y,ESGEV52$GROUP_TYPE.x)
+ESGEV52$METRIC_TYPE <- ifelse(ESGEV52$METRIC_TYPE==1, "E",ifelse(ESGEV52$METRIC_TYPE==3,"G","S"))
+ESGEV52$METRIC_TYPE <- as.factor(ESGEV52$METRIC_TYPE)
+
+ESGEV62$METRIC_TYPE <- ifelse(ESGEV62$REGION.y=="International",ESGEV62$GROUP_TYPE.y,ESGEV62$GROUP_TYPE.x)
+ESGEV62$METRIC_TYPE <- ifelse(ESGEV62$METRIC_TYPE==1, "E",ifelse(ESGEV62$METRIC_TYPE==3,"G","S"))
+ESGEV62$METRIC_TYPE <- as.factor(ESGEV62$METRIC_TYPE)
+
 # Calculate average
 AESGEV1 <- ESGEV1 %>% group_by(GROUP_TYPE.x) %>% summarise(avg_cosine=mean(cosine))
 AESGEV2 <- ESGEV2 %>% group_by(GROUP_TYPE.x) %>% summarise(avg_cosine=mean(cosine))
@@ -1093,12 +1438,12 @@ AESGEV4 <- ESGEV4 %>% group_by(GROUP_TYPE.x) %>% summarise(avg_cosine=mean(cosin
 AESGEV5 <- ESGEV5 %>% group_by(GROUP_TYPE.x) %>% summarise(avg_cosine=mean(cosine))
 AESGEV6 <- ESGEV6 %>% group_by(GROUP_TYPE.x) %>% summarise(avg_cosine=mean(cosine))
 
-AESGEV12 <- ESGEV12 %>% group_by(GROUP_TYPE) %>% summarise(avg_cosine=mean(cosine))
-AESGEV22 <- ESGEV22 %>% group_by(GROUP_TYPE) %>% summarise(avg_cosine=mean(cosine))
-AESGEV32 <- ESGEV32 %>% group_by(GROUP_TYPE) %>% summarise(avg_cosine=mean(cosine))
-AESGEV42 <- ESGEV42 %>% group_by(GROUP_TYPE) %>% summarise(avg_cosine=mean(cosine))
-AESGEV52 <- ESGEV52 %>% group_by(GROUP_TYPE) %>% summarise(avg_cosine=mean(cosine))
-AESGEV62 <- ESGEV62 %>% group_by(GROUP_TYPE) %>% summarise(avg_cosine=mean(cosine))
+AESGEV12 <- ESGEV12 %>% group_by(GROUP_TYPE, METRIC_TYPE) %>% summarise(avg_cosine=mean(cosine))
+AESGEV22 <- ESGEV22 %>% group_by(GROUP_TYPE, METRIC_TYPE) %>% summarise(avg_cosine=mean(cosine))
+AESGEV32 <- ESGEV32 %>% group_by(GROUP_TYPE, METRIC_TYPE) %>% summarise(avg_cosine=mean(cosine))
+AESGEV42 <- ESGEV42 %>% group_by(GROUP_TYPE, METRIC_TYPE) %>% summarise(avg_cosine=mean(cosine))
+AESGEV52 <- ESGEV52 %>% group_by(GROUP_TYPE, METRIC_TYPE) %>% summarise(avg_cosine=mean(cosine))
+AESGEV62 <- ESGEV62 %>% group_by(GROUP_TYPE, METRIC_TYPE) %>% summarise(avg_cosine=mean(cosine))
 
 
 # ESG Both ----------------------------------------------------------------------------------------------------------------------------------
@@ -1168,46 +1513,45 @@ ESGB62$filter1 <- ifelse(ESGB62$GROUP_TYPE.x=="ESG",1,0)
 ESGB62$filter2 <- ifelse(ESGB62$GROUP_TYPE.y=="ESG",1,0)
 ESGB62 <- ESGB62[ESGB62$filter1>0 | ESGB62$filter2>0, ]
 
-# Set the Mandatory variable right (M)
-ESGB12$M <- ifelse(ESGB12$REGION.y=="International",ESGB12$M.x,ESGB12$M.y)
-ESGB12$M <- ifelse(ESGB12$M==1,0,1)
-ESGB12$M <- as.factor(ESGB12$M)
+# Set the group type variable right (METRIC_TYPE)
+ESGB12$METRIC_TYPE <- ifelse(ESGB12$REGION.y=="International",ESGB12$GROUP_TYPE.y,ESGB12$GROUP_TYPE.x)
+ESGB12$METRIC_TYPE <- ifelse(ESGB12$METRIC_TYPE==1,"E",ifelse(ESGB12$METRIC_TYPE==3,"G","S"))
+ESGB12$METRIC_TYPE <- as.factor(ESGB12$METRIC_TYPE)
 
-ESGB22$M <- ifelse(ESGB22$REGION.y=="International",ESGB22$M.x,ESGB22$M.y)
-ESGB22$M <- ifelse(ESGB22$M==1,0,1)
-ESGB22$M <- as.factor(ESGB22$M)
+ESGB22$METRIC_TYPE <- ifelse(ESGB22$REGION.y=="International",ESGB22$GROUP_TYPE.y,ESGB22$GROUP_TYPE.x)
+ESGB22$METRIC_TYPE <- ifelse(ESGB22$METRIC_TYPE==1, "E",ifelse(ESGB22$METRIC_TYPE==3,"G","S"))
+ESGB22$METRIC_TYPE <- as.factor(ESGB22$METRIC_TYPE)
 
-ESGB32$M <- ifelse(ESGB32$REGION.y=="International",ESGB32$M.x,ESGB32$M.y)
-ESGB32$M <- ifelse(ESGB32$M==1,0,1)
-ESGB32$M <- as.factor(ESGB32$M)
+ESGB32$METRIC_TYPE <- ifelse(ESGB32$REGION.y=="International",ESGB32$GROUP_TYPE.y,ESGB32$GROUP_TYPE.x)
+ESGB32$METRIC_TYPE <- ifelse(ESGB32$METRIC_TYPE==1, "E",ifelse(ESGB32$METRIC_TYPE==3,"G","S"))
+ESGB32$METRIC_TYPE <- as.factor(ESGB32$METRIC_TYPE)
 
-ESGB42$M <- ifelse(ESGB42$REGION.y=="International",ESGB42$M.x,ESGB42$M.y)
-ESGB42$M <- ifelse(ESGB42$M==1,0,1)
-ESGB42$M <- as.factor(ESGB42$M)
+ESGB42$METRIC_TYPE <- ifelse(ESGB42$REGION.y=="International",ESGB42$GROUP_TYPE.y,ESGB42$GROUP_TYPE.y)
+ESGB42$METRIC_TYPE <- ifelse(ESGB42$METRIC_TYPE==1, "E",ifelse(ESGB42$METRIC_TYPE==3,"G","S"))
+ESGB42$METRIC_TYPE <- as.factor(ESGB42$METRIC_TYPE)
 
-ESGB52$M <- ifelse(ESGB52$REGION.y=="International",ESGB52$M.x,ESGB52$M.y)
-ESGB52$M <- ifelse(ESGB52$M==1,0,1)
-ESGB52$M <- as.factor(ESGB52$M)
+ESGB52$METRIC_TYPE <- ifelse(ESGB52$REGION.y=="International",ESGB52$GROUP_TYPE.y,ESGB52$GROUP_TYPE.x)
+ESGB52$METRIC_TYPE <- ifelse(ESGB52$METRIC_TYPE==1, "E",ifelse(ESGB52$METRIC_TYPE==3,"G","S"))
+ESGB52$METRIC_TYPE <- as.factor(ESGB52$METRIC_TYPE)
 
-ESGB62$M <- ifelse(ESGB62$REGION.y=="International",ESGB62$M.x,ESGB62$M.y)
-ESGB62$M <- ifelse(ESGB62$M==1,0,1)
-ESGB62$M <- as.factor(ESGB62$M)
+ESGB62$METRIC_TYPE <- ifelse(ESGB62$REGION.y=="International",ESGB62$GROUP_TYPE.y,ESGB62$GROUP_TYPE.x)
+ESGB62$METRIC_TYPE <- ifelse(ESGB62$METRIC_TYPE==1, "E",ifelse(ESGB62$METRIC_TYPE==3,"G","S"))
+ESGB62$METRIC_TYPE <- as.factor(ESGB62$METRIC_TYPE)
 
 # Calculate average
-AESGB1 <- ESGB1 %>% group_by(M.x) %>% summarise(avg_cosine=mean(cosine))
-AESGB2 <- ESGB2 %>% group_by(M.x) %>% summarise(avg_cosine=mean(cosine))
-AESGB3 <- ESGB3 %>% group_by(M.x) %>% summarise(avg_cosine=mean(cosine))
-AESGB4 <- ESGB4 %>% group_by(M.x) %>% summarise(avg_cosine=mean(cosine))
-AESGB5 <- ESGB5 %>% group_by(M.x) %>% summarise(avg_cosine=mean(cosine))
-AESGB6 <- ESGB6 %>% group_by(M.x) %>% summarise(avg_cosine=mean(cosine))
+AESGB1 <- ESGB1 %>% group_by(M.x, M.y) %>% summarise(avg_cosine=mean(cosine))
+AESGB2 <- ESGB2 %>% group_by(M.x, M.y) %>% summarise(avg_cosine=mean(cosine))
+AESGB3 <- ESGB3 %>% group_by(M.x, M.y) %>% summarise(avg_cosine=mean(cosine))
+AESGB4 <- ESGB4 %>% group_by(M.x, M.y) %>% summarise(avg_cosine=mean(cosine))
+AESGB5 <- ESGB5 %>% group_by(M.x, M.y) %>% summarise(avg_cosine=mean(cosine))
+AESGB6 <- ESGB6 %>% group_by(M.x, M.y) %>% summarise(avg_cosine=mean(cosine))
 
-AESGB12 <- ESGB12 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
-AESGB22 <- ESGB22 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
-AESGB32 <- ESGB32 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
-AESGB42 <- ESGB42 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
-AESGB52 <- ESGB52 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
-AESGB62 <- ESGB62 %>% group_by(M) %>% summarise(avg_cosine=mean(cosine))
-
+AESGB12 <- ESGB12 %>% group_by(METRIC_TYPE, M.x, M.y) %>% summarise(avg_cosine=mean(cosine))
+AESGB22 <- ESGB22 %>% group_by(METRIC_TYPE, M.x, M.y) %>% summarise(avg_cosine=mean(cosine))
+AESGB32 <- ESGB32 %>% group_by(METRIC_TYPE, M.x, M.y) %>% summarise(avg_cosine=mean(cosine))
+AESGB42 <- ESGB42 %>% group_by(METRIC_TYPE, M.x, M.y) %>% summarise(avg_cosine=mean(cosine))
+AESGB52 <- ESGB52 %>% group_by(METRIC_TYPE, M.x, M.y) %>% summarise(avg_cosine=mean(cosine))
+AESGB62 <- ESGB62 %>% group_by(METRIC_TYPE, M.x, M.y) %>% summarise(avg_cosine=mean(cosine))
 
 # ESG Voluntary ---------------------------------------------------------------------
 # Merge with metadata
@@ -1301,6 +1645,31 @@ ESGV62$ESG_LISTING_RULE <- ifelse(ESGV62$REGION.y=="International",ESGV62$ESG_LI
 ESGV62$ESG_LISTING_RULE <- ifelse(ESGV62$ESG_LISTING_RULE==1,0,1)
 ESGV62$ESG_LISTING_RULE <- as.factor(ESGV62$ESG_LISTING_RULE)
 
+# Set the group type variable right (METRIC_TYPE)
+ESGV12$METRIC_TYPE <- ifelse(ESGV12$REGION.y=="International",ESGV12$GROUP_TYPE.y,ESGV12$GROUP_TYPE.x)
+ESGV12$METRIC_TYPE <- ifelse(ESGV12$METRIC_TYPE==1,"E",ifelse(ESGV12$METRIC_TYPE==3,"G","S"))
+ESGV12$METRIC_TYPE <- as.factor(ESGV12$METRIC_TYPE)
+
+ESGV22$METRIC_TYPE <- ifelse(ESGV22$REGION.y=="International",ESGV22$GROUP_TYPE.y,ESGV22$GROUP_TYPE.x)
+ESGV22$METRIC_TYPE <- ifelse(ESGV22$METRIC_TYPE==1, "E",ifelse(ESGV22$METRIC_TYPE==3,"G","S"))
+ESGV22$METRIC_TYPE <- as.factor(ESGV22$METRIC_TYPE)
+
+ESGV32$METRIC_TYPE <- ifelse(ESGV32$REGION.y=="International",ESGV32$GROUP_TYPE.y,ESGV32$GROUP_TYPE.x)
+ESGV32$METRIC_TYPE <- ifelse(ESGV32$METRIC_TYPE==1, "E",ifelse(ESGV32$METRIC_TYPE==3,"G","S"))
+ESGV32$METRIC_TYPE <- as.factor(ESGV32$METRIC_TYPE)
+
+ESGV42$METRIC_TYPE <- ifelse(ESGV42$REGION.y=="International",ESGV42$GROUP_TYPE.y,ESGV42$GROUP_TYPE.y)
+ESGV42$METRIC_TYPE <- ifelse(ESGV42$METRIC_TYPE==1, "E",ifelse(ESGV42$METRIC_TYPE==3,"G","S"))
+ESGV42$METRIC_TYPE <- as.factor(ESGV42$METRIC_TYPE)
+
+ESGV52$METRIC_TYPE <- ifelse(ESGV52$REGION.y=="International",ESGV52$GROUP_TYPE.y,ESGV52$GROUP_TYPE.x)
+ESGV52$METRIC_TYPE <- ifelse(ESGV52$METRIC_TYPE==1, "E",ifelse(ESGV52$METRIC_TYPE==3,"G","S"))
+ESGV52$METRIC_TYPE <- as.factor(ESGV52$METRIC_TYPE)
+
+ESGV62$METRIC_TYPE <- ifelse(ESGV62$REGION.y=="International",ESGV62$GROUP_TYPE.y,ESGV62$GROUP_TYPE.x)
+ESGV62$METRIC_TYPE <- ifelse(ESGV62$METRIC_TYPE==1, "E",ifelse(ESGV62$METRIC_TYPE==3,"G","S"))
+ESGV62$METRIC_TYPE <- as.factor(ESGV62$METRIC_TYPE)
+
 
 # Calculate average
 AESGV1 <- ESGV1 %>% group_by(ESG_LISTING_RULE.y) %>% summarise(avg_cosine=mean(cosine))
@@ -1310,13 +1679,97 @@ AESGV4 <- ESGV4 %>% group_by(ESG_LISTING_RULE.y) %>% summarise(avg_cosine=mean(c
 AESGV5 <- ESGV5 %>% group_by(ESG_LISTING_RULE.y) %>% summarise(avg_cosine=mean(cosine))
 AESGV6 <- ESGV6 %>% group_by(ESG_LISTING_RULE.y) %>% summarise(avg_cosine=mean(cosine))
 
-AESGV12 <- ESGV12 %>% group_by(ESG_LISTING_RULE) %>% summarise(avg_cosine=mean(cosine))
-AESGV22 <- ESGV22 %>% group_by(ESG_LISTING_RULE) %>% summarise(avg_cosine=mean(cosine))
-AESGV32 <- ESGV32 %>% group_by(ESG_LISTING_RULE) %>% summarise(avg_cosine=mean(cosine))
-AESGV42 <- ESGV42 %>% group_by(ESG_LISTING_RULE) %>% summarise(avg_cosine=mean(cosine))
-AESGV52 <- ESGV52 %>% group_by(ESG_LISTING_RULE) %>% summarise(avg_cosine=mean(cosine))
-AESGV62 <- ESGV62 %>% group_by(ESG_LISTING_RULE) %>% summarise(avg_cosine=mean(cosine))
+AESGV12 <- ESGV12 %>% group_by(ESG_LISTING_RULE, METRIC_TYPE) %>% summarise(avg_cosine=mean(cosine))
+AESGV22 <- ESGV22 %>% group_by(ESG_LISTING_RULE, METRIC_TYPE) %>% summarise(avg_cosine=mean(cosine))
+AESGV32 <- ESGV32 %>% group_by(ESG_LISTING_RULE, METRIC_TYPE) %>% summarise(avg_cosine=mean(cosine))
+AESGV42 <- ESGV42 %>% group_by(ESG_LISTING_RULE, METRIC_TYPE) %>% summarise(avg_cosine=mean(cosine))
+AESGV52 <- ESGV52 %>% group_by(ESG_LISTING_RULE, METRIC_TYPE) %>% summarise(avg_cosine=mean(cosine))
+AESGV62 <- ESGV62 %>% group_by(ESG_LISTING_RULE, METRIC_TYPE) %>% summarise(avg_cosine=mean(cosine))
 
+```
+
+Show the results:
+```{r}
+# ESG mandatory and ESG voluntary --------------------------------------------------------------------
+
+AESGMV1 
+AESGMV2 
+AESGMV3 
+AESGMV4 
+AESGMV5  
+AESGMV6  
+
+AESGMV12 
+AESGMV22 
+AESGMV32 
+AESGMV42 
+AESGMV52 
+AESGMV62 
+
+# ESG Mandatory and G Mandatory -----------------------------------------------------------------------------------------------------
+
+AESGGM1 
+AESGGM2 
+AESGGM3 
+AESGGM4 
+AESGGM5
+AESGGM6
+
+AESGGM12
+AESGGM22 
+AESGGM32
+AESGGM42 
+AESGGM52 
+AESGGM62
+
+# ESG Voluntary and E voluntary -----------------------------------------------------------------------------------------------------------------
+
+AESGEV1 
+AESGEV2 
+AESGEV3
+AESGEV4
+AESGEV5
+AESGEV6 
+
+AESGEV12 
+AESGEV22 
+AESGEV32
+AESGEV42
+AESGEV52 
+AESGEV62 
+
+# ESG BOTH (cross similarity) ----------------------------------------------------------------
+
+AESGB1
+AESGB2 
+AESGB3
+AESGB4
+AESGB5
+AESGB6
+
+AESGB12
+AESGB22
+AESGB32 
+AESGB42 
+AESGB52 
+AESGB62
+
+
+# ESG Voluntary (listing rule) ---------------------------------------------------------------------
+
+AESGV1
+AESGV2 
+AESGV3
+AESGV4
+AESGV5
+AESGV6
+
+AESGV12
+AESGV22
+AESGV32 
+AESGV42 
+AESGV52 
+AESGV62 
 ```
 
 ## Regression
@@ -1330,12 +1783,29 @@ model4 <- lm(cosine~M.x, data = ESGMV4)
 model5 <- lm(cosine~M.x, data = ESGMV5)
 model6 <- lm(cosine~M.x, data = ESGMV6)
 
-model12 <- lm(cosine~M, data = ESGMV12)
-model22 <- lm(cosine~M, data = ESGMV22)
-model32 <- lm(cosine~M, data = ESGMV32)
-model42 <- lm(cosine~M, data = ESGMV42)
-model52 <- lm(cosine~M, data = ESGMV52)
-model62 <- lm(cosine~M, data = ESGMV62)
+# E
+model12e <- lm(cosine~M, data = ESGMV12, subset=(METRIC_TYPE=="E"))
+model22e <- lm(cosine~M, data = ESGMV22, subset=(METRIC_TYPE=="E"))
+model32e <- lm(cosine~M, data = ESGMV32, subset=(METRIC_TYPE=="E"))
+model42e <- lm(cosine~M, data = ESGMV42, subset=(METRIC_TYPE=="E"))
+model52e <- lm(cosine~M, data = ESGMV52, subset=(METRIC_TYPE=="E"))
+model62e <- lm(cosine~M, data = ESGMV62, subset=(METRIC_TYPE=="E"))
+
+# S
+model12s <- lm(cosine~M, data = ESGMV12, subset=(METRIC_TYPE=="S"))
+model22s <- lm(cosine~M, data = ESGMV22, subset=(METRIC_TYPE=="S"))
+model32s <- lm(cosine~M, data = ESGMV32, subset=(METRIC_TYPE=="S"))
+model42s <- lm(cosine~M, data = ESGMV42, subset=(METRIC_TYPE=="S"))
+model52s <- lm(cosine~M, data = ESGMV52, subset=(METRIC_TYPE=="S"))
+model62s <- lm(cosine~M, data = ESGMV62, subset=(METRIC_TYPE=="S"))
+
+# G
+model12g <- lm(cosine~M, data = ESGMV12, subset=(METRIC_TYPE=="G"))
+model22g <- lm(cosine~M, data = ESGMV22, subset=(METRIC_TYPE=="G"))
+model32g <- lm(cosine~M, data = ESGMV32, subset=(METRIC_TYPE=="G"))
+model42g <- lm(cosine~M, data = ESGMV42, subset=(METRIC_TYPE=="G"))
+model52g <- lm(cosine~M, data = ESGMV52, subset=(METRIC_TYPE=="G"))
+model62g <- lm(cosine~M, data = ESGMV62, subset=(METRIC_TYPE=="G"))
 
 summary(model1)
 summary(model2)
@@ -1344,12 +1814,26 @@ summary(model4)
 summary(model5)
 summary(model6)
 
-summary(model12)
-summary(model22)
-summary(model32)
-summary(model42)
-summary(model52)
-summary(model62)
+summary(model12e)
+summary(model22e)
+summary(model32e)
+summary(model42e)
+summary(model52e)
+summary(model62e)
+
+summary(model12s)
+summary(model22s)
+summary(model32s)
+summary(model42s)
+summary(model52s)
+summary(model62s)
+
+summary(model12g)
+summary(model22g)
+summary(model32g)
+summary(model42g)
+summary(model52g)
+summary(model62g)
 
 # ESG Mandatory and G Mandatory
 modelx1 <- lm(cosine~GROUP_TYPE.x, data = ESGGM1)
@@ -1359,12 +1843,13 @@ modelx4 <- lm(cosine~GROUP_TYPE.x, data = ESGGM4)
 modelx5 <- lm(cosine~GROUP_TYPE.x, data = ESGGM5)
 modelx6 <- lm(cosine~GROUP_TYPE.x, data = ESGGM6)
 
-modelx12 <- lm(cosine~GROUP_TYPE, data = ESGGM12)
-modelx22 <- lm(cosine~GROUP_TYPE, data = ESGGM22)
-modelx32 <- lm(cosine~GROUP_TYPE, data = ESGGM32)
-modelx42 <- lm(cosine~GROUP_TYPE, data = ESGGM42)
-modelx52 <- lm(cosine~GROUP_TYPE, data = ESGGM52)
-modelx62 <- lm(cosine~GROUP_TYPE, data = ESGGM62)
+# G
+modelx12g <- lm(cosine~GROUP_TYPE, data = ESGGM12, subset=(METRIC_TYPE=="G"))
+modelx22g <- lm(cosine~GROUP_TYPE, data = ESGGM22, subset=(METRIC_TYPE=="G"))
+modelx32g <- lm(cosine~GROUP_TYPE, data = ESGGM32, subset=(METRIC_TYPE=="G"))
+modelx42g <- lm(cosine~GROUP_TYPE, data = ESGGM42, subset=(METRIC_TYPE=="G"))
+modelx52g <- lm(cosine~GROUP_TYPE, data = ESGGM52, subset=(METRIC_TYPE=="G"))
+modelx62g <- lm(cosine~GROUP_TYPE, data = ESGGM62, subset=(METRIC_TYPE=="G"))
 
 summary(modelx1)
 summary(modelx2)
@@ -1373,12 +1858,12 @@ summary(modelx4)
 summary(modelx5)
 summary(modelx6)
 
-summary(modelx12)
-summary(modelx22)
-summary(modelx32)
-summary(modelx42)
-summary(modelx52)
-summary(modelx62)
+summary(modelx12g)
+summary(modelx22g)
+summary(modelx32g)
+summary(modelx42g)
+summary(modelx52g)
+summary(modelx62g)
 
 # ESG Voluntary and E Voluntary
 modely1 <- lm(cosine~GROUP_TYPE.x, data = ESGEV1)
@@ -1388,13 +1873,6 @@ modely4 <- lm(cosine~GROUP_TYPE.x, data = ESGEV4)
 modely5 <- lm(cosine~GROUP_TYPE.x, data = ESGEV5)
 modely6 <- lm(cosine~GROUP_TYPE.x, data = ESGEV6)
 
-modely12 <- lm(cosine~GROUP_TYPE, data = ESGEV12)
-modely22 <- lm(cosine~GROUP_TYPE, data = ESGEV22)
-modely32 <- lm(cosine~GROUP_TYPE, data = ESGEV32)
-modely42 <- lm(cosine~GROUP_TYPE, data = ESGEV42)
-modely52 <- lm(cosine~GROUP_TYPE, data = ESGEV52)
-modely62 <- lm(cosine~GROUP_TYPE, data = ESGEV62)
-
 summary(modely1)
 summary(modely2)
 summary(modely3)
@@ -1402,42 +1880,21 @@ summary(modely4)
 summary(modely5)
 summary(modely6)
 
-summary(modely12)
-summary(modely22)
-summary(modely32)
-summary(modely42)
-summary(modely52)
-summary(modely62)
+# E
+modely12e <- lm(cosine~GROUP_TYPE, data = ESGEV12, subset=(METRIC_TYPE=="E"))
+modely22e <- lm(cosine~GROUP_TYPE, data = ESGEV22, subset=(METRIC_TYPE=="E"))
+modely32e <- lm(cosine~GROUP_TYPE, data = ESGEV32, subset=(METRIC_TYPE=="E"))
+modely42e <- lm(cosine~GROUP_TYPE, data = ESGEV42, subset=(METRIC_TYPE=="E"))
+modely52e <- lm(cosine~GROUP_TYPE, data = ESGEV52, subset=(METRIC_TYPE=="E"))
+modely62e <- lm(cosine~GROUP_TYPE, data = ESGEV62, subset=(METRIC_TYPE=="E"))
 
-# ESG Both
-# ESG Mandatory and ESG Voluntary
-modelz1 <- lm(cosine~M.x, data = ESGB1)
-modelz2 <- lm(cosine~M.x, data = ESGB2)
-modelz3 <- lm(cosine~M.x, data = ESGB3)
-modelz4 <- lm(cosine~M.x, data = ESGB4)
-modelz5 <- lm(cosine~M.x, data = ESGB5)
-modelz6 <- lm(cosine~M.x, data = ESGB6)
+summary(modely12e)
+summary(modely22e)
+summary(modely32e)
+summary(modely42e)
+summary(modely52e)
+summary(modely62e)
 
-modelz12 <- lm(cosine~M, data = ESGB12)
-modelz22 <- lm(cosine~M, data = ESGB22)
-modelz32 <- lm(cosine~M, data = ESGB32)
-modelz42 <- lm(cosine~M, data = ESGB42)
-modelz52 <- lm(cosine~M, data = ESGB52)
-modelz62 <- lm(cosine~M, data = ESGB62)
-
-summary(modelz1)
-summary(modelz2)
-summary(modelz3)
-summary(modelz4)
-summary(modelz5)
-summary(modelz6)
-
-summary(modelz12)
-summary(modelz22)
-summary(modelz32)
-summary(modelz42)
-summary(modelz52)
-summary(modelz62)
 
 # ESG Voluntary with focus on ESG listing rule
 modela1 <- lm(cosine~ESG_LISTING_RULE.y, data = ESGV1)
@@ -1447,13 +1904,6 @@ modela4 <- lm(cosine~ESG_LISTING_RULE.y, data = ESGV4)
 modela5 <- lm(cosine~ESG_LISTING_RULE.y, data = ESGV5)
 modela6 <- lm(cosine~ESG_LISTING_RULE.y, data = ESGV6)
 
-modela12 <- lm(cosine~ESG_LISTING_RULE, data = ESGV12)
-modela22 <- lm(cosine~ESG_LISTING_RULE, data = ESGV22)
-modela32 <- lm(cosine~ESG_LISTING_RULE, data = ESGV32)
-modela42 <- lm(cosine~ESG_LISTING_RULE, data = ESGV42)
-modela52 <- lm(cosine~ESG_LISTING_RULE, data = ESGV52)
-modela62 <- lm(cosine~ESG_LISTING_RULE, data = ESGV62)
-
 summary(modela1)
 summary(modela2)
 summary(modela3)
@@ -1461,16 +1911,10 @@ summary(modela4)
 summary(modela5)
 summary(modela6)
 
-summary(modela12)
-summary(modela22)
-summary(modela32)
-summary(modela42)
-summary(modela52)
-summary(modela62)
 ```
 
 #H4. ESG keywords analysis
-Hypothesis 4 focuses on the frequency of ESG key topics among the 4 groups (ESG-M, ESG-V, E-V, G-V). It is examined if certain document groups contain significantly more ESG key topics. In order to construct a list with ESG key topics, a document with either E, S, or G metrics is used. Metrics in this document are categorized by theme and type (E/S/G). Instead of using all the words that are used to describe the metric, the text is tokenized and only the most important terms are kept. This is to make sure that the data does not contain too much generic words that do not specificely identify the metric (for example stop words like "the" "and" or generic verbs like "have" "can"). The importance of words is determined by calculating the log_TFIDF of every token in a ESG metric text document. Subsequently, the highest ranked words are selected. This is done manually, to avoid that there are still generic words in the ESG key word list. A total of 41 ESG metrics is used, and they are categorized among 15 ESG themes. This meta data on the metrics is contained in the file "Meta_Data_Metrics.csv" and will be merged with the tokenized text. After the key ESG terms are determined per metric, they are saved in a list "Metrics_Keywords.csv". A next step is to use this list as a filter on the whole corpus of ESG, E, and G regulations (Processed_Data). There are no separate sub-samples created for this task (as opposed to H3). This is because there is no global weighting variable used, which can be influenced by the overall frequency of tokens in the sample. Instead, the total frequency of words, per metric, per GROUP_ID document is calculated, and transformed to log2. Log transformation is applied because of the varying document length. 
+Hypothesis 4 focuses on the frequency of ESG key topics among the 4 groups (ESG-M, ESG-V, E-V, G-V). It is examined if certain document groups contain significantly more ESG key topics. In order to construct a list with ESG key topics, a document with either E, S, or G metrics is used. Metrics in this document are categorized by theme and type (E/S/G). Instead of using all the words that are used to describe the metric, the text is tokenized and only the most important terms are kept. This is to make sure that the data does not contain too much generic words that do not specifically identify the metric (for example stop words like "the" "and" or generic verbs like "have" "can"). The importance of words is determined by calculating the log_TFIDF of every token in an ESG metric text document. Subsequently, the highest ranked words are selected. This is done manually, to avoid that there are still generic words in the ESG key word list. Selecting only the top results, is what distincts this exercise from what was done at hypothesis 3 (cosine similarity between an E, S, or G document containing multiple metrics). A total of 41 ESG metrics is used, and they are categorized among 15 ESG themes. So, analysis can be done per theme, which therefore can give more detailed insights. The meta data on the metrics is contained in the file "Meta_Data_Metrics.csv" and will be merged with the tokenized text. After the key ESG terms are determined per metric, they are saved in a list "Metrics_Keywords.csv". A next step is to use this list as a filter on the whole corpus of ESG, E, and G regulations (Processed_Data). There are no separate sub-samples created for this task (as opposed to H3). This is because there is no global weighting variable used on the regulatory documents, which can be influenced by the overall frequency of tokens in the sample. Instead, the total frequency of words, per metric, per GROUP_ID document is calculated, and transformed to log2. Log transformation is applied because of the varying document length. 
 
 ## Select ESG key topics
 Use the Metrics_Data.RData to define the key words for every ESG metric. Importance of an ESG key word is determined by looking at the key expressions with the highest log TFIDF. The final selection is checked manually, to avoid generic terms being included as an ESG key term. 
@@ -1593,19 +2037,19 @@ Keywords_Sample <- subset(Keywords_Sample, GROUP_TYPE=="G" & THEME_TYPE=="G"  |
 ## Calculate averages and visualize the results
 First, the average log term frequencies are calculated for different groups. 
 ```{r}
-# Average TF per THEME
+# Average Log TF per THEME
 Total_THEME <- Keywords_Sample %>% group_by(THEME) %>% summarise(
                   avgTF=mean(NTF),
                   avgL_TF=mean(L_TF),
                   avgTFIDF=mean(LOG_TFIDF)) %>% ungroup()
 
-# Average TF per THEME_TYPE
-Total_THEME_TYPE <- Keywords_Sample %>% group_by(THEME_TYPE) %>% summarise(
+# Average Log TF per THEME_TYPE, Theme, M
+Total_THEME_TYPE <- Keywords_Sample %>% group_by(THEME_TYPE, THEME, M) %>% summarise(
                   avgTF=mean(NTF),
                   avgL_TF=mean(L_TF),
                   avgTFIDF=mean(LOG_TFIDF)) %>% ungroup()
 
-# Average Log TF per GROUP_TYPE+M, by THEME
+# Average Log TF per GROUP_TYPE+M, THEME, M
 Average_THEME <- Keywords_Sample %>% group_by(GROUP_TYPE, M, THEME) %>% summarise(
                   avgTF=mean(NTF),
                   avgL_TF=mean(L_TF),
@@ -1616,6 +2060,11 @@ Average_THEME_TYPE <- Keywords_Sample %>% group_by(GROUP_TYPE, M, THEME_TYPE) %>
                   avgTF=mean(NTF),
                   avgL_TF=mean(L_TF),
                   avgTFIDF=mean(LOG_TFIDF)) %>% ungroup()
+
+Total_THEME
+Total_THEME_TYPE
+Average_THEME
+Average_THEME_TYPE
 ```
 
 The results are visualized, to see the most important ESG key topics. In order to do this, a grouping variable is created to identify one of the 4 groups (ESG Mandatory, ESG Voluntary, E Voluntary, and G Mandatory).
@@ -1625,20 +2074,59 @@ Average_THEME$GROUP <- paste(Average_THEME$GROUP_TYPE,"_",Average_THEME$M)
 Average_THEME_TYPE$GROUP <- paste(Average_THEME_TYPE$GROUP_TYPE,"_",Average_THEME_TYPE$M)
 
 library(ggplot2)
+library(ggpubr)
 
-# Histogram of average log frequency per theme (TOTAL THEME data)
+# Bar chart of average log frequency per one of the 4 groups by theme (THEME data)
+graph1 <-ggplot(Average_THEME_TYPE, aes(x=GROUP, y=avgTF, fill=THEME_TYPE)) +
+  geom_col(position=position_dodge2(preserve = "single")) +
+  scale_fill_brewer(palette="Set2") +
+  labs(y="Average TF", x="Group Type") +
+  theme(text=element_text(size=12, face = "bold",  family="serif")) + 
+  theme(axis.text.x = element_text(size=12, family="serif"),
+          axis.text.y = element_text(size=12, family = "serif"))
 
+graph2 <-ggplot(Average_THEME_TYPE, aes(x=GROUP, y=avgL_TF, fill=THEME_TYPE)) +
+  geom_col(position=position_dodge2(preserve = "single")) +
+  scale_fill_brewer(palette="Set2") +
+  labs(y="Average Log TF", x="Group Type") +
+  theme(text=element_text(size=12,  face="bold", family="serif")) + 
+  theme(axis.text.x = element_text(size=12, family="serif"),
+          axis.text.y = element_text(size=12, family = "serif"))
 
-# Histogram of average log frequency per one of the 4 groups by theme (THEME data)
-graph2 <-ggplot(Average_THEME, aes(x=GROUP, y=avgL_TF, fill=THEME_TYPE)) +
-  geom_bar(stat="identity")+theme_minimal()
+ggarrange(graph1, graph2)
 
-# Histogram of average log frequency per one of the 4 groups by theme type (E/S/G) (THEME TYPE DATA)
+# Bar chart of average log frequency per Theme type, per Theme, per Mandatory/voluntary
+graph3 <- ggplot(Total_THEME_TYPE, aes(x=avgTF, y=reorder(THEME, avgTF), group=THEME_TYPE, fill=M)) +
+  geom_col(position=position_dodge2(preserve = "single")) +
+  scale_fill_brewer(palette="Set2") +
+  labs(y="Theme", x="Average TF") +
+  theme(text=element_text(size=12, face = "bold",  family="serif")) + 
+  theme(axis.text.x = element_text(size=12, family="serif"),
+          axis.text.y = element_text(size=12, family = "serif"))
 
+graph3
+
+graph4 <- ggplot(Total_THEME_TYPE, aes(x=avgL_TF, y=reorder(THEME, avgL_TF), group=THEME_TYPE, fill=M)) +
+  geom_col(position=position_dodge2(preserve = "single")) +
+  scale_fill_brewer(palette="Set2") +
+  labs(y="Theme", x="Average Log TF") +
+  theme(text=element_text(size=12, face = "bold",  family="serif")) + 
+  theme(axis.text.x = element_text(size=12, family="serif"),
+          axis.text.y = element_text(size=12, family = "serif"))
+
+graph4
+
+ggarrange(graph3, graph4)
 ```
 
 ## Regression
 Regression models are made to analyze average frequency of ESG key topics between mandatory and voluntary regulations. Controls are added for ESG metric (on an ESG level and on a theme level) and for the GROUP TYPE (E,G, ESG), and if there is a stock exchange that has ESG reporting as a ESG listing rule in the region that the document applies to.  
+```{r}
+# Inspect the distribution of the dependent variable
+hist(Keywords_Sample$NTF)
+hist(Keywords_Sample$L_TF)
+```
+
 ```{r}
 # Set base variable for the dummy variables in the regression for easier interpretation
 Keywords_Sample <- droplevels(Keywords_Sample)
@@ -1649,84 +2137,76 @@ Keywords_Sample <- Keywords_Sample %>%
          THEME=relevel(THEME, ref = "Governing purpose"))
          
 # TF as dependent variable
-Modelesg1 <- lm(TF~M, data = Keywords_Sample)
-Modelesg2 <- lm(TF~M+GROUP_TYPE, data = Keywords_Sample)
-Modelesg3 <- lm(TF~M+GROUP_TYPE+THEME_Type, data = Keywords_Sample)
-Modelesg4 <- lm(TF~M+GROUP_TYPE+THEME, data = Keywords_Sample)
-Modelesg5 <- lm(TF~M+GROUP_TYPE+THEME_Type+ESG_LISTING_RULE, data = Keywords_Sample)
-Modelesg6 <- lm(TF~M+GROUP_TYPE+THEME+ESG_LISTING_RULE, data = Keywords_Sample)
+Modelesg1 <- lm(NTF~M, data = Keywords_Sample)
+Modelesg2 <- lm(NTF~M+GROUP_TYPE, data = Keywords_Sample)
+Modelesg3 <- lm(NTF~M+GROUP_TYPE+THEME_TYPE, data = Keywords_Sample)
+Modelesg4 <- lm(NTF~M+GROUP_TYPE+THEME, data = Keywords_Sample)
+Modelesg5 <- lm(NTF~M+GROUP_TYPE+THEME+ESG_LISTING_RULE, data = Keywords_Sample)
 
 # LOG TF as dependent variable (control for large documents)
-Modelesg7 <- lm(L_TF~M, data = Keywords_Sample)
-Modelesg8 <- lm(L_TF~M+GROUP_TYPE, data = Keywords_Sample)
-Modelesg9 <- lm(L_TF~M+GROUP_TYPE+THEME_Type, data = Keywords_Sample)
-Modelesg10 <- lm(L_TF~M+GROUP_TYPE+THEME, data = Keywords_Sample)
-Modelesg11 <- lm(L_TF~M+GROUP_TYPE+THEME_Type+ESG_LISTING_RULE, data = Keywords_Sample)
-Modelesg12 <- lm(L_TF~M+GROUP_TYPE+THEME+ESG_LISTING_RULE, data = Keywords_Sample)
+Modelesg11 <- lm(L_TF~M, data = Keywords_Sample)
+Modelesg22 <- lm(L_TF~M+GROUP_TYPE, data = Keywords_Sample)
+Modelesg33 <- lm(L_TF~M+GROUP_TYPE+THEME_TYPE, data = Keywords_Sample)
+Modelesg44 <- lm(L_TF~M+GROUP_TYPE+THEME, data = Keywords_Sample)
+Modelesg55 <- lm(L_TF~M+GROUP_TYPE+THEME+ESG_LISTING_RULE, data = Keywords_Sample)
 
 # Get the results
-summary(modelesg1)
-summary(modelesg2)
-summary(modelesg3)
-summary(modelesg4)
-summary(modelesg5)
-summary(modelesg6)
+summary(Modelesg1)
+summary(Modelesg2)
+summary(Modelesg3)
+summary(Modelesg4)
+summary(Modelesg5)
 
-summary(modelesg7)
-summary(modelesg8)
-summary(modelesg9)
-summary(modelesg10)
-summary(modelesg11)
-summary(modelesg12)
+summary(Modelesg11)
+summary(Modelesg22)
+summary(Modelesg33)
+summary(Modelesg44)
+summary(Modelesg55)
 
-# Check with Log_TFIDF
-# LOG TFIDF as dependent variable (if there are ESG keywords within the theme that appear in a lot of other documents, the TF is adjusted downwards)
-Modelesg72 <- lm(LOG_TFIDF~M, data = Keywords_Sample)
-Modelesg82 <- lm(LOG_TFIDF~M+GROUP_TYPE, data = Keywords_Sample)
-Modelesg92 <- lm(LOG_TFIDF~M+GROUP_TYPE+THEME_Type, data = Keywords_Sample)
-Modelesg102 <- lm(LOG_TFIDF~M+GROUP_TYPE+THEME, data = Keywords_Sample)
-Modelesg112 <- lm(LOG_TFIDF~M+GROUP_TYPE+THEME_Type+ESG_LISTING_RULE, data = Keywords_Sample)
-Modelesg122 <- lm(LOG_TFIDF~M+GROUP_TYPE+THEME+ESG_LISTING_RULE, data = Keywords_Sample)
+# Check interaction
+Modelesg_interaction <- lm(L_TF~M+GROUP_TYPE+THEME+M:THEME, data = Keywords_Sample)
+summary(Modelesg_interaction)
 
-# Get the results
-summary(modelesg12)
-summary(modelesg22)
-summary(modelesg32)
-summary(modelesg42)
-summary(modelesg52)
-summary(modelesg62)
 ```
 
 Get the results in a table. 
 ```{r}
-stargazer(modelesg1, modelesg2, modelesg3, modelesg4, modelesg5, modelesg6, type = 'text')
-stargazer(modelesg7, modelesg8, modelesg9, modelesg10, modelesg11, modelesg12, type = 'text')
-stargazer(modelesg12, modelesg22, modelesg32, modelesg42, modelesg52, modelesg62, type = 'text')
+stargazer(Modelesg1, Modelesg2, Modelesg3, Modelesg4, Modelesg5, type = 'text')
+stargazer(Modelesg11, Modelesg22, Modelesg33, Modelesg44, Modelesg55, type = 'text')
+```
+Check what happens if interaction between M and theme type is added. 
+```{r}
+stargazer(Modelesg_interaction, type='text')
 ```
 
-As a final check, the same regression models are calculated with robust standard errors. Robust standard errors do not influence the value of the coefficient, but can influence the signicance of a coefficient. It is a more conservatie standard error and can be used in case of hetereskedacity among the residual errors. To test if there may be hetereskedacity, the Breusch-Pagan test is applied(Breusch & Pagan, 1979)
+As a final check, the same regression models are calculated with robust standard errors. Robust standard errors do not influence the value of the coefficient, but can influence the significance of a coefficient. It is a more conservative standard error and can be used in case of heteroscedasticity among the residual errors. To test if there may be hetereskedacity, the Breusch-Pagan test is applied(Breusch & Pagan, 1979)
 
 T.S. Breusch & A.R. Pagan (1979), A Simple Test for Heteroscedasticity and Random Coefficient Variation. Econometrica 47, 1287--1294
 ```{r}
 ### Testing for heteroskedasticity and accounting for it in the SE
-
-modelesg1
+Modelesg44
 par(mfrow=c(2,2)) # get 4 charts in 1 panel
-plot(modelesg1)
+plot(Modelesg44)
 
-# Breusch-Pagan test against heteroskedasticity. H0 assumes homoskedacity under the residual errors. If rejected, there is heteroskedacity and too much variance is explained by additional explanatory variables. 
-lmtest::bptest(modelesg1)
-lmtest::bptest(modelesg2)
-lmtest::bptest(modelesg3)
-lmtest::bptest(modelesg4)
-lmtest::bptest(modelesg5)
-lmtest::bptest(modelesg6)
 
+# Breusch-Pagan test against heteroskedasticity. H0 assumes homoscedasticity under the residual errors. If rejected, there is heteroscedasticity and too much variance is explained by additional explanatory variables. 
+lmtest::bptest(Modelesg44)
+
+#Inspection  of  residuals (zero  mean  and  normal  distribution)
+resids_model <- residuals(Modelesg44)
+residuals <-data.frame(resids_model)
+stargazer(residuals , type="text")
+
+residual_histogram  <- ggplot(residuals , aes(resids_model))
+residual_histogram + geom_histogram () + labs(x = "Residual  Value", y = "Frequency")
+```
+
+```{r}
 # Remedy for heteroskedasticity: Use robust standard error. 
-seBasic <- sqrt (diag ( vcov(modelesg1)))
-sewhite <- sqrt (diag ( vcovHC(modelesg1, type="HC0")))
-seClust1 <- sqrt (diag ( vcovHC(modelesg1, cluster="GROUP_TYPE")))
-seClust2 <- sqrt (diag ( vcovHC(modelesg1, cluster="THEME_TYPE")))
+library(sandwich)
 
-stargazer(modelesg1, modelesg1, modelesg1, se=list(seBasic, sewhite, seClust1, seClust2), type="text")
+seBasic <- sqrt (diag ( vcov(Modelesg44)))
+sewhite <- sqrt (diag ( vcovHC(Modelesg44, type="HC0")))
+
+stargazer(Modelesg44, Modelesg44, se=list(seBasic, sewhite), type="text")
 ```
