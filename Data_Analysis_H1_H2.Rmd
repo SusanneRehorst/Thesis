@@ -33,13 +33,13 @@ load("Processed_Data.RData")
 load("Metrics_Data.RData")
 ```
 
-# Hypothesis 1: Quantity and Readability 
+# Hypothesis 1: Quantity
 The first hypothesis tests the differences in quantity and readability between mandatory and voluntary regulatory documents. 
 
 # Quantity
 
 ## Merging total words
-First of all, Descriptive_Data.RData is used to inspect the quantity of words and sentences. Especially ,the quantity of words needs to be adjusted, as the program qualifies some words as non-words. This is not correct, but this is caused by very long sentences without punctuation ending marks (e.g., periods, question mark). To fix this, a merge is done on the words and non-words. Merge the words and non-words. 
+First of all, Descriptive_Data.RData is used to inspect the quantity of words and sentences. Especially ,the quantity of words needs to be adjusted, as the program qualifies some words as non-words. This is not correct, but this is caused by very long sentences without punctuation ending marks (e.g., periods, question mark). To fix this, a merge is done on the words and non-words. 
 ```{r}
 Descriptive_Data$totalwords <- rowSums(Descriptive_Data[,c(4,5)])
 ```
@@ -106,8 +106,6 @@ DOC_Stats
 
 ## Level 2 merging
 Next, analysis is performed on group level. These summary statistics give more insights into group level. The average amount of words and sentences can give an indication if there is a difference between the amount of mandatory and voluntary regulations.
-
-Note that Governance-Mandatory group contains the governance regulations, and that there were no mandatory ES regulations for these regulations. This was not the initial goal, but after merging, all other countries that have some mandatory ES regulation always directly refer to their existing G regulation, and therefore they are then merged. 
 
 ```{r}
 # Group the data by Group_ID
@@ -196,15 +194,20 @@ plot2 <- ggplot(DOC_Quantity, aes(x = totalwords, fill = M)) +
   geom_density(alpha = 0.5) +
   theme(text=element_text(size=12,  family="serif"))
 
-plot3<- ggplot(Group_Quantity, aes(x = sentences, fill = M)) + 
-  geom_density(alpha = 0.5) +
-  theme(text=element_text(size=12,  family="serif"))
+plot3<- ggplot(ESG_Group_Quantity, aes(x = log(sentences), fill=M)) + 
+  geom_density(alpha = 0.5) + 
+  labs(y= "density", x = "number of sentences") +
+  theme(text=element_text(size=15,  family="serif")) +
+  ggtitle("4.1a Sentence distribution ESG reporting standards")
 
-plot4 <- ggplot(Group_Quantity, aes(x = totalwords, fill = M)) + 
+plot4 <- ggplot(ESG_Group_Quantity, aes(x =log(totalwords), fill=M)) + 
   geom_density(alpha = 0.5) +
-  theme(text=element_text(size=12,  family="serif"))
+  labs(y= "density", x = "number of words") +
+  theme(text=element_text(size=15,  family="serif")) + 
+  ggtitle("4.1b Word distribution ESG reporting standards")
 
 ggarrange(plot1, plot2, plot3, plot4)
+ggarrange(plot3, plot4)
 ```
 
 Regression models are used to see if difference in average quantity between mandatory and voluntary documents is significant. This is done on a group level, as groups are the least influenced by scattering of documents across different sources. The first 4 models look at document level and control for the different doc type. The models 5 to 8 look at group level and control for group type. The models 9 to 12 look at group level and do a subset analysis to only compare mandatory and voluntary ESG. 
@@ -259,7 +262,7 @@ summary(model11)
 summary(model12)
 ```
 
-# Readability
+# H2a Linguistic characteristics: Readability
 
 ## Correct for non-words
 This section analyzes the differences in readability score between groups. First of all, there are 7 out of of 70 cases removed where the amount of non-words > 0. When non-words >0, this is an indication that the software was not able to correctly identify sentences and words. This is due to long lists where terms are summed up, but do not contain a punctuation ending mark. As a consequence, readability scores use the wrong amount of words and sentences and are therefore not correct.  
@@ -290,22 +293,56 @@ The difference in readability score between mandatory and voluntary documents is
 ```{r}
 # Plots comparing distribution of mandatory vs voluntary
 plot1<- ggplot(Readability, aes(x = gl, fill = M)) + 
-  geom_density(alpha = 0.5) +
+  geom_density(alpha = 0.5) + labs(y= "density", x = "FK Readability Score") + ggtitle("4.2a Distribution FK Score - Group Level 1")
   theme(text=element_text(size=12,  family="serif"))
 
 plot2 <- ggplot(Readability, aes(x = ari, fill = M)) + 
-  geom_density(alpha = 0.5) +
+  geom_density(alpha = 0.5) + labs(y= "density", x = "AR Readability Index") + ggtitle("4.2b Distribution AR Index - Group Level 1")
   theme(text=element_text(size=12,  family="serif"))
 
-plot3<- ggplot(Readability, aes(x = smog, fill = M)) + 
-  geom_density(alpha = 0.5) +
+plot3 <- ggplot(Readability, aes(x = cl, fill = M)) + 
+  geom_density(alpha = 0.5) + labs(y= "density", x = "CL Readability Index") + ggtitle("4.2c Distribution CL Index - Group Level 1")
   theme(text=element_text(size=12,  family="serif"))
 
-plot4 <- ggplot(Readability, aes(x = cl, fill = M)) + 
-  geom_density(alpha = 0.5) +
+plot4<- ggplot(Group_Readability, aes(x = gl, fill = M)) + 
+  geom_density(alpha = 0.5) + labs(y= "density", x = "FK Readability Score") + ggtitle("4.2d Distribution FK Score - Group Level 2")
   theme(text=element_text(size=12,  family="serif"))
 
-ggarrange(plot1, plot2, plot3, plot4)
+plot5 <- ggplot(Group_Readability, aes(x = ari, fill = M)) + 
+  geom_density(alpha = 0.5) + labs(y= "density", x = "AR Readability Index") + ggtitle("4.2e Distribution AR Index - Group Level 2")
+  theme(text=element_text(size=12,  family="serif"))
+
+plot6 <- ggplot(Group_Readability, aes(x = cl, fill = M)) + 
+  geom_density(alpha = 0.5) + labs(y= "density", x = "CL Readability Index") + ggtitle("4.2f Distribution CL Index - Group Level 2")
+  theme(text=element_text(size=12,  family="serif"))
+
+plot11<- ggplot(Readability, aes(x = log(gl), fill = M)) + 
+  geom_density(alpha = 0.5) + labs(y= "density", x = "FK Readability Score") + ggtitle("4.2a Distribution FK Score - Group Level 1")
+  theme(text=element_text(size=12,  family="serif"))
+
+plot21 <- ggplot(Readability, aes(x = log(ari), fill = M)) + 
+  geom_density(alpha = 0.5) + labs(y= "density", x = "AR Readability Index") + ggtitle("4.2b Distribution AR Index - Group Level 1")
+  theme(text=element_text(size=12,  family="serif"))
+
+plot31 <- ggplot(Readability, aes(x = log(cl), fill = M)) + 
+  geom_density(alpha = 0.5) + labs(y= "density", x = "CL Readability Index") + ggtitle("4.2c Distribution CL Index - Group Level 1")
+  theme(text=element_text(size=12,  family="serif"))
+
+plot41<- ggplot(Group_Readability, aes(x = log(gl), fill = M)) + 
+  geom_density(alpha = 0.5) + labs(y= "density", x = "FK Readability Score") + ggtitle("4.2d Distribution FK Score - Group Level 2")
+  theme(text=element_text(size=12,  family="serif"))
+
+plot51 <- ggplot(Group_Readability, aes(x = log(ari), fill = M)) + 
+  geom_density(alpha = 0.5) + labs(y= "density", x = "AR Readability Index") + ggtitle("4.2e Distribution AR Index - Group Level 2")
+  theme(text=element_text(size=12,  family="serif"))
+
+plot61 <- ggplot(Group_Readability, aes(x = log(cl), fill = M)) + 
+  geom_density(alpha = 0.5) + labs(y= "density", x = "CL Readability Index") + ggtitle("4.2f Distribution CL Index - Group Level 2")
+  theme(text=element_text(size=12,  family="serif"))
+  
+  
+ggarrange(plot1, plot2, plot3, plot4, plot5, plot6)
+ggarrange(plot11, plot21, plot31, plot41, plot51,plot61)
 ```
 
 Regression models: 
@@ -617,8 +654,8 @@ summary(modelx163)
 summary(modelx173)
 ```
 
-#H2. Linguistic Characteristics
-The second hypothesis aims to test differences in linguistic characteristics between texts. This is done by counting the amount of certain words. It is expected that the average amount of restrictive words, action words, negative and positive strong words, and exemption words is significantly higher among mandatory documents. On the other hand, it is expected that the average amount of advice words, example words and framework words is significantly higher among voluntary documents. It is expected that voluntary documents have a more guiding character and use less direct and restrictive language. Regarding international frameworks, it is examined which one is most referred to.  
+#H2b & H2c. Linguistic Characteristics - Restrictiveness
+H2b and H2c aim to test differences in linguistic characteristics between texts. This is done by counting the amount of certain words. It is expected that the average amount of restrictive words, action words, negative and positive strong words, and exemption words is significantly higher among mandatory documents. On the other hand, it is expected that the average amount of advice words, example words and framework words is significantly higher among voluntary documents. It is expected that voluntary documents have a more guiding character and use less direct and restrictive language. Regarding international frameworks, it is examined which one is most referred to.  
 
 # Count relative amount of words
 As a first part of the analysis, the total number of words per word category is divided by the total number of words. This prevents a bias where large texts already contain a larger number of category words. Afterwards, this number is multiplied by 1000 for better interpretation. So, the amount of category words per 1000 words is the new measure that has been created. 
@@ -893,7 +930,7 @@ summary(fermodelyx17)
 ```
 
 ## Average Linguistic Characteristics: Mandatory vs Voluntary, subset by Group Type 
-As a final part of the analysis, the differences between mandatory and voluntary are examined, while sub-setting at group type. The concept of grouping documents is already explained in the Quantity analysis part of this document. By looking at average readability within a group, the overall linguistic characteristics of documents can be examined. So, a conclusion can be drawn on how restrictive mandatory ESG documentation compared to voluntary ESG documentation is.
+As a final part of the analysis, the differences between mandatory and voluntary are examined, while sub-setting at group type. The concept of grouping documents is already explained in the Quantity analysis part of this document. By looking at averages within a group, the overall linguistic characteristics of documents can be examined. So, a conclusion can be drawn on how restrictive mandatory ESG documentation compared to voluntary ESG documentation is.
 ```{r}
 # Group the data by Group_ID
 Group_R <- R_Data %>%
@@ -1064,8 +1101,8 @@ frameworks_longT$variable <- as.factor(frameworks_longT$variable)
 ggplot(frameworks_longT, aes(factor(variable), value, fill=M)) + 
   geom_bar(stat="identity", position = "dodge") + 
   scale_fill_brewer(palette = "Set2") + 
-  labs(y= "Frequency per 1000 words", x = "Frameworks") +
-  theme(text=element_text(size=12,  family="serif")) + theme(axis.text.x=element_text(angle = 45, hjust = 1))
+  labs(y= "Frequency per 1000 words", x = "categories") +
+  theme(text=element_text(size=14,  family="serif")) + theme(axis.text.x=element_text(angle = 45, hjust = 1))
 ```
 
 The difference between groups is also tested for significance by performing a regression analysis.   

@@ -34,7 +34,7 @@ load("Metrics_Data.RData")
 # Robustness checks
 
 ## Robustness: Filter POS tags
-Check: As a robustness check, only nouns and adjectives are selected instead of also including verbs and adverbs. 
+Check: As a robustness check, only nouns and adjectives are selected instead of also including verbs and adverbs. This reduces the total text sample from 255246 tokens to 189908 tokens. 
 ```{r}
 Processed_Data <- Processed_Data[Processed_Data$upos=="NOUN"| Processed_Data$upos=="PROPN"| Processed_Data$upos=="ADJ", ]
 ```
