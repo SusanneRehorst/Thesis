@@ -2067,31 +2067,31 @@ Average_THEME_TYPE$GROUP <- paste(Average_THEME_TYPE$GROUP_TYPE,"_",Average_THEM
 library(ggplot2)
 library(ggpubr)
 
-# Bar chart of average log frequency per one of the 4 groups by theme (THEME data)
+# Bar chart of average log frequency per one of the 4 groups by theme type (THEME data)
 graph1 <-ggplot(Average_THEME_TYPE, aes(x=GROUP, y=avgTF, fill=THEME_TYPE)) +
   geom_col(position=position_dodge2(preserve = "single")) +
   scale_fill_brewer(palette="Set2") +
   labs(y="Average TF", x="Group Type") +
-  theme(text=element_text(size=12, face = "bold",  family="serif")) + 
+  theme(text=element_text(size=12, family="serif")) + 
   theme(axis.text.x = element_text(size=12, family="serif"),
           axis.text.y = element_text(size=12, family = "serif"))
 
 graph2 <-ggplot(Average_THEME_TYPE, aes(x=GROUP, y=avgL_TF, fill=THEME_TYPE)) +
   geom_col(position=position_dodge2(preserve = "single")) +
   scale_fill_brewer(palette="Set2") +
-  labs(y="Average Log TF", x="Group Type") +
-  theme(text=element_text(size=12,  face="bold", family="serif")) + 
-  theme(axis.text.x = element_text(size=12, family="serif"),
-          axis.text.y = element_text(size=12, family = "serif"))
+  labs(y="Average LOG_TF", x="Group Type") +
+  theme(text=element_text(size=16,  family="serif")) + 
+  theme(axis.text.x = element_text(size=16, family="serif"),
+          axis.text.y = element_text(size=16, family = "serif")) + ggtitle("4.4a Theme Type frequency")
 
 ggarrange(graph1, graph2)
 
-# Bar chart of average log frequency per Theme type, per Theme, per Mandatory/voluntary
+# Bar chart of average log frequency per Theme, per Mandatory/voluntary
 graph3 <- ggplot(Total_THEME_TYPE, aes(x=avgTF, y=reorder(THEME, avgTF), group=THEME_TYPE, fill=M)) +
   geom_col(position=position_dodge2(preserve = "single")) +
   scale_fill_brewer(palette="Set2") +
   labs(y="Theme", x="Average TF") +
-  theme(text=element_text(size=12, face = "bold",  family="serif")) + 
+  theme(text=element_text(size=12,family="serif")) + 
   theme(axis.text.x = element_text(size=12, family="serif"),
           axis.text.y = element_text(size=12, family = "serif"))
 
@@ -2100,14 +2100,15 @@ graph3
 graph4 <- ggplot(Total_THEME_TYPE, aes(x=avgL_TF, y=reorder(THEME, avgL_TF), group=THEME_TYPE, fill=M)) +
   geom_col(position=position_dodge2(preserve = "single")) +
   scale_fill_brewer(palette="Set2") +
-  labs(y="Theme", x="Average Log TF") +
-  theme(text=element_text(size=12, face = "bold",  family="serif")) + 
-  theme(axis.text.x = element_text(size=12, family="serif"),
-          axis.text.y = element_text(size=12, family = "serif"))
+  labs(y="Theme", x="Average LOG_TF") +
+  theme(text=element_text(size=16, family="serif")) + 
+  theme(axis.text.x = element_text(size=16, family="serif"),
+          axis.text.y = element_text(size=16, family = "serif")) + ggtitle("4.4b Theme frequency")
 
 graph4
 
 ggarrange(graph3, graph4)
+ggarrange(graph2, graph4)
 ```
 
 ## Regression
@@ -2192,6 +2193,29 @@ stargazer(residuals , type="text")
 
 residual_histogram  <- ggplot(residuals , aes(resids_model))
 residual_histogram + geom_histogram () + labs(x = "Residual  Value", y = "Frequency")
+```
+```{r}
+# Inspect what the effect is on the results if outliers are removed
+Keywords_Sample_outliers <- Keywords_Sample
+Keywords_Sample_outliers$rowid <- seq.int(nrow(Keywords_Sample_outliers))
+Keywords_Sample_outliers <- Keywords_Sample_outliers[Keywords_Sample_outliers$rowid!=243 & Keywords_Sample_outliers$rowid!=252 & Keywords_Sample_outliers$rowid!=436, ]
+Modelesg44x <- lm(L_TF~M+GROUP_TYPE+THEME, data = Keywords_Sample_outliers)
+
+Modelesg44x
+par(mfrow=c(2,2)) # get 4 charts in 1 panel
+plot(Modelesg44x)
+
+
+# Breusch-Pagan test against heteroskedasticity. H0 assumes homoscedasticity under the residual errors. If rejected, there is heteroscedasticity and too much variance is explained by additional explanatory variables. 
+lmtest::bptest(Modelesg44x)
+
+#Inspection  of  residuals (zero  mean  and  normal  distribution)
+resids_model <- residuals(Modelesg44x)
+residuals <-data.frame(resids_model)
+stargazer(residuals , type="text")
+
+stargazer(Modelesg44x, type = "text")
+
 ```
 
 
